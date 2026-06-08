@@ -7,7 +7,7 @@ description: "Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erst
 
 ## Arbeitsbereich
 
-Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erstattung, IP und Haftung bei Health-Startups. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erstattung, IP und Haftung bei Health-Startups. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

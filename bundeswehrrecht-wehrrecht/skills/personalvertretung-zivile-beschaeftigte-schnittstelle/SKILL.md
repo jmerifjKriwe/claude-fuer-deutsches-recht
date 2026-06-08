@@ -1,13 +1,13 @@
 ---
 name: personalvertretung-zivile-beschaeftigte-schnittstelle
-description: "Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personalvertretung zivile Beschäftigte — Schnittstelle
 
 ## Arbeitsbereich
 
-Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

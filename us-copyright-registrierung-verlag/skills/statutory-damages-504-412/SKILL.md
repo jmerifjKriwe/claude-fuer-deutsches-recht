@@ -1,13 +1,13 @@
 ---
 name: statutory-damages-504-412
-description: "Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Statutory Damages und § 412 Timing
 
 ## Arbeitsbereich
 
-Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: china-strategie-bundesregierung-umsetzen
-description: "Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # China-Strategie der Bundesregierung: Unternehmensumsetzung
 
 ## Arbeitsbereich
 
-Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

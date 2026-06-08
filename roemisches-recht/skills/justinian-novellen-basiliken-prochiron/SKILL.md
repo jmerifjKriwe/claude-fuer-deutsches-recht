@@ -1,13 +1,13 @@
 ---
 name: justinian-novellen-basiliken-prochiron
-description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Justinianische Novellen und griechische Rechtskultur
 
 ## Arbeitsbereich
 
-Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

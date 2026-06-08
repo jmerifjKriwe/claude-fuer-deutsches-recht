@@ -1,13 +1,13 @@
 ---
 name: prozessstrategie-klageerhebung-gutachtenstil
-description: "Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' und Kosten-Nutzen-Rechnung im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' und Kosten-Nutzen-Rechnung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prozessstrategie-Memo
 
 ## Arbeitsbereich
 
-Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' und Kosten-Nutzen-Rechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' und Kosten-Nutzen-Rechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: third-vendor
-description: "Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Third-Party-Due-Diligence und Agenten-Untersuchung
 
 ## Arbeitsbereich
 
-Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

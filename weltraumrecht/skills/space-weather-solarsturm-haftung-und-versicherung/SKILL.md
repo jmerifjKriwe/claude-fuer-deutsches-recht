@@ -1,13 +1,13 @@
 ---
 name: space-weather-solarsturm-haftung-und-versicherung
-description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Space Weather: Solarsturm-Haftung und Versicherung
 
 ## Arbeitsbereich
 
-Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

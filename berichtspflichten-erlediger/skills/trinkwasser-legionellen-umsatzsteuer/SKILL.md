@@ -1,13 +1,13 @@
 ---
 name: trinkwasser-legionellen-umsatzsteuer
-description: "Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trinkwasser und Legionellenmeldung
 
 ## Arbeitsbereich
 
-Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: investment-case-tech
-description: "Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investment Case Legal Tech
 
 ## Arbeitsbereich
 
-Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

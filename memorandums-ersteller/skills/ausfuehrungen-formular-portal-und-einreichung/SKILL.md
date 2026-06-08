@@ -1,13 +1,13 @@
 ---
 name: ausfuehrungen-formular-portal-und-einreichung
-description: "Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik
 
 ## Arbeitsbereich
 
-Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

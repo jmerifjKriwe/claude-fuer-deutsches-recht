@@ -1,13 +1,13 @@
 ---
 name: venue-jurisdiction-core
-description: "Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Venue, Jurisdiction and Core Proceedings
 
 ## Arbeitsbereich
 
-Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

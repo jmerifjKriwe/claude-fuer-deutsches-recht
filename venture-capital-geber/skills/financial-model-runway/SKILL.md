@@ -7,7 +7,7 @@ description: "Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzier
 
 ## Arbeitsbereich
 
-Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzierungsbedarf und Bridge-Logik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzierungsbedarf und Bridge-Logik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

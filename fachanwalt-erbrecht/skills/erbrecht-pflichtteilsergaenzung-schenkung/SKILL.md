@@ -7,7 +7,7 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 ## Arbeitsbereich
 
-**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüfungslinien: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüfungslinien: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -32,7 +32,7 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 ### Pflichtteilsergänzungsanspruch § 2325 BGB
 
 ## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteilsergänzungsanspruch § 2325 BGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteilsergänzungsanspruch § 2325 BGB` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
 - **Verifizierte Anker:** BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteil, Entstehung und Verjährung bei postmortaler Vaterschaftsfeststellung); BGH, Beschluss vom 15.01.2025 - IV ZR 166/24 (Auskunftspflichten bei Pflichtteil/Testamentsvollstreckung); Rechtsprechung zu notariellen Nachlassverzeichnissen nur mit Aktenzeichen/Quelle ausgeben.
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
@@ -171,7 +171,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ### Testamentsvollstreckung
 
 ## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsvollstreckung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsvollstreckung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
 - **Verifizierte Anker:** BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteil, Entstehung und Verjährung bei postmortaler Vaterschaftsfeststellung); BGH, Beschluss vom 15.01.2025 - IV ZR 166/24 (Auskunftspflichten bei Pflichtteil/Testamentsvollstreckung); Rechtsprechung zu notariellen Nachlassverzeichnissen nur mit Aktenzeichen/Quelle ausgeben.
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
@@ -539,7 +539,7 @@ Anlagen: Beweise für Pflichtverletzungen
 ### Mediation / Vergleich bei Erbengemeinschaft
 
 ## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mediation / Vergleich bei Erbengemeinschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mediation / Vergleich bei Erbengemeinschaft` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
 - **Verifizierte Anker:** BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteil, Entstehung und Verjährung bei postmortaler Vaterschaftsfeststellung); BGH, Beschluss vom 15.01.2025 - IV ZR 166/24 (Auskunftspflichten bei Pflichtteil/Testamentsvollstreckung); Rechtsprechung zu notariellen Nachlassverzeichnissen nur mit Aktenzeichen/Quelle ausgeben.
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.

@@ -1,13 +1,13 @@
 ---
 name: laender-meldestellen
-description: "Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Länder Meldestellen
 
 ## Arbeitsbereich
 
-Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

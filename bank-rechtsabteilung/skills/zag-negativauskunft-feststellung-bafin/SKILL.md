@@ -1,13 +1,13 @@
 ---
 name: zag-negativauskunft-feststellung-bafin
-description: "ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZAG-Feststellung und Negativauskunft
 
 ## Arbeitsbereich
 
-ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

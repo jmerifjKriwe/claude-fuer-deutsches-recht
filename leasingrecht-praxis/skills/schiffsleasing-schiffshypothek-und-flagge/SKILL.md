@@ -1,13 +1,13 @@
 ---
 name: schiffsleasing-schiffshypothek-und-flagge
-description: "Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffsleasing: Schiffsregister, Schiffshypothek und Flagge
 
 ## Arbeitsbereich
 
-Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

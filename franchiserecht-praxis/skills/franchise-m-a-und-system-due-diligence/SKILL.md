@@ -1,13 +1,13 @@
 ---
 name: franchise-m-a-und-system-due-diligence
-description: "Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Franchise-M&A und System-Due-Diligence
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

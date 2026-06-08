@@ -1,13 +1,13 @@
 ---
 name: lebenslauf-luecken-und-widersprueche
-description: "Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lücken und Widersprüche
 
 ## Arbeitsbereich
 
-Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

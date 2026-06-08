@@ -1,13 +1,13 @@
 ---
 name: tls-pki-zertifikatsmanagement
-description: "Kontrolliert TLS, PKI und Zertifikatslebenszyklen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontrolliert TLS, PKI und Zertifikatslebenszyklen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TLS PKI Zertifikatsmanagement
 
 ## Arbeitsbereich
 
-Kontrolliert TLS, PKI und Zertifikatslebenszyklen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontrolliert TLS, PKI und Zertifikatslebenszyklen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

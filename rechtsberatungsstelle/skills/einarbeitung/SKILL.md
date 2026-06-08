@@ -1,13 +1,13 @@
 ---
 name: einarbeitung
-description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater Einarbeitung starten, ich bin neu in der Klinik, Einführung sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater Einarbeitung starten, ich bin neu in der Klinik, Einführung sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einarbeitung: Semestereinarbeitung
 
 ## Arbeitsbereich
 
-Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Fae
 
 ## Arbeitsbereich
 
-Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

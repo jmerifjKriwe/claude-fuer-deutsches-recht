@@ -1,13 +1,13 @@
 ---
 name: artemis-accords-und-verhaeltnis-zu-un-vertraegen
-description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen
 
 ## Arbeitsbereich
 
-Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

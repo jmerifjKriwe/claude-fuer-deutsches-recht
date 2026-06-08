@@ -1,13 +1,13 @@
 ---
 name: fristverlaengerung-pruefungsleistung
-description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristverlängerung Prüfungsleistung
 
 ## Arbeitsbereich
 
-Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

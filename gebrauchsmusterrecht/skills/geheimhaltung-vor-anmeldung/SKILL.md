@@ -1,13 +1,13 @@
 ---
 name: geheimhaltung-vor-anmeldung
-description: "Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geheimhaltung Vor Anmeldung
 
 ## Arbeitsbereich
 
-Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

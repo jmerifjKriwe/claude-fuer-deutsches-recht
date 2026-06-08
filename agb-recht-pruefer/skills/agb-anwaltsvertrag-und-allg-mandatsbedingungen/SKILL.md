@@ -1,13 +1,13 @@
 ---
 name: agb-anwaltsvertrag-und-allg-mandatsbedingungen
-description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Anwaltsvertrag Und Allg Mandatsbedingungen
 
 ## Arbeitsbereich
 
-AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: auslandszeiten-eu
-description: "Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # auslandszeiten-eu-ewr-schweiz
 
 ## Arbeitsbereich
 
-Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

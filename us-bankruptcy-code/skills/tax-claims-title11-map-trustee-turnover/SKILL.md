@@ -1,13 +1,13 @@
 ---
 name: tax-claims-title11-map-trustee-turnover
-description: "Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tax Claims in Bankruptcy
 
 ## Arbeitsbereich
 
-Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

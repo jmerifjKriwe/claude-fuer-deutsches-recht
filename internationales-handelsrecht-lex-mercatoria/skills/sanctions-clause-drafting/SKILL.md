@@ -1,13 +1,13 @@
 ---
 name: sanctions-clause-drafting
-description: "Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionsklauseln in internationalen Verträgen
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

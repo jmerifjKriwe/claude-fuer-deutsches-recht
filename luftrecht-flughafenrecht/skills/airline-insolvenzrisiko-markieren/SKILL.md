@@ -1,13 +1,13 @@
 ---
 name: airline-insolvenzrisiko-markieren
-description: "Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline – Insolvenzrisiko markieren
 
 ## Arbeitsbereich
 
-Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

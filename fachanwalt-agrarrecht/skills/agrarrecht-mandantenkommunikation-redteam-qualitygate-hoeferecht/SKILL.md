@@ -7,7 +7,7 @@ description: "Mandantenkommunikation Redteam Qualitygate Hoeferecht im Agrarrech
 
 ## Arbeitsbereich
 
-**Mandantenkommunikation Redteam Qualitygate Hoeferecht** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandantenkommunikation Redteam Qualitygate Hoeferecht** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

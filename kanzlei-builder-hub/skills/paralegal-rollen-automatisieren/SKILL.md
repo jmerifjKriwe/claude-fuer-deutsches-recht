@@ -1,13 +1,13 @@
 ---
 name: paralegal-rollen-automatisieren
-description: "Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetskontrolle durch Anwalt im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetskontrolle durch Anwalt im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Paralegal-Aufgaben automatisieren
 
 ## Arbeitsbereich
 
-Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetskontrolle durch Anwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetskontrolle durch Anwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

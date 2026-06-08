@@ -1,13 +1,13 @@
 ---
 name: hinweisen-kanzleien-pflegt
-description: "Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hinweisen: Formular, Portal und Einreichungslogik
 
 ## Arbeitsbereich
 
-Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

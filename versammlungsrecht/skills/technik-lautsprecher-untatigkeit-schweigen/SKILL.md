@@ -1,13 +1,13 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Technik dient der Kommunikation
 
 ## Arbeitsbereich
 
-Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

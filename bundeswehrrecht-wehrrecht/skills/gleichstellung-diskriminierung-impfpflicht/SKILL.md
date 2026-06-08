@@ -1,13 +1,13 @@
 ---
 name: gleichstellung-diskriminierung-impfpflicht
-description: "Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten
 
 ## Arbeitsbereich
 
-Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch 
 
 ## Arbeitsbereich
 
-Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

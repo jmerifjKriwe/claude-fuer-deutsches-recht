@@ -1,13 +1,13 @@
 ---
 name: berufswechsel-angestellte-beweisnot
-description: "Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # berufswechsel-angestellte-selbstaendige-freiberufler
 
 ## Arbeitsbereich
 
-Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

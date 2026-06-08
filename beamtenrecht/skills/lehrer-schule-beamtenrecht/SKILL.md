@@ -1,13 +1,13 @@
 ---
 name: lehrer-schule-beamtenrecht
-description: "Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lehrer Schule Beamtenrecht
 
 ## Arbeitsbereich
 
-Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

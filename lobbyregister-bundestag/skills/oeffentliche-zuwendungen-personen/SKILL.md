@@ -1,13 +1,13 @@
 ---
 name: oeffentliche-zuwendungen-personen
-description: "Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Oeffentliche Zuwendungen
 
 ## Arbeitsbereich
 
-Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

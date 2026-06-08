@@ -1,13 +1,13 @@
 ---
 name: gymnasialempfehlung-uebergang-handyverbot
-description: "Prüft Übergang Grundschule zu weiterführender Schule im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Übergang Grundschule zu weiterführender Schule im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gymnasialempfehlung Und Uebergang
 
 ## Arbeitsbereich
 
-Prüft Übergang Grundschule zu weiterführender Schule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Übergang Grundschule zu weiterführender Schule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

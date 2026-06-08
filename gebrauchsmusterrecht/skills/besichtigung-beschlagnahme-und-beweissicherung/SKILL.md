@@ -1,13 +1,13 @@
 ---
 name: besichtigung-beschlagnahme-und-beweissicherung
-description: "Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besichtigung Beschlagnahme Und Beweissicherung
 
 ## Arbeitsbereich
 
-Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: religioese-weltanschauliche-gruende
-description: "Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Religiöse und weltanschauliche Gründe
 
 ## Arbeitsbereich
 
-Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

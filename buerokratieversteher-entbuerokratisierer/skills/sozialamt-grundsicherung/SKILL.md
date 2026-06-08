@@ -1,13 +1,13 @@
 ---
 name: sozialamt-grundsicherung
-description: "Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sozialamt / Grundsicherung
 
 ## Arbeitsbereich
 
-Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

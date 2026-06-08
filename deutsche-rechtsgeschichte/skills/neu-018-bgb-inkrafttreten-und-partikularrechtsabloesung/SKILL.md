@@ -1,13 +1,13 @@
 ---
 name: neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung
-description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

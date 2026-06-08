@@ -7,7 +7,7 @@ description: "Vertical Restraints und VBER: Fachmodul für großes Kartellrecht 
 
 ## Arbeitsbereich
 
-Vertical Restraints und VBER: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertical Restraints und VBER: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

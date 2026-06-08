@@ -1,13 +1,13 @@
 ---
 name: legal-dd-red-financial-tax-commercial-contract-management
-description: "Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Legal DD: Red-Flag-Report für PE
 
 ## Arbeitsbereich
 
-Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

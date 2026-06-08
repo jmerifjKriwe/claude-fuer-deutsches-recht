@@ -7,7 +7,7 @@ description: "Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvorauss
 
 ## Arbeitsbereich
 
-Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied öffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied öffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

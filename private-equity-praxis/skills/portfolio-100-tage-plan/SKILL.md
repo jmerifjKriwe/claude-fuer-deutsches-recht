@@ -1,13 +1,13 @@
 ---
 name: portfolio-100-tage-plan
-description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Portfolio: 100-Tage-Plan Legal
 
 ## Arbeitsbereich
 
-Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

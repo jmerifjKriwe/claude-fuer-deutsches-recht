@@ -1,13 +1,13 @@
 ---
 name: stpo-biometrischer-internetabgleich-und-ki-ermittlung
-description: "StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik im Prozessrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung
 
 ## Arbeitsbereich
 
-StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

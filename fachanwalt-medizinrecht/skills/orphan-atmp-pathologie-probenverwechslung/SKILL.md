@@ -7,7 +7,7 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 
 ## Arbeitsbereich
 
-**Orphan Atmp Pathologie Probenverwechslung** ordnet den Fall über die tragenden Prüfungslinien: Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Orphan Atmp Pathologie Probenverwechslung** ordnet den Fall über die tragenden Prüfungslinien: Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

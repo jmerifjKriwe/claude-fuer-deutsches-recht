@@ -1,13 +1,13 @@
 ---
 name: marktueberwachung-kommunikation
-description: "Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Marktueberwachung-Kommunikation
 
 ## Arbeitsbereich
 
-Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

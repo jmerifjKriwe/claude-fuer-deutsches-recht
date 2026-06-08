@@ -1,13 +1,13 @@
 ---
 name: pitch-debrief
-description: "Analysiert gewonnene und verlorene Pitches ohne Selbstbetrug. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert gewonnene und verlorene Pitches ohne Selbstbetrug. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pitch Debrief
 
 ## Arbeitsbereich
 
-Analysiert gewonnene und verlorene Pitches ohne Selbstbetrug. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert gewonnene und verlorene Pitches ohne Selbstbetrug. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

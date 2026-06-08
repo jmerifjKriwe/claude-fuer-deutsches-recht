@@ -1,13 +1,13 @@
 ---
 name: psv-pensionssicherungsverein-und-haftungsketten
-description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung) im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PSV — Pensionssicherungsverein und Haftungsketten
 
 ## Arbeitsbereich
 
-PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sftf-elektronische-signatur-leitfaden
-description: "Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster für Vertraege und behoerdliche Verfahren im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster für Vertraege und behoerdliche Verfahren im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SfTf: eIDAS-Signatur
 
 ## Arbeitsbereich
 
-Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster für Vertraege und behoerdliche Verfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster für Vertraege und behoerdliche Verfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schatten-ki-und-team-policy
-description: "Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schatten-KI und Kanzlei-Team-Policy
 
 ## Arbeitsbereich
 
-Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

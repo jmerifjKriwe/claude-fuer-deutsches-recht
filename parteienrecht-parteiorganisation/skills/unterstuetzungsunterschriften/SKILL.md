@@ -1,13 +1,13 @@
 ---
 name: unterstuetzungsunterschriften
-description: "Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterstützungsunterschriften
 
 ## Arbeitsbereich
 
-Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

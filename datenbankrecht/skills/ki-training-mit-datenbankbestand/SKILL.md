@@ -1,13 +1,13 @@
 ---
 name: ki-training-mit-datenbankbestand
-description: "Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken
 
 ## Arbeitsbereich
 
-Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

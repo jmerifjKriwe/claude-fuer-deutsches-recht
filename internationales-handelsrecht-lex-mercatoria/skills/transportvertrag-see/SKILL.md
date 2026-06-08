@@ -1,13 +1,13 @@
 ---
 name: transportvertrag-see
-description: "Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seetransportrecht: Haag-Visby, Hamburg, Rotterdam
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

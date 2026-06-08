@@ -1,13 +1,13 @@
 ---
 name: energy-infrastructure-pe
-description: "Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energy/Infrastructure PE
 
 ## Arbeitsbereich
 
-Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

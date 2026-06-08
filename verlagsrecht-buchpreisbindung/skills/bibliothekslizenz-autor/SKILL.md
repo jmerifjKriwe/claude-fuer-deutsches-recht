@@ -7,7 +7,7 @@ description: "Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — U
 
 ## Arbeitsbereich
 
-Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: missbrauchsaufsicht-tk-mitnutzung
-description: "Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TK-Missbrauchsaufsicht als Sonderkartellrecht
 
 ## Arbeitsbereich
 
-Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

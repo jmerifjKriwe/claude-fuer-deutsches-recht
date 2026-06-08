@@ -7,7 +7,7 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüfungslinien: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüfungslinien: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

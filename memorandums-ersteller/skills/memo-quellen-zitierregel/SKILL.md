@@ -1,13 +1,13 @@
 ---
 name: memo-quellen-zitierregel
-description: "Quellenzitate im Memo nach deutscher Hauszitierweise v4: Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; Literatur, Kommentare und Datenbankfundstellen nur bei Nutzerquelle oder dokumentiertem Live-Zugriff im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quellenzitate im Memo nach deutscher Hauszitierweise v4: Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; Literatur, Kommentare und Datenbankfundstellen nur bei Nutzerquelle oder dokumentiertem Live-Zugriff im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo: Quellen-Zitierregel
 
 ## Arbeitsbereich
 
-Quellenzitate im Memo nach deutscher Hauszitierweise v4: Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; Literatur, Kommentare und Datenbankfundstellen nur bei Nutzerquelle oder dokumentiertem Live-Zugriff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quellenzitate im Memo nach deutscher Hauszitierweise v4: Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; Literatur, Kommentare und Datenbankfundstellen nur bei Nutzerquelle oder dokumentiertem Live-Zugriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

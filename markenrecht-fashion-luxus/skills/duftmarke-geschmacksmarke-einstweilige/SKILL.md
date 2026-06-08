@@ -1,13 +1,13 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Duftmarken und Geschmacksmarken
 
 ## Arbeitsbereich
 
-Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nachhaltigkeit-klimacheck-one
-description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
 
 ## Arbeitsbereich
 
-Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

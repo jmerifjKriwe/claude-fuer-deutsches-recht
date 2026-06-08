@@ -7,7 +7,7 @@ description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Trans CMR Frachtbrief HGB Spedition Kabotage** ordnet den Fall über die tragenden Prüfungslinien: Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Trans CMR Frachtbrief HGB Spedition Kabotage** ordnet den Fall über die tragenden Prüfungslinien: Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: automotive-design-und-ersatzteile
-description: "Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Automotive Design Und Ersatzteile
 
 ## Arbeitsbereich
 
-Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Kranken- und Rentenversicherung über die KSK (KSVG): Versicherung
 
 ## Arbeitsbereich
 
-Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

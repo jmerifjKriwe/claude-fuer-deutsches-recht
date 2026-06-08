@@ -1,13 +1,13 @@
 ---
 name: partner-kommentar-umsetzen
-description: "Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Partner-Kommentar Umsetzen
 
 ## Arbeitsbereich
 
-Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

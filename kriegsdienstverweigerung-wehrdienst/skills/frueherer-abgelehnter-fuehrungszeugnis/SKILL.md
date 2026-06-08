@@ -1,13 +1,13 @@
 ---
 name: frueherer-abgelehnter-fuehrungszeugnis
-description: "Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Früherer abgelehnter Antrag
 
 ## Arbeitsbereich
 
-Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

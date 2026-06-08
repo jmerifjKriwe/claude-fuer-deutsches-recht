@@ -1,13 +1,13 @@
 ---
 name: legal-knowledge-capture-law-firm-engineer
-description: "Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Knowledge Capture
 
 ## Arbeitsbereich
 
-Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

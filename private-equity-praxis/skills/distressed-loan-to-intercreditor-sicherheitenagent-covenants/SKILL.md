@@ -1,13 +1,13 @@
 ---
 name: distressed-loan-to-intercreditor-sicherheitenagent-covenants
-description: "Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Distressed Debt und Loan-to-Own
 
 ## Arbeitsbereich
 
-Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

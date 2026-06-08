@@ -1,13 +1,13 @@
 ---
 name: befehl-verweigern-gewissensnot-rechtswidrigkeit
-description: "Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
 
 ## Arbeitsbereich
 
-Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

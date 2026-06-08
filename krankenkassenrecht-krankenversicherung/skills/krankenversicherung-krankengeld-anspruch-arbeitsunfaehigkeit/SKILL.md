@@ -7,7 +7,7 @@ description: "Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbeschein
 
 ## Arbeitsbereich
 
-Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

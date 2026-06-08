@@ -1,13 +1,13 @@
 ---
 name: beteiligungserwerb-bank-ma
-description: "Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beteiligung und M&A
 
 ## Arbeitsbereich
 
-Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

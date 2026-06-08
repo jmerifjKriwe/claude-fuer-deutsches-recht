@@ -1,13 +1,13 @@
 ---
 name: chapter7-asset-distribution
-description: "Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 7 Assets and Distribution
 
 ## Arbeitsbereich
 
-Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

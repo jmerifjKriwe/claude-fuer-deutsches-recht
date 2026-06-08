@@ -7,12 +7,12 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 
 ## Arbeitsbereich
 
-**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan. |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung. |
 | `expansion-aktualisierung` | Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll. |
@@ -28,12 +28,12 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 
 ## 1. `betriebsrat-ladung-und-ersatzmitglieder-pruefen`
 
-**Fokus:** Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Betriebsrat Ladung Und Ersatzmitglieder Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Betriebsrat — Ladung und Ersatzmitglieder prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsrat — Ladung und Ersatzmitglieder prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsrat — Ladung und Ersatzmitglieder prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -180,7 +180,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 ### Betriebsübergang § 613a BGB prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsübergang § 613a BGB prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsübergang § 613a BGB prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -382,7 +382,7 @@ Zitierstandard: `../references/zitierweise.md`.
 ### /arbeitsrecht:einstellungsprüfung
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:einstellungsprüfung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:einstellungsprüfung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -552,7 +552,7 @@ Handlungsempfehlungen:
 ### Expansions-Update (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Update (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Update (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

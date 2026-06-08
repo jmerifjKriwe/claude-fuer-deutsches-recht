@@ -1,13 +1,13 @@
 ---
 name: kandidatenloesung-subsumtion-pruefen
-description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kandidatenlösung auf Subsumtion prüfen
 
 ## Arbeitsbereich
 
-Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

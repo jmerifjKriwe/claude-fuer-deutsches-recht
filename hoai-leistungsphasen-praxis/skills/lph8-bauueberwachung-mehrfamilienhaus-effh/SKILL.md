@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-mehrfamilienhaus-effh
-description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Mehrfamilienhaus Energieeffizienzgebaeude (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

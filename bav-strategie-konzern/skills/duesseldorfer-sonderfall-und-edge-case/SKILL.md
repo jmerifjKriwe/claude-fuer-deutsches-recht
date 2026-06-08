@@ -1,13 +1,13 @@
 ---
 name: duesseldorfer-sonderfall-und-edge-case
-description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Duesseldorfer: Sonderfall und Edge-Case-Prüfung
 
 ## Arbeitsbereich
 
-Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

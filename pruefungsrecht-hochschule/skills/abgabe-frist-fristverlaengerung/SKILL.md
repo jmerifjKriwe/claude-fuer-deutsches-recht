@@ -1,13 +1,13 @@
 ---
 name: abgabe-frist-fristverlaengerung
-description: "Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abgabe Frist Upload
 
 ## Arbeitsbereich
 
-Prüft Abgabe, Frist, Upload und Zugang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Abgabe, Frist, Upload und Zugang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

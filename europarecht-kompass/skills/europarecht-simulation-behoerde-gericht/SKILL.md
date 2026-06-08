@@ -1,13 +1,13 @@
 ---
 name: europarecht-simulation-behoerde-gericht
-description: "Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Simulation Behörde, Gericht und Kommission
 
 ## Arbeitsbereich
 
-Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

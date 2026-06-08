@@ -1,13 +1,13 @@
 ---
 name: waffenbesitz-jagd-wahrheitspflicht
-description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Waffenbesitz und Schützenverein
 
 ## Arbeitsbereich
 
-Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: heilfuersorge-ruhestand-vs
-description: "Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # heilfürsorge-ruhestand-pkv-anwartschaft
 
 ## Arbeitsbereich
 
-Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

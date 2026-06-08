@@ -1,13 +1,13 @@
 ---
 name: bafin-pruefung-vor-ort-management
-description: "Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüfung vor Ort managen
 
 ## Arbeitsbereich
 
-Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EUIPO-Widerspruchsverfahren
 
 ## Arbeitsbereich
 
-EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: slogan-marke
-description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Slogan-Marken für Luxus-Mode
 
 ## Arbeitsbereich
 
-Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: wasserrecht-und-wrrl
-description: "Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wasserrecht Und Wrrl
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

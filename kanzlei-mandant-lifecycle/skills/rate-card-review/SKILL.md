@@ -1,13 +1,13 @@
 ---
 name: rate-card-review
-description: "Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rate Card Review
 
 ## Arbeitsbereich
 
-Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

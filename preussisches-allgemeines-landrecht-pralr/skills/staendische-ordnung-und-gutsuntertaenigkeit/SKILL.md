@@ -7,7 +7,7 @@ description: "PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zun
 
 ## Arbeitsbereich
 
-PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

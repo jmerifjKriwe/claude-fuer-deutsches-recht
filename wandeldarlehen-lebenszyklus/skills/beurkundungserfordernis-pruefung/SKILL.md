@@ -1,13 +1,13 @@
 ---
 name: beurkundungserfordernis-pruefung
-description: "Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beurkundungserfordernis-Prüfung
 
 ## Arbeitsbereich
 
-Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

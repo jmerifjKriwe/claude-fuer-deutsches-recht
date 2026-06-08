@@ -1,13 +1,13 @@
 ---
 name: infostand-sondernutzung
-description: "Wahlkampfrecht Praxis: Infostaende auf öffentlichen Flaechen planen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Infostaende auf öffentlichen Flaechen planen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Infostand Sondernutzung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Infostaende auf öffentlichen Flaechen planen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Infostaende auf öffentlichen Flaechen planen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: patentsettlement-und-cross-license-litigation
-description: "Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patentvergleich und Cross-License im Streit
 
 ## Arbeitsbereich
 
-Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

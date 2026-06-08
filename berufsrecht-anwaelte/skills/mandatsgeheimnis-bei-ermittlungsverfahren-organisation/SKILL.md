@@ -1,13 +1,13 @@
 ---
 name: mandatsgeheimnis-bei-ermittlungsverfahren-organisation
-description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Arbeitsbereich
 
-Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

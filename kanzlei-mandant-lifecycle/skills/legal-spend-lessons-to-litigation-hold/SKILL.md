@@ -1,13 +1,13 @@
 ---
 name: legal-spend-lessons-to-litigation-hold
-description: "Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Legal Spend und Accruals
 
 ## Arbeitsbereich
 
-Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

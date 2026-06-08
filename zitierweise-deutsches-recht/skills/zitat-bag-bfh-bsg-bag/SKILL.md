@@ -1,13 +1,13 @@
 ---
 name: zitat-bag-bfh-bsg-bag
-description: "Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521 im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521 im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fachgerichtsbarkeit zitieren
 
 ## Arbeitsbereich
 
-Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

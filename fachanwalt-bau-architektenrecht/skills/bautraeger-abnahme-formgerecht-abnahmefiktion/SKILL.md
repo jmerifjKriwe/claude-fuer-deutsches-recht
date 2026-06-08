@@ -7,7 +7,7 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Bautraeger Abnahme Formgerecht Abnahmefiktion** ordnet den Fall über die tragenden Prüfungslinien: Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bautraeger Abnahme Formgerecht Abnahmefiktion** ordnet den Fall über die tragenden Prüfungslinien: Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

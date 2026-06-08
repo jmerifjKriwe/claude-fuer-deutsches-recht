@@ -1,13 +1,13 @@
 ---
 name: krankheitskosten-beihilfe-pkv-widerspruch
-description: "Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # krankheitskosten-beihilfe-pkv-widerspruch
 
 ## Arbeitsbereich
 
-Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

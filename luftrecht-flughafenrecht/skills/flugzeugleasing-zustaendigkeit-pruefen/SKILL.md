@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-zustaendigkeit-pruefen
-description: "Flugzeugleasing-Mandat: unklar welche Behörde zuständig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zuständigkeits-Vermerk für Wet-Dry-Finance-Lease-Situationen im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flugzeugleasing-Mandat: unklar welche Behörde zuständig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zuständigkeits-Vermerk für Wet-Dry-Finance-Lease-Situationen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Zuständigkeit prüfen
 
 ## Arbeitsbereich
 
-Flugzeugleasing-Mandat: unklar welche Behörde zuständig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zuständigkeits-Vermerk für Wet-Dry-Finance-Lease-Situationen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flugzeugleasing-Mandat: unklar welche Behörde zuständig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zuständigkeits-Vermerk für Wet-Dry-Finance-Lease-Situationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

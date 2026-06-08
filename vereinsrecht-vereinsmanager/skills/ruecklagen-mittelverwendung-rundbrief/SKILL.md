@@ -1,13 +1,13 @@
 ---
 name: ruecklagen-mittelverwendung-rundbrief
-description: "Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rücklagen und Mittelverwendung
 
 ## Arbeitsbereich
 
-Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

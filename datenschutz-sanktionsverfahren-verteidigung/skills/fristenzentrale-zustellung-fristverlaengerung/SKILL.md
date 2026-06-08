@@ -7,7 +7,7 @@ description: "Fristenzentrale Zustellung Fristverlaengerung im Datenschutz-Sankt
 
 ## Arbeitsbereich
 
-**Fristenzentrale Zustellung Fristverlaengerung** ordnet den Fall über die tragenden Prüfungslinien: Fristenzentrale Zustellung und Wiedervorlage, Fristverlängerung gegenüber Aufsicht, GRCh-Verfahrensgrundrechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Fristenzentrale Zustellung Fristverlaengerung** ordnet den Fall über die tragenden Prüfungslinien: Fristenzentrale Zustellung und Wiedervorlage, Fristverlängerung gegenüber Aufsicht, GRCh-Verfahrensgrundrechte. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

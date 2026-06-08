@@ -1,6 +1,6 @@
 ---
 name: tatbestaende-lernen
-description: "Tatbestaende Lernen im Jurastudium im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatbestaende Lernen im Jurastudium im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tatbestaende Lernen

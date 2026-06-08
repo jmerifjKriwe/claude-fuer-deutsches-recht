@@ -1,13 +1,13 @@
 ---
 name: restructuring-starug-insolvenzplan
-description: "StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma im Corporate Kanzlei: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma im Corporate Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StaRUG und Insolvenzplan
 
 ## Arbeitsbereich
 
-StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schu
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `StaRUG und Insolvenzplan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `StaRUG und Insolvenzplan` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.

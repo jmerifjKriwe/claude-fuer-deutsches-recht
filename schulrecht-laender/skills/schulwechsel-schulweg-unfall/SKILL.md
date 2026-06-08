@@ -1,13 +1,13 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulwechsel
 
 ## Arbeitsbereich
 
-Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

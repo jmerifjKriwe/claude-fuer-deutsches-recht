@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-vertriebsrecht
-description: "Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter und Vertrieb
 
 ## Arbeitsbereich
 
-Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

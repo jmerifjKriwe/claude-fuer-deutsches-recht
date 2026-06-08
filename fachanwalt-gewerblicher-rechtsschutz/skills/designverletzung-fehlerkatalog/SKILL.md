@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Gewerblicher Rechtsschutz** 
 
 ## Fachspezifische Fehlerachsen
 
-- `abmahnung-bezuege-designg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fa-gewerblicher-rs-gr-abmahnung-portfolio`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `designverletzung-marken-widerspruch-markenanmeldung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dpma-interessen-einstweilige-euipo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-fao-gebrmg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `faevvollzug-gegnerische-faevvollzug-grenzueberschreitende`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `faevvollzug-parteibetrieb-gerichtsvollzieher-bea-elektronischer`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gewerblichen-markenanmeldung-markeng`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gewrechts-geschgehg-gewrechts-ki-faevvollzug-ev`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abmahnung-bezuege-designg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fa-gewerblicher-rs-gr-abmahnung-portfolio`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `designverletzung-marken-widerspruch-markenanmeldung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dpma-interessen-einstweilige-euipo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-fao-gebrmg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `faevvollzug-gegnerische-faevvollzug-grenzueberschreitende`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `faevvollzug-parteibetrieb-gerichtsvollzieher-bea-elektronischer`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gewerblichen-markenanmeldung-markeng`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gewrechts-geschgehg-gewrechts-ki-faevvollzug-ev`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

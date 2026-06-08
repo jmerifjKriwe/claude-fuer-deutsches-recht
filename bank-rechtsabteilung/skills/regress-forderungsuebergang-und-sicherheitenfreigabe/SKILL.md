@@ -1,13 +1,13 @@
 ---
 name: regress-forderungsuebergang-und-sicherheitenfreigabe
-description: "Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Regress, Forderungsübergang und Sicherheitenfreigabe
 
 ## Arbeitsbereich
 
-Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

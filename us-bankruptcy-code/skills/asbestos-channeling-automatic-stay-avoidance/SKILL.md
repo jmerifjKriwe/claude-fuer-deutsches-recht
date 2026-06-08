@@ -1,13 +1,13 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Asbestos Channeling Injunctions § 524(g)
 
 ## Arbeitsbereich
 
-Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

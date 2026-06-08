@@ -3,6 +3,8 @@ name: suedafrika-section-36-uebersicht
 description: Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhaeltnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Methodik und Constitutional Court Praxis.
 ---
 
+# Suedafrika Section 36 Uebersicht
+
 ## Normtext
 
 Section 36 Constitution of the Republic of South Africa 1996:

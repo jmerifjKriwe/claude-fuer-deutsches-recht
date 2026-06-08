@@ -1,13 +1,13 @@
 ---
 name: befangenheit-selbstanzeige
-description: "Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Befangenheit Selbstanzeige: Orientierung
 
 ## Arbeitsbereich
 
-Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

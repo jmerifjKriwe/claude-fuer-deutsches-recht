@@ -1,13 +1,13 @@
 ---
 name: freiwillige-und-aufwandsersatz
-description: "Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiwillige Und Aufwandsersatz
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

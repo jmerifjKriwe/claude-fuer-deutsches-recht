@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-gewerblicher-rechtsschutz
-description: "Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandat-Triage Gewerblicher Rechtsschutz
 
 ## Arbeitsbereich
 
-Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

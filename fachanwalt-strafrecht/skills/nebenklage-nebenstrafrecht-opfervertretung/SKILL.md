@@ -7,7 +7,7 @@ description: "Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft k
 
 ## Arbeitsbereich
 
-**Nebenklage Nebenstrafrecht Opfervertretung** ordnet den Fall über die tragenden Prüfungslinien: Nebenklage, Nebenstrafrecht, Opfervertretung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Nebenklage Nebenstrafrecht Opfervertretung** ordnet den Fall über die tragenden Prüfungslinien: Nebenklage, Nebenstrafrecht, Opfervertretung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

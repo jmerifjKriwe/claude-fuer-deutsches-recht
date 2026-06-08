@@ -1,13 +1,13 @@
 ---
 name: einwilligung-hinweis-datenschutz
-description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einwilligung-Hinweis-Datenschutz
 
 ## Arbeitsbereich
 
-Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

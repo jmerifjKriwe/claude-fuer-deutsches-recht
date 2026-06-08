@@ -3,6 +3,8 @@ name: schutzbereich-eingriff-rechtfertigung
 description: Dreischritt Schutzbereich Eingriff Rechtfertigung als Pruefungsaufbau vor der eigentlichen Verhaeltnismaessigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt.
 ---
 
+# Schutzbereich Eingriff Rechtfertigung
+
 ## Pruefungsaufbau
 
 Bevor du verhaeltnismaessig pruefst, klaere drei Vorfragen.

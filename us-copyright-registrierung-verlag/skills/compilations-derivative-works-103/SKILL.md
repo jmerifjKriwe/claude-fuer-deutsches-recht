@@ -1,13 +1,13 @@
 ---
 name: compilations-derivative-works-103
-description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Compilations und Derivative Works
 
 ## Arbeitsbereich
 
-Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

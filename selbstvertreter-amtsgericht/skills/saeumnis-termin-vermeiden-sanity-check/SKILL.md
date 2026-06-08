@@ -7,7 +7,7 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 ## Arbeitsbereich
 
-**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüfungslinien: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüfungslinien: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

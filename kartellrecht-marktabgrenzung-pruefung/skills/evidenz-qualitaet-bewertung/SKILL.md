@@ -7,7 +7,7 @@ description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege f�
 
 ## Arbeitsbereich
 
-Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege f체r eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation. Die Pr체fung konzentriert sich auf diese Pr체fungslinie und trennt Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.
+Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege f체r eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation. Arbeite entlang dieser konkreten Pr체fungslinie und trenne Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.
 
 ## Arbeitsweg
 

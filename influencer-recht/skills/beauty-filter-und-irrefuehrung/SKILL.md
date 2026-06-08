@@ -1,13 +1,13 @@
 ---
 name: beauty-filter-und-irrefuehrung
-description: "Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Beauty-Filter und Irreführung
 
 ## Arbeitsbereich
 
-Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

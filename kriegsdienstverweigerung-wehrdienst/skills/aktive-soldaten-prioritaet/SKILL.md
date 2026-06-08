@@ -1,13 +1,13 @@
 ---
 name: aktive-soldaten-prioritaet
-description: "Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorrang aktive Soldaten
 
 ## Arbeitsbereich
 
-Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

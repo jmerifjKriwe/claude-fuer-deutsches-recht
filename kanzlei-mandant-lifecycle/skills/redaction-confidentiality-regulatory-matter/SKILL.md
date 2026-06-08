@@ -1,13 +1,13 @@
 ---
 name: redaction-confidentiality-regulatory-matter
-description: "Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Redaction und Confidentiality
 
 ## Arbeitsbereich
 
-Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

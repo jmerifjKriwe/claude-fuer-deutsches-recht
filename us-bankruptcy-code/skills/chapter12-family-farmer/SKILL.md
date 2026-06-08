@@ -1,13 +1,13 @@
 ---
 name: chapter12-family-farmer
-description: "Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 12 Family Farmer Fisherman
 
 ## Arbeitsbereich
 
-Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

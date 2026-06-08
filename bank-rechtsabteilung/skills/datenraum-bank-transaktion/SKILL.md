@@ -1,13 +1,13 @@
 ---
 name: datenraum-bank-transaktion
-description: "Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenraum Bank
 
 ## Arbeitsbereich
 
-Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

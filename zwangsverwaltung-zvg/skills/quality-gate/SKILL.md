@@ -1,13 +1,13 @@
 ---
 name: quality-gate
-description: "Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quality Gate für Zwangsverwaltung
 
 ## Arbeitsbereich
 
-Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

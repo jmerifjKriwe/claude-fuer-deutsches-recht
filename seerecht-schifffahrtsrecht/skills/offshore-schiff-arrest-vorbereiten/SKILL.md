@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-arrest-vorbereiten
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

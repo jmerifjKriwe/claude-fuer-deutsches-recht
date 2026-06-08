@@ -1,13 +1,13 @@
 ---
 name: bussgeld-vermeidung-heilung
-description: "Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bußgeldvermeidung und Heilung
 
 ## Arbeitsbereich
 
-Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

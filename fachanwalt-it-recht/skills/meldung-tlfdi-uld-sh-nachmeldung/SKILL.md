@@ -7,7 +7,7 @@ description: "DSV Meldung Tlfdi ULD SH Nachmeldung im Plugin Fachanwalt It Recht
 
 ## Arbeitsbereich
 
-**DSV Meldung Tlfdi ULD SH Nachmeldung** ordnet den Fall über die tragenden Prüfungslinien: Reicht eine Meldung nach Art, Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Meldung Tlfdi ULD SH Nachmeldung** ordnet den Fall über die tragenden Prüfungslinien: Reicht eine Meldung nach Art, Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

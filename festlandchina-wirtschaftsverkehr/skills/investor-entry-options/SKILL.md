@@ -1,13 +1,13 @@
 ---
 name: investor-entry-options
-description: "Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investoreintritt China: Optionen und Strukturierungsvergleich
 
 ## Arbeitsbereich
 
-Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

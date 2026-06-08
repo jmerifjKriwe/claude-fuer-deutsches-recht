@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-abschlussmemo
-description: "Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken
 
 ## Arbeitsbereich
 
-Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

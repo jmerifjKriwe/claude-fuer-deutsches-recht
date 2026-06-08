@@ -7,7 +7,7 @@ description: "Klagebegründung vor dem Sozialgericht in Krankenversicherungssach
 
 ## Arbeitsbereich
 
-Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

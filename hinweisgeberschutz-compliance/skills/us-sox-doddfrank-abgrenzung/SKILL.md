@@ -1,13 +1,13 @@
 ---
 name: us-sox-doddfrank-abgrenzung
-description: "Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Us Sox Doddfrank Abgrenzung
 
 ## Arbeitsbereich
 
-Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

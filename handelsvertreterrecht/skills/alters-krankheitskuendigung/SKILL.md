@@ -1,13 +1,13 @@
 ---
 name: alters-krankheitskuendigung
-description: "Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB
 
 ## Arbeitsbereich
 
-Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

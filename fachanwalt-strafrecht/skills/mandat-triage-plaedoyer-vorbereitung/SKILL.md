@@ -7,7 +7,7 @@ description: "Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret
 
 ## Arbeitsbereich
 
-**Mandat Triage Plaedoyer Vorbereitung** ordnet den Fall über die tragenden Prüfungslinien: Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandat Triage Plaedoyer Vorbereitung** ordnet den Fall über die tragenden Prüfungslinien: Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-dashboard-bauen
-description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Dashboard bauen
 
 ## Arbeitsbereich
 
-Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

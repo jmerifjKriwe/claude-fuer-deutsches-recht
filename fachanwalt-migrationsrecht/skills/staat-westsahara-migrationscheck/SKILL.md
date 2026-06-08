@@ -7,7 +7,7 @@ description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Staat Westsahara Migrationscheck** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Westsahara Migrationscheck** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

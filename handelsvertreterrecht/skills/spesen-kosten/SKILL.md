@@ -1,13 +1,13 @@
 ---
 name: spesen-kosten
-description: "Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB
 
 ## Arbeitsbereich
 
-Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

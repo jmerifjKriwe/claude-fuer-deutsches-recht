@@ -1,13 +1,13 @@
 ---
 name: cisg-ausschluss-und-rechtswahl
-description: "Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CISG-Ausschluss und Rechtswahl
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

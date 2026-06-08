@@ -1,13 +1,13 @@
 ---
 name: versammlung-polizei-campus
-description: "Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versammlung und Polizei auf dem Campus
 
 ## Arbeitsbereich
 
-Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: owi-uebergang-revision-staatsanwaeltinnen
-description: "Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle
 
 ## Arbeitsbereich
 
-Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

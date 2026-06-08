@@ -1,13 +1,13 @@
 ---
 name: laufzeit-verlaengerung-wohnungs-weg
-description: "Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Laufzeit und Verlängerung
 
 ## Arbeitsbereich
 
-Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

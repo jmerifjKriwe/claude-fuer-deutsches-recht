@@ -1,13 +1,13 @@
 ---
 name: cives-sine-romanisierung-provinzen
-description: "Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii
 
 ## Arbeitsbereich
 
-Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: befangenheit-pruefer
-description: "Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Befangenheit Pruefer
 
 ## Arbeitsbereich
 
-Prüft Prüferbefangenheit und Besorgnis der Befangenheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüferbefangenheit und Besorgnis der Befangenheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: vorsicht-bei-auskuenften
-description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorsicht bei Auskünften
 
 ## Arbeitsbereich
 
-Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

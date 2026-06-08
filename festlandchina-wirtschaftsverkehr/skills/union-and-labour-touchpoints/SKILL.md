@@ -1,13 +1,13 @@
 ---
 name: union-and-labour-touchpoints
-description: "Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrecht und Gewerkschaft China: ACFTU/LCA/LkSG
 
 ## Arbeitsbereich
 
-Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

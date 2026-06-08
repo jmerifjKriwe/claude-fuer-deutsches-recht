@@ -1,13 +1,13 @@
 ---
 name: anmeldung-spezial-compliance-euipo
-description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
 ## Arbeitsbereich
 
-Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

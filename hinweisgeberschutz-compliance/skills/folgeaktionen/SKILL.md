@@ -1,13 +1,13 @@
 ---
 name: folgeaktionen
-description: "Plant zulässige und angemessene Folgemaßnahmen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant zulässige und angemessene Folgemaßnahmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Folgeaktionen
 
 ## Arbeitsbereich
 
-Plant zulässige und angemessene Folgemaßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant zulässige und angemessene Folgemaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

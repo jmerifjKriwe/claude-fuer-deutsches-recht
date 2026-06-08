@@ -1,13 +1,13 @@
 ---
 name: beschlagnahme-mietverwaltung-start
-description: "Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
 
 ## Arbeitsbereich
 
-Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

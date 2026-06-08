@@ -1,13 +1,13 @@
 ---
 name: tierversuch-ethikvotum-urlaubssemester
-description: "Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tierversuch und Ethikvotum
 
 ## Arbeitsbereich
 
-Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

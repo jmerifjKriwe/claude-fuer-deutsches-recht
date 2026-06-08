@@ -1,13 +1,13 @@
 ---
 name: antrag-bapersbw-form
-description: "Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Antrag beim BAPersBw
 
 ## Arbeitsbereich
 
-Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

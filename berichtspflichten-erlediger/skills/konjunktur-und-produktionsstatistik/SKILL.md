@@ -1,13 +1,13 @@
 ---
 name: konjunktur-und-produktionsstatistik
-description: "Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konjunktur- und Produktionsstatistik
 
 ## Arbeitsbereich
 
-Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung im Preußisches 
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

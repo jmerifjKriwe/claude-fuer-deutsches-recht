@@ -7,7 +7,7 @@ description: "Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit,
 
 ## Arbeitsbereich
 
-Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

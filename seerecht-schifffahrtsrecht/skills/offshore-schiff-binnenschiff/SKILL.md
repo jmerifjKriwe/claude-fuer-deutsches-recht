@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-binnenschiff
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

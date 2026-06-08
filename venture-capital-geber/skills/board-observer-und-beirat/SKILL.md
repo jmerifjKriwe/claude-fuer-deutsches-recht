@@ -7,7 +7,7 @@ description: "Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulic
 
 ## Arbeitsbereich
 
-Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: carry-waterfall-und-clawback
-description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Carry, Waterfall und Clawback
 
 ## Arbeitsbereich
 
-Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

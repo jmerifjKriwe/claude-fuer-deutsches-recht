@@ -1,13 +1,13 @@
 ---
 name: public-procurement-software
-description: "Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergabe von Software
 
 ## Arbeitsbereich
 
-Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: chargeback-card-schemes-bankrecht
-description: "Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chargeback und Kartenstreit
 
 ## Arbeitsbereich
 
-Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

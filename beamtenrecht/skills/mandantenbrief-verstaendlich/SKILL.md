@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-verstaendlich
-description: "Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenbrief Verstaendlich Beamtenrecht
 
 ## Arbeitsbereich
 
-Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

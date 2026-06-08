@@ -1,13 +1,13 @@
 ---
 name: eu-computer-programs-directive
-description: "Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Computer Programs Directive
 
 ## Arbeitsbereich
 
-Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

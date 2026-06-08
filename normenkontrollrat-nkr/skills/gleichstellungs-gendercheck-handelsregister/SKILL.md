@@ -1,13 +1,13 @@
 ---
 name: gleichstellungs-gendercheck-handelsregister
-description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Gleichstellungs- und Gendercheck
 
 ## Arbeitsbereich
 
-Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

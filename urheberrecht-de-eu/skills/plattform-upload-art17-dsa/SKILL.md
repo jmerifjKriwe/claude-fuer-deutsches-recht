@@ -1,13 +1,13 @@
 ---
 name: plattform-upload-art17-dsa
-description: "Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plattformen, Uploads und Art. 17 DSM
 
 ## Arbeitsbereich
 
-Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

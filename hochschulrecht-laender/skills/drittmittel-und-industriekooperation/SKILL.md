@@ -1,13 +1,13 @@
 ---
 name: drittmittel-und-industriekooperation
-description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drittmittel Und Industriekooperation
 
 ## Arbeitsbereich
 
-Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

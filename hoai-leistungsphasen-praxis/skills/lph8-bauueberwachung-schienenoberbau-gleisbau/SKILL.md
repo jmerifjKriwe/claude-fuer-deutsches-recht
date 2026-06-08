@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-schienenoberbau-gleisbau
-description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Schienenoberbau Gleisbau (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

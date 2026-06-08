@@ -1,13 +1,13 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
 
 ## Arbeitsbereich
 
-Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,28 +1,38 @@
 ---
 name: dublin-iii-verordnung-eugh-c-490-16
-description: Dublin III Zustaendigkeit mit EuGH C-490/16.
+description: "Dublin Iii Verordnung EuGH C 490 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Dublin Iii Verordnung EuGH C 490 16
+
+## Einsatzlage
 
 Schutzsuchender soll nach Italien rueckgefuehrt werden; systemische Maengel.
 
-## Normen
+## Normenanker
 
-- VO 604/2013
+- § 4 AufenthG
+- § 18b AufenthG
+- § 25 AufenthG
+- § 60 AufenthG
+- Art. 7 RL 2004/38/EG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 26.07.2017 C-490/16 A.S.
+- EuGH 26.07.2017 C-490/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Bei systemischen Maengeln Rueckfuehrung unzulaessig.
 
-## Schriftsatzkern
-
-Rueckfuehrung Italien unzulaessig; Pruefung in DE.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Berichte Lagebeurteilung Italien

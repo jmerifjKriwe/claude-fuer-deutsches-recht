@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-rueckrufmanagement-repair-by
-description: "Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: china-employee-data-cloud-and-erp-wechat
-description: "Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance
 
 ## Arbeitsbereich
 
-Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

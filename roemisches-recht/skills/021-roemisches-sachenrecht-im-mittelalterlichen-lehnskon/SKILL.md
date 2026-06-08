@@ -1,13 +1,13 @@
 ---
 name: 021-roemisches-sachenrecht-im-mittelalterlichen-lehnskon
-description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Roemisches Sachenrecht Im Mittelalterlichen Lehnskon
 
 ## Arbeitsbereich
 
-Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

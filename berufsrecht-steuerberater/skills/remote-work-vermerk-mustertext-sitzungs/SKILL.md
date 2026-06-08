@@ -1,13 +1,13 @@
 ---
 name: remote-work-vermerk-mustertext-sitzungs
-description: "Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Remote Work
 
 ## Arbeitsbereich
 
-Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

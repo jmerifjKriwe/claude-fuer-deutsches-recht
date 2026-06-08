@@ -1,13 +1,13 @@
 ---
 name: designverletzung-gesamteindruck
-description: "Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designverletzung Gesamteindruck
 
 ## Arbeitsbereich
 
-Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

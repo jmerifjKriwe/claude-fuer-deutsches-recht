@@ -7,7 +7,7 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Vorabklaerung Erfolgsaussichten Wann Doch** ordnet den Fall über die tragenden Prüfungslinien: Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vorabklaerung Erfolgsaussichten Wann Doch** ordnet den Fall über die tragenden Prüfungslinien: Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

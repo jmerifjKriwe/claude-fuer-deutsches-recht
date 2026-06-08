@@ -1,13 +1,13 @@
 ---
 name: slot-pfaendung-planen
-description: "Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Slot – Pfändung planen
 
 ## Arbeitsbereich
 
-Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

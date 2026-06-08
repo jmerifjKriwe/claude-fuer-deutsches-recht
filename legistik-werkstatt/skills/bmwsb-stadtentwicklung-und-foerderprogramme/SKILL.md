@@ -1,13 +1,13 @@
 ---
 name: bmwsb-stadtentwicklung-und-foerderprogramme
-description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stadtentwicklung und Foerderprogramme (BMWSB)
 
 ## Arbeitsbereich
 
-Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

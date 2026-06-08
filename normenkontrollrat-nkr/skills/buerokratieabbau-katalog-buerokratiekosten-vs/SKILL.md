@@ -1,13 +1,13 @@
 ---
 name: buerokratieabbau-katalog-buerokratiekosten-vs
-description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
 ## Arbeitsbereich
 
-Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

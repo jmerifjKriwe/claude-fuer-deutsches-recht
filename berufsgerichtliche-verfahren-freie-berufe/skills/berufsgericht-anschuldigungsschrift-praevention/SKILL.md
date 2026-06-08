@@ -1,13 +1,13 @@
 ---
 name: berufsgericht-anschuldigungsschrift-praevention
-description: "Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufsgericht Anschuldigungsschrift: Präventions- und Organisationspaket
 
 ## Arbeitsbereich
 
-Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

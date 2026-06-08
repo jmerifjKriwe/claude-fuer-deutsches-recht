@@ -1,13 +1,13 @@
 ---
 name: kundenbeschwerde-ombudsmann-bafin
-description: "Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerdemanagement
 
 ## Arbeitsbereich
 
-Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: space-law-opinion-fuer-investoren
-description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Space Law Opinion für Investoren
 
 ## Arbeitsbereich
 
-Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

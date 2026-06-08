@@ -1,13 +1,13 @@
 ---
 name: healthcare-compliance
-description: "Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Healthcare-Compliance-Verstöße und Untersuchung
 
 ## Arbeitsbereich
 
-Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: international-berne-joint-authorship-library
-description: "Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # International Copyright, Berne und URAA
 
 ## Arbeitsbereich
 
-Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

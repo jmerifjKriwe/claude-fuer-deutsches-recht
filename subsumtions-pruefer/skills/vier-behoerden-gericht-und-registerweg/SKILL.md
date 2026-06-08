@@ -1,13 +1,13 @@
 ---
 name: vier-behoerden-gericht-und-registerweg
-description: "Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Behörden-, Gerichts- und Registerweg
 
 ## Arbeitsbereich
 
-Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

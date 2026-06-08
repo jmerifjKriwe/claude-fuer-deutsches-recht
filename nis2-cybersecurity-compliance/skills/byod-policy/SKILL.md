@@ -1,13 +1,13 @@
 ---
 name: byod-policy
-description: "Baut eine BYOD-Policy mit realistischen technischen Grenzen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut eine BYOD-Policy mit realistischen technischen Grenzen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BYOD Policy
 
 ## Arbeitsbereich
 
-Baut eine BYOD-Policy mit realistischen technischen Grenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut eine BYOD-Policy mit realistischen technischen Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

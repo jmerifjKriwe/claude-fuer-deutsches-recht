@@ -1,13 +1,13 @@
 ---
 name: platform-ecommerce-china
-description: "E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Commerce China: Tmall/JD/Plattformrecht/PIPL
 
 ## Arbeitsbereich
 
-E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: markenanmeldung-dpma-markenrecherche-open
-description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung) im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung) im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenanmeldung beim DPMA
 
 ## Arbeitsbereich
 
-Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

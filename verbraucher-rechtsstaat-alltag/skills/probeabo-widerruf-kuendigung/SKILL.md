@@ -1,13 +1,13 @@
 ---
 name: probeabo-widerruf-kuendigung
-description: "Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Probeabo Widerruf Kündigung
 
 ## Arbeitsbereich
 
-Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

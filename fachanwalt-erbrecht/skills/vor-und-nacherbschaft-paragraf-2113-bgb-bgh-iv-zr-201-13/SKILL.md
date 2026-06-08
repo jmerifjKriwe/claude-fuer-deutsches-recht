@@ -1,29 +1,40 @@
 ---
 name: vor-und-nacherbschaft-paragraf-2113-bgb-bgh-iv-zr-201-13
-description: Vor- und Nacherbschaft Verfuegungsbeschraenkung Paragraf 2113 BGB.
+description: "Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13
+
+## Einsatzlage
 
 Vorerbin V verkauft Immobilie aus Erbe; Nacherbe N widerspricht.
 
-## Normen
+## Normenanker
 
-- Paragraf 2113 BGB
+- § 2113 BGB
+- § 1922 BGB
+- § 1937 BGB
+- §§ 2303 ff. BGB
+- §§ 2353 ff. BGB
+- Art. 21 EuErbVO
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 16.04.2014 IV ZR 201/13
+- BGH 16.04.2014 IV ZR 201/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Beschraenkung unwirksam soweit unentgeltlich; Anspruch gegen Erwerber.
 
-## Schriftsatzkern
-
-Verfuegung nach Paragraf 2113 BGB unwirksam; Herausgabe an Nachlass.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Testament
 - Notarvertrag Verkauf

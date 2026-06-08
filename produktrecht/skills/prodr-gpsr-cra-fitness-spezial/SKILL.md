@@ -1,13 +1,13 @@
 ---
 name: prodr-gpsr-cra-fitness-spezial
-description: "Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster für Hersteller IoT und Software im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster für Hersteller IoT und Software im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ProdR: GPSR CRA
 
 ## Arbeitsbereich
 
-Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster für Hersteller IoT und Software. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster für Hersteller IoT und Software. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

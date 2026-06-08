@@ -1,13 +1,13 @@
 ---
 name: offenbarung-neuheitsschonfrist-registerstand
-description: "Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offenbarung Neuheitsschonfrist Prioritaet
 
 ## Arbeitsbereich
 
-Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

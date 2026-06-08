@@ -1,13 +1,13 @@
 ---
 name: hochrisiko-genauigkeit-konformitaetsbewertung
-description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren) im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren) im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO
 
 ## Arbeitsbereich
 
-Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

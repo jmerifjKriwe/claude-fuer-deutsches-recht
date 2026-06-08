@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung
-description: "Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

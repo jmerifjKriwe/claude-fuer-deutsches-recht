@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 2 Sachen und Rechte im Preußisches Allge
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 2 Sachen und Rechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 2 Sachen und Rechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: presseleistungsschutz-snippets
-description: "Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Presseleistungsschutz und Snippets
 
 ## Arbeitsbereich
 
-Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

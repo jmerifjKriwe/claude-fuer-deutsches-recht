@@ -7,7 +7,7 @@ description: "Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsr
 
 ## Arbeitsbereich
 
-Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

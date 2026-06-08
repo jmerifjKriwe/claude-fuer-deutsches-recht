@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c
-description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB
 
 ## Arbeitsbereich
 
-Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

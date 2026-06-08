@@ -1,13 +1,13 @@
 ---
 name: bodenabfertigung-register-pfandrecht
-description: "Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bodenabfertigung – Register auswerten
 
 ## Arbeitsbereich
 
-Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

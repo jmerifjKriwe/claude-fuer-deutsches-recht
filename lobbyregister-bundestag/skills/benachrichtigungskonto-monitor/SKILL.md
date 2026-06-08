@@ -1,13 +1,13 @@
 ---
 name: benachrichtigungskonto-monitor
-description: "Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Benachrichtigungskonto Monitor
 
 ## Arbeitsbereich
 
-Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

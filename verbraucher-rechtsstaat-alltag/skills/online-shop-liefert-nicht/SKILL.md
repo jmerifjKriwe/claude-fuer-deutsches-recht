@@ -1,13 +1,13 @@
 ---
 name: online-shop-liefert-nicht
-description: "Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online-Shop liefert nicht
 
 ## Arbeitsbereich
 
-Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

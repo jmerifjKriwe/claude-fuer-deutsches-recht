@@ -7,7 +7,7 @@ description: "Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Vers
 
 ## Arbeitsbereich
 
-**Versr PKV Beitragsanpassung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Versr PKV Beitragsanpassung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

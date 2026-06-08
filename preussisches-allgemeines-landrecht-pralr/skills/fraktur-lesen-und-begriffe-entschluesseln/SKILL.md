@@ -7,7 +7,7 @@ description: "PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, V
 
 ## Arbeitsbereich
 
-PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: lieferantenqualifizierung-sensor
-description: "Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferantenqualifizierung Sensor Cloud
 
 ## Arbeitsbereich
 
-Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rehabilitations-exoskelett-remote-update
-description: "Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reha- und Exoskelett-Robotik
 
 ## Arbeitsbereich
 
-Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

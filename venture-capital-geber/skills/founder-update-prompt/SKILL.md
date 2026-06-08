@@ -7,7 +7,7 @@ description: "Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs
 
 ## Arbeitsbereich
 
-Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 
 ## Arbeitsbereich
 
-**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüfungslinien: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüfungslinien: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

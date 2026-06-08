@@ -1,13 +1,13 @@
 ---
 name: pilotbetrieb-beta-prodhaftg-pld
-description: "Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pilotbetrieb und Beta Robotik
 
 ## Arbeitsbereich
 
-Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

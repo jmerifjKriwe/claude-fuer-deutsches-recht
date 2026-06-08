@@ -1,13 +1,13 @@
 ---
 name: praesidialrat-mitwirkung-richterernennung
-description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Praesidialrat — Mitwirkung bei Richterernennungen
 
 ## Arbeitsbereich
 
-Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

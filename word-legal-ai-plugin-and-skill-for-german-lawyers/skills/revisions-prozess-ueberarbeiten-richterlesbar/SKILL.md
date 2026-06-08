@@ -1,13 +1,13 @@
 ---
 name: revisions-prozess-ueberarbeiten-richterlesbar
-description: "Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Revisions-Prozess: Redlines und Compare-Workflow
 
 ## Arbeitsbereich
 
-Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

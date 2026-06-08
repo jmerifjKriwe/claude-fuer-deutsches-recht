@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-verwirkung-vorlage
-description: "Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verjährung, Verwirkung und Duldung
 
 ## Arbeitsbereich
 
-Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

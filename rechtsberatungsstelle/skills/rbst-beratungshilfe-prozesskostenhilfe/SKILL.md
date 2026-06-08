@@ -1,13 +1,13 @@
 ---
 name: rbst-beratungshilfe-prozesskostenhilfe
-description: "Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # RBst: Beratungshilfe PKH
 
 ## Arbeitsbereich
 
-Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

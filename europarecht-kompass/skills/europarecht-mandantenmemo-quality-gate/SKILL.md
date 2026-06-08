@@ -1,13 +1,13 @@
 ---
 name: europarecht-mandantenmemo-quality-gate
-description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Europarecht-Kommandocenter
 
 ## Arbeitsbereich
 
-Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

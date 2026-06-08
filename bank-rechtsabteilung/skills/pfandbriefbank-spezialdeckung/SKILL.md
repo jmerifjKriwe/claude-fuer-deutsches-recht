@@ -1,13 +1,13 @@
 ---
 name: pfandbriefbank-spezialdeckung
-description: "Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pfandbrief Spezialdeckung
 
 ## Arbeitsbereich
 
-Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

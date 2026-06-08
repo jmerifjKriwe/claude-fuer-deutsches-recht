@@ -1,13 +1,13 @@
 ---
 name: kandidatenaufstellung-bundestag
-description: "Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreiswahlvorschlag Bundestag
 
 ## Arbeitsbereich
 
-Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

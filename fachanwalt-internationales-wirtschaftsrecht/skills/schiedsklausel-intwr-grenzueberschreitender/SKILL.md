@@ -7,7 +7,7 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 
 ## Arbeitsbereich
 
-**Schiedsklausel Intwr Grenzueberschreitender** ordnet den Fall über die tragenden Prüfungslinien: Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Schiedsklausel Intwr Grenzueberschreitender** ordnet den Fall über die tragenden Prüfungslinien: Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

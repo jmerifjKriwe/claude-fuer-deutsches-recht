@@ -1,13 +1,13 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation
 
 ## Arbeitsbereich
 
-US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

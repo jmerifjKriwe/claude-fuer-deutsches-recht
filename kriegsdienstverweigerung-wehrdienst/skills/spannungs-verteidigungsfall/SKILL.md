@@ -1,13 +1,13 @@
 ---
 name: spannungs-verteidigungsfall
-description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spannungs- und Verteidigungsfall
 
 ## Arbeitsbereich
 
-Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-berufsaufsicht
-description: "Wirtschaftspruefer Berufsaufsicht im Berufsgerichtliche Verfahren freier Berufe im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftspruefer Berufsaufsicht im Berufsgerichtliche Verfahren freier Berufe im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Berufsaufsicht

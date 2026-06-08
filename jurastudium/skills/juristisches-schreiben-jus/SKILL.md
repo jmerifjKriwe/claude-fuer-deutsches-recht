@@ -1,13 +1,13 @@
 ---
 name: juristisches-schreiben-jus
-description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lernprofil anpassen
 
 ## Arbeitsbereich
 
-Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

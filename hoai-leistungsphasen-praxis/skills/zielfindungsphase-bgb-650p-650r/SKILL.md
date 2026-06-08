@@ -1,13 +1,13 @@
 ---
 name: zielfindungsphase-bgb-650p-650r
-description: "HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zielfindungsphase Nach BGB 650p Und 650r
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schadensersatz-drei-methoden-auskunft
-description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schadensersatz, Auskunft und Rechnungslegung
 
 ## Arbeitsbereich
 
-Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

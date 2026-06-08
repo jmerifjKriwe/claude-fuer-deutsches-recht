@@ -1,13 +1,13 @@
 ---
 name: blockchain-settlement-buergschaft-erste
-description: "Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DLT Settlement DvP
 
 ## Arbeitsbereich
 
-Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

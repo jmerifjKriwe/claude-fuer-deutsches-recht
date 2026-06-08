@@ -1,13 +1,13 @@
 ---
 name: litigation-risk-china
-description: "Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prozessrisiken China: Gerichte/Beweis/Vollstreckung
 
 ## Arbeitsbereich
 
-Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

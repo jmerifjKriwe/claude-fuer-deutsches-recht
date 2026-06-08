@@ -1,13 +1,13 @@
 ---
 name: repair-by-design-software-locks-ersatzteile
-description: "Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Repair-by-design, Software-Locks und Ersatzteile
 
 ## Arbeitsbereich
 
-Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

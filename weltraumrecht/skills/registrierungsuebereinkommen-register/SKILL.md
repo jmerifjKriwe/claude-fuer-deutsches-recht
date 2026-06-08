@@ -1,13 +1,13 @@
 ---
 name: registrierungsuebereinkommen-register
-description: "Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle
 
 ## Arbeitsbereich
 
-Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

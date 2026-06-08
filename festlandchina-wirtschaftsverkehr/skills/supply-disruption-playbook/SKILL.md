@@ -1,13 +1,13 @@
 ---
 name: supply-disruption-playbook
-description: "Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation
 
 ## Arbeitsbereich
 
-Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

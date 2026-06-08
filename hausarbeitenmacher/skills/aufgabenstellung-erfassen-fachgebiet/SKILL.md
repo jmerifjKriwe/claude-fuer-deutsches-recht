@@ -1,13 +1,13 @@
 ---
 name: aufgabenstellung-erfassen-fachgebiet
-description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufgabenstellung erfassen
 
 ## Arbeitsbereich
 
-Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

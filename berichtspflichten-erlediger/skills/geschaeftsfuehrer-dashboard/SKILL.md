@@ -1,13 +1,13 @@
 ---
 name: geschaeftsfuehrer-dashboard
-description: "Management-Dashboard: Top-Fristen, Bußgeldrisiken, Verantwortliche, offene Behördenfragen und Entlastungsmaßnahmen im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Management-Dashboard: Top-Fristen, Bußgeldrisiken, Verantwortliche, offene Behördenfragen und Entlastungsmaßnahmen im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsführer-Dashboard Berichtspflichten
 
 ## Arbeitsbereich
 
-Management-Dashboard: Top-Fristen, Bußgeldrisiken, Verantwortliche, offene Behördenfragen und Entlastungsmaßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Management-Dashboard: Top-Fristen, Bußgeldrisiken, Verantwortliche, offene Behördenfragen und Entlastungsmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

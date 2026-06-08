@@ -1,13 +1,13 @@
 ---
 name: employment-contract-software-engineer-de
-description: "Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsvertrag Software Engineer DE
 
 ## Arbeitsbereich
 
-Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

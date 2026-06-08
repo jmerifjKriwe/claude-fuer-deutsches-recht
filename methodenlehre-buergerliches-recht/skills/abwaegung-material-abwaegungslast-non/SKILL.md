@@ -7,7 +7,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -34,7 +34,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 ### Abwägung: Materialauswahl und Abwägungsgrundlagen
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Materialauswahl und Abwägungsgrundlagen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Materialauswahl und Abwägungsgrundlagen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -123,7 +123,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -212,7 +212,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -328,7 +328,7 @@ Stand: Mai 2026.
 ### Auslegung versus Rechtsfortbildung: Grenzprotokoll
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auslegung versus Rechtsfortbildung: Grenzprotokoll` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auslegung versus Rechtsfortbildung: Grenzprotokoll` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -417,7 +417,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Begründung, Anhörung und Adressatenfähigkeit
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Begründung, Anhörung und Adressatenfähigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Begründung, Anhörung und Adressatenfähigkeit` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.

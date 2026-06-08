@@ -7,12 +7,12 @@ description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Aufklaerungsfehler Behandlungsfehler** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Aufklaerungsfehler Behandlungsfehler** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-medizinrecht-aufklaerungsfehler` | Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-medizinrecht-aufklaerungsfehler` | Fachanwalt Medizinrecht Aufklaerungsfehler: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-medizinrecht-behandlungsfehler-pruefen` | Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist. |
 
 ## Arbeitsweg
@@ -26,7 +26,7 @@ description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkr
 
 ## 1. `fachanwalt-medizinrecht-aufklaerungsfehler`
 
-**Fokus:** Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Medizinrecht Aufklaerungsfehler: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Aufklärungsfehler
 

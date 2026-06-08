@@ -1,13 +1,13 @@
 ---
 name: china-sanctions-and-restricted-anti-coercion-instrument-trade
-description: "Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika
 
 ## Arbeitsbereich
 
-Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ip-strategy-before-china-entry
-description: "IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP-Strategie vor China-Eintritt: Marken/Patente/Geheimnisschutz
 
 ## Arbeitsbereich
 
-IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

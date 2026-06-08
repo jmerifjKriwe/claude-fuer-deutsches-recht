@@ -1,13 +1,13 @@
 ---
 name: bescheid-ohne-rechtsbehelf
-description: "Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bescheid ohne Rechtsbehelfsbelehrung
 
 ## Arbeitsbereich
 
-Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

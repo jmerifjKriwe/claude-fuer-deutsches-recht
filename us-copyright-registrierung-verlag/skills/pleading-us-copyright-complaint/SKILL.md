@@ -1,13 +1,13 @@
 ---
 name: pleading-us-copyright-complaint
-description: "Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Copyright Complaint Pleading
 
 ## Arbeitsbereich
 
-Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

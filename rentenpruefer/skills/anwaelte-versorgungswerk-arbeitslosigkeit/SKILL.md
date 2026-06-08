@@ -1,13 +1,13 @@
 ---
 name: anwaelte-versorgungswerk-arbeitslosigkeit
-description: "Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # anwaelte-versorgungswerk-spezial
 
 ## Arbeitsbereich
 
-Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

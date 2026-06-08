@@ -1,13 +1,13 @@
 ---
 name: parteienprivileg-verfassung-parteigericht
-description: "Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteienprivileg und Verfassung
 
 ## Arbeitsbereich
 
-Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

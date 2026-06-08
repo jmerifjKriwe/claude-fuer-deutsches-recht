@@ -1,13 +1,13 @@
 ---
 name: europarecht-delegierte-durchfuehrungsakte
-description: "Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Delegierte und Durchführungsakte
 
 ## Arbeitsbereich
 
-Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

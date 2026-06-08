@@ -1,13 +1,13 @@
 ---
 name: awg-awv-investitionspruefung
-description: "Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen
 
 ## Arbeitsbereich
 
-Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

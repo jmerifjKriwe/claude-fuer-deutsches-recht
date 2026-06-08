@@ -1,13 +1,13 @@
 ---
 name: retail-pop-up-store
-description: "Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Retail Pop Up Store
 
 ## Arbeitsbereich
 
-Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

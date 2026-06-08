@@ -1,13 +1,13 @@
 ---
 name: grundsteuerbescheid-laie-hundesteuer
-description: "Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundsteuerbescheid für Laien
 
 ## Arbeitsbereich
 
-Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

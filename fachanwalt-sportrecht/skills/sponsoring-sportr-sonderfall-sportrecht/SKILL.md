@@ -7,7 +7,7 @@ description: "Sponsoring Sportr Sonderfall Sportrecht im Sportrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Sponsoring Sportr Sonderfall Sportrecht** ordnet den Fall über die tragenden Prüfungslinien: Sponsoring, Sportr, Sportrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sponsoring Sportr Sonderfall Sportrecht** ordnet den Fall über die tragenden Prüfungslinien: Sponsoring, Sportr, Sportrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

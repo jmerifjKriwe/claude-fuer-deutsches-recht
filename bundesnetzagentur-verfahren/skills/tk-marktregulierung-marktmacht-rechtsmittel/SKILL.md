@@ -1,13 +1,13 @@
 ---
 name: tk-marktregulierung-marktmacht-rechtsmittel
-description: "TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check
 
 ## Arbeitsbereich
 
-TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

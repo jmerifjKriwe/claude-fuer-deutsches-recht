@@ -1,13 +1,13 @@
 ---
 name: universitaet-industrie-spin-off-raumfahrt
-description: "Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Universität-Industrie Spin-off Raumfahrt
 
 ## Arbeitsbereich
 
-Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

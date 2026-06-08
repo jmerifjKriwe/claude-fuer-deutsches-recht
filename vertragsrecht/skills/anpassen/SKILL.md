@@ -1,13 +1,13 @@
 ---
 name: anpassen
-description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer Profil anpassen, Playbook ändern, Eskalation aktualisieren, Klauselposition ändern oder konfigurieren sagt im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer Profil anpassen, Playbook ändern, Eskalation aktualisieren, Klauselposition ändern oder konfigurieren sagt im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kanzleiprofil anpassen
 
 ## Arbeitsbereich
 
-Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

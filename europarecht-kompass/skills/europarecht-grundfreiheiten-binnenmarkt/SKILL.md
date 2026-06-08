@@ -1,13 +1,13 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundfreiheiten und Binnenmarkt
 
 ## Arbeitsbereich
 
-Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

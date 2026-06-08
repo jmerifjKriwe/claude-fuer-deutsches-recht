@@ -1,13 +1,13 @@
 ---
 name: handelsmakler-paragraphen-93-104-hgb
-description: "Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsmakler §§ 93-104 HGB
 
 ## Arbeitsbereich
 
-Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

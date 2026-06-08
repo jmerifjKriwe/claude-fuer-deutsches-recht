@@ -1,13 +1,13 @@
 ---
 name: security-interests-copyright-assets
-description: "Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Security Interests in Copyright Assets
 
 ## Arbeitsbereich
 
-Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

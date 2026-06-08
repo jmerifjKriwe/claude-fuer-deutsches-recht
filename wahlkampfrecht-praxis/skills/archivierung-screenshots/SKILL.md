@@ -1,13 +1,13 @@
 ---
 name: archivierung-screenshots
-description: "Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Archivierung Screenshots
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

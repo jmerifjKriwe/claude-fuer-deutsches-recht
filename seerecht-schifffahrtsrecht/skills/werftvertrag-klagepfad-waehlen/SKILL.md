@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-klagepfad-waehlen
-description: "Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Klagepfad wählen
 
 ## Arbeitsbereich
 
-Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

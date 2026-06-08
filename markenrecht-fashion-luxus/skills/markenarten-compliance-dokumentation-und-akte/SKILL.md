@@ -1,13 +1,13 @@
 ---
 name: markenarten-compliance-dokumentation-und-akte
-description: "Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenarten: Compliance-Dokumentation und Aktenvermerk
 
 ## Arbeitsbereich
 
-Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

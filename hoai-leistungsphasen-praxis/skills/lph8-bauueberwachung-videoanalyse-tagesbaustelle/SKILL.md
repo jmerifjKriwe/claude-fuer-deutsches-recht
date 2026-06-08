@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-videoanalyse-tagesbaustelle
-description: "Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

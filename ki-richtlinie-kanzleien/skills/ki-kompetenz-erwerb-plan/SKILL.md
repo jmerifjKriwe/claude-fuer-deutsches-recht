@@ -1,13 +1,13 @@
 ---
 name: ki-kompetenz-erwerb-plan
-description: "KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Kompetenz Erwerb Plan
 
 ## Arbeitsbereich
 
-KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

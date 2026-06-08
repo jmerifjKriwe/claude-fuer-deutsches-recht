@@ -1,13 +1,13 @@
 ---
 name: lksg-bafa-bericht
-description: "Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LkSG BAFA-Bericht und Risikoanalyse
 
 ## Arbeitsbereich
 
-Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-paragraph-provision
-description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter § 84 HGB
 
 ## Arbeitsbereich
 
-Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

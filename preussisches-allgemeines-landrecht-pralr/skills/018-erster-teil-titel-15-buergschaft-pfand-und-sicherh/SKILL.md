@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im 
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

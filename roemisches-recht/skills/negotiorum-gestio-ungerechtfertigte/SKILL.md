@@ -1,13 +1,13 @@
 ---
 name: negotiorum-gestio-ungerechtfertigte
-description: "Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Negotiorum gestio - Geschäftsführung ohne Auftrag
 
 ## Arbeitsbereich
 
-Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

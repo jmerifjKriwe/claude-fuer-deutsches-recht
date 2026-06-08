@@ -1,13 +1,13 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Settlement and Rule 9019
 
 ## Arbeitsbereich
 
-Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

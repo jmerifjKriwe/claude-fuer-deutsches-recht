@@ -1,13 +1,13 @@
 ---
 name: teilloeschung-und-hilfsantraege
-description: "Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teilloeschung Und Hilfsantraege
 
 ## Arbeitsbereich
 
-Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

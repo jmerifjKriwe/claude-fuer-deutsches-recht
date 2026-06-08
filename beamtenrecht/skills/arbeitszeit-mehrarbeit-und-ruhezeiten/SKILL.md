@@ -1,13 +1,13 @@
 ---
 name: arbeitszeit-mehrarbeit-und-ruhezeiten
-description: "Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitszeit Mehrarbeit Und Ruhezeiten
 
 ## Arbeitsbereich
 
-Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

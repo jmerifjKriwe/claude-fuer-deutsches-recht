@@ -1,13 +1,13 @@
 ---
 name: adversary-proceedings
-description: "Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Adversary Proceedings
 
 ## Arbeitsbereich
 
-Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: verjaehrung
-description: "Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB
 
 ## Arbeitsbereich
 
-Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

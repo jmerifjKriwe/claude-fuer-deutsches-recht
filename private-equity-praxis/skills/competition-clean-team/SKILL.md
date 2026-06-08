@@ -1,13 +1,13 @@
 ---
 name: competition-clean-team
-description: "Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Clean Team und Kartellrecht im PE-Prozess
 
 ## Arbeitsbereich
 
-Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

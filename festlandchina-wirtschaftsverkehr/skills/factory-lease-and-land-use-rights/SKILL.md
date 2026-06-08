@@ -1,13 +1,13 @@
 ---
 name: factory-lease-and-land-use-rights
-description: "Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht
 
 ## Arbeitsbereich
 
-Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

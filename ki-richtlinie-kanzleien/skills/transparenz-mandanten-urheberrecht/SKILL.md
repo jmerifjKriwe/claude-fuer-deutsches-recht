@@ -1,13 +1,13 @@
 ---
 name: transparenz-mandanten-urheberrecht
-description: "Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transparenz gegenüber Mandanten
 
 ## Arbeitsbereich
 
-Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

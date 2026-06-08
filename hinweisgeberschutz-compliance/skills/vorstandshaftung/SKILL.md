@@ -1,13 +1,13 @@
 ---
 name: vorstandshaftung
-description: "Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorstandshaftung
 
 ## Arbeitsbereich
 
-Prüft Organhaftung bei ignorierten Hinweisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Organhaftung bei ignorierten Hinweisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

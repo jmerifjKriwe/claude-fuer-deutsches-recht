@@ -7,7 +7,7 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 
 ## Arbeitsbereich
 
-**Erstgespraech Mandatsannahme Abmahnung UWG** ordnet den Fall über die tragenden Prüfungslinien: Erstgespraech im gewerblichen Rechtsschutz strukturieren, UWG-Abmahnung prüfen versenden oder auf Eingang reagieren, Abmahnung oder Vergleich bei Domainnamen-Streit und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Erstgespraech Mandatsannahme Abmahnung UWG** ordnet den Fall über die tragenden Prüfungslinien: Erstgespraech im gewerblichen Rechtsschutz strukturieren, UWG-Abmahnung prüfen versenden oder auf Eingang reagieren, Abmahnung oder Vergleich bei Domainnamen-Streit und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

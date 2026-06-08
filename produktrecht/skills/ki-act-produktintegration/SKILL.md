@@ -1,13 +1,13 @@
 ---
 name: ki-act-produktintegration
-description: "KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster für Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster für Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-VO: Produktintegration
 
 ## Arbeitsbereich
 
-KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster für Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster für Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

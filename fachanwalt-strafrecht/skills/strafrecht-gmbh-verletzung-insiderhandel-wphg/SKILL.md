@@ -7,7 +7,7 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 
 ## Arbeitsbereich
 
-**Gmbh Verletzung Insiderhandel Wphg** ordnet den Fall über die tragenden Prüfungslinien: Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Gmbh Verletzung Insiderhandel Wphg** ordnet den Fall über die tragenden Prüfungslinien: Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

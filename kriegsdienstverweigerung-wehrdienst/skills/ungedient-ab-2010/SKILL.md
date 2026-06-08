@@ -1,13 +1,13 @@
 ---
 name: ungedient-ab-2010
-description: "Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ungediente ab 01.01.2010
 
 ## Arbeitsbereich
 
-Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

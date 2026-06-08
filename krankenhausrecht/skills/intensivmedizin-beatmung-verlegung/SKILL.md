@@ -1,13 +1,13 @@
 ---
 name: intensivmedizin-beatmung-verlegung
-description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Intensivmedizin Beatmung Verlegung
 
 ## Arbeitsbereich
 
-Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

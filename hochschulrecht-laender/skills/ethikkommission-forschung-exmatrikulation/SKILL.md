@@ -1,13 +1,13 @@
 ---
 name: ethikkommission-forschung-exmatrikulation
-description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ethikkommission Und Forschung
 
 ## Arbeitsbereich
 
-Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transp
 
 ## Arbeitsbereich
 
-**FA Transport Spedition Mandant Redteam** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**FA Transport Spedition Mandant Redteam** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: gewohnheitsrecht-und-observanz
-description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gewohnheitsrecht und Observanz
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

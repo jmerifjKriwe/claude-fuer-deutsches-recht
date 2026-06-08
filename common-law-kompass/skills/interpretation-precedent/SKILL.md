@@ -1,13 +1,13 @@
 ---
 name: interpretation-precedent
-description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interpretation und Precedent
 
 ## Arbeitsbereich
 
-Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

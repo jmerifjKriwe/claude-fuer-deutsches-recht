@@ -7,7 +7,7 @@ description: "Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob 
 
 ## Arbeitsbereich
 
-Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob als Ausschlussgrund, Überprüfung und Nachzahlungsrisiken bei Grenzüberschreitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob als Ausschlussgrund, Überprüfung und Nachzahlungsrisiken bei Grenzüberschreitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: dokumentarchitektur-vertrag-englischer
-description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokumentarchitektur: Vertrag und Schriftsatz
 
 ## Arbeitsbereich
 
-Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

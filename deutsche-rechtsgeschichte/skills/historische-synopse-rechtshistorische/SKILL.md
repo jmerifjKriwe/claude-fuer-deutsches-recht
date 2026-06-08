@@ -1,13 +1,13 @@
 ---
 name: historische-synopse-rechtshistorische
-description: "Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002) im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002) im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Historische Synopse erstellen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

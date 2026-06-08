@@ -1,13 +1,13 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstgericht für Richter
 
 ## Arbeitsbereich
 
-Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

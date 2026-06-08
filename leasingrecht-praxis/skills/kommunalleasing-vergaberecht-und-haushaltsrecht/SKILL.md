@@ -1,13 +1,13 @@
 ---
 name: kommunalleasing-vergaberecht-und-haushaltsrecht
-description: "Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunalleasing: Vergaberecht und Haushaltsrecht
 
 ## Arbeitsbereich
 
-Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

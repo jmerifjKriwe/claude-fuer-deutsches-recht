@@ -7,7 +7,7 @@ description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüf
 
 ## Arbeitsbereich
 
-**Staat Usbekistan Migrationscheck Vanuatu** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Usbekistan Migrationscheck Vanuatu** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

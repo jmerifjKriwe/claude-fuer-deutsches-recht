@@ -1,13 +1,13 @@
 ---
 name: secure-configuration-development-ssdcl
-description: "Prüft Hardening und sichere Konfiguration im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hardening und sichere Konfiguration im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Secure Configuration Hardening
 
 ## Arbeitsbereich
 
-Prüft Hardening und sichere Konfiguration. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hardening und sichere Konfiguration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lagergeschaeft-paragraphen-maengelruege
-description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lagergeschäft §§ 467 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

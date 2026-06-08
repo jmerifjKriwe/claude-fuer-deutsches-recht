@@ -1,13 +1,13 @@
 ---
 name: b2c-b2b-plattform-marktplatz-routing
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing im Ecommerce Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # B2C B2B Plattform Marktplatz Routing
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

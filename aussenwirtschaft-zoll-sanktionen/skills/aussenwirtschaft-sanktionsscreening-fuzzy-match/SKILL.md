@@ -7,7 +7,7 @@ description: "Technische und rechtliche Anforderungen an Sanktionslistenscreenin
 
 ## Arbeitsbereich
 
-Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte für Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte für Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

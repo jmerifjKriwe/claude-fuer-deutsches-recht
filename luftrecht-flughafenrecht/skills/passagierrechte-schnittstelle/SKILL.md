@@ -1,13 +1,13 @@
 ---
 name: passagierrechte-schnittstelle
-description: "Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung
 
 ## Arbeitsbereich
 
-Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

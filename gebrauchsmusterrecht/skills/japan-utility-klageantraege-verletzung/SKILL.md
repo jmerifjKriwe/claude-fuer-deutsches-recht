@@ -1,13 +1,13 @@
 ---
 name: japan-utility-klageantraege-verletzung
-description: "Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Japan Utility Model Vergleich
 
 ## Arbeitsbereich
 
-Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

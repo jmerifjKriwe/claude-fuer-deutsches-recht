@@ -7,7 +7,7 @@ description: "Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdi
 
 ## Arbeitsbereich
 
-Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdienst. Unterhaltungspflicht und Winterdienst im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdienst. Unterhaltungspflicht und Winterdienst im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

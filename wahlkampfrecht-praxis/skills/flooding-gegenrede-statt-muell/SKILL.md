@@ -1,13 +1,13 @@
 ---
 name: flooding-gegenrede-statt-muell
-description: "Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flooding Gegenrede Statt Muell
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

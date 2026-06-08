@@ -1,13 +1,13 @@
 ---
 name: special-handling-standard-vs-statutory
-description: "Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Special Handling und Eilbedarf
 
 ## Arbeitsbereich
 
-Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

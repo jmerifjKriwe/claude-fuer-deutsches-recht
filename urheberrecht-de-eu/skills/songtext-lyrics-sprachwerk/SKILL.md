@@ -1,13 +1,13 @@
 ---
 name: songtext-lyrics-sprachwerk
-description: "Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Songtext, Lyrics und Sprachwerk
 
 ## Arbeitsbereich
 
-Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

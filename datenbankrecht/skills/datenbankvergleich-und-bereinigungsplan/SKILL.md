@@ -1,13 +1,13 @@
 ---
 name: datenbankvergleich-und-bereinigungsplan
-description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung
 
 ## Arbeitsbereich
 
-Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

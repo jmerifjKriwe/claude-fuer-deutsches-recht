@@ -7,7 +7,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 ## Arbeitsbereich
 
-**Bautraeger Typische Notar WEG** ordnet den Fall über die tragenden Prüfungslinien: Typische Notar-Fehler im Bautraegervertrag, WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag, WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bautraeger Typische Notar WEG** ordnet den Fall über die tragenden Prüfungslinien: Typische Notar-Fehler im Bautraegervertrag, WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag, WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

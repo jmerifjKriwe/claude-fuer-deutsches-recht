@@ -1,13 +1,13 @@
 ---
 name: kosten-haftung-und-versicherung
-description: "Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kosten nicht überschätzen, Haftung nicht ignorieren
 
 ## Arbeitsbereich
 
-Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: handwerk-gefahrstoffe-asbest
-description: "Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handwerk: Asbest, Gefahrstoffe und Anzeigen
 
 ## Arbeitsbereich
 
-Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

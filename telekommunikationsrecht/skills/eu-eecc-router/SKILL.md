@@ -1,13 +1,13 @@
 ---
 name: eu-eecc-router
-description: "EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Electronic Communications Code Router
 
 ## Arbeitsbereich
 
-EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

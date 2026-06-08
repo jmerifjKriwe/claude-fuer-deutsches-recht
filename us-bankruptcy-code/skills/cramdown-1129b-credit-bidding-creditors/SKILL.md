@@ -1,13 +1,13 @@
 ---
 name: cramdown-1129b-credit-bidding-creditors
-description: "Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cramdown § 1129(b)
 
 ## Arbeitsbereich
 
-Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

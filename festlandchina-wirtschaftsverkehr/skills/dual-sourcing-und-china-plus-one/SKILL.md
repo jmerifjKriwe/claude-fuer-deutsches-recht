@@ -1,13 +1,13 @@
 ---
 name: dual-sourcing-und-china-plus-one
-description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung
 
 ## Arbeitsbereich
 
-Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

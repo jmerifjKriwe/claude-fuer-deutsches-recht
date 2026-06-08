@@ -1,13 +1,13 @@
 ---
 name: kapitalerh-hung
-description: "Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kapitalerhöhung – Insiderrechtliche Anforderungen
 
 ## Arbeitsbereich
 
-Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

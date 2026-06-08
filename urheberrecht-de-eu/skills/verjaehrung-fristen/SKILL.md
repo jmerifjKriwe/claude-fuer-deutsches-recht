@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-fristen
-description: "Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verjährung, Dringlichkeit und Fristen
 
 ## Arbeitsbereich
 
-Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: leichte-einfache-sprache
-description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leichte und einfache Sprache
 
 ## Arbeitsbereich
 
-Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

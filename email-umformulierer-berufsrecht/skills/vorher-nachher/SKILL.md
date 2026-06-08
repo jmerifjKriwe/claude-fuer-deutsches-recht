@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher
-description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorher Nachher

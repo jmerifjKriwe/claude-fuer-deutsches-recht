@@ -1,13 +1,13 @@
 ---
 name: bewaehrungswiderruf-56f-stgb
-description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bewaehrungswiderruf — § 56f StGB
 
 ## Arbeitsbereich
 
-Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

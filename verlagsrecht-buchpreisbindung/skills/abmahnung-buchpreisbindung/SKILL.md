@@ -7,7 +7,7 @@ description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes �
 
 ## Arbeitsbereich
 
-Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

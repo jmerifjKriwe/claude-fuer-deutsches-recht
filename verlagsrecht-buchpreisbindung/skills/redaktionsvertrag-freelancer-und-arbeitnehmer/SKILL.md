@@ -7,7 +7,7 @@ description: "Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmer
 
 ## Arbeitsbereich
 
-Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

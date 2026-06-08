@@ -1,13 +1,13 @@
 ---
 name: verhaltenskodex-integritaet-verstoesse-melden
-description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verhaltenskodex und Integritaet
 
 ## Arbeitsbereich
 
-Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

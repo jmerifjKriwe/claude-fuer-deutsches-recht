@@ -1,13 +1,13 @@
 ---
 name: presse-oeffentlichkeitsarbeit-privat
-description: "Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Öffentlichkeit gehört dazu
 
 ## Arbeitsbereich
 
-Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: verwirkung
-description: "Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB
 
 ## Arbeitsbereich
 
-Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

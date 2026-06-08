@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zivilrecht Anspruchsgrundlagen

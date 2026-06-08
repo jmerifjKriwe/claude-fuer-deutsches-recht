@@ -1,13 +1,13 @@
 ---
 name: grenzbeschlagnahme-design
-description: "Grenzbeschlagnahme und Zoll-Enforcement für Designs vorbereiten: Antrag, Produktmerkmale, Original/Fälschung, Zollkontakt, Vernichtung und Parallelmarken im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzbeschlagnahme und Zoll-Enforcement für Designs vorbereiten: Antrag, Produktmerkmale, Original/Fälschung, Zollkontakt, Vernichtung und Parallelmarken im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzbeschlagnahme Design
 
 ## Arbeitsbereich
 
-Grenzbeschlagnahme und Zoll-Enforcement für Designs vorbereiten: Antrag, Produktmerkmale, Original/Fälschung, Zollkontakt, Vernichtung und Parallelmarken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzbeschlagnahme und Zoll-Enforcement für Designs vorbereiten: Antrag, Produktmerkmale, Original/Fälschung, Zollkontakt, Vernichtung und Parallelmarken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: starlink-oneweb-iris2-und-oeffentliche-beschaffung
-description: "Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung
 
 ## Arbeitsbereich
 
-Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

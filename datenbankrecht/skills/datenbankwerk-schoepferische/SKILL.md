@@ -1,13 +1,13 @@
 ---
 name: datenbankwerk-schoepferische
-description: "Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)
 
 ## Arbeitsbereich
 
-Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

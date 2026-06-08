@@ -1,13 +1,13 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15-baugb
-description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
 
 ## Arbeitsbereich
 
-Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

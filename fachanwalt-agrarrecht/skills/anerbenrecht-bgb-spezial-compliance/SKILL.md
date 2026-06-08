@@ -7,7 +7,7 @@ description: "Anerbenrecht BGB Spezial Compliance im Agrarrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-**Anerbenrecht BGB Spezial Compliance** ordnet den Fall über die tragenden Prüfungslinien: Anerbenrecht, BGB, Compliance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anerbenrecht BGB Spezial Compliance** ordnet den Fall über die tragenden Prüfungslinien: Anerbenrecht, BGB, Compliance. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

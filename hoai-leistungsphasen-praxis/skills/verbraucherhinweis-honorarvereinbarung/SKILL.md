@@ -1,13 +1,13 @@
 ---
 name: verbraucherhinweis-honorarvereinbarung
-description: "HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verbraucherhinweis Und Honorarvereinbarung
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

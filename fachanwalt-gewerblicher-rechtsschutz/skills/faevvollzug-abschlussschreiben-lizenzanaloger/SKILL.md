@@ -7,7 +7,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Faevvollzug Abschlussschreiben Lizenzanaloger** ordnet den Fall über die tragenden Prüfungslinien: Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Faevvollzug Abschlussschreiben Lizenzanaloger** ordnet den Fall über die tragenden Prüfungslinien: Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

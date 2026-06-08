@@ -1,13 +1,13 @@
 ---
 name: katastrophenschutz-mit-satellitendaten
-description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Katastrophenschutz mit Satellitendaten
 
 ## Arbeitsbereich
 
-Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

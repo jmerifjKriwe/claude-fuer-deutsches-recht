@@ -1,13 +1,13 @@
 ---
 name: post-mission-aktenabschluss-und-lessons-learned
-description: "Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned
 
 ## Arbeitsbereich
 
-Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

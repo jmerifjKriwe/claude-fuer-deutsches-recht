@@ -7,7 +7,7 @@ description: "Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt V
 
 ## Arbeitsbereich
 
-**Klage Versicherer Triage Versicherungsrecht** ordnet den Fall über die tragenden Prüfungslinien: Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Klage Versicherer Triage Versicherungsrecht** ordnet den Fall über die tragenden Prüfungslinien: Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

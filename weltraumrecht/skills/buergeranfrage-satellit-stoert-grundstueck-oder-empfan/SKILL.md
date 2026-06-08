@@ -1,13 +1,13 @@
 ---
 name: buergeranfrage-satellit-stoert-grundstueck-oder-empfan
-description: "Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang
 
 ## Arbeitsbereich
 
-Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

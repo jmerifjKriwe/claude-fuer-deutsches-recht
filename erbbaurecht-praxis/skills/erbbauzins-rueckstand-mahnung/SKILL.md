@@ -1,13 +1,13 @@
 ---
 name: erbbauzins-rueckstand-mahnung
-description: "Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erbbauzinsrückstand
 
 ## Arbeitsbereich
 
-Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

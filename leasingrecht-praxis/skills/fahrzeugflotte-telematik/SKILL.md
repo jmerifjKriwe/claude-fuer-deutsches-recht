@@ -1,13 +1,13 @@
 ---
 name: fahrzeugflotte-telematik
-description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fahrzeugflotte und Telematik: Datenstrategie und Compliance
 
 ## Arbeitsbereich
 
-Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

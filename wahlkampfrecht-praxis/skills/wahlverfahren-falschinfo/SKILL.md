@@ -1,13 +1,13 @@
 ---
 name: wahlverfahren-falschinfo
-description: "Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahlverfahren Falschinfo
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: tk-regulierungsakte-rufnummernmissbrauch-rechtsmittel-check
-description: "Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Rechtsmittel-Check
 
 ## Arbeitsbereich
 
-Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

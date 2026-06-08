@@ -7,7 +7,7 @@ description: "Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschu
 
 ## Arbeitsbereich
 
-Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

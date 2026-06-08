@@ -1,13 +1,13 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Chronologie und Belegmatrix
 
 ## Arbeitsbereich
 
-Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

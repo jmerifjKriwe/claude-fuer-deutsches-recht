@@ -7,7 +7,7 @@ description: "Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qual
 
 ## Arbeitsbereich
 
-Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

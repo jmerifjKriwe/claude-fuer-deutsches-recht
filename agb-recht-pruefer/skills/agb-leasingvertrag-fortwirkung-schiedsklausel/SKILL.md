@@ -1,13 +1,13 @@
 ---
 name: agb-leasingvertrag-fortwirkung-schiedsklausel
-description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Im Leasingvertrag Fortwirkung
 
 ## Arbeitsbereich
 
-AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: open-source-ai-saas-urheberrecht-lizenzkette
-description: "Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open Source AI Models
 
 ## Arbeitsbereich
 
-Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

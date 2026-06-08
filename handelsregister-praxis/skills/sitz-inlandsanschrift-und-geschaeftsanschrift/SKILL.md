@@ -1,13 +1,13 @@
 ---
 name: sitz-inlandsanschrift-und-geschaeftsanschrift
-description: "Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sitz, Geschäftsanschrift, Zustellung
 
 ## Arbeitsbereich
 
-Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

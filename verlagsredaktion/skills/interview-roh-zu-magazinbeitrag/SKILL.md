@@ -1,13 +1,13 @@
 ---
 name: interview-roh-zu-magazinbeitrag
-description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interview-Roh zu Magazinbeitrag
 
 ## Arbeitsbereich
 
-Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

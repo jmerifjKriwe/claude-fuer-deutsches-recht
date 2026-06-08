@@ -1,13 +1,13 @@
 ---
 name: data-cyber-ai-dd
-description: "Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Data, Cyber und AI Due Diligence
 
 ## Arbeitsbereich
 
-Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

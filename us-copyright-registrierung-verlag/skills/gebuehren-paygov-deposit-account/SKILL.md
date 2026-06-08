@@ -1,13 +1,13 @@
 ---
 name: gebuehren-paygov-deposit-account
-description: "Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gebühren, Pay.gov und Deposit Account
 
 ## Arbeitsbereich
 
-Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

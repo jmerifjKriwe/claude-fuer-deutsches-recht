@@ -1,13 +1,13 @@
 ---
 name: saisonkalender-mittelstand-stichprobe
-description: "Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Saisonkalender Mittelstand
 
 ## Arbeitsbereich
 
-Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

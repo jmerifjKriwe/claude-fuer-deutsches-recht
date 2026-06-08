@@ -1,6 +1,6 @@
 ---
 name: wcag-vs
-description: "WCAG VS im Plugin Barrierefreiheit Web Checker im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "WCAG VS im Plugin Barrierefreiheit Web Checker im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WCAG VS

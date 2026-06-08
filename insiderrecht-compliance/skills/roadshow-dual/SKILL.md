@@ -1,13 +1,13 @@
 ---
 name: roadshow-dual
-description: "Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Roadshows – Insiderrechtliche Compliance
 
 ## Arbeitsbereich
 
-Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

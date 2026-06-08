@@ -1,13 +1,13 @@
 ---
 name: amtsangemessene-alimentation
-description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Amtsangemessene Alimentation
 
 ## Arbeitsbereich
 
-Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

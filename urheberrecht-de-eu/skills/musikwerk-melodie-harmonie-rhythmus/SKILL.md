@@ -1,13 +1,13 @@
 ---
 name: musikwerk-melodie-harmonie-rhythmus
-description: "Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Musikwerk, Melodie, Harmonie und Rhythmus
 
 ## Arbeitsbereich
 
-Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

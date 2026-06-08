@@ -1,13 +1,13 @@
 ---
 name: gemeinderat-satzung-gerichtsladung-zeuge
-description: "Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gemeinderat und Satzung verstehen
 
 ## Arbeitsbereich
 
-Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

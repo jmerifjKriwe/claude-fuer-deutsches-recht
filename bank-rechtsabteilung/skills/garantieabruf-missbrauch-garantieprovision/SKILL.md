@@ -1,13 +1,13 @@
 ---
 name: garantieabruf-missbrauch-garantieprovision
-description: "Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Garantieabruf, Missbrauch und Zahlungsstopp
 
 ## Arbeitsbereich
 
-Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

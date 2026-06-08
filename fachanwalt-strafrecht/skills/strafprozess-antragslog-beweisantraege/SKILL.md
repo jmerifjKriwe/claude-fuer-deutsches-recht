@@ -7,7 +7,7 @@ description: "Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Strafprozess Antragslog Beweisantraege** ordnet den Fall über die tragenden Prüfungslinien: Antragslog für die Hauptverhandlung, Verteidigung gegen automatisierten biometrischen, Tägliches Strafprozess-Cockpit für Verteidiger. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafprozess Antragslog Beweisantraege** ordnet den Fall über die tragenden Prüfungslinien: Antragslog für die Hauptverhandlung, Verteidigung gegen automatisierten biometrischen, Tägliches Strafprozess-Cockpit für Verteidiger. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

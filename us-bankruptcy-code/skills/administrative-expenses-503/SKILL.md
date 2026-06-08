@@ -1,13 +1,13 @@
 ---
 name: administrative-expenses-503
-description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Administrative Expenses § 503
 
 ## Arbeitsbereich
 
-Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

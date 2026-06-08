@@ -1,13 +1,13 @@
 ---
 name: one-in-one-out-bilanz-und-buchung
-description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-One-in-one-out — Bilanz und Buchung
 
 ## Arbeitsbereich
 
-One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

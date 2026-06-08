@@ -1,13 +1,13 @@
 ---
 name: abwehr-schuldner
-description: "Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schuldnerabwehr in der Zwangsvollstreckung
 
 ## Arbeitsbereich
 
-Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: historisch-gewachsene-altsysteme-due-diligence
-description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Historisch Gewachsene Altsysteme — Due Diligence
 
 ## Arbeitsbereich
 
-Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

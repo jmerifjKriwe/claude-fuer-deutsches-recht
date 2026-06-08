@@ -7,7 +7,7 @@ description: "Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nu
 
 ## Arbeitsbereich
 
-Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

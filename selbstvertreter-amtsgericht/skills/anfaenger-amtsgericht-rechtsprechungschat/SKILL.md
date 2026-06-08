@@ -7,7 +7,7 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Anfaenger Amtsgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter vor dem, Fristbeginn ab Zustellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anfaenger Amtsgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter vor dem, Fristbeginn ab Zustellung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: urlaub-erkrankung-verfassungstreue-bbg
-description: "Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urlaub Erkrankung Und Verfall
 
 ## Arbeitsbereich
 
-Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

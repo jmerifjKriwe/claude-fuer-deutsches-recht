@@ -1,13 +1,13 @@
 ---
 name: 049-liste-wirtschaftlich-berechtigter-transparenzregist
-description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Liste wirtschaftlich Berechtigter – Transparenzregister
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

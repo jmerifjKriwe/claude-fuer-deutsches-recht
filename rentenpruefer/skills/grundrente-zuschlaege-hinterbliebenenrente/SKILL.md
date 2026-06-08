@@ -1,13 +1,13 @@
 ---
 name: grundrente-zuschlaege-hinterbliebenenrente
-description: "Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # grundrente-und-zuschlaege
 
 ## Arbeitsbereich
 
-Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

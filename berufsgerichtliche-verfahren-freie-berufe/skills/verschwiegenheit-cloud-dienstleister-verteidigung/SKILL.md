@@ -1,13 +1,13 @@
 ---
 name: verschwiegenheit-cloud-dienstleister-verteidigung
-description: "Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verschwiegenheit und Cloud-Dienstleister: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

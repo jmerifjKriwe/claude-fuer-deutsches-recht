@@ -7,7 +7,7 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 
 ## Arbeitsbereich
 
-**Untreue Schaden** ordnet den Fall über die tragenden Prüfungslinien: Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Untreue Schaden** ordnet den Fall über die tragenden Prüfungslinien: Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: management-presentation-und-q-and-a
-description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Management Presentation und Q&A
 
 ## Arbeitsbereich
 
-Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

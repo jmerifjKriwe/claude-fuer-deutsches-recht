@@ -1,13 +1,13 @@
 ---
 name: force-majeure-im-raumfahrtprojekt
-description: "Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Force Majeure im Raumfahrtprojekt
 
 ## Arbeitsbereich
 
-Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

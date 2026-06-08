@@ -1,13 +1,13 @@
 ---
 name: sanitaetsdienst-und-waffenloser-dienst
-description: "Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanitätsdienst und waffenloser Dienst
 
 ## Arbeitsbereich
 
-Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

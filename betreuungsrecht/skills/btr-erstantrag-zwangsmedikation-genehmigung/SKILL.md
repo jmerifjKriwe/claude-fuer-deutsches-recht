@@ -1,13 +1,13 @@
 ---
 name: btr-erstantrag-zwangsmedikation-genehmigung
-description: "Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Btr: Erst- und Eilantrag
 
 ## Arbeitsbereich
 
-Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

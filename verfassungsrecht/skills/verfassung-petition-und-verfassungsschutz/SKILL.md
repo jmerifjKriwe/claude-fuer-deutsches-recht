@@ -1,13 +1,13 @@
 ---
 name: verfassung-petition-und-verfassungsschutz
-description: "Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Petition + Verfassungsschutz
 
 ## Arbeitsbereich
 
-Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

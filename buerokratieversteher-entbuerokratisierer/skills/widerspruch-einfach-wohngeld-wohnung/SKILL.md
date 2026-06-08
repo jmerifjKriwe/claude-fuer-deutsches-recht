@@ -1,13 +1,13 @@
 ---
 name: widerspruch-einfach-wohngeld-wohnung
-description: "Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch einfach
 
 ## Arbeitsbereich
 
-Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: hassrede-kommentare-moderation-und-haftung
-description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung
 
 ## Arbeitsbereich
 
-Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

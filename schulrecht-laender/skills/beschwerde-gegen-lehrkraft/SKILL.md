@@ -1,13 +1,13 @@
 ---
 name: beschwerde-gegen-lehrkraft
-description: "Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde gegen Lehrkraft
 
 ## Arbeitsbereich
 
-Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

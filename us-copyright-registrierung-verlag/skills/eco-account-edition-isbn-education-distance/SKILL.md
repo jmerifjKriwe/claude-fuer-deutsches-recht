@@ -1,13 +1,13 @@
 ---
 name: eco-account-edition-isbn-education-distance
-description: "eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # eCO Account und Organisationskonto
 
 ## Arbeitsbereich
 
-eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: uwr-altlasten-pruefung-spezial
-description: "Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte für Bescheid-Anfechtung im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte für Bescheid-Anfechtung im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelt: Altlastenpruefung
 
 ## Arbeitsbereich
 
-Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte für Bescheid-Anfechtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte für Bescheid-Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

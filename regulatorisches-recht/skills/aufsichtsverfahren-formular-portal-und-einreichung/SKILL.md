@@ -1,13 +1,13 @@
 ---
 name: aufsichtsverfahren-formular-portal-und-einreichung
-description: "Aufsichtsverfahren: Formular, Portal und Einreichungslogik im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufsichtsverfahren: Formular, Portal und Einreichungslogik im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtsverfahren: Formular, Portal und Einreichungslogik
 
 ## Arbeitsbereich
 
-Aufsichtsverfahren: Formular, Portal und Einreichungslogik im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufsichtsverfahren: Formular, Portal und Einreichungslogik im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

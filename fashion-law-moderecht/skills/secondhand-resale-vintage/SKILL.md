@@ -1,13 +1,13 @@
 ---
 name: secondhand-resale-vintage
-description: "Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Secondhand Resale Vintage
 
 ## Arbeitsbereich
 
-Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

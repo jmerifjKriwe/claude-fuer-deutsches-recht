@@ -1,13 +1,13 @@
 ---
 name: lma-transfer-assignment-schuldschein-darlehen-struktur-npl
-description: "Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LMA-Transfer: Assignment, Novation, Transfer Certificate
 
 ## Arbeitsbereich
 
-Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

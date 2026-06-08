@@ -1,13 +1,13 @@
 ---
 name: automatic-stay-362
-description: "Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Automatic Stay § 362
 
 ## Arbeitsbereich
 
-Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

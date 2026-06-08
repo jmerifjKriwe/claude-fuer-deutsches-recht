@@ -1,13 +1,13 @@
 ---
 name: soundmarke-bewegungsmarke-alicante-boutique
-description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken
 
 ## Arbeitsbereich
 
-Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

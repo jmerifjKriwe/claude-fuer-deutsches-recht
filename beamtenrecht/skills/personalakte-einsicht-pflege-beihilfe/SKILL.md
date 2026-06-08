@@ -1,13 +1,13 @@
 ---
 name: personalakte-einsicht-pflege-beihilfe
-description: "Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personalakte Einsicht Datenschutz
 
 ## Arbeitsbereich
 
-Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

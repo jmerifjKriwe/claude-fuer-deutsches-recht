@@ -1,13 +1,13 @@
 ---
 name: kunst-und-musikhochschulen
-description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kunst Und Musikhochschulen
 
 ## Arbeitsbereich
 
-Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

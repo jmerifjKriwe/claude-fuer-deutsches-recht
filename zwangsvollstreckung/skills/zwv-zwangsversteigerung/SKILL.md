@@ -1,6 +1,6 @@
 ---
 name: zwv-zwangsversteigerung
-description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZWV Zwangsversteigerung

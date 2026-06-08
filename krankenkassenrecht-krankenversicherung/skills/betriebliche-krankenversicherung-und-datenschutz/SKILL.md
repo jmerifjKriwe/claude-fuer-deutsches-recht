@@ -7,7 +7,7 @@ description: "Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistung
 
 ## Arbeitsbereich
 
-Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

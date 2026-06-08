@@ -1,13 +1,13 @@
 ---
 name: ot-industrial-control
-description: "Prüft OT, SPS, Produktionsnetze und industrielle Steuerung im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft OT, SPS, Produktionsnetze und industrielle Steuerung im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # OT Industrial Control
 
 ## Arbeitsbereich
 
-Prüft OT, SPS, Produktionsnetze und industrielle Steuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft OT, SPS, Produktionsnetze und industrielle Steuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gnss-galileo-haftung-und-dienstqualitaet
-description: "Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität
 
 ## Arbeitsbereich
 
-Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

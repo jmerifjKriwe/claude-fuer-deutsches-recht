@@ -1,13 +1,13 @@
 ---
 name: unterlagenmappe-kdv-verwaltungsakt
-description: "Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterlagenmappe KDV
 
 ## Arbeitsbereich
 
-Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

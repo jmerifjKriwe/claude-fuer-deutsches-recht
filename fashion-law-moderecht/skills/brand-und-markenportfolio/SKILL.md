@@ -1,13 +1,13 @@
 ---
 name: brand-und-markenportfolio
-description: "Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Brand Und Markenportfolio
 
 ## Arbeitsbereich
 
-Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

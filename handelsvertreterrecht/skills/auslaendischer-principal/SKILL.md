@@ -1,13 +1,13 @@
 ---
 name: auslaendischer-principal
-description: "Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht
 
 ## Arbeitsbereich
 
-Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

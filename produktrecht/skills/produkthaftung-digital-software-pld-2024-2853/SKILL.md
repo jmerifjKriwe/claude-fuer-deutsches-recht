@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-digital-software-pld-2024-2853
-description: "Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produkthaftung für Software und digitale Komponenten
 
 ## Arbeitsbereich
 
-Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

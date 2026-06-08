@@ -1,13 +1,13 @@
 ---
 name: free-clear-sale-363f
-description: "Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Free and Clear Sale § 363(f)
 
 ## Arbeitsbereich
 
-Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

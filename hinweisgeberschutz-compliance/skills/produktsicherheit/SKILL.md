@@ -1,13 +1,13 @@
 ---
 name: produktsicherheit
-description: "Prüft Produkt- und Sicherheitsverstöße aus Hinweisen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Produkt- und Sicherheitsverstöße aus Hinweisen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktsicherheit
 
 ## Arbeitsbereich
 
-Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

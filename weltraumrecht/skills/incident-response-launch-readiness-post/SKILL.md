@@ -1,13 +1,13 @@
 ---
 name: incident-response-launch-readiness-post
-description: "Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Incident Response: Satellitenausfall
 
 ## Arbeitsbereich
 
-Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

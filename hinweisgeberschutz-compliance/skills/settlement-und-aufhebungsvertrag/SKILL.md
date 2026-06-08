@@ -1,13 +1,13 @@
 ---
 name: settlement-und-aufhebungsvertrag
-description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Settlement Und Aufhebungsvertrag
 
 ## Arbeitsbereich
 
-Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: antwortschreiben-hinweisgeber
-description: "Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Antwortschreiben Hinweisgeber
 
 ## Arbeitsbereich
 
-Formuliert Antworten an Hinweisgeber rechtssicher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Antworten an Hinweisgeber rechtssicher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

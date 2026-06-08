@@ -1,13 +1,13 @@
 ---
 name: abschlussmemo-handelsrecht
-description: "Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abschlussmemo Internationales Handelsrecht
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

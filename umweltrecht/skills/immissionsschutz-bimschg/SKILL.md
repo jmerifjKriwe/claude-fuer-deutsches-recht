@@ -1,13 +1,13 @@
 ---
 name: immissionsschutz-bimschg
-description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Immissionsschutz und BImSchG
 
 ## Arbeitsbereich
 
-Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

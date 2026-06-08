@@ -1,13 +1,13 @@
 ---
 name: delisting-bernahmeangebot
-description: "Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Delisting – Insiderrecht und Ad-hoc-Pflicht
 
 ## Arbeitsbereich
 
-Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

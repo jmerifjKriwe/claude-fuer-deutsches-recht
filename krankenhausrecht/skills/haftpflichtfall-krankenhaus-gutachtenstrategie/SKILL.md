@@ -1,13 +1,13 @@
 ---
 name: haftpflichtfall-krankenhaus-gutachtenstrategie
-description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haftpflichtfall Krankenhaus Gutachtenstrategie
 
 ## Arbeitsbereich
 
-Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: datev-zugriff-nach-mandatsende-rechtsprechungsche
-description: "Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
 ## Arbeitsbereich
 
-Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

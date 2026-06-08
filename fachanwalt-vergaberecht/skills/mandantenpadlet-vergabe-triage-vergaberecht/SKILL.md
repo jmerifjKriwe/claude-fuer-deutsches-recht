@@ -7,7 +7,7 @@ description: "Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt V
 
 ## Arbeitsbereich
 
-**Mandantenpadlet Vergabe Triage Vergaberecht** ordnet den Fall über die tragenden Prüfungslinien: Interaktives Vergabe-Padlet als Canvas erstellen, Eingangs-Triage für vergaberechtliche Mandate, Nachhaltigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandantenpadlet Vergabe Triage Vergaberecht** ordnet den Fall über die tragenden Prüfungslinien: Interaktives Vergabe-Padlet als Canvas erstellen, Eingangs-Triage für vergaberechtliche Mandate, Nachhaltigkeit. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: flughafen-pfaendung-genehmigung
-description: "Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Pfändung planen
 
 ## Arbeitsbereich
 
-Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

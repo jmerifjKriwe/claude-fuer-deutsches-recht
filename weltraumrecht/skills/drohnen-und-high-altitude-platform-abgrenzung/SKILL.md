@@ -1,13 +1,13 @@
 ---
 name: drohnen-und-high-altitude-platform-abgrenzung
-description: "Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung
 
 ## Arbeitsbereich
 
-Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

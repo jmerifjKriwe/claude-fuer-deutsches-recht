@@ -1,13 +1,13 @@
 ---
 name: produktzulassung-whistleblower
-description: "Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
 
 ## Arbeitsbereich
 
-Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

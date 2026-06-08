@@ -1,13 +1,13 @@
 ---
 name: dma-interoperabilitaet-messenger-art-7
-description: "Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DMA: Messenger-Interoperabilitaet
 
 ## Arbeitsbereich
 
-Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

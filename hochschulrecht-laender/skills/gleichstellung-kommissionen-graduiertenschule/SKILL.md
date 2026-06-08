@@ -1,13 +1,13 @@
 ---
 name: gleichstellung-kommissionen-graduiertenschule
-description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gleichstellung in Kommissionen
 
 ## Arbeitsbereich
 
-Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

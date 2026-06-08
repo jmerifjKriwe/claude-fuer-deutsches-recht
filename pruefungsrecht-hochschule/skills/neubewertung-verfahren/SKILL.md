@@ -1,13 +1,13 @@
 ---
 name: neubewertung-verfahren
-description: "Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Neubewertung Verfahren
 
 ## Arbeitsbereich
 
-Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

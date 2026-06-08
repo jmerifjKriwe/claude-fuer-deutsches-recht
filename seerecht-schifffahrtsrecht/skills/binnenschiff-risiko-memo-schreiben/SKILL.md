@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-risiko-memo-schreiben
-description: "Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

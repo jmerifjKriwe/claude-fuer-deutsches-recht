@@ -1,13 +1,13 @@
 ---
 name: franchise-leasing-ausstattung
-description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise-Leasing: Ausstattung und Eigentumsrechte
 
 ## Arbeitsbereich
 
-Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: idev-estatistik-core
-description: "Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IDEV und eSTATISTIK.core praktisch nutzen
 
 ## Arbeitsbereich
 
-Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

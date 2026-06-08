@@ -1,13 +1,13 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiheitsstrafe — Strafmass pruefen
 
 ## Arbeitsbereich
 
-Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

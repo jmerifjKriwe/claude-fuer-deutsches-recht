@@ -1,13 +1,13 @@
 ---
 name: zitat-internet-quellen-kommentar-randnummer
-description: "Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internet-Quellen zitieren
 
 ## Arbeitsbereich
 
-Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

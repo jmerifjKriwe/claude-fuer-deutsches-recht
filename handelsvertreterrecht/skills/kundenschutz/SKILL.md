@@ -1,13 +1,13 @@
 ---
 name: kundenschutz
-description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen
 
 ## Arbeitsbereich
 
-Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

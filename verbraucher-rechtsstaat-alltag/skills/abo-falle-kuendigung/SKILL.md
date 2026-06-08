@@ -1,13 +1,13 @@
 ---
 name: abo-falle-kuendigung
-description: "Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abo-Falle und Kündigung
 
 ## Arbeitsbereich
 
-Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

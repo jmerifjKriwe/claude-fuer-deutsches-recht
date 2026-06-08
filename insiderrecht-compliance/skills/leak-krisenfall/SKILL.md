@@ -1,13 +1,13 @@
 ---
 name: leak-krisenfall
-description: "Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leak Response – Reaktion auf Informationslecks
 
 ## Arbeitsbereich
 
-Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

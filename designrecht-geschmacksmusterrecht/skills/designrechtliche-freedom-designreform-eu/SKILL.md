@@ -1,13 +1,13 @@
 ---
 name: designrechtliche-freedom-designreform-eu
-description: "Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designrechtliche Freedom To Operate
 
 ## Arbeitsbereich
 
-Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

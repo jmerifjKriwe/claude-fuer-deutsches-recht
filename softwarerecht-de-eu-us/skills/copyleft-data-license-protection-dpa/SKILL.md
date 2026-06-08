@@ -1,13 +1,13 @@
 ---
 name: copyleft-data-license-protection-dpa
-description: "Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Copyleft Compliance
 
 ## Arbeitsbereich
 
-Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

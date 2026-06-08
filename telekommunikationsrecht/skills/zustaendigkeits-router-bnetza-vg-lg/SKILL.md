@@ -1,13 +1,13 @@
 ---
 name: zustaendigkeits-router-bnetza-vg-lg
-description: "Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur
 
 ## Arbeitsbereich
 
-Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bmwe-aussenwirtschaft-und-investitionspruefung
-description: "Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aussenwirtschaft und Investitionspruefung (BMWE)
 
 ## Arbeitsbereich
 
-Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: zeugen-befragungsstrategie-strafbefehl
-description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeugen-Befragungsstrategie in der Hauptverhandlung
 
 ## Arbeitsbereich
 
-Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

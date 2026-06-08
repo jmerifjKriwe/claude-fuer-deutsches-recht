@@ -1,13 +1,13 @@
 ---
 name: netzsegmentierung-nis2-betroffenheitscheck
-description: "Prüft Netzsegmentierung und Trennung kritischer Systeme im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Netzsegmentierung und Trennung kritischer Systeme im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Netzsegmentierung
 
 ## Arbeitsbereich
 
-Prüft Netzsegmentierung und Trennung kritischer Systeme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Netzsegmentierung und Trennung kritischer Systeme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: claim-objection-502
-description: "Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Claim Objection § 502
 
 ## Arbeitsbereich
 
-Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

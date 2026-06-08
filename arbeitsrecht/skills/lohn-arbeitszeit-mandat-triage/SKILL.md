@@ -7,15 +7,15 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Lohn Arbeitszeit Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Lohn Arbeitszeit Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `lohn-arbeitszeit-fragen` | Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall), Tarifverträge, Überstunden. Antwort mit der maßgeblichen Norm und Zitat. |
 | `mandat-triage-arbeitsrecht` | Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung). |
-| `massenentlassung-17-kschg` | Prüfungslinie für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `mindestlohn-arbeitszeit-erfassung` | Prüfungslinie für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `massenentlassung-17-kschg` | Massenentlassung 17 KSchG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
+| `mindestlohn-arbeitszeit-erfassung` | Mindestlohn Arbeitszeit Erfassung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -33,7 +33,7 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 ### /arbeitsrecht:lohn-arbeitszeit-fragen
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:lohn-arbeitszeit-fragen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:lohn-arbeitszeit-fragen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -178,7 +178,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Mandat-Triage Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -363,12 +363,12 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 ## 3. `massenentlassung-17-kschg`
 
-**Fokus:** Prüfungslinie für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Massenentlassung 17 KSchG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Massenentlassung § 17 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -609,12 +609,12 @@ Schriftlich an Betriebsrat:
 
 ## 4. `mindestlohn-arbeitszeit-erfassung`
 
-**Fokus:** Prüfungslinie für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Mindestlohn Arbeitszeit Erfassung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Mindestlohn und Arbeitszeit-Erfassung
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mindestlohn und Arbeitszeit-Erfassung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mindestlohn und Arbeitszeit-Erfassung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

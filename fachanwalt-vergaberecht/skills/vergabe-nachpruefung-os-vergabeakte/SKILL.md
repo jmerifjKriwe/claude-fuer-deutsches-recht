@@ -7,7 +7,7 @@ description: "Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergabere
 
 ## Arbeitsbereich
 
-**Vergabe Nachpruefung OS Vergabeakte** ordnet den Fall über die tragenden Prüfungslinien: Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS für Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk für Auftraggeber. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vergabe Nachpruefung OS Vergabeakte** ordnet den Fall über die tragenden Prüfungslinien: Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS für Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk für Auftraggeber. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: insolvenzreife
-description: "Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht
 
 ## Arbeitsbereich
 
-Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

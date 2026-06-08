@@ -1,13 +1,13 @@
 ---
 name: post-eintragung-rangruecktritt-formulieren
-description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Post-Eintragung-Checkliste
 
 ## Arbeitsbereich
 
-Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

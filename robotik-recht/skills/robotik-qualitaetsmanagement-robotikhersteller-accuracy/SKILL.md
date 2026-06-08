@@ -1,13 +1,13 @@
 ---
 name: robotik-qualitaetsmanagement-robotikhersteller-accuracy
-description: "Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # QM Robotikhersteller
 
 ## Arbeitsbereich
 
-Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

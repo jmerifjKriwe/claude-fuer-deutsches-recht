@@ -1,13 +1,13 @@
 ---
 name: gerichtsstand-anwendbares-api-nutzung
-description: "Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtsstand und anwendbares Recht im Datenbankrecht
 
 ## Arbeitsbereich
 
-Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

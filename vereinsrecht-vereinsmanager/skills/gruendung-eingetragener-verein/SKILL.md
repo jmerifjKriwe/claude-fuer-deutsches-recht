@@ -1,13 +1,13 @@
 ---
 name: gruendung-eingetragener-verein
-description: "Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eingetragener Verein gründen
 
 ## Arbeitsbereich
 
-Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

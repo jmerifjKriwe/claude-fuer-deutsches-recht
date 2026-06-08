@@ -1,13 +1,13 @@
 ---
 name: lp-transfer-und-secondary
-description: "Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LP-Transfer und Secondary Interest Sale
 
 ## Arbeitsbereich
 
-Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

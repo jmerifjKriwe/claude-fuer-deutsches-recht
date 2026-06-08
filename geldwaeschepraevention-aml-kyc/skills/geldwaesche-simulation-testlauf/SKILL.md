@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-simulation-testlauf
-description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behördenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behördenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AML/KYC-Simulationsmodus
 
 ## Arbeitsbereich
 
-Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behördenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behördenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

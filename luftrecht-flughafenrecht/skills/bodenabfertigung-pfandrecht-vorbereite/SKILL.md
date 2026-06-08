@@ -1,13 +1,13 @@
 ---
 name: bodenabfertigung-pfandrecht-vorbereite
-description: "Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bodenabfertigung – Pfandrecht vorbereiten
 
 ## Arbeitsbereich
 
-Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

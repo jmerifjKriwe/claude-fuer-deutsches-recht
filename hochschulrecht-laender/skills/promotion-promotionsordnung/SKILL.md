@@ -1,13 +1,13 @@
 ---
 name: promotion-promotionsordnung
-description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Promotion Und Promotionsordnung
 
 ## Arbeitsbereich
 
-Prüft Promotion, Annahme, Betreuung und Entzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Promotion, Annahme, Betreuung und Entzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

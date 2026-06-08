@@ -1,13 +1,13 @@
 ---
 name: effective-date-eligibility-credit-employee
-description: "Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Effective Date and Plan Closing
 
 ## Arbeitsbereich
 
-Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

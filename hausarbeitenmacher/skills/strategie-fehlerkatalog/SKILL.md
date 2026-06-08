@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Hausarbeitenmacher** Ergebnisse vor Abg
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-hausarbeit-start-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufgabenstellung-erfassen-fachgebiet-routing-gliederung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ausfluegen-didaktisches-durch`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `behutsame-frech-haeufige-fehler-selbstkontrolle-abgabe`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `europarecht-anwendbarkeit-hausarbeiten-bearbeitungsplan`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `europarecht-interessen-fertigen-sonderfall-fuehrt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `juristische-liefert-beweislast-rechtstheorie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `methodenlehre-auslegung-öffentliches-statthaft-professor`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-hausarbeit-start-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufgabenstellung-erfassen-fachgebiet-routing-gliederung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ausfluegen-didaktisches-durch`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `behutsame-frech-haeufige-fehler-selbstkontrolle-abgabe`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `europarecht-anwendbarkeit-hausarbeiten-bearbeitungsplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `europarecht-interessen-fertigen-sonderfall-fuehrt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `juristische-liefert-beweislast-rechtstheorie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `methodenlehre-auslegung-öffentliches-statthaft-professor`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

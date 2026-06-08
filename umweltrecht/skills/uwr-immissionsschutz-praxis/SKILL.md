@@ -1,13 +1,13 @@
 ---
 name: uwr-immissionsschutz-praxis
-description: "Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhörung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster für Anlagenbetreiber und Anwohner im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhörung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster für Anlagenbetreiber und Anwohner im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelt: Immissionsschutz-Praxis
 
 ## Arbeitsbereich
 
-Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhörung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster für Anlagenbetreiber und Anwohner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhörung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster für Anlagenbetreiber und Anwohner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

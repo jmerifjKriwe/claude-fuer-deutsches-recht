@@ -1,13 +1,13 @@
 ---
 name: fall-zusammenfassung-gliederungs-baukasten
-description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fallbearbeitung im Gutachtenstil
 
 ## Arbeitsbereich
 
-Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

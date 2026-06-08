@@ -1,13 +1,13 @@
 ---
 name: authorschaft-work-backlist-rights-best
-description: "Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Autorenschaft, Work Made For Hire und Rechtekette
 
 ## Arbeitsbereich
 
-Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

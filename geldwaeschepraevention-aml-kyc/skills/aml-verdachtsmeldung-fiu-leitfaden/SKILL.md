@@ -1,13 +1,13 @@
 ---
 name: aml-verdachtsmeldung-fiu-leitfaden
-description: "Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitenden. Pruefraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitenden. Pruefraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AML: FIU-Verdachtsmeldung
 
 ## Arbeitsbereich
 
-Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitenden. Pruefraster für Geldwaeschebeauftragten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitenden. Pruefraster für Geldwaeschebeauftragten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

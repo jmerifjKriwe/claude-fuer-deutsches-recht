@@ -7,7 +7,7 @@ description: "Anhörung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-**Anhörung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anhörung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

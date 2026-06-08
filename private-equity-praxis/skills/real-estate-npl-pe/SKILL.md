@@ -1,13 +1,13 @@
 ---
 name: real-estate-npl-pe
-description: "Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Real-Estate-NPL und Sicherheitenverwertung
 
 ## Arbeitsbereich
 
-Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

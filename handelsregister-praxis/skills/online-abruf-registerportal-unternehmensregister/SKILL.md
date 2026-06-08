@@ -1,13 +1,13 @@
 ---
 name: online-abruf-registerportal-unternehmensregister
-description: "Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerabruf richtig dokumentieren
 
 ## Arbeitsbereich
 
-Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

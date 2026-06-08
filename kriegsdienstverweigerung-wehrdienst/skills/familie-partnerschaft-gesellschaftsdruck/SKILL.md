@@ -1,13 +1,13 @@
 ---
 name: familie-partnerschaft-gesellschaftsdruck
-description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familien- und Gesellschaftsdruck
 
 ## Arbeitsbereich
 
-Trennt externe Erwartungen von der eigenen Gewissensentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt externe Erwartungen von der eigenen Gewissensentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

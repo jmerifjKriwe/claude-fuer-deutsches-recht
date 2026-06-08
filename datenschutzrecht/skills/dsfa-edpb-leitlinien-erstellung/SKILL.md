@@ -7,7 +7,7 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüfungslinien: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüfungslinien: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

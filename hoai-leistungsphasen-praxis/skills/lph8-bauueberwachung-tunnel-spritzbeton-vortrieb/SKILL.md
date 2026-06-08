@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-tunnel-spritzbeton-vortrieb
-description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

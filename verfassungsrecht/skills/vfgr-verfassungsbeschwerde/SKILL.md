@@ -1,6 +1,6 @@
 ---
 name: vfgr-verfassungsbeschwerde
-description: "Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vfgr Verfassungsbeschwerde

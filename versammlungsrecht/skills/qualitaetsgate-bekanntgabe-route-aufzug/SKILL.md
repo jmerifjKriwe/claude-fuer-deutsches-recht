@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-bekanntgabe-route-aufzug
-description: "Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Noch einmal durchatmen
 
 ## Arbeitsbereich
 
-Letzter Check vor öffentlicher Einladung oder Versand der Anzeige. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Letzter Check vor öffentlicher Einladung oder Versand der Anzeige. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

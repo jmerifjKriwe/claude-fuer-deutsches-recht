@@ -1,13 +1,13 @@
 ---
 name: look-feel-mandatsannahme-gwg
-description: "Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig und edel. Anwendungsfall Plugin-Output soll innerhalb Cowork-Grenzen professionell aussehen ohne CSS-Abhaengigkeit. Werkzeuge Markdown-Dashboards Statuskarten Freigabeampeln blaeullich-silberne Grundtöne orangener Akzent. Output Formatierungsregelwerk für alle Plugin-Ausgaben mit Ampelfarben Statuskarten und Tabellenstruktur. Abgrenzung zu kanzlei-allgemein-schreibcanvas (Schriftsatzentwurf) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig und edel. Anwendungsfall Plugin-Output soll innerhalb Cowork-Grenzen professionell aussehen ohne CSS-Abhaengigkeit. Werkzeuge Markdown-Dashboards Statuskarten Freigabeampeln blaeullich-silberne Grundtöne orangener Akzent. Output Formatierungsregelwerk für alle Plugin-Ausgaben mit Ampelfarben Statuskarten und Tabellenstruktur. Abgrenzung zu kanzlei-allgemein-schreibcanvas (Schriftsatzentwurf) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Look and Feel
 
 ## Arbeitsbereich
 
-Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig und edel. Anwendungsfall Plugin-Output soll innerhalb Cowork-Grenzen professionell aussehen ohne CSS-Abhaengigkeit. Werkzeuge Markdown-Dashboards Statuskarten Freigabeampeln blaeullich-silberne Grundtöne orangener Akzent. Output Formatierungsregelwerk für alle Plugin-Ausgaben mit Ampelfarben Statuskarten und Tabellenstruktur. Abgrenzung zu kanzlei-allgemein-schreibcanvas (Schriftsatzentwurf) und kanzlei-allgemein-qualitaetsgate-hardening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig und edel. Anwendungsfall Plugin-Output soll innerhalb Cowork-Grenzen professionell aussehen ohne CSS-Abhaengigkeit. Werkzeuge Markdown-Dashboards Statuskarten Freigabeampeln blaeullich-silberne Grundtöne orangener Akzent. Output Formatierungsregelwerk für alle Plugin-Ausgaben mit Ampelfarben Statuskarten und Tabellenstruktur. Abgrenzung zu kanzlei-allgemein-schreibcanvas (Schriftsatzentwurf) und kanzlei-allgemein-qualitaetsgate-hardening. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

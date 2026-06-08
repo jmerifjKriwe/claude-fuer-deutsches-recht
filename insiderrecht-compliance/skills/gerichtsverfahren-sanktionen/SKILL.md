@@ -1,13 +1,13 @@
 ---
 name: gerichtsverfahren-sanktionen
-description: "Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtsverfahren und Schiedsverfahren – Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gewerblicher-erstpruefung-und-mandatsziel
-description: "Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz
 
 ## Arbeitsbereich
 
-Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

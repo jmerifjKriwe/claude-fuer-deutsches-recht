@@ -1,13 +1,13 @@
 ---
 name: landesliste-bundestag-landesrecht
-description: "Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landesliste Bundestag
 
 ## Arbeitsbereich
 
-Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

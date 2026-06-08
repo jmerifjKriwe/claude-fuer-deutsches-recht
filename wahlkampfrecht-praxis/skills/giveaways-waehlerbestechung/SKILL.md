@@ -1,13 +1,13 @@
 ---
 name: giveaways-waehlerbestechung
-description: "Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Giveaways Waehlerbestechung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

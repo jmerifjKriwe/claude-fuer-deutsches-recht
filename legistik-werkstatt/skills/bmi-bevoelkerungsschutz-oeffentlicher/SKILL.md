@@ -1,13 +1,13 @@
 ---
 name: bmi-bevoelkerungsschutz-oeffentlicher
-description: "Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bevoelkerungsschutz und Katastrophenrecht (BMI)
 
 ## Arbeitsbereich
 
-Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

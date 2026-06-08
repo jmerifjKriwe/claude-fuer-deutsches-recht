@@ -1,13 +1,13 @@
 ---
 name: konnossement-wrackpflicht-pruefen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

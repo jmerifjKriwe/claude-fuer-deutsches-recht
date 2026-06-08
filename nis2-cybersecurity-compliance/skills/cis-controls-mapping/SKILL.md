@@ -1,13 +1,13 @@
 ---
 name: cis-controls-mapping
-description: "Mappt CIS Controls auf umsetzbare technische Maßnahmen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mappt CIS Controls auf umsetzbare technische Maßnahmen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CIS Controls Mapping
 
 ## Arbeitsbereich
 
-Mappt CIS Controls auf umsetzbare technische Maßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mappt CIS Controls auf umsetzbare technische Maßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Sportrecht** Ergebnisse vor 
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `cas-berufung-erstgespraech-mandatsannahme-doping-cas`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dosb-fachanwalt-fifa`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-sportrecht-athletenvertrag-fristennotiz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-sportrecht-sportr-athletenvertrag-esports`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesellschaftsrecht-beweislast-mandat-nada-interessen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mandat-triage-schriftsatzkern-substantiierung-code`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `orientierung-stadion-hausverbot-vereinsstrafrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `persoenlichkeitsrechte-schnittstelle-mandantenentscheidung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `sponsoring-sportr-sonderfall-sportrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `cas-berufung-erstgespraech-mandatsannahme-doping-cas`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dosb-fachanwalt-fifa`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-sportrecht-athletenvertrag-fristennotiz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-sportrecht-sportr-athletenvertrag-esports`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesellschaftsrecht-beweislast-mandat-nada-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mandat-triage-schriftsatzkern-substantiierung-code`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `orientierung-stadion-hausverbot-vereinsstrafrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `persoenlichkeitsrechte-schnittstelle-mandantenentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `sponsoring-sportr-sonderfall-sportrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

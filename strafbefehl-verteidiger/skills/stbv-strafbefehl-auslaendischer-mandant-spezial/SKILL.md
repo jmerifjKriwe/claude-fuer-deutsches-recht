@@ -1,13 +1,13 @@
 ---
 name: stbv-strafbefehl-auslaendischer-mandant-spezial
-description: "Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster für Verteidiger im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster für Verteidiger im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StBV: Strafbefehl Auslaender
 
 ## Arbeitsbereich
 
-Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster für Verteidiger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster für Verteidiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

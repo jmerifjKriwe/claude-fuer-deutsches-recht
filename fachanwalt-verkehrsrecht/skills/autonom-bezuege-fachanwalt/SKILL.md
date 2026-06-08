@@ -7,7 +7,7 @@ description: "Autonom Bezuege Fachanwalt im Plugin Fachanwalt Verkehrsrecht: pr�
 
 ## Arbeitsbereich
 
-**Autonom Bezuege Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Autonom, Bezuege, Fachanwalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Autonom Bezuege Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Autonom, Bezuege, Fachanwalt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Zwangsverwaltung Zvg** Ergebnisse vor A
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berichte-beschlagnahme-mietverwaltung-besitz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bieterangebote-mieten-öffentliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `insolvenz-schnittstelle-instandhaltung-sicherung-zvg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `konten-kassenfuehrung-miet-pachtverwaltung-mieteinzug`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `quality-recherche-rechnungslegung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `treuhandkonto-versteigerung-versteigerungsteilnahme`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `versicherungen-gefahren-zvg-versteigerungsteilnahme-zvg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verteilung-zwangsverwaltung-aktenanlage-objektcockpit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berichte-beschlagnahme-mietverwaltung-besitz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bieterangebote-mieten-öffentliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `insolvenz-schnittstelle-instandhaltung-sicherung-zvg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `konten-kassenfuehrung-miet-pachtverwaltung-mieteinzug`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `quality-recherche-rechnungslegung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `treuhandkonto-versteigerung-versteigerungsteilnahme`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `versicherungen-gefahren-zvg-versteigerungsteilnahme-zvg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verteilung-zwangsverwaltung-aktenanlage-objektcockpit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

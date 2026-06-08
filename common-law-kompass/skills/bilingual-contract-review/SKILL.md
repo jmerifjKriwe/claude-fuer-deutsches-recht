@@ -1,13 +1,13 @@
 ---
 name: bilingual-contract-review
-description: "Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bilingual Contract Review
 
 ## Arbeitsbereich
 
-Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

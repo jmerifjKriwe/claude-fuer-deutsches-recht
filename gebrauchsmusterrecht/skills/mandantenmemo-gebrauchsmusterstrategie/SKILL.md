@@ -1,13 +1,13 @@
 ---
 name: mandantenmemo-gebrauchsmusterstrategie
-description: "Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenmemo Gebrauchsmusterstrategie
 
 ## Arbeitsbereich
 
-Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

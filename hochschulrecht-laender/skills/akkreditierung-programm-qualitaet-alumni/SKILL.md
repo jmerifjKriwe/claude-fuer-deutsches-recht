@@ -1,13 +1,13 @@
 ---
 name: akkreditierung-programm-qualitaet-alumni
-description: "Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Akkreditierung: Programm und System
 
 ## Arbeitsbereich
 
-Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

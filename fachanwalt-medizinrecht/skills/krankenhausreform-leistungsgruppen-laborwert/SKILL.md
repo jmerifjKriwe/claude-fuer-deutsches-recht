@@ -7,7 +7,7 @@ description: "Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Krankenhausreform Leistungsgruppen Laborwert** ordnet den Fall über die tragenden Prüfungslinien: Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Krankenhausreform Leistungsgruppen Laborwert** ordnet den Fall über die tragenden Prüfungslinien: Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: quality-gate
-description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common-Law-Qualitätstor
 
 ## Arbeitsbereich
 
-Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

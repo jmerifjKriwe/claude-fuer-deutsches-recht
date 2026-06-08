@@ -1,13 +1,13 @@
 ---
 name: prokura-eintragung-rechtsabteilung
-description: "Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prokura anmelden und löschen
 
 ## Arbeitsbereich
 
-Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsich
 
 ## Arbeitsbereich
 
-Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

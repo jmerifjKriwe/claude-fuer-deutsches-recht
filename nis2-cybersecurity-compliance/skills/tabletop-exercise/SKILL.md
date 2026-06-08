@@ -1,13 +1,13 @@
 ---
 name: tabletop-exercise
-description: "Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tabletop Exercise
 
 ## Arbeitsbereich
 
-Plant Tabletop-Übungen für Cyberkrisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Tabletop-Übungen für Cyberkrisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

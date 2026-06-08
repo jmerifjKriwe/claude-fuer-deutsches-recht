@@ -27,16 +27,16 @@ Dieser Fehlerkatalog prüft im Bereich **Forschungszulage Antragstellung** Ergeb
 
 ## Fachspezifische Fehlerachsen
 
-- `abgrenzung-adaptiver-antrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `antragstellung-auszahlung-beihilfen-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bemessungsgrundlage-interessen-bsfz-definition`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forsch-bsfz-pruefung-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forsch-konzernverbund-forschung-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forsch-projektbeschreibung-bauleiter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forsch-stundenaufzeichnung-fz-ablehnung-bemessungsgrundlage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forsch-stundenaufzeichnung-leitfaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forschungszulage-insolvenzlage-red-portaltexte`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abgrenzung-adaptiver-antrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `antragstellung-auszahlung-beihilfen-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bemessungsgrundlage-interessen-bsfz-definition`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forsch-bsfz-pruefung-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forsch-konzernverbund-forschung-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forsch-projektbeschreibung-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forsch-stundenaufzeichnung-fz-ablehnung-bemessungsgrundlage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forsch-stundenaufzeichnung-leitfaden`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `forschungszulage-insolvenzlage-red-portaltexte`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

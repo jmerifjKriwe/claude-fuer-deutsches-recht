@@ -1,13 +1,13 @@
 ---
 name: scraping-api-terms
-description: "Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Scraping und API Terms
 
 ## Arbeitsbereich
 
-Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

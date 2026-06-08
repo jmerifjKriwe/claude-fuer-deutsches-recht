@@ -1,13 +1,13 @@
 ---
 name: kirchenrecht-und-staatskirchenrecht
-description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kirchenrecht und Staatskirchenrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

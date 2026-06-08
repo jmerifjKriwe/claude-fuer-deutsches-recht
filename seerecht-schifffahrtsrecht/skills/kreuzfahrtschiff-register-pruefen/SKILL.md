@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-register-pruefen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Registerprüfung
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

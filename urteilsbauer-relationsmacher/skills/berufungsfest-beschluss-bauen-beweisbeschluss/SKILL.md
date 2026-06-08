@@ -1,13 +1,13 @@
 ---
 name: berufungsfest-beschluss-bauen-beweisbeschluss
-description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufungsfestigkeit prüfen
 
 ## Arbeitsbereich
 
-Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

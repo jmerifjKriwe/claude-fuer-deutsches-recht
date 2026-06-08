@@ -1,13 +1,13 @@
 ---
 name: gesellschafterbeschluss-vorbereiten
-description: "Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
 
 ## Arbeitsbereich
 
-Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

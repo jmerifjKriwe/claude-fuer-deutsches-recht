@@ -1,13 +1,13 @@
 ---
 name: soundaufnahme-tontraeger-titel-slogan
-description: "Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tonaufnahme und Leistungsschutzrechte
 
 ## Arbeitsbereich
 
-Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

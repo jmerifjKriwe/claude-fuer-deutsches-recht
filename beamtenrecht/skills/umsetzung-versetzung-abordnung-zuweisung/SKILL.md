@@ -1,13 +1,13 @@
 ---
 name: umsetzung-versetzung-abordnung-zuweisung
-description: "Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umsetzung Versetzung Abordnung Zuweisung
 
 ## Arbeitsbereich
 
-Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

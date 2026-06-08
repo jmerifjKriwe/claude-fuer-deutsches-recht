@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-bruecke-spannbeton-vorschub
-description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Bruecke Spannbeton Vorschub (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

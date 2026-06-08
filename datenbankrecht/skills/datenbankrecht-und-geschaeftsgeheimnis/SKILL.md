@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-und-geschaeftsgeheimnis
-description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie
 
 ## Arbeitsbereich
 
-Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

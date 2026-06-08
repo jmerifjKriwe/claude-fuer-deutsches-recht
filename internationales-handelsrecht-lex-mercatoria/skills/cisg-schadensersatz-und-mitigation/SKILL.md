@@ -1,13 +1,13 @@
 ---
 name: cisg-schadensersatz-und-mitigation
-description: "Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78) im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78) im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schadensersatz und Schadensminderung (CISG Art. 74-78)
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

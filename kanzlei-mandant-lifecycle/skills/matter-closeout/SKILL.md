@@ -1,13 +1,13 @@
 ---
 name: matter-closeout
-description: "Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Matter Closeout
 
 ## Arbeitsbereich
 
-Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

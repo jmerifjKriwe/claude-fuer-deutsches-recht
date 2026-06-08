@@ -1,13 +1,13 @@
 ---
 name: richterbild-und-justizverwaltung
-description: "Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterbild und Justizverwaltung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

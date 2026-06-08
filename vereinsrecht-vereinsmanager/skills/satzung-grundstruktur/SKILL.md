@@ -1,13 +1,13 @@
 ---
 name: satzung-grundstruktur
-description: "Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Satzung Grundstruktur
 
 ## Arbeitsbereich
 
-Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: anderkonto-verwahrung-faktenmatrix
-description: "Notare: anderkonto und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: anderkonto und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notare: anderkonto und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

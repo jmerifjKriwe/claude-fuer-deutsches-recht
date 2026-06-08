@@ -1,13 +1,13 @@
 ---
 name: bermuda-struktur-seeschiff
-description: "Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
 
 ## Arbeitsbereich
 
-Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

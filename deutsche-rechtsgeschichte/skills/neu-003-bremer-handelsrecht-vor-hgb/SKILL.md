@@ -1,13 +1,13 @@
 ---
 name: neu-003-bremer-handelsrecht-vor-hgb
-description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

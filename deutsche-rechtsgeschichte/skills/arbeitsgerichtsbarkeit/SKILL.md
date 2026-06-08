@@ -1,13 +1,13 @@
 ---
 name: arbeitsgerichtsbarkeit
-description: "Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsgerichtsbarkeit Geschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

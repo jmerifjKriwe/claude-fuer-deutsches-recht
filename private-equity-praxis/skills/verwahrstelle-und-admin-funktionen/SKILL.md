@@ -1,13 +1,13 @@
 ---
 name: verwahrstelle-und-admin-funktionen
-description: "Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwahrstelle, Administrator und Backoffice
 
 ## Arbeitsbereich
 
-Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

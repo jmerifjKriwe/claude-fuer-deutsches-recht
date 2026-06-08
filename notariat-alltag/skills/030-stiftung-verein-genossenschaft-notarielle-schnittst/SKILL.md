@@ -1,13 +1,13 @@
 ---
 name: 030-stiftung-verein-genossenschaft-notarielle-schnittst
-description: "Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

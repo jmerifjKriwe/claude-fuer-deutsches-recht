@@ -1,13 +1,13 @@
 ---
 name: anonyme-meldung
-description: "Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anonyme Meldung
 
 ## Arbeitsbereich
 
-Bewertet anonyme Meldungen und freiwillige Annahmeprozesse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet anonyme Meldungen und freiwillige Annahmeprozesse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: mietrecht-wohnungspolitik-familienrecht
-description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mietrecht und Wohnungspolitik historisch
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

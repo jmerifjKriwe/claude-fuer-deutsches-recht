@@ -27,16 +27,16 @@ Dieser Fehlerkatalog prüft im Bereich **Zitierweise Deutsches Recht** Ergebniss
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufsatz-interessen-beckrs-blindzitate`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `datum-entscheidungsform-spezial-gericht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `hauszitierweise-juristische-kommentar`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `literatur-live-beweislast-lizenziertem`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verifizierbarer-zugriff-sonderfall-zit-gesetzeszitierung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zit-gesetzeszitierung-bauleiter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zit-internationale-urteile-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zit-internationale-zit-kommentar-zitat-amtliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufsatz-interessen-beckrs-blindzitate`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `datum-entscheidungsform-spezial-gericht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `hauszitierweise-juristische-kommentar`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `literatur-live-beweislast-lizenziertem`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verifizierbarer-zugriff-sonderfall-zit-gesetzeszitierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zit-gesetzeszitierung-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zit-internationale-urteile-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zit-internationale-zit-kommentar-zitat-amtliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

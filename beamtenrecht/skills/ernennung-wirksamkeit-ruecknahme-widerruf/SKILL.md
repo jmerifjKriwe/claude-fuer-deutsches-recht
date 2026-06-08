@@ -1,13 +1,13 @@
 ---
 name: ernennung-wirksamkeit-ruecknahme-widerruf
-description: "Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ernennung Wirksamkeit Rücknahme Widerruf
 
 ## Arbeitsbereich
 
-Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

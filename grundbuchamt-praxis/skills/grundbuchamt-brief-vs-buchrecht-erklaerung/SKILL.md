@@ -1,13 +1,13 @@
 ---
 name: grundbuchamt-brief-vs-buchrecht-erklaerung
-description: "Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen im Grundbuchamt Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Briefrecht vs. Buchrecht erklären
 
 ## Arbeitsbereich
 
-Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: nachweise-nebenbestimmungen-auflagen-notfall
-description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachweise und Belege
 
 ## Arbeitsbereich
 
-Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

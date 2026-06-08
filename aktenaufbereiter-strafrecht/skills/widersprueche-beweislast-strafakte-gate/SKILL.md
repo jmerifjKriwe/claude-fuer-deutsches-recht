@@ -1,13 +1,13 @@
 ---
 name: widersprueche-beweislast-strafakte-gate
-description: "Widersprueche: Beweislast, Darlegungslast und Substantiierung im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widersprueche: Beweislast, Darlegungslast und Substantiierung im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widersprueche: Beweislast, Darlegungslast und Substantiierung
 
 ## Arbeitsbereich
 
-Widersprueche: Beweislast, Darlegungslast und Substantiierung im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Widersprueche: Beweislast, Darlegungslast und Substantiierung im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

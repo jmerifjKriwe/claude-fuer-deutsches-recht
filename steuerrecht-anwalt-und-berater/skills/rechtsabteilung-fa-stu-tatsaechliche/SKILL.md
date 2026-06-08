@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-fa-stu-tatsaechliche
-description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe) im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe) im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO
 
 ## Arbeitsbereich
 
-Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueb
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.

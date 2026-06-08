@@ -1,13 +1,13 @@
 ---
 name: besold-neu-020-befoerderungskaskade-organisationsmissbrauch
-description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Befoerderungskaskade Organisationsmissbrauch Red
 
 ## Arbeitsbereich
 
-Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

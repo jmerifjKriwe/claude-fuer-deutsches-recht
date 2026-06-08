@@ -1,13 +1,13 @@
 ---
 name: verfassung-abstrakte-normenkontrolle
-description: "Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Pruefraster im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Pruefraster im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abstrakte Normenkontrolle
 
 ## Arbeitsbereich
 
-Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

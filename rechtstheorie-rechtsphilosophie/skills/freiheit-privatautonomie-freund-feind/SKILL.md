@@ -7,7 +7,7 @@ description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsp
 
 ## Arbeitsbereich
 
-**Freiheit Privatautonomie Freund Feind** ordnet den Fall über die tragenden Prüfungslinien: Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Freiheit Privatautonomie Freund Feind** ordnet den Fall über die tragenden Prüfungslinien: Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Freiheit und Paternalismus
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freiheit und Paternalismus` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freiheit und Paternalismus` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -98,7 +98,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 ### Freund-Feind-Rhetorik und Pluralismuscheck
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freund-Feind-Rhetorik und Pluralismuscheck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freund-Feind-Rhetorik und Pluralismuscheck` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -158,7 +158,7 @@ Schließe mit einer Formulierung, die harte rechtliche Konsequenzen nur an prüf
 ### Gerechtigkeit, Verteilung, Effizienz
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gerechtigkeit, Verteilung, Effizienz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gerechtigkeit, Verteilung, Effizienz` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.

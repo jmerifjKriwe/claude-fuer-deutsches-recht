@@ -1,13 +1,13 @@
 ---
 name: energieaudit-edl-entsendungen-a1-eudr
-description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energieaudit EDL-G und EnEfG-Schnittstelle
 
 ## Arbeitsbereich
 
-Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

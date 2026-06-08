@@ -1,13 +1,13 @@
 ---
 name: derivatives-repos-dip-financing-discharge
-description: "Prueft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Derivatives, Repos and Swaps
 
 ## Arbeitsbereich
 
-Prueft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

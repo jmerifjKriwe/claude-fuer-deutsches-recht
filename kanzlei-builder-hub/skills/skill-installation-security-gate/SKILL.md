@@ -1,13 +1,13 @@
 ---
 name: skill-installation-security-gate
-description: "Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate
 
 ## Arbeitsbereich
 
-Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

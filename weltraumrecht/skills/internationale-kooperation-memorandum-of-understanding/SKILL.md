@@ -1,13 +1,13 @@
 ---
 name: internationale-kooperation-memorandum-of-understanding
-description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Internationale Kooperation: Memorandum of Understanding
 
 ## Arbeitsbereich
 
-MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: energievertrieb
-description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB
 
 ## Arbeitsbereich
 
-Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

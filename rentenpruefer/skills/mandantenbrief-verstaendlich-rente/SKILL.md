@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-verstaendlich-rente
-description: "Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # mandantenbrief-verstaendlich-rente
 
 ## Arbeitsbereich
 
-Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

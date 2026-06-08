@@ -1,13 +1,13 @@
 ---
 name: rechtspolitische-narrative-enteignung
-description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtspolitische Narrative pruefen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

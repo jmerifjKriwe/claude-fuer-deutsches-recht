@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-hauptverhandlung-amtsgericht
-description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hauptverhandlung OWi am Amtsgericht
 
 ## Arbeitsbereich
 
-Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ai-generated-material-disclosure
-description: "KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AI Generated Material Disclosure
 
 ## Arbeitsbereich
 
-KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: richter-praesidium-und-geschaeftsverteilung
-description: "Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richter Praesidium Und Geschaeftsverteilung
 
 ## Arbeitsbereich
 
-Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

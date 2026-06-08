@@ -1,13 +1,13 @@
 ---
 name: source-red-team-und-qualitaetskontrolle
-description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Red-Team und Qualitätskontrolle
 
 ## Arbeitsbereich
 
-Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

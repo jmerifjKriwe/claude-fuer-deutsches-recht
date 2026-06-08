@@ -7,7 +7,7 @@ description: "US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List
 
 ## Arbeitsbereich
 
-US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

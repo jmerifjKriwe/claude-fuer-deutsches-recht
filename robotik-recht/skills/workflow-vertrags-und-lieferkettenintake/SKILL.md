@@ -1,13 +1,13 @@
 ---
 name: workflow-vertrags-und-lieferkettenintake
-description: "Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertrags- und Lieferkettenintake
 
 ## Arbeitsbereich
 
-Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

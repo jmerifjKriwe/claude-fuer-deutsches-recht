@@ -1,13 +1,13 @@
 ---
 name: 015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder
-description: "Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

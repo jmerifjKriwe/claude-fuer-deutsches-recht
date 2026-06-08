@@ -1,13 +1,13 @@
 ---
 name: besold-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei
-description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei
 
 ## Arbeitsbereich
 
-Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

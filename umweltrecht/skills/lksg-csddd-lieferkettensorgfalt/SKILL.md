@@ -1,13 +1,13 @@
 ---
 name: lksg-csddd-lieferkettensorgfalt
-description: "Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LkSG und CSDDD — Lieferkettensorgfalt
 
 ## Arbeitsbereich
 
-Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

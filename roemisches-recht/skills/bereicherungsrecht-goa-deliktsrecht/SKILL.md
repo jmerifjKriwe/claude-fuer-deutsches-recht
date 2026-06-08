@@ -1,13 +1,13 @@
 ---
 name: bereicherungsrecht-goa-deliktsrecht
-description: "Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bereicherungsrecht im Vergleich
 
 ## Arbeitsbereich
 
-Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

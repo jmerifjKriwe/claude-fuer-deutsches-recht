@@ -1,13 +1,13 @@
 ---
 name: workflow-first-year-associate-robotik
-description: "Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # First-Year-Associate-Modus
 
 ## Arbeitsbereich
 
-Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

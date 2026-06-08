@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-digitale-energie
-description: "Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
 ## Arbeitsbereich
 
-Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

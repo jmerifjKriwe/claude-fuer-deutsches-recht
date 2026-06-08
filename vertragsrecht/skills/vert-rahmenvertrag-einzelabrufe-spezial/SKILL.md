@@ -1,13 +1,13 @@
 ---
 name: vert-rahmenvertrag-einzelabrufe-spezial
-description: "Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Pruefraster für Einkauf und Vertrieb im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Pruefraster für Einkauf und Vertrieb im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vert: Rahmenvertrag Einzelabrufe
 
 ## Arbeitsbereich
 
-Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Pruefraster für Einkauf und Vertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Pruefraster für Einkauf und Vertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

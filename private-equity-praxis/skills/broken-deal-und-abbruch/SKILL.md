@@ -1,13 +1,13 @@
 ---
 name: broken-deal-und-abbruch
-description: "Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Broken Deal: Abbruch, Kosten und Haftung
 
 ## Arbeitsbereich
 
-Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

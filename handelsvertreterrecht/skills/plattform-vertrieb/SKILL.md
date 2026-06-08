@@ -1,13 +1,13 @@
 ---
 name: plattform-vertrieb
-description: "Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung
 
 ## Arbeitsbereich
 
-Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

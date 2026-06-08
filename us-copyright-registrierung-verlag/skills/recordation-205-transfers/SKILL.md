@@ -1,13 +1,13 @@
 ---
 name: recordation-205-transfers
-description: "Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recordation § 205 Transfers
 
 ## Arbeitsbereich
 
-Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

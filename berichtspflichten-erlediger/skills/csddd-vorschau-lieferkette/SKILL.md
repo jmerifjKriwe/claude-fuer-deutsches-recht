@@ -1,13 +1,13 @@
 ---
 name: csddd-vorschau-lieferkette
-description: "CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CSDDD Vorschau und Lieferkettenbericht
 
 ## Arbeitsbereich
 
-CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

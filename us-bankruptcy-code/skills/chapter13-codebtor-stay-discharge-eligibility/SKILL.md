@@ -1,13 +1,13 @@
 ---
 name: chapter13-codebtor-stay-discharge-eligibility
-description: "Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 13 Co-Debtor Stay
 
 ## Arbeitsbereich
 
-Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

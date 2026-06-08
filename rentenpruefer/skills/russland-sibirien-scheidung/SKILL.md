@@ -1,13 +1,13 @@
 ---
 name: russland-sibirien-scheidung
-description: "Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # russland-sibirien-zeiten-und-frg
 
 ## Arbeitsbereich
 
-Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

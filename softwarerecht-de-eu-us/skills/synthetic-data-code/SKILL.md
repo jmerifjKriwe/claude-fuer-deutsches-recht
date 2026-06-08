@@ -1,13 +1,13 @@
 ---
 name: synthetic-data-code
-description: "Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Synthetic Data und Code
 
 ## Arbeitsbereich
 
-Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

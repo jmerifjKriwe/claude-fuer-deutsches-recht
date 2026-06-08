@@ -1,13 +1,13 @@
 ---
 name: asset-protection-and-cash-repatriation
-description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern
 
 ## Arbeitsbereich
 
-Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

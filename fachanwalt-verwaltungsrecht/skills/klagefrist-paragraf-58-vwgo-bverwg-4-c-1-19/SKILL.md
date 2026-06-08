@@ -1,28 +1,38 @@
 ---
 name: klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19
-description: Klagefrist Paragraf 58 VwGO mit BVerwG.
+description: "Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19
+
+## Einsatzlage
 
 Rechtsbehelfsbelehrung fehlt; Klagefrist?
 
-## Normen
+## Normenanker
 
-- Paragraf 58 VwGO
+- § 58 VwGO
+- § 35 VwVfG
+- § 40 VwGO
+- § 42 VwGO
+- § 80 VwGO
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BVerwG 16.09.2020 4 C 1/19
+- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Jahresfrist; Pruefung Belehrung.
 
-## Schriftsatzkern
-
-Klage zulaessig; Jahresfrist gewahrt.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bescheid mit Belehrung

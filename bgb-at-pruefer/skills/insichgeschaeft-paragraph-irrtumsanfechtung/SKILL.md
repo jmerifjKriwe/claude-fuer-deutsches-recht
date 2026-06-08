@@ -1,13 +1,13 @@
 ---
 name: insichgeschaeft-paragraph-irrtumsanfechtung
-description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insichgeschäft — § 181 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

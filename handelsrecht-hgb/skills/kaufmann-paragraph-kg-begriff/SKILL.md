@@ -1,13 +1,13 @@
 ---
 name: kaufmann-paragraph-kg-begriff
-description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kaufmann § 1 HGB
 
 ## Arbeitsbereich
 
-Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

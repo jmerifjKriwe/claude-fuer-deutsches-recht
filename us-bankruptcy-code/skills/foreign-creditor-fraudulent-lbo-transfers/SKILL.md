@@ -1,13 +1,13 @@
 ---
 name: foreign-creditor-fraudulent-lbo-transfers
-description: "Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Foreign Creditor German Client
 
 ## Arbeitsbereich
 
-Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

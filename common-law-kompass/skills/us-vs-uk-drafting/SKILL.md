@@ -1,13 +1,13 @@
 ---
 name: us-vs-uk-drafting
-description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UK vs US Drafting
 
 ## Arbeitsbereich
 
-Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

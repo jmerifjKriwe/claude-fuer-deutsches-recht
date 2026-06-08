@@ -1,13 +1,13 @@
 ---
 name: 013-basiliken-prochiron-epanagoge
-description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Basiliken Prochiron Epanagoge Und Spaetere Rezeption
 
 ## Arbeitsbereich
 
-Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

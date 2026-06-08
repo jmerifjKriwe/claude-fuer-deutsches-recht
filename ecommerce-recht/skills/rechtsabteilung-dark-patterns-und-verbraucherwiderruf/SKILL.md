@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-dark-patterns-und-verbraucherwiderruf
-description: "Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Dark Patterns und Verbraucherwiderruf
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

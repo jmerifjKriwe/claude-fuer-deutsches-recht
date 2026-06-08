@@ -1,6 +1,6 @@
 ---
 name: zusammenarbeit-bundesregierung
-description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zusammenarbeit Bundesregierung

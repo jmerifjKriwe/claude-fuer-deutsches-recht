@@ -1,13 +1,13 @@
 ---
 name: vollmacht-und-vertretung
-description: "Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollmacht und Vertretung
 
 ## Arbeitsbereich
 
-Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

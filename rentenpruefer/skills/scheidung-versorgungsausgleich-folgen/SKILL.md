@@ -1,13 +1,13 @@
 ---
 name: scheidung-versorgungsausgleich-folgen
-description: "Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # scheidung-versorgungsausgleich-folgen
 
 ## Arbeitsbereich
 
-Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

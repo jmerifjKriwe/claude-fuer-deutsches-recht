@@ -1,13 +1,13 @@
 ---
 name: registerstand-aufrechterhaltung-lizenzvertrag
-description: "Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerstand Fristen Aufrechterhaltung
 
 ## Arbeitsbereich
 
-Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kannkaufmann-paragraphen-kaufmaennisches
-description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kannkaufmann §§ 2, 3 HGB
 
 ## Arbeitsbereich
 
-Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

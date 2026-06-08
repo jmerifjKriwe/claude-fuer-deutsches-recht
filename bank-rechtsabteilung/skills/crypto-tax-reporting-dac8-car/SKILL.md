@@ -1,13 +1,13 @@
 ---
 name: crypto-tax-reporting-dac8-car
-description: "Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, Meldepflichtige, CASP-Schnittstelle, Kundenkommunikation, Datenschutz und Roadmap im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, Meldepflichtige, CASP-Schnittstelle, Kundenkommunikation, Datenschutz und Roadmap im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krypto-Steuerreporting DAC8
 
 ## Arbeitsbereich
 
-Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, Meldepflichtige, CASP-Schnittstelle, Kundenkommunikation, Datenschutz und Roadmap. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, Meldepflichtige, CASP-Schnittstelle, Kundenkommunikation, Datenschutz und Roadmap. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

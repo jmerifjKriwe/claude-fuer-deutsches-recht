@@ -1,13 +1,13 @@
 ---
 name: uwr-emissionshandel-ets-spezial
-description: "Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 für Importe. Pruefraster für Industriebetriebe und Sanktionen bei Verstoss im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 für Importe. Pruefraster für Industriebetriebe und Sanktionen bei Verstoss im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelt: ETS und CBAM
 
 ## Arbeitsbereich
 
-Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 für Importe. Pruefraster für Industriebetriebe und Sanktionen bei Verstoss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 für Importe. Pruefraster für Industriebetriebe und Sanktionen bei Verstoss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

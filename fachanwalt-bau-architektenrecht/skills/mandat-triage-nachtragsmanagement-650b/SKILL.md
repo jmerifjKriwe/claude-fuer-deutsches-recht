@@ -7,7 +7,7 @@ description: "Mandat Triage Nachtragsmanagement 650b im Plugin Fachanwalt Bau Ar
 
 ## Arbeitsbereich
 
-**Mandat Triage Nachtragsmanagement 650b** ordnet den Fall über die tragenden Prüfungslinien: Ersteinordnung neuer Mandate im Bau- und Architektenrecht, Nachtragsforderungen des Unternehmers nach § 650b BGB, Schriftsatzkern im Bau- und Architektenrecht substantiieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandat Triage Nachtragsmanagement 650b** ordnet den Fall über die tragenden Prüfungslinien: Ersteinordnung neuer Mandate im Bau- und Architektenrecht, Nachtragsforderungen des Unternehmers nach § 650b BGB, Schriftsatzkern im Bau- und Architektenrecht substantiieren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

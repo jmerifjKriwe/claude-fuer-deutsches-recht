@@ -1,13 +1,13 @@
 ---
 name: doppelschutz-patent-dpma-anmeldung
-description: "Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Doppelschutz Patent Gebrauchsmuster
 
 ## Arbeitsbereich
 
-Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

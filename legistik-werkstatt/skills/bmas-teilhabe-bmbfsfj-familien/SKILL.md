@@ -1,13 +1,13 @@
 ---
 name: bmas-teilhabe-bmbfsfj-familien
-description: "Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teilhaberecht (SGB IX) (BMAS)
 
 ## Arbeitsbereich
 
-Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

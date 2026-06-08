@@ -1,13 +1,13 @@
 ---
 name: employee-wages-benefits-warn
-description: "Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Employees Wages Benefits and WARN
 
 ## Arbeitsbereich
 
-Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

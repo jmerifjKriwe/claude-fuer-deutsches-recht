@@ -1,13 +1,13 @@
 ---
 name: zitat-monografie-handbuch-streitstand
-description: "Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Monografie/Handbuch zitieren
 
 ## Arbeitsbereich
 
-Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

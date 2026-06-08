@@ -1,13 +1,13 @@
 ---
 name: grundbuchamt-teilloesung-rangfreigabe
-description: "Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teillöschung und Rangfreigabe
 
 ## Arbeitsbereich
 
-Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: gerichtsstand-brussels-ia-hague
-description: "Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtsstand: Brüssel Ia und Haager Übereinkommen
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

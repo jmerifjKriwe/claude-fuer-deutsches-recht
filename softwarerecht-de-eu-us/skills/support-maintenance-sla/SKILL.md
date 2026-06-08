@@ -1,13 +1,13 @@
 ---
 name: support-maintenance-sla
-description: "Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Support Maintenance SLA
 
 ## Arbeitsbereich
 
-Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

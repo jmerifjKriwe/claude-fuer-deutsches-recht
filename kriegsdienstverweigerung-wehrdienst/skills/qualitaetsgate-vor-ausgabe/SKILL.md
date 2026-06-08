@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-vor-ausgabe
-description: "Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätsgate vor Ausgabe
 
 ## Arbeitsbereich
 
-Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

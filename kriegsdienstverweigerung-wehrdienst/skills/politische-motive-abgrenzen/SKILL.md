@@ -1,13 +1,13 @@
 ---
 name: politische-motive-abgrenzen
-description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Politische Motive abgrenzen
 
 ## Arbeitsbereich
 
-Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

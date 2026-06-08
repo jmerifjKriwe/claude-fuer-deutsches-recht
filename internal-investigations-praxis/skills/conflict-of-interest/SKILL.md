@@ -1,13 +1,13 @@
 ---
 name: conflict-of-interest
-description: "Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interessenkonflikte – Untersuchung und Prävention
 
 ## Arbeitsbereich
 
-Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

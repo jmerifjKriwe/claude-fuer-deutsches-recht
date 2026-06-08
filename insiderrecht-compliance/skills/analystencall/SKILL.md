@@ -1,13 +1,13 @@
 ---
 name: analystencall
-description: "Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Analysten-Calls und Investorenkommunikation – Selective Disclosure
 
 ## Arbeitsbereich
 
-Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

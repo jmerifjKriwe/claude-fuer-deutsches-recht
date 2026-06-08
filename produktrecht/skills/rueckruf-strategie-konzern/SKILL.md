@@ -1,13 +1,13 @@
 ---
 name: rueckruf-strategie-konzern
-description: "Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rueckruf-Strategie Konzern
 
 ## Arbeitsbereich
 
-Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

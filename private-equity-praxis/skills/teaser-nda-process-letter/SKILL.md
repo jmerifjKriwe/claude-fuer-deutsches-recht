@@ -1,13 +1,13 @@
 ---
 name: teaser-nda-process-letter
-description: "Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teaser, NDA und Process Letter
 
 ## Arbeitsbereich
 
-Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

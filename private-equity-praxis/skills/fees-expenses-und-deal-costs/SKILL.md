@@ -1,13 +1,13 @@
 ---
 name: fees-expenses-und-deal-costs
-description: "Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fees, Expenses und Deal Costs
 
 ## Arbeitsbereich
 
-Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: e-verletzung-dokumentieren
-description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance
 
 ## Arbeitsbereich
 
-Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

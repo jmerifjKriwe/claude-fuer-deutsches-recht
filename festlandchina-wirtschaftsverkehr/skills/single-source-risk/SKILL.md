@@ -1,13 +1,13 @@
 ---
 name: single-source-risk
-description: "Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Single-Source-Risiko China: Bewertung und Notfallplanung
 
 ## Arbeitsbereich
 
-Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

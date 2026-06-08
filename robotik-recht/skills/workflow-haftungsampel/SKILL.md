@@ -1,13 +1,13 @@
 ---
 name: workflow-haftungsampel
-description: "Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haftungsampel
 
 ## Arbeitsbereich
 
-Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

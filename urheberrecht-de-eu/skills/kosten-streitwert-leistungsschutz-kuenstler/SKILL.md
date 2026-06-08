@@ -1,13 +1,13 @@
 ---
 name: kosten-streitwert-leistungsschutz-kuenstler
-description: "Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kosten, Streitwert und Wirtschaftlichkeit
 
 ## Arbeitsbereich
 
-Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

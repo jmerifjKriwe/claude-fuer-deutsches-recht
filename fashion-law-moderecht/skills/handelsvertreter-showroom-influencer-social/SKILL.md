@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-showroom-influencer-social
-description: "Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter Und Showroom
 
 ## Arbeitsbereich
 
-Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

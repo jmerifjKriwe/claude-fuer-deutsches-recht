@@ -1,13 +1,13 @@
 ---
 name: extremismus-verdachtsfall-geheimschutz
-description: "Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Extremismus-Verdachtsfall und Sicherheitsrecht
 
 ## Arbeitsbereich
 
-Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

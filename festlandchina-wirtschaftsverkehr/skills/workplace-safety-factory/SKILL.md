@@ -1,13 +1,13 @@
 ---
 name: workplace-safety-factory
-description: "Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitssicherheit Fabriken China: Work Safety Law und LkSG
 
 ## Arbeitsbereich
 
-Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

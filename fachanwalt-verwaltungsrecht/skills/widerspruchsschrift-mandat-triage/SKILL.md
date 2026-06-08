@@ -7,7 +7,7 @@ description: "Widerspruchsschrift Mandat Triage im Plugin Fachanwalt Verwaltungs
 
 ## Arbeitsbereich
 
-**Widerspruchsschrift Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Widerspruchsschrift nach §§ 68 ff, Eingangs-Triage für verwaltungsrechtliche Mandate, Substantiierten Schriftsatzkern für verwaltungsrechtliche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Widerspruchsschrift Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Widerspruchsschrift nach §§ 68 ff, Eingangs-Triage für verwaltungsrechtliche Mandate, Substantiierten Schriftsatzkern für verwaltungsrechtliche. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

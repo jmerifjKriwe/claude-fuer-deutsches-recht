@@ -1,13 +1,13 @@
 ---
 name: insurance-press
-description: "Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherungsmeldung bei Internal Investigations
 
 ## Arbeitsbereich
 
-Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

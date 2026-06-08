@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-preisangaben-reise
-description: "Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.
 
 ## Arbeitsbereich
 
-Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

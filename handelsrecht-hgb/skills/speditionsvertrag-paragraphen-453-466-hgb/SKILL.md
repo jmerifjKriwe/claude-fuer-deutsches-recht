@@ -1,13 +1,13 @@
 ---
 name: speditionsvertrag-paragraphen-453-466-hgb
-description: "Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Speditionsvertrag §§ 453 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

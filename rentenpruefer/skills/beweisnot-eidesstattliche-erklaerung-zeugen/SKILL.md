@@ -1,13 +1,13 @@
 ---
 name: beweisnot-eidesstattliche-erklaerung-zeugen
-description: "Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # beweisnot-eidesstattliche-erklaerung-zeugen
 
 ## Arbeitsbereich
 
-Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

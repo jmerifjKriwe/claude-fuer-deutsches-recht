@@ -1,13 +1,13 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auflösung und Liquidation
 
 ## Arbeitsbereich
 
-Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

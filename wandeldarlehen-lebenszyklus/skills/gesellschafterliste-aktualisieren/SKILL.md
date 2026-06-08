@@ -1,13 +1,13 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Prüfraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht für Cap-Table-Kalkulation (cap-table-update-pre-post) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Prüfraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht für Cap-Table-Kalkulation (cap-table-update-pre-post) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesellschafterliste aktualisieren (§ 40 GmbHG)
 
 ## Arbeitsbereich
 
-Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Prüfraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht für Cap-Table-Kalkulation (cap-table-update-pre-post). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Prüfraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht für Cap-Table-Kalkulation (cap-table-update-pre-post). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

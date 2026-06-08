@@ -1,13 +1,13 @@
 ---
 name: syndikus-oder-inhouse
-description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Syndikus oder Inhouse
 
 ## Arbeitsbereich
 
-Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

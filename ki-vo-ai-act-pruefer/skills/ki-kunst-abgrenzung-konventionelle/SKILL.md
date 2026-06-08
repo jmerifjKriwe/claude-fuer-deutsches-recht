@@ -1,13 +1,13 @@
 ---
 name: ki-kunst-abgrenzung-konventionelle
-description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Kunst: Lizenzierung und Kennzeichnung
 
 ## Arbeitsbereich
 
-KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

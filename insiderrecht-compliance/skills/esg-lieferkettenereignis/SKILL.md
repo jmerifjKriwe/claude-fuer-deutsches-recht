@@ -1,13 +1,13 @@
 ---
 name: esg-lieferkettenereignis
-description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende) im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende) im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ESG-Schockereignis – Insiderrecht und Ad-hoc-Pflicht
 
 ## Arbeitsbereich
 
-Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: raumfahrtrechtliche-due-diligence-beim-unternehmenskau
-description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf
 
 ## Arbeitsbereich
 
-Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

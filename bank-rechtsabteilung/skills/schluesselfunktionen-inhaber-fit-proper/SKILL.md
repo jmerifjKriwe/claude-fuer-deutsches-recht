@@ -1,13 +1,13 @@
 ---
 name: schluesselfunktionen-inhaber-fit-proper
-description: "Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schlüsselfunktionen Fit and Proper
 
 ## Arbeitsbereich
 
-Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

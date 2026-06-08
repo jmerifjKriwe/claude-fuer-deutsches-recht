@@ -1,13 +1,13 @@
 ---
 name: europaeisierung-deutschen-menschenrechte
-description: "Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Europaeisierung des deutschen Rechts
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: politische-werbung-und-transparenz
-description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Politische Werbung und Transparenz
 
 ## Arbeitsbereich
 
-Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

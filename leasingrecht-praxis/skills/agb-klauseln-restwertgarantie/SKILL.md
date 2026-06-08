@@ -1,13 +1,13 @@
 ---
 name: agb-klauseln-restwertgarantie
-description: "AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGB-Kontrolle im Leasingvertrag
 
 ## Arbeitsbereich
 
-AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

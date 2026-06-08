@@ -1,13 +1,13 @@
 ---
 name: lizenzanalogie-und-unterlassungsvertrag
-description: "Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
 
 ## Arbeitsbereich
 
-Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

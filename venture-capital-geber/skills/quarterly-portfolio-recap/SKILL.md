@@ -7,7 +7,7 @@ description: "Erzeugt Quartalsrecaps für Family Office, Investment Committee, P
 
 ## Arbeitsbereich
 
-Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

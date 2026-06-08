@@ -7,7 +7,7 @@ description: "Datenschutz Forensische Erstsicherung Massenbenachrichtigung im Da
 
 ## Arbeitsbereich
 
-**Datenschutz Forensische Erstsicherung Massenbenachrichtigung** ordnet den Fall über die tragenden Prüfungslinien: Steuert die forensische Erstsicherung nach einem, Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Forensische Erstsicherung Massenbenachrichtigung** ordnet den Fall über die tragenden Prüfungslinien: Steuert die forensische Erstsicherung nach einem, Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

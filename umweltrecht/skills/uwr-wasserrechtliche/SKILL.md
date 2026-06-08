@@ -1,6 +1,6 @@
 ---
 name: uwr-wasserrechtliche
-description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UWR Wasserrechtliche

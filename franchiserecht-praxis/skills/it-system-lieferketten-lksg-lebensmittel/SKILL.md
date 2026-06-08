@@ -1,13 +1,13 @@
 ---
 name: it-system-lieferketten-lksg-lebensmittel
-description: "IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff
 
 ## Arbeitsbereich
 
-IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: strompreisbremse-und-extras
-description: "Strompreisbremse, Energiepreisbremsengesetze (StromPBG, EWPBG) historisch und Folgen: Abschoepfung, Soforthilfe, Beihilferecht. Aktuelle Lage 2025/2026 nach Auslaufen, offene Glaubensfragen Wirtschaftsministerien, Bundesverfassungsgerichts-Urteil 2 BvF 1 23 im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strompreisbremse, Energiepreisbremsengesetze (StromPBG, EWPBG) historisch und Folgen: Abschoepfung, Soforthilfe, Beihilferecht. Aktuelle Lage 2025/2026 nach Auslaufen, offene Glaubensfragen Wirtschaftsministerien, Bundesverfassungsgerichts-Urteil 2 BvF 1 23 im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strompreisbremse und Folgen
 
 ## Arbeitsbereich
 
-Strompreisbremse, Energiepreisbremsengesetze (StromPBG, EWPBG) historisch und Folgen: Abschoepfung, Soforthilfe, Beihilferecht. Aktuelle Lage 2025/2026 nach Auslaufen, offene Glaubensfragen Wirtschaftsministerien, Bundesverfassungsgerichts-Urteil 2 BvF 1 23. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strompreisbremse, Energiepreisbremsengesetze (StromPBG, EWPBG) historisch und Folgen: Abschoepfung, Soforthilfe, Beihilferecht. Aktuelle Lage 2025/2026 nach Auslaufen, offene Glaubensfragen Wirtschaftsministerien, Bundesverfassungsgerichts-Urteil 2 BvF 1 23. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

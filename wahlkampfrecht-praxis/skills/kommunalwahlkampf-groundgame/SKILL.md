@@ -1,13 +1,13 @@
 ---
 name: kommunalwahlkampf-groundgame
-description: "Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunalgroundgame
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

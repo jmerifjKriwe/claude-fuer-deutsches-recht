@@ -1,6 +1,6 @@
 ---
 name: vowi-akteneinsicht
-description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vowi Akteneinsicht

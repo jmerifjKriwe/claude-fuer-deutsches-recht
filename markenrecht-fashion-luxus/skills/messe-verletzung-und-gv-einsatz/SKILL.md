@@ -1,13 +1,13 @@
 ---
 name: messe-verletzung-und-gv-einsatz
-description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
 
 ## Arbeitsbereich
 
-Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 
 ## Arbeitsbereich
 
-**Historische Auslegung Historischer Normzweck** ordnet den Fall über die tragenden Prüfungslinien: Historische Auslegung im deutschen Zivilrecht, Leitet durch die historische Auslegung als notwendigen, Analysiert die institutionellen Folgen von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Historische Auslegung Historischer Normzweck** ordnet den Fall über die tragenden Prüfungslinien: Historische Auslegung im deutschen Zivilrecht, Leitet durch die historische Auslegung als notwendigen, Analysiert die institutionellen Folgen von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -34,7 +34,7 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 ### Historische Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historische Auslegung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -140,7 +140,7 @@ Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Origin
 ### Historischer Normzweck: Methodik als erster Auslegungsschritt
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historischer Normzweck: Methodik als erster Auslegungsschritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historischer Normzweck: Methodik als erster Auslegungsschritt` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -228,7 +228,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Institutionelle Folgen und Regelbindung in der Rechtsanwendung
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Institutionelle Folgen und Regelbindung in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Institutionelle Folgen und Regelbindung in der Rechtsanwendung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -317,7 +317,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Interessenjurisprudenz nach Philipp Heck
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interessenjurisprudenz nach Philipp Heck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interessenjurisprudenz nach Philipp Heck` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.

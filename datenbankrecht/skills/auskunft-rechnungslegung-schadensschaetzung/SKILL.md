@@ -1,13 +1,13 @@
 ---
 name: auskunft-rechnungslegung-schadensschaetzung
-description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
 
 ## Arbeitsbereich
 
-Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

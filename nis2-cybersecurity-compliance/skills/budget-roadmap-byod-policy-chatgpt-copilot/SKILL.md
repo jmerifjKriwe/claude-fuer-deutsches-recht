@@ -1,13 +1,13 @@
 ---
 name: budget-roadmap-byod-policy-chatgpt-copilot
-description: "Übersetzt Cyberrisiken in Budget und Roadmap im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt Cyberrisiken in Budget und Roadmap im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Budget Und Roadmap
 
 ## Arbeitsbereich
 
-Übersetzt Cyberrisiken in Budget und Roadmap. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt Cyberrisiken in Budget und Roadmap. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

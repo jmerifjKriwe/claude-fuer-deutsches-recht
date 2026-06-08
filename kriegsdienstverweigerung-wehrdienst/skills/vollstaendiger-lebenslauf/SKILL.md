@@ -1,13 +1,13 @@
 ---
 name: vollstaendiger-lebenslauf
-description: "Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tabellarischer Lebenslauf
 
 ## Arbeitsbereich
 
-Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

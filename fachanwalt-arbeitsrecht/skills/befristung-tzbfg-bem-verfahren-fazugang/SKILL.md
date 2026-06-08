@@ -7,13 +7,13 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 
 ## Arbeitsbereich
 
-**Befristung Tzbfg BEM Verfahren Fazugang** ordnet den Fall über die tragenden Prüfungslinien: Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüfungslinie für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Befristung Tzbfg BEM Verfahren Fazugang** ordnet den Fall über die tragenden Prüfungslinien: Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüfungslinie für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung. |
-| `fachanwalt-arbeitsrecht-bem-verfahren` | Prüfungslinie für fachanwalt arbeitsrecht bem verfahren: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-bem-verfahren` | Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan` | Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung §§ 187 ff. BGB, Drei-Wochen-Klagefrist § 4 KSchG, Kündigungsfristen § 622 BGB, worst-case-Strategie für Mandant. |
 
 ## Arbeitsweg
@@ -32,7 +32,7 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 ### Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -146,12 +146,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-bem-verfahren`
 
-**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht bem verfahren: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### BEM-Verfahren § 167 II SGB IX
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BEM-Verfahren § 167 II SGB IX` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BEM-Verfahren § 167 II SGB IX` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -307,7 +307,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Kündigungsfrist berechnen bei unsicherem Zugang
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsfrist berechnen bei unsicherem Zugang` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsfrist berechnen bei unsicherem Zugang` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

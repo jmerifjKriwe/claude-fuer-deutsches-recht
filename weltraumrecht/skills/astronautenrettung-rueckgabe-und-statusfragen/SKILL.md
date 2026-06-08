@@ -1,13 +1,13 @@
 ---
 name: astronautenrettung-rueckgabe-und-statusfragen
-description: "Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen
 
 ## Arbeitsbereich
 
-Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

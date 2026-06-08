@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-bankkonto-und-rechnungslegung-einfach
-description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Bankkonto und einfache Rechnungslegung
 
 ## Arbeitsbereich
 
-Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

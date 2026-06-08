@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-und-informationsfreiheit
-description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht und Informationsfreiheit — IFG versus Herstellerrecht
 
 ## Arbeitsbereich
 
-Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

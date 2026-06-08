@@ -1,13 +1,13 @@
 ---
 name: emergency-arbitrator
-description: "Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notfallschiedsrichter (Emergency Arbitrator)
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre
-description: "Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

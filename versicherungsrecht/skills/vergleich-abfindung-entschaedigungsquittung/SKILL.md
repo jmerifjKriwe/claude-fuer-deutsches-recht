@@ -1,13 +1,13 @@
 ---
 name: vergleich-abfindung-entschaedigungsquittung
-description: "Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich, Abfindung und Entschädigungsquittung
 
 ## Arbeitsbereich
 
-Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

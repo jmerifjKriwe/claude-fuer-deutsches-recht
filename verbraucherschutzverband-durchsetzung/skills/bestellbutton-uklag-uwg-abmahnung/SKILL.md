@@ -1,13 +1,13 @@
 ---
 name: bestellbutton-uklag-uwg-abmahnung
-description: "Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VDG 103 Bestellbutton UKlaG UWG Abmahnung
 
 ## Arbeitsbereich
 
-Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: vollstreckungsbescheid-zv
-description: "Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollstreckungsbescheid und Folgeverfahren
 
 ## Arbeitsbereich
 
-Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

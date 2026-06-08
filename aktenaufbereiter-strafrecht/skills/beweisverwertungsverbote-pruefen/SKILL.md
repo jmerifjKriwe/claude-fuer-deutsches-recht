@@ -1,13 +1,13 @@
 ---
 name: beweisverwertungsverbote-pruefen
-description: "Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweisverwertungsverbote pruefen
 
 ## Arbeitsbereich
 
-Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

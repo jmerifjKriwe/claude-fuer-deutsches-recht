@@ -1,13 +1,13 @@
 ---
 name: registersperre-closing-sitz-inlandsanschrift
-description: "Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registersperre als Deal-Risiko
 
 ## Arbeitsbereich
 
-Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

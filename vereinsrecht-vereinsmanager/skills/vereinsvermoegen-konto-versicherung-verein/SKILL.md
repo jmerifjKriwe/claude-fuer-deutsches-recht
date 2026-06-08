@@ -1,13 +1,13 @@
 ---
 name: vereinsvermoegen-konto-versicherung-verein
-description: "Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vereinsvermögen und Konto
 
 ## Arbeitsbereich
 
-Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

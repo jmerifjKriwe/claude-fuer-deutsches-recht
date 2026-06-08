@@ -1,13 +1,13 @@
 ---
 name: zaun-verhandlung-vergleich-und-eskalation
-description: "Zaun: Verhandlung, Vergleich und Eskalation im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zaun: Verhandlung, Vergleich und Eskalation im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zaun: Verhandlung, Vergleich und Eskalation
 
 ## Arbeitsbereich
 
-Zaun: Verhandlung, Vergleich und Eskalation im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zaun: Verhandlung, Vergleich und Eskalation im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-schoeffe
-description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessung Schoeffe

@@ -1,6 +1,6 @@
 ---
 name: memo-zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo Zitierung Mandantenkommunikation Entscheidungsvorlage

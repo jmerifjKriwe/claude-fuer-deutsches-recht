@@ -1,13 +1,13 @@
 ---
 name: mehrfachvertreter-muster-provisionsabrechnung
-description: "Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten
 
 ## Arbeitsbereich
 
-Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

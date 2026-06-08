@@ -7,7 +7,7 @@ description: "Konzvgv Rahmenvereinbarung International im Plugin Fachanwalt Verg
 
 ## Arbeitsbereich
 
-**Konzvgv Rahmenvereinbarung International** ordnet den Fall über die tragenden Prüfungslinien: Konzvgv, Rahmenvereinbarung, Schnittstelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Konzvgv Rahmenvereinbarung International** ordnet den Fall über die tragenden Prüfungslinien: Konzvgv, Rahmenvereinbarung, Schnittstelle. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

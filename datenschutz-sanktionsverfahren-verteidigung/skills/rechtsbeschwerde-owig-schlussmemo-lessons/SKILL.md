@@ -7,7 +7,7 @@ description: "Rechtsbeschwerde Owig Schlussmemo Lessons im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-**Rechtsbeschwerde Owig Schlussmemo Lessons** ordnet den Fall über die tragenden Prüfungslinien: Rechtsbeschwerde § 79 OWiG, Schlussmemo und Lessons Learned, Scope Cut Behördenfragen einhegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Rechtsbeschwerde Owig Schlussmemo Lessons** ordnet den Fall über die tragenden Prüfungslinien: Rechtsbeschwerde § 79 OWiG, Schlussmemo und Lessons Learned, Scope Cut Behördenfragen einhegen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

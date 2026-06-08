@@ -7,7 +7,7 @@ description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Migr Ausweisung Abschiebung Duldung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Migr Ausweisung Abschiebung Duldung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

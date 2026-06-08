@@ -1,13 +1,13 @@
 ---
 name: digital-assets-tokenization-pe
-description: "Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digital Assets und Tokenisierung
 
 ## Arbeitsbereich
 
-Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

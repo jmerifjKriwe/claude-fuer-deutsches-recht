@@ -1,6 +1,6 @@
 ---
 name: wenn-prognose
-description: "Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wenn Prognose

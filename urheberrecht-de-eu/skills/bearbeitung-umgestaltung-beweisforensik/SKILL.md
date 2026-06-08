@@ -1,13 +1,13 @@
 ---
 name: bearbeitung-umgestaltung-beweisforensik
-description: "Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bearbeitung und Umgestaltung
 
 ## Arbeitsbereich
 
-Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

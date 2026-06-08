@@ -1,13 +1,13 @@
 ---
 name: anonymisierung-schutzantrag-auftraggeber
-description: "Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anonymisierung und Schutzantrag
 
 ## Arbeitsbereich
 
-Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

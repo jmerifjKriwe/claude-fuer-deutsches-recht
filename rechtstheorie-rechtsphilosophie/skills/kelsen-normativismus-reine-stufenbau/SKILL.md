@@ -7,7 +7,7 @@ description: "Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsph
 
 ## Arbeitsbereich
 
-**Kelsen Normativismus Reine Stufenbau** ordnet den Fall über die tragenden Prüfungslinien: Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Kelsen Normativismus Reine Stufenbau** ordnet den Fall über die tragenden Prüfungslinien: Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Kelsen: Normativismus und reine Rechtslehre
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kelsen: Normativismus und reine Rechtslehre` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kelsen: Normativismus und reine Rechtslehre` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -137,7 +137,7 @@ Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme-
 ### Stufenbau, Kompetenz und Normkette
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Stufenbau, Kompetenz und Normkette` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Stufenbau, Kompetenz und Normkette` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.

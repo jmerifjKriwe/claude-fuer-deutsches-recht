@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-doppelhaus-reihenhaus
-description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

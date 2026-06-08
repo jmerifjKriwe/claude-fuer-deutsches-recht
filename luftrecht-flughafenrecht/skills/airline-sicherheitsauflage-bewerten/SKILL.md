@@ -1,13 +1,13 @@
 ---
 name: airline-sicherheitsauflage-bewerten
-description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline – Sicherheitsauflage bewerten
 
 ## Arbeitsbereich
 
-Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

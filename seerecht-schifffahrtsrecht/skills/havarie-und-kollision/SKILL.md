@@ -1,13 +1,13 @@
 ---
 name: havarie-und-kollision
-description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung
 
 ## Arbeitsbereich
 
-Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

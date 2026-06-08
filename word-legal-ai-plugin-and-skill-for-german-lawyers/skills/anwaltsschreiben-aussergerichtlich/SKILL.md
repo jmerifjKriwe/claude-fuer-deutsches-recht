@@ -1,13 +1,13 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwaltsschreiben aussergerichtlich
 
 ## Arbeitsbereich
 
-Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: inkasso-leasingforderung
-description: "Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Inkasso von Leasingforderungen
 
 ## Arbeitsbereich
 
-Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

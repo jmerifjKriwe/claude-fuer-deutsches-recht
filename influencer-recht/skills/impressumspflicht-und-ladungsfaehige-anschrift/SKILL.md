@@ -1,13 +1,13 @@
 ---
 name: impressumspflicht-und-ladungsfaehige-anschrift
-description: "Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift
 
 ## Arbeitsbereich
 
-Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: verfassung-bund-laender-streit
-description: "Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Pruefraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Pruefraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bund-Länder-Streit
 
 ## Arbeitsbereich
 
-Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Pruefraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Pruefraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

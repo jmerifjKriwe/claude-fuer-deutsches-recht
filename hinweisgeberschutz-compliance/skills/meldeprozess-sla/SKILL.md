@@ -1,13 +1,13 @@
 ---
 name: meldeprozess-sla
-description: "Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Meldeprozess SLA
 
 ## Arbeitsbereich
 
-Baut Service-Level für Bearbeitung von Hinweisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Service-Level für Bearbeitung von Hinweisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

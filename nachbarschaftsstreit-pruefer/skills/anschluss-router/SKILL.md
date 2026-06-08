@@ -1,13 +1,13 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachbarschaftsstreit-Prüfer — Allgemein
 
 ## Arbeitsbereich
 
-Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

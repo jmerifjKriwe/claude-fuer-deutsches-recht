@@ -1,13 +1,13 @@
 ---
 name: hinterbliebenenrente-witwen-waisen
-description: "Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # hinterbliebenenrente-witwen-waisen
 
 ## Arbeitsbereich
 
-Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

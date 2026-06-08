@@ -1,13 +1,13 @@
 ---
 name: behoerde-oder-gericht-erkennen
-description: "Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Behörde oder Gericht erkennen
 
 ## Arbeitsbereich
 
-Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

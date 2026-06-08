@@ -1,13 +1,13 @@
 ---
 name: kommunal-behoerdenrobotik
-description: "Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunal- und Behördenrobotik
 
 ## Arbeitsbereich
 
-Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

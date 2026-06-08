@@ -7,12 +7,12 @@ description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtsch
 
 ## Arbeitsbereich
 
-**Gerichtsstand Rechtswahl Intwr CISG ROM** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Gerichtsstand Rechtswahl Intwr CISG ROM** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `gerichtsstand-und-rechtswahl-pruefen` | Prüfungslinie für gerichtsstand und rechtswahl pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `gerichtsstand-und-rechtswahl-pruefen` | Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
 | `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt. |
 
@@ -27,7 +27,7 @@ description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtsch
 
 ## 1. `gerichtsstand-und-rechtswahl-pruefen`
 
-**Fokus:** Prüfungslinie für gerichtsstand und rechtswahl pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Mandantenfragen beim Kaltstart
 

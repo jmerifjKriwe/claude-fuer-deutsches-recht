@@ -1,13 +1,13 @@
 ---
 name: change-control-engineering-und-rechtsfolgen
-description: "Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Change Control: Engineering und Rechtsfolgen
 
 ## Arbeitsbereich
 
-Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

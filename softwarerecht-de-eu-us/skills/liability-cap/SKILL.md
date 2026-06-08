@@ -1,13 +1,13 @@
 ---
 name: liability-cap
-description: "Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haftungsbegrenzung Software
 
 ## Arbeitsbereich
 
-Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

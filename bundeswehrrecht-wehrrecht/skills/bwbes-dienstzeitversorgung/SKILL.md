@@ -1,13 +1,13 @@
 ---
 name: bwbes-dienstzeitversorgung
-description: "Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstzeitversorgung und Berufsförderungsdienst
 
 ## Arbeitsbereich
 
-Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: vvg
-description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versr VVG

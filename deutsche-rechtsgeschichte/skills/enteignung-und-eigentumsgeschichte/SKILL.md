@@ -1,13 +1,13 @@
 ---
 name: enteignung-und-eigentumsgeschichte
-description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Enteignung und Eigentumsgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

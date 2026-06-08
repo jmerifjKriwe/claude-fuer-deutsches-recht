@@ -1,13 +1,13 @@
 ---
 name: raumstation-an-suborbitalflug-luftrecht
-description: "Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin
 
 ## Arbeitsbereich
 
-Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

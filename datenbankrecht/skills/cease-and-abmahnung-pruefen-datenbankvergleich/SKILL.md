@@ -1,13 +1,13 @@
 ---
 name: cease-and-abmahnung-pruefen-datenbankvergleich
-description: "Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — § 97a UrhG
 
 ## Arbeitsbereich
 
-Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

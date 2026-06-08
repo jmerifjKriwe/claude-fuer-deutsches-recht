@@ -1,13 +1,13 @@
 ---
 name: chapter15-comity-recognition-claim-objection
-description: "Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 15 Comity and Relief
 
 ## Arbeitsbereich
 
-Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

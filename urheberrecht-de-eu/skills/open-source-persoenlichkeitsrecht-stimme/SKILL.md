@@ -1,13 +1,13 @@
 ---
 name: open-source-persoenlichkeitsrecht-stimme
-description: "Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open Source und Softwarelizenzen
 
 ## Arbeitsbereich
 
-Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

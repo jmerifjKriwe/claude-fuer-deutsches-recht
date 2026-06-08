@@ -1,13 +1,13 @@
 ---
 name: frist-und-zustaendigkeit-cockpit
-description: "Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen- und Zuständigkeitscockpit
 
 ## Arbeitsbereich
 
-Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

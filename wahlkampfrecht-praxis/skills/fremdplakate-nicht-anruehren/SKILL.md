@@ -1,13 +1,13 @@
 ---
 name: fremdplakate-nicht-anruehren
-description: "Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fremdplakate Nicht Anruehren
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

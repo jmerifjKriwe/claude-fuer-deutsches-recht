@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-schwimmbad-chloridschutz
-description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Schwimmbad Chloridschutz (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

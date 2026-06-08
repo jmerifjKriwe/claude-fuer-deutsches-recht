@@ -1,13 +1,13 @@
 ---
 name: begruendung-ueber-schwellenwert-redigieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren im Goae Gebührenordnung Aerzte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Begründung über Schwellenwert redigieren
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

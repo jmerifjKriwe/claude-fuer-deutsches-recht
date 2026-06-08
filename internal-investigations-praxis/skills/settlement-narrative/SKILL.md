@@ -1,13 +1,13 @@
 ---
 name: settlement-narrative
-description: "Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Settlement-Narrativ und Verfahrensabschluss
 
 ## Arbeitsbereich
 
-Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

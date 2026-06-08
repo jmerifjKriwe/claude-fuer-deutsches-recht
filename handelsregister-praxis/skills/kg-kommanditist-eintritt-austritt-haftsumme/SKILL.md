@@ -1,13 +1,13 @@
 ---
 name: kg-kommanditist-eintritt-austritt-haftsumme
-description: "Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommanditist und Haftsumme
 
 ## Arbeitsbereich
 
-Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

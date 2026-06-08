@@ -1,13 +1,13 @@
 ---
 name: tenure-track-evaluation
-description: "Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tenure Track Evaluation
 
 ## Arbeitsbereich
 
-Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

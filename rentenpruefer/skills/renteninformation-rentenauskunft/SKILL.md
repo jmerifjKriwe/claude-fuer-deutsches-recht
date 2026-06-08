@@ -1,13 +1,13 @@
 ---
 name: renteninformation-rentenauskunft
-description: "Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # renteninformation-rentenauskunft-verstehen
 
 ## Arbeitsbereich
 
-Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

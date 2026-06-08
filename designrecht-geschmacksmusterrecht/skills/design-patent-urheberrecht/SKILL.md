@@ -1,13 +1,13 @@
 ---
 name: design-patent-urheberrecht
-description: "Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Design Und Patent Gebrauchsmuster Abgrenzung
 
 ## Arbeitsbereich
 
-Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

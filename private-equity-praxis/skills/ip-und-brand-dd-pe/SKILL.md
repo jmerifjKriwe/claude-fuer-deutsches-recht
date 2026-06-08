@@ -1,13 +1,13 @@
 ---
 name: ip-und-brand-dd-pe
-description: "Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP und Brand DD im PE-Deal
 
 ## Arbeitsbereich
 
-Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

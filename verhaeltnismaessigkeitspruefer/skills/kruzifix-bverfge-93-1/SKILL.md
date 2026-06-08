@@ -3,6 +3,8 @@ name: kruzifix-bverfge-93-1
 description: Kruzifix-Beschluss BVerfGE Band 93 Seite 1 vom 16.05.1995 als Praezedenzfall fuer praktische Konkordanz zwischen Glaubensfreiheit und staatlichem Neutralitaetsgebot in der Schule. Mit Sachverhalt und Anwendung des Konkordanz-Prinzips.
 ---
 
+# Kruzifix BVerfGE 93 1
+
 ## Sachverhalt
 
 Bayerisches Schulrecht ordnete an, in jedem Klassenzimmer einer staatlichen

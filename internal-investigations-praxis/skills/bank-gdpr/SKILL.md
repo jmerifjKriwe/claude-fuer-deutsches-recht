@@ -1,13 +1,13 @@
 ---
 name: bank-gdpr
-description: "Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BaFin-Prüfungsfeststellungen und Bankregulatorik
 
 ## Arbeitsbereich
 
-Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: wandelereignis-eingang
-description: "Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen wenn Investor Wandlung ankündigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Prüfraster: Trigger-Typ Frist Preisbestimmung Erklärung Kapitalerhohungsbedarf Formerfordernisse. Output: Prüfprotokoll Massnahmenplan Fristen. Abgrenzung: nicht für Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen wenn Investor Wandlung ankündigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Prüfraster: Trigger-Typ Frist Preisbestimmung Erklärung Kapitalerhohungsbedarf Formerfordernisse. Output: Prüfprotokoll Massnahmenplan Fristen. Abgrenzung: nicht für Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wandelereignis – Eingang Wandlungserklärung
 
 ## Arbeitsbereich
 
-Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen wenn Investor Wandlung ankündigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Prüfraster: Trigger-Typ Frist Preisbestimmung Erklärung Kapitalerhohungsbedarf Formerfordernisse. Output: Prüfprotokoll Massnahmenplan Fristen. Abgrenzung: nicht für Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen wenn Investor Wandlung ankündigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Prüfraster: Trigger-Typ Frist Preisbestimmung Erklärung Kapitalerhohungsbedarf Formerfordernisse. Output: Prüfprotokoll Massnahmenplan Fristen. Abgrenzung: nicht für Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

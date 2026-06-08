@@ -1,13 +1,13 @@
 ---
 name: anspruchsgrundlage-rechtsfolgen-b2b-vs
-description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anspruchsgrundlage und Rechtsfolgen-Klauseln
 
 ## Arbeitsbereich
 
-Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vertraulichkeit-identitaet
-description: "Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertraulichkeit Identitaet
 
 ## Arbeitsbereich
 
-Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

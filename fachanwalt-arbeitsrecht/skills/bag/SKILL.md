@@ -7,14 +7,14 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungsli
 
 ## Arbeitsbereich
 
-**BAG** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**BAG** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhörung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhörungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -27,12 +27,12 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungsli
 
 ## 1. `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`
 
-**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Rechtsprechung live prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -123,7 +123,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Anhörung des Betriebsrats (§ 102 BetrVG)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung des Betriebsrats (§ 102 BetrVG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung des Betriebsrats (§ 102 BetrVG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -327,12 +327,12 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 
 ## 3. `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`
 
-**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

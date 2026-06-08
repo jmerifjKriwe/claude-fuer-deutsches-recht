@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Aktenaufbereiter Strafrecht** Ergebniss
 
 ## Fachspezifische Fehlerachsen
 
-- `aktenaufbereiter-strafrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beziehungen-spezial-chronologie-ergaenzbar`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ersatz-sonderfall-excel-faehige`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fortlaufend-luecken-personenverzeichnis`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fristenliste-strafverfahren-aktenlektuere-fristennotiz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `kronzeugen-regelung-opferzeugen-besondere-personenverzeichnis`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `revision-rechtsfehler-aktenaufbereiter-aktenvorblatt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `aktenaufbereiter-strafrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beziehungen-spezial-chronologie-ergaenzbar`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ersatz-sonderfall-excel-faehige`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fortlaufend-luecken-personenverzeichnis`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fristenliste-strafverfahren-aktenlektuere-fristennotiz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `kronzeugen-regelung-opferzeugen-besondere-personenverzeichnis`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `revision-rechtsfehler-aktenaufbereiter-aktenvorblatt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

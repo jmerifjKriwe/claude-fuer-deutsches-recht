@@ -1,13 +1,13 @@
 ---
 name: diesel-differenzschaden-serienfall
-description: "Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VDG 106 Diesel Differenzschaden Serienfall
 
 ## Arbeitsbereich
 
-Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unternehmensweite Risikoanalyse
 
 ## Arbeitsbereich
 
-Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

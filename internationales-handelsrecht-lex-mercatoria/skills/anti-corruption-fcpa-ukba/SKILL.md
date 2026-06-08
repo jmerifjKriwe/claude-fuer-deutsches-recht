@@ -1,13 +1,13 @@
 ---
 name: anti-corruption-fcpa-ukba
-description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anti-Korruption: FCPA und UK Bribery Act
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nda-nnn-agreement-china
-description: "NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung
 
 ## Arbeitsbereich
 
-NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

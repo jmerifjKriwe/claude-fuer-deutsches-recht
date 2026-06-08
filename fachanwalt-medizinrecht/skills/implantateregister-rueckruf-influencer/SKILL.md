@@ -7,7 +7,7 @@ description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Implantateregister Rueckruf Influencer** ordnet den Fall über die tragenden Prüfungslinien: Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Implantateregister Rueckruf Influencer** ordnet den Fall über die tragenden Prüfungslinien: Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

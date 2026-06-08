@@ -1,13 +1,13 @@
 ---
 name: anwaltliche-mandatsstrategie-arbeitszeit
-description: "Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwaltliche Mandatsstrategie Beamtenrecht
 
 ## Arbeitsbereich
 
-Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

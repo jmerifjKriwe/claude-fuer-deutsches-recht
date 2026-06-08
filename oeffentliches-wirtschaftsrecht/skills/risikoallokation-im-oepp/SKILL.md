@@ -1,13 +1,13 @@
 ---
 name: risikoallokation-im-oepp
-description: "Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Risikoallokation Im Oepp
 
 ## Arbeitsbereich
 
-Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

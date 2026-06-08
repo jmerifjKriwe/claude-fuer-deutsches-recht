@@ -1,13 +1,13 @@
 ---
 name: konzernleasing-transfer-franchise
-description: "Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
 
 ## Arbeitsbereich
 
-Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

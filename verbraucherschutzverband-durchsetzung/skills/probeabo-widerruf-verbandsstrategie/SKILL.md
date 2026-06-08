@@ -1,13 +1,13 @@
 ---
 name: probeabo-widerruf-verbandsstrategie
-description: "Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VDG 104 Probeabo Widerruf Verbandsstrategie
 
 ## Arbeitsbereich
 
-Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

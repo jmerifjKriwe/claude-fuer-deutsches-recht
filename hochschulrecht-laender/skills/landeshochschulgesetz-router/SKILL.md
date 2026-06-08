@@ -1,13 +1,13 @@
 ---
 name: landeshochschulgesetz-router
-description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landeshochschulgesetz Router
 
 ## Arbeitsbereich
 
-Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzung
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

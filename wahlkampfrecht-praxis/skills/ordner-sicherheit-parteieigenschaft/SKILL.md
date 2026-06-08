@@ -1,13 +1,13 @@
 ---
 name: ordner-sicherheit-parteieigenschaft
-description: "Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordner Und Sicherheit
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

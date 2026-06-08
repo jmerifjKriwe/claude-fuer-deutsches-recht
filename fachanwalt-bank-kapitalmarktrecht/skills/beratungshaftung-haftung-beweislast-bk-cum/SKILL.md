@@ -7,7 +7,7 @@ description: "Beratungshaftung Haftung Beweislast BK CUM im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-**Beratungshaftung Haftung Beweislast BK CUM** ordnet den Fall über die tragenden Prüfungslinien: Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Beratungshaftung Haftung Beweislast BK CUM** ordnet den Fall über die tragenden Prüfungslinien: Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

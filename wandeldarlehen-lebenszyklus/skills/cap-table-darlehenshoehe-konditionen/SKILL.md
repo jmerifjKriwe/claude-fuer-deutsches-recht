@@ -1,13 +1,13 @@
 ---
 name: cap-table-darlehenshoehe-konditionen
-description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money
 
 ## Arbeitsbereich
 
-Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: berufsgeheimnisse-203-stgb
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufsgeheimnisse 203 Stgb
 
 ## Arbeitsbereich
 
-NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

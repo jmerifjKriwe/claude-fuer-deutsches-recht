@@ -7,13 +7,13 @@ description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft k
 
 ## Arbeitsbereich
 
-**Atmp Pharmakovigilanz Aufklaerungsfehler** ordnet den Fall über die tragenden Prüfungslinien: ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Atmp Pharmakovigilanz Aufklaerungsfehler** ordnet den Fall über die tragenden Prüfungslinien: ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `atmp-pharmakovigilanz-rmp` | ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `aufklaerungsfehler-beweisstrategie` | Prüfungslinie für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `aufklaerungsfehler-beweisstrategie` | Aufklaerungsfehler Beweisstrategie: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `befundherausgabe-epa-akte` | Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `behandlungsfehler-anspruch-pruefen` | Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB. |
 
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `aufklaerungsfehler-beweisstrategie`
 
-**Fokus:** Prüfungslinie für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Aufklaerungsfehler Beweisstrategie: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Aufklärungsfehler — Beweisstrategie
 

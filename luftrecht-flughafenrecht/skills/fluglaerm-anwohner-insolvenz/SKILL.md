@@ -1,13 +1,13 @@
 ---
 name: fluglaerm-anwohner-insolvenz
-description: "Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche
 
 ## Arbeitsbereich
 
-Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

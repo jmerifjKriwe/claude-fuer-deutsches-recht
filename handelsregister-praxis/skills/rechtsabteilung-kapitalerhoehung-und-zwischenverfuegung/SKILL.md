@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung
-description: "Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

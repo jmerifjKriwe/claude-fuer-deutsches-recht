@@ -1,13 +1,13 @@
 ---
 name: subchapter-v-confirmation
-description: "Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subchapter V Confirmation
 
 ## Arbeitsbereich
 
-Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: mobile-work-verwertung
-description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones
 
 ## Arbeitsbereich
 
-Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

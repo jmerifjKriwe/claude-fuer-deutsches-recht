@@ -1,13 +1,13 @@
 ---
 name: tibet-xinjiang-public-communications
-description: "Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken
 
 ## Arbeitsbereich
 
-Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

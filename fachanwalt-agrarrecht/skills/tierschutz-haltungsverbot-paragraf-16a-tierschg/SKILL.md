@@ -1,35 +1,44 @@
 ---
 name: tierschutz-haltungsverbot-paragraf-16a-tierschg
-description: Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster fuer Tatsachenfundierung. Pruefraster Wiederholungsgefahr Verhaeltnismaessigkeit milderes Mittel.
+description: "Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster fuer Tatsachenfundierung. Pruefraster Wiederholungsgefahr Verhaeltnismaessigkeit milderes Mittel."
 ---
 
-## Problemstellung
+# Tierschutz Haltungsverbot Paragraf 16a Tierschg
+
+## Einsatzlage
 
 Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot fuer alle Tierarten nach drei dokumentierten Maengeln (Klauenpflege, Unterstand, Tierarztversorgung). T will klagen.
 
-## Normen
+## Normenanker
 
-- Paragrafen 2, 16a TierSchG.
-- Paragraf 11 TierSchG (Erlaubnispflicht).
-- Paragrafen 1, 2 TierSchHuV (Hunde) hier nicht einschlaegig.
+- § 16a TIERSCHG
+- §§ 585 ff. BGB
+- § 9 GrdstVG
+- § 16a TierSchG
+- § 13a DüV
+- § 906 BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BVerwG 06.04.2017 3 C 24/15: Haltungsverbot als Ultima Ratio.
-- BVerwG 26.04.2018 3 B 17/18: Anforderungen an Tatsachenfeststellung.
+- BVerwG 06.04.2017 3 C 24/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerwG 26.04.2018 3 B 17/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 1. Tatsachengrundlage pruefen: Welche Maengel zu welchem Zeitpunkt?
 2. Wiederholungsgefahr: Belege fuer Maengelbehebung sammeln.
 3. Milderes Mittel: Auflagen statt Verbot (regelmaessige Kontrolle).
 4. Einschraenkung auf bestimmte Tierart als Vergleichsvorschlag.
 
-## Schriftsatzkern
-
-Paragraf 16a TierSchG ist Ermessensnorm; Verhaeltnismaessigkeitspruefung erforderlich; Haltungsverbot fuer alle Tierarten unverhaeltnismaessig wenn nur Schafhaltung betroffen.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Tierarztbescheinigung Maengelbehebung.
 - Fotodokumentation Stallumbau.

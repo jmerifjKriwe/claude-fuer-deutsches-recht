@@ -1,13 +1,13 @@
 ---
 name: handelsrichter-bilanzstreit-sitzung
-description: "Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsrichter Bilanzstreit: Sitzungspraxis
 
 ## Arbeitsbereich
 
-Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

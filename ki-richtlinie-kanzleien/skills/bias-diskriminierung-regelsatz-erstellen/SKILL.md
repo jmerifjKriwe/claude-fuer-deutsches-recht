@@ -1,13 +1,13 @@
 ---
 name: bias-diskriminierung-regelsatz-erstellen
-description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bias und Diskriminierung Prüfung
 
 ## Arbeitsbereich
 
-Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

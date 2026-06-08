@@ -1,13 +1,13 @@
 ---
 name: b2b-kundendaten-datenbank-insolvenz-als
-description: "Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
 ## Arbeitsbereich
 
-Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

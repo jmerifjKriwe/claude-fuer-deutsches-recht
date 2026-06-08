@@ -1,13 +1,13 @@
 ---
 name: preisempfehlung-preisbindung
-description: "Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht
 
 ## Arbeitsbereich
 
-Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

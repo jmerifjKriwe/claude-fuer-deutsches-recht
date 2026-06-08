@@ -1,13 +1,13 @@
 ---
 name: vorlaeufige-dienstenthebung-bezuege
-description: "Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorlaeufige Dienstenthebung Bezuege
 
 ## Arbeitsbereich
 
-Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: debitorenbrief-hoeflich-aber-rechtssicher
-description: "Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Debitorenbrief höflich aber rechtssicher
 
 ## Arbeitsbereich
 
-Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

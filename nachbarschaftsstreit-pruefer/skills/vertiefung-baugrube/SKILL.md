@@ -1,6 +1,6 @@
 ---
 name: vertiefung-baugrube
-description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertiefung Baugrube

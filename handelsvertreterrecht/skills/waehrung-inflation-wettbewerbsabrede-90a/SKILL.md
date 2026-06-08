@@ -1,13 +1,13 @@
 ---
 name: waehrung-inflation-wettbewerbsabrede-90a
-description: "Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB
 
 ## Arbeitsbereich
 
-Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

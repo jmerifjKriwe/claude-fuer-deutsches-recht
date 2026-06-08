@@ -1,13 +1,13 @@
 ---
 name: bsi-c5-cloud-grundschutz-schutzbedarf
-description: "Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BSI C5 Cloud Check
 
 ## Arbeitsbereich
 
-Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

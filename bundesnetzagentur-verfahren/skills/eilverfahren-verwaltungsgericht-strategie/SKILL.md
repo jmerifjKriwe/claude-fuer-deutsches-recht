@@ -1,13 +1,13 @@
 ---
 name: eilverfahren-verwaltungsgericht-strategie
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

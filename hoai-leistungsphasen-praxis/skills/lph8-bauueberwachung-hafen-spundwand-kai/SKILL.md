@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-hafen-spundwand-kai
-description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Hafen Spundwand und Kai
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

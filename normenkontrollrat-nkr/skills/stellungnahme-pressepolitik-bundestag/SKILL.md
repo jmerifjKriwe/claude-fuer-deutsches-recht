@@ -1,13 +1,13 @@
 ---
 name: stellungnahme-pressepolitik-bundestag
-description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht
 
 ## Arbeitsbereich
 
-Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

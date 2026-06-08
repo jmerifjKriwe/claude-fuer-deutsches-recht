@@ -1,13 +1,13 @@
 ---
 name: upc-einstweilige-massnahmen-verletzung-rechtsbestand
-description: "Bereitet einstweilige Maßnahmen vor dem UPC vor: Dringlichkeit, Schutzbereich, Rechtsbestand, Beweislast, Schutzschrift, Geheimnisschutz, Vollziehung und Vergleichsfenster im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet einstweilige Maßnahmen vor dem UPC vor: Dringlichkeit, Schutzbereich, Rechtsbestand, Beweislast, Schutzschrift, Geheimnisschutz, Vollziehung und Vergleichsfenster im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UPC: Einstweilige Maßnahmen
 
 ## Arbeitsbereich
 
-Bereitet einstweilige Maßnahmen vor dem UPC vor: Dringlichkeit, Schutzbereich, Rechtsbestand, Beweislast, Schutzschrift, Geheimnisschutz, Vollziehung und Vergleichsfenster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet einstweilige Maßnahmen vor dem UPC vor: Dringlichkeit, Schutzbereich, Rechtsbestand, Beweislast, Schutzschrift, Geheimnisschutz, Vollziehung und Vergleichsfenster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

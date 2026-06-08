@@ -1,13 +1,13 @@
 ---
 name: informationssicherheit-hochschule
-description: "Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Informationssicherheit Hochschule
 
 ## Arbeitsbereich
 
-Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

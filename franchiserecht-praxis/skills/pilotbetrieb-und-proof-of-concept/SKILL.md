@@ -1,13 +1,13 @@
 ---
 name: pilotbetrieb-und-proof-of-concept
-description: "Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Pilotbetrieb und Proof of Concept
 
 ## Arbeitsbereich
 
-Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

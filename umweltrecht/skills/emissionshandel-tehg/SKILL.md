@@ -1,13 +1,13 @@
 ---
 name: emissionshandel-tehg
-description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Emissionshandel und TEHG
 
 ## Arbeitsbereich
 
-Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

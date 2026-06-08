@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Handels Gesellschaftsrecht**
 
 ## Fachspezifische Fehlerachsen
 
-- `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-fao-gesellschafterstreit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesellschafterstreit-handelsvertreterausgleich-ma-due`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesellschaftervertrag-geschaeftsfuehrerhaftung-hgr`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gmbh-beirat-vergleichsverhandlung-strategie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gmbhg-handels-handelsvertreterausgleich-international`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `hgb-kanzlei-beweislast-mopeg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `hgesr-einfuehrung-hgr-due-erstgespraech-mandatsannahme`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-fao-gesellschafterstreit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesellschafterstreit-handelsvertreterausgleich-ma-due`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesellschaftervertrag-geschaeftsfuehrerhaftung-hgr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gmbh-beirat-vergleichsverhandlung-strategie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gmbhg-handels-handelsvertreterausgleich-international`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `hgb-kanzlei-beweislast-mopeg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `hgesr-einfuehrung-hgr-due-erstgespraech-mandatsannahme`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

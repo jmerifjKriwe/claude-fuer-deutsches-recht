@@ -1,13 +1,13 @@
 ---
 name: datenschutz-nichtoeffentliche-angaben
-description: "Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz und nicht öffentliche Angaben
 
 ## Arbeitsbereich
 
-Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

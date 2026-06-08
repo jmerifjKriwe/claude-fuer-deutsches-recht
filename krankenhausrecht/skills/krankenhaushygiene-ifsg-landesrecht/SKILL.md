@@ -1,13 +1,13 @@
 ---
 name: krankenhaushygiene-ifsg-landesrecht
-description: "Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krankenhaushygiene IfSG Landesrecht
 
 ## Arbeitsbereich
 
-Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

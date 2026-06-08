@@ -7,7 +7,7 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-**Meth Auslegung Analogie Teleologische** ordnet den Fall über die tragenden Prüfungslinien: Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Meth Auslegung Analogie Teleologische** ordnet den Fall über die tragenden Prüfungslinien: Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -34,7 +34,7 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 ### Vertragsauslegung: Vollständiger Methodenleitfaden
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vertragsauslegung: Vollständiger Methodenleitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vertragsauslegung: Vollständiger Methodenleitfaden` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -123,7 +123,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Analogie und teleologische Reduktion (Rechtsfortbildung)
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Analogie und teleologische Reduktion (Rechtsfortbildung)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Analogie und teleologische Reduktion (Rechtsfortbildung)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -256,7 +256,7 @@ Stand: Mai 2026.
 ### Methodenehrlichkeit und Ideologiekritik: Analyse-Check
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenehrlichkeit und Ideologiekritik: Analyse-Check` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenehrlichkeit und Ideologiekritik: Analyse-Check` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -345,7 +345,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 ### Systemwechsel und Methodenakrobatik in der Rechtsanwendung
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemwechsel und Methodenakrobatik in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemwechsel und Methodenakrobatik in der Rechtsanwendung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -435,7 +435,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 ### Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.

@@ -1,13 +1,13 @@
 ---
 name: urb-relationstechnik-entscheidungsgruende
-description: "Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urb: Relationstechnik Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

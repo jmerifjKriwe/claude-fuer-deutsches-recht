@@ -1,13 +1,13 @@
 ---
 name: losverfahren-neubewertung-verfahren
-description: "Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Losverfahren und Prüferzuteilung
 
 ## Arbeitsbereich
 
-Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

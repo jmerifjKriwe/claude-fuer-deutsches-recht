@@ -1,13 +1,13 @@
 ---
 name: rechtsfortbildung-bgh-rechtsfragen
-description: "Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BGH-Update-Memo
 
 ## Arbeitsbereich
 
-Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

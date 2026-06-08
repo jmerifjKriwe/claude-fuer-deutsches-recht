@@ -1,13 +1,13 @@
 ---
 name: erdbeobachtung-datenschutz-geheimschutz-und-geodatenre
-description: "Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht
 
 ## Arbeitsbereich
 
-Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

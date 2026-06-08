@@ -7,7 +7,7 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 
 ## Arbeitsbereich
 
-**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüfungslinien: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüfungslinien: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

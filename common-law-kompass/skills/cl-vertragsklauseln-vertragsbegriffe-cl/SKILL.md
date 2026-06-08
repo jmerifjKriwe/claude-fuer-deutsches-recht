@@ -1,13 +1,13 @@
 ---
 name: cl-vertragsklauseln-vertragsbegriffe-cl
-description: "Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common Law: Vertragsklauseln
 
 ## Arbeitsbereich
 
-Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

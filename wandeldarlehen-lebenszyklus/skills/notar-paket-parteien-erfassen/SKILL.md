@@ -1,13 +1,13 @@
 ---
 name: notar-paket-parteien-erfassen
-description: "Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notar-Paket zur Handelsregister-Anmeldung
 
 ## Arbeitsbereich
 
-Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

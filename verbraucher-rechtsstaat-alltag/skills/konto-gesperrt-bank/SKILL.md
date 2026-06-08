@@ -1,13 +1,13 @@
 ---
 name: konto-gesperrt-bank
-description: "Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konto gesperrt durch Bank
 
 ## Arbeitsbereich
 
-Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

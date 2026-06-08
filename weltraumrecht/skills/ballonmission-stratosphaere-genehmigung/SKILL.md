@@ -1,13 +1,13 @@
 ---
 name: ballonmission-stratosphaere-genehmigung
-description: "Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Ballonmission Stratosphäre: Genehmigung
 
 ## Arbeitsbereich
 
-Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

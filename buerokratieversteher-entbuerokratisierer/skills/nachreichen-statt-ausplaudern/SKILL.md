@@ -1,13 +1,13 @@
 ---
 name: nachreichen-statt-ausplaudern
-description: "Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachreichen statt Ausplaudern
 
 ## Arbeitsbereich
 
-Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

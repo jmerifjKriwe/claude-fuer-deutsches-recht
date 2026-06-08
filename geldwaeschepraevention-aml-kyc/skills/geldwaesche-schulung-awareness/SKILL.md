@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-schulung-awareness
-description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulung und Awareness
 
 ## Arbeitsbereich
 
-Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

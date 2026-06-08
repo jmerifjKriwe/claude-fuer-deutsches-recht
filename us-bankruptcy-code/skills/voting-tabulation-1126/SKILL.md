@@ -1,13 +1,13 @@
 ---
 name: voting-tabulation-1126
-description: "Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Voting and Tabulation § 1126
 
 ## Arbeitsbereich
 
-Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

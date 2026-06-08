@@ -1,13 +1,13 @@
 ---
 name: buchhaltung-datev-creator-kontenplan
-description: "Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan
 
 ## Arbeitsbereich
 
-Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

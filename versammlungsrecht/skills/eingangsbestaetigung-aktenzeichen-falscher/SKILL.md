@@ -1,13 +1,13 @@
 ---
 name: eingangsbestaetigung-aktenzeichen-falscher
-description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ohne Eingangsnachweis wird es unnötig nervös
 
 ## Arbeitsbereich
 
-Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

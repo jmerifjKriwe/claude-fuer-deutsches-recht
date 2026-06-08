@@ -1,13 +1,13 @@
 ---
 name: crm-loyalty-designrecht-muster
-description: "CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Crm Loyalty Datenschutz
 
 ## Arbeitsbereich
 
-CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

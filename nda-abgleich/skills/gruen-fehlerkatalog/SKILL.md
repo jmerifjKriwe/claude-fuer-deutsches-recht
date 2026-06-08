@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Nda Abgleich** Ergebnisse vor Abgabe, V
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ausgabe-changes-docx-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `durch-interessen-echten-sonderfall-eigenen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegen-gelb-gleicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegenseite-tracked-fristennotiz-nda-definitionsklausel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `haltelinien-setzt-standard`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `it-saas-laufzeit-survival-m-a`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `m-a-aenderungsmodus-ampelmatrix`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mitarbeiter-need-non-solicit-permitted-disclosure`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ausgabe-changes-docx-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `durch-interessen-echten-sonderfall-eigenen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegen-gelb-gleicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegenseite-tracked-fristennotiz-nda-definitionsklausel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `haltelinien-setzt-standard`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `it-saas-laufzeit-survival-m-a`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `m-a-aenderungsmodus-ampelmatrix`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mitarbeiter-need-non-solicit-permitted-disclosure`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

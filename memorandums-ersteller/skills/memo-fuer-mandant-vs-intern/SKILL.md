@@ -1,13 +1,13 @@
 ---
 name: memo-fuer-mandant-vs-intern
-description: "Memo für Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar für Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo für Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar für Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenmemo vs. internes Memo
 
 ## Arbeitsbereich
 
-Memo für Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar für Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Memo für Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar für Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

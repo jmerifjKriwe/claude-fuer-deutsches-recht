@@ -1,13 +1,13 @@
 ---
 name: pension-buyout-strukturierung-und-de-risking
-description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pension Buyout Strukturierung und De-Risking
 
 ## Arbeitsbereich
 
-Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

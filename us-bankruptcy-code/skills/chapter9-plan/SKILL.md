@@ -1,13 +1,13 @@
 ---
 name: chapter9-plan
-description: "Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 9 Plan Special Rules
 
 ## Arbeitsbereich
 
-Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

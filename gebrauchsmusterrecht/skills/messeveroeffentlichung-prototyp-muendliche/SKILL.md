@@ -1,13 +1,13 @@
 ---
 name: messeveroeffentlichung-prototyp-muendliche
-description: "Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Messeveroeffentlichung Und Prototyp
 
 ## Arbeitsbereich
 
-Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: anerkennung-ects-und-ausland
-description: "Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anerkennung ECTS Und Ausland
 
 ## Arbeitsbereich
 
-Prüft Anerkennung von Leistungen und ECTS. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung von Leistungen und ECTS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

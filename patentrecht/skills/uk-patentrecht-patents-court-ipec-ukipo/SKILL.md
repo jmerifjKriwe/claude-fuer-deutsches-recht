@@ -1,13 +1,13 @@
 ---
 name: uk-patentrecht-patents-court-ipec-ukipo
-description: "Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UK: UKIPO, Patents Court und IPEC
 
 ## Arbeitsbereich
 
-Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: korrekturfrist-und-verzoegerung
-description: "Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Korrekturfrist und Verzögerung
 
 ## Arbeitsbereich
 
-Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

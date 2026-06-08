@@ -1,13 +1,13 @@
 ---
 name: neu-006-paulskirchenverfassung-1848-und-grundrechte
-description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

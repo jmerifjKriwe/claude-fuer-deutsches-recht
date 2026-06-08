@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Jveg Kostenpruefer** Ergebnisse vor Abg
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beschwerde-dolmetscher-sonderfall-dolmetscherkosten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fahrtkosten-festsetzung-interessen-freistehender`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gate-beweislast-jveg-quality`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-anspruchsberechtigung-antragsgenerator-dolmetscher`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-dolmetscher-uebersetzer-fahrtkosten-festsetzung-beschwerde`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-gate-rechenblatt-sachverstaendigenrechnung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-gerichtsschreiben-jveg-kuerzung-wegfall`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-sonstige-aufwendungen-uebernachtung-aufwand`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `jveg-vorschuss-kostenrisiko-zeugenentschaedigung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beschwerde-dolmetscher-sonderfall-dolmetscherkosten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fahrtkosten-festsetzung-interessen-freistehender`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gate-beweislast-jveg-quality`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-anspruchsberechtigung-antragsgenerator-dolmetscher`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-dolmetscher-uebersetzer-fahrtkosten-festsetzung-beschwerde`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-gate-rechenblatt-sachverstaendigenrechnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-gerichtsschreiben-jveg-kuerzung-wegfall`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-sonstige-aufwendungen-uebernachtung-aufwand`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `jveg-vorschuss-kostenrisiko-zeugenentschaedigung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

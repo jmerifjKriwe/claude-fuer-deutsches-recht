@@ -1,13 +1,13 @@
 ---
 name: urteilszitate-historisch-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urteilszitate historisch verifizieren
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -7,7 +7,7 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 
 ## Arbeitsbereich
 
-**Verlagsredaktion International Urheber** ordnet den Fall über die tragenden Prüfungslinien: Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verlagsredaktion International Urheber** ordnet den Fall über die tragenden Prüfungslinien: Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

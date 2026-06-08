@@ -1,13 +1,13 @@
 ---
 name: dawn-raid-playbook
-description: "Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dawn Raid Playbook
 
 ## Arbeitsbereich
 
-Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

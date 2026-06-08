@@ -1,13 +1,13 @@
 ---
 name: outsourcing-fintech-bank-as-a-service
-description: "FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bank-as-a-Service Outsourcing
 
 ## Arbeitsbereich
 
-FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: it-leasing-hardware-software-cloud-bundle
-description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IT-Leasing: Hardware, Software und Cloud-Bundle
 
 ## Arbeitsbereich
 
-IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: tuerkei-patentrecht-turkpatent-ip-courts
-description: "Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Türkei: TURKPATENT und IP-Gerichte
 
 ## Arbeitsbereich
 
-Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

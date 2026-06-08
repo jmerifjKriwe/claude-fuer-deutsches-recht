@@ -7,7 +7,7 @@ description: "Konversion und volle Gemeinschaft: Fachmodul für CIC, Katechismus
 
 ## Arbeitsbereich
 
-Konversion und volle Gemeinschaft: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konversion und volle Gemeinschaft: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: produktbeobachtung-software-produktrecht
-description: "Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktbeobachtung: Software, OTA und Sicherheitsupdates
 
 ## Arbeitsbereich
 
-Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

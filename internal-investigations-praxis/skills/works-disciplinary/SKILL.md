@@ -1,13 +1,13 @@
 ---
 name: works-disciplinary
-description: "Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebsrats-Konflikte in Internal Investigations
 
 ## Arbeitsbereich
 
-Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

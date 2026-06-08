@@ -7,7 +7,7 @@ description: "Prüft größere Runden, Internationalisierung, Venture Debt, Gove
 
 ## Arbeitsbereich
 
-Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

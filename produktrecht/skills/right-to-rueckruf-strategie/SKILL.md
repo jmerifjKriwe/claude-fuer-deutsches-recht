@@ -1,13 +1,13 @@
 ---
 name: right-to-rueckruf-strategie
-description: "Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Right to Repair im Produktrecht
 
 ## Arbeitsbereich
 
-Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

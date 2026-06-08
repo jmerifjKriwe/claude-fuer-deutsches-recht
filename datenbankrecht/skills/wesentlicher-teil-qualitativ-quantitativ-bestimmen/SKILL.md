@@ -1,13 +1,13 @@
 ---
 name: wesentlicher-teil-qualitativ-quantitativ-bestimmen
-description: "Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen
 
 ## Arbeitsbereich
 
-Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

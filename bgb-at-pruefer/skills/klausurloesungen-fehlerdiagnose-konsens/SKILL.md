@@ -1,13 +1,13 @@
 ---
 name: klausurloesungen-fehlerdiagnose-konsens
-description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung
 
 ## Arbeitsbereich
 
-Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

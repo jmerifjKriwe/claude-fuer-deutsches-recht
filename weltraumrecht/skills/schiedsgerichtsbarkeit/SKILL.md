@@ -1,13 +1,13 @@
 ---
 name: schiedsgerichtsbarkeit
-description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Schiedsgerichtsbarkeit: Raumfahrtverträge
 
 ## Arbeitsbereich
 
-Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

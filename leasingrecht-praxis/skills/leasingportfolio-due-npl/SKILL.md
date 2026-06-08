@@ -1,13 +1,13 @@
 ---
 name: leasingportfolio-due-npl
-description: "Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasingportfolio Due Diligence
 
 ## Arbeitsbereich
 
-Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

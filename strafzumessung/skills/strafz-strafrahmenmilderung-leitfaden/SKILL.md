@@ -1,13 +1,13 @@
 ---
 name: strafz-strafrahmenmilderung-leitfaden
-description: "Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StrafZ: Strafrahmenmilderung
 
 ## Arbeitsbereich
 
-Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

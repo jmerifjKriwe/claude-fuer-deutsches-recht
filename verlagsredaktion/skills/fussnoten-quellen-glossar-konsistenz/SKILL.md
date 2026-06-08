@@ -1,13 +1,13 @@
 ---
 name: fussnoten-quellen-glossar-konsistenz
-description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fussnoten- und Quellen-Konsolidierung
 
 ## Arbeitsbereich
 
-Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

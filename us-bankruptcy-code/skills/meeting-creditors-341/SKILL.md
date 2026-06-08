@@ -1,13 +1,13 @@
 ---
 name: meeting-creditors-341
-description: "Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Meeting of Creditors § 341
 
 ## Arbeitsbereich
 
-Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

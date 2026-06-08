@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-hochhaus-statik-fassade
-description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

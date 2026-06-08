@@ -1,13 +1,13 @@
 ---
 name: means-test-707b
-description: "Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Means Test § 707(b)
 
 ## Arbeitsbereich
 
-Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

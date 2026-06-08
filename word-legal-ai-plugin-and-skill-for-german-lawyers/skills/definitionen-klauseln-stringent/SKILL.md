@@ -1,13 +1,13 @@
 ---
 name: definitionen-klauseln-stringent
-description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Definitionen-Klauseln stringent
 
 ## Arbeitsbereich
 
-Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

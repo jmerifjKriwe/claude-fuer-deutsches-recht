@@ -7,7 +7,7 @@ description: "Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, An
 
 ## Arbeitsbereich
 
-Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, Anordnungsgrund, medizinische Dringlichkeit und Glaubhaftmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, Anordnungsgrund, medizinische Dringlichkeit und Glaubhaftmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

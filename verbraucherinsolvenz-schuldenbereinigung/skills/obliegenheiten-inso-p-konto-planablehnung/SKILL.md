@@ -7,7 +7,7 @@ description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherins
 
 ## Arbeitsbereich
 
-**Obliegenheiten Inso P Konto Planablehnung** ordnet den Fall über die tragenden Prüfungslinien: Obliegenheiten in der Wohlverhaltensphase, P-Konto-Sofortschutz, Planablehnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Obliegenheiten Inso P Konto Planablehnung** ordnet den Fall über die tragenden Prüfungslinien: Obliegenheiten in der Wohlverhaltensphase, P-Konto-Sofortschutz, Planablehnung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

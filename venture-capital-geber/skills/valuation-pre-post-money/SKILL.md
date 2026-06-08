@@ -7,7 +7,7 @@ description: "Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, conve
 
 ## Arbeitsbereich
 
-Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

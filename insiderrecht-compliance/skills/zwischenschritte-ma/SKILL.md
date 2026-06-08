@@ -1,13 +1,13 @@
 ---
 name: zwischenschritte-ma
-description: "Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)
 
 ## Arbeitsbereich
 
-Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

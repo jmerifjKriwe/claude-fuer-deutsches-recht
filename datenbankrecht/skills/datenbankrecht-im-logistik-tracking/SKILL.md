@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-im-logistik-tracking
-description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten
 
 ## Arbeitsbereich
 
-Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

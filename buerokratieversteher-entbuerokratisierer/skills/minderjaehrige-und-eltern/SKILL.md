@@ -1,13 +1,13 @@
 ---
 name: minderjaehrige-und-eltern
-description: "Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Minderjährige und Eltern
 
 ## Arbeitsbereich
 
-Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

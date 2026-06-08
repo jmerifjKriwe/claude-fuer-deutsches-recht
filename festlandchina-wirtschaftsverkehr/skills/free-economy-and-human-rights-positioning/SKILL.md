@@ -1,13 +1,13 @@
 ---
 name: free-economy-and-human-rights-positioning
-description: "Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiheitliche Wirtschaft und Menschenrechte: China-Positionierung
 
 ## Arbeitsbereich
 
-Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

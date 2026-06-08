@@ -1,13 +1,13 @@
 ---
 name: insolvenz-franchisenehmer-franchisegeber
-description: "Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz
 
 ## Arbeitsbereich
 
-Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

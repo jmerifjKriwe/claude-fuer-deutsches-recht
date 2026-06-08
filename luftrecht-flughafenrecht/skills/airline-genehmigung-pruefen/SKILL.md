@@ -1,13 +1,13 @@
 ---
 name: airline-genehmigung-pruefen
-description: "Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline – Genehmigung prüfen
 
 ## Arbeitsbereich
 
-Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

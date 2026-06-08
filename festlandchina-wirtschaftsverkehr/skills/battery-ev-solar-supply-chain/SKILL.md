@@ -1,13 +1,13 @@
 ---
 name: battery-ev-solar-supply-chain
-description: "Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance
 
 ## Arbeitsbereich
 
-Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erinnerungskultur-juristen-und-legendenbildung
-description: "Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Juristische Erinnerungskultur und Legendenbildung
 
 ## Arbeitsbereich
 
-Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

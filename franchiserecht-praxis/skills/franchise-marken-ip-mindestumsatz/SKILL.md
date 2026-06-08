@@ -1,13 +1,13 @@
 ---
 name: franchise-marken-ip-mindestumsatz
-description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Marken Ip Lizenzierung
 
 ## Arbeitsbereich
 
-Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

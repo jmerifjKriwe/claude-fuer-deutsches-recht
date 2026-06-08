@@ -1,13 +1,13 @@
 ---
 name: ausgleich-ma-deal-ausgleichsanmeldung
-description: "Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berechnung des Ausgleichsanspruchs nach § 89b HGB
 
 ## Arbeitsbereich
 
-Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: professional-fees-professionals-retention
-description: "Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Professional Fees § 330
 
 ## Arbeitsbereich
 
-Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: oem-odm-private-label
-description: "Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # OEM, ODM und Private Label
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

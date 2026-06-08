@@ -1,13 +1,13 @@
 ---
 name: 040-mandantenmail-freundlich-knapp-und-rechtssicher
-description: "Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Mandantenmail – freundlich, knapp, rechtssicher
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

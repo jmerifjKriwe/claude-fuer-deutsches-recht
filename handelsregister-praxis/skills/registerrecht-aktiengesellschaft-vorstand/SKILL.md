@@ -1,13 +1,13 @@
 ---
 name: registerrecht-aktiengesellschaft-vorstand
-description: "Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AG: Vorstand/Aufsichtsrat anmelden
 
 ## Arbeitsbereich
 
-Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

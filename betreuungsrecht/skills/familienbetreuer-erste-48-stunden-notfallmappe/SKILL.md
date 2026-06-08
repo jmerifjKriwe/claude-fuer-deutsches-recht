@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-erste-48-stunden-notfallmappe
-description: "Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: erste 48 Stunden und Notfallmappe
 
 ## Arbeitsbereich
 
-Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

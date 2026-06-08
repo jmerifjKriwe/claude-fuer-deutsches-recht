@@ -1,13 +1,13 @@
 ---
 name: humanistische-pazifistische-gruende
-description: "Formt säkulare Ethik in eine persönliche KDV-Begründung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formt säkulare Ethik in eine persönliche KDV-Begründung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Humanistische pazifistische Gründe
 
 ## Arbeitsbereich
 
-Formt säkulare Ethik in eine persönliche KDV-Begründung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formt säkulare Ethik in eine persönliche KDV-Begründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Sitzungspolizei** ordnet den Fall über die tragenden Prüfungslinien: Sitzungspolizei §§ 176 ff, Verschleppungsabsicht nach § 244 Abs, Erste Reaktion wenn Gericht oder Staatsanwaltschaft den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafr Dysfunk Sitzungspolizei** ordnet den Fall über die tragenden Prüfungslinien: Sitzungspolizei §§ 176 ff, Verschleppungsabsicht nach § 244 Abs, Erste Reaktion wenn Gericht oder Staatsanwaltschaft den. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

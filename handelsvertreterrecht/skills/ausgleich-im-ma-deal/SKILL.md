@@ -1,13 +1,13 @@
 ---
 name: ausgleich-im-ma-deal
-description: "Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang
 
 ## Arbeitsbereich
 
-Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

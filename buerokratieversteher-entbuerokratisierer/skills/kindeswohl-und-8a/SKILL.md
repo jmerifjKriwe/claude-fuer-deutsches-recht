@@ -1,13 +1,13 @@
 ---
 name: kindeswohl-und-8a
-description: "Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kindeswohl und § 8a SGB VIII
 
 ## Arbeitsbereich
 
-Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

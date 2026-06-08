@@ -1,13 +1,13 @@
 ---
 name: auslaendischer-wehrdienst-und-asyl
-description: "Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausländischer Wehrdienst
 
 ## Arbeitsbereich
 
-Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

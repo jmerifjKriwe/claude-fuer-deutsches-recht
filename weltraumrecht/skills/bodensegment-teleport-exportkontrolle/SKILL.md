@@ -1,13 +1,13 @@
 ---
 name: bodensegment-teleport-exportkontrolle
-description: "Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur
 
 ## Arbeitsbereich
 
-Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

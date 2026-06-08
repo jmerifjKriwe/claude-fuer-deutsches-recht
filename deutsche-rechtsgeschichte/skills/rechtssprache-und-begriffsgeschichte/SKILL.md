@@ -1,13 +1,13 @@
 ---
 name: rechtssprache-und-begriffsgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtssprache und Begriffsgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

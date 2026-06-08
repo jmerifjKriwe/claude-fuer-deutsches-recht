@@ -1,13 +1,13 @@
 ---
 name: must-fit-must-match-ersatzteile
-description: "Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Must Fit Must Match Ersatzteile
 
 ## Arbeitsbereich
 
-Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

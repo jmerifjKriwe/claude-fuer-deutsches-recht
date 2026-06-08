@@ -7,7 +7,7 @@ description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Klageerwiderung Checkliste Replik Anlagen** ordnet den Fall über die tragenden Prüfungslinien: Vollständige Checkliste für die Klageerwiderung, Anlagen-Nummerierung in Klageerwiderung und Replik korrekt, Bezeichnung Sortierung und Beifuegung von Anlagen zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Klageerwiderung Checkliste Replik Anlagen** ordnet den Fall über die tragenden Prüfungslinien: Vollständige Checkliste für die Klageerwiderung, Anlagen-Nummerierung in Klageerwiderung und Replik korrekt, Bezeichnung Sortierung und Beifuegung von Anlagen zur. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

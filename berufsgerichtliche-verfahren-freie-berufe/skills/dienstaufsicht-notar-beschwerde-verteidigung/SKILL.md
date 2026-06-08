@@ -1,13 +1,13 @@
 ---
 name: dienstaufsicht-notar-beschwerde-verteidigung
-description: "Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstaufsicht Notar Beschwerde: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

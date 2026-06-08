@@ -1,13 +1,13 @@
 ---
 name: stichprobe-und-befreiung-kleine-unternehmen
-description: "Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stichprobe, Schwelle und Entlastung kleiner Unternehmen
 
 ## Arbeitsbereich
 
-Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

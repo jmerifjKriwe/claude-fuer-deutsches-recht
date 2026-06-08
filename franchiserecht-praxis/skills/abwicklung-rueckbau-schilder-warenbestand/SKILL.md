@@ -1,13 +1,13 @@
 ---
 name: abwicklung-rueckbau-schilder-warenbestand
-description: "Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
 
 ## Arbeitsbereich
 
-Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

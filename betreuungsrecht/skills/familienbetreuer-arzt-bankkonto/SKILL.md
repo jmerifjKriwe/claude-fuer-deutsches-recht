@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-arzt-bankkonto
-description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse
 
 ## Arbeitsbereich
 
-Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

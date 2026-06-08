@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Memorandums Ersteller** Ergebnisse vor 
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `antworten-interessen-ausfuehrungen-fragen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `due-diligence-ergebnis-handlungsempfehlung-mandant-vs`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gliederung-mandantenunterlagen-memorandum`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `haftungsrisiko-rechtsanwalt-board-pack-vorfall-intern`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `juristisches-questions-fristennotiz-vertragsentscheidung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `laenge-formate-mandantenfreundliche-fassung-typenuebersicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mandantenanfrage-schnell-rechtsmittelentscheidung-memorandums`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `optional-beweislast-piercing-sonderfall-rechtliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `prozessstrategie-klageerhebung-gutachtenstil-quellen-zitierregel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `antworten-interessen-ausfuehrungen-fragen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `due-diligence-ergebnis-handlungsempfehlung-mandant-vs`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gliederung-mandantenunterlagen-memorandum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `haftungsrisiko-rechtsanwalt-board-pack-vorfall-intern`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `juristisches-questions-fristennotiz-vertragsentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `laenge-formate-mandantenfreundliche-fassung-typenuebersicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mandantenanfrage-schnell-rechtsmittelentscheidung-memorandums`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `optional-beweislast-piercing-sonderfall-rechtliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `prozessstrategie-klageerhebung-gutachtenstil-quellen-zitierregel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

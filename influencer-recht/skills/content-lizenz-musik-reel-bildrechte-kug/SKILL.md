@@ -1,13 +1,13 @@
 ---
 name: content-lizenz-musik-reel-bildrechte-kug
-description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting
 
 ## Arbeitsbereich
 
-Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ambulantes-operieren-arbeitszeit
-description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ambulantes Operieren § 115b SGB V
 
 ## Arbeitsbereich
 
-Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

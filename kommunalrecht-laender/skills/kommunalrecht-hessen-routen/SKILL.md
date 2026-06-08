@@ -1,13 +1,13 @@
 ---
 name: kommunalrecht-hessen-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunalrecht Hessen Routen
 
 ## Arbeitsbereich
 
-Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

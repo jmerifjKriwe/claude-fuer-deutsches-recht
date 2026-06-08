@@ -1,13 +1,13 @@
 ---
 name: argumentationsverbesserung-red-team
-description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Argumentationsverbesserung und Red Team
 
 ## Arbeitsbereich
 
-Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

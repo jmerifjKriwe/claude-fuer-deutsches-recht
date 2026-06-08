@@ -1,13 +1,13 @@
 ---
 name: provisionsklage
-description: "Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie
 
 ## Arbeitsbereich
 
-Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

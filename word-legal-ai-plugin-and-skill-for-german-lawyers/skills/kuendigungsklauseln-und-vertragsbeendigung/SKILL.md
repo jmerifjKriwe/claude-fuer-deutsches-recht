@@ -1,13 +1,13 @@
 ---
 name: kuendigungsklauseln-und-vertragsbeendigung
-description: "Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kündigungsklauseln und Vertragsbeendigung
 
 ## Arbeitsbereich
 
-Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

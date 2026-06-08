@@ -1,13 +1,13 @@
 ---
 name: paulianische-anfechtung-fortwirkung-anfg-inso
-description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso
 
 ## Arbeitsbereich
 
-Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

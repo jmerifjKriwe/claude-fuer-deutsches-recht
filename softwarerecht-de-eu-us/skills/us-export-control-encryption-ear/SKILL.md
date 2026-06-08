@@ -1,13 +1,13 @@
 ---
 name: us-export-control-encryption-ear
-description: "Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Export Control Encryption EAR
 
 ## Arbeitsbereich
 
-Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

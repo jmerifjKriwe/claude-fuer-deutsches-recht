@@ -1,13 +1,13 @@
 ---
 name: rentenversicherung
-description: "Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rentenversicherung
 
 ## Arbeitsbereich
 
-Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

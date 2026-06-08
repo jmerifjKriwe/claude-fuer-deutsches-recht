@@ -1,13 +1,13 @@
 ---
 name: planfeststellung-grundzuege
-description: "Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Planfeststellung: Grundzuege
 
 ## Arbeitsbereich
 
-Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

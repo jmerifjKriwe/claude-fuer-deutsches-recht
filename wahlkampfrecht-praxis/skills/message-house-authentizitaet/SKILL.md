@@ -1,13 +1,13 @@
 ---
 name: message-house-authentizitaet
-description: "Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Message House Authentizitaet
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

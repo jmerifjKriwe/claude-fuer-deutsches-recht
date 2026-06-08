@@ -1,13 +1,13 @@
 ---
 name: 009-samnitische-rechtskultur-bundesgenossen-und-militaer
-description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Samnitische Rechtskultur Bundesgenossen Und Militaer
 
 ## Arbeitsbereich
 
-Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

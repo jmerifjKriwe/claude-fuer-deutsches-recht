@@ -1,13 +1,13 @@
 ---
 name: art-6-hochrisiko-robotik
-description: "Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Art. 6 Hochrisiko Robotik
 
 ## Arbeitsbereich
 
-Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

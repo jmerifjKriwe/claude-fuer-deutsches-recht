@@ -1,13 +1,13 @@
 ---
 name: bodenabfertigung-pruefe-luftvg
-description: "Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zuständigkeits-Vermerk für Bodenabfertigungs-Streit im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zuständigkeits-Vermerk für Bodenabfertigungs-Streit im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bodenabfertigung – Zuständigkeit prüfen
 
 ## Arbeitsbereich
 
-Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zuständigkeits-Vermerk für Bodenabfertigungs-Streit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zuständigkeits-Vermerk für Bodenabfertigungs-Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: timesheet-aktenzeitung-umgang-ki
-description: "Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Timesheet und Aktenzeitung
 
 ## Arbeitsbereich
 
-Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

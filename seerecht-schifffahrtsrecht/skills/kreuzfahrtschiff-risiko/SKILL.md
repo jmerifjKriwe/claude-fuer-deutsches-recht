@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-risiko
-description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

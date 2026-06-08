@@ -7,7 +7,7 @@ description: "Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Spedi
 
 ## Arbeitsbereich
 
-**Trans Multimodaler Transr CMR** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall multimodaler Transport § 452 HGB und, Spezialfall CMR grenzueberschreitend, Spezialfall multimodaler Transport. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Trans Multimodaler Transr CMR** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall multimodaler Transport § 452 HGB und, Spezialfall CMR grenzueberschreitend, Spezialfall multimodaler Transport. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

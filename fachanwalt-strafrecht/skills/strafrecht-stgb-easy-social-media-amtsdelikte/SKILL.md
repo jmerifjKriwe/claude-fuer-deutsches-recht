@@ -7,7 +7,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 ## Arbeitsbereich
 
-**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüfungslinien: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüfungslinien: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

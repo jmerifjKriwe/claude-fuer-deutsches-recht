@@ -1,13 +1,13 @@
 ---
 name: route-aufzug-und-streckenplanung
-description: "Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Route ist Teil der Botschaft
 
 ## Arbeitsbereich
 
-Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

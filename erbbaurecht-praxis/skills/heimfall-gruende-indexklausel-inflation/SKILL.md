@@ -1,13 +1,13 @@
 ---
 name: heimfall-gruende-indexklausel-inflation
-description: "Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Heimfall prüfen
 
 ## Arbeitsbereich
 
-Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

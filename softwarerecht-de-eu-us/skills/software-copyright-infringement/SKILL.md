@@ -1,13 +1,13 @@
 ---
 name: software-copyright-infringement
-description: "Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software Copyright Infringement
 
 ## Arbeitsbereich
 
-Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

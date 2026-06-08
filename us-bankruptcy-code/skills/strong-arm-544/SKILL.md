@@ -1,13 +1,13 @@
 ---
 name: strong-arm-544
-description: "Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strong Arm § 544
 
 ## Arbeitsbereich
 
-Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatz, Vermerk und Mustertext
 
 ## Arbeitsbereich
 
-Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: auskunft-schadensersatz-geheimhaltung
-description: "Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auskunft Schadensersatz Und Rechnungslegung
 
 ## Arbeitsbereich
 
-Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

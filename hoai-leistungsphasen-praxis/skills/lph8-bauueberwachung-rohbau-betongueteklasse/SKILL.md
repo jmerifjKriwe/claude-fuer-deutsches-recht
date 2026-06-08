@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-rohbau-betongueteklasse
-description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Rohbau und Betongueteklassen
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

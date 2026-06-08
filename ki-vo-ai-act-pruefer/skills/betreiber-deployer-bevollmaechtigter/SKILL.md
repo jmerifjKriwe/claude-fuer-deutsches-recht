@@ -1,13 +1,13 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO
 
 ## Arbeitsbereich
 
-Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

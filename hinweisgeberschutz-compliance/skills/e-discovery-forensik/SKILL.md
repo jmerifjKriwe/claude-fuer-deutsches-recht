@@ -1,13 +1,13 @@
 ---
 name: e-discovery-forensik
-description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E Discovery Forensik
 
 ## Arbeitsbereich
 
-Prüft E-Discovery und Forensik im deutschen Rahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft E-Discovery und Forensik im deutschen Rahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ucc-sales-goods
-description: "Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UCC und Sale of Goods
 
 ## Arbeitsbereich
 
-Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

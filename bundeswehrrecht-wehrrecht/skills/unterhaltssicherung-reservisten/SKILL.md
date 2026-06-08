@@ -1,13 +1,13 @@
 ---
 name: unterhaltssicherung-reservisten
-description: "Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterhaltssicherung für Reservisten
 
 ## Arbeitsbereich
 
-Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-und-unterbrechung
-description: "Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verjährung Und Unterbrechung
 
 ## Arbeitsbereich
 
-Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

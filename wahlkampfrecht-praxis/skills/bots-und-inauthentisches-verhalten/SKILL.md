@@ -1,13 +1,13 @@
 ---
 name: bots-und-inauthentisches-verhalten
-description: "Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bots Und Inauthentisches Verhalten
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

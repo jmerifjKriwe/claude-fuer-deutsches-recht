@@ -7,7 +7,7 @@ description: "Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundlea
 
 ## Arbeitsbereich
 
-Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

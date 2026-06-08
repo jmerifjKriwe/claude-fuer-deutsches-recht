@@ -1,13 +1,13 @@
 ---
 name: review-sonderfall-und-edge-case
-description: "Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz
 
 ## Arbeitsbereich
 
-Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

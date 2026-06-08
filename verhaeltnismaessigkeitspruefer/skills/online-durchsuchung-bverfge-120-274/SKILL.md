@@ -3,6 +3,8 @@ name: online-durchsuchung-bverfge-120-274
 description: Online-Durchsuchung BVerfGE Band 120 Seite 274 vom 27.02.2008 als Begruendung des Computer-Grundrechts Vertraulichkeit und Integritaet informationstechnischer Systeme. Mit Eingriffsschwellen und strengen Anforderungen an Erforderlichkeit und Verfahrenssicherungen.
 ---
 
+# Online Durchsuchung BVerfGE 120 274
+
 ## Sachverhalt
 
 Nordrhein-westfaelisches Verfassungsschutzgesetz erlaubte heimliche

@@ -1,13 +1,13 @@
 ---
 name: china-software-source-code-data-localization-and-cybersecurity
-description: "Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle
 
 ## Arbeitsbereich
 
-Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

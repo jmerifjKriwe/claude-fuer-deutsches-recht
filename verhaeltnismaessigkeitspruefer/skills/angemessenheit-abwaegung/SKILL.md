@@ -3,6 +3,8 @@ name: angemessenheit-abwaegung
 description: Stufe 4 der Verhaeltnismaessigkeit Angemessenheit als Abwaegung zwischen Eingriffsschwere und Gewicht des Zwecks. Mit dem Gewichtungsraster Wahrscheinlichkeit Intensitaet Reversibilitaet und Hinweisen wie eine Abwaegung methodisch kontrollierbar bleibt.
 ---
 
+# Angemessenheit Abwaegung
+
 ## Massstab
 
 Auf der vierten Stufe wird **abgewogen**: Steht der Eingriff in einem
@@ -80,6 +82,4 @@ Gesamtbewertung mit Begruendung.
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 

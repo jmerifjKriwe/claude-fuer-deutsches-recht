@@ -1,13 +1,13 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsbesorgung und Zahlungsdienste
 
 ## Arbeitsbereich
 
-Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

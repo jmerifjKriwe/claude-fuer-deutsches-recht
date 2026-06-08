@@ -1,13 +1,13 @@
 ---
 name: finanzaufsicht-tokenisierung-ip-an
-description: "Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Finanzaufsicht: Tokenisierung von Satellitenerträgen
 
 ## Arbeitsbereich
 
-Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

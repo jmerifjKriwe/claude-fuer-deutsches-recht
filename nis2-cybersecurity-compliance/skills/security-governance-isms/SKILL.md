@@ -1,13 +1,13 @@
 ---
 name: security-governance-isms
-description: "Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Security Governance ISMS
 
 ## Arbeitsbereich
 
-Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

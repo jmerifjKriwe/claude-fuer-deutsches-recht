@@ -1,13 +1,13 @@
 ---
 name: semesterticket-mobilitaetsbeitrag-senat
-description: "Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Semesterticket und Mobilitätsbeitrag
 
 ## Arbeitsbereich
 
-Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

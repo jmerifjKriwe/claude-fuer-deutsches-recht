@@ -29,16 +29,16 @@ Dieser Fehlerkatalog prüft im Bereich **Dfg Foerderantrag** Ergebnisse vor Abga
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anfaenger-antraege-dfg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-bis-200k-begutachtung-light`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-eigenanteil-und-grundausstattung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-eigene-vorarbeiten-darstellen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-erstantragsteller-besondere-checks`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-finanzplan-module-personal-geraete`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-foerderstrategie-schnell-oder-gross`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-grossgeraete-und-cluster-antrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dfg-grundsystem-foerderlinien`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anfaenger-antraege-dfg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-bis-200k-begutachtung-light`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-eigenanteil-und-grundausstattung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-eigene-vorarbeiten-darstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-erstantragsteller-besondere-checks`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-finanzplan-module-personal-geraete`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-foerderstrategie-schnell-oder-gross`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-grossgeraete-und-cluster-antrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dfg-grundsystem-foerderlinien`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

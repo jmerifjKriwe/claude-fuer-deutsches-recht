@@ -1,13 +1,13 @@
 ---
 name: anfechtungsfrist-erklaerung-annahmefrist
-description: "Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfechtungsfrist, Anfechtungserklärung und Bestätigung — §§ 121 bis 124 und § 144 BGB
 
 ## Arbeitsbereich
 
-Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

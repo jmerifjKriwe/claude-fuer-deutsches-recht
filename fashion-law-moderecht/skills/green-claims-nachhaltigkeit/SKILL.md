@@ -1,13 +1,13 @@
 ---
 name: green-claims-nachhaltigkeit
-description: "Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Green Claims Nachhaltigkeit
 
 ## Arbeitsbereich
 
-Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: disziplinarrisiken-soldaten
-description: "Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarrisiken
 
 ## Arbeitsbereich
 
-Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

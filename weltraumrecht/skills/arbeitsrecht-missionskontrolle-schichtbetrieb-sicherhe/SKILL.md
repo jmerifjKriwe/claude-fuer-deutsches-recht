@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe
-description: "Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit
 
 ## Arbeitsbereich
 
-Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

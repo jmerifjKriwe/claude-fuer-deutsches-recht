@@ -1,13 +1,13 @@
 ---
 name: international-expansion-us-uk
-description: "Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # International Expansion Us Uk
 
 ## Arbeitsbereich
 
-Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

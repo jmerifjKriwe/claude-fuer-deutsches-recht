@@ -1,13 +1,13 @@
 ---
 name: trade-conflict
-description: "Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trade-Secret-Leak und Geheimnisverrat
 
 ## Arbeitsbereich
 
-Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

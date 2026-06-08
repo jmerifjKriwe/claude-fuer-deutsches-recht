@@ -1,13 +1,13 @@
 ---
 name: bezirksprovision-bezirksvertreter-bonus
-description: "Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bezirksprovision nach § 87 Abs. 2 HGB
 
 ## Arbeitsbereich
 
-Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

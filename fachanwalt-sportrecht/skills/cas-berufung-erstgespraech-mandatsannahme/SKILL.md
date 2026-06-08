@@ -7,7 +7,7 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 ## Arbeitsbereich
 
-**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

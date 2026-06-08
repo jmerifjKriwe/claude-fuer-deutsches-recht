@@ -1,13 +1,13 @@
 ---
 name: geografische-angaben-kollektiv-gewaehrleistungsmarke
-description: "Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geografische Angaben, Kollektiv- und Gewährleistungsmarken
 
 ## Arbeitsbereich
 
-Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

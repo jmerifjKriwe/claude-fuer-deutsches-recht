@@ -1,13 +1,13 @@
 ---
 name: public-policy-and-mandatory-law
-description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordre Public und Eingriffsnormen
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

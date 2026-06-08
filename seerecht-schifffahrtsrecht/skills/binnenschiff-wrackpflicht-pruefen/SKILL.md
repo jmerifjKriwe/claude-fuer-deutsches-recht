@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-wrackpflicht-pruefen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

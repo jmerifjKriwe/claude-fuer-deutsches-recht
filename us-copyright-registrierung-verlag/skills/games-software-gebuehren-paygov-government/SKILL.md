@@ -1,13 +1,13 @@
 ---
 name: games-software-gebuehren-paygov-government
-description: "Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Games, Software und AV Assets
 
 ## Arbeitsbereich
 
-Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: habilitation-verfahren
-description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Habilitation Verfahren
 
 ## Arbeitsbereich
 
-Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

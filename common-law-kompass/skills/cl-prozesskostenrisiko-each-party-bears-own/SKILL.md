@@ -1,13 +1,13 @@
 ---
 name: cl-prozesskostenrisiko-each-party-bears-own
-description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common Law: Each-party-bears-own
 
 ## Arbeitsbereich
 
-Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Krankenversicherung für Mitglieder berufsständischer Versorgungs
 
 ## Arbeitsbereich
 
-Krankenversicherung für Mitglieder berufsständischer Versorgungswerke (Ärzte, Anwälte, Apotheker): Ausnahmen von KVdR, freiwillige GKV, PKV-Optionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherung für Mitglieder berufsständischer Versorgungswerke (Ärzte, Anwälte, Apotheker): Ausnahmen von KVdR, freiwillige GKV, PKV-Optionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

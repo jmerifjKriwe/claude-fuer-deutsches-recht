@@ -1,13 +1,13 @@
 ---
 name: hr-misconduct
-description: "Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # HR Misconduct und Arbeitsrechtliche Maßnahmen
 
 ## Arbeitsbereich
 
-Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

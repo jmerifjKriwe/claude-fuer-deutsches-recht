@@ -1,13 +1,13 @@
 ---
 name: vertreter-ohne-vertretungsmacht-paragraphen-177-179
-description: "Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertreter ohne Vertretungsmacht — §§ 177 bis 179 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: insolvenz-fluggesellschaft
-description: "Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz
 
 ## Arbeitsbereich
 
-Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

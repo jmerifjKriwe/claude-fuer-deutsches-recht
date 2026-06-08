@@ -1,13 +1,13 @@
 ---
 name: notfallstufen-sicherstellungszuschlaege
-description: "Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notfallstufen und Sicherstellungszuschlaege
 
 ## Arbeitsbereich
 
-Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

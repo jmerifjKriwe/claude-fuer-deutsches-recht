@@ -1,6 +1,6 @@
 ---
 name: wpig-zag
-description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wpig ZAG

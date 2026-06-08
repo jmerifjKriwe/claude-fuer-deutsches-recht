@@ -1,13 +1,13 @@
 ---
 name: psd2-provisionsmodelle-vertrieb-fraud-refund
-description: "Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Provision und Vertriebscompliance
 
 ## Arbeitsbereich
 
-Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsger
 
 ## Arbeitsbereich
 
-**Sachliche GVG Verjährungsfrist BGB** ordnet den Fall über die tragenden Prüfungslinien: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sachliche GVG Verjährungsfrist BGB** ordnet den Fall über die tragenden Prüfungslinien: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

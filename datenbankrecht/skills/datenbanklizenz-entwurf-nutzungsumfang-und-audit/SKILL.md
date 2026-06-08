@@ -1,13 +1,13 @@
 ---
 name: datenbanklizenz-entwurf-nutzungsumfang-und-audit
-description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln
 
 ## Arbeitsbereich
 
-Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

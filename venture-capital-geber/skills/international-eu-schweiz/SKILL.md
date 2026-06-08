@@ -7,7 +7,7 @@ description: "Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europ�
 
 ## Arbeitsbereich
 
-Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

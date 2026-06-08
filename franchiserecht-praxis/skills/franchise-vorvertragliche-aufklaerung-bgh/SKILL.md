@@ -1,13 +1,13 @@
 ---
 name: franchise-vorvertragliche-aufklaerung-bgh
-description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Vorvertragliche Aufklaerung Bgh
 
 ## Arbeitsbereich
 
-Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

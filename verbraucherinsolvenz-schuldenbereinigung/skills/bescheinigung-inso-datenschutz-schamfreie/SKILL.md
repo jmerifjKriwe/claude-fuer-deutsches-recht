@@ -7,7 +7,7 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 ## Arbeitsbereich
 
-**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüfungslinien: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüfungslinien: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

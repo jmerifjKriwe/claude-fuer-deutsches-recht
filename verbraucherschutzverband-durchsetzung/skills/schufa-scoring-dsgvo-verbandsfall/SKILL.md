@@ -1,13 +1,13 @@
 ---
 name: schufa-scoring-dsgvo-verbandsfall
-description: "Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VDG 105 SCHUFA Scoring DSGVO Verbandsfall
 
 ## Arbeitsbereich
 
-Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

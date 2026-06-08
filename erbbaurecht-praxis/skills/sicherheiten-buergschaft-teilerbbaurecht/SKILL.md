@@ -1,13 +1,13 @@
 ---
 name: sicherheiten-buergschaft-teilerbbaurecht
-description: "Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sicherheiten für Erbbauzins und Rückbau
 
 ## Arbeitsbereich
 
-Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

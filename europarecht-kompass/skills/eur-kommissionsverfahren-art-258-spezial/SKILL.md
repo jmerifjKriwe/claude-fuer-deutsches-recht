@@ -1,13 +1,13 @@
 ---
 name: eur-kommissionsverfahren-art-258-spezial
-description: "Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU: Vertragsverletzung Art. 258
 
 ## Arbeitsbereich
 
-Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster für Beschwerdefuehrer und Mitgliedstaat. Mustertexte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

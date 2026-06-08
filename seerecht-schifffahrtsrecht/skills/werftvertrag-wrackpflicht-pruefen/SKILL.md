@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-wrackpflicht-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

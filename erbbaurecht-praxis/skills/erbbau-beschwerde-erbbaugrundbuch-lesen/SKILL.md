@@ -1,13 +1,13 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundbuchstreit im Erbbaurecht
 
 ## Arbeitsbereich
 
-Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

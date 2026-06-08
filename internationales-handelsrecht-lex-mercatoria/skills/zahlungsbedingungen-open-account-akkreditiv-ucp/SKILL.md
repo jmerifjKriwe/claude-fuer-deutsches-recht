@@ -1,13 +1,13 @@
 ---
 name: zahlungsbedingungen-open-account-akkreditiv-ucp
-description: "Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU) im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU) im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zahlungsbedingungen: Open Account und Trade Finance
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

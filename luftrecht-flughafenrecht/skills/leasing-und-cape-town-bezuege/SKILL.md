@@ -1,13 +1,13 @@
 ---
 name: leasing-und-cape-town-bezuege
-description: "Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing
 
 ## Arbeitsbereich
 
-Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vr-agb-recht-grundzuege
-description: "AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertragsrecht: AGB-Recht
 
 ## Arbeitsbereich
 
-AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

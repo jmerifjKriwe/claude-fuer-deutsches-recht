@@ -1,13 +1,13 @@
 ---
 name: eu-china-trade-risk-dashboard
-description: "Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-China Trade-Risk-Dashboard: Aufbau und Betrieb
 
 ## Arbeitsbereich
 
-Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

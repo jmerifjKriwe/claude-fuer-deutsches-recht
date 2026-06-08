@@ -1,13 +1,13 @@
 ---
 name: garantieprovision-limit-und-risk-weighting
-description: "Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Garantieprovision, Limit und Risk Weighting
 
 ## Arbeitsbereich
 
-Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

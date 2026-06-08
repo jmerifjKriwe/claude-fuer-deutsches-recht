@@ -1,13 +1,13 @@
 ---
 name: quality-management
-description: "Baut Reviewstufen, Checklisten, Musterpflege und Fehlerkultur. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Reviewstufen, Checklisten, Musterpflege und Fehlerkultur. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätsmanagement Kanzlei
 
 ## Arbeitsbereich
 
-Baut Reviewstufen, Checklisten, Musterpflege und Fehlerkultur. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Reviewstufen, Checklisten, Musterpflege und Fehlerkultur. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

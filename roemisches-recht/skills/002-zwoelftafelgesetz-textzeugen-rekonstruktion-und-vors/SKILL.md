@@ -1,13 +1,13 @@
 ---
 name: 002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors
-description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

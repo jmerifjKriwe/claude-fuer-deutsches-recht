@@ -1,13 +1,13 @@
 ---
 name: ifg-transparenz-hochschule
-description: "Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IFG und Transparenz Hochschule
 
 ## Arbeitsbereich
 
-Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: einstweilige-verfuegung-datenbankrecht-dringlichkeit
-description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
 
 ## Arbeitsbereich
 
-Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

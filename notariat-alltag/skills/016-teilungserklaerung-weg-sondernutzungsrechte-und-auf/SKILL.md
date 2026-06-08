@@ -1,13 +1,13 @@
 ---
 name: 016-teilungserklaerung-weg-sondernutzungsrechte-und-auf
-description: "Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

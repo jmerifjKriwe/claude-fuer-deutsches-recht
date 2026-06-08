@@ -1,13 +1,13 @@
 ---
 name: cloud-saas-company-mobile-cra-produkte
-description: "Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cloud Saas Einfuehrung Slack
 
 ## Arbeitsbereich
 
-Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

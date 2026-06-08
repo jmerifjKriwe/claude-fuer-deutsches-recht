@@ -7,7 +7,7 @@ description: "PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzung
 
 ## Arbeitsbereich
 
-PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

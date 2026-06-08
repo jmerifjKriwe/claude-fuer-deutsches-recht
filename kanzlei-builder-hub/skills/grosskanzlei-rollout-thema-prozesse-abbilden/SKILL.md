@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-rollout-thema-prozesse-abbilden
-description: "Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grosskanzlei-Rollout
 
 ## Arbeitsbereich
 
-Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

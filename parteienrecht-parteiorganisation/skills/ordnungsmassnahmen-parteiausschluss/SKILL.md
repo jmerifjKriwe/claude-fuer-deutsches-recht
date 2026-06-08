@@ -1,13 +1,13 @@
 ---
 name: ordnungsmassnahmen-parteiausschluss
-description: "Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordnungsmaßnahmen
 
 ## Arbeitsbereich
 
-Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

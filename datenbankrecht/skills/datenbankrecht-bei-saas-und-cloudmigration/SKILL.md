@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-bei-saas-und-cloudmigration
-description: "Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme
 
 ## Arbeitsbereich
 
-Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

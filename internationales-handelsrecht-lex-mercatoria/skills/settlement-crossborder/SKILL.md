@@ -1,13 +1,13 @@
 ---
 name: settlement-crossborder
-description: "Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzüberschreitende Vergleiche
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

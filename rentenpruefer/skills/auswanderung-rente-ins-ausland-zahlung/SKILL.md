@@ -1,13 +1,13 @@
 ---
 name: auswanderung-rente-ins-ausland-zahlung
-description: "Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # auswanderung-rente-ins-ausland-zahlung
 
 ## Arbeitsbereich
 
-Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

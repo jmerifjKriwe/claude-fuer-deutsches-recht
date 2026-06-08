@@ -1,13 +1,13 @@
 ---
 name: gema-gvl-verwertungsgesellschaften
-description: "Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GEMA, GVL und Verwertungsgesellschaften
 
 ## Arbeitsbereich
 
-Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

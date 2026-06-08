@@ -7,7 +7,7 @@ description: "Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung a
 
 ## Arbeitsbereich
 
-Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

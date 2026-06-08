@@ -1,13 +1,13 @@
 ---
 name: vifr-aeg-bahnrecht-deutschlandticket
-description: "Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ViFR: AEG-Bahnrecht
 
 ## Arbeitsbereich
 
-Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

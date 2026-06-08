@@ -1,13 +1,13 @@
 ---
 name: china-investment-committee-memo-exit-plan
-description: "Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investment-Committee-Memo China: Struktur und Anforderungen
 
 ## Arbeitsbereich
 
-Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

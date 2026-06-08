@@ -1,13 +1,13 @@
 ---
 name: german-insolvency-healthcare-bankruptcy
-description: "Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # German Insolvency Comparison
 
 ## Arbeitsbereich
 
-Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

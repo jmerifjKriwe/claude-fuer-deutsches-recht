@@ -1,13 +1,13 @@
 ---
 name: prokura-paragraphen-48-53-hgb
-description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prokura §§ 48-53 HGB
 
 ## Arbeitsbereich
 
-Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

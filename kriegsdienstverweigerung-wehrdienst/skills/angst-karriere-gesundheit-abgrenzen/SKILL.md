@@ -1,13 +1,13 @@
 ---
 name: angst-karriere-gesundheit-abgrenzen
-description: "Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Angst Karriere Gesundheit
 
 ## Arbeitsbereich
 
-Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: einigungsvertrag-und-rechtsueberleitung
-description: "Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einigungsvertrag und Rechtsueberleitung (1990)
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

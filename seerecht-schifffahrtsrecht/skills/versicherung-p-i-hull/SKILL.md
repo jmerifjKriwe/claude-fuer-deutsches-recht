@@ -1,13 +1,13 @@
 ---
 name: versicherung-p-i-hull
-description: "Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherung P&I und Hull & Machinery – Deckungsanalyse
 
 ## Arbeitsbereich
 
-Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

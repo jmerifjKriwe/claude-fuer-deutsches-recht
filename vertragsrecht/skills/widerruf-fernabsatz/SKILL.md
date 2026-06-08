@@ -1,13 +1,13 @@
 ---
 name: widerruf-fernabsatz
-description: "Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
 
 ## Arbeitsbereich
 
-Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

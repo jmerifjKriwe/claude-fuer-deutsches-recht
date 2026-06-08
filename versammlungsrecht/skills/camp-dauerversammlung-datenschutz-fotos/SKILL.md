@@ -1,13 +1,13 @@
 ---
 name: camp-dauerversammlung-datenschutz-fotos
-description: "Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Camp ist nur geschützt, soweit es der Versammlung dient
 
 ## Arbeitsbereich
 
-Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-soldat-verstaendlich
-description: "Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenbrief Soldat — Verständlich erläutern
 
 ## Arbeitsbereich
 
-Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

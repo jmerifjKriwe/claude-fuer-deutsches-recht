@@ -7,7 +7,7 @@ description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll-
 
 ## Arbeitsbereich
 
-Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung für freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung für freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

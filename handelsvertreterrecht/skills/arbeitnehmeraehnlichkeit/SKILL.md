@@ -1,13 +1,13 @@
 ---
 name: arbeitnehmeraehnlichkeit
-description: "Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB
 
 ## Arbeitsbereich
 
-Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

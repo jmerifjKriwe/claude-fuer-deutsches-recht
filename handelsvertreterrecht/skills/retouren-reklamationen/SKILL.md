@@ -1,13 +1,13 @@
 ---
 name: retouren-reklamationen
-description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB
 
 ## Arbeitsbereich
 
-Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

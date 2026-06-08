@@ -1,13 +1,13 @@
 ---
 name: einstweilige-anordnung-erforderlichkeit-abs
-description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten) im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten) im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO
 
 ## Arbeitsbereich
 
-Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

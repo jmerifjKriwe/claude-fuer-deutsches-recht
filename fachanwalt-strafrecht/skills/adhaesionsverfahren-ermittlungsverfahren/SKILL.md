@@ -7,7 +7,7 @@ description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Adhaesionsverfahren Ermittlungsverfahren** ordnet den Fall über die tragenden Prüfungslinien: Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Adhaesionsverfahren Ermittlungsverfahren** ordnet den Fall über die tragenden Prüfungslinien: Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

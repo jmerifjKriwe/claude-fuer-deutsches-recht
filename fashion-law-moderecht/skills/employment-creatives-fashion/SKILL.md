@@ -1,13 +1,13 @@
 ---
 name: employment-creatives-fashion
-description: "Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Employment Creatives Fashion
 
 ## Arbeitsbereich
 
-Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

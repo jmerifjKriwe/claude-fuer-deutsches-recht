@@ -7,7 +7,7 @@ description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Date
 
 ## Arbeitsbereich
 
-**Datenschutz EN SIX Step EU US Data Länder Bewertung China** ordnet den Fall über die tragenden Prüfungslinien: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz EN SIX Step EU US Data Länder Bewertung China** ordnet den Fall über die tragenden Prüfungslinien: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

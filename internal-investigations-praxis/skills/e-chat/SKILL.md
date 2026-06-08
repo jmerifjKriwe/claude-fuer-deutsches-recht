@@ -1,13 +1,13 @@
 ---
 name: e-chat
-description: "Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Mail-Review in Internal Investigations
 
 ## Arbeitsbereich
 
-Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

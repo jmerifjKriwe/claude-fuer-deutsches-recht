@@ -1,13 +1,13 @@
 ---
 name: promotion-disputation
-description: "Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Promotion und Disputation
 
 ## Arbeitsbereich
 
-Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüfungslinien: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüfungslinien: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

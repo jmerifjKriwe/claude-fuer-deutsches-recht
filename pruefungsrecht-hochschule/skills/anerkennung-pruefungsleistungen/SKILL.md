@@ -1,13 +1,13 @@
 ---
 name: anerkennung-pruefungsleistungen
-description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anerkennung Von Pruefungsleistungen
 
 ## Arbeitsbereich
 
-Prüft Anerkennung und Anrechnung von Prüfungsleistungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung und Anrechnung von Prüfungsleistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

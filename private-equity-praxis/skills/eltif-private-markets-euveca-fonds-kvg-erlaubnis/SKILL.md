@@ -1,13 +1,13 @@
 ---
 name: eltif-private-markets-euveca-fonds-kvg-erlaubnis
-description: "Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ELTIF 2.0: europäischer Long-Term-Fund für Private Markets
 
 ## Arbeitsbereich
 
-Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

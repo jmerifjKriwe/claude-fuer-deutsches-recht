@@ -1,13 +1,13 @@
 ---
 name: workflow-produkt-und-rollenprofil
-description: "Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produkt- und Rollenprofil
 
 ## Arbeitsbereich
 
-Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

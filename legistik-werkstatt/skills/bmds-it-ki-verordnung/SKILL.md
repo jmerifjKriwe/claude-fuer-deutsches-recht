@@ -1,13 +1,13 @@
 ---
 name: bmds-it-ki-verordnung
-description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)
 
 ## Arbeitsbereich
 
-Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

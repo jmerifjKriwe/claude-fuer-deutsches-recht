@@ -1,13 +1,13 @@
 ---
 name: ki-rote-linien-art-5-pruefen
-description: "Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Risikomatrix im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Risikomatrix im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verbotene KI Art. 5 pruefen
 
 ## Arbeitsbereich
 
-Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Risikomatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall pruefen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Pruefraster und Risikomatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

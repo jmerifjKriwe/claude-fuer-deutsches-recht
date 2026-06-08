@@ -1,13 +1,13 @@
 ---
 name: abschlussarbeit-betreuung
-description: "Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abschlussarbeit Betreuung
 
 ## Arbeitsbereich
 
-Prüft Bachelor-/Masterarbeit, Betreuung und Thema. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bachelor-/Masterarbeit, Betreuung und Thema. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: dokumentationsakte-revisionsspur-drehtuer
-description: "Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokumentationsakte und Revisionsspur
 
 ## Arbeitsbereich
 
-Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

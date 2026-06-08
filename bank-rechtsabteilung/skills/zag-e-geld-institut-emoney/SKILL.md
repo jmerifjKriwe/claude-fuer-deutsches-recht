@@ -1,13 +1,13 @@
 ---
 name: zag-e-geld-institut-emoney
-description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Geld-Institut und E-Geld-Geschäft nach ZAG
 
 ## Arbeitsbereich
 
-E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

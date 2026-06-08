@@ -1,13 +1,13 @@
 ---
 name: mandatsannahme-gwg
-description: "Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandatsannahme und Geldwäscheprüfung
 
 ## Arbeitsbereich
 
-Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

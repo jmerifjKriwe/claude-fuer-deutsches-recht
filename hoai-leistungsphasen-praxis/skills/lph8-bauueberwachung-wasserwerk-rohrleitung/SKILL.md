@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-wasserwerk-rohrleitung
-description: "Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Wasserwerk und Trinkwasserrohrleitung
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-krypto-zahlungsdienstleister-kyc
-description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AML/KYC-Kommandocenter
 
 ## Arbeitsbereich
 
-Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

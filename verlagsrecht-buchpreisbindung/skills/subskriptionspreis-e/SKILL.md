@@ -7,7 +7,7 @@ description: "Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise u
 
 ## Arbeitsbereich
 
-Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gpai-code-of-practice-copyright-safety-evidence
-description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GPAI Code of Practice: Evidence statt Etikett
 
 ## Arbeitsbereich
 
-GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

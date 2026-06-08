@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleichsverhandlung Strategie

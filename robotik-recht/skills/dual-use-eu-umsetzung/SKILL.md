@@ -1,13 +1,13 @@
 ---
 name: dual-use-eu-umsetzung
-description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Use und militärische Robotik
 
 ## Arbeitsbereich
 
-Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

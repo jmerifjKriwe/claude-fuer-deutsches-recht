@@ -1,13 +1,13 @@
 ---
 name: designrecht-und-muster
-description: "Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designrecht Und Muster
 
 ## Arbeitsbereich
 
-Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

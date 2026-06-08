@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-plattformhaftung-nach-louboutin-amazon
-description: "Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

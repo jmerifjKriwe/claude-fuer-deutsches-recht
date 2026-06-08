@@ -1,13 +1,13 @@
 ---
 name: nachteilsausgleich-behinderung
-description: "Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachteilsausgleich Behinderung
 
 ## Arbeitsbereich
 
-Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

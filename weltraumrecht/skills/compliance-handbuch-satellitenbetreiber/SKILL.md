@@ -1,13 +1,13 @@
 ---
 name: compliance-handbuch-satellitenbetreiber
-description: "Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Compliance-Handbuch Satellitenbetreiber
 
 ## Arbeitsbereich
 
-Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

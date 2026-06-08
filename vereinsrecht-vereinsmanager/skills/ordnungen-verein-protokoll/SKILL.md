@@ -1,13 +1,13 @@
 ---
 name: ordnungen-verein-protokoll
-description: "Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vereinsordnungen
 
 ## Arbeitsbereich
 
-Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

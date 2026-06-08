@@ -1,13 +1,13 @@
 ---
 name: marketplace-notice-action-dsa
-description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Marketplace Notice-and-Action
 
 ## Arbeitsbereich
 
-Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: spendenrecht-partei-sponsoring-staatliche
-description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteispende
 
 ## Arbeitsbereich
 
-Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

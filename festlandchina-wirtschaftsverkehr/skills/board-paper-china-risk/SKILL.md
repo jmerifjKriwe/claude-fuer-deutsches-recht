@@ -1,13 +1,13 @@
 ---
 name: board-paper-china-risk
-description: "Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat
 
 ## Arbeitsbereich
 
-Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

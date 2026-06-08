@@ -7,7 +7,7 @@ description: "Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung 
 
 ## Arbeitsbereich
 
-Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung und preskriptive Effekte; CIC can. 200-203 und 197-199; KKK 1950-1974; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung und preskriptive Effekte; CIC can. 200-203 und 197-199; KKK 1950-1974; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

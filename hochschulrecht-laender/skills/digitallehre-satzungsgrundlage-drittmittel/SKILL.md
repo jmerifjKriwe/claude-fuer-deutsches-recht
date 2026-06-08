@@ -1,13 +1,13 @@
 ---
 name: digitallehre-satzungsgrundlage-drittmittel
-description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digitallehre und Satzungsgrundlage
 
 ## Arbeitsbereich
 
-Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

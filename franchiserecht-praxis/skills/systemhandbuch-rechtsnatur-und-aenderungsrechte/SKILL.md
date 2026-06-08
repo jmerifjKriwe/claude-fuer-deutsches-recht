@@ -1,13 +1,13 @@
 ---
 name: systemhandbuch-rechtsnatur-und-aenderungsrechte
-description: "Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte
 
 ## Arbeitsbereich
 
-Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

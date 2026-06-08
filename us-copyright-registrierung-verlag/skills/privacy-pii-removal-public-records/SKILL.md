@@ -1,13 +1,13 @@
 ---
 name: privacy-pii-removal-public-records
-description: "PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Privacy, PII Removal und Public Records
 
 ## Arbeitsbereich
 
-PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Bussgeldbescheid Owig Bussgeldreduzierung im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-**Bussgeldbescheid Owig Bussgeldreduzierung** ordnet den Fall über die tragenden Prüfungslinien: Bußgeldbescheid § 65 OWiG analysieren, Bußgeldreduzierung Verhandlungspaket, Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bussgeldbescheid Owig Bussgeldreduzierung** ordnet den Fall über die tragenden Prüfungslinien: Bußgeldbescheid § 65 OWiG analysieren, Bußgeldreduzierung Verhandlungspaket, Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

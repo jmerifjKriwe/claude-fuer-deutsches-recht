@@ -1,13 +1,13 @@
 ---
 name: lph-07-abnahme-und-teilabnahme
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Ordnet abnahme
 
 ## Arbeitsbereich
 
-HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

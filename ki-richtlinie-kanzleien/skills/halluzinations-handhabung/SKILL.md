@@ -1,13 +1,13 @@
 ---
 name: halluzinations-handhabung
-description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Halluzinations-Handhabung
 
 ## Arbeitsbereich
 
-Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

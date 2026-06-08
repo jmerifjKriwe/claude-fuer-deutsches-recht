@@ -1,13 +1,13 @@
 ---
 name: beurlaubung-hochschulstatus-campusbau
-description: "Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beurlaubung und Hochschulstatus
 
 ## Arbeitsbereich
 
-Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

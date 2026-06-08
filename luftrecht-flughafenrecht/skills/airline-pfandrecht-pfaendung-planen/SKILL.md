@@ -1,13 +1,13 @@
 ---
 name: airline-pfandrecht-pfaendung-planen
-description: "Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline – Pfandrecht vorbereiten
 
 ## Arbeitsbereich
 
-Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

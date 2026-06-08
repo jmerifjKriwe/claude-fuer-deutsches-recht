@@ -1,13 +1,13 @@
 ---
 name: portfolio-reporting-lp
-description: "Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Portfolio Reporting an LPs
 
 ## Arbeitsbereich
 
-Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

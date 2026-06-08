@@ -1,13 +1,13 @@
 ---
 name: auslandseinsatz-anerkennung-und-nachweise
-description: "Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandseinsatz: Anerkennung und Nachweise
 
 ## Arbeitsbereich
 
-Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

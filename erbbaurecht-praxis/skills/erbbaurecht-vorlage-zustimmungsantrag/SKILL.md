@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-vorlage-zustimmungsantrag
-description: "Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustimmungsantrag
 
 ## Arbeitsbereich
 
-Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

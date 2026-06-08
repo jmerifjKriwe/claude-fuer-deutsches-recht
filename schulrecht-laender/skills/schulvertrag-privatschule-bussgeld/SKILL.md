@@ -1,13 +1,13 @@
 ---
 name: schulvertrag-privatschule-bussgeld
-description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulvertrag Privatschule Kündigung
 
 ## Arbeitsbereich
 
-Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: forensic-imaging
-description: "Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Forensic Imaging und IT-Datensicherung
 
 ## Arbeitsbereich
 
-Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

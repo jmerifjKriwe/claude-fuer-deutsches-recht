@@ -1,13 +1,13 @@
 ---
 name: kontenklaerung-drv
-description: "Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # kontenklaerung-drv
 
 ## Arbeitsbereich
 
-Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

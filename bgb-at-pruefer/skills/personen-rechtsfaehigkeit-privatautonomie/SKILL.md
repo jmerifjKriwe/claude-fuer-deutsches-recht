@@ -1,13 +1,13 @@
 ---
 name: personen-rechtsfaehigkeit-privatautonomie
-description: "Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB
 
 ## Arbeitsbereich
 
-Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

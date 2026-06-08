@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-stpo-strafmilderung-stgb
-description: "Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessung im Strafbefehlsverfahren — § 407 StPO
 
 ## Arbeitsbereich
 
-Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

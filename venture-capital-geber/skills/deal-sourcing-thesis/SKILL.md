@@ -7,7 +7,7 @@ description: "Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, E
 
 ## Arbeitsbereich
 
-Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

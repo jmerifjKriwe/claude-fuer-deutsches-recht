@@ -1,13 +1,13 @@
 ---
 name: registerfuehrende-stelle-kontakt
-description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerfuehrende Stelle Kontakt
 
 ## Arbeitsbereich
 
-Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

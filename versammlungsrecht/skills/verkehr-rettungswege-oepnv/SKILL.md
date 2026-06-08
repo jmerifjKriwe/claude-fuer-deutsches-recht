@@ -1,13 +1,13 @@
 ---
 name: verkehr-rettungswege-oepnv
-description: "Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verkehr ist wichtig, aber kein Pauschalverbot
 
 ## Arbeitsbereich
 
-Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

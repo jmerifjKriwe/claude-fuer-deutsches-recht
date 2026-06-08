@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-fristen-pruefen
-description: "Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verjährung und Fristen prüfen
 
 ## Arbeitsbereich
 
-Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: verjährt ja/nein/fraglich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

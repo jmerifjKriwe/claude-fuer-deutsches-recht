@@ -1,13 +1,13 @@
 ---
 name: zwvw-kostenrechnung-verwalter-spezial
-description: "Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster für Glaeubiger und Vollstreckungsgericht im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster für Glaeubiger und Vollstreckungsgericht im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwVw: Kostenrechnung Verwalter
 
 ## Arbeitsbereich
 
-Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster für Glaeubiger und Vollstreckungsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster für Glaeubiger und Vollstreckungsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: technology-transfer-risk
-description: "Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Technologietransfer China: Risiken und Schutzmaßnahmen
 
 ## Arbeitsbereich
 
-Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

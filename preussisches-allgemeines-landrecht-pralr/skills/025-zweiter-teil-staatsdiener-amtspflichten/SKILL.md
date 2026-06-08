@@ -7,7 +7,7 @@ description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten im Preußisches All
 
 ## Arbeitsbereich
 
-PrALR: Zweiter Teil Staatsdiener Amtspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zweiter Teil Staatsdiener Amtspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gerichtliche-ki-governance-aufsichtsbehoerden
-description: "Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtliche KI-Assistenz und Anhang III
 
 ## Arbeitsbereich
 
-Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

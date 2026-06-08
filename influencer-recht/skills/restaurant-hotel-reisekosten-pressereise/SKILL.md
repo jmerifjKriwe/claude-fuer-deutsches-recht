@@ -1,13 +1,13 @@
 ---
 name: restaurant-hotel-reisekosten-pressereise
-description: "Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
 
 ## Arbeitsbereich
 
-Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

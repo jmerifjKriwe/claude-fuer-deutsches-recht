@@ -1,13 +1,13 @@
 ---
 name: taschengeld-paragraph-uebermittlungsirrtum
-description: "Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Taschengeldparagraph — § 110 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kreditsicherheiten-bestellung
-description: "Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreditsicherheiten
 
 ## Arbeitsbereich
 
-Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

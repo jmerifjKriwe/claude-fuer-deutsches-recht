@@ -7,7 +7,7 @@ description: "Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstwe
 
 ## Arbeitsbereich
 
-Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstweiligen Rechtsschutz und Investorenschutz im Startup. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstweiligen Rechtsschutz und Investorenschutz im Startup. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

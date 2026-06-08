@@ -1,13 +1,13 @@
 ---
 name: buergschaft-verbraucherbuerge-grundschema
-description: "Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bürgschaft: Form und Verbraucherbürge
 
 ## Arbeitsbereich
 
-Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

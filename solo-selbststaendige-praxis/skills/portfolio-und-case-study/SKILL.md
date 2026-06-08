@@ -1,13 +1,13 @@
 ---
 name: portfolio-und-case-study
-description: "Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft eigenwerbung trotz kundengeheimnis und urheberrechten
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

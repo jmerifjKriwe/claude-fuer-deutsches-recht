@@ -7,7 +7,7 @@ description: "Ordnet Beteiligungserträge, Wandeldarlehenszinsen, Veräußerung,
 
 ## Arbeitsbereich
 
-Ordnet Beteiligungserträge, Wandeldarlehenszinsen, Veräußerung, Verlustnutzung, Fonds-/SPV-Steuer und Reporting auf hoher Ebene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Beteiligungserträge, Wandeldarlehenszinsen, Veräußerung, Verlustnutzung, Fonds-/SPV-Steuer und Reporting auf hoher Ebene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

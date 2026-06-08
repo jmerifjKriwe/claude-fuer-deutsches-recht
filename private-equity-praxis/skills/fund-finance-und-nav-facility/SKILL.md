@@ -1,13 +1,13 @@
 ---
 name: fund-finance-und-nav-facility
-description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fund Finance und NAV Facility
 
 ## Arbeitsbereich
 
-Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

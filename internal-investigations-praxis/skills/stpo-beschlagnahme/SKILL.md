@@ -1,13 +1,13 @@
 ---
 name: stpo-beschlagnahme
-description: "Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StPO-Beschlagnahme und Durchsuchung
 
 ## Arbeitsbereich
 
-Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

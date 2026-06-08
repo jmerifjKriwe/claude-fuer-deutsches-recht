@@ -1,13 +1,13 @@
 ---
 name: bav-grenzueberschreitend-mobil-spezial
-description: "Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte für Mitarbeiter-Pakete im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte für Mitarbeiter-Pakete im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # bAV: Grenzueberschreitende Mobilitaet
 
 ## Arbeitsbereich
 
-Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte für Mitarbeiter-Pakete. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte für Mitarbeiter-Pakete. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

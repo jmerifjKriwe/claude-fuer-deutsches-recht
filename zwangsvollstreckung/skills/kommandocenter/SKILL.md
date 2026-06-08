@@ -1,13 +1,13 @@
 ---
 name: kommandocenter
-description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsvollstreckung – Kommandocenter
 
 ## Arbeitsbereich
 
-Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

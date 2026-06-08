@@ -1,13 +1,13 @@
 ---
 name: earn-out-dispute
-description: "Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Earn-out Dispute
 
 ## Arbeitsbereich
 
-Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: vifr-planfeststellung
-description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vifr Planfeststellung

@@ -7,7 +7,7 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 
 ## Arbeitsbereich
 
-**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüfungslinien: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüfungslinien: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

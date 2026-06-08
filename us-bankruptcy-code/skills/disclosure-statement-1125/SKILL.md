@@ -1,13 +1,13 @@
 ---
 name: disclosure-statement-1125
-description: "Prueft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disclosure Statement § 1125
 
 ## Arbeitsbereich
 
-Prueft adequacy of information, solicitation, plan summary, risk factors and voting package. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft adequacy of information, solicitation, plan summary, risk factors and voting package. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ranking-kennzahlen-und-hochschulmarketing
-description: "Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ranking, Kennzahlen und Hochschulmarketing
 
 ## Arbeitsbereich
 
-Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

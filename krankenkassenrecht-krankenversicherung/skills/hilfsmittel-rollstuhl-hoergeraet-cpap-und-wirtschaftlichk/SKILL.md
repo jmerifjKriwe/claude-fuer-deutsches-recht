@@ -7,7 +7,7 @@ description: "Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirt
 
 ## Arbeitsbereich
 
-Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirtschaftlichkeitsgebot, Mehrkostenerklärung, MDK-Gutachten und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirtschaftlichkeitsgebot, Mehrkostenerklärung, MDK-Gutachten und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

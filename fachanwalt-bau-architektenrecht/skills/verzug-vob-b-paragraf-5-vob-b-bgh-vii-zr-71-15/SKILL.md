@@ -1,29 +1,40 @@
 ---
 name: verzug-vob-b-paragraf-5-vob-b-bgh-vii-zr-71-15
-description: Verzug VOB/B Kuendigung Paragraf 5 VOB/B mit BGH VII ZR 71/15.
+description: "Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15
+
+## Einsatzlage
 
 Unternehmer haelt vertraglich vereinbarten Zwischentermin nicht; Auftraggeber kuendigt fristlos.
 
-## Normen
+## Normenanker
 
-- Paragraf 5 VOB/B
+- § 5 VOB
+- §§ 631 ff. BGB
+- §§ 650a ff. BGB
+- § 640 BGB
+- § 634 BGB
+- HOAI Leistungsphasen 1-9
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 19.01.2017 VII ZR 71/15
+- BGH 19.01.2017 VII ZR 71/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Nachfristsetzung mit Kuendigungsandrohung zwingend; nur dann Kuendigung wirksam.
 
-## Schriftsatzkern
-
-Mangels ordnungsgemaesser Nachfrist Kuendigung unwirksam; Vertrag besteht fort.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bauzeitenplan
 - Schriftverkehr Fristsetzung

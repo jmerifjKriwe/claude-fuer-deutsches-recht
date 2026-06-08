@@ -1,13 +1,13 @@
 ---
 name: hafenrecht-und-liegegeld
-description: "Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit
 
 ## Arbeitsbereich
 
-Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

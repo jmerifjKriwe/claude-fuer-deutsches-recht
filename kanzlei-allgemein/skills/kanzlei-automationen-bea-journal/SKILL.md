@@ -1,13 +1,13 @@
 ---
 name: kanzlei-automationen-bea-journal
-description: "Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Prüfraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Prüfraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Automationen und Routinen
 
 ## Arbeitsbereich
 
-Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Prüfraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Prüfraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

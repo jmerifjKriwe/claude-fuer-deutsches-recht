@@ -7,7 +7,7 @@ description: "CAR T Diga Hersteller im Medizinrecht: prüft konkret CAR-T-Behand
 
 ## Arbeitsbereich
 
-**CAR T Diga Hersteller** ordnet den Fall über die tragenden Prüfungslinien: CAR-T-Behandlung, DiGA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**CAR T Diga Hersteller** ordnet den Fall über die tragenden Prüfungslinien: CAR-T-Behandlung, DiGA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

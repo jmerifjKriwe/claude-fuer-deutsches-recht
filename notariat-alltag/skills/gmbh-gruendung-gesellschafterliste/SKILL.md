@@ -1,13 +1,13 @@
 ---
 name: gmbh-gruendung-gesellschafterliste
-description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

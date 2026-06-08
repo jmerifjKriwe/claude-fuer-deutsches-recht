@@ -7,7 +7,7 @@ description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bu
 
 ## Arbeitsbereich
 
-Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

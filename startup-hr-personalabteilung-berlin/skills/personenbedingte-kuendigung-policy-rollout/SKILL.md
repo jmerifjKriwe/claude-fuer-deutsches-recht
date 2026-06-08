@@ -1,13 +1,13 @@
 ---
 name: personenbedingte-kuendigung-policy-rollout
-description: "Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personenbedingte Kuendigung Krankheit
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: widerrufsrecht-verbraucher
-description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerrufsrecht Verbraucher

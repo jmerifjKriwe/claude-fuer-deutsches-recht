@@ -1,13 +1,13 @@
 ---
 name: registerpfandrecht-dashboard-bauen
-description: "Pfandglaeubigerbank braucht Echtzeit-Dashboard für Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfandglaeubigerbank braucht Echtzeit-Dashboard für Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerpfandrecht – Dashboard bauen
 
 ## Arbeitsbereich
 
-Pfandglaeubigerbank braucht Echtzeit-Dashboard für Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfandglaeubigerbank braucht Echtzeit-Dashboard für Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

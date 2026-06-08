@@ -1,13 +1,13 @@
 ---
 name: maturity-startup
-description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreterrecht im Start-up- und Scale-up-Kontext
 
 ## Arbeitsbereich
 
-Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

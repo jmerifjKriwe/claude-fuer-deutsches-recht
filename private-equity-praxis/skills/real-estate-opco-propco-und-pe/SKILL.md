@@ -1,13 +1,13 @@
 ---
 name: real-estate-opco-propco-und-pe
-description: "Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Real Estate, OpCo/PropCo und PE
 
 ## Arbeitsbereich
 
-Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

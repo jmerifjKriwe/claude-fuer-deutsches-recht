@@ -1,13 +1,13 @@
 ---
 name: medizinisches-staatsexamen
-description: "Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Medizinisches Staatsexamen
 
 ## Arbeitsbereich
 
-Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräc
 
 ## Arbeitsbereich
 
-Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

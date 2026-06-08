@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-abo-kuendigung-button
-description: "Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.
 
 ## Arbeitsbereich
 
-Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

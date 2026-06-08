@@ -1,13 +1,13 @@
 ---
 name: phishing-praeventionscheckliste-strafanzeige
-description: "Praeventionscheckliste für Kanzleien und Mandanten: 2FA, separate Geraete für Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell für Anwaelte: kein beA auf privatem PC, Updates beA-Client im Phishing Vorfall Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Praeventionscheckliste für Kanzleien und Mandanten: 2FA, separate Geraete für Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell für Anwaelte: kein beA auf privatem PC, Updates beA-Client im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Phishing-Praevention
 
 ## Arbeitsbereich
 
-Praeventionscheckliste für Kanzleien und Mandanten: 2FA, separate Geraete für Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell für Anwaelte: kein beA auf privatem PC, Updates beA-Client. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Praeventionscheckliste für Kanzleien und Mandanten: 2FA, separate Geraete für Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell für Anwaelte: kein beA auf privatem PC, Updates beA-Client. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

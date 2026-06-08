@@ -1,13 +1,13 @@
 ---
 name: vorlaeufige-zulassung-eilrechtsschutz
-description: "Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorläufige Zulassung im Eilrechtsschutz
 
 ## Arbeitsbereich
 
-Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

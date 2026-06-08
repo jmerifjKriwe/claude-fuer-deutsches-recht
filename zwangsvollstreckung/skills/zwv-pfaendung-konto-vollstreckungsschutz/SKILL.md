@@ -1,13 +1,13 @@
 ---
 name: zwv-pfaendung-konto-vollstreckungsschutz
-description: "Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwV: Konto Arbeitseinkommen
 
 ## Arbeitsbereich
 
-Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: mandantenmemo-und-partner-update
-description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenmemo und Partner-Update
 
 ## Arbeitsbereich
 
-Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

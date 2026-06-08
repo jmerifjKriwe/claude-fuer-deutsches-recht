@@ -1,13 +1,13 @@
 ---
 name: tr3d-feststellungsklage-tabellenfeststellung-spezial
-description: "Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter im Tabellenreview 3d: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TR3D: Feststellungsklage Tabelle
 
 ## Arbeitsbereich
 
-Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster für Glaeubiger und Insolvenzverwalter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

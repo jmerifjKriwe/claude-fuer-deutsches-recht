@@ -7,7 +7,7 @@ description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei 
 
 ## Arbeitsbereich
 
-REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote für nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote für nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

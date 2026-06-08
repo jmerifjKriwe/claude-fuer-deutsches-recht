@@ -1,13 +1,13 @@
 ---
 name: preisvergleich-crawler-lizenzanalogie
-description: "Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Preisvergleich-Crawler und Plattformverträge — Datenbankrecht und P2B
 
 ## Arbeitsbereich
 
-Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

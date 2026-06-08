@@ -1,13 +1,13 @@
 ---
 name: sicherheitslage-kandidierende
-description: "Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sicherheitslage Kandidierende
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

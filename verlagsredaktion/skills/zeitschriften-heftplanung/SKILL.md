@@ -1,6 +1,6 @@
 ---
 name: zeitschriften-heftplanung
-description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht) im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht) im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeitschriften Heftplanung

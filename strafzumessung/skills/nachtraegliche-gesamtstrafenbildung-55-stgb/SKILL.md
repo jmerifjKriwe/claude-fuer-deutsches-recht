@@ -1,13 +1,13 @@
 ---
 name: nachtraegliche-gesamtstrafenbildung-55-stgb
-description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachtraegliche Gesamtstrafenbildung — § 55 StGB
 
 ## Arbeitsbereich
 
-Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

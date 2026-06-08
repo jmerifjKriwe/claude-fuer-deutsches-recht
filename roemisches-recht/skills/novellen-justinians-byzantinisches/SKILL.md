@@ -1,13 +1,13 @@
 ---
 name: novellen-justinians-byzantinisches
-description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki
 
 ## Arbeitsbereich
 
-Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

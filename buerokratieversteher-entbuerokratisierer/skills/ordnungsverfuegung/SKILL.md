@@ -1,13 +1,13 @@
 ---
 name: ordnungsverfuegung
-description: "Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordnungsverfügung
 
 ## Arbeitsbereich
 
-Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

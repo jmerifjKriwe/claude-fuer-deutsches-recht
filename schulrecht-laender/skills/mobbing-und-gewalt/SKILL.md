@@ -1,13 +1,13 @@
 ---
 name: mobbing-und-gewalt
-description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mobbing Und Gewalt
 
 ## Arbeitsbereich
 
-Prüft Mobbing, Gewalt und Schutzpflichten der Schule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mobbing, Gewalt und Schutzpflichten der Schule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

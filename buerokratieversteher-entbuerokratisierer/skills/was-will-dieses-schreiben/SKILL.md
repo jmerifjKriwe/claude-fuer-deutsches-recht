@@ -1,13 +1,13 @@
 ---
 name: was-will-dieses-schreiben
-description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst? im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst? im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Was will dieses Schreiben?
 
 ## Arbeitsbereich
 
-Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst?. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst?. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

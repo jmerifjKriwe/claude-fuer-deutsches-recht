@@ -1,13 +1,13 @@
 ---
 name: uwr-bundesnaturschutzgesetz-eingriff-co2
-description: "Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UwR: BNatSchG-Eingriff
 
 ## Arbeitsbereich
 
-Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

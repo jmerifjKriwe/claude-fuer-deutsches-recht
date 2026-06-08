@@ -1,13 +1,13 @@
 ---
 name: handelsrichter-handelskauf-sitzung
-description: "Handelsrichter Handelskauf (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Handelskauf (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsrichter Handelskauf: Sitzungspraxis
 
 ## Arbeitsbereich
 
-Handelsrichter Handelskauf (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Handelskauf (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

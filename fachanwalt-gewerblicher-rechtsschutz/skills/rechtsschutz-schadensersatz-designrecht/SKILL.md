@@ -7,7 +7,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 
 ## Arbeitsbereich
 
-**Schadensersatz Designrecht** ordnet den Fall über die tragenden Prüfungslinien: Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Schadensersatz Designrecht** ordnet den Fall über die tragenden Prüfungslinien: Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

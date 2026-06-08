@@ -1,13 +1,13 @@
 ---
 name: endgueltiges-nichtbestehen
-description: "Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Endgültiges Nichtbestehen
 
 ## Arbeitsbereich
 
-Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

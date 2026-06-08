@@ -1,13 +1,13 @@
 ---
 name: rezeptdaten-gesundheitsdaten-und-sozialdaten
-description: "Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz
 
 ## Arbeitsbereich
 
-Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

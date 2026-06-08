@@ -1,13 +1,13 @@
 ---
 name: strafprozessgeschichte
-description: "Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafprozessgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

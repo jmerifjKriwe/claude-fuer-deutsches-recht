@@ -1,13 +1,13 @@
 ---
 name: ungerechtfertigte-bereicherung-condictiones
-description: "Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ungerechtfertigte Bereicherung: condictiones
 
 ## Arbeitsbereich
 
-Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

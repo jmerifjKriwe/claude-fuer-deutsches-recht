@@ -7,7 +7,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüfungslinien: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüfungslinien: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: ce-kennzeichnung-und-produktsicherheit-china-import-compliance
-description: "CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance
 
 ## Arbeitsbereich
 
-CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

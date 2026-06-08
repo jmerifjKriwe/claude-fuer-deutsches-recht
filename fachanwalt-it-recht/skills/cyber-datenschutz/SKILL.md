@@ -7,7 +7,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 
 ## Arbeitsbereich
 
-**Cyber Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Cyber Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

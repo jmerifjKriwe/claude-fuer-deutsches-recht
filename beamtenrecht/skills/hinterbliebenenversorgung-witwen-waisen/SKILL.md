@@ -1,13 +1,13 @@
 ---
 name: hinterbliebenenversorgung-witwen-waisen
-description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hinterbliebenenversorgung Witwen Witwer Waisen
 
 ## Arbeitsbereich
 
-Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

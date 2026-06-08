@@ -1,13 +1,13 @@
 ---
 name: neu-010-november-1918-uebergangsrecht-revolution-und-kontinu
-description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

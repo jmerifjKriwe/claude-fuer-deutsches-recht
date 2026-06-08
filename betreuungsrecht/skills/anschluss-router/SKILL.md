@@ -1,13 +1,13 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreuungsrecht — Allgemein
 
 ## Arbeitsbereich
 
-Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

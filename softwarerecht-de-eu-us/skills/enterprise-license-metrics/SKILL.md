@@ -1,13 +1,13 @@
 ---
 name: enterprise-license-metrics
-description: "Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Enterprise-Lizenzmetriken
 
 ## Arbeitsbereich
 
-Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

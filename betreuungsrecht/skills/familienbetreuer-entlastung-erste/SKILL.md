@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-entlastung-erste
-description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel
 
 ## Arbeitsbereich
 
-Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

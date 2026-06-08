@@ -1,13 +1,13 @@
 ---
 name: uspto-anmeldung-und-lanham-act
-description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # USPTO-Anmeldung und Lanham Act
 
 ## Arbeitsbereich
 
-USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

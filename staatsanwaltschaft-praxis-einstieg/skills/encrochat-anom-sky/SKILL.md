@@ -1,13 +1,13 @@
 ---
 name: encrochat-anom-sky
-description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EncroChat, ANOM, Sky ECC und Kryptodienste
 
 ## Arbeitsbereich
 
-EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

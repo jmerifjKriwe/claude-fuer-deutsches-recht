@@ -7,7 +7,7 @@ description: "Gesellschaftsrecht Beweislast Mandat Nada im Sportrecht: prüft ko
 
 ## Arbeitsbereich
 
-**Gesellschaftsrecht Beweislast Mandat Nada** ordnet den Fall über die tragenden Prüfungslinien: Gesellschaftsrecht, Mandat, Nada. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Gesellschaftsrecht Beweislast Mandat Nada** ordnet den Fall über die tragenden Prüfungslinien: Gesellschaftsrecht, Mandat, Nada. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

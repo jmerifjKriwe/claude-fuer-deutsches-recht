@@ -1,13 +1,13 @@
 ---
 name: government-works-edicts-105
-description: "Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Government Works und Edicts
 
 ## Arbeitsbereich
 
-Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fristen-und-quartalsmonitor
-description: "Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen- und Quartalsmonitor
 
 ## Arbeitsbereich
 
-Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

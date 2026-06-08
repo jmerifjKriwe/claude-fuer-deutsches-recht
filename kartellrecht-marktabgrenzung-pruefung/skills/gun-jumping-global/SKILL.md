@@ -7,7 +7,7 @@ description: "Gun Jumping und Closing Control: Fachmodul für großes Kartellrec
 
 ## Arbeitsbereich
 
-Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

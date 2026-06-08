@@ -1,13 +1,13 @@
 ---
 name: richterliche-unabhaengigkeit-strafverfahren
-description: "Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterliche Unabhängigkeit - Dienstaufsicht und Prüfungsverfahren
 
 ## Arbeitsbereich
 
-Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

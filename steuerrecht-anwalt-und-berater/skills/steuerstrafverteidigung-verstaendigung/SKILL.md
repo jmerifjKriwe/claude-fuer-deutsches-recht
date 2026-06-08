@@ -1,6 +1,6 @@
 ---
 name: steuerstrafverteidigung-verstaendigung
-description: "Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

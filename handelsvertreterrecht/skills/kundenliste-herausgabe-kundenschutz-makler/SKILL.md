@@ -1,13 +1,13 @@
 ---
 name: kundenliste-herausgabe-kundenschutz-makler
-description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
 
 ## Arbeitsbereich
 
-Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

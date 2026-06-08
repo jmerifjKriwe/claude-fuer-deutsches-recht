@@ -1,13 +1,13 @@
 ---
 name: nachvertragliche-provision-rechtsabteilung
-description: "Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
 
 ## Arbeitsbereich
 
-Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

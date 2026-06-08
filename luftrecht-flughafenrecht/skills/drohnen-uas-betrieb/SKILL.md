@@ -1,13 +1,13 @@
 ---
 name: drohnen-uas-betrieb
-description: "Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drohnen und UAS-Betrieb – Genehmigung, Registrierung und Haftung
 
 ## Arbeitsbereich
 
-Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

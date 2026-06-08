@@ -1,13 +1,13 @@
 ---
 name: open-source-pruefung
-description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente) im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente) im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung
 
 ## Arbeitsbereich
 
-Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

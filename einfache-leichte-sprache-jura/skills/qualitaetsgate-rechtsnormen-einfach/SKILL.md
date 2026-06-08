@@ -7,7 +7,7 @@ description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprach
 
 ## Arbeitsbereich
 
-Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veröffentlichung prüfen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollständigkeit offene Nutzergruppen-Prüfung. Normen BITV 2.0 BGG § 11 Netzwerk Leichte Sprache. Prüfraster Verstaendlichkeits-Score Gliederungs-Check Glossar-Vollständigkeit Rechtsinhalt-Sicherung. Output Prüfergebnis-Bericht Verbesserungshinweise. Abgrenzung zu elsj-juristische-sicherung (Inhalt) und elsj-einfache-sprache/elsj-leichte-sprache (Übertragung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veröffentlichung prüfen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollständigkeit offene Nutzergruppen-Prüfung. Normen BITV 2.0 BGG § 11 Netzwerk Leichte Sprache. Prüfraster Verstaendlichkeits-Score Gliederungs-Check Glossar-Vollständigkeit Rechtsinhalt-Sicherung. Output Prüfergebnis-Bericht Verbesserungshinweise. Abgrenzung zu elsj-juristische-sicherung (Inhalt) und elsj-einfache-sprache/elsj-leichte-sprache (Übertragung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

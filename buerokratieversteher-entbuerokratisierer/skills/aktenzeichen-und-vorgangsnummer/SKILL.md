@@ -1,13 +1,13 @@
 ---
 name: aktenzeichen-und-vorgangsnummer
-description: "Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenzeichen und Vorgangsnummer
 
 ## Arbeitsbereich
 
-Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: altvertrag-nachziehen
-description: "Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Altvertrag nachziehen
 
 ## Arbeitsbereich
 
-Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

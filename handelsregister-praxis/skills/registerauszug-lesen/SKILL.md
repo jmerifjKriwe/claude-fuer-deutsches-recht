@@ -1,13 +1,13 @@
 ---
 name: registerauszug-lesen
-description: "Erklärt Abteilungen/Spalten, Historie, Vertretung, Kapital, Firma, Prokura, Insolvenz und Bekanntmachungen im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Abteilungen/Spalten, Historie, Vertretung, Kapital, Firma, Prokura, Insolvenz und Bekanntmachungen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsregisterauszug lesen
 
 ## Arbeitsbereich
 
-Erklärt Abteilungen/Spalten, Historie, Vertretung, Kapital, Firma, Prokura, Insolvenz und Bekanntmachungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Abteilungen/Spalten, Historie, Vertretung, Kapital, Firma, Prokura, Insolvenz und Bekanntmachungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

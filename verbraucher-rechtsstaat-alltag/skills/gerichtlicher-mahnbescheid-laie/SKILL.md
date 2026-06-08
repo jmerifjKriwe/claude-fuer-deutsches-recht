@@ -1,13 +1,13 @@
 ---
 name: gerichtlicher-mahnbescheid-laie
-description: "Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtlicher Mahnbescheid für Laien
 
 ## Arbeitsbereich
 
-Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

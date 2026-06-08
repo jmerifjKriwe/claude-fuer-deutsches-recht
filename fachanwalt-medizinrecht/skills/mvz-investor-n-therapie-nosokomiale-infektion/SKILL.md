@@ -7,7 +7,7 @@ description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: pr�
 
 ## Arbeitsbereich
 
-**MVZ Investor N Therapie Nosokomiale Infektion** ordnet den Fall über die tragenden Prüfungslinien: Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**MVZ Investor N Therapie Nosokomiale Infektion** ordnet den Fall über die tragenden Prüfungslinien: Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

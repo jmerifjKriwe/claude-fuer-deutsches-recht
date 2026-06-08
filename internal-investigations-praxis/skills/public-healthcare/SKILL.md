@@ -1,13 +1,13 @@
 ---
 name: public-healthcare
-description: "Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Öffentliche Vergabe und Beschaffungsmanipulation
 
 ## Arbeitsbereich
 
-Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

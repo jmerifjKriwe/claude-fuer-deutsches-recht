@@ -1,13 +1,13 @@
 ---
 name: freight-forwarder-and-customs-broker
-description: "Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spediteur und Zollmakler China-Handel: Haftung und Beauftragung
 
 ## Arbeitsbereich
 
-Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

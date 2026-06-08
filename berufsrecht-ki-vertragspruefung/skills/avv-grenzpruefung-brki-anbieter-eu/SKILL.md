@@ -1,13 +1,13 @@
 ---
 name: avv-grenzpruefung-brki-anbieter-eu
-description: "Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelprüfungs-Vermerk Lückenliste. Abgrenzung zu verschwiegenheitsklausel-prüfen (Verschwiegenheit-Hauptprüfung) und gutachten-erstellen (Gesamtgutachten) im Berufsrecht KI-Vertragsprüfung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelprüfungs-Vermerk Lückenliste. Abgrenzung zu verschwiegenheitsklausel-prüfen (Verschwiegenheit-Hauptprüfung) und gutachten-erstellen (Gesamtgutachten) im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AVV-Grenzprüfung Datenschutz
 
 ## Arbeitsbereich
 
-Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelprüfungs-Vermerk Lückenliste. Abgrenzung zu verschwiegenheitsklausel-prüfen (Verschwiegenheit-Hauptprüfung) und gutachten-erstellen (Gesamtgutachten). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfallen. Output Parallelprüfungs-Vermerk Lückenliste. Abgrenzung zu verschwiegenheitsklausel-prüfen (Verschwiegenheit-Hauptprüfung) und gutachten-erstellen (Gesamtgutachten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fusion-sicherheitsnachweis
-description: "Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fusion: Sicherheitsnachweis und Störfalllogik
 
 ## Arbeitsbereich
 
-Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: aufsichtspflicht-und-unfall
-description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtspflicht Und Unfall
 
 ## Arbeitsbereich
 
-Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

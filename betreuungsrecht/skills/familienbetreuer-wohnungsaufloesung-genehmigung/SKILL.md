@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-wohnungsaufloesung-genehmigung
-description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung
 
 ## Arbeitsbereich
 
-Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

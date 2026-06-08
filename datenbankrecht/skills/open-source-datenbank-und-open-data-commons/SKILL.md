@@ -1,13 +1,13 @@
 ---
 name: open-source-datenbank-und-open-data-commons
-description: "Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open-Source-Datenbanken und Open-Data-Commons-Lizenzen
 
 ## Arbeitsbereich
 
-Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

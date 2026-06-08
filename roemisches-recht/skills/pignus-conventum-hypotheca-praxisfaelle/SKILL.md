@@ -1,13 +1,13 @@
 ---
 name: pignus-conventum-hypotheca-praxisfaelle
-description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 137 Pignus Conventum Hypotheca Praxisfaelle
 
 ## Arbeitsbereich
 
-Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

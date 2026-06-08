@@ -1,13 +1,13 @@
 ---
 name: kodifikationstechnik-historisch
-description: "Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kodifikationstechnik historisch
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

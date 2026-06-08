@@ -1,13 +1,13 @@
 ---
 name: ewpg-kryptowertpapierregister-registerwechsel
-description: "Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kryptowertpapierregister Erlaubnis
 
 ## Arbeitsbereich
 
-Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

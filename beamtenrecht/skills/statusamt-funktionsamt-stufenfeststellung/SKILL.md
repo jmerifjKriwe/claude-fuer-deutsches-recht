@@ -1,13 +1,13 @@
 ---
 name: statusamt-funktionsamt-stufenfeststellung
-description: "Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Statusamt Funktionsamt Dienstposten
 
 ## Arbeitsbereich
 
-Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

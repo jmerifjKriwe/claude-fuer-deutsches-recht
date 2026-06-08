@@ -1,13 +1,13 @@
 ---
 name: docx-stripper
-description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DOCX-Stripper
 
 ## Arbeitsbereich
 
-DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

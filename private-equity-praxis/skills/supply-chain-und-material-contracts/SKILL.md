@@ -1,13 +1,13 @@
 ---
 name: supply-chain-und-material-contracts
-description: "Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Supply Chain und Material Contracts
 
 ## Arbeitsbereich
 
-Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

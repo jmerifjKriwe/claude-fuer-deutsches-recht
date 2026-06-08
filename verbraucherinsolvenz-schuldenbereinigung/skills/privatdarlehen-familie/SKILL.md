@@ -7,7 +7,7 @@ description: "Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbere
 
 ## Arbeitsbereich
 
-**Privatdarlehen Familie** ordnet den Fall über die tragenden Prüfungslinien: Privatdarlehen in Familie und Freundeskreis, Restschuldbefreiungsantrag, SCHUFA/Auskunfteien nach Insolvenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Privatdarlehen Familie** ordnet den Fall über die tragenden Prüfungslinien: Privatdarlehen in Familie und Freundeskreis, Restschuldbefreiungsantrag, SCHUFA/Auskunfteien nach Insolvenz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

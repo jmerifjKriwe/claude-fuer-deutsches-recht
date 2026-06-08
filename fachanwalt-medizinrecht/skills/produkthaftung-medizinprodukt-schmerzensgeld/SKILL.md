@@ -7,7 +7,7 @@ description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Produkthaftung Medizinprodukt Schmerzensgeld** ordnet den Fall über die tragenden Prüfungslinien: Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Produkthaftung Medizinprodukt Schmerzensgeld** ordnet den Fall über die tragenden Prüfungslinien: Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

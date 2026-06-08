@@ -7,7 +7,7 @@ description: "Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestse
 
 ## Arbeitsbereich
 
-Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

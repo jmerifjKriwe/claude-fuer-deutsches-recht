@@ -7,7 +7,7 @@ description: "Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Update
 
 ## Arbeitsbereich
 
-Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

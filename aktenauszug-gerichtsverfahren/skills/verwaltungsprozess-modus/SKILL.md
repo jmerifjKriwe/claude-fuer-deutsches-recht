@@ -1,13 +1,13 @@
 ---
 name: verwaltungsprozess-modus
-description: "Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)
 
 ## Arbeitsbereich
 
-Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

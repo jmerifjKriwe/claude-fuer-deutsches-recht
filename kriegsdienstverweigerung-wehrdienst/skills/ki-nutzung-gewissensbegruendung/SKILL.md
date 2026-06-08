@@ -1,13 +1,13 @@
 ---
 name: ki-nutzung-gewissensbegruendung
-description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI bei Gewissensbegründung
 
 ## Arbeitsbereich
 
-Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: abschlussvertreter
-description: "Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsstellung des Abschlussvertreters nach §§ 84 und 54 HGB
 
 ## Arbeitsbereich
 
-Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

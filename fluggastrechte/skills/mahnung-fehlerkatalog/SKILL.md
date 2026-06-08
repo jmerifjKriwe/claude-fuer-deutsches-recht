@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fluggastrechte** Ergebnisse vor Abgabe,
 
 ## Fachspezifische Fehlerachsen
 
-- `abtretung-an-fluggastportal-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `airline-bonitaet-und-vollstreckung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `airline-standardausreden-annullierung-verspaetung-anschlussflug`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `airline-standardausreden-pruefen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-anschluss-router-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `annullierung-oder-verspaetung-einordnen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anschlussflug-und-reiseplan`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ausnahmen-aussergewoehnliche-umstaende-pruefen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aussergewoehnliche-distanz-interessen-erfassen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abtretung-an-fluggastportal-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `airline-bonitaet-und-vollstreckung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `airline-standardausreden-annullierung-verspaetung-anschlussflug`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `airline-standardausreden-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-anschluss-router-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `annullierung-oder-verspaetung-einordnen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anschlussflug-und-reiseplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ausnahmen-aussergewoehnliche-umstaende-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aussergewoehnliche-distanz-interessen-erfassen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

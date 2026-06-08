@@ -1,13 +1,13 @@
 ---
 name: conversion-dismissal
-description: "Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Conversion and Dismissal
 
 ## Arbeitsbereich
 
-Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: zusammenfuehren
-description: "Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfähig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert über `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfähig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert über `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fortbestehensprognose zusammenführen
 
 ## Arbeitsbereich
 
-Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfähig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert über `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfähig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert über `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

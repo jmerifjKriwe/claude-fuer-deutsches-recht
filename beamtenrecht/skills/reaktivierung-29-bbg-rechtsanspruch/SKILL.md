@@ -1,13 +1,13 @@
 ---
 name: reaktivierung-29-bbg-rechtsanspruch
-description: "Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reaktivierung nach § 29 BBG — Rueckkehr aus dem Ruhestand
 
 ## Arbeitsbereich
 
-Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

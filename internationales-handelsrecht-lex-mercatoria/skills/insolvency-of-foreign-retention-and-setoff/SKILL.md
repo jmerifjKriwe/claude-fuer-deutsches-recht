@@ -1,13 +1,13 @@
 ---
 name: insolvency-of-foreign-retention-and-setoff
-description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz des ausländischen Käufers
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

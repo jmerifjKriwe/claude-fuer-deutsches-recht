@@ -7,7 +7,7 @@ description: "Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentw�
 
 ## Arbeitsbereich
 
-Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentw체rfe und Markups versionssicher. Die Pr체fung konzentriert sich auf diese Pr체fungslinie und trennt Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.
+Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentw체rfe und Markups versionssicher. Arbeite entlang dieser konkreten Pr체fungslinie und trenne Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.
 
 ## Arbeitsweg
 

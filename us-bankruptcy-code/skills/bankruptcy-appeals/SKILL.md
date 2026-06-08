@@ -1,13 +1,13 @@
 ---
 name: bankruptcy-appeals
-description: "Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bankruptcy Appeals
 
 ## Arbeitsbereich
 
-Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

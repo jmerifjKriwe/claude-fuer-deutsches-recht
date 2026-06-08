@@ -1,13 +1,13 @@
 ---
 name: data-room-for-board
-description: "Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenraum für Board/Gremien
 
 ## Arbeitsbereich
 
-Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

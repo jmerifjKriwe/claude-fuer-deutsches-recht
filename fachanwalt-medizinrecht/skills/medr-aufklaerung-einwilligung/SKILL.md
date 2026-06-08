@@ -7,7 +7,7 @@ description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leit
 
 ## Arbeitsbereich
 
-**Medr Aufklaerung Einwilligung** ordnet den Fall über die tragenden Prüfungslinien: Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Medr Aufklaerung Einwilligung** ordnet den Fall über die tragenden Prüfungslinien: Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

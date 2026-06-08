@@ -1,6 +1,6 @@
 ---
 name: bankabschluss-regulatorik
-description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftsprüfer: bankabschluss und regulatorik - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

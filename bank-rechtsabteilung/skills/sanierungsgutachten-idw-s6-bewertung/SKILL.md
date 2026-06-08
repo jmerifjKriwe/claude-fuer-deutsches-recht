@@ -1,13 +1,13 @@
 ---
 name: sanierungsgutachten-idw-s6-bewertung
-description: "Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgutachten bewerten
 
 ## Arbeitsbereich
 
-Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

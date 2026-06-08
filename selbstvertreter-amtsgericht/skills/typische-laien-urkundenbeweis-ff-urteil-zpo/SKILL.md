@@ -7,7 +7,7 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Typische Laien Urkundenbeweis FF Urteil ZPO** ordnet den Fall über die tragenden Prüfungslinien: Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Typische Laien Urkundenbeweis FF Urteil ZPO** ordnet den Fall über die tragenden Prüfungslinien: Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: insolvenz-vertreter-internationales-rom
-description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung
 
 ## Arbeitsbereich
 
-Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

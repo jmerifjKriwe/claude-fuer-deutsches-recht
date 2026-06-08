@@ -1,13 +1,13 @@
 ---
 name: fallvergleich-epochenuebergreifend
-description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fallvergleich epochenuebergreifend
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

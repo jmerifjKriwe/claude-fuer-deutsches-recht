@@ -7,7 +7,7 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 
 ## Arbeitsbereich
 
-**Substantiiertes Bestreiten Zerlegen** ordnet den Fall über die tragenden Prüfungslinien: Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Substantiiertes Bestreiten Zerlegen** ordnet den Fall über die tragenden Prüfungslinien: Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

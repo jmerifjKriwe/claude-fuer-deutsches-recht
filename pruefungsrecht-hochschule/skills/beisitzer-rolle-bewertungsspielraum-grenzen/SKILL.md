@@ -1,13 +1,13 @@
 ---
 name: beisitzer-rolle-bewertungsspielraum-grenzen
-description: "Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beisitzerrolle mündliche Prüfung
 
 ## Arbeitsbereich
 
-Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

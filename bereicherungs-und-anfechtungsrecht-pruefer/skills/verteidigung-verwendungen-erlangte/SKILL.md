@@ -7,7 +7,7 @@ description: "Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt wer
 
 ## Arbeitsbereich
 
-Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

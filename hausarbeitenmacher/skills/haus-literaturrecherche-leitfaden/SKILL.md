@@ -1,13 +1,13 @@
 ---
 name: haus-literaturrecherche-leitfaden
-description: "Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haus: Literaturrecherche
 
 ## Arbeitsbereich
 
-Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

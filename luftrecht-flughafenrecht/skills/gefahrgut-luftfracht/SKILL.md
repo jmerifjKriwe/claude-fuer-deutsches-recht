@@ -1,13 +1,13 @@
 ---
 name: gefahrgut-luftfracht
-description: "Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung
 
 ## Arbeitsbereich
 
-Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

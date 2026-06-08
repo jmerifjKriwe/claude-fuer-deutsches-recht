@@ -1,13 +1,13 @@
 ---
 name: prodr-machinery-produktrueckruf
-description: "Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Aenderung, Modernisierung Bestandsmaschinen. Pruefraster für Hersteller im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Aenderung, Modernisierung Bestandsmaschinen. Pruefraster für Hersteller im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ProdR: Machinery Regulation
 
 ## Arbeitsbereich
 
-Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Aenderung, Modernisierung Bestandsmaschinen. Pruefraster für Hersteller. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Aenderung, Modernisierung Bestandsmaschinen. Pruefraster für Hersteller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lex-mercatoria-in-award
-description: "Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lex Mercatoria im Schiedsspruch
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

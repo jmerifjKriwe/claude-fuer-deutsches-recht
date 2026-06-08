@@ -1,13 +1,13 @@
 ---
 name: versetzung-kommandierung-vorlaeufige
-description: "Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versetzung, Kommandierung und Abordnung
 
 ## Arbeitsbereich
 
-Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fixation-originality-human-authorship
-description: "Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fixation, Originality und Human Authorship
 
 ## Arbeitsbereich
 
-Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

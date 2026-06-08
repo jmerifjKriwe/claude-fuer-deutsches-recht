@@ -1,13 +1,13 @@
 ---
 name: anhoerungsprotokoll-und-korrektur
-description: "Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anhörungsprotokoll prüfen
 
 ## Arbeitsbereich
 
-Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

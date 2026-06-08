@@ -7,7 +7,7 @@ description: "Prüft Verkauf bestehender Anteile, Transfer Restrictions, ROFR, T
 
 ## Arbeitsbereich
 
-Prüft Verkauf bestehender Anteile, Transfer Restrictions, ROFR, Tag, Bewertung, Steuern, KYC und Closing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verkauf bestehender Anteile, Transfer Restrictions, ROFR, Tag, Bewertung, Steuern, KYC und Closing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

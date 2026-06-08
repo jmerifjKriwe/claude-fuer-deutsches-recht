@@ -1,13 +1,13 @@
 ---
 name: sanctions-russia-china-risk
-description: "Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktions- und geopolitische Risiken
 
 ## Arbeitsbereich
 
-Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

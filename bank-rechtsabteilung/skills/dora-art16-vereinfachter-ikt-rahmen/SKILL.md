@@ -1,13 +1,13 @@
 ---
 name: dora-art16-vereinfachter-ikt-rahmen
-description: "DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DORA Artikel 16: Vereinfachter IKT-Rahmen
 
 ## Arbeitsbereich
 
-DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

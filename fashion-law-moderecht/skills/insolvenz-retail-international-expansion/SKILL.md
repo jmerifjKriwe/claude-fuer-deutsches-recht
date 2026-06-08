@@ -1,13 +1,13 @@
 ---
 name: insolvenz-retail-international-expansion
-description: "Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz Retail Stock
 
 ## Arbeitsbereich
 
-Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

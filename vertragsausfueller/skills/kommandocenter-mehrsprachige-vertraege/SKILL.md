@@ -1,13 +1,13 @@
 ---
 name: kommandocenter-mehrsprachige-vertraege
-description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Fachmodul. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Fachmodul. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommandocenter
 
 ## Arbeitsbereich
 
-Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Fachmodul. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Fachmodul. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

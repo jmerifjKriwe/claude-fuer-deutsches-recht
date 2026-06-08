@@ -1,13 +1,13 @@
 ---
 name: lehrmittel-und-lernmittelfreiheit
-description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lehrmittel und Lernmittelfreiheit
 
 ## Arbeitsbereich
 
-Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

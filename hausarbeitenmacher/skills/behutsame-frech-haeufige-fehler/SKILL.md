@@ -1,13 +1,13 @@
 ---
 name: behutsame-frech-haeufige-fehler
-description: "Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung
 
 ## Arbeitsbereich
 
-Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

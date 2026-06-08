@@ -1,13 +1,13 @@
 ---
 name: zustimmung-veraeusserung-zwangsversteigerung
-description: "Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustimmung zur Veräußerung/Belastung
 
 ## Arbeitsbereich
 
-Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

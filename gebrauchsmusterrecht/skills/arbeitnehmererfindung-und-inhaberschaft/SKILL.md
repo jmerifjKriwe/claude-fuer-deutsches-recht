@@ -1,13 +1,13 @@
 ---
 name: arbeitnehmererfindung-und-inhaberschaft
-description: "Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitnehmererfindung Und Inhaberschaft
 
 ## Arbeitsbereich
 
-Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

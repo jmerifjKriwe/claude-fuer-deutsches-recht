@@ -1,13 +1,13 @@
 ---
 name: ewpg-emission-elektronische-wertpapiere
-description: "Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # eWpG-Emission
 
 ## Arbeitsbereich
 
-Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

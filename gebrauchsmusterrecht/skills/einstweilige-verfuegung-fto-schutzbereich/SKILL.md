@@ -1,13 +1,13 @@
 ---
 name: einstweilige-verfuegung-fto-schutzbereich
-description: "Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Verfuegung Gebrauchsmuster
 
 ## Arbeitsbereich
 
-Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

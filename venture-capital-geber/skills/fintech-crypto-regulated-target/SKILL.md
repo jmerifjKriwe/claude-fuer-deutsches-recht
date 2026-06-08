@@ -7,7 +7,7 @@ description: "Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing 
 
 ## Arbeitsbereich
 
-Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

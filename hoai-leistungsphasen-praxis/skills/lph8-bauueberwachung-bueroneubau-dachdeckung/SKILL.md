@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-bueroneubau-dachdeckung
-description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Bueroneubau Curtain Wall (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

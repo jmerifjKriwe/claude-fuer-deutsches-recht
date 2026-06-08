@@ -1,13 +1,13 @@
 ---
 name: triage-notaufnahme-vergaberecht-krankenhaus
-description: "Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Triage Notaufnahme Ueberlastung Dokumentation
 
 ## Arbeitsbereich
 
-Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

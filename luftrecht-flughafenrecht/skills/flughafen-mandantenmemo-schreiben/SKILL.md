@@ -1,13 +1,13 @@
 ---
 name: flughafen-mandantenmemo-schreiben
-description: "Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Mandantenmemo schreiben
 
 ## Arbeitsbereich
 
-Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sicherungsuebereignung-leasingregister
-description: "Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sicherungsübereignung und das fehlende Leasingregister
 
 ## Arbeitsbereich
 
-Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

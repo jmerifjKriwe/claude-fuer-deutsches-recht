@@ -1,13 +1,13 @@
 ---
 name: keyword-advertising-hashtag-influencer
-description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Keyword Advertising, Hashtags und Influencer
 
 ## Arbeitsbereich
 
-Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

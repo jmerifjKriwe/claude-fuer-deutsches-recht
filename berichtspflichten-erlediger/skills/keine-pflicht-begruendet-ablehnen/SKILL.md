@@ -1,13 +1,13 @@
 ---
 name: keine-pflicht-begruendet-ablehnen
-description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Keine Pflicht: sauber begründet ablehnen
 
 ## Arbeitsbereich
 
-Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

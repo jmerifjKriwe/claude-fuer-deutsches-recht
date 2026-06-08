@@ -1,13 +1,13 @@
 ---
 name: bora-konformitaetspruefung-brao-email
-description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung) im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BORA-Konformitätsprüfung
 
 ## Arbeitsbereich
 
-E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

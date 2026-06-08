@@ -1,13 +1,13 @@
 ---
 name: fremdmandat-agenturfall
-description: "Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fremdmandat und Agenturfall
 
 ## Arbeitsbereich
 
-Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: begruendung-fuer-aktive-soldaten
-description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Begründung aktive Soldaten
 
 ## Arbeitsbereich
 
-Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schn
 
 ## Arbeitsbereich
 
-**Urhg** ordnet den Fall über die tragenden Prüfungslinien: Schnittstellen, Urheber, Urhg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Urhg** ordnet den Fall über die tragenden Prüfungslinien: Schnittstellen, Urheber, Urhg. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

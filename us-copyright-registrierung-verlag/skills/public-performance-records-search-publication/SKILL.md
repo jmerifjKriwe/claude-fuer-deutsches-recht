@@ -1,13 +1,13 @@
 ---
 name: public-performance-records-search-publication
-description: "Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Public Performance, Display und § 110
 
 ## Arbeitsbereich
 
-Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

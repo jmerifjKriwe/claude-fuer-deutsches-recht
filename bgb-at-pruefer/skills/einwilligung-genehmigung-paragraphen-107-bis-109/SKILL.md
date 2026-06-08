@@ -1,13 +1,13 @@
 ---
 name: einwilligung-genehmigung-paragraphen-107-bis-109
-description: "Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einwilligung und Genehmigung — §§ 107 bis 109 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

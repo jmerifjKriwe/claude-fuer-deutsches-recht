@@ -7,7 +7,7 @@ description: "Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und st
 
 ## Arbeitsbereich
 
-Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

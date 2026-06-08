@@ -1,6 +1,6 @@
 ---
 name: widerruf-ruecknahme
-description: "Widerruf Rücknahme im Plugin Apothekenrecht im Apothekenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf Rücknahme im Plugin Apothekenrecht im Apothekenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerruf Rücknahme

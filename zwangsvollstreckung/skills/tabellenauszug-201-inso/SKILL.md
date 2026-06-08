@@ -1,13 +1,13 @@
 ---
 name: tabellenauszug-201-inso
-description: "Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollstreckung aus Tabellenauszug § 201 InsO
 
 ## Arbeitsbereich
 
-Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

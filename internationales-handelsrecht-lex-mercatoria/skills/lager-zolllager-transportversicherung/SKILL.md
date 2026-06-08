@@ -1,13 +1,13 @@
 ---
 name: lager-zolllager-transportversicherung
-description: "Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lager- und Zolllager
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

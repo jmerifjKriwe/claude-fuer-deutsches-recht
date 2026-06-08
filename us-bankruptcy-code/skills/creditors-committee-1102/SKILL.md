@@ -1,13 +1,13 @@
 ---
 name: creditors-committee-1102
-description: "Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Creditors Committee § 1102
 
 ## Arbeitsbereich
 
-Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

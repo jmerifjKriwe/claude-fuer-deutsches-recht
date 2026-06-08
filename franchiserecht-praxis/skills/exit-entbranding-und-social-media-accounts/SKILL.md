@@ -1,13 +1,13 @@
 ---
 name: exit-entbranding-und-social-media-accounts
-description: "Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Exit, Entbranding und Social-Media-Accounts
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

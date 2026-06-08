@@ -1,13 +1,13 @@
 ---
 name: dual-listed-issuer
-description: "Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Listed-Emittent – Parallele MAR-Pflichten
 
 ## Arbeitsbereich
 
-Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

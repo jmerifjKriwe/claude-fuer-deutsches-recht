@@ -1,13 +1,13 @@
 ---
 name: handelsgeschaefte-paragraphen-343-344
-description: "Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsgeschäfte §§ 343, 344 HGB
 
 ## Arbeitsbereich
 
-Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

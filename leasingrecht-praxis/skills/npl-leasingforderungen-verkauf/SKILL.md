@@ -1,13 +1,13 @@
 ---
 name: npl-leasingforderungen-verkauf
-description: "NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NPL-Leasingforderungen: Verkauf und Restrukturierung
 
 ## Arbeitsbereich
 
-NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

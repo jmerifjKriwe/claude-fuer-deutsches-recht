@@ -1,13 +1,13 @@
 ---
 name: trennungsgeld-umzugskosten-reisekosten
-description: "Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trennungsgeld, Umzugskosten und Reisekosten
 
 ## Arbeitsbereich
 
-Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

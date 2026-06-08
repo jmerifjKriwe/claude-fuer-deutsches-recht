@@ -1,13 +1,13 @@
 ---
 name: eu-cyber-resilience-act-software
-description: "Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cyber Resilience Act Software
 
 ## Arbeitsbereich
 
-Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

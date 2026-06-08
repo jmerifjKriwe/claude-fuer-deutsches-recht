@@ -7,7 +7,7 @@ description: "DSV Risikobewertung Enisa ART Schnelltriage im Datenschutzrecht: p
 
 ## Arbeitsbereich
 
-**DSV Risikobewertung Enisa ART Schnelltriage** ordnet den Fall über die tragenden Prüfungslinien: Wendet die ENISA-Methodik Recommendations for a methodology, Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Risikobewertung Enisa ART Schnelltriage** ordnet den Fall über die tragenden Prüfungslinien: Wendet die ENISA-Methodik Recommendations for a methodology, Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

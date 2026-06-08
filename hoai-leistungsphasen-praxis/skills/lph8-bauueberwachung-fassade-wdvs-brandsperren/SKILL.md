@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-fassade-wdvs-brandsperren
-description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung WDVS-Fassade und Brandsperren
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

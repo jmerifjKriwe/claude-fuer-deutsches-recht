@@ -1,13 +1,13 @@
 ---
 name: anleiheemission
-description: "Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anleiheemission – Insiderrechtliche Anforderungen
 
 ## Arbeitsbereich
 
-Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

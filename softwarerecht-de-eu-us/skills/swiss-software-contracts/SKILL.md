@@ -1,13 +1,13 @@
 ---
 name: swiss-software-contracts
-description: "Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schweizer Softwareverträge
 
 ## Arbeitsbereich
 
-Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

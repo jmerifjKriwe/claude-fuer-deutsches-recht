@@ -7,7 +7,7 @@ description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-**Psychedelika Studie Radiologie KI** ordnet den Fall über die tragenden Prüfungslinien: Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Psychedelika Studie Radiologie KI** ordnet den Fall über die tragenden Prüfungslinien: Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

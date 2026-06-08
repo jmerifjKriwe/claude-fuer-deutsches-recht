@@ -1,13 +1,13 @@
 ---
 name: immor-grundstueckskaufvertrag-bauleiter
-description: "Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ImmoR: Grundstueckskaufvertrag
 
 ## Arbeitsbereich
 
-Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

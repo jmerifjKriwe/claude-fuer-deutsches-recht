@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Normenkontrolle Bauleitplanung** Ergebn
 
 ## Fachspezifische Fehlerachsen
 
-- `abwaegungsgebot-1-abs-7-baugb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `normenkontrolle-satzungsnormenkontrolle-47-vwgo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemeine-satzungsnormenkontrolle-anpassungsgebot`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anfechtung-antragsbefugnis-red-antragstellervertretung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anpassungsgebot-flaechennutzungsplan`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `antragsbefugnis-eigentuemer-nachbar`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `artenschutz-naturschutz-aufstellungsbeschluss-bekanntmachung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `artenschutz-naturschutz-planung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufstellungsbeschluss-bekanntmachung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abwaegungsgebot-1-abs-7-baugb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `normenkontrolle-satzungsnormenkontrolle-47-vwgo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemeine-satzungsnormenkontrolle-anpassungsgebot`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anfechtung-antragsbefugnis-red-antragstellervertretung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anpassungsgebot-flaechennutzungsplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `antragsbefugnis-eigentuemer-nachbar`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `artenschutz-naturschutz-aufstellungsbeschluss-bekanntmachung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `artenschutz-naturschutz-planung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufstellungsbeschluss-bekanntmachung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

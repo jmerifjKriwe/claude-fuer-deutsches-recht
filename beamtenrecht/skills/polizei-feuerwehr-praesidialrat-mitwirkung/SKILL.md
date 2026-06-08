@@ -1,13 +1,13 @@
 ---
 name: polizei-feuerwehr-praesidialrat-mitwirkung
-description: "Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei Feuerwehr Vollzug Sonderdienst
 
 ## Arbeitsbereich
 
-Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: betriebskostenabrechnung-belege-und-formelpruefer
-description: "Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen im Mietrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen
 
 ## Arbeitsbereich
 
-Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verb
 
 ## Arbeitsbereich
 
-Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verbindlichen Feststellung der Genehmigungsfreiheit einer Ausfuhr durch BAFA. Einsatz bei Unsicherheit ueber Listenpflichtigkeit oder Catch-All-Relevanz. Fragestellung, Antragsinhalt und Rechtsnatur des Nullbescheids. Abgrenzung zur VZTA. Output: Nullbescheid-Antrag und Verfahrensprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verbindlichen Feststellung der Genehmigungsfreiheit einer Ausfuhr durch BAFA. Einsatz bei Unsicherheit ueber Listenpflichtigkeit oder Catch-All-Relevanz. Fragestellung, Antragsinhalt und Rechtsnatur des Nullbescheids. Abgrenzung zur VZTA. Output: Nullbescheid-Antrag und Verfahrensprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

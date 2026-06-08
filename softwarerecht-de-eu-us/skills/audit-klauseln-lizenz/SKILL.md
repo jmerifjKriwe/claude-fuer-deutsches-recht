@@ -1,13 +1,13 @@
 ---
 name: audit-klauseln-lizenz
-description: "Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Audit-Klauseln in Softwarelizenzen
 
 ## Arbeitsbereich
 
-Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

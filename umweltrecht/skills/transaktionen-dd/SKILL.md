@@ -1,13 +1,13 @@
 ---
 name: transaktionen-dd
-description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umweltrechtliche Transaktions-Due-Diligence
 
 ## Arbeitsbereich
 
-M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

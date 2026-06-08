@@ -1,13 +1,13 @@
 ---
 name: environmental-claims
-description: "Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Environmental Claims in Bankruptcy
 
 ## Arbeitsbereich
 
-Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

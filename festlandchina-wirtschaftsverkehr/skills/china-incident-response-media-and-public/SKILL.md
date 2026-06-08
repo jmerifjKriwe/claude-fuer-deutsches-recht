@@ -1,13 +1,13 @@
 ---
 name: china-incident-response-media-and-public
-description: "Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Incident Response China: Behördliche Maßnahmen und Notfallprotokoll
 
 ## Arbeitsbereich
 
-Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

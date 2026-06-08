@@ -1,13 +1,13 @@
 ---
 name: reporting-pflichten
-description: "Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB
 
 ## Arbeitsbereich
 
-Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

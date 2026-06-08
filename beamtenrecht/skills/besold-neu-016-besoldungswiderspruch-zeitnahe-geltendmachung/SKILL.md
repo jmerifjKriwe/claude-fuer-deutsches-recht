@@ -1,13 +1,13 @@
 ---
 name: besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung
-description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Besoldungswiderspruch Zeitnahe Geltendmachung
 
 ## Arbeitsbereich
 
-Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

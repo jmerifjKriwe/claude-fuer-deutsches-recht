@@ -7,7 +7,7 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 
 ## Arbeitsbereich
 
-Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

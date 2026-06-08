@@ -1,13 +1,13 @@
 ---
 name: schulaufnahme-und-schulbezirk
-description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulaufnahme Und Schulbezirk
 
 ## Arbeitsbereich
 
-Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

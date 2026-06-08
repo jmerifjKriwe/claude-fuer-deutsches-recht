@@ -1,13 +1,13 @@
 ---
 name: trade-fair-china-ip-risk
-description: "IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP-Schutz auf chinesischen Messen: Prävention und Enforcement
 
 ## Arbeitsbereich
 
-IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

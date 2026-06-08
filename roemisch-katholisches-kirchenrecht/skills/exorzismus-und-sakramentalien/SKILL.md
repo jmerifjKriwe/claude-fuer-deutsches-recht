@@ -7,7 +7,7 @@ description: "Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Ge
 
 ## Arbeitsbereich
 
-Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

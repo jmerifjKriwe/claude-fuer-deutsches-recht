@@ -1,13 +1,13 @@
 ---
 name: umweltpruefung-startanlage-flora-fauna-wasserrecht
-description: "Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht
 
 ## Arbeitsbereich
 
-Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

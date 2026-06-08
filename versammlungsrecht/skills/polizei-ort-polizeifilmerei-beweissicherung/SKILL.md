@@ -1,13 +1,13 @@
 ---
 name: polizei-ort-polizeifilmerei-beweissicherung
-description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vor Ort ruhig und dokumentiert
 
 ## Arbeitsbereich
 
-Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

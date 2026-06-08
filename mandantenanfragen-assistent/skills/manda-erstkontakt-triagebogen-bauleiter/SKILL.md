@@ -1,13 +1,13 @@
 ---
 name: manda-erstkontakt-triagebogen-bauleiter
-description: "Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster für Sekretariat und Anwalt im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster für Sekretariat und Anwalt im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manda: Triagebogen Erstkontakt
 
 ## Arbeitsbereich
 
-Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster für Sekretariat und Anwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster für Sekretariat und Anwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

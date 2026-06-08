@@ -50,17 +50,17 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `ai-act-art-6-hochrisiko-ki` | AI Act Hochrisiko-KI Art 6. |
-| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `cloud-act-vs-dsgvo-art-48-dsgvo` | Cloud Act und DSGVO Art 48. |
+| `ai-act-art-6-hochrisiko-ki` | AI Act Art 6 Hochrisiko KI: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `anschluss-routing` | Anschluss-Routing für Fachanwalt IT-Recht: wählt den nächsten Spezial-Skill nach Engpass (Mängelfristen Software, Softwarevertrag, SLA, Pflichtenheft), dokumentiert Router-Entscheidung mit Begründung. |
+| `cloud-act-vs-dsgvo-art-48-dsgvo` | Cloud Act Vs DSGVO Art 48 DSGVO: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `cloud-vertrag-datenschutz-itr` | Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüft konkret Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalte... |
 | `cyber-datenschutz` | Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach, Open-Sourc... |
 | `datenschutzrecht-fehlerkatalog` | Datenschutzrecht Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `dma-dsa-dsgvo-fachanwalt-governance` | DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht: prüft konkret DMA, DSA, DSGVO, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `dokumente-intake` | Dokumentenintake für Fachanwalt IT-Recht: sortiert Softwarevertrag, SLA, Pflichtenheft, prüft Datum, Absender, Frist und Beweiswert (Source Code, Lieferprotokoll); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `dsfa-update-erstgespraech-vorfallmeldung` | DSV Dsfa Update Erstgespraech Vorfallmeldung im Plugin Fachanwalt It Recht: prüft konkret Aktualisiert die Datenschutz-Folgenabschätzung nach Art, Führt das anwaltliche oder DSB-Erstgespräch nach einem, Definiert eine Eskalationsmatrix v... |
-| `dsgvo-bussgeld-art-83-eugh-c-807-21` | DSGVO Bussgeldzumessung Art 83 mit EuGH C-807/21. |
-| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `dsgvo-bussgeld-art-83-eugh-c-807-21` | DSGVO Bussgeld Art 83 EuGH C 807 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `einstieg-routing` | Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), markiert Frist (Mängelfristen Software), wählt Norm (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) un... |
 | `hacking-haftung-paragraf-823-bgb-it-sicherheit` | Hacking Haftung § 823 BGB it Sicherheit: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `informationstechnologierecht-kanzlei` | Informationstechnologierecht Kanzlei im Plugin Fachanwalt It Recht: prüft konkret Informationstechnologierecht, Kanzlei, Lizenz, Open. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `it-recht-aufnahme-statusinformation-benachrichtigung-art` | Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwalt It Recht: prüft konkret Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigung... |
@@ -78,17 +78,17 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 | `meldung-tlfdi-uld-sh-nachmeldung` | DSV Meldung Tlfdi ULD SH Nachmeldung im Plugin Fachanwalt It Recht: prüft konkret Reicht eine Meldung nach Art, Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung, Führt die Risikobewertung eines Datenschutzvorfalls anhand. Liefer... |
 | `nis2-quellenkarte` | Nis2 Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `open-source-gpl` | Open Source gpl: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `output-waehlen` | Output wählen im Plugin Fachanwalt It Recht: Diese Output-Weiche für Fachanwalt It Recht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
-| `plattform-dsa-art-14-eu-2022-2065` | Digital Services Act Art 14 mit VO 2022/2065. |
+| `output-waehlen` | Output-Wahl für Fachanwalt IT-Recht: stimmt Adressat (Auftraggeber, Software-Hersteller, Cloud-Anbieter), Frist (Mängelfristen Software) und Form auf den Zweck ab — typische Outputs: Software-Vertrag, SLA-Markup, Mängelklage Software. |
+| `plattform-dsa-art-14-eu-2022-2065` | Plattform Dsa Art 14 EU 2022 2065: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `pressemitteilung-krisenkommunikation` | DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It Recht: prüft konkret Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichniss... |
-| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `quellen-livecheck` | Quellen-Live-Check für Fachanwalt IT-Recht: prüft Normen (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach referen... |
 | `rechtsprechung-saas-vertrag-fristennotiz` | DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt It Recht: prüft konkret Analysiert die deutsche Rechtsprechung zum immateriellen, Saas, Vertrag, IT-Vertragsverhandlung SaaS Cloud Lizenz mit. Liefert priorisierten Output... |
 | `risikobewertung-art-schnelltriage-risiko` | DSV Risikobewertung ART Schnelltriage Risiko im Plugin Fachanwalt It Recht: prüft konkret Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko, Generiert eine priorisierte Sofortmaßn... |
-| `schrems-ii-drittlandsuebermittlung-c-311-18` | Drittlandsuebermittlung nach Schrems II. |
+| `schrems-ii-drittlandsuebermittlung-c-311-18` | Schrems Ii Drittlandsuebermittlung C 311 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `software-source-ttdsg` | Software Source TTDSG im Plugin Fachanwalt It Recht: prüft konkret Schnittstellen, Software, Source, Ttdsg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `softwarepflege-vertrag-paragraf-307-bgb` | Softwarepflege Vertrag § 307 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `start-chronologie-fristen` | Start Chronologie Fristen im Plugin Fachanwalt It Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt IT Recht-Plugin, Chronologie und Belegmatrix im Plugin fachanwalt-it-recht, Fristen- und Risikoampel im Plugin f... |
-| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt It Recht im Fachanwalt It Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel u... |
+| `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt IT-Recht: trennt fehlende Tatsachen von fehlenden Belegen (Softwarevertrag, SLA, Pflichtenheft), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgerichte), Frist und Ersatznachweis. |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt It Recht im Fachanwalt It Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

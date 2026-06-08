@@ -1,13 +1,13 @@
 ---
 name: datenminimierung-geheimnisschutz
-description: "Schutz von personenbezogenen Daten und Geschäftsgeheimnissen bei Meldungen, Statistiken und Kundenfragebögen im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutz von personenbezogenen Daten und Geschäftsgeheimnissen bei Meldungen, Statistiken und Kundenfragebögen im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenminimierung und Geheimnisschutz
 
 ## Arbeitsbereich
 
-Schutz von personenbezogenen Daten und Geschäftsgeheimnissen bei Meldungen, Statistiken und Kundenfragebögen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutz von personenbezogenen Daten und Geschäftsgeheimnissen bei Meldungen, Statistiken und Kundenfragebögen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

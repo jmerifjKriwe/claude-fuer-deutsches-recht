@@ -1,13 +1,13 @@
 ---
 name: privilege-log
-description: "Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Privilege-Log in Internal Investigations
 
 ## Arbeitsbereich
 
-Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

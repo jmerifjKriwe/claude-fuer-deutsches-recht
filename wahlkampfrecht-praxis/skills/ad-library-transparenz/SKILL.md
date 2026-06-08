@@ -1,13 +1,13 @@
 ---
 name: ad-library-transparenz
-description: "Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ad Library Transparenz
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

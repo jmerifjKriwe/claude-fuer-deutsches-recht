@@ -1,13 +1,13 @@
 ---
 name: agg-vs-9-bbg-auswahlverfahren
-description: "Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9 im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9 im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGG und § 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
 
 ## Arbeitsbereich
 
-Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: software-mna-dd
-description: "Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software M&A Due Diligence
 
 ## Arbeitsbereich
 
-Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

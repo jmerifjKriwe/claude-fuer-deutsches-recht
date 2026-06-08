@@ -1,13 +1,13 @@
 ---
 name: adequate-protection
-description: "Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Adequate Protection
 
 ## Arbeitsbereich
 
-Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

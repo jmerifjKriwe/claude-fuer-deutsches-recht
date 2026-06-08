@@ -1,13 +1,13 @@
 ---
 name: laenderrecht-und-rechtszersplitterung
-description: "Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Länderrecht und Rechtszersplitterung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

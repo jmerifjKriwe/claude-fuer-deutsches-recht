@@ -7,7 +7,7 @@ description: "PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffu
 
 ## Arbeitsbereich
 
-PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

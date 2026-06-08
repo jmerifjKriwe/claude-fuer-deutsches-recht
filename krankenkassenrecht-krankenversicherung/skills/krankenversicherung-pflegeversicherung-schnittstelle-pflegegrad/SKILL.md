@@ -7,7 +7,7 @@ description: "Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Kranken
 
 ## Arbeitsbereich
 
-Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

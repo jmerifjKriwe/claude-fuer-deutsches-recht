@@ -1,13 +1,13 @@
 ---
 name: protokoll-mitgliederversammlung
-description: "Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Protokoll Mitgliederversammlung
 
 ## Arbeitsbereich
 
-Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

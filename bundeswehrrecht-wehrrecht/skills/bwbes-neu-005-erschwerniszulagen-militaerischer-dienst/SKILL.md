@@ -1,13 +1,13 @@
 ---
 name: bwbes-neu-005-erschwerniszulagen-militaerischer-dienst
-description: "Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erschwerniszulagen für militärischen Dienst
 
 ## Arbeitsbereich
 
-Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

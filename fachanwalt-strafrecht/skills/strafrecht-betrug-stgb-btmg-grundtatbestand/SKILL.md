@@ -7,7 +7,7 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 
 ## Arbeitsbereich
 
-**Betrug Stgb Btmg Grundtatbestand** ordnet den Fall über die tragenden Prüfungslinien: Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Betrug Stgb Btmg Grundtatbestand** ordnet den Fall über die tragenden Prüfungslinien: Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

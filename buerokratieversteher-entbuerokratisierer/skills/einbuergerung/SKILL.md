@@ -1,13 +1,13 @@
 ---
 name: einbuergerung
-description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einbürgerung
 
 ## Arbeitsbereich
 
-Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

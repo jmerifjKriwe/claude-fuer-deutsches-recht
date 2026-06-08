@@ -7,7 +7,7 @@ description: "Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, I
 
 ## Arbeitsbereich
 
-Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

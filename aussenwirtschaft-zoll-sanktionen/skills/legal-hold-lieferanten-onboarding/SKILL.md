@@ -7,7 +7,7 @@ description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sa
 
 ## Arbeitsbereich
 
-Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behörden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behörden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schranken-zitat-unterricht
-description: "Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schranken: Zitat, Unterricht und Wissenschaft
 
 ## Arbeitsbereich
 
-Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

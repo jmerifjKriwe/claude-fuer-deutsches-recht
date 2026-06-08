@@ -1,13 +1,13 @@
 ---
 name: chronologie-fuer-behoerde
-description: "Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chronologie für Behörde
 
 ## Arbeitsbereich
 
-Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

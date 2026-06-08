@@ -7,7 +7,7 @@ description: "Dworkin LAW Fallnarrativ Tatsachen im Rechtstheorie und Rechtsphil
 
 ## Arbeitsbereich
 
-**Dworkin LAW Fallnarrativ Tatsachen** ordnet den Fall über die tragenden Prüfungslinien: Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Dworkin LAW Fallnarrativ Tatsachen** ordnet den Fall über die tragenden Prüfungslinien: Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -68,7 +68,7 @@ Erzeuge eine `Fit/Justification-Matrix` mit These, Normtext, Präjudiz, Prinzip,
 ### Fallnarrativ, Tatsachen, Beweis
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fallnarrativ, Tatsachen, Beweis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fallnarrativ, Tatsachen, Beweis` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -117,7 +117,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 ### Formalismus und Begriffszauber
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formalismus und Begriffszauber` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formalismus und Begriffszauber` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.

@@ -7,7 +7,7 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 
 ## Arbeitsbereich
 
-**Joint Controller Controllership KI Verordnung** ordnet den Fall über die tragenden Prüfungslinien: Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Joint Controller Controllership KI Verordnung** ordnet den Fall über die tragenden Prüfungslinien: Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

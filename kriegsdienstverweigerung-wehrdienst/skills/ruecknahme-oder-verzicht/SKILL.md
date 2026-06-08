@@ -1,13 +1,13 @@
 ---
 name: ruecknahme-oder-verzicht
-description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rücknahme oder Verzicht
 
 ## Arbeitsbereich
 
-Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

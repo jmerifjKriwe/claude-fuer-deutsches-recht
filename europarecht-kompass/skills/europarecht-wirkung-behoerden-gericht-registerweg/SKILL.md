@@ -1,6 +1,6 @@
 ---
 name: europarecht-wirkung-behoerden-gericht-registerweg
-description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirkung Behörden Gericht Registerweg

@@ -1,13 +1,13 @@
 ---
 name: datenbank-dataset-rechte
-description: "Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbanken, Datasets und Trainingskorpora
 
 ## Arbeitsbereich
 
-Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

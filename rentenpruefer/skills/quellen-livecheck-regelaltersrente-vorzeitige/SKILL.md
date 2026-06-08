@@ -1,13 +1,13 @@
 ---
 name: quellen-livecheck-regelaltersrente-vorzeitige
-description: "Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # quellen-livecheck-rentenrecht
 
 ## Arbeitsbereich
 
-Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

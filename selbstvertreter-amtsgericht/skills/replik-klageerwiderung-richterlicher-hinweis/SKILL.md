@@ -7,7 +7,7 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüfungslinien: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüfungslinien: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: altersrente-langjaehrig-besonders-langjaehrig
-description: "Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # altersrente-langjaehrig-besonders-langjaehrig
 
 ## Arbeitsbereich
 
-Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

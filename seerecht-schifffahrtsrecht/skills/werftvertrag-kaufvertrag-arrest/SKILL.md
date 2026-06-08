@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-kaufvertrag-arrest
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel scopet Kaufvertrag für Neubauprojekt unter Werftvertrag: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel scopet Kaufvertrag für Neubauprojekt unter Werftvertrag: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel scopet Kaufvertrag für Neubauprojekt unter Werftvertrag: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel scopet Kaufvertrag für Neubauprojekt unter Werftvertrag: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

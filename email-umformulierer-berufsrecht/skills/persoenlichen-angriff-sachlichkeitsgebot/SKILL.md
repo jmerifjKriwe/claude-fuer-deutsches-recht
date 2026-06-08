@@ -1,13 +1,13 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren) im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Persönlichen Angriff entschärfen
 
 ## Arbeitsbereich
 
-Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

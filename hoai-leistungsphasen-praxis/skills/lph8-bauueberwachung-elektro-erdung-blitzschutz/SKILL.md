@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-elektro-erdung-blitzschutz
-description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Elektro Erdung und Blitzschutz
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

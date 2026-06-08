@@ -1,13 +1,13 @@
 ---
 name: koalitions-listenverbindung-kommunalmandat
-description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kooperationen und Listenverbindungen
 
 ## Arbeitsbereich
 
-Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

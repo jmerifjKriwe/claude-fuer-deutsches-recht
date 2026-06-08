@@ -1,13 +1,13 @@
 ---
 name: handelsbuecher-paragraph-handelsgeschaefte
-description: "Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsbücher § 238 HGB
 
 ## Arbeitsbereich
 
-Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: stadtrecht-und-handelsstaedte
-description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stadtrecht und Handelsstaedte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

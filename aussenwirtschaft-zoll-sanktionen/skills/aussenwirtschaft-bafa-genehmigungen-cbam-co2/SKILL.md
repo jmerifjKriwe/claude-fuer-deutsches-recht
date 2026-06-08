@@ -7,7 +7,7 @@ description: "BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontroll
 
 ## Arbeitsbereich
 
-BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

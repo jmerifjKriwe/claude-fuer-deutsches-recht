@@ -1,13 +1,13 @@
 ---
 name: luftfracht-register-auswerten
-description: "Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfracht – Register auswerten
 
 ## Arbeitsbereich
 
-Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rueckrufpflicht-safety-gate
-description: "Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rückrufpflicht und Safety Gate
 
 ## Arbeitsbereich
 
-Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

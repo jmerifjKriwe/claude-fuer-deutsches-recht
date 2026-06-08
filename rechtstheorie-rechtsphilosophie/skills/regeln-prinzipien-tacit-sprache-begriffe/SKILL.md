@@ -7,7 +7,7 @@ description: "Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rech
 
 ## Arbeitsbereich
 
-**Regeln Prinzipien Tacit Sprache Begriffe** ordnet den Fall über die tragenden Prüfungslinien: Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Regeln Prinzipien Tacit Sprache Begriffe** ordnet den Fall über die tragenden Prüfungslinien: Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Regeln, Prinzipien und Abwägung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, Prinzipien und Abwägung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, Prinzipien und Abwägung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -116,7 +116,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 ### Regeln, stilles Wissen und kognitive Entlastung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, stilles Wissen und kognitive Entlastung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, stilles Wissen und kognitive Entlastung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -179,7 +179,7 @@ Gib eine Regelwissen-Analyse aus:
 ### Sprache, Begriffe und Fiktionen
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sprache, Begriffe und Fiktionen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sprache, Begriffe und Fiktionen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.

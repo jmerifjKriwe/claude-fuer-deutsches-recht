@@ -1,13 +1,13 @@
 ---
 name: stil-und-ton-juristische-texte
-description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stil und Ton juristischer Texte
 
 ## Arbeitsbereich
 
-Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

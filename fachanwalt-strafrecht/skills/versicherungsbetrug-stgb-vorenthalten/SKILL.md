@@ -7,7 +7,7 @@ description: "Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Versicherungsbetrug Stgb Vorenthalten** ordnet den Fall über die tragenden Prüfungslinien: Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Versicherungsbetrug Stgb Vorenthalten** ordnet den Fall über die tragenden Prüfungslinien: Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

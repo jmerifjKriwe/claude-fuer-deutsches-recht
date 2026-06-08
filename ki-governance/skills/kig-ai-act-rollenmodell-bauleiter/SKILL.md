@@ -1,13 +1,13 @@
 ---
 name: kig-ai-act-rollenmodell-bauleiter
-description: "Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster für Identifikation und Pflichtenkatalog je Rolle im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster für Identifikation und Pflichtenkatalog je Rolle im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KIG: AI-Act-Rollenmodell
 
 ## Arbeitsbereich
 
-Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster für Identifikation und Pflichtenkatalog je Rolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster für Identifikation und Pflichtenkatalog je Rolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

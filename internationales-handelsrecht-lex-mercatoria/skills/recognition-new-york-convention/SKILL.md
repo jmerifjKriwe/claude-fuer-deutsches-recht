@@ -1,13 +1,13 @@
 ---
 name: recognition-new-york-convention
-description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # New York Convention 1958: Anerkennung und Vollstreckung
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

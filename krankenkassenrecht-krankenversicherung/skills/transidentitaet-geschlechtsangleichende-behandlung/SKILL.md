@@ -7,7 +7,7 @@ description: "GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Horm
 
 ## Arbeitsbereich
 
-GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

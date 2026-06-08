@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-recherche-strategie
-description: "Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsprechung-Recherche-Strategie
 
 ## Arbeitsbereich
 
-Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

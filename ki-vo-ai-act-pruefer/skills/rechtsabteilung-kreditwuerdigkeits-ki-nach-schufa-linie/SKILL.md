@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie
-description: "Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Kreditwürdigkeits-KI nach Schufa-Linie
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

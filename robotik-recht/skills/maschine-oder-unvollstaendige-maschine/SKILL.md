@@ -1,13 +1,13 @@
 ---
 name: maschine-oder-unvollstaendige-maschine
-description: "Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maschine oder unvollständige Maschine
 
 ## Arbeitsbereich
 
-Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

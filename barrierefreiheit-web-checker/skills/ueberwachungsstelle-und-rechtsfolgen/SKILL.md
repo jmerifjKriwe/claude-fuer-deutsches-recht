@@ -1,13 +1,13 @@
 ---
 name: ueberwachungsstelle-und-rechtsfolgen
-description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ueberwachung und Rechtsfolgen
 
 ## Arbeitsbereich
 
-Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

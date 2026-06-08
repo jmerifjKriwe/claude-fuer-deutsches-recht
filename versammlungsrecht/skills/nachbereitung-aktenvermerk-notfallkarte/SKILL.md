@@ -1,13 +1,13 @@
 ---
 name: nachbereitung-aktenvermerk-notfallkarte
-description: "Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nach der Versammlung ist die Akte noch nicht fertig
 
 ## Arbeitsbereich
 
-Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

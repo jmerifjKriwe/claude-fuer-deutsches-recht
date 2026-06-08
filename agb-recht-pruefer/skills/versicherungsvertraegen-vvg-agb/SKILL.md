@@ -1,13 +1,13 @@
 ---
 name: versicherungsvertraegen-vvg-agb
-description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Bei Versicherungsvertraegen Vvg
 
 ## Arbeitsbereich
 
-AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

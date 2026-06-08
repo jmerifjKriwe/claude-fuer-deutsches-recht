@@ -1,13 +1,13 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing
 
 ## Arbeitsbereich
 
-Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

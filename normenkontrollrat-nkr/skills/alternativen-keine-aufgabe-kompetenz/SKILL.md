@@ -1,13 +1,13 @@
 ---
 name: alternativen-keine-aufgabe-kompetenz
-description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug
 
 ## Arbeitsbereich
 
-Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

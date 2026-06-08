@@ -7,7 +7,7 @@ description: "PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR im Preußisch
 
 ## Arbeitsbereich
 
-PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

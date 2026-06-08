@@ -7,7 +7,7 @@ description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucheri
 
 ## Arbeitsbereich
 
-**Anlagenpaket Antrag Insolvenzgericht Arbeit** ordnet den Fall über die tragenden Prüfungslinien: Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anlagenpaket Antrag Insolvenzgericht Arbeit** ordnet den Fall über die tragenden Prüfungslinien: Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

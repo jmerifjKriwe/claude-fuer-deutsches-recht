@@ -1,13 +1,13 @@
 ---
 name: charterparty-hypothek-bestellen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Charterparty – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

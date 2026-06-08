@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-fotoanalyse-baustellen-drohne
-description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

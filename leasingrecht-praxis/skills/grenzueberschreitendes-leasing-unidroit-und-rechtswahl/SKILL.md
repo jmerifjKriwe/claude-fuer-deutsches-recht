@@ -1,13 +1,13 @@
 ---
 name: grenzueberschreitendes-leasing-unidroit-und-rechtswahl
-description: "Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
 
 ## Arbeitsbereich
 
-Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

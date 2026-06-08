@@ -1,13 +1,13 @@
 ---
 name: repeat-infringer-policy-512
-description: "Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Repeat Infringer Policy
 
 ## Arbeitsbereich
 
-Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

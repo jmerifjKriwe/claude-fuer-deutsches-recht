@@ -1,13 +1,13 @@
 ---
 name: confirmation-1129
-description: "Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Confirmation § 1129
 
 ## Arbeitsbereich
 
-Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

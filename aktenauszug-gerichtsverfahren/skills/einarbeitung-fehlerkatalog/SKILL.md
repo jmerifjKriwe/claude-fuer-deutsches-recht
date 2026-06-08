@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Aktenauszug Gerichtsverfahren** Ergebni
 
 ## Fachspezifische Fehlerachsen
 
-- `aktenauszug-strukturpruefung-akzg-bauleiter-vertraulichkeit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `akzg-zeitstrahl-anlagenverzeichnis-extrakt-anwaltsschriftsatz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anwaltsschriftsatz-beweislast-beweismittel-interessen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `arbeitsgerichtsverfahren-modus-terminkalender`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beweismittel-gegenueberstellung-einleitungssatz-generator`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstellen-fristennotiz-gerichtsverfahren-verfahrensgeschichte`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegenueberstellung-parteivortraege-rechtsargumente`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `parteivortrag-gegenueberstellung-rechtsargumente`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `sachverhaltschronologie-textbausteine-schnelle-stilrichtlinie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `aktenauszug-strukturpruefung-akzg-bauleiter-vertraulichkeit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `akzg-zeitstrahl-anlagenverzeichnis-extrakt-anwaltsschriftsatz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anwaltsschriftsatz-beweislast-beweismittel-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `arbeitsgerichtsverfahren-modus-terminkalender`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beweismittel-gegenueberstellung-einleitungssatz-generator`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstellen-fristennotiz-gerichtsverfahren-verfahrensgeschichte`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegenueberstellung-parteivortraege-rechtsargumente`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `parteivortrag-gegenueberstellung-rechtsargumente`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `sachverhaltschronologie-textbausteine-schnelle-stilrichtlinie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

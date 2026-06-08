@@ -1,13 +1,13 @@
 ---
 name: landlord-tenant-retail
-description: "Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landlord Tenant and Retail Bankruptcy
 
 ## Arbeitsbereich
 
-Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

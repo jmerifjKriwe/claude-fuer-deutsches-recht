@@ -1,13 +1,13 @@
 ---
 name: taeuschung-und-plagiat
-description: "Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Taeuschung Und Plagiat
 
 ## Arbeitsbereich
 
-Prüft Täuschung, Plagiat und Sanktionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Täuschung, Plagiat und Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

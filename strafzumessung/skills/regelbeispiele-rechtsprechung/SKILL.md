@@ -1,13 +1,13 @@
 ---
 name: regelbeispiele-rechtsprechung
-description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Regelbeispiele in der Strafzumessung
 
 ## Arbeitsbereich
 
-Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: litigation-eilverfahren-produkthaftung
-description: "Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Litigation Und Eilverfahren Fashion
 
 ## Arbeitsbereich
 
-Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: checkliste-nach-antrag
-description: "Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Checkliste nach Antrag
 
 ## Arbeitsbereich
 
-Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

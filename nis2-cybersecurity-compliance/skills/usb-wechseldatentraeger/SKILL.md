@@ -1,13 +1,13 @@
 ---
 name: usb-wechseldatentraeger
-description: "Prüft USB-Sticks, externe Platten und Wechseldatenträger im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft USB-Sticks, externe Platten und Wechseldatenträger im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # USB Wechseldatentraeger
 
 ## Arbeitsbereich
 
-Prüft USB-Sticks, externe Platten und Wechseldatenträger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft USB-Sticks, externe Platten und Wechseldatenträger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

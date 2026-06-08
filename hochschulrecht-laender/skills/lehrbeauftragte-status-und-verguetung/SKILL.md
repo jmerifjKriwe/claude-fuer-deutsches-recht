@@ -1,13 +1,13 @@
 ---
 name: lehrbeauftragte-status-und-verguetung
-description: "Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lehrbeauftragte Status und Vergütung
 
 ## Arbeitsbereich
 
-Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

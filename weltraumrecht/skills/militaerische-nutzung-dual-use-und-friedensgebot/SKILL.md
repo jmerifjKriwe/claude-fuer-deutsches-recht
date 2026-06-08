@@ -1,13 +1,13 @@
 ---
 name: militaerische-nutzung-dual-use-und-friedensgebot
-description: "Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot
 
 ## Arbeitsbereich
 
-Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

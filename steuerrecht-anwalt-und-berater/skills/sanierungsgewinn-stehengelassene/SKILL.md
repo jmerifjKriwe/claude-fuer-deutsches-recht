@@ -152,7 +152,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 
 ### 4.2 Steuererklaerung als Vollzugshindernis
 
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783: Loeschung erst nach Anmeldung Abschluss Liquidation; offene Steuererklaerung als Hinderungsgrund.
+- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166**: Loeschung erst nach Anmeldung Abschluss Liquidation; offene Steuererklaerung als Hinderungsgrund.
 - **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**: Aussicht auf Steuerrueckerstattung als Hinderungsgrund.
 - **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**: wie OLG Jena 6 W 506/14.
 - **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
@@ -160,7 +160,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 
 ### 4.3 Wann ist die Loeschung trotzdem moeglich?
 
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
+- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermoegenslosigkeit nicht durch theoretische Festsetzungsfrist-Aenderung gehindert.
 
 **Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klaeren, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung moeglich.
@@ -204,7 +204,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 - **§ 272 Abs. 2 Nr. 4 HGB** Einlage in freie Kapitalruecklage durch Gesellschafterin, anschliessend Tilgung des Darlehens aus den Mitteln.
 - Hochrisiko: **§ 42 AO Gestaltungsmissbrauch**.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
 
 ## 7. Quellenpflicht
 
@@ -346,9 +346,9 @@ Andere Plugins:
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskraeftig.
 - **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung und Definitiveffekt; Rev. anh. BFH I R 36/18.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783.
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**.
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
+- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166**.
+- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**.
 - **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**.
 - **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**.

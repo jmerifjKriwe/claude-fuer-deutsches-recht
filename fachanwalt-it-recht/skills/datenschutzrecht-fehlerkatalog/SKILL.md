@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt It Recht** Ergebnisse vor Ab
 
 ## Fachspezifische Fehlerachsen
 
-- `dma-dsa-dsgvo-fachanwalt-governance`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-aufnahme-dsv-benachrichtigung-dsv-benachrichtigung-dsv`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-dsfa-update-erstgespraech-vorfallmeldung-eskalationsmatrix`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-kinderdaten-besondere-kommunikationssperre-lead-authority`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-massenbenachrichtigung-dsv-meldekette-dsv-meldung-dsv`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-meldung-baylda-bfdi-bln-bdi-hbdi-hmbbfdi`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-meldung-lda-ldi-nrw-lfd-niedersachsen-sachsen-anhalt-lfdi`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-meldung-lfdi-mv-rlp-saarland-saechsdsb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-meldung-tlfdi-uld-sh-nachmeldung-aktualisierung-enisa`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsv-pressemitteilung-krisenkommunikation-sammelklagen-vvt-update`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `dma-dsa-dsgvo-fachanwalt-governance`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-aufnahme-dsv-benachrichtigung-dsv-benachrichtigung-dsv`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-dsfa-update-erstgespraech-vorfallmeldung-eskalationsmatrix`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-kinderdaten-besondere-kommunikationssperre-lead-authority`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-massenbenachrichtigung-dsv-meldekette-dsv-meldung-dsv`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-meldung-baylda-bfdi-bln-bdi-hbdi-hmbbfdi`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-meldung-lda-ldi-nrw-lfd-niedersachsen-sachsen-anhalt-lfdi`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-meldung-lfdi-mv-rlp-saarland-saechsdsb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-meldung-tlfdi-uld-sh-nachmeldung-aktualisierung-enisa`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsv-pressemitteilung-krisenkommunikation-sammelklagen-vvt-update`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

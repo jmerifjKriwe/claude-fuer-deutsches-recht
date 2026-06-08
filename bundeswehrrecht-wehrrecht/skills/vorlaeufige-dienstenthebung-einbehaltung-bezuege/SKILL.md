@@ -1,13 +1,13 @@
 ---
 name: vorlaeufige-dienstenthebung-einbehaltung-bezuege
-description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen
 
 ## Arbeitsbereich
 
-Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

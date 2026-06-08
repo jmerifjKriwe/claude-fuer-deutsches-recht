@@ -7,7 +7,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 ## Arbeitsbereich
 
-**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüfungslinien: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüfungslinien: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

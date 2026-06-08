@@ -1,13 +1,13 @@
 ---
 name: lph-01-nachtrag-und-change-request
-description: "HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 1 Grundlagenermittlung: Erkennt planungsänderung
 
 ## Arbeitsbereich
 
-HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

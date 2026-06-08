@@ -1,13 +1,13 @@
 ---
 name: agb-auskunft-rechnungslegung
-description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
 ## Arbeitsbereich
 
-Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-gewerbehalle-stahlbau
-description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

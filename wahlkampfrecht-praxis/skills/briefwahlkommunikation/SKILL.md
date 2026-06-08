@@ -1,13 +1,13 @@
 ---
 name: briefwahlkommunikation
-description: "Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Briefwahlkommunikation
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

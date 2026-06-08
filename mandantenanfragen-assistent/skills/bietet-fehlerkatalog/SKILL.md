@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Mandantenanfragen Assistent** Ergebniss
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anrede-anwaltskanzleien-bittet`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dankt-dsgvo-sonderfall-e-mail`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dringlichkeitsmarker-einwilligung-hinweis-erstantwort-generator`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstantwort-foermlich-mail`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `folgekorrespondenz-vorbereiten-konfliktcheck-vorab-ma`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ma-einfuehrung-ma-erstvermerk-ma-konfliktcheck`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ma-mandant-manda-erstgespraechsleitfaden-manda-erstkontakt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `manda-mandatsablehnung-rechtsschutz-eintrittsanfrage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mandantenanfragen-anfrage-eingang-anrede-uebernehmen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anrede-anwaltskanzleien-bittet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dankt-dsgvo-sonderfall-e-mail`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dringlichkeitsmarker-einwilligung-hinweis-erstantwort-generator`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstantwort-foermlich-mail`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `folgekorrespondenz-vorbereiten-konfliktcheck-vorab-ma`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ma-einfuehrung-ma-erstvermerk-ma-konfliktcheck`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ma-mandant-manda-erstgespraechsleitfaden-manda-erstkontakt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `manda-mandatsablehnung-rechtsschutz-eintrittsanfrage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mandantenanfragen-anfrage-eingang-anrede-uebernehmen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

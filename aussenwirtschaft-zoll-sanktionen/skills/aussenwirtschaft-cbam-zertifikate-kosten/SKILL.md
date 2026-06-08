@@ -7,7 +7,7 @@ description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung d
 
 ## Arbeitsbereich
 
-Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Beschaffungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Beschaffungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

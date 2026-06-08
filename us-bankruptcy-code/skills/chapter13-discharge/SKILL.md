@@ -1,13 +1,13 @@
 ---
 name: chapter13-discharge
-description: "Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 13 Discharge
 
 ## Arbeitsbereich
 
-Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

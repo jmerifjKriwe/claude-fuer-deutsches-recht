@@ -1,13 +1,13 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung
 
 ## Arbeitsbereich
 
-Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

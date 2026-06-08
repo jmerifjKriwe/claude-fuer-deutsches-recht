@@ -29,16 +29,16 @@ Dieser Fehlerkatalog prüft im Bereich **Methodenlehre Buergerliches Recht** Erg
 
 ## Fachspezifische Fehlerachsen
 
-- `abwaegung-gewichtung-intensitaet`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `abwaegung-material-abwaegungslast-non-argumentum-figuren`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `abwaegung-material-auswahl`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `abwaegungslast-non-liquet`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `abwaegungszuständigkeit-institutionen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `analogie-und-teleologische-reduktion`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `auslegung-rechtsfortbildung-grenzprotokoll`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abwaegung-gewichtung-intensitaet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abwaegung-material-abwaegungslast-non-argumentum-figuren`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abwaegung-material-auswahl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abwaegungslast-non-liquet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abwaegungszuständigkeit-institutionen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `analogie-und-teleologische-reduktion`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `argumentum-figuren-e-contrario-a-maiore-a-fortiori`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `auslegung-rechtsfortbildung-grenzprotokoll`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

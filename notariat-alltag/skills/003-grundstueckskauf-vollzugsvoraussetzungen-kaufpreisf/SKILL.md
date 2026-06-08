@@ -1,13 +1,13 @@
 ---
 name: 003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf
-description: "Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

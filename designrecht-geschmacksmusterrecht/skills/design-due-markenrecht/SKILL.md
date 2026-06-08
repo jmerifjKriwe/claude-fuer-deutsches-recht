@@ -1,13 +1,13 @@
 ---
 name: design-due-markenrecht
-description: "Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Design Due Diligence Ma
 
 ## Arbeitsbereich
 
-Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

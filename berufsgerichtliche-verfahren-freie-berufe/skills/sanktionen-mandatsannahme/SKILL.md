@@ -1,13 +1,13 @@
 ---
 name: sanktionen-mandatsannahme
-description: "Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionen und Mandatsannahme: Präventions- und Organisationspaket
 
 ## Arbeitsbereich
 
-Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

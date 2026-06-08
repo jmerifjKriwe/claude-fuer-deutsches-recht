@@ -1,13 +1,13 @@
 ---
 name: verfassungsgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungsgerichtsbarkeit Geschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

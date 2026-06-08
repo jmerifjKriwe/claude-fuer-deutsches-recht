@@ -1,13 +1,13 @@
 ---
 name: iban-name-check-verification-payee
-description: "Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IBAN-Name-Check
 
 ## Arbeitsbereich
 
-Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

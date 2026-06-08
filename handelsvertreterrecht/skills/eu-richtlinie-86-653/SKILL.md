@@ -1,13 +1,13 @@
 ---
 name: eu-richtlinie-86-653
-description: "Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB
 
 ## Arbeitsbereich
 
-Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

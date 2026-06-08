@@ -1,13 +1,13 @@
 ---
 name: anzv-kwg-anzeigenkalender-bafin-bundesbank
-description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 
 ## Arbeitsbereich
 
-AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

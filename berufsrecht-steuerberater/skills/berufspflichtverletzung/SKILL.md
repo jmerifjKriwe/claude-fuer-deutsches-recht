@@ -1,13 +1,13 @@
 ---
 name: berufspflichtverletzung
-description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufspflichtverletzung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufspflichtverletzung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufspflichtverletzung
 
 ## Arbeitsbereich
 
-Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufspflichtverletzung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufspflichtverletzung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

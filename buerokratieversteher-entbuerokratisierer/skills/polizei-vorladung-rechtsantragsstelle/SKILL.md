@@ -1,13 +1,13 @@
 ---
 name: polizei-vorladung-rechtsantragsstelle
-description: "Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei-Vorladung als Zeuge
 
 ## Arbeitsbereich
 
-Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

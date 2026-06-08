@@ -1,13 +1,13 @@
 ---
 name: negative-campaigning-grenzen
-description: "Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Negative Campaigning Grenzen
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

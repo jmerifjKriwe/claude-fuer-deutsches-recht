@@ -1,13 +1,13 @@
 ---
 name: verlags-batchplan-serien-und-backlist
-description: "Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verlags-Batchplan, Serien und Backlist
 
 ## Arbeitsbereich
 
-Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

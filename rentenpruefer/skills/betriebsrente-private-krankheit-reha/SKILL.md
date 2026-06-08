@@ -1,13 +1,13 @@
 ---
 name: betriebsrente-private-krankheit-reha
-description: "Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # betriebsrente-und-private-vorsorge-schnittstelle
 
 ## Arbeitsbereich
 
-Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

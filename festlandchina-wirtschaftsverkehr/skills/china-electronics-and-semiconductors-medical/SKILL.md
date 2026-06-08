@@ -1,13 +1,13 @@
 ---
 name: china-electronics-and-semiconductors-medical
-description: "Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung
 
 ## Arbeitsbereich
 
-Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-provider-deployer-grenze-bei-custom-gpt
-description: "Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

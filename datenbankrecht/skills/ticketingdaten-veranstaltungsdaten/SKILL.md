@@ -1,13 +1,13 @@
 ---
 name: ticketingdaten-veranstaltungsdaten
-description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
 
 ## Arbeitsbereich
 
-Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

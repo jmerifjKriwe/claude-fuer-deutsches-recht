@@ -7,7 +7,7 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüfungslinien: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüfungslinien: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

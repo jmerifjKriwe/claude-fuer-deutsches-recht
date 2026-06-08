@@ -7,7 +7,7 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Klage Vereinfachtes Klageerwiderung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Klage Vereinfachtes Klageerwiderung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

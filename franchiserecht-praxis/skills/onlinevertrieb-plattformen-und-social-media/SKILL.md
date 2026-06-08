@@ -1,13 +1,13 @@
 ---
 name: onlinevertrieb-plattformen-und-social-media
-description: "Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Online-Vertrieb, Plattformen und Social Media
 
 ## Arbeitsbereich
 
-Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

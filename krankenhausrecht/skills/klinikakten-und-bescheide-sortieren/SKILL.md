@@ -1,13 +1,13 @@
 ---
 name: klinikakten-und-bescheide-sortieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klinikakten und Bescheide sortieren
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

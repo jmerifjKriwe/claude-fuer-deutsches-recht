@@ -1,13 +1,13 @@
 ---
 name: pensionsmodelle-fuenf-bav-cta-pensionsfond
-description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
 ## Arbeitsbereich
 
-Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

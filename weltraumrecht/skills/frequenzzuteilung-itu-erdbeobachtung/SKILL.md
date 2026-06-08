@@ -1,13 +1,13 @@
 ---
 name: frequenzzuteilung-itu-erdbeobachtung
-description: "Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Frequenzzuteilung: ITU, Bundesnetzagentur und Interferenz
 
 ## Arbeitsbereich
 
-Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

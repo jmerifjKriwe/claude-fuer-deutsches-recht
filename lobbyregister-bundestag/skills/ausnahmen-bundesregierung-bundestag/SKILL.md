@@ -1,13 +1,13 @@
 ---
 name: ausnahmen-bundesregierung-bundestag
-description: "Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausnahmen Bundesregierung
 
 ## Arbeitsbereich
 
-Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph-outputpaket-planfreigabe
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Liefert alle dokumente
 
 ## Arbeitsbereich
 
-HOAI LPH 7 Mitwirkung bei der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 7 Mitwirkung bei der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

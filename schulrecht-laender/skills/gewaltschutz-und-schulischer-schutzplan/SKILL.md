@@ -1,13 +1,13 @@
 ---
 name: gewaltschutz-und-schulischer-schutzplan
-description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gewaltschutz und schulischer Schutzplan
 
 ## Arbeitsbereich
 
-Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: europa-menschenrechte-familie-partnerschaft
-description: "Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Europa und Menschenrechte
 
 ## Arbeitsbereich
 
-Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

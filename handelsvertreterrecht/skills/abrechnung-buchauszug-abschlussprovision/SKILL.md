@@ -1,13 +1,13 @@
 ---
 name: abrechnung-buchauszug-abschlussprovision
-description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB
 
 ## Arbeitsbereich
 
-Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

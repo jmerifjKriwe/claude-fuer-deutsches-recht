@@ -1,13 +1,13 @@
 ---
 name: cloud-plattform-schule-m365
-description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cloud-Plattform Schule und M365
 
 ## Arbeitsbereich
 
-Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

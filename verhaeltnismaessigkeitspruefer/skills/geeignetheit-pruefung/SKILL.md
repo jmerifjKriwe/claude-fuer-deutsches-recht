@@ -3,6 +3,8 @@ name: geeignetheit-pruefung
 description: Stufe 2 der Verhaeltnismaessigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen.
 ---
 
+# Geeignetheit Pruefung
+
 ## Massstab
 
 Das Mittel muss den Zweck **foerdern koennen**. Nicht erforderlich ist,

@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-rechtsprechungsrecherche
-description: "Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsprechungsrecherche im Strafbefehlsverfahren
 
 ## Arbeitsbereich
 
-Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

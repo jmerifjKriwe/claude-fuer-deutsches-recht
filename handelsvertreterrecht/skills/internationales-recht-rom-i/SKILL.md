@@ -1,13 +1,13 @@
 ---
 name: internationales-recht-rom-i
-description: "Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung
 
 ## Arbeitsbereich
 
-Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

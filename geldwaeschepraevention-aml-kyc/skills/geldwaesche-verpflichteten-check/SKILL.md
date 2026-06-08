@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-verpflichteten-check
-description: "Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verpflichtetenstatus nach GwG
 
 ## Arbeitsbereich
 
-Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

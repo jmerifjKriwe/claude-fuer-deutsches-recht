@@ -1,13 +1,13 @@
 ---
 name: rentier-rechtsanwalt-spezial
-description: "Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einzelanwalt-Spezial
 
 ## Arbeitsbereich
 
-Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

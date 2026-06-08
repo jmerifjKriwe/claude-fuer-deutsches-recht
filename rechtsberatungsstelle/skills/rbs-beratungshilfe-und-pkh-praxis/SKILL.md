@@ -1,13 +1,13 @@
 ---
 name: rbs-beratungshilfe-und-pkh-praxis
-description: "Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rbs: Beratungshilfe-Praxis
 
 ## Arbeitsbereich
 
-Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

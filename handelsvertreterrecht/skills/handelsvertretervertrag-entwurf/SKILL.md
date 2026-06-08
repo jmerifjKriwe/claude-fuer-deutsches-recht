@@ -1,13 +1,13 @@
 ---
 name: handelsvertretervertrag-entwurf
-description: "Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertretervertrag — Entwurf und Verhandlung nach §§ 84 bis 92c HGB
 
 ## Arbeitsbereich
 
-Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

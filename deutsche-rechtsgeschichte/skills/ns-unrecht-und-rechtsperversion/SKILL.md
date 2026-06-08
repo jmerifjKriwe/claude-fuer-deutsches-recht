@@ -1,13 +1,13 @@
 ---
 name: ns-unrecht-und-rechtsperversion
-description: "Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NS-Unrecht und Rechtsperversion
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

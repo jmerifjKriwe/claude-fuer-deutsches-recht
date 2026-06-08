@@ -1,13 +1,13 @@
 ---
 name: lksg-complaints-procedure
-description: "LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten
 
 ## Arbeitsbereich
 
-LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

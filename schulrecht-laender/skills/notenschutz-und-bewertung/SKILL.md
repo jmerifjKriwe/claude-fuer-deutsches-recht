@@ -1,13 +1,13 @@
 ---
 name: notenschutz-und-bewertung
-description: "Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notenschutz Und Bewertung
 
 ## Arbeitsbereich
 
-Prüft Notenschutz, Bewertung und Transparenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Notenschutz, Bewertung und Transparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

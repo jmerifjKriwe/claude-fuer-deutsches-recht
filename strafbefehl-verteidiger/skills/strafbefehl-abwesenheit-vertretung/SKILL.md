@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-abwesenheit-vertretung
-description: "Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abwesenheit in der Hauptverhandlung — § 411 Abs. 2 StPO
 
 ## Arbeitsbereich
 
-Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

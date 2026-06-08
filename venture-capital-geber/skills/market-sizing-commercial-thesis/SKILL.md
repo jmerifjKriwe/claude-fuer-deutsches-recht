@@ -7,7 +7,7 @@ description: "Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vert
 
 ## Arbeitsbereich
 
-Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

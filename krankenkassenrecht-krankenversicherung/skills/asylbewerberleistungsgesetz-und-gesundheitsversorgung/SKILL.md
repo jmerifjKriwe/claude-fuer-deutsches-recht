@@ -7,7 +7,7 @@ description: "Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6:
 
 ## Arbeitsbereich
 
-Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6: Anspruchsumfang, Krankenschein, Übergang zu GKV und aktuelle Rechtsentwicklungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6: Anspruchsumfang, Krankenschein, Übergang zu GKV und aktuelle Rechtsentwicklungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

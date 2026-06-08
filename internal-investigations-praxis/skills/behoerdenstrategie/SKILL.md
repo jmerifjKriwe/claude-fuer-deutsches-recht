@@ -1,13 +1,13 @@
 ---
 name: behoerdenstrategie
-description: "Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Behördenstrategie und Self-Reporting
 
 ## Arbeitsbereich
 
-Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

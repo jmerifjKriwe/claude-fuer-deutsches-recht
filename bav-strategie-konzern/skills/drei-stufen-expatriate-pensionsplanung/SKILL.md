@@ -1,13 +1,13 @@
 ---
 name: drei-stufen-expatriate-pensionsplanung
-description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
 
 ## Arbeitsbereich
 
-Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

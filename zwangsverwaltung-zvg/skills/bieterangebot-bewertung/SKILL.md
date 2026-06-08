@@ -1,13 +1,13 @@
 ---
 name: bieterangebot-bewertung
-description: "Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Prüfraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Prüfraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bieterangebot Bewerten
 
 ## Arbeitsbereich
 
-Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Prüfraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung §§ 44 ff. ZVG bestehenbleibende Rechte. Prüfraster Verkehrswert geringstes Gebot Sicherheitsleistung bestehenbleibende Rechte Mietlage Sanierungsrisiko Bietlimit. Output Investoren-Bewertungsreport mit empfohlenem Bietlimit Risikoeinschaetzung und Finanzierungsgrundlage. Abgrenzung zu zvg-versteigerungsteilnahme und zvg-verkauf-versteigerung-schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: planetary-protection-arbeitsrecht
-description: "Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Planetary Protection: Kontaminationsvermeidung
 
 ## Arbeitsbereich
 
-Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

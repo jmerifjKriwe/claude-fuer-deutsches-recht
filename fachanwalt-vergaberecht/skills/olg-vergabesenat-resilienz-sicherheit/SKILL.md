@@ -7,7 +7,7 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 ## Arbeitsbereich
 
-**OLG Vergabesenat Resilienz Sicherheit** ordnet den Fall über die tragenden Prüfungslinien: OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**OLG Vergabesenat Resilienz Sicherheit** ordnet den Fall über die tragenden Prüfungslinien: OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

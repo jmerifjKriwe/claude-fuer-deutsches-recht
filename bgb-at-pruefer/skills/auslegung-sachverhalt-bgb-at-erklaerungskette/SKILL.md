@@ -1,13 +1,13 @@
 ---
 name: auslegung-sachverhalt-bgb-at-erklaerungskette
-description: "Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
 
 ## Arbeitsbereich
 
-Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

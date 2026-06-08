@@ -1,13 +1,13 @@
 ---
 name: manda-mandatsablehnung-rechtsschutz
-description: "Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster für Risk-and-Compliance im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster für Risk-and-Compliance im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manda: Mandatsablehnung COI
 
 ## Arbeitsbereich
 
-Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster für Risk-and-Compliance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster für Risk-and-Compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

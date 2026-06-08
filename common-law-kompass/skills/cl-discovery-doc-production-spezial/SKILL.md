@@ -1,13 +1,13 @@
 ---
 name: cl-discovery-doc-production-spezial
-description: "Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster für deutsche Mandanten in US-Verfahren im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster für deutsche Mandanten in US-Verfahren im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common Law: Discovery-Spezial
 
 ## Arbeitsbereich
 
-Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster für deutsche Mandanten in US-Verfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster für deutsche Mandanten in US-Verfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

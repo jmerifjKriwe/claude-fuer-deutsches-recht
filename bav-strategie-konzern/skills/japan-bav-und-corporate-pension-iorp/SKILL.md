@@ -1,13 +1,13 @@
 ---
 name: japan-bav-und-corporate-pension-iorp
-description: "Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
 
 ## Arbeitsbereich
 
-Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

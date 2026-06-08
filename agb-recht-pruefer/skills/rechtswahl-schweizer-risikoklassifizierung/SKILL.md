@@ -1,13 +1,13 @@
 ---
 name: rechtswahl-schweizer-risikoklassifizierung
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I
 
 ## Arbeitsbereich
 
-Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

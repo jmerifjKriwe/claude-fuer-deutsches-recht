@@ -1,13 +1,13 @@
 ---
 name: dublin-ueberstellung
-description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dublin Ueberstellung
 
 ## Arbeitsbereich
 
-**Dublin Ueberstellung** ordnet den Fall über die tragenden Prüfungslinien: Dublin-Fristen/Überstellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Dublin Ueberstellung** ordnet den Fall über die tragenden Prüfungslinien: Dublin-Fristen/Überstellung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

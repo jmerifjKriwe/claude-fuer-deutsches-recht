@@ -1,13 +1,13 @@
 ---
 name: schutzgegenstand-design-produkt-erscheinungsform
-description: "Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schutzgegenstand Design Produkt Erscheinungsform
 
 ## Arbeitsbereich
 
-Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

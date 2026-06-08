@@ -1,13 +1,13 @@
 ---
 name: raketenstart-exportkontrolle-absturz
-description: "Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raketenstart: Exportkontrolle, Gefahrgut, Luft- und Seerecht
 
 ## Arbeitsbereich
 
-Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

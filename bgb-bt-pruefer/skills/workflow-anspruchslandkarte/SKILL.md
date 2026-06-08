@@ -1,13 +1,13 @@
 ---
 name: workflow-anspruchslandkarte
-description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Anspruchslandkarte BGB BT
 
 ## Arbeitsbereich
 
-Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

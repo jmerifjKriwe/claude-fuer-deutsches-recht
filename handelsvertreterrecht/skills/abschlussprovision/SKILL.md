@@ -1,13 +1,13 @@
 ---
 name: abschlussprovision
-description: "Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
 
 ## Arbeitsbereich
 
-Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

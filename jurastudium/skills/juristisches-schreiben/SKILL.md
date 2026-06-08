@@ -1,13 +1,13 @@
 ---
 name: juristisches-schreiben
-description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Juristische Schreibberatung
 
 ## Arbeitsbereich
 
-Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: trade-finance-sanctions-lc-guarantee
-description: "Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trade Finance Sanktionen
 
 ## Arbeitsbereich
 
-Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

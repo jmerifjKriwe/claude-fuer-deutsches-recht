@@ -1,13 +1,13 @@
 ---
 name: healthcare-target-im-pe-deal
-description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Healthcare-Target im PE-Deal
 
 ## Arbeitsbereich
 
-Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

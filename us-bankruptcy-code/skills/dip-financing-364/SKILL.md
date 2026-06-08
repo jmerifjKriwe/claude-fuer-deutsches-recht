@@ -1,13 +1,13 @@
 ---
 name: dip-financing-364
-description: "Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DIP Financing § 364
 
 ## Arbeitsbereich
 
-Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: umwelt-marpol-itlos-hamburg-dokumenten
-description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung
 
 ## Arbeitsbereich
 
-Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

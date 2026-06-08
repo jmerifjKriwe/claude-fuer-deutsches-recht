@@ -1,13 +1,13 @@
 ---
 name: besold-familienzuschlag-kinder
-description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft
 
 ## Arbeitsbereich
 
-Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

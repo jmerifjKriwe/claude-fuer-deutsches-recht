@@ -7,12 +7,12 @@ description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungs
 
 ## Arbeitsbereich
 
-**SGB SG** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**SGB SG** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-sozialrecht-sgb-ii-bescheid` | Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sozialrecht-sgb-ii-bescheid` | Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung Vergleichsbereitschaft Gericht. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid). |
 | `hilfsmittelantrag-pruefen` | Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad). |
@@ -28,12 +28,12 @@ description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungs
 
 ## 1. `fachanwalt-sozialrecht-sgb-ii-bescheid`
 
-**Fokus:** Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### SGB-II-Bescheid (Bürgergeld)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `SGB-II-Bescheid (Bürgergeld)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `SGB-II-Bescheid (Bürgergeld)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -371,7 +371,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -682,7 +682,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -1040,7 +1040,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Hilfsmittelantrag prüfen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hilfsmittelantrag prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hilfsmittelantrag prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.

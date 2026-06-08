@@ -7,7 +7,7 @@ description: "Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenv
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

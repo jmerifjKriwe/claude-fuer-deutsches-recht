@@ -1,13 +1,13 @@
 ---
 name: werkvertrag-dienstvertrag-software
-description: "Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werkvertrag oder Dienstvertrag Software
 
 ## Arbeitsbereich
 
-Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: foreign-publisher-us-distribution
-description: "Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Foreign Publisher und US Distribution
 
 ## Arbeitsbereich
 
-Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kün
 
 ## Arbeitsbereich
 
-Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

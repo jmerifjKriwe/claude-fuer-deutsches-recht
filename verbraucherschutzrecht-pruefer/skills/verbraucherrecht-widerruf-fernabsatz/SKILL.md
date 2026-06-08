@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-widerruf-fernabsatz
-description: "Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.
 
 ## Arbeitsbereich
 
-Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

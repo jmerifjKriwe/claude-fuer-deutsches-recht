@@ -1,13 +1,13 @@
 ---
 name: bmvg-reservisten
-description: "Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reservistenrecht und Zivilschutzrecht (BMVg)
 
 ## Arbeitsbereich
 
-Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

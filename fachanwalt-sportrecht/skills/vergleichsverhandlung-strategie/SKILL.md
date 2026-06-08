@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung Strategie im Sportrecht im Fachanwalt Sportrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleichsverhandlung Strategie im Sportrecht im Fachanwalt Sportrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleichsverhandlung Strategie

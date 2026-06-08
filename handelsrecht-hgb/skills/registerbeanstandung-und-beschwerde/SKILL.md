@@ -1,13 +1,13 @@
 ---
 name: registerbeanstandung-und-beschwerde
-description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerbeanstandung und Beschwerde
 
 ## Arbeitsbereich
 
-Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

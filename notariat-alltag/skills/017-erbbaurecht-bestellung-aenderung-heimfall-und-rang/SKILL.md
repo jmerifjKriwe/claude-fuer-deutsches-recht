@@ -1,13 +1,13 @@
 ---
 name: 017-erbbaurecht-bestellung-aenderung-heimfall-und-rang
-description: "Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

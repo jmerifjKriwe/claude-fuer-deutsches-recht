@@ -7,7 +7,7 @@ description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft k
 
 ## Arbeitsbereich
 
-**DSGVO Auskunft DSR Betroffenenrechte** ordnet den Fall über die tragenden Prüfungslinien: Auskunftsersuchen nach Art, DSGVO-Auskunftsantwort an Betroffenen vollständig und, Leitfaden Betroffenenrechte-Prozess Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSGVO Auskunft DSR Betroffenenrechte** ordnet den Fall über die tragenden Prüfungslinien: Auskunftsersuchen nach Art, DSGVO-Auskunftsantwort an Betroffenen vollständig und, Leitfaden Betroffenenrechte-Prozess Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

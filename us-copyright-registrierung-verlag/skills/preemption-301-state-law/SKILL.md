@@ -1,13 +1,13 @@
 ---
 name: preemption-301-state-law
-description: "Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Preemption § 301 und State Law
 
 ## Arbeitsbereich
 
-Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

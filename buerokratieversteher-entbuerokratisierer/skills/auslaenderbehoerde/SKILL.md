@@ -1,13 +1,13 @@
 ---
 name: auslaenderbehoerde
-description: "Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausländerbehörde
 
 ## Arbeitsbereich
 
-Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

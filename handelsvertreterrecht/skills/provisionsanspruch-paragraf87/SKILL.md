@@ -1,13 +1,13 @@
 ---
 name: provisionsanspruch-paragraf87
-description: "Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
 ## Arbeitsbereich
 
-Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

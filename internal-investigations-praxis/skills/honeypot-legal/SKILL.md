@@ -1,13 +1,13 @@
 ---
 name: honeypot-legal
-description: "Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Honeypot-Risiko in Internal Investigations
 
 ## Arbeitsbereich
 
-Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

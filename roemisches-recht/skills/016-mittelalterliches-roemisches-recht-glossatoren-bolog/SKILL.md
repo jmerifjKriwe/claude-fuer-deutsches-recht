@@ -1,13 +1,13 @@
 ---
 name: 016-mittelalterliches-roemisches-recht-glossatoren-bolog
-description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Mittelalterliches Roemisches Recht Glossatoren Bolog
 
 ## Arbeitsbereich
 
-Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

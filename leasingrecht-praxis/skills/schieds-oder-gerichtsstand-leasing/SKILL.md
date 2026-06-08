@@ -1,13 +1,13 @@
 ---
 name: schieds-oder-gerichtsstand-leasing
-description: "Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiedsverfahren und Gerichtsstand im Leasingrecht
 
 ## Arbeitsbereich
 
-Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

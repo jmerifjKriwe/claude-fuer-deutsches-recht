@@ -1,13 +1,13 @@
 ---
 name: ohg-vertretung-und-haftung
-description: "Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # OHG Vertretung und Haftung
 
 ## Arbeitsbereich
 
-Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

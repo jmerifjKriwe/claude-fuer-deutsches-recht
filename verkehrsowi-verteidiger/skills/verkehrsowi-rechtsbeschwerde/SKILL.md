@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-rechtsbeschwerde
-description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsbeschwerde im OWi-Verfahren — § 79 OWiG
 
 ## Arbeitsbereich
 
-Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

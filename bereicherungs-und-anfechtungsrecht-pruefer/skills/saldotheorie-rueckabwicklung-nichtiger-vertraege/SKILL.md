@@ -7,7 +7,7 @@ description: "Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, 
 
 ## Arbeitsbereich
 
-Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: dienstpflichten-waehrend-verfahren
-description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstpflichten im Verfahren
 
 ## Arbeitsbereich
 
-Minimiert Disziplinarrisiken während laufendem KDV-Antrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Minimiert Disziplinarrisiken während laufendem KDV-Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Email Umformulierer Berufsrecht** Ergeb
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `email-berufsrecht-berufliche-korrespondenz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemeine-sonderfall-berufsrechtskonform-bora`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anrede-und-grussformeln`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berufliche-fristennotiz-emotionale-steuerberater`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bora-konformitaetspruefung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bora-konformitaetspruefung-brao-email-eingangsanalyse`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `brao-interessen-fokus-formuliert`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `brao-konformitaetspruefung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `email-eingangsanalyse`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `email-berufsrecht-berufliche-korrespondenz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemeine-sonderfall-berufsrechtskonform-bora`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anrede-und-grussformeln`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berufliche-fristennotiz-emotionale-steuerberater`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bora-konformitaetspruefung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bora-konformitaetspruefung-brao-email-eingangsanalyse`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `brao-interessen-fokus-formuliert`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `brao-konformitaetspruefung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `email-eingangsanalyse`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

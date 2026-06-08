@@ -1,13 +1,13 @@
 ---
 name: luxusgeschenk-verlosung-oder-behalten
-description: "Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Luxusgeschenk – Verlosen oder Behalten?
 
 ## Arbeitsbereich
 
-Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

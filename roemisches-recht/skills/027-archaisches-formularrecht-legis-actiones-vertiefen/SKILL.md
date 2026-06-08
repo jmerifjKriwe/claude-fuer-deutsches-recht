@@ -1,13 +1,13 @@
 ---
 name: 027-archaisches-formularrecht-legis-actiones-vertiefen
-description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Archaisches Formularrecht Legis Actiones Vertiefen
 
 ## Arbeitsbereich
 
-Römisches Recht: Archaisches Formularrecht legis actiones vertiefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Archaisches Formularrecht legis actiones vertiefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -7,7 +7,7 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüfungslinien: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüfungslinien: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

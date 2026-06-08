@@ -1,13 +1,13 @@
 ---
 name: familiengericht-vorladung
-description: "Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorladung Familiengericht
 
 ## Arbeitsbereich
 
-Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

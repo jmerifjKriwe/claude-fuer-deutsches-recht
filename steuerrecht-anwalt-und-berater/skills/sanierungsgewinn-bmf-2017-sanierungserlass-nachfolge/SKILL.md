@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge
-description: "BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge
 
 ## Arbeitsbereich
 
-BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierun
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.

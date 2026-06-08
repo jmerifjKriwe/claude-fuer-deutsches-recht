@@ -1,13 +1,13 @@
 ---
 name: repository-access-offboarding
-description: "Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Repository Access und Offboarding
 
 ## Arbeitsbereich
 
-Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

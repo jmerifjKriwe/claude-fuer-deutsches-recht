@@ -1,13 +1,13 @@
 ---
 name: ressort-heranfuehrung-bmds
-description: "Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ressort-Heranfuehrung BMDS
 
 ## Arbeitsbereich
 
-Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

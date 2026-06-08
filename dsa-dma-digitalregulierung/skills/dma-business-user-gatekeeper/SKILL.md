@@ -1,13 +1,13 @@
 ---
 name: dma-business-user-gatekeeper
-description: "Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster für Drittanbieter und Verhandlung mit Gatekeeper im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster für Drittanbieter und Verhandlung mit Gatekeeper im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DMA: Business-User-Zugang
 
 ## Arbeitsbereich
 
-Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster für Drittanbieter und Verhandlung mit Gatekeeper. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster für Drittanbieter und Verhandlung mit Gatekeeper. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-wbo-arbeitsrecht-zivile
-description: "Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Akteneinsicht nach WBO und WDO
 
 ## Arbeitsbereich
 
-Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

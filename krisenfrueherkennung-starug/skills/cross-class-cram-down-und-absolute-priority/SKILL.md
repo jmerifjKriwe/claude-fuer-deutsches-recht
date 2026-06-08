@@ -1,13 +1,13 @@
 ---
 name: cross-class-cram-down-und-absolute-priority
-description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cross-Class-Cram-Down und Absolute Priority — § 26 StaRUG
 
 ## Arbeitsbereich
 
-Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

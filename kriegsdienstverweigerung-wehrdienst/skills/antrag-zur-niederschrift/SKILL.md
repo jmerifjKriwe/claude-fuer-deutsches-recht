@@ -1,13 +1,13 @@
 ---
 name: antrag-zur-niederschrift
-description: "Erklärt Antragstellung zur Niederschrift beim BAPersBw im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Antragstellung zur Niederschrift beim BAPersBw im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Antrag zur Niederschrift
 
 ## Arbeitsbereich
 
-Erklärt Antragstellung zur Niederschrift beim BAPersBw. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Antragstellung zur Niederschrift beim BAPersBw. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

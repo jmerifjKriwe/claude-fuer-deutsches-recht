@@ -1,13 +1,13 @@
 ---
 name: mieteinzug-rueckstaende
-description: "Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BGB Verzug. Prüfraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rückstandsprotokoll mit Mahnhistorie Klageprüfung und Einzugsnachweis für Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BGB Verzug. Prüfraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rückstandsprotokoll mit Mahnhistorie Klageprüfung und Einzugsnachweis für Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mieteinzug und Rückstände
 
 ## Arbeitsbereich
 
-Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BGB Verzug. Prüfraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rückstandsprotokoll mit Mahnhistorie Klageprüfung und Einzugsnachweis für Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BGB Verzug. Prüfraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rückstandsprotokoll mit Mahnhistorie Klageprüfung und Einzugsnachweis für Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

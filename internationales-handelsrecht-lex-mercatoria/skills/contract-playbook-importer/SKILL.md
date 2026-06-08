@@ -1,13 +1,13 @@
 ---
 name: contract-playbook-importer
-description: "Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Contract Playbook für Importeure
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

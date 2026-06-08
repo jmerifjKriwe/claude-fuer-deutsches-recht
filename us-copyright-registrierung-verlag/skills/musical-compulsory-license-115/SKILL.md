@@ -1,13 +1,13 @@
 ---
 name: musical-compulsory-license-115
-description: "Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Musical Works Compulsory License § 115
 
 ## Arbeitsbereich
 
-Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

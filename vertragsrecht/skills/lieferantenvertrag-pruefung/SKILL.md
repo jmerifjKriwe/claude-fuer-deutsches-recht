@@ -1,13 +1,13 @@
 ---
 name: lieferantenvertrag-pruefung
-description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferanten-/Dienstleistervertrag-Prüfung
 
 ## Arbeitsbereich
 
-Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-notar-und-grundbuchkosten
-description: "Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notar-, Grundbuch- und Transaktionskosten
 
 ## Arbeitsbereich
 
-Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

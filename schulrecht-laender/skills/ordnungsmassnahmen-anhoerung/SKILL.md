@@ -1,13 +1,13 @@
 ---
 name: ordnungsmassnahmen-anhoerung
-description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordnungsmaßnahmen Anhörung
 
 ## Arbeitsbereich
 
-Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

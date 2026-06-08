@@ -7,7 +7,7 @@ description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Bean
 
 ## Arbeitsbereich
 
-Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg für Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg für Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

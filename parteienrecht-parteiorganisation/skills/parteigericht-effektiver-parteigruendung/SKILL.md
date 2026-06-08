@@ -1,13 +1,13 @@
 ---
 name: parteigericht-effektiver-parteigruendung
-description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteigericht: Effektiver Rechtsschutz
 
 ## Arbeitsbereich
 
-Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

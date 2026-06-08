@@ -1,13 +1,13 @@
 ---
 name: verfahren-pressekommunikation-regulierungsverfahren
-description: "Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfahren: Pressekommunikation Regulierungsverfahren
 
 ## Arbeitsbereich
 
-Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

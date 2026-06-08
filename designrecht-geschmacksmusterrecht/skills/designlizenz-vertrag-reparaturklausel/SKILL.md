@@ -1,13 +1,13 @@
 ---
 name: designlizenz-vertrag-reparaturklausel
-description: "Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designlizenz Vertrag
 
 ## Arbeitsbereich
 
-Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bgb-1900-und-soziale-frage
-description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BGB 1900 und die soziale Frage
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

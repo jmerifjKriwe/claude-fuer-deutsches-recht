@@ -1,13 +1,13 @@
 ---
 name: unidroit-principles-als-transportvertrag-see
-description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UNIDROIT Principles 2016 als Vertragsrecht
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

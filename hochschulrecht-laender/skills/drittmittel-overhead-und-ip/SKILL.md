@@ -1,13 +1,13 @@
 ---
 name: drittmittel-overhead-und-ip
-description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drittmittel, Overhead und IP
 
 ## Arbeitsbereich
 
-Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: dienstliche-beurteilung-angriff
-description: "Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstliche Beurteilung Angriff
 
 ## Arbeitsbereich
 
-Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

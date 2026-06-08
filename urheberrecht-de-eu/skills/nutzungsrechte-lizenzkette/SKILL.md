@@ -1,13 +1,13 @@
 ---
 name: nutzungsrechte-lizenzkette
-description: "Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nutzungsrechte und Lizenzkette
 
 ## Arbeitsbereich
 
-Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

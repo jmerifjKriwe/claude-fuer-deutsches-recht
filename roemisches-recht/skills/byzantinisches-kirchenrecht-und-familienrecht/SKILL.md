@@ -1,13 +1,13 @@
 ---
 name: byzantinisches-kirchenrecht-und-familienrecht
-description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Byzantinisches Kirchenrecht und Familienrecht
 
 ## Arbeitsbereich
 
-Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

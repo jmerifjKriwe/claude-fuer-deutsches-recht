@@ -1,13 +1,13 @@
 ---
 name: ndas-und-geschaeftsgeheimnisse
-description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG
 
 ## Arbeitsbereich
 
-Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

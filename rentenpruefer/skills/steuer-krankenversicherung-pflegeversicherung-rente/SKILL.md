@@ -1,13 +1,13 @@
 ---
 name: steuer-krankenversicherung-pflegeversicherung-rente
-description: "Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # steuer-krankenversicherung-pflegeversicherung-rente
 
 ## Arbeitsbereich
 
-Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Plant Notartermin, Kapitalerhöhung, Gesellschafterliste, Register
 
 ## Arbeitsbereich
 
-Plant Notartermin, Kapitalerhöhung, Gesellschafterliste, Register, Vollmachten, Zahlungen und Closing Bible. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Notartermin, Kapitalerhöhung, Gesellschafterliste, Register, Vollmachten, Zahlungen und Closing Bible. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

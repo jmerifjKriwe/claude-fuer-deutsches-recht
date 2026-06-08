@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-wunschermittlung
-description: "Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Wunschermittlung bei schwerer Demenz
 
 ## Arbeitsbereich
 
-Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

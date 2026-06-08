@@ -7,7 +7,7 @@ description: "Zeugeninterviews Mitarbeiter Zwangsgeld im Datenschutz-Sanktionsve
 
 ## Arbeitsbereich
 
-**Zeugeninterviews Mitarbeiter Zwangsgeld** ordnet den Fall über die tragenden Prüfungslinien: Mitarbeiterinterviews im Sanktionsverfahren, Zwangsgeld und Vollstreckung der Aufsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Zeugeninterviews Mitarbeiter Zwangsgeld** ordnet den Fall über die tragenden Prüfungslinien: Mitarbeiterinterviews im Sanktionsverfahren, Zwangsgeld und Vollstreckung der Aufsicht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

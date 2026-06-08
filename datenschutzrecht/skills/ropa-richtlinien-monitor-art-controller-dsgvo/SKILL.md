@@ -7,7 +7,7 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 
 ## Arbeitsbereich
 
-**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

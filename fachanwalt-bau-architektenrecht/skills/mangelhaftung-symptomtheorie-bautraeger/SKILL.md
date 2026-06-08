@@ -7,7 +7,7 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 
 ## Arbeitsbereich
 
-**Mangelhaftung Symptomtheorie Bautraeger** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mangelhaftung Symptomtheorie Bautraeger** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

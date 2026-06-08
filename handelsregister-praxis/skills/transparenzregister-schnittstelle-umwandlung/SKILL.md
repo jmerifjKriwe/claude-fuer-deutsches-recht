@@ -1,13 +1,13 @@
 ---
 name: transparenzregister-schnittstelle-umwandlung
-description: "Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transparenzregister-Schnittstelle
 
 ## Arbeitsbereich
 
-Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

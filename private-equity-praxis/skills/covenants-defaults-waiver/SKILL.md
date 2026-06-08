@@ -1,13 +1,13 @@
 ---
 name: covenants-defaults-waiver
-description: "Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Covenants, Defaults und Waiver
 
 ## Arbeitsbereich
 
-Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

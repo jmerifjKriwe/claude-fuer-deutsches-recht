@@ -1,13 +1,13 @@
 ---
 name: haeufige-fehler-vermeiden
-description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Häufige Fehler vermeiden — Top-20
 
 ## Arbeitsbereich
 
-Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

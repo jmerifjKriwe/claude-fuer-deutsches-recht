@@ -7,7 +7,7 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 
 ## Arbeitsbereich
 
-Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

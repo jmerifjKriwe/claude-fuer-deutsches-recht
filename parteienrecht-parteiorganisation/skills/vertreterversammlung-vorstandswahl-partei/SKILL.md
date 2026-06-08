@@ -1,13 +1,13 @@
 ---
 name: vertreterversammlung-vorstandswahl-partei
-description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertreterversammlung
 
 ## Arbeitsbereich
 
-Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

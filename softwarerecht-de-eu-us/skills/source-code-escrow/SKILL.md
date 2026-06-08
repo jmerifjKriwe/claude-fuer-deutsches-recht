@@ -1,13 +1,13 @@
 ---
 name: source-code-escrow
-description: "Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Source-Code-Escrow
 
 ## Arbeitsbereich
 
-Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

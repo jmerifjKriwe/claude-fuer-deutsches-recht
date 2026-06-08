@@ -7,7 +7,7 @@ description: "Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernpl
 
 ## Arbeitsbereich
 
-Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren. Verhältnis DMA zu Art 102 AEUV und Paragraf 19a GWB sowie BKartA-Designierungsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren. Verhältnis DMA zu Art 102 AEUV und Paragraf 19a GWB sowie BKartA-Designierungsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

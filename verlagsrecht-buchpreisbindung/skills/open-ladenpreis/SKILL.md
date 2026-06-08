@@ -7,7 +7,7 @@ description: "Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und V
 
 ## Arbeitsbereich
 
-Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: shared-resources
-description: "Gestaltet geteilte Ressourcen mittelgroßer Unternehmen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet geteilte Ressourcen mittelgroßer Unternehmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Shared Resources
 
 ## Arbeitsbereich
 
-Gestaltet geteilte Ressourcen mittelgroßer Unternehmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet geteilte Ressourcen mittelgroßer Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

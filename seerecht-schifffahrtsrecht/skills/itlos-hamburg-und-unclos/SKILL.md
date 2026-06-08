@@ -1,13 +1,13 @@
 ---
 name: itlos-hamburg-und-unclos
-description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
 
 ## Arbeitsbereich
 
-Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

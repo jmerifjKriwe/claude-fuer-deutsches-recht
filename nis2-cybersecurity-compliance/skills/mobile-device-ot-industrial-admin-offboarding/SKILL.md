@@ -1,13 +1,13 @@
 ---
 name: mobile-device-ot-industrial-admin-offboarding
-description: "Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mobile Device Loss
 
 ## Arbeitsbereich
 
-Steuert verlorene Geräte und gestohlene Laptops. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert verlorene Geräte und gestohlene Laptops. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

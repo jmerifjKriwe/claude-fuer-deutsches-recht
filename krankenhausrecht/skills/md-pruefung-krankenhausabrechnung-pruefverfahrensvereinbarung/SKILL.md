@@ -1,13 +1,13 @@
 ---
 name: md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung
-description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
 
 ## Arbeitsbereich
 
-MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

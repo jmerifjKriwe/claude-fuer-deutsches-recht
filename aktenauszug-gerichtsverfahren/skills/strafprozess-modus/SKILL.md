@@ -1,13 +1,13 @@
 ---
 name: strafprozess-modus
-description: "Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafprozess-Modus (StPO)
 
 ## Arbeitsbereich
 
-Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

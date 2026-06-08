@@ -7,7 +7,7 @@ description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und R
 
 ## Arbeitsbereich
 
-**Adressatenwuerde Rechtssteuerung Besitz LAW** ordnet den Fall über die tragenden Prüfungslinien: Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Adressatenwuerde Rechtssteuerung Besitz LAW** ordnet den Fall über die tragenden Prüfungslinien: Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Adressatenwürde und Rechtssteuerung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Adressatenwürde und Rechtssteuerung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Adressatenwürde und Rechtssteuerung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -103,7 +103,7 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 ### Besitz und Law & Economics: Transaktionskosten
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz und Law & Economics: Transaktionskosten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz und Law & Economics: Transaktionskosten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
@@ -171,7 +171,7 @@ Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 ### Besitz, Rechtsrealismus und praktische Bedürfnisse
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz, Rechtsrealismus und praktische Bedürfnisse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz, Rechtsrealismus und praktische Bedürfnisse` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
 - **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 - **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.

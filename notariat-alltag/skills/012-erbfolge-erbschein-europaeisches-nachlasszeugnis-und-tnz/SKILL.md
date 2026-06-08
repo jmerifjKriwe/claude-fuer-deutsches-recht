@@ -1,13 +1,13 @@
 ---
 name: 012-erbfolge-erbschein-europaeisches-nachlasszeugnis-und-tnz
-description: "Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

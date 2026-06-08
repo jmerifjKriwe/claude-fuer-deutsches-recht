@@ -7,7 +7,7 @@ description: "Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online
 
 ## Arbeitsbereich
 
-Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

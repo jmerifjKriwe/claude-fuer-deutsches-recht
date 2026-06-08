@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-open-source-copyleft-im-saas-stack
-description: "Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

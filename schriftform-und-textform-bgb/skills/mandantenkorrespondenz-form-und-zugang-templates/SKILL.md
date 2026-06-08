@@ -1,13 +1,13 @@
 ---
 name: mandantenkorrespondenz-form-und-zugang-templates
-description: "Prüfungslinie für mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
 ## Arbeitsbereich
 
-Prüfungslinie für mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Prüfungslinie für mandantenkorrespondenz form und zugang templates: prüft Nor
 
 ## Fachkern: Mandantenkorrespondenz — Form und Zugang: Templates
 
-- **Spezialfrage (Mandantenkorrespondenz — Form und Zugang: Templates):** Prüfungslinie für mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Spezialfrage (Mandantenkorrespondenz — Form und Zugang: Templates):** Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 ## Rechtsgrundlagen

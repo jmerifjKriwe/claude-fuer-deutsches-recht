@@ -1,13 +1,13 @@
 ---
 name: bess-wasser-awsv-und-boden
-description: "Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wasser, AwSV, Boden und Havarie
 
 ## Arbeitsbereich
 
-Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

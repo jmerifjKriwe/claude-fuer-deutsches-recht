@@ -1,13 +1,13 @@
 ---
 name: bodenreform-und-vermoegensrecht
-description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bodenreform und Vermoegensrecht (1945-1990)
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

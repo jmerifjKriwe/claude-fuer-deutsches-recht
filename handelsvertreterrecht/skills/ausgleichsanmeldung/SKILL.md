@@ -1,13 +1,13 @@
 ---
 name: ausgleichsanmeldung
-description: "Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB
 
 ## Arbeitsbereich
 
-Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

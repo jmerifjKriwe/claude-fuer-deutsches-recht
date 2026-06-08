@@ -7,7 +7,7 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 
 ## Arbeitsbereich
 
-**UWG Systematik Statt Streit** ordnet den Fall über die tragenden Prüfungslinien: UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**UWG Systematik Statt Streit** ordnet den Fall über die tragenden Prüfungslinien: UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: schiffbauwerk-register-pruefen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffbauwerk – Registerprüfung
 
 ## Arbeitsbereich
 
-Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

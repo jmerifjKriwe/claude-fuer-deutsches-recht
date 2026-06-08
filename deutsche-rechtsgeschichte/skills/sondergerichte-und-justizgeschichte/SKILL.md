@@ -1,13 +1,13 @@
 ---
 name: sondergerichte-und-justizgeschichte
-description: "Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sondergerichte und NS-Justizgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

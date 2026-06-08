@@ -1,13 +1,13 @@
 ---
 name: bilanzieller-status-aufnehmen
-description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Überschuldung ist nicht automatisch insolvenzrechtliche Überschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose) im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Überschuldung ist nicht automatisch insolvenzrechtliche Überschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose) im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bilanzieller Status aufnehmen
 
 ## Arbeitsbereich
 
-Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Überschuldung ist nicht automatisch insolvenzrechtliche Überschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Überschuldung ist nicht automatisch insolvenzrechtliche Überschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

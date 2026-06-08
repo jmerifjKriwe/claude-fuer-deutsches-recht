@@ -1,13 +1,13 @@
 ---
 name: workflow-hgb-erstpruefung
-description: "Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # HGB Erstprüfung
 
 ## Arbeitsbereich
 
-Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lawyers-legal
-description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsbereich
 
-Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

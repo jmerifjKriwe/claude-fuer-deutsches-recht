@@ -1,13 +1,13 @@
 ---
 name: wettbewerbsabrede-90a
-description: "Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB
 
 ## Arbeitsbereich
 
-Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

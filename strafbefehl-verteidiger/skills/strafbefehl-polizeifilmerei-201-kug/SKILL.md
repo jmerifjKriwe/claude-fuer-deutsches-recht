@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-polizeifilmerei-201-kug
-description: "Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafbefehl Nach Polizeifilmerei
 
 ## Arbeitsbereich
 
-Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

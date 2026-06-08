@@ -1,13 +1,13 @@
 ---
 name: stbv-strafbefehl-abwesenheit-vertretung
-description: "Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster für Verteidiger Erstgespraech im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster für Verteidiger Erstgespraech im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StBV: Strafbefehl-Pruefung
 
 ## Arbeitsbereich
 
-Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster für Verteidiger Erstgespraech. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster für Verteidiger Erstgespraech. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

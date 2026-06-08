@@ -7,7 +7,7 @@ description: "Staat Mikronesien Migrationscheck Moldau im Migrationsrecht: prüf
 
 ## Arbeitsbereich
 
-**Staat Mikronesien Migrationscheck Moldau** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Mikronesien, Staaten- und Gebietscheck Moldau, Staaten- und Gebietscheck Monaco. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Mikronesien Migrationscheck Moldau** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Mikronesien, Staaten- und Gebietscheck Moldau, Staaten- und Gebietscheck Monaco. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

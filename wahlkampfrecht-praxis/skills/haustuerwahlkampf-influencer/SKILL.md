@@ -1,13 +1,13 @@
 ---
 name: haustuerwahlkampf-influencer
-description: "Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haustuerwahlkampf
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

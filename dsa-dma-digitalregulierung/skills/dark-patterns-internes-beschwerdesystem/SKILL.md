@@ -1,13 +1,13 @@
 ---
 name: dark-patterns-internes-beschwerdesystem
-description: "Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DSA: Dark Patterns Audit
 
 ## Arbeitsbereich
 
-Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

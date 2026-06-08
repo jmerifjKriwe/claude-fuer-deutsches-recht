@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-idd-vertrieb-und-provisionskonflikt
-description: "Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

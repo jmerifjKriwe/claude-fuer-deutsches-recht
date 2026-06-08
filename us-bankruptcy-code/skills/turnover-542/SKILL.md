@@ -1,13 +1,13 @@
 ---
 name: turnover-542
-description: "Prueft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Turnover § 542
 
 ## Arbeitsbereich
 
-Prueft turnover of estate property, records, account funds, collateral and foreign holder issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft turnover of estate property, records, account funds, collateral and foreign holder issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

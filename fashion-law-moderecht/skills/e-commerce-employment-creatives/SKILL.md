@@ -1,13 +1,13 @@
 ---
 name: e-commerce-employment-creatives
-description: "E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E Commerce Widerruf Fashion
 
 ## Arbeitsbereich
 
-E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

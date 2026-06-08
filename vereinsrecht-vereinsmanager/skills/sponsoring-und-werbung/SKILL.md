@@ -1,13 +1,13 @@
 ---
 name: sponsoring-und-werbung
-description: "Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sponsoring und Werbung
 
 ## Arbeitsbereich
 
-Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

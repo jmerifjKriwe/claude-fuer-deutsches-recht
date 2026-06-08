@@ -1,13 +1,13 @@
 ---
 name: influencer-social-media-kampagne
-description: "Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer Social Media Kampagne
 
 ## Arbeitsbereich
 
-Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

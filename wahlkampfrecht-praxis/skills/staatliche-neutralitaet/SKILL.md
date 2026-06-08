@@ -1,13 +1,13 @@
 ---
 name: staatliche-neutralitaet
-description: "Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Staatliche Neutralitaet
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

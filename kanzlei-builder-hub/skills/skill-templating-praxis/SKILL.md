@@ -1,13 +1,13 @@
 ---
 name: skill-templating-praxis
-description: "Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Skill-Templating Praxis
 
 ## Arbeitsbereich
 
-Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

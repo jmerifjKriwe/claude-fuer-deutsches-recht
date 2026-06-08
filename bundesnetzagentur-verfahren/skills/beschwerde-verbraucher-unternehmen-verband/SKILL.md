@@ -1,13 +1,13 @@
 ---
 name: beschwerde-verbraucher-unternehmen-verband
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

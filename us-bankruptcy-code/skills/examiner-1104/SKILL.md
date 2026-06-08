@@ -1,13 +1,13 @@
 ---
 name: examiner-1104
-description: "Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Examiner § 1104
 
 ## Arbeitsbereich
 
-Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

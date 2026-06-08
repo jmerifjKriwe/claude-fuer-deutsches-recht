@@ -7,7 +7,7 @@ description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: p
 
 ## Arbeitsbereich
 
-**Rechtsmittel VG Migration Schreiben Einfache** ordnet den Fall über die tragenden Prüfungslinien: Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Rechtsmittel VG Migration Schreiben Einfache** ordnet den Fall über die tragenden Prüfungslinien: Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

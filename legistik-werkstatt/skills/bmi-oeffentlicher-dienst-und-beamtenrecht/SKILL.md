@@ -1,13 +1,13 @@
 ---
 name: bmi-oeffentlicher-dienst-und-beamtenrecht
-description: "Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Oeffentlicher Dienst und Beamtenrecht (BMI)
 
 ## Arbeitsbereich
 
-Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rmap-evaluierung-export
-description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Evaluierung und Aenderung von Rulemap-Normen
 
 ## Arbeitsbereich
 
-Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

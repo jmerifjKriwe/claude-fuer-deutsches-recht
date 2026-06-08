@@ -1,13 +1,13 @@
 ---
 name: chapter15-recognition
-description: "Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 15 Recognition
 
 ## Arbeitsbereich
 
-Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

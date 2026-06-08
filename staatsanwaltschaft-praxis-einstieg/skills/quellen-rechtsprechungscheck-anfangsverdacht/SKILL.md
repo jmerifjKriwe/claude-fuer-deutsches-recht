@@ -1,13 +1,13 @@
 ---
 name: quellen-rechtsprechungscheck-anfangsverdacht
-description: "Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellen- und Rechtsprechungscheck
 
 ## Arbeitsbereich
 
-Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

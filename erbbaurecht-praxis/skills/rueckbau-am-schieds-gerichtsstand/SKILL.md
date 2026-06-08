@@ -1,13 +1,13 @@
 ---
 name: rueckbau-am-schieds-gerichtsstand
-description: "Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rückbau am Laufzeitende
 
 ## Arbeitsbereich
 
-Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

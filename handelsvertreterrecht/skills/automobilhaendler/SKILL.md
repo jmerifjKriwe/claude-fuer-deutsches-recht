@@ -1,13 +1,13 @@
 ---
 name: automobilhaendler
-description: "Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?
 
 ## Arbeitsbereich
 
-Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

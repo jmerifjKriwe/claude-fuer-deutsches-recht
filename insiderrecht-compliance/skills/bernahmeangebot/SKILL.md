@@ -1,13 +1,13 @@
 ---
 name: bernahmeangebot
-description: "Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Übernahmeangebot – MAR und WpÜG
 
 ## Arbeitsbereich
 
-Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

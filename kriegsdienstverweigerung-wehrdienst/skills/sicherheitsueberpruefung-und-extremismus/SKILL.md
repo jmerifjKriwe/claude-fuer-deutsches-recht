@@ -1,13 +1,13 @@
 ---
 name: sicherheitsueberpruefung-und-extremismus
-description: "Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Extremismus und Sicherheit
 
 ## Arbeitsbereich
 
-Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

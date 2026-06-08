@@ -1,13 +1,13 @@
 ---
 name: qualitaetsaudit-filiale-und-sanktionen
-description: "Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen
 
 ## Arbeitsbereich
 
-Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

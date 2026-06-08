@@ -1,28 +1,40 @@
 ---
 name: versorgungsausgleich-verstorbener-paragraf-31-versausglg
-description: Versorgungsausgleich nach Tod Paragraf 31 VersAusglG.
+description: "Versorgungsausgleich Verstorbener Paragraf 31 Versausglg: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Versorgungsausgleich Verstorbener Paragraf 31 Versausglg
+
+## Einsatzlage
 
 Ehegatte verstirbt vor rechtskraeftiger Scheidung; Ausgleich noch durchfuehrbar?
 
-## Normen
+## Normenanker
 
-- Paragraf 31 VersAusglG
+- § 31 VERSAUSGLG
+- §§ 1564 ff. BGB
+- § 1671 BGB
+- § 1684 BGB
+- §§ 1601 ff. BGB
+- §§ 1372 ff. BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
+- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Ausgleich entfaellt; Erben treten ein wenn Sachstand spruchreif.
 
-## Schriftsatzkern
-
-Verfahren wird mit Erben fortgesetzt sofern Spruchreife erreicht.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Sterbeurkunde
 - Scheidungsakte

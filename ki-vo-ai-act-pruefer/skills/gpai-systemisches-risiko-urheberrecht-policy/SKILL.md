@@ -1,13 +1,13 @@
 ---
 name: gpai-systemisches-risiko-urheberrecht-policy
-description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten) im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten) im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO
 
 ## Arbeitsbereich
 
-Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

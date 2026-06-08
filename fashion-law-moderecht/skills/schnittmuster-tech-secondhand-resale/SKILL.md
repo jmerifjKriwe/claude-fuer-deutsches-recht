@@ -1,13 +1,13 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schnittmuster Und Tech Pack
 
 ## Arbeitsbereich
 
-Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

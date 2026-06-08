@@ -1,13 +1,13 @@
 ---
 name: vorbenutzungsrecht
-description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorbenutzungsrecht
 
 ## Arbeitsbereich
 
-Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kontokuendigung-sperre-basiskonto
-description: "Kontokündigung, Kontosperre und Basiskonto prüfen: Vertragsrecht, AGB, GwG, Sanktionen, Pfändung, Diskriminierungsrisiko, Sozialleistungen und Kundenkommunikation ausbalancieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontokündigung, Kontosperre und Basiskonto prüfen: Vertragsrecht, AGB, GwG, Sanktionen, Pfändung, Diskriminierungsrisiko, Sozialleistungen und Kundenkommunikation ausbalancieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kontosperre und Kündigung
 
 ## Arbeitsbereich
 
-Kontokündigung, Kontosperre und Basiskonto prüfen: Vertragsrecht, AGB, GwG, Sanktionen, Pfändung, Diskriminierungsrisiko, Sozialleistungen und Kundenkommunikation ausbalancieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontokündigung, Kontosperre und Basiskonto prüfen: Vertragsrecht, AGB, GwG, Sanktionen, Pfändung, Diskriminierungsrisiko, Sozialleistungen und Kundenkommunikation ausbalancieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

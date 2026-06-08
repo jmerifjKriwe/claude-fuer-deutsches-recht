@@ -1,13 +1,13 @@
 ---
 name: konkursrechtliche-stellung-des-magister-bonorum
-description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum
 
 ## Arbeitsbereich
 
-Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

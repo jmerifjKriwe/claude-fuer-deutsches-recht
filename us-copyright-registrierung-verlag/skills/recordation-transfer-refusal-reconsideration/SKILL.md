@@ -1,13 +1,13 @@
 ---
 name: recordation-transfer-refusal-reconsideration
-description: "Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recordation von Transfers und Sicherheiten
 
 ## Arbeitsbereich
 
-Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

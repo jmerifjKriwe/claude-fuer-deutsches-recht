@@ -1,31 +1,40 @@
 ---
 name: equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner
-description: Equal Pay Leiharbeit Tarifabweichung mit BAG 5 AZR 143/19 und EuGH TimePartner.
+description: "Equal Pay Leiharbeit Tarifabweichung mit BAG 5 AZR 143/19 und EuGH TimePartner."
 ---
 
-## Problemstellung
+# Equal Pay Leiharbeit BAG 5 Azr 143 19 EuGH Timepartner
+
+## Einsatzlage
 
 Leiharbeiter A erhaelt 11,80 EUR Stundenlohn; Stammarbeitnehmer 16,40 EUR; Tarifvertrag erlaubt Abweichung.
 
-## Normen
+## Normenanker
 
-- Paragraf 8 AueG
-- Paragraf 9 AueG
+- § 611a BGB
+- § 623 BGB
+- §§ 1, 4, 7 KSchG
+- § 102 BetrVG
+- §§ 1, 3, 7 AGG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BAG 31.05.2023 5 AZR 143/19
-- EuGH 15.12.2022 C-311/21 TimePartner
+- BAG 31.05.2023 5 AZR 143/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH 15.12.2022 C-311/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 EuGH-Linie verlangt Ausgleichsmechanismus; ohne diesen Equal-Pay-Anspruch des Leiharbeiters.
 
-## Schriftsatzkern
-
-Tarifvertrag genuegt nicht den EuGH-Anforderungen; Equal-Pay-Anspruch fuer gesamten Einsatz.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Lohnabrechnungen Stamm Leih
 - Tarifvertrag

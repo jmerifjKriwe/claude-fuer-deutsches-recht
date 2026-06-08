@@ -1,13 +1,13 @@
 ---
 name: handelsvertreterprivileg
-description: "Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB
 
 ## Arbeitsbereich
 
-Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

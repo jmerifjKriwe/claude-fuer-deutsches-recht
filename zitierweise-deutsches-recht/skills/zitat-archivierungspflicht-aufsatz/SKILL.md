@@ -1,13 +1,13 @@
 ---
 name: zitat-archivierungspflicht-aufsatz
-description: "Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zitierte Quelle archivieren
 
 ## Arbeitsbereich
 
-Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

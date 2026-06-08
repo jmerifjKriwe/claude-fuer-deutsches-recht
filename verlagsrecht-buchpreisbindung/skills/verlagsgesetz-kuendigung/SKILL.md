@@ -7,7 +7,7 @@ description: "Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (Ver
 
 ## Arbeitsbereich
 
-Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

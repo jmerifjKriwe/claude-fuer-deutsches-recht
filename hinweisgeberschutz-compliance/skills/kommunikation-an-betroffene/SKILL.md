@@ -1,13 +1,13 @@
 ---
 name: kommunikation-an-betroffene
-description: "Formuliert Kommunikation an beschuldigte und betroffene Personen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Kommunikation an beschuldigte und betroffene Personen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunikation An Betroffene
 
 ## Arbeitsbereich
 
-Formuliert Kommunikation an beschuldigte und betroffene Personen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Kommunikation an beschuldigte und betroffene Personen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

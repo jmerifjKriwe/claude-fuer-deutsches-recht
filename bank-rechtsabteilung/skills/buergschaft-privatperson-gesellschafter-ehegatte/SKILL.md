@@ -1,13 +1,13 @@
 ---
 name: buergschaft-privatperson-gesellschafter-ehegatte
-description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Buergschaft Privatperson Gesellschafter Ehegatte
 
 ## Arbeitsbereich
 
-Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sozialgerichtsverfahren-modus
-description: "Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sozialgerichtsverfahren-Modus (SGG)
 
 ## Arbeitsbereich
 
-Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vertrieb-regulierte-vertriebsumstellung
-description: "Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten
 
 ## Arbeitsbereich
 
-Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

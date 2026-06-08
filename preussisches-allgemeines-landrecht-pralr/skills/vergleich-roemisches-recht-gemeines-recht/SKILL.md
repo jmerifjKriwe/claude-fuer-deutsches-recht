@@ -7,7 +7,7 @@ description: "PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht
 
 ## Arbeitsbereich
 
-PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht und preußischer Kodifikationstechnik prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht und preußischer Kodifikationstechnik prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: security-of-travel-and-devices
-description: "Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll
 
 ## Arbeitsbereich
 
-Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

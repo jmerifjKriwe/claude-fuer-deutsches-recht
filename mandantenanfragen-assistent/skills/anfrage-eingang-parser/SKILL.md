@@ -1,13 +1,13 @@
 ---
 name: anfrage-eingang-parser
-description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf) im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf) im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfrage-Eingang-Parser
 
 ## Arbeitsbereich
 
-Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 
 ## Arbeitsbereich
 
-**Long Covid Berufskrankheit Erwerbsminderung** ordnet den Fall über die tragenden Prüfungslinien: Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Long Covid Berufskrankheit Erwerbsminderung** ordnet den Fall über die tragenden Prüfungslinien: Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -33,7 +33,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 ### Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gu` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gu` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -67,7 +67,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 ### Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, ` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -101,7 +101,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 ### Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kogni` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kogni` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -135,7 +135,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 ### Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Bewe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Bewe` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.

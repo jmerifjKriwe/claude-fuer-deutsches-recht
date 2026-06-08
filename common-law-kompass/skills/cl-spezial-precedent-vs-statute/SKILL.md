@@ -1,13 +1,13 @@
 ---
 name: cl-spezial-precedent-vs-statute
-description: "Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster für Vergleich mit deutscher Methode und Beispiel-Faelle im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster für Vergleich mit deutscher Methode und Beispiel-Faelle im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common Law: Precedent gegen Statute
 
 ## Arbeitsbereich
 
-Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster für Vergleich mit deutscher Methode und Beispiel-Faelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster für Vergleich mit deutscher Methode und Beispiel-Faelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

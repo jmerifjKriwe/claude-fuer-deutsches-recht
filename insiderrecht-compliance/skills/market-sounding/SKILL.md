@@ -1,13 +1,13 @@
 ---
 name: market-sounding
-description: "Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Market Sounding nach Art. 11 MAR
 
 ## Arbeitsbereich
 
-Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

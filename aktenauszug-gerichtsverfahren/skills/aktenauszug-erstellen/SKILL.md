@@ -1,13 +1,13 @@
 ---
 name: aktenauszug-erstellen
-description: "Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturprüfung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Überblick) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturprüfung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Überblick) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenauszug Erstellen — Hauptworkflow
 
 ## Arbeitsbereich
 
-Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturprüfung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Überblick). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt oder Paralegal erhaelt Gerichtsakte Schriftsaetze oder PDFs und will strukturierten Aktenauszug erstellen. Sechs Bausteine: Verfahrensidentifikation Einleitungssatz Absatz-Zusammenfassung Sachverhaltschronologie Verfahrenschronologie Parteivortrag-Tabelle Beweis- und Rechtsargumente. Normen §§ 128-134 ZPO §§ 355-455 ZPO. Output strukturierter Markdown-Aktenauszug. Abgrenzung zu aktenauszug-strukturprüfung (Qualitaetskontrolle) und verfahrenszusammenfassung-absatz (Kurz-Überblick). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: weltraumrecht-kommunen-bergung-fremder
-description: "Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Weltraumrecht für Kommunen bei Startplatzwerbung
 
 ## Arbeitsbereich
 
-Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

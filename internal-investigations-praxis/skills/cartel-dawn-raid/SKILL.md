@@ -1,13 +1,13 @@
 ---
 name: cartel-dawn-raid
-description: "Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kartell-Dawn-Raid und Leniency
 
 ## Arbeitsbereich
 
-Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: abmahnung-designrecht
-description: "Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abmahnung Designrecht
 
 ## Arbeitsbereich
 
-Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

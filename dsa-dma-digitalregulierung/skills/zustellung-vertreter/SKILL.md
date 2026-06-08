@@ -1,6 +1,6 @@
 ---
 name: zustellung-vertreter
-description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustellung Vertreter

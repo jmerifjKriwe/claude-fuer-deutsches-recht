@@ -1,13 +1,13 @@
 ---
 name: restwertgarantie-andienungsrecht-und-mehrerloesklausel
-description: "Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Restwertgarantie, Andienungsrecht und Mehrerlösklausel
 
 ## Arbeitsbereich
 
-Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

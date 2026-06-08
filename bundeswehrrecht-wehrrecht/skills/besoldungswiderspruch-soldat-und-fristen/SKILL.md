@@ -1,13 +1,13 @@
 ---
 name: besoldungswiderspruch-soldat-und-fristen
-description: "Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besoldungswiderspruch Soldat und Fristen
 
 ## Arbeitsbereich
 
-Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

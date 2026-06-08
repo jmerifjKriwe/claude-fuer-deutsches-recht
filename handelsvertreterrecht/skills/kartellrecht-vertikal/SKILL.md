@@ -1,13 +1,13 @@
 ---
 name: kartellrecht-vertikal
-description: "Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV
 
 ## Arbeitsbereich
 
-Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

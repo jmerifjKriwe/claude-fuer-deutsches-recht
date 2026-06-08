@@ -1,13 +1,13 @@
 ---
 name: gwg-aml-kyc-verdachtsmeldung
-description: "GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GwG AML KYC
 
 ## Arbeitsbereich
 
-GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

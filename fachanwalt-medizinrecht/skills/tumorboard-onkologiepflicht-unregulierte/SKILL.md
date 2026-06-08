@@ -7,7 +7,7 @@ description: "Tumorboard Onkologiepflicht Unregulierte im Medizinrecht: prüft k
 
 ## Arbeitsbereich
 
-**Tumorboard Onkologiepflicht Unregulierte** ordnet den Fall über die tragenden Prüfungslinien: Tumorboard und Onkologiepflicht, Unregulierte Zelltherapie abwehren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Tumorboard Onkologiepflicht Unregulierte** ordnet den Fall über die tragenden Prüfungslinien: Tumorboard und Onkologiepflicht, Unregulierte Zelltherapie abwehren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

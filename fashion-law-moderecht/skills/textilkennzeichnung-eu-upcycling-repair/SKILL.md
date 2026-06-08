@@ -1,13 +1,13 @@
 ---
 name: textilkennzeichnung-eu-upcycling-repair
-description: "Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Textilkennzeichnung Eu 1007
 
 ## Arbeitsbereich
 
-Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

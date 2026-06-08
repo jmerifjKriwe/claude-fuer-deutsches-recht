@@ -1,13 +1,13 @@
 ---
 name: produktdaten-pim-datenkatalog-hersteller
-description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller
 
 ## Arbeitsbereich
 
-Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

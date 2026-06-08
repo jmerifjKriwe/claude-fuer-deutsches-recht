@@ -7,7 +7,7 @@ description: "EPA Befuellpflicht Impfschaden Arzthaftung im Medizinrecht: prüft
 
 ## Arbeitsbereich
 
-**EPA Befuellpflicht Impfschaden Arzthaftung** ordnet den Fall über die tragenden Prüfungslinien: ePA-Befüllpflicht und Haftung, Impfschaden und Arzthaftung, Checkliste Arzthaftung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**EPA Befuellpflicht Impfschaden Arzthaftung** ordnet den Fall über die tragenden Prüfungslinien: ePA-Befüllpflicht und Haftung, Impfschaden und Arzthaftung, Checkliste Arzthaftung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,29 +1,40 @@
 ---
 name: umgangsrecht-grosseltern-paragraf-1685-bgb-bverfg-1-bvr-1178-14
-description: Umgangsrecht der Grosseltern Paragraf 1685 BGB mit BVerfG.
+description: "Umgangsrecht Grosseltern Paragraf 1685 BGB BVerfG 1 Bvr 1178 14: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Umgangsrecht Grosseltern Paragraf 1685 BGB BVerfG 1 Bvr 1178 14
+
+## Einsatzlage
 
 Grosseltern wollen Umgang mit Enkel; Eltern verweigern.
 
-## Normen
+## Normenanker
 
-- Paragraf 1685 BGB
+- § 1685 BGB
+- §§ 1564 ff. BGB
+- § 1671 BGB
+- § 1684 BGB
+- §§ 1601 ff. BGB
+- §§ 1372 ff. BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BVerfG 09.06.2016 1 BvR 1178/14
+- BVerfG 09.06.2016 1 BvR 1178/14 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Pruefung Kindeswohl; Bindung Belastung Konflikt der Eltern.
 
-## Schriftsatzkern
-
-Umgang bei nachweisbarer Bindung und Kindeswohl-Foerderung.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bindungsgutachten
 - Zeugen Bezugspersonen

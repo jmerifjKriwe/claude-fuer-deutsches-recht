@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Urheber Medienrecht** Ergebn
 
 ## Fachspezifische Fehlerachsen
 
-- `abmahnung-sonderfall-bild-eigenen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-gewerblicher-kanzlei`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegendarstellung-presse-mandat-triage-schriftsatzkern`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegendarstellung-presse-mod-erklaerung-orientierung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `medienrecht-lizenzvertrag-urhmr-urhebervertrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `medienverfuegung-beweislast-persoenlichkeitsrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `presse-gegendarstellung-schiedsstelle-dpma-tdm-44b`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `presse-presserecht-rechtsschutz-interessen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `abmahnung-sonderfall-bild-eigenen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-gewerblicher-kanzlei`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegendarstellung-presse-mandat-triage-schriftsatzkern`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegendarstellung-presse-mod-erklaerung-orientierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `medienrecht-lizenzvertrag-urhmr-urhebervertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `medienverfuegung-beweislast-persoenlichkeitsrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `presse-gegendarstellung-schiedsstelle-dpma-tdm-44b`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `presse-presserecht-rechtsschutz-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

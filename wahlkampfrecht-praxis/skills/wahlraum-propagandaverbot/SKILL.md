@@ -1,13 +1,13 @@
 ---
 name: wahlraum-propagandaverbot
-description: "Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahlraum Propagandaverbot
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

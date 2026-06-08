@@ -1,13 +1,13 @@
 ---
 name: post-grenzueberschreitende-paketzustellung
-description: "Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Post: Grenzüberschreitende Paketzustellung
 
 ## Arbeitsbereich
 
-Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: registerrecht-mandatsannahme-notarferne
-description: "Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kanzlei ohne Notarvollzug
 
 ## Arbeitsbereich
 
-Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

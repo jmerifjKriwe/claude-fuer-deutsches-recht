@@ -1,13 +1,13 @@
 ---
 name: cyberversicherung-ransomware-d-o
-description: "Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cyberversicherung: Ransomware, DORA, Sanktionen
 
 ## Arbeitsbereich
 
-Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

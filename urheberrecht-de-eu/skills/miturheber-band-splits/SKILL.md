@@ -1,13 +1,13 @@
 ---
 name: miturheber-band-splits
-description: "Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Miturheber, Band und Split-Sheets
 
 ## Arbeitsbereich
 
-Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

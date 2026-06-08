@@ -1,13 +1,13 @@
 ---
 name: verleumdung-187
-description: "Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # § 187 StGB - Verleumdung
 
 ## Arbeitsbereich
 
-Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

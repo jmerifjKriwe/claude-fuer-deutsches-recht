@@ -1,6 +1,6 @@
 ---
 name: team-sonderfall
-description: "Team Sonderfall im DFG-Förderantragstellung im DFG-Förderantrag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Team Sonderfall im DFG-Förderantragstellung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Team Sonderfall

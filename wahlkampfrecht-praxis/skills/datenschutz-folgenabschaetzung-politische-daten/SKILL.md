@@ -1,13 +1,13 @@
 ---
 name: datenschutz-folgenabschaetzung-politische-daten
-description: "Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz Folgenabschaetzung Politische Daten
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

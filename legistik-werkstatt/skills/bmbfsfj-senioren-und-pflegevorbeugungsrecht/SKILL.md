@@ -1,13 +1,13 @@
 ---
 name: bmbfsfj-senioren-und-pflegevorbeugungsrecht
-description: "Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seniorenrecht und Pflegevorbeugung (BMBFSFJ)
 
 ## Arbeitsbereich
 
-Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

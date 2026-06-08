@@ -1,13 +1,13 @@
 ---
 name: wirtschaftlicher-verein
-description: "Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftlicher Verein
 
 ## Arbeitsbereich
 
-Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

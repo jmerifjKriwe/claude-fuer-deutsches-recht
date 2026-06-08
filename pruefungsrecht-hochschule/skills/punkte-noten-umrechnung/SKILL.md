@@ -1,13 +1,13 @@
 ---
 name: punkte-noten-umrechnung
-description: "Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Punkte Noten Umrechnung
 
 ## Arbeitsbereich
 
-Prüft Punkte, Noten, Rundung und ECTS-Umrechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Punkte, Noten, Rundung und ECTS-Umrechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

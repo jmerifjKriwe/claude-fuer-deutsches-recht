@@ -1,13 +1,13 @@
 ---
 name: software-policy-legal-engineering
-description: "Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Legal-Engineering Software Policy
 
 ## Arbeitsbereich
 
-Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

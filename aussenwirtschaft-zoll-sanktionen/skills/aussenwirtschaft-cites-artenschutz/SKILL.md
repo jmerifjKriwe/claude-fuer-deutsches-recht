@@ -7,7 +7,7 @@ description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Ti
 
 ## Arbeitsbereich
 
-Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

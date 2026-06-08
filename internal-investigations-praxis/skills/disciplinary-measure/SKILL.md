@@ -1,13 +1,13 @@
 ---
 name: disciplinary-measure
-description: "Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarmaßnahmen nach Internal Investigations
 
 ## Arbeitsbereich
 
-Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

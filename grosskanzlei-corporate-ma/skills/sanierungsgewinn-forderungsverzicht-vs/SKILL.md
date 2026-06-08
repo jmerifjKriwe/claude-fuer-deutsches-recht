@@ -139,7 +139,7 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
 - **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (Streitjahr 2008; für Umwandlungen ab 06.06.2013 § 2 Abs. 4 Satz 3 ff. UmwStG).
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318** — Gestaltungsmissbrauch § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Rev. anh. BFH I R 11/22.
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F** — Gestaltungsmissbrauch § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Rev. anh. BFH I R 11/22.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend BFH I R 34/12) — Liquidationsausstieg bei stehen gelassenen Verbindlichkeiten.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
 - **BVerfG, Beschl. v. 29.03.2017 – 2 BvL 6/11** (Verfassungswidrigkeit § 8c Satz 1 KStG a. F.).

@@ -1,13 +1,13 @@
 ---
 name: plattform-sperre-datenbankherstellerrecht
-description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz
 
 ## Arbeitsbereich
 
-Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

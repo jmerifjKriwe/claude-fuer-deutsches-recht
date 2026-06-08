@@ -1,13 +1,13 @@
 ---
 name: schulbehoerde-brief
-description: "Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulbehörde-Brief
 
 ## Arbeitsbereich
 
-Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: policy-db-abschlussmemo
-description: "Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
 
 ## Arbeitsbereich
 
-Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

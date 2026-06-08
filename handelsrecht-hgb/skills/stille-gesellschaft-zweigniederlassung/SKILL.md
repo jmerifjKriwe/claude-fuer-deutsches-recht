@@ -1,13 +1,13 @@
 ---
 name: stille-gesellschaft-zweigniederlassung
-description: "Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stille Gesellschaft § 230 HGB
 
 ## Arbeitsbereich
 
-Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

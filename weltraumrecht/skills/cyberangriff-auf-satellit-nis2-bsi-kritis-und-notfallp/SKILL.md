@@ -1,13 +1,13 @@
 ---
 name: cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp
-description: "Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Cyberangriff auf Satellit: NIS2, BSI, KRITIS, Notfallplan
 
 ## Arbeitsbereich
 
-Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

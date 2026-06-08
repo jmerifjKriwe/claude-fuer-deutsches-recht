@@ -1,13 +1,13 @@
 ---
 name: fremdsprachige-vertraege-bilingual
-description: "Spezialfall fremdsprachige und bilinguale Vertraege: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall fremdsprachige und bilinguale Vertraege: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bilinguale Vertraege
 
 ## Arbeitsbereich
 
-Spezialfall fremdsprachige und bilinguale Vertraege: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall fremdsprachige und bilinguale Vertraege: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

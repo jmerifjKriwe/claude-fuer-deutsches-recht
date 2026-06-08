@@ -1,13 +1,13 @@
 ---
 name: 033-unternehmensnachfolge-anteilsabtretung-niessbrauch
-description: "Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch, Stimmrechtsbindung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

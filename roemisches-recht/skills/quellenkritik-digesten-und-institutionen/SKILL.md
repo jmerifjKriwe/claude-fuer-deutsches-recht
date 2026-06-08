@@ -1,13 +1,13 @@
 ---
 name: quellenkritik-digesten-und-institutionen
-description: "Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellenkritik: Digesten und Institutionen
 
 ## Arbeitsbereich
 
-Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

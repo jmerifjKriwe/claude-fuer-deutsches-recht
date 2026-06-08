@@ -1,13 +1,13 @@
 ---
 name: archivierung
-description: "Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Archivierung – MAR-konforme Aufbewahrung
 
 ## Arbeitsbereich
 
-Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

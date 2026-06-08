@@ -1,13 +1,13 @@
 ---
 name: verfassung-grundgesetz-organstreitverfahren
-description: "Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GG-Aenderung Art. 79 GG
 
 ## Arbeitsbereich
 
-Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun
-description: "Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

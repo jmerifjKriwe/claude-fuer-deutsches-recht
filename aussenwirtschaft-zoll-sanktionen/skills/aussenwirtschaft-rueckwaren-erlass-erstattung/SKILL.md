@@ -7,7 +7,7 @@ description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und V
 
 ## Arbeitsbereich
 
-Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

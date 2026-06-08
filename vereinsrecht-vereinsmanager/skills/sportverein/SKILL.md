@@ -1,13 +1,13 @@
 ---
 name: sportverein
-description: "Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sportverein
 
 ## Arbeitsbereich
 
-Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

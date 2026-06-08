@@ -1,13 +1,13 @@
 ---
 name: education-distance-learning-110
-description: "Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Education und Distance Learning § 110
 
 ## Arbeitsbereich
 
-Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

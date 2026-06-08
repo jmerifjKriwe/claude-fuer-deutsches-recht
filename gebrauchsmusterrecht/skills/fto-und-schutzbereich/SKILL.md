@@ -1,13 +1,13 @@
 ---
 name: fto-und-schutzbereich
-description: "Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fto Und Schutzbereich
 
 ## Arbeitsbereich
 
-Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

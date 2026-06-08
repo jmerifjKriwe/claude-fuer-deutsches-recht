@@ -1,13 +1,13 @@
 ---
 name: werkdaten-standard-zertifikat-archiv
-description: "Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werkdaten für die Standard Application
 
 ## Arbeitsbereich
 
-Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

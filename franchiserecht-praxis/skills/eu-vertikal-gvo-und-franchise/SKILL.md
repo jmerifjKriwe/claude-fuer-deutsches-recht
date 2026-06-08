@@ -1,13 +1,13 @@
 ---
 name: eu-vertikal-gvo-und-franchise
-description: "EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: EU-Vertikal-GVO und Franchise
 
 ## Arbeitsbereich
 
-EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

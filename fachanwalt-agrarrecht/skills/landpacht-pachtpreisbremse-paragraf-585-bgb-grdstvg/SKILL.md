@@ -1,36 +1,44 @@
 ---
 name: landpacht-pachtpreisbremse-paragraf-585-bgb-grdstvg
-description: Ueberhoehte Landpacht und Pachtpreiskontrolle nach Paragraf 4 LPachtVG bei verbindenden Vertraegen mit Verwandten. Pruefraster Genehmigungspflicht ortsuebliches Entgelt Anpassungsklage.
+description: "Ueberhoehte Landpacht und Pachtpreiskontrolle nach Paragraf 4 LPachtVG bei verbindenden Vertraegen mit Verwandten. Pruefraster Genehmigungspflicht ortsuebliches Entgelt Anpassungsklage."
 ---
 
-## Problemstellung
+# Landpacht Pachtpreisbremse Paragraf 585 BGB Grdstvg
+
+## Einsatzlage
 
 Verpaechter V verlangt von Paechter P 1850 EUR pro Hektar pro Jahr fuer Ackerland in Brandenburg; ortsueblich sind 480 EUR. Pacht ist anzeigepflichtig.
 
-## Normen
+## Normenanker
 
-- Paragrafen 2, 4 LPachtVG (Landpachtverkehrsgesetz): Anzeigepflicht und Beanstandung.
-- Paragraf 593 BGB: Pachtaenderung.
-- Paragraf 585 BGB: Landpachtvertrag.
-- Paragraf 9 GrdstVG: Genehmigungspflicht.
+- § 585 BGB
+- §§ 585 ff. BGB
+- § 9 GrdstVG
+- § 16a TierSchG
+- § 13a DüV
+- § 906 BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 24.04.2015 LwZR 1/14: Pacht 50 Prozent ueber ortsueblich erlaubt; 100 Prozent darueber unzulaessig.
-- BGH 13.10.2017 LwZR 4/16: Verwandtschaftsverhaeltnis spielt keine Rolle bei Beanstandung.
+- BGH 24.04.2015 LwZR 1/14 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 13.10.2017 LwZR 4/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 1. Beanstandung bei Landwirtschaftsamt nach Paragraf 4 LPachtVG.
 2. Vorlage Pachtpreisspiegel.
 3. Auf gerichtliche Festsetzung nach Paragraf 4 II LPachtVG hinwirken.
 4. Paragraf 593 BGB Anpassungsklage als zivilrechtliche Alternative.
 
-## Frist
-
-Anzeige der Pacht binnen 1 Monat nach Vertragsschluss Paragraf 2 LPachtVG.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Pachtpreisspiegel der Landwirtschaftsbehoerde.
 - Vergleichspachtvertraege Nachbarn.

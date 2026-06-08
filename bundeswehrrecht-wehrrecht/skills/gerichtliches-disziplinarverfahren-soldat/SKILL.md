@@ -1,13 +1,13 @@
 ---
 name: gerichtliches-disziplinarverfahren-soldat
-description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtliches Disziplinarverfahren (TDG/BVerwG)
 
 ## Arbeitsbereich
 
-Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

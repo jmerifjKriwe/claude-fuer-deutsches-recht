@@ -1,13 +1,13 @@
 ---
 name: immor-bauvertrag-vob-erbbaurecht-vertrag
-description: "Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ImmoR: Bauvertrag VOB BGB
 
 ## Arbeitsbereich
 
-Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

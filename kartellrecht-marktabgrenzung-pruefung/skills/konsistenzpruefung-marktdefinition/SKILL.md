@@ -7,7 +7,7 @@ description: "Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Üb
 
 ## Arbeitsbereich
 
-Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behördenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behördenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

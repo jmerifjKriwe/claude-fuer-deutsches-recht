@@ -1,13 +1,13 @@
 ---
 name: kassenwart-finanzen
-description: "Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kassenwart und Finanzen
 
 ## Arbeitsbereich
 
-Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

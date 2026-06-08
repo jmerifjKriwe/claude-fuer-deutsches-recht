@@ -7,7 +7,7 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüfungslinien: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüfungslinien: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

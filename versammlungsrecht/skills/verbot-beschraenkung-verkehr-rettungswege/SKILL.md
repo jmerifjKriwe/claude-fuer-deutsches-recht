@@ -1,13 +1,13 @@
 ---
 name: verbot-beschraenkung-verkehr-rettungswege
-description: "Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verbot ist Ultima Ratio
 
 ## Arbeitsbereich
 
-Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: confidentiality-design-counterfeit
-description: "Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Confidentiality Design Leak
 
 ## Arbeitsbereich
 
-Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

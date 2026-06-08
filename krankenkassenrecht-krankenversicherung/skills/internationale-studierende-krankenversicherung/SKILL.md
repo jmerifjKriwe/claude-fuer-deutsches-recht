@@ -7,7 +7,7 @@ description: "Krankenversicherungspflicht für ausländische Studierende in Deut
 
 ## Arbeitsbereich
 
-Krankenversicherungspflicht für ausländische Studierende in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherungspflicht für ausländische Studierende in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

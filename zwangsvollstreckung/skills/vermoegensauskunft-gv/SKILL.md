@@ -1,13 +1,13 @@
 ---
 name: vermoegensauskunft-gv
-description: "Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vermögensauskunft
 
 ## Arbeitsbereich
 
-Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

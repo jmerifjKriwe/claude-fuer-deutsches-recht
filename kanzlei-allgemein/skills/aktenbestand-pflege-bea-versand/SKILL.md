@@ -1,13 +1,13 @@
 ---
 name: aktenbestand-pflege-bea-versand
-description: "Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsende mit Schlussrechnung und Aktenherausgabe an Mandant Archivierung nach Aufbewahrungspflicht (§ 50 BRAO sechs Jahre nach Mandatsende) Wiedervorlagen. Monatliche und jaehrliche Auswertung Aktenanzahl je Anwalt. Markiert lange ruhende Mandate zur Klaerung. Verhindert Datenlecks bei abgeschlossenen Mandaten (DSGVO Art. 5 Speicherbegrenzung) im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsende mit Schlussrechnung und Aktenherausgabe an Mandant Archivierung nach Aufbewahrungspflicht (§ 50 BRAO sechs Jahre nach Mandatsende) Wiedervorlagen. Monatliche und jaehrliche Auswertung Aktenanzahl je Anwalt. Markiert lange ruhende Mandate zur Klaerung. Verhindert Datenlecks bei abgeschlossenen Mandaten (DSGVO Art. 5 Speicherbegrenzung) im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenbestandspflege
 
 ## Arbeitsbereich
 
-Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsende mit Schlussrechnung und Aktenherausgabe an Mandant Archivierung nach Aufbewahrungspflicht (§ 50 BRAO sechs Jahre nach Mandatsende) Wiedervorlagen. Monatliche und jaehrliche Auswertung Aktenanzahl je Anwalt. Markiert lange ruhende Mandate zur Klaerung. Verhindert Datenlecks bei abgeschlossenen Mandaten (DSGVO Art. 5 Speicherbegrenzung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsende mit Schlussrechnung und Aktenherausgabe an Mandant Archivierung nach Aufbewahrungspflicht (§ 50 BRAO sechs Jahre nach Mandatsende) Wiedervorlagen. Monatliche und jaehrliche Auswertung Aktenanzahl je Anwalt. Markiert lange ruhende Mandate zur Klaerung. Verhindert Datenlecks bei abgeschlossenen Mandaten (DSGVO Art. 5 Speicherbegrenzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

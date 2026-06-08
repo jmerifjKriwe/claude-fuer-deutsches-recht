@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-sicherungsmassnahmen-simulation
-description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Sicherungsmaßnahmen und ICP
 
 ## Arbeitsbereich
 
-Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

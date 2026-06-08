@@ -1,13 +1,13 @@
 ---
 name: euipo-beschwerdekammer-eu-gerichte
-description: "EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EUIPO-Beschwerde und EU-Gerichte
 
 ## Arbeitsbereich
 
-EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

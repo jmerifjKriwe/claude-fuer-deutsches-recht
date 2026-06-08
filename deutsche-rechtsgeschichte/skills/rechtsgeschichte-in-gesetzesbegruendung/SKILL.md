@@ -1,13 +1,13 @@
 ---
 name: rechtsgeschichte-in-gesetzesbegruendung
-description: "Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsgeschichte in der Gesetzesbegründung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

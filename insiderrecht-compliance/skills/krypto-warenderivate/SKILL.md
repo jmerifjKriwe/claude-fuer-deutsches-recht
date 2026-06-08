@@ -1,13 +1,13 @@
 ---
 name: krypto-warenderivate
-description: "Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krypto-Token und MAR / MiCA – Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

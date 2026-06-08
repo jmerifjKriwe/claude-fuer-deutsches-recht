@@ -1,13 +1,13 @@
 ---
 name: preferred-equity-hybrid-finance
-description: "Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Preferred Equity und hybride Finanzierung
 
 ## Arbeitsbereich
 
-Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

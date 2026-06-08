@@ -1,13 +1,13 @@
 ---
 name: bmds-verwaltungsdigitalisierung-und-registermodernisierung
-description: "Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsdigitalisierung und Registermodernisierung (BMDS)
 
 ## Arbeitsbereich
 
-Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

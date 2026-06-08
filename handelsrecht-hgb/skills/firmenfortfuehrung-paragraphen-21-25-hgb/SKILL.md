@@ -1,13 +1,13 @@
 ---
 name: firmenfortfuehrung-paragraphen-21-25-hgb
-description: "Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Firmenfortführung §§ 21-25 HGB
 
 ## Arbeitsbereich
 
-Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

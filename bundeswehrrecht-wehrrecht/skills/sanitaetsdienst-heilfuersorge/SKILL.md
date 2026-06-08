@@ -1,13 +1,13 @@
 ---
 name: sanitaetsdienst-heilfuersorge
-description: "Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanitätsdienst und Heilfürsorge
 
 ## Arbeitsbereich
 
-Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

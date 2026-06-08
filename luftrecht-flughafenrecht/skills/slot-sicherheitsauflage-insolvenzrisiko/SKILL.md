@@ -1,13 +1,13 @@
 ---
 name: slot-sicherheitsauflage-insolvenzrisiko
-description: "Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Slot – Sicherheitsauflage bewerten
 
 ## Arbeitsbereich
 
-Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

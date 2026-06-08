@@ -1,13 +1,13 @@
 ---
 name: criminal-copyright-customs-border-database
-description: "Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Criminal Copyright § 506
 
 ## Arbeitsbereich
 
-Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

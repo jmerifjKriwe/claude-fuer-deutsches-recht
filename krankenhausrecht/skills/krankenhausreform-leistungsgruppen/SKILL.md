@@ -1,13 +1,13 @@
 ---
 name: krankenhausreform-leistungsgruppen
-description: "Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krankenhausreform Leistungsgruppen Routing
 
 ## Arbeitsbereich
 
-Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

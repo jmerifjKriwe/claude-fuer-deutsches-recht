@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-register-schiffsleasing
-description: "Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeug-Leasing: Register, Pfand und Wartung
 
 ## Arbeitsbereich
 
-Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

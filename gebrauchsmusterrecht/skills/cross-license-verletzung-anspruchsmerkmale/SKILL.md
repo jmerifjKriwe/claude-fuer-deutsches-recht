@@ -1,13 +1,13 @@
 ---
 name: cross-license-verletzung-anspruchsmerkmale
-description: "Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich Und Cross License
 
 ## Arbeitsbereich
 
-Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

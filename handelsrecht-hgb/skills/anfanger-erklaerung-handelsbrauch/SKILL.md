@@ -1,13 +1,13 @@
 ---
 name: anfanger-erklaerung-handelsbrauch
-description: "Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfänger-Erklärung HGB
 
 ## Arbeitsbereich
 
-Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

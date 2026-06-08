@@ -1,13 +1,13 @@
 ---
 name: ihk-handwerk-berufsabschluss
-description: "Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IHK, Handwerk und Berufsabschluss
 
 ## Arbeitsbereich
 
-Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

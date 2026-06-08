@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-befristung-schriftform-checker
-description: "Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrecht — Befristung und Aufhebung: §§ 14 TzBfG, 623 BGB
 
 ## Arbeitsbereich
 
-Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

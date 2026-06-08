@@ -1,13 +1,13 @@
 ---
 name: freiheitsstrafe-ohne-bewaehrung-vollstreckung
-description: "Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiheitsstrafe ohne Bewaehrung — Vollstreckung
 
 ## Arbeitsbereich
 
-Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

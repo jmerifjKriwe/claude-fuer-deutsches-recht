@@ -7,7 +7,7 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 
 ## Arbeitsbereich
 
-**Bauablauf VBG** ordnet den Fall über die tragenden Prüfungslinien: Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bauablauf VBG** ordnet den Fall über die tragenden Prüfungslinien: Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

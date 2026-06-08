@@ -1,13 +1,13 @@
 ---
 name: gruppenausarbeitung-taeuschung
-description: "Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gruppenausarbeitung und Täuschung
 
 ## Arbeitsbereich
 
-Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

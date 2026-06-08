@@ -7,7 +7,7 @@ description: "Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug 
 
 ## Arbeitsbereich
 
-Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug der Druckerei — Werkvertragsrecht, höhere Gewalt, Schadensersatz, Preisklauseln und Notfallplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug der Druckerei — Werkvertragsrecht, höhere Gewalt, Schadensersatz, Preisklauseln und Notfallplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

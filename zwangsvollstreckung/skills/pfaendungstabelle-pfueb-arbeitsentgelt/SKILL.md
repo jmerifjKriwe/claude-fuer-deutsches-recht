@@ -1,13 +1,13 @@
 ---
 name: pfaendungstabelle-pfueb-arbeitsentgelt
-description: "Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pfändungstabelle 1.7.2025
 
 ## Arbeitsbereich
 
-Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

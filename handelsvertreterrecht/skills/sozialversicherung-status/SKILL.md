@@ -1,13 +1,13 @@
 ---
 name: sozialversicherung-status
-description: "Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB
 
 ## Arbeitsbereich
 
-Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

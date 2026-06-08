@@ -1,13 +1,13 @@
 ---
 name: behoerdenkommunikation-bekanntgabe-social
-description: "Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Knapp, freundlich, rechtlich klar
 
 ## Arbeitsbereich
 
-Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

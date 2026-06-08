@@ -1,13 +1,13 @@
 ---
 name: eilantrag-endgueltig-nicht-bestanden
-description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eilantrag Endgueltig Nicht Bestanden
 
 ## Arbeitsbereich
 
-Prüft Eilrechtsschutz bei endgültigem Nichtbestehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eilrechtsschutz bei endgültigem Nichtbestehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

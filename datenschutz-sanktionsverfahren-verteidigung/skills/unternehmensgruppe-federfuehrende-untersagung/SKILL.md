@@ -7,7 +7,7 @@ description: "Unternehmensgruppe Federfuehrende Untersagung im Datenschutz-Sankt
 
 ## Arbeitsbereich
 
-**Unternehmensgruppe Federfuehrende Untersagung** ordnet den Fall über die tragenden Prüfungslinien: Unternehmensgruppe und federführende Aufsicht, Untersagung und Verarbeitungsstopp, Verhältnismäßigkeit und Existenzgefahr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Unternehmensgruppe Federfuehrende Untersagung** ordnet den Fall über die tragenden Prüfungslinien: Unternehmensgruppe und federführende Aufsicht, Untersagung und Verarbeitungsstopp, Verhältnismäßigkeit und Existenzgefahr. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

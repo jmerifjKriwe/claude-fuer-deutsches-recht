@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-tga-rohrleitung-druckprobe
-description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung TGA Rohrleitungen und Druckpruefung
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

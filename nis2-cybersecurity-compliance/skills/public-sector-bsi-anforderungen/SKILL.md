@@ -1,13 +1,13 @@
 ---
 name: public-sector-bsi-anforderungen
-description: "Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Public Sector BSI Anforderungen
 
 ## Arbeitsbereich
 
-Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: urheberstrafrecht
-description: "Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urheberstrafrecht und Ermittlungen
 
 ## Arbeitsbereich
 
-Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

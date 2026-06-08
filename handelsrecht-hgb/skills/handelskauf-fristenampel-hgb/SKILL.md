@@ -1,13 +1,13 @@
 ---
 name: handelskauf-fristenampel-hgb
-description: "Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelskauf-Fristenampel
 
 ## Arbeitsbereich
 
-Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

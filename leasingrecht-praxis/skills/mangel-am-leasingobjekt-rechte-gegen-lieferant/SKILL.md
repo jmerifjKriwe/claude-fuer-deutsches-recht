@@ -1,13 +1,13 @@
 ---
 name: mangel-am-leasingobjekt-rechte-gegen-lieferant
-description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mangel am Leasingobjekt: Rechte gegen den Lieferanten
 
 ## Arbeitsbereich
 
-Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: postpetition-transfers-preference-ordinary
-description: "Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Postpetition Transfers § 549
 
 ## Arbeitsbereich
 
-Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

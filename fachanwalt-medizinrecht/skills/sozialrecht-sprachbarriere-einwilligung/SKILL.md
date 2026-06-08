@@ -7,7 +7,7 @@ description: "Sozialrecht Sprachbarriere Einwilligung im Medizinrecht: prüft ko
 
 ## Arbeitsbereich
 
-**Sozialrecht Sprachbarriere Einwilligung** ordnet den Fall über die tragenden Prüfungslinien: Sozialrecht, Sprachbarriere Einwilligung, Sterilgut und Medizinprodukt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sozialrecht Sprachbarriere Einwilligung** ordnet den Fall über die tragenden Prüfungslinien: Sozialrecht, Sprachbarriere Einwilligung, Sterilgut und Medizinprodukt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

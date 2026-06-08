@@ -1,13 +1,13 @@
 ---
 name: immobiliendaten-portal-und-lead-datenbank
-description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Immobiliendaten, Portale und Lead-Datenbanken — Datenbankrecht
 
 ## Arbeitsbereich
 
-Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

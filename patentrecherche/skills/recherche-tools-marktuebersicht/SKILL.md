@@ -1,13 +1,13 @@
 ---
 name: recherche-tools-marktuebersicht
-description: "Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung im Patentrecherche: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recherche-Tools: Marktuebersicht
 
 ## Arbeitsbereich
 
-Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

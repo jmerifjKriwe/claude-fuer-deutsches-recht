@@ -7,7 +7,7 @@ description: "Rahmenvereinbarung Abrufe Angebotsoeffnung im Plugin Fachanwalt Ve
 
 ## Arbeitsbereich
 
-**Rahmenvereinbarung Abrufe Angebotsoeffnung** ordnet den Fall über die tragenden Prüfungslinien: Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern, Angebot. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Rahmenvereinbarung Abrufe Angebotsoeffnung** ordnet den Fall über die tragenden Prüfungslinien: Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern, Angebot. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

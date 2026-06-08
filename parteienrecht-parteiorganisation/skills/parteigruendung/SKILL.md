@@ -1,13 +1,13 @@
 ---
 name: parteigruendung
-description: "Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteigründung
 
 ## Arbeitsbereich
 
-Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

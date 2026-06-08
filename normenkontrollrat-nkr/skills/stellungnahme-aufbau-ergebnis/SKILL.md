@@ -1,13 +1,13 @@
 ---
 name: stellungnahme-aufbau-ergebnis
-description: "Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Stellungnahme — Aufbau und Format
 
 ## Arbeitsbereich
 
-Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

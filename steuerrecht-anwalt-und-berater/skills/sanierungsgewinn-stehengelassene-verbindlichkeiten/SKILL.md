@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-stehengelassene-verbindlichkeiten
-description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation
 
 ## Arbeitsbereich
 
-Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse:
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
@@ -166,7 +166,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 
 ### 4.2 Steuererklaerung als Vollzugshindernis
 
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783: Loeschung erst nach Anmeldung Abschluss Liquidation; offene Steuererklaerung als Hinderungsgrund.
+- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166**: Loeschung erst nach Anmeldung Abschluss Liquidation; offene Steuererklaerung als Hinderungsgrund.
 - **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**: Aussicht auf Steuerrueckerstattung als Hinderungsgrund.
 - **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**: wie OLG Jena 6 W 506/14.
 - **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
@@ -174,7 +174,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 
 ### 4.3 Wann ist die Loeschung trotzdem moeglich?
 
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
+- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermoegenslosigkeit nicht durch theoretische Festsetzungsfrist-Aenderung gehindert.
 
 **Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klaeren, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung moeglich.
@@ -218,7 +218,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 - **§ 272 Abs. 2 Nr. 4 HGB** Einlage in freie Kapitalruecklage durch Gesellschafterin, anschliessend Tilgung des Darlehens aus den Mitteln.
 - Hochrisiko: **§ 42 AO Gestaltungsmissbrauch**.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
 
 ## 7. Quellenpflicht
 
@@ -360,9 +360,9 @@ Andere Plugins:
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskraeftig.
 - **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung und Definitiveffekt; Rev. anh. BFH I R 36/18.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783.
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**.
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
+- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166**.
+- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**.
 - **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**.
 - **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**.
 - **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**.

@@ -7,7 +7,7 @@ description: "Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle,
 
 ## Arbeitsbereich
 
-Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

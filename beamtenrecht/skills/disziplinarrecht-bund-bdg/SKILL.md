@@ -1,13 +1,13 @@
 ---
 name: disziplinarrecht-bund-bdg
-description: "Bundesdisziplinarrecht nach BDG: Dienstvergehen, Ermittlungsverfahren, Disziplinarverfügung, Klage und Maßnahmebemessung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bundesdisziplinarrecht nach BDG: Dienstvergehen, Ermittlungsverfahren, Disziplinarverfügung, Klage und Maßnahmebemessung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarrecht Bund Bdg
 
 ## Arbeitsbereich
 
-Bundesdisziplinarrecht nach BDG: Dienstvergehen, Ermittlungsverfahren, Disziplinarverfügung, Klage und Maßnahmebemessung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bundesdisziplinarrecht nach BDG: Dienstvergehen, Ermittlungsverfahren, Disziplinarverfügung, Klage und Maßnahmebemessung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

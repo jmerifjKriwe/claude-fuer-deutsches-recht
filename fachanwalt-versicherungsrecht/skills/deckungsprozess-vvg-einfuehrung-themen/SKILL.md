@@ -7,7 +7,7 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Versr Deckungsprozess VVG Einfuehrung Themen** ordnet den Fall über die tragenden Prüfungslinien: Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Versr Deckungsprozess VVG Einfuehrung Themen** ordnet den Fall über die tragenden Prüfungslinien: Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

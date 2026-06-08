@@ -7,7 +7,7 @@ description: "Uefa Wada Sportr Anti im Sportrecht: prüft konkret Uefa, Wada, An
 
 ## Arbeitsbereich
 
-**Uefa Wada Sportr Anti** ordnet den Fall über die tragenden Prüfungslinien: Uefa, Wada, Anti-Doping in der Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Uefa Wada Sportr Anti** ordnet den Fall über die tragenden Prüfungslinien: Uefa, Wada, Anti-Doping in der Praxis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

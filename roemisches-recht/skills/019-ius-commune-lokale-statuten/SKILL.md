@@ -1,13 +1,13 @@
 ---
 name: 019-ius-commune-lokale-statuten
-description: "Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Ius Commune Lokale Statuten Und Gelehrtes Recht
 
 ## Arbeitsbereich
 
-Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

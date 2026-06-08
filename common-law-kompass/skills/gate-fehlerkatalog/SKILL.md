@@ -29,16 +29,16 @@ Dieser Fehlerkatalog prüft im Bereich **Common Law Kompass** Ergebnisse vor Abg
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `begriffe-uebersetzung-bilingual-contract-client-explainer`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bilinguale-client-commercial-sonderfall`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `cl-mandantenuebersicht-cl-prozesskostenrisiko-cl-precedent`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `cl-vertragsklauseln-vertragsbegriffe-cl-discovery`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `common-consideration-discovery`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `contract-formation-false-friends-governing-jurisdiction`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `drafting-interessen-explainer-beweislast-false-friends`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `friends-indemnity-quality`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `humor-coach-interpretation-precedent-common-law`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `begriffe-uebersetzung-bilingual-contract-client-explainer`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bilinguale-client-commercial-sonderfall`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko-cl-precedent`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `cl-vertragsklauseln-vertragsbegriffe-cl-discovery`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `common-consideration-discovery`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `contract-formation-false-friends-governing-jurisdiction`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `drafting-interessen-explainer-beweislast-false-friends`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `friends-indemnity-quality`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `humor-coach-interpretation-precedent-common-law`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

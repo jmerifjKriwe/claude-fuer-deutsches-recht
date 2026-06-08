@@ -7,7 +7,7 @@ description: "GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfun
 
 ## Arbeitsbereich
 
-GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

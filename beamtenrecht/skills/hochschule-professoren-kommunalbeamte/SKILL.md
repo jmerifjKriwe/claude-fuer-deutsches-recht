@@ -1,13 +1,13 @@
 ---
 name: hochschule-professoren-kommunalbeamte
-description: "Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hochschule Professoren W Besoldung
 
 ## Arbeitsbereich
 
-Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

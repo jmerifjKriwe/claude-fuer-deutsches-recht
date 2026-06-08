@@ -1,13 +1,13 @@
 ---
 name: wehrpflicht-wehrdienst-wehrpflichtgesetz
-description: "Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wehrpflicht, Wehrdienst und Reservist — Routing
 
 ## Arbeitsbereich
 
-Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

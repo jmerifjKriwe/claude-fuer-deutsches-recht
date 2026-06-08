@@ -1,13 +1,13 @@
 ---
 name: credit-bidding-363k
-description: "Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Credit Bidding § 363(k)
 
 ## Arbeitsbereich
 
-Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

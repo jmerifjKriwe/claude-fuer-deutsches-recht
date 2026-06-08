@@ -1,13 +1,13 @@
 ---
 name: insurance-dno
-description: "Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insurance and D&O in Bankruptcy
 
 ## Arbeitsbereich
 
-Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

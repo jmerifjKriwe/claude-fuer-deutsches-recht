@@ -7,7 +7,7 @@ description: "Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung im Plugi
 
 ## Arbeitsbereich
 
-Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

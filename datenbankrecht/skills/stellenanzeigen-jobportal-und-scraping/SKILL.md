@@ -1,13 +1,13 @@
 ---
 name: stellenanzeigen-jobportal-und-scraping
-description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stellenanzeigen, Jobportale und Scraping — Datenbankrecht nach Innoweb
 
 ## Arbeitsbereich
 
-Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

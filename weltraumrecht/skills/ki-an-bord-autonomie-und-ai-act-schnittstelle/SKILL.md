@@ -1,13 +1,13 @@
 ---
 name: ki-an-bord-autonomie-und-ai-act-schnittstelle
-description: "Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: KI an Bord: Autonomie und AI Act-Schnittstelle
 
 ## Arbeitsbereich
 
-Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

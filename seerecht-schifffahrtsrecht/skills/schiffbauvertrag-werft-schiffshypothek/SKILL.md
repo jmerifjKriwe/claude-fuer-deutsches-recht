@@ -1,13 +1,13 @@
 ---
 name: schiffbauvertrag-werft-schiffshypothek
-description: "Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffbauvertrag Werft – Risikoprüfung
 
 ## Arbeitsbereich
 
-Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

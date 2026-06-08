@@ -1,13 +1,13 @@
 ---
 name: anhoerung-vor-bescheid
-description: "Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anhörung vor Bescheid
 
 ## Arbeitsbereich
 
-Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

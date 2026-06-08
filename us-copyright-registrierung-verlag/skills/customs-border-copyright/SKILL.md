@@ -1,13 +1,13 @@
 ---
 name: customs-border-copyright
-description: "Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Customs and Border Copyright
 
 ## Arbeitsbereich
 
-Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

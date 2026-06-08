@@ -1,13 +1,13 @@
 ---
 name: verkehrsunfall
-description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten im Prozessrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich
 
 ## Arbeitsbereich
 
-Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

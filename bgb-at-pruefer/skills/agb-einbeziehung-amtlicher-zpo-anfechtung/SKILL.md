@@ -1,13 +1,13 @@
 ---
 name: agb-einbeziehung-amtlicher-zpo-anfechtung
-description: "Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGB-Einbeziehung und Inhaltskontrolle — §§ 305 bis 310 BGB
 
 ## Arbeitsbereich
 
-Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

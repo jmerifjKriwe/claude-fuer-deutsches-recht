@@ -1,13 +1,13 @@
 ---
 name: plan-modification-1127
-description: "Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plan Modification § 1127
 
 ## Arbeitsbereich
 
-Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark
 
 ## Arbeitsbereich
 
-Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark Patterns, Marketing und Produkthaftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark Patterns, Marketing und Produkthaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

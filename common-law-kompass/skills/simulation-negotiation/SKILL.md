@@ -1,13 +1,13 @@
 ---
 name: simulation-negotiation
-description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Simulation und Verhandlungstraining
 
 ## Arbeitsbereich
 
-Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

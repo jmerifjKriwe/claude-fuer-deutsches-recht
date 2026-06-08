@@ -1,13 +1,13 @@
 ---
 name: haptik-und-tastmarke
-description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tastmarken und Haptik-Marken
 
 ## Arbeitsbereich
 
-Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

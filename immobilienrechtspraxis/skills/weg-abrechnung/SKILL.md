@@ -1,6 +1,6 @@
 ---
 name: weg-abrechnung
-description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WEG Abrechnung

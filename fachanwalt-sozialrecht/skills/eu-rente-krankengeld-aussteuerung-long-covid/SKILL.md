@@ -7,14 +7,14 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**EU Rente Krankengeld Aussteuerung Long Covid** ordnet den Fall über die tragenden Prüfungslinien: Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwalt sozialrecht long covid bk. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**EU Rente Krankengeld Aussteuerung Long Covid** ordnet den Fall über die tragenden Prüfungslinien: Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwalt sozialrecht long covid bk. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-sozialrecht-eu-rente-antrag` | Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung. |
 | `fachanwalt-sozialrecht-krankengeld-aussteuerung` | Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht. |
-| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Prüfungslinie für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-sozialrecht-orientierung` | Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. verifizierbare Quellen lizenzpflichtige Literaturquellen Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing). |
 
 ## Arbeitsweg
@@ -33,7 +33,7 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 ### EU-Rente-Antrag
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `EU-Rente-Antrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `EU-Rente-Antrag` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -166,7 +166,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 ### Krankengeld-Aussteuerung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankengeld-Aussteuerung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankengeld-Aussteuerung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -253,12 +253,12 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 ## 3. `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`
 
-**Fokus:** Prüfungslinie für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -553,7 +553,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Fachanwalt für Sozialrecht — Orientierung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Sozialrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Sozialrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.

@@ -1,13 +1,13 @@
 ---
 name: besold-beihilfe-pkv-restkosten-und-kostendaempfung
-description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Beihilfe Pkv Restkosten Und Kostendaempfung
 
 ## Arbeitsbereich
 
-Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

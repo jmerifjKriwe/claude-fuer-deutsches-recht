@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Liquiditaetsplanung** Ergebnisse vor Ab
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `deutschem-dokumentationspaket-excel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `export-forecast-fortbestehensprognose-international`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `idw-s6-integrierte-sanierungsplanung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `insolvenzrecht-liqui-sonderfall-liquiditaetsplanung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `interessen-verifikation-beweislast-vorschau`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `liqp-bankenreporting-leitfaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `liqp-liquiditaetspool-cash-pooling-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `liqp-liquiditaetspool-cash-rollende-13wochen-warenkredit-skonto`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `liqp-rollende-13wochen-bauleiter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `deutschem-dokumentationspaket-excel`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `export-forecast-fortbestehensprognose-international`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `idw-s6-integrierte-sanierungsplanung`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `insolvenzrecht-liqui-sonderfall-liquiditaetsplanung`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `interessen-verifikation-beweislast-vorschau`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `liqp-bankenreporting-leitfaden`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `liqp-liquiditaetspool-cash-pooling-spezial`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `liqp-liquiditaetspool-cash-rollende-13wochen-warenkredit-skonto`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `liqp-rollende-13wochen-bauleiter`: den für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

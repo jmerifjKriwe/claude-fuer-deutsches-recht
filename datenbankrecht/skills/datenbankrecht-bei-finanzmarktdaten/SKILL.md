@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-bei-finanzmarktdaten
-description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten
 
 ## Arbeitsbereich
 
-Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

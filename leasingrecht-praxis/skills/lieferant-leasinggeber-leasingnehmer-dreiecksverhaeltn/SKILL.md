@@ -1,13 +1,13 @@
 ---
 name: lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn
-description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer
 
 ## Arbeitsbereich
 
-Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

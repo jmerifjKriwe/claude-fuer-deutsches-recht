@@ -1,13 +1,13 @@
 ---
 name: wandelereignis-trigger-wandlung-kommunikation
-description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-* im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-* im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Master-Dispatcher Wandelereignis
 
 ## Arbeitsbereich
 
-Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

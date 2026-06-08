@@ -1,13 +1,13 @@
 ---
 name: presserecht-und-meinungsfreiheit-historisch
-description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Presserecht und Meinungsfreiheit historisch
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

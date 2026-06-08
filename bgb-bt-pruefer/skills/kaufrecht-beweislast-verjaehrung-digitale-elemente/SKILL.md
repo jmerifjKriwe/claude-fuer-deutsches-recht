@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-beweislast-verjaehrung-digitale-elemente
-description: "Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kaufrecht: Beweislast, Verjährung und digitale Elemente
 
 ## Arbeitsbereich
 
-Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: musterungsbescheid-bestandskraft
-description: "Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bestandskräftiger Musterungsbescheid
 
 ## Arbeitsbereich
 
-Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

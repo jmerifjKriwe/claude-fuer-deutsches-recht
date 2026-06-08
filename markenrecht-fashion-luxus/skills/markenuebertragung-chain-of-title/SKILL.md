@@ -1,13 +1,13 @@
 ---
 name: markenuebertragung-chain-of-title
-description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenübertragung und Chain of Title
 
 ## Arbeitsbereich
 
-Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

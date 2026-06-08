@@ -1,13 +1,13 @@
 ---
 name: digital-transmission-streaming
-description: "Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digital Transmission und Streaming
 
 ## Arbeitsbereich
 
-Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

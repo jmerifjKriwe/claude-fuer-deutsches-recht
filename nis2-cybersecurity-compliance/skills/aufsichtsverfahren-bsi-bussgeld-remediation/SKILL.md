@@ -1,13 +1,13 @@
 ---
 name: aufsichtsverfahren-bsi-bussgeld-remediation
-description: "Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtsverfahren BSI
 
 ## Arbeitsbereich
 
-Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

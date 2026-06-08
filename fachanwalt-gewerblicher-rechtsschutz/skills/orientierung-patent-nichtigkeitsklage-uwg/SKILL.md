@@ -7,7 +7,7 @@ description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gew
 
 ## Arbeitsbereich
 
-**Orientierung Patent Nichtigkeitsklage UWG** ordnet den Fall über die tragenden Prüfungslinien: Gewerblichen Rechtsschutz-Mandat einordnen und, Patentnichtigkeitsklage beim BPatG vorbereiten oder, Einstweilige Verfuegung im UWG-Verfahren beantragen oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Orientierung Patent Nichtigkeitsklage UWG** ordnet den Fall über die tragenden Prüfungslinien: Gewerblichen Rechtsschutz-Mandat einordnen und, Patentnichtigkeitsklage beim BPatG vorbereiten oder, Einstweilige Verfuegung im UWG-Verfahren beantragen oder. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

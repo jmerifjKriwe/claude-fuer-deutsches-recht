@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-photovoltaik-untererbbaurecht
-description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PV, Wärmepumpe, Ladepunkte
 
 ## Arbeitsbereich
 
-Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

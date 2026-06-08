@@ -1,13 +1,13 @@
 ---
 name: status
-description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung
 
 ## Arbeitsbereich
 
-Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

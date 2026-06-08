@@ -1,13 +1,13 @@
 ---
 name: registerrecht-fehlerhafte-geschaeftsfuehreradresse
-description: "Prüft Anschriften, Geburtsdaten, Schutzinteressen, Schwärzungsmöglichkeiten und Auszugstypen im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anschriften, Geburtsdaten, Schutzinteressen, Schwärzungsmöglichkeiten und Auszugstypen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Private Daten im Register
 
 ## Arbeitsbereich
 
-Prüft Anschriften, Geburtsdaten, Schutzinteressen, Schwärzungsmöglichkeiten und Auszugstypen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anschriften, Geburtsdaten, Schutzinteressen, Schwärzungsmöglichkeiten und Auszugstypen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

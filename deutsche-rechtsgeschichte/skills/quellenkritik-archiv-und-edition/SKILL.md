@@ -1,13 +1,13 @@
 ---
 name: quellenkritik-archiv-und-edition
-description: "Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellenkritik: Archiv und Edition
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

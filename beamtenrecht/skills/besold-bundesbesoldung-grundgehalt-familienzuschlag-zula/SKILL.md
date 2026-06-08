@@ -1,13 +1,13 @@
 ---
 name: besold-bundesbesoldung-grundgehalt-familienzuschlag-zula
-description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula
 
 ## Arbeitsbereich
 
-Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

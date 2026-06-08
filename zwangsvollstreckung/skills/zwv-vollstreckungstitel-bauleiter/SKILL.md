@@ -1,13 +1,13 @@
 ---
 name: zwv-vollstreckungstitel-bauleiter
-description: "Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwV: Vollstreckungstitel Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

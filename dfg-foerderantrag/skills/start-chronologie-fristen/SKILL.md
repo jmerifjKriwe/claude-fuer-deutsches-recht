@@ -1,13 +1,13 @@
 ---
 name: start-chronologie-fristen
-description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule im DFG-Förderantrag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DFG-Förderantrag — Allgemein
 
 ## Arbeitsbereich
 
-Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

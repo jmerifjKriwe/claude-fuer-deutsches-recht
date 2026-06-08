@@ -7,7 +7,7 @@ description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuh
 
 ## Arbeitsbereich
 
-Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

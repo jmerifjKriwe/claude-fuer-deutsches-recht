@@ -1,13 +1,13 @@
 ---
 name: bestenauslese-art-beurteilungsbeitrag-heilung
-description: "Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bestenauslese Art 33 Ii Gg
 
 ## Arbeitsbereich
 
-Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

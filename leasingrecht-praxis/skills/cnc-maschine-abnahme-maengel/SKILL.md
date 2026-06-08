@@ -1,13 +1,13 @@
 ---
 name: cnc-maschine-abnahme-maengel
-description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung
 
 ## Arbeitsbereich
 
-CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

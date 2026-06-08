@@ -1,13 +1,13 @@
 ---
 name: stay-relief-362d
-description: "Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stay Relief § 362(d)
 
 ## Arbeitsbereich
 
-Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

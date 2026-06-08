@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-zivile-bundeswehrbeschaeftigte
-description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrecht für zivile Bundeswehrbeschäftigte
 
 ## Arbeitsbereich
 
-Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

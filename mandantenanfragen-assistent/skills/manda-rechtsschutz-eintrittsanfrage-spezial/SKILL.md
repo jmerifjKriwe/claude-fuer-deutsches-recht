@@ -1,13 +1,13 @@
 ---
 name: manda-rechtsschutz-eintrittsanfrage-spezial
-description: "Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manda: RS-Eintrittsanfrage
 
 ## Arbeitsbereich
 
-Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

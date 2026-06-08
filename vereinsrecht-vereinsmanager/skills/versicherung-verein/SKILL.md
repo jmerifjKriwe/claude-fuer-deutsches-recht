@@ -1,13 +1,13 @@
 ---
 name: versicherung-verein
-description: "Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherungen
 
 ## Arbeitsbereich
 
-Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

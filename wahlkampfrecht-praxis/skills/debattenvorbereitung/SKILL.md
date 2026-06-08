@@ -1,13 +1,13 @@
 ---
 name: debattenvorbereitung
-description: "Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Debattenvorbereitung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

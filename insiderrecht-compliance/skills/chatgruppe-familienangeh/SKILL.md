@@ -1,13 +1,13 @@
 ---
 name: chatgruppe-familienangeh
-description: "Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Messenger-Chatgruppen und Insiderhandel
 
 ## Arbeitsbereich
 
-Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

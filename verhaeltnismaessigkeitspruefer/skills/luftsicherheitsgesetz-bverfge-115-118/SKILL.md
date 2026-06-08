@@ -3,6 +3,8 @@ name: luftsicherheitsgesetz-bverfge-115-118
 description: Luftsicherheitsgesetz-Urteil BVerfGE Band 115 Seite 118 vom 15.02.2006 als Lehrstueck fuer absolute Grenzen der Verhaeltnismaessigkeit Menschenwuerde unverfuegbar. Mit Sachverhalt Abschuss-Ermaechtigung und der Aussage dass Menschenleben gegen Menschenleben nicht abgewaegt werden darf.
 ---
 
+# Luftsicherheitsgesetz BVerfGE 115 118
+
 ## Sachverhalt
 
 Paragraf 14 III Luftsicherheitsgesetz 2005 erlaubte Bundeswehr im Inland
@@ -47,7 +49,6 @@ Grenzen:
 - Existenzminimum Art 1 I GG iVm Art 20 I GG
 - Folter und unmenschliche Behandlung Art 3 EMRK
 - Verbot der lebenslangen Freiheitsstrafe ohne Aussetzungschance
-  (EGMR Vinter v UK)
 
 ## Folgewirkung
 

@@ -1,13 +1,13 @@
 ---
 name: abfall-circular-economy
-description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abfallrecht und Circular Economy
 
 ## Arbeitsbereich
 
-Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rueckmeldung-3-monate
-description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rueckmeldung 3 Monate
 
 ## Arbeitsbereich
 
-Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

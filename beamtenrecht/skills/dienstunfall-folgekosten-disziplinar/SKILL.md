@@ -1,13 +1,13 @@
 ---
 name: dienstunfall-folgekosten-disziplinar
-description: "Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # dienstunfall-folgekosten-unfallfürsorge
 
 ## Arbeitsbereich
 
-Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

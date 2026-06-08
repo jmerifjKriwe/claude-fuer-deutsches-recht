@@ -7,7 +7,7 @@ description: "Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial 
 
 ## Arbeitsbereich
 
-Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

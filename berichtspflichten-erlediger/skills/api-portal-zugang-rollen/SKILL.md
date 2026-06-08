@@ -1,13 +1,13 @@
 ---
 name: api-portal-zugang-rollen
-description: "Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Portale, APIs und Rollen sicher verwalten
 
 ## Arbeitsbereich
 
-Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangt
 
 ## Arbeitsbereich
 
-Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung, ersparte Aufwendungen und Zurechnung des Wegfalls. Output: Werttabelle mit Einredeprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung, ersparte Aufwendungen und Zurechnung des Wegfalls. Output: Werttabelle mit Einredeprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

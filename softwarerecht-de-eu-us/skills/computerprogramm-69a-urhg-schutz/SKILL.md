@@ -1,13 +1,13 @@
 ---
 name: computerprogramm-69a-urhg-schutz
-description: "Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Computerprogramm-Schutz § 69a UrhG
 
 ## Arbeitsbereich
 
-Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

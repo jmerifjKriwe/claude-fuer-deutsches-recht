@@ -1,13 +1,13 @@
 ---
 name: rechtekette-entwerfer-arbeitgeber
-description: "Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtekette Entwerfer Arbeitgeber
 
 ## Arbeitsbereich
 
-Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

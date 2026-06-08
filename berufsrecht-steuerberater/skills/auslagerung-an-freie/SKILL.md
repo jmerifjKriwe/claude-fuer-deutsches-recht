@@ -1,6 +1,6 @@
 ---
 name: auslagerung-an-freie
-description: "Steuerberater: auslagerung an freie mitarbeiter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: auslagerung an freie mitarbeiter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerberater: auslagerung an freie mitarbeiter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

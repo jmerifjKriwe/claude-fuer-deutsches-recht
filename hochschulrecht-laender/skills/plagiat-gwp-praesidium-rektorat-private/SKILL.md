@@ -1,13 +1,13 @@
 ---
 name: plagiat-gwp-praesidium-rektorat-private
-description: "Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plagiat und GWP an Hochschulen
 
 ## Arbeitsbereich
 
-Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

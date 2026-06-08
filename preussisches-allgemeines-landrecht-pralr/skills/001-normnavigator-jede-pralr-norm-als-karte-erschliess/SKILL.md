@@ -7,7 +7,7 @@ description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen im Pre
 
 ## Arbeitsbereich
 
-PrALR: Normnavigator jede PrALR-Norm als Karte erschließen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normnavigator jede PrALR-Norm als Karte erschließen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: freelancer-misclassification-ip-risk
-description: "Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freelancer Misclassification und IP Risk
 
 ## Arbeitsbereich
 
-Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

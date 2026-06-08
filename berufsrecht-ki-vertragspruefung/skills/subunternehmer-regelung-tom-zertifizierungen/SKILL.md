@@ -1,13 +1,13 @@
 ---
 name: subunternehmer-regelung-tom-zertifizierungen
-description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer im Berufsrecht KI-Vertragsprüfung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subunternehmer-Regelung prüfen
 
 ## Arbeitsbereich
 
-Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

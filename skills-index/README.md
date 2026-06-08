@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v240.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v241.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -148,7 +148,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [nda-verschwiegenheit-generator-checker](./nda-verschwiegenheit-generator-checker.md) (100 Skills)
 - [nis2-cybersecurity-compliance](./nis2-cybersecurity-compliance.md) (101 Skills)
 - [normenkontrolle-bauleitplanung](./normenkontrolle-bauleitplanung.md) (91 Skills)
-- [normenkontrollrat-nkr](./normenkontrollrat-nkr.md) (59 Skills)
+- [normenkontrollrat-nkr](./normenkontrollrat-nkr.md) (60 Skills)
 - [notariat-alltag](./notariat-alltag.md) (66 Skills)
 - [oeffentliches-wirtschaftsrecht](./oeffentliches-wirtschaftsrecht.md) (100 Skills)
 - [ordnungswidrigkeitenrecht](./ordnungswidrigkeitenrecht.md) (100 Skills)

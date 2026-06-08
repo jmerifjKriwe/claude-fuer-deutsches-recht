@@ -1,13 +1,13 @@
 ---
 name: ma-konfliktcheck-konzern
-description: "Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konfliktcheck im Konzern
 
 ## Arbeitsbereich
 
-Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte für Einwilligungen und Hinweis an Mandant. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte für Einwilligungen und Hinweis an Mandant. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

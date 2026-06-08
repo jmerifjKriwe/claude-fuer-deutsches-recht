@@ -1,13 +1,13 @@
 ---
 name: beraterdepot-employee
-description: "Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berater-Depot und Treuhandkonten – Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

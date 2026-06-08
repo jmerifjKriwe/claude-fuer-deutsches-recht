@@ -1,13 +1,13 @@
 ---
 name: proz-prozessfinanzierung-spezial
-description: "Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt im Prozessrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Proz: Prozessfinanzierung
 
 ## Arbeitsbereich
 
-Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schulen-und-jugendformate
-description: "Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulen Und Jugendformate
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

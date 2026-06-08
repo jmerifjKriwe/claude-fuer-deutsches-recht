@@ -7,7 +7,7 @@ description: "Krankenversicherungsschutz für Personen ohne anderweitigen KV-Sch
 
 ## Arbeitsbereich
 
-Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: behoerdenkommunikation
-description: "Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Behördenkommunikation und Fristverlängerung
 
 ## Arbeitsbereich
 
-Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

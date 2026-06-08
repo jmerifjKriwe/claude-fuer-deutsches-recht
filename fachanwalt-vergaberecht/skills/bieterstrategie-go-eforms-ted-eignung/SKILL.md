@@ -7,7 +7,7 @@ description: "Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergabe
 
 ## Arbeitsbereich
 
-**Bieterstrategie GO Eforms TED Eignung** ordnet den Fall über die tragenden Prüfungslinien: Bieterstrategie und Go/No-Go für Ausschreibungen, eForms, TED und Bekanntmachungen pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bieterstrategie GO Eforms TED Eignung** ordnet den Fall über die tragenden Prüfungslinien: Bieterstrategie und Go/No-Go für Ausschreibungen, eForms, TED und Bekanntmachungen pruefen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

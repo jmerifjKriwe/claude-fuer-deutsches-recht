@@ -1,13 +1,13 @@
 ---
 name: schutzrechts-fristennotiz-ip-klausel
-description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Schutzrechts-Fristennotiz und nächster Schritt
 
 ## Arbeitsbereich
 
-Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

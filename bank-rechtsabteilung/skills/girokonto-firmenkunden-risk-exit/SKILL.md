@@ -1,13 +1,13 @@
 ---
 name: girokonto-firmenkunden-risk-exit
-description: "Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Firmenkunden Risk Exit
 
 ## Arbeitsbereich
 
-Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

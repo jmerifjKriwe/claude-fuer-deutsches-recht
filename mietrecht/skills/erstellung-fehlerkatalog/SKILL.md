@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Mietrecht** Ergebnisse vor Abgabe, Vers
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `amtlichen-amtsgericht-sonderfall-ausschliesslich`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bundesland-datenerhebung-grossstadt-mietspiegel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `klageentwurf-amtsgericht-miet-gewerbemiete-mietvertrag-bauleiter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `lage-ausstattung-mahnung-zahlungsverzug-mandat-triage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `miet-kuendigungsschutz-miet-mietminderung-mieteranfragen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mieter-mieteranfragen-mandantenentscheidung-mieterhoehungs`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mieterhoehung-widersprechen-mieterhoehungsverlangen-erstellen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mietpreisueberhoehung-wistrg-mietsenkungsverlangen-mietspiegel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mietrecht-mietsenkungsverlangen-international-mietspiegel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `amtlichen-amtsgericht-sonderfall-ausschliesslich`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bundesland-datenerhebung-grossstadt-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `klageentwurf-amtsgericht-miet-gewerbemiete-mietvertrag-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `lage-ausstattung-mahnung-zahlungsverzug-mandat-triage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `miet-kuendigungsschutz-miet-mietminderung-mieteranfragen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mieter-mieteranfragen-mandantenentscheidung-mieterhoehungs`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mieterhoehung-widersprechen-mieterhoehungsverlangen-erstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mietpreisueberhoehung-wistrg-mietsenkungsverlangen-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mietrecht-mietsenkungsverlangen-international-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

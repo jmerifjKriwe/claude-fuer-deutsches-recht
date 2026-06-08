@@ -1,13 +1,13 @@
 ---
 name: pfaendung-und-arrest-schiff
-description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pfändung und Arrest am Schiff
 
 ## Arbeitsbereich
 
-Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

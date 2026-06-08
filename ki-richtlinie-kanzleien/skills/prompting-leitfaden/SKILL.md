@@ -1,13 +1,13 @@
 ---
 name: prompting-leitfaden
-description: "Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-für-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-für-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prompting-Leitfaden
 
 ## Arbeitsbereich
 
-Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-für-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-für-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

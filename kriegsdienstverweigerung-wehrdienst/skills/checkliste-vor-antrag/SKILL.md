@@ -1,13 +1,13 @@
 ---
 name: checkliste-vor-antrag
-description: "Letztes Qualitätsgate vor Absendung des KDV-Antrags im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letztes Qualitätsgate vor Absendung des KDV-Antrags im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Checkliste vor Antrag
 
 ## Arbeitsbereich
 
-Letztes Qualitätsgate vor Absendung des KDV-Antrags. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Letztes Qualitätsgate vor Absendung des KDV-Antrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

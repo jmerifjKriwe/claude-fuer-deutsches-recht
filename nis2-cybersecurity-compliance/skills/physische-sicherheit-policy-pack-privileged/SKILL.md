@@ -1,13 +1,13 @@
 ---
 name: physische-sicherheit-policy-pack-privileged
-description: "Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Physische Sicherheit Rechenzentrum
 
 ## Arbeitsbereich
 
-Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

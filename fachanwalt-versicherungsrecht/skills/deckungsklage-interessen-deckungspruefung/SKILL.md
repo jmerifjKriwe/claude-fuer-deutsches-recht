@@ -7,7 +7,7 @@ description: "Deckungsklage Interessen Deckungspruefung im Plugin Fachanwalt Ver
 
 ## Arbeitsbereich
 
-**Deckungsklage Interessen Deckungspruefung** ordnet den Fall über die tragenden Prüfungslinien: Deckungsklage, Deckungsprüfung, Obliegenheiten und Regressrisiko. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Deckungsklage Interessen Deckungspruefung** ordnet den Fall über die tragenden Prüfungslinien: Deckungsklage, Deckungsprüfung, Obliegenheiten und Regressrisiko. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -7,7 +7,7 @@ description: "Sektor Pharma, Generika und Biotech: Sektor-Skill im globalen Kart
 
 ## Arbeitsbereich
 
-Sektor Pharma, Generika und Biotech: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sektor Pharma, Generika und Biotech: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

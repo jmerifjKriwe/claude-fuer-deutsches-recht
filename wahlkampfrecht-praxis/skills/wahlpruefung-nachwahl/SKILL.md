@@ -1,13 +1,13 @@
 ---
 name: wahlpruefung-nachwahl
-description: "Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahlpruefung Nachwahl
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

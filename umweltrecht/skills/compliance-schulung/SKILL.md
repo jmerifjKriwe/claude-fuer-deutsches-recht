@@ -1,13 +1,13 @@
 ---
 name: compliance-schulung
-description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Compliance, Beauftragte und Schulung im Umweltrecht
 
 ## Arbeitsbereich
 
-Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

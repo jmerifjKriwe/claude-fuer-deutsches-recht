@@ -1,13 +1,13 @@
 ---
 name: zwischenverfuegung-registergericht
-description: "Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie, Frist
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

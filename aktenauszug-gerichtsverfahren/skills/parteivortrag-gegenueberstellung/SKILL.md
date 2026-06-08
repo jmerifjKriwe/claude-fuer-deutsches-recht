@@ -1,13 +1,13 @@
 ---
 name: parteivortrag-gegenueberstellung
-description: "Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteivortrag — Gegenüberstellung
 
 ## Arbeitsbereich
 
-Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

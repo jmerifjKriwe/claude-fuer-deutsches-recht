@@ -1,13 +1,13 @@
 ---
 name: security-package-germany
-description: "Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsches Sicherheitenpaket
 
 ## Arbeitsbereich
 
-Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen
 
 ## Arbeitsbereich
 
-Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

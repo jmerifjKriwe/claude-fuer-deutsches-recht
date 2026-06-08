@@ -1,13 +1,13 @@
 ---
 name: bekanntgabe-social-media
-description: "Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bekanntgabe ist der Fristanker
 
 ## Arbeitsbereich
 
-Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: emissionshandel-tehg-dehst
-description: "EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TEHG Emissionsbericht und DEHSt
 
 ## Arbeitsbereich
 
-EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

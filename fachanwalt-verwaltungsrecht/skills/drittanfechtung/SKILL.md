@@ -7,14 +7,14 @@ description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Drittanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Drittanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` | Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
 | `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` | Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
-| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg BVerfG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -503,13 +503,13 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 
 ## 3. `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`
 
-**Fokus:** Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg BVerfG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
 ## Fachkern: Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
-- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg BVerfG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 ## Zweck

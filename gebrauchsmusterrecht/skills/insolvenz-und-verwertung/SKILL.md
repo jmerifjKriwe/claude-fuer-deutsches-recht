@@ -1,13 +1,13 @@
 ---
 name: insolvenz-und-verwertung
-description: "Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz Und Verwertung
 
 ## Arbeitsbereich
 
-Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

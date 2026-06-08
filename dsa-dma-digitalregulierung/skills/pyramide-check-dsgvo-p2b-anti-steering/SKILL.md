@@ -1,13 +1,13 @@
 ---
 name: pyramide-check-dsgvo-p2b-anti-steering
-description: "Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digitalregulierung — Pyramiden-Check
 
 ## Arbeitsbereich
 
-Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

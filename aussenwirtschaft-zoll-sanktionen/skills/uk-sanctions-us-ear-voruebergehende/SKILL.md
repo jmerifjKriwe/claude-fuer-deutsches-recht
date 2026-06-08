@@ -7,7 +7,7 @@ description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA
 
 ## Arbeitsbereich
 
-UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung für Transaktionen mit UK-Bezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung für Transaktionen mit UK-Bezug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

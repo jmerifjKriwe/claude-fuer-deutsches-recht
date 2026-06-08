@@ -1,13 +1,13 @@
 ---
 name: fusion-strahlenschutz-neutronen-transrapid-anbindung-h2
-description: "Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fusion: Strahlenschutz und Neutronenaktivierung
 
 ## Arbeitsbereich
 
-Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: health-insolvenz-irrefuehrende
-description: "Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Health- und Pflege-Franchise mit HWG-Risiko
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

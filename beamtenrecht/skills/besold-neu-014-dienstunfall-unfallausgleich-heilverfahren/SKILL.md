@@ -1,13 +1,13 @@
 ---
 name: besold-neu-014-dienstunfall-unfallausgleich-heilverfahren
-description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Dienstunfall Unfallausgleich Heilverfahren
 
 ## Arbeitsbereich
 
-Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

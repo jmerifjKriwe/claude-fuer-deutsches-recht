@@ -1,13 +1,13 @@
 ---
 name: us-trade-secret-dtsa
-description: "Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Trade Secret DTSA Software
 
 ## Arbeitsbereich
 
-Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: unidroit-force-majeure
-description: "Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

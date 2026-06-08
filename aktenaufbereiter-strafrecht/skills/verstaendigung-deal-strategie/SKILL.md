@@ -1,13 +1,13 @@
 ---
 name: verstaendigung-deal-strategie
-description: "Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verstaendigung (Deal) Strategie
 
 ## Arbeitsbereich
 
-Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

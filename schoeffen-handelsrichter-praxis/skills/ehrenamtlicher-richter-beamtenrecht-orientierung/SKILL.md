@@ -1,13 +1,13 @@
 ---
 name: ehrenamtlicher-richter-beamtenrecht-orientierung
-description: "Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ehrenamtlicher Richter Beamtenrecht: Orientierung
 
 ## Arbeitsbereich
 
-Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

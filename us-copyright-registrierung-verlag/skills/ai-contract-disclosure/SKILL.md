@@ -1,13 +1,13 @@
 ---
 name: ai-contract-disclosure
-description: "Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AI Contract Disclosure und Warranties
 
 ## Arbeitsbereich
 
-Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

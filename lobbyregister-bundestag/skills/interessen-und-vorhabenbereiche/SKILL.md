@@ -1,13 +1,13 @@
 ---
 name: interessen-und-vorhabenbereiche
-description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interessen- und Vorhabenbereiche
 
 ## Arbeitsbereich
 
-Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

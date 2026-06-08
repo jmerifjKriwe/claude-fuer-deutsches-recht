@@ -1,13 +1,13 @@
 ---
 name: einsatz-unfall-versorgung-dokumentenplan
-description: "Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einsatz, Unfall, Versorgung — Dokumentenplan
 
 ## Arbeitsbereich
 
-Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Vergaberecht** Ergebnisse vo
 
 ## Fachspezifische Fehlerachsen
 
-- `bieterstrategie-go-eforms-ted-eignung-referenzen-erstgespraech`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-vergaberecht-aufklaerung-nachforderung-ruege-zuschlag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-vergaberecht-facto-eignungspruefung-freiberufliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-vergaberecht-olg-orientierung-ruegeschriftsatz-gwb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `it-sicherheits-konzessionsvergabe-konzvgv-losbildung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `konzvgv-rahmenvereinbarung-international-schnittstelle-sektvo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mandantenpadlet-vergabe-triage-vergaberecht-nachhaltigkeit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `olg-vergabesenat-resilienz-sicherheit-ruegeschriftsatz-erstellen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `rahmenvereinbarung-abrufe-angebotsoeffnung-formfehler`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `schwellenwerte-livecheck-architektenrecht-fachanwalt-konzession`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `bieterstrategie-go-eforms-ted-eignung-referenzen-erstgespraech`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-vergaberecht-aufklaerung-nachforderung-ruege-zuschlag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-vergaberecht-facto-eignungspruefung-freiberufliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-vergaberecht-olg-orientierung-ruegeschriftsatz-gwb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `it-sicherheits-konzessionsvergabe-konzvgv-losbildung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `konzvgv-rahmenvereinbarung-international-schnittstelle-sektvo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mandantenpadlet-vergabe-triage-vergaberecht-nachhaltigkeit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `olg-vergabesenat-resilienz-sicherheit-ruegeschriftsatz-erstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `rahmenvereinbarung-abrufe-angebotsoeffnung-formfehler`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `schwellenwerte-livecheck-architektenrecht-fachanwalt-konzession`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

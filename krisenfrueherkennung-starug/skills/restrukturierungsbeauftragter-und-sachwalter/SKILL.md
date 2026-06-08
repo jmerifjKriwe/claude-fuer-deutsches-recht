@@ -1,13 +1,13 @@
 ---
 name: restrukturierungsbeauftragter-und-sachwalter
-description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Restrukturierungsbeauftragter und Sachwalter — § 73 StaRUG
 
 ## Arbeitsbereich
 
-Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

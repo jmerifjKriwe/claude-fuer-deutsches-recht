@@ -7,7 +7,7 @@ description: "Bauleiter Marktdefinition: sachlich, raeumlich, zeitlich. SSNIP-Te
 
 ## Arbeitsbereich
 
-Bauleiter Marktdefinition: sachlich, raeumlich, zeitlich. SSNIP-Test, Hypothetischer Monopolist, Mehrproduktmaerkte. Pruefraster für typische Branchen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Marktdefinition: sachlich, raeumlich, zeitlich. SSNIP-Test, Hypothetischer Monopolist, Mehrproduktmaerkte. Pruefraster für typische Branchen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

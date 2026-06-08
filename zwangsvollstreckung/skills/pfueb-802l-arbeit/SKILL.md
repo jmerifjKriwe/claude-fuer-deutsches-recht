@@ -1,13 +1,13 @@
 ---
 name: pfueb-802l-arbeit
-description: "Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner
 
 ## Arbeitsbereich
 
-Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

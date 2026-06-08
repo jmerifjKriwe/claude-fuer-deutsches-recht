@@ -1,13 +1,13 @@
 ---
 name: trademark-china-first-to-file
-description: "Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenschutz VR China: First-to-File und Anti-Squatting
 
 ## Arbeitsbereich
 
-Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

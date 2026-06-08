@@ -1,13 +1,13 @@
 ---
 name: paragraph-verjaehrung-werk-dienst
-description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich § 779 BGB
 
 ## Arbeitsbereich
 
-Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 
 
 ## Arbeitsbereich
 
-Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Strafbefehl Verteidiger** Ergebnisse vo
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `deal-beweislast-einspruch-einspruchsentscheidung-folgen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `einstellung-153a-hauptverhandlung-vorbereitung-strafbefehl`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `einstellung-fahrerlaubnis-mandantenentscheidung-hauptverhandlung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gegen-strafbefehl-einspruch-strafbefehl-aktenanlage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `nebenfolgen-fahrerlaubnis-strafbefehl-pflichtverteidiger`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `nebenfolgen-strafbefehl-strafbefehls`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `rechtsmittel-nach-tagessaetze-geldstrafe-strafbefehl`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `stbv-einspruch-strafbefehl-fahrerlaubnis-auslaendischer-mandant`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `stbv-strafbefehl-abwesenheit-vertretung-akteneinsicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `deal-beweislast-einspruch-einspruchsentscheidung-folgen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einstellung-153a-hauptverhandlung-vorbereitung-strafbefehl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einstellung-fahrerlaubnis-mandantenentscheidung-hauptverhandlung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gegen-strafbefehl-einspruch-strafbefehl-aktenanlage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `nebenfolgen-fahrerlaubnis-strafbefehl-pflichtverteidiger`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `nebenfolgen-strafbefehl-strafbefehls`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `rechtsmittel-nach-tagessaetze-geldstrafe-strafbefehl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `stbv-einspruch-strafbefehl-fahrerlaubnis-auslaendischer-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `stbv-strafbefehl-abwesenheit-vertretung-akteneinsicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

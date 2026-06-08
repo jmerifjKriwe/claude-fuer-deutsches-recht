@@ -7,7 +7,7 @@ description: "Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko,
 
 ## Arbeitsbereich
 
-Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko, Closing Conditions und Belegkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko, Closing Conditions und Belegkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

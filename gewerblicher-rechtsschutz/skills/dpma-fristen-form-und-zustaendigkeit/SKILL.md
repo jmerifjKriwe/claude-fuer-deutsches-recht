@@ -1,13 +1,13 @@
 ---
 name: dpma-fristen-form-und-zustaendigkeit
-description: "DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: DPMA – Fristen, Form und Zuständigkeit
 
 ## Arbeitsbereich
 
-DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

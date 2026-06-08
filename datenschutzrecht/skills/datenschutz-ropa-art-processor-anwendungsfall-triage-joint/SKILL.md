@@ -7,7 +7,7 @@ description: "Datenschutz Ropa ART Processor Anwendungsfall Triage Joint im Date
 
 ## Arbeitsbereich
 
-**Datenschutz Ropa ART Processor Anwendungsfall Triage Joint** ordnet den Fall über die tragenden Prüfungslinien: Vollvorlage für das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Ropa ART Processor Anwendungsfall Triage Joint** ordnet den Fall über die tragenden Prüfungslinien: Vollvorlage für das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

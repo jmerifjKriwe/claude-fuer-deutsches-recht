@@ -1,13 +1,13 @@
 ---
 name: public-to-private-pe
-description: "Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Public-to-Private
 
 ## Arbeitsbereich
 
-Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

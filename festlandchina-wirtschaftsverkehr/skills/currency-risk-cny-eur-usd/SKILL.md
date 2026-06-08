@@ -1,13 +1,13 @@
 ---
 name: currency-risk-cny-eur-usd
-description: "Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel
 
 ## Arbeitsbereich
 
-Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

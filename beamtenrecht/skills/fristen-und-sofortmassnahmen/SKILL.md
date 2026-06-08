@@ -1,13 +1,13 @@
 ---
 name: fristen-und-sofortmassnahmen
-description: "Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage, Eilverfahren, Konkurrentenstreit, Disziplinarverfügung, Beurteilung und Zurruhesetzung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage, Eilverfahren, Konkurrentenstreit, Disziplinarverfügung, Beurteilung und Zurruhesetzung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen Und Sofortmassnahmen
 
 ## Arbeitsbereich
 
-Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage, Eilverfahren, Konkurrentenstreit, Disziplinarverfügung, Beurteilung und Zurruhesetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage, Eilverfahren, Konkurrentenstreit, Disziplinarverfügung, Beurteilung und Zurruhesetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

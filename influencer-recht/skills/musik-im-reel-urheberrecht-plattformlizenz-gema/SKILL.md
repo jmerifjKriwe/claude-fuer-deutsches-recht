@@ -1,13 +1,13 @@
 ---
 name: musik-im-reel-urheberrecht-plattformlizenz-gema
-description: "Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Musik im Reel – Urheberrecht, Plattformlizenz und GEMA
 
 ## Arbeitsbereich
 
-Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

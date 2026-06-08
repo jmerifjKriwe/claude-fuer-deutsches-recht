@@ -1,13 +1,13 @@
 ---
 name: darlehensrecht-verbraucher-unternehmer
-description: "Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Darlehensrecht
 
 ## Arbeitsbereich
 
-Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

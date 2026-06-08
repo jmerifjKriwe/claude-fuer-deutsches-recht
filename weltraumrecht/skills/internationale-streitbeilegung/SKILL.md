@@ -1,13 +1,13 @@
 ---
 name: internationale-streitbeilegung
-description: "Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz
 
 ## Arbeitsbereich
 
-Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

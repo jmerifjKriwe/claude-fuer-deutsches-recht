@@ -1,13 +1,13 @@
 ---
 name: versicherung-und-risiko-im-roemischen-recht
-description: "Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 139 Versicherung Und Risiko Im Roemischen Recht
 
 ## Arbeitsbereich
 
-Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

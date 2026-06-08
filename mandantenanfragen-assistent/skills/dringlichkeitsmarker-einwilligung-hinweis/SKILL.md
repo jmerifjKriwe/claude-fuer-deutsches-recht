@@ -1,13 +1,13 @@
 ---
 name: dringlichkeitsmarker-einwilligung-hinweis
-description: "Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort) im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort) im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dringlichkeitsmarker
 
 ## Arbeitsbereich
 
-Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: insolvenz-franchisegeber-systemhandbuch-und-lizenzen
-description: "Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen
 
 ## Arbeitsbereich
 
-Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

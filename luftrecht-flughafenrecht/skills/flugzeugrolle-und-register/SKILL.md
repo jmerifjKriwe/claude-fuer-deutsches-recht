@@ -1,13 +1,13 @@
 ---
 name: flugzeugrolle-und-register
-description: "Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung
 
 ## Arbeitsbereich
 
-Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: hauptstadtrepraesentanz
-description: "Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hauptstadtrepraesentanz
 
 ## Arbeitsbereich
 
-Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

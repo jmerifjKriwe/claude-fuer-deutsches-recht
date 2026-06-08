@@ -1,13 +1,13 @@
 ---
 name: pflegezeiten-rentenpunkte
-description: "Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # pflegezeiten-rentenpunkte
 
 ## Arbeitsbereich
 
-Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

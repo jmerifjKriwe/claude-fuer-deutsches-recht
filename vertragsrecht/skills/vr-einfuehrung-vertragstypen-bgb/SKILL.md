@@ -1,13 +1,13 @@
 ---
 name: vr-einfuehrung-vertragstypen-bgb
-description: "Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertragsrecht: BGB-Typen
 
 ## Arbeitsbereich
 
-Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

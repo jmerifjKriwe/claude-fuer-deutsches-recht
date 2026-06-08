@@ -1,13 +1,13 @@
 ---
 name: serials-newsletters-database-updates
-description: "Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Serials, Newsletter und Datenbankupdates
 
 ## Arbeitsbereich
 
-Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

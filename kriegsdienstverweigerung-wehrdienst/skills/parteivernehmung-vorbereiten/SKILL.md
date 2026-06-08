@@ -1,13 +1,13 @@
 ---
 name: parteivernehmung-vorbereiten
-description: "Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteivernehmung vorbereiten
 
 ## Arbeitsbereich
 
-Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

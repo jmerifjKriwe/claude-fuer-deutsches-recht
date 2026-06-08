@@ -1,13 +1,13 @@
 ---
 name: protokollmangel-pruefungsamt-kommunikation
-description: "Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Protokollmangel
 
 ## Arbeitsbereich
 
-Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

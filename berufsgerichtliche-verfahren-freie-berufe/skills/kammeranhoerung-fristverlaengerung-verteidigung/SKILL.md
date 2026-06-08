@@ -1,13 +1,13 @@
 ---
 name: kammeranhoerung-fristverlaengerung-verteidigung
-description: "Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

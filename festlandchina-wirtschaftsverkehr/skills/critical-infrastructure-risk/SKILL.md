@@ -1,13 +1,13 @@
 ---
 name: critical-infrastructure-risk
-description: "Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kritische Infrastruktur und China-Beteiligung: Risikobewertung
 
 ## Arbeitsbereich
 
-Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

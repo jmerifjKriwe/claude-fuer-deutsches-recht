@@ -1,13 +1,13 @@
 ---
 name: photos-stock-physischer-deposit-platform
-description: "Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Photos, Stock und Social Media
 
 ## Arbeitsbereich
 
-Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

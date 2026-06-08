@@ -1,13 +1,13 @@
 ---
 name: aerzte-apotheker-altersrente-langjaehrig
-description: "Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # aerzte-apotheker-architekten-versorgungswerk
 
 ## Arbeitsbereich
 
-Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

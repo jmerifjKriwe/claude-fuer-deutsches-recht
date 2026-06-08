@@ -1,13 +1,13 @@
 ---
 name: notfallplan-krisenkommunikation
-description: "Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krise und Kommunikation
 
 ## Arbeitsbereich
 
-Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

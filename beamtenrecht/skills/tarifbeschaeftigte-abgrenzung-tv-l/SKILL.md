@@ -1,13 +1,13 @@
 ---
 name: tarifbeschaeftigte-abgrenzung-tv-l
-description: "Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tarifbeschaeftigte Abgrenzung Tv L
 
 ## Arbeitsbereich
 
-Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

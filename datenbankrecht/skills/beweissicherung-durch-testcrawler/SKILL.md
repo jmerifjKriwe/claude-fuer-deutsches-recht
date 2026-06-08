@@ -1,13 +1,13 @@
 ---
 name: beweissicherung-durch-testcrawler
-description: "Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweissicherung durch Testcrawler — Zulässigkeit und Verwertbarkeit
 
 ## Arbeitsbereich
 
-Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

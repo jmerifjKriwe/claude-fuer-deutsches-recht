@@ -1,13 +1,13 @@
 ---
 name: tagessatzhoehe-40-ii-stgb-nettotagesverdienst
-description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tagessatzhoehe — § 40 Abs. 2 StGB
 
 ## Arbeitsbereich
 
-Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

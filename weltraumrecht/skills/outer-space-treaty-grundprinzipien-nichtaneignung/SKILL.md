@@ -1,13 +1,13 @@
 ---
 name: outer-space-treaty-grundprinzipien-nichtaneignung
-description: "OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung
 
 ## Arbeitsbereich
 
-OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

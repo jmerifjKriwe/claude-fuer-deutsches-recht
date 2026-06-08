@@ -1,13 +1,13 @@
 ---
 name: chronologischer-registerauszug
-description: "Rekonstruiert Registergeschichte, kritische Umschlagpunkte und mögliche Inkonsistenzen im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rekonstruiert Registergeschichte, kritische Umschlagpunkte und mögliche Inkonsistenzen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chronologischen Auszug auswerten
 
 ## Arbeitsbereich
 
-Rekonstruiert Registergeschichte, kritische Umschlagpunkte und mögliche Inkonsistenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rekonstruiert Registergeschichte, kritische Umschlagpunkte und mögliche Inkonsistenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

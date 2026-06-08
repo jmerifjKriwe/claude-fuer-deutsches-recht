@@ -1,13 +1,13 @@
 ---
 name: ablauf-laufzeitende-erbbaurecht-aktenstruktur
-description: "Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Laufzeitende und Exitplan
 
 ## Arbeitsbereich
 
-Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

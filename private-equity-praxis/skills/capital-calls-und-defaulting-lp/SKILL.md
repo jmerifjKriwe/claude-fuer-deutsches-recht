@@ -1,13 +1,13 @@
 ---
 name: capital-calls-und-defaulting-lp
-description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Capital Calls und Defaulting LP
 
 ## Arbeitsbereich
 
-Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

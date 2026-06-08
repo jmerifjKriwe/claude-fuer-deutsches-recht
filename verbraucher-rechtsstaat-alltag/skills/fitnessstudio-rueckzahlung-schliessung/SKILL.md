@@ -1,13 +1,13 @@
 ---
 name: fitnessstudio-rueckzahlung-schliessung
-description: "Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fitnessstudio Rückzahlung Schließung
 
 ## Arbeitsbereich
 
-Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

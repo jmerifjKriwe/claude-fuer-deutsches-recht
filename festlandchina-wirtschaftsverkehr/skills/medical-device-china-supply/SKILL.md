@@ -1,13 +1,13 @@
 ---
 name: medical-device-china-supply
-description: "Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken
 
 ## Arbeitsbereich
 
-Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

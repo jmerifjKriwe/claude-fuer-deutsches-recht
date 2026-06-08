@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-datenschutz
-description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebsrat und Mitbestimmung in Internal Investigations
 
 ## Arbeitsbereich
 
-Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

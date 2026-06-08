@@ -1,13 +1,13 @@
 ---
 name: elternzeit-versorgungsanwartschaft-entfernung
-description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elternzeit — Auswirkungen auf Versorgungsanwartschaft
 
 ## Arbeitsbereich
 
-Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

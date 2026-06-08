@@ -1,13 +1,13 @@
 ---
 name: stufenfeststellung-besoldung-27-bbesg
-description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stufenfeststellung Besoldung nach § 27 BBesG
 
 ## Arbeitsbereich
 
-Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

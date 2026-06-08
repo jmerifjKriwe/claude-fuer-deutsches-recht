@@ -7,7 +7,7 @@ description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen —
 
 ## Arbeitsbereich
 
-Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Orga
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

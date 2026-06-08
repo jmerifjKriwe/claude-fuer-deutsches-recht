@@ -1,13 +1,13 @@
 ---
 name: eu-2024-900-politische-werbung
-description: "Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eu 2024 900 Politische Werbung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

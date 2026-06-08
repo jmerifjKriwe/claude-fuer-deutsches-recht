@@ -1,13 +1,13 @@
 ---
 name: preferences-547
-description: "Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Preferences § 547
 
 ## Arbeitsbereich
 
-Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

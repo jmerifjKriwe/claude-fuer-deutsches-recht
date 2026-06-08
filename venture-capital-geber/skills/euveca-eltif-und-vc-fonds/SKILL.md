@@ -7,7 +7,7 @@ description: "Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Marke
 
 ## Arbeitsbereich
 
-Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

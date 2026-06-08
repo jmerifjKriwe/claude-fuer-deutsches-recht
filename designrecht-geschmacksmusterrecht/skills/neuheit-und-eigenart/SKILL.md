@@ -1,13 +1,13 @@
 ---
 name: neuheit-und-eigenart
-description: "Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Neuheit Und Eigenart
 
 ## Arbeitsbereich
 
-Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

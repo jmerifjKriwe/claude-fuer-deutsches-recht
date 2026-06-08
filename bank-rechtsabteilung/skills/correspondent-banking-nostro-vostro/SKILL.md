@@ -1,13 +1,13 @@
 ---
 name: correspondent-banking-nostro-vostro
-description: "Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Correspondent Banking
 
 ## Arbeitsbereich
 
-Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

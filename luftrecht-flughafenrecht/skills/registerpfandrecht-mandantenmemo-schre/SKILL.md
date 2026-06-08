@@ -1,13 +1,13 @@
 ---
 name: registerpfandrecht-mandantenmemo-schre
-description: "Anwalt schreibt Mandantenmemo für Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt schreibt Mandantenmemo für Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerpfandrecht – Mandantenmemo schreiben
 
 ## Arbeitsbereich
 
-Anwalt schreibt Mandantenmemo für Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt schreibt Mandantenmemo für Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 9 Beauftragter Haushal
 
 ## Arbeitsbereich
 
-Haushaltsrecht BHO Bund und Länder: BHO § 9 Beauftragter Haushalt praktisch anwenden. BHO § 9 Beauftragter Haushalt praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haushaltsrecht BHO Bund und Länder: BHO § 9 Beauftragter Haushalt praktisch anwenden. BHO § 9 Beauftragter Haushalt praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

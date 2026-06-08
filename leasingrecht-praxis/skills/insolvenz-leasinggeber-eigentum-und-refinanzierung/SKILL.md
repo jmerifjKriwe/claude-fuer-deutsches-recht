@@ -1,13 +1,13 @@
 ---
 name: insolvenz-leasinggeber-eigentum-und-refinanzierung
-description: "Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung
 
 ## Arbeitsbereich
 
-Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

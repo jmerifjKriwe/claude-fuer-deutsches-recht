@@ -1,13 +1,13 @@
 ---
 name: ehegattenvertretung-bgb-ehrenamtlicher
-description: "Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # § 1358 BGB Ehegattenvertretung
 
 ## Arbeitsbereich
 
-Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

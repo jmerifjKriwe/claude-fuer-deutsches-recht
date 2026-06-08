@@ -7,7 +7,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

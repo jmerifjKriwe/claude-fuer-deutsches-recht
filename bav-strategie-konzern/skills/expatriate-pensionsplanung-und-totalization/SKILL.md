@@ -1,13 +1,13 @@
 ---
 name: expatriate-pensionsplanung-und-totalization
-description: "Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Expatriate-Pensionsplanung und Totalization
 
 ## Arbeitsbereich
 
-Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

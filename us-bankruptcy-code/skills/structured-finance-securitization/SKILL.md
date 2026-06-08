@@ -1,13 +1,13 @@
 ---
 name: structured-finance-securitization
-description: "Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Structured Finance and Securitization
 
 ## Arbeitsbereich
 
-Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss
-description: "Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

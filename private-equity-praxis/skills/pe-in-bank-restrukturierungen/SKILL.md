@@ -1,13 +1,13 @@
 ---
 name: pe-in-bank-restrukturierungen
-description: "Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PE in Bank-Restrukturierungen
 
 ## Arbeitsbereich
 
-Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

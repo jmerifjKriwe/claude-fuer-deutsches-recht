@@ -1,13 +1,13 @@
 ---
 name: internationaler-creator-wohnsitz-und-wegzug
-description: "Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Internationaler Wohnsitz und Wegzug
 
 ## Arbeitsbereich
 
-Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

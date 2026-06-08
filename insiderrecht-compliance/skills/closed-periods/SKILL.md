@@ -1,13 +1,13 @@
 ---
 name: closed-periods
-description: "Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Closed Periods nach Art. 19 Abs. 11 MAR
 
 ## Arbeitsbereich
 
-Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

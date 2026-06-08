@@ -1,13 +1,13 @@
 ---
 name: handelsregisterabruf
-description: "Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsregisterabruf
 
 ## Arbeitsbereich
 
-Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

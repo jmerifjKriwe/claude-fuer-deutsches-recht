@@ -1,13 +1,13 @@
 ---
 name: normenkontrollantrag-normenkontrolle
-description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Normenkontrollantrag — Schriftsatz
 
 ## Arbeitsbereich
 
-Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

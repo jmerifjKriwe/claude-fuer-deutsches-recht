@@ -1,13 +1,13 @@
 ---
 name: gebietsgliederung
-description: "Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gebietsgliederung
 
 ## Arbeitsbereich
 
-Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

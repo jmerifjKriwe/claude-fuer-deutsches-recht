@@ -1,13 +1,13 @@
 ---
 name: entscheidungsmonitor-rechtsstand
-description: "Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse für Zeitschrift, Kommentar, Newsletter oder Buchauflage im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse für Zeitschrift, Kommentar, Newsletter oder Buchauflage im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entscheidungsmonitor und Rechtsstand
 
 ## Arbeitsbereich
 
-Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse für Zeitschrift, Kommentar, Newsletter oder Buchauflage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse für Zeitschrift, Kommentar, Newsletter oder Buchauflage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

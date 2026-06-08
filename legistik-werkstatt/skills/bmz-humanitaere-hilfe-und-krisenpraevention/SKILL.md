@@ -1,13 +1,13 @@
 ---
 name: bmz-humanitaere-hilfe-und-krisenpraevention
-description: "Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Humanitaere Hilfe und Krisenpraevention (BMZ)
 
 ## Arbeitsbereich
 
-Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

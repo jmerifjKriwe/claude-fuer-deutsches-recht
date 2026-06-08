@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Phishing Vorfall Prüfer** Ergebnisse v
 
 ## Fachspezifische Fehlerachsen
 
-- `675u-675w-banking`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `arbeitnehmer-haftung-bgb-675u-phish-ceo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufsicht-bafin-bank-strategie-banking-app`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bankpflichten-beweislast-beweislast-bgb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bea-notfall-bgb-675v-erstkontakt-mandant`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `call-interessen-faelle-freistehender`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `grobe-online-phishing`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `klage-fristennotiz-vorfall-phish-banking`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `phish-incident-phish-meldepflichten-arten-erkennen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `675u-675w-banking`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `arbeitnehmer-haftung-bgb-675u-phish-ceo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufsicht-bafin-bank-strategie-banking-app`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bankpflichten-beweislast-beweislast-bgb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bea-notfall-bgb-675v-erstkontakt-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `call-interessen-faelle-freistehender`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `grobe-online-phishing`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `klage-fristennotiz-vorfall-phish-banking`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `phish-incident-phish-meldepflichten-arten-erkennen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

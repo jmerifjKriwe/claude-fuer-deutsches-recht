@@ -1,13 +1,13 @@
 ---
 name: bmg-krankenversicherungs-und-leistungsrecht-sgb-v
-description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)
 
 ## Arbeitsbereich
 
-Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

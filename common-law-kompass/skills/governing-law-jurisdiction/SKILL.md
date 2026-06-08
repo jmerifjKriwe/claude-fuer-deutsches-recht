@@ -1,13 +1,13 @@
 ---
 name: governing-law-jurisdiction
-description: "Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Governing Law, Jurisdiction und Forum
 
 ## Arbeitsbereich
 
-Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

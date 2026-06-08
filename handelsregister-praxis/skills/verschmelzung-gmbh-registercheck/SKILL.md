@@ -1,13 +1,13 @@
 ---
 name: verschmelzung-gmbh-registercheck
-description: "Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verschmelzung GmbH Registercheck
 
 ## Arbeitsbereich
 
-Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

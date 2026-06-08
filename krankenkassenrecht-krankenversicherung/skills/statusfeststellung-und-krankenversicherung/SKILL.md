@@ -7,7 +7,7 @@ description: "Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständ
 
 ## Arbeitsbereich
 
-Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

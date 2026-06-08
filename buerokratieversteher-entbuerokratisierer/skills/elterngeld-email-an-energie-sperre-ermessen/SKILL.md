@@ -1,13 +1,13 @@
 ---
 name: elterngeld-email-an-energie-sperre-ermessen
-description: "Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elterngeld
 
 ## Arbeitsbereich
 
-Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

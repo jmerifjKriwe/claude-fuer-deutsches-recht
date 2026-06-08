@@ -1,13 +1,13 @@
 ---
 name: nutzlastvertrag-payload-integration-und-schnittstellen
-description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Nutzlastvertrag: Payload Integration und Schnittstellen
 
 ## Arbeitsbereich
 
-Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

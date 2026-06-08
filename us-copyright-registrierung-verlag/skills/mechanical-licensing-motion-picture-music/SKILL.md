@@ -1,13 +1,13 @@
 ---
 name: mechanical-licensing-motion-picture-music
-description: "Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mechanical Licensing Collective MLC
 
 ## Arbeitsbereich
 
-Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

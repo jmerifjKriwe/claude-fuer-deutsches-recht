@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-sonstiges-tierhalter-gebaeude
-description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deliktsrecht: Sonstiges Recht
 
 ## Arbeitsbereich
 
-Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

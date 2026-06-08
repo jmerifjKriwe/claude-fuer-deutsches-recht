@@ -1,13 +1,13 @@
 ---
 name: praktikum-praxissemester-proctoring
-description: "Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Praktikum Und Praxissemester
 
 ## Arbeitsbereich
 
-Prüft Praktikum, Praxissemester und Anerkennung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Praktikum, Praxissemester und Anerkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

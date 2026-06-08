@@ -1,13 +1,13 @@
 ---
 name: franchise-abgrenzung
-description: "Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

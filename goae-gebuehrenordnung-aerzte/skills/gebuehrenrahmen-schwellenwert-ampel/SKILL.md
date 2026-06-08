@@ -1,13 +1,13 @@
 ---
 name: gebuehrenrahmen-schwellenwert-ampel
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel im Goae Gebührenordnung Aerzte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gebührenrahmen Schwellenwert Ampel
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

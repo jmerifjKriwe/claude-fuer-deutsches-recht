@@ -1,13 +1,13 @@
 ---
 name: handelsrecht-und-hgb-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsrecht und HGB Geschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

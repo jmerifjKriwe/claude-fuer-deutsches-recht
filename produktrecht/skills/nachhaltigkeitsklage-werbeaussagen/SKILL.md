@@ -1,13 +1,13 @@
 ---
 name: nachhaltigkeitsklage-werbeaussagen
-description: "Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Greenwashing-Verteidigung
 
 ## Arbeitsbereich
 
-Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

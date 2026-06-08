@@ -1,13 +1,13 @@
 ---
 name: lohn-kurzarbeit-lohnsteuer-anmeldung
-description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression
 
 ## Arbeitsbereich
 
-Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.

@@ -1,13 +1,13 @@
 ---
 name: fehlerklasse-bgb-at-training
-description: "Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fehlerklassen im BGB-AT-Training
 
 ## Arbeitsbereich
 
-Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-paragraph-826-sittenwidrige-schaedigung
-description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
 
 ## Arbeitsbereich
 
-Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

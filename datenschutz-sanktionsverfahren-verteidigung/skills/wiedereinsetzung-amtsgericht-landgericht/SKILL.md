@@ -7,7 +7,7 @@ description: "Wiedereinsetzung Amtsgericht Landgericht im Datenschutz-Sanktionsv
 
 ## Arbeitsbereich
 
-**Wiedereinsetzung Amtsgericht Landgericht** ordnet den Fall über die tragenden Prüfungslinien: Wiedereinsetzung nach Fristversäumnis, Zuständigkeit Amtsgericht Landgericht § 41 BDSG, Zwischenverfahren § 69 OWiG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Wiedereinsetzung Amtsgericht Landgericht** ordnet den Fall über die tragenden Prüfungslinien: Wiedereinsetzung nach Fristversäumnis, Zuständigkeit Amtsgericht Landgericht § 41 BDSG, Zwischenverfahren § 69 OWiG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

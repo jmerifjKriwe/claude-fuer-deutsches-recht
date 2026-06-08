@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

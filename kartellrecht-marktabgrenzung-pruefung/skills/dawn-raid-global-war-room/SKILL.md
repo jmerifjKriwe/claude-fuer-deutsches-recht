@@ -7,7 +7,7 @@ description: "Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit
 
 ## Arbeitsbereich
 
-Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun
-description: "EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
 
 ## Arbeitsbereich
 
-EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

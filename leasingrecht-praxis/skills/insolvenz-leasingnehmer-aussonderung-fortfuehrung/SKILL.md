@@ -1,13 +1,13 @@
 ---
 name: insolvenz-leasingnehmer-aussonderung-fortfuehrung
-description: "Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz des Leasingnehmers: Aussonderung und Fortführung
 
 ## Arbeitsbereich
 
-Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

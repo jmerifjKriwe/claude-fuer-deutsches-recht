@@ -1,13 +1,13 @@
 ---
 name: betreuungsverein-behoerde-btr-aufgabenkreise
-description: "Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht
 
 ## Arbeitsbereich
 
-Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

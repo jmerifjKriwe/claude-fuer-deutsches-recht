@@ -1,13 +1,13 @@
 ---
 name: reichskammergericht-und-reichshofrat
-description: "Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reichskammergericht und Reichshofrat
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

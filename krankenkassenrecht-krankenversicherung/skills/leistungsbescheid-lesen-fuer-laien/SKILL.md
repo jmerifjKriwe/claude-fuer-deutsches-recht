@@ -7,7 +7,7 @@ description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Abl
 
 ## Arbeitsbereich
 
-Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

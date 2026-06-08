@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-quality-gate-akteneinsicht
-description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409 StPO Beweis Einlassung Verständigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch für die isolierte Fristprüfung im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409 StPO Beweis Einlassung Verständigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch für die isolierte Fristprüfung im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafbefehl-Verteidiger — Kommandocenter
 
 ## Arbeitsbereich
 
-Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409 StPO Beweis Einlassung Verständigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch für die isolierte Fristprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409 StPO Beweis Einlassung Verständigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch für die isolierte Fristprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

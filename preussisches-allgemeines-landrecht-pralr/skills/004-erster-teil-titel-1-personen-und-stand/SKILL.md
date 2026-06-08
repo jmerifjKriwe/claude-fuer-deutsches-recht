@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 1 Personen und Stand im Preußisches Allg
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 1 Personen und Stand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 1 Personen und Stand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

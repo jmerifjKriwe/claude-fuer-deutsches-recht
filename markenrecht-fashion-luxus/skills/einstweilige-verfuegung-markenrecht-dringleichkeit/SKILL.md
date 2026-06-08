@@ -1,13 +1,13 @@
 ---
 name: einstweilige-verfuegung-markenrecht-dringleichkeit
-description: "Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Verfügung im Markenrecht
 
 ## Arbeitsbereich
 
-Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

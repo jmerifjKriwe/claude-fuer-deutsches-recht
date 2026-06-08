@@ -1,13 +1,13 @@
 ---
 name: imports-exports-602-603
-description: "Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Importation und Exportation §§ 602-603
 
 ## Arbeitsbereich
 
-Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

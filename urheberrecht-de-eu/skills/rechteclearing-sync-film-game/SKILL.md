@@ -1,13 +1,13 @@
 ---
 name: rechteclearing-sync-film-game
-description: "Prueft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechteclearing für Film, Game und Werbung
 
 ## Arbeitsbereich
 
-Prueft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

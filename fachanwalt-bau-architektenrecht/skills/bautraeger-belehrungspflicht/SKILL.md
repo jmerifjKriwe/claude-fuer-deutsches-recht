@@ -7,7 +7,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 ## Arbeitsbereich
 
-**Bautraeger Belehrungspflicht** ordnet den Fall über die tragenden Prüfungslinien: Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bautraeger Belehrungspflicht** ordnet den Fall über die tragenden Prüfungslinien: Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

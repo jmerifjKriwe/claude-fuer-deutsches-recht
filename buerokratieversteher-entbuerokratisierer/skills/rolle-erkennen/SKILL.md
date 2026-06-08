@@ -1,13 +1,13 @@
 ---
 name: rolle-erkennen
-description: "Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rolle erkennen
 
 ## Arbeitsbereich
 
-Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

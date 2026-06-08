@@ -1,13 +1,13 @@
 ---
 name: rare-earths-and-critical-raw-materials
-description: "Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung
 
 ## Arbeitsbereich
 
-Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

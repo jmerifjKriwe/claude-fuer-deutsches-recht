@@ -1,13 +1,13 @@
 ---
 name: auslandsdienstbezuege-bbesg
-description: "Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsdienstbezuege nach BBesG
 
 ## Arbeitsbereich
 
-Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

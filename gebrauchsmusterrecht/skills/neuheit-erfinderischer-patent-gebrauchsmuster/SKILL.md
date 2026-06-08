@@ -1,13 +1,13 @@
 ---
 name: neuheit-erfinderischer-patent-gebrauchsmuster
-description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Neuheit Und Erfinderischer Schritt
 
 ## Arbeitsbereich
 
-Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

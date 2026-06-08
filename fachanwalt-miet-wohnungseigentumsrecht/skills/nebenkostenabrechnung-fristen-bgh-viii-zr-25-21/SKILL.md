@@ -1,29 +1,39 @@
 ---
 name: nebenkostenabrechnung-fristen-bgh-viii-zr-25-21
-description: Nebenkostenabrechnung Frist Paragraf 556 III BGB mit BGH.
+description: "Nebenkostenabrechnung Fristen BGH Viii Zr 25 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Nebenkostenabrechnung Fristen BGH Viii Zr 25 21
+
+## Einsatzlage
 
 Vermieter rechnet 14 Monate nach Ablauf ab; Nachforderung verfristet?
 
-## Normen
+## Normenanker
 
-- Paragraf 556 III BGB
+- §§ 535 ff. BGB
+- § 556 BGB
+- § 558 BGB
+- § 573 BGB
+- §§ 18 ff. WEG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 27.01.2021 VIII ZR 25/21
+- BGH 27.01.2021 VIII ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 12-Monats-Frist; danach Ausschluss von Nachforderungen.
 
-## Schriftsatzkern
-
-Nachforderung ausgeschlossen; Guthaben aber bleibt.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Abrechnung
 - Eingangsbestaetigung

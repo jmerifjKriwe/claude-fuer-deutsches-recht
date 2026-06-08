@@ -1,13 +1,13 @@
 ---
 name: franchise-m-a-due-diligence
-description: "M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Franchise-M-und-A-Due-Diligence
 
 ## Arbeitsbereich
 
-M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

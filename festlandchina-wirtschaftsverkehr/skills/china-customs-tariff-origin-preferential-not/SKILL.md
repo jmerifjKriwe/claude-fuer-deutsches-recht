@@ -1,13 +1,13 @@
 ---
 name: china-customs-tariff-origin-preferential-not
-description: "Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zolltarif und Warenursprung China: Prüfung und Dokumentation
 
 ## Arbeitsbereich
 
-Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

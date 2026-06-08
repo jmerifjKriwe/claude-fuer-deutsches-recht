@@ -1,13 +1,13 @@
 ---
 name: landesaufsicht-krankenhausaufsicht
-description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landesaufsicht Krankenhausaufsicht Beanstandung
 
 ## Arbeitsbereich
 
-Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

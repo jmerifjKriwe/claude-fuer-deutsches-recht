@@ -1,13 +1,13 @@
 ---
 name: handelsregister-und-elektronische-zustellung
-description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung
 
 ## Arbeitsbereich
 
-Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: notfallplan-dienstantritt-parteivernehmung
-description: "Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notfallplan Dienstantritt
 
 ## Arbeitsbereich
 
-Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sprachregelung-schnellkarte
-description: "Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sprachregelung Schnellkarte
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: npl-kauf-und-krzwmg
-description: "Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NPL-Kauf und Kreditzweitmarktgesetz
 
 ## Arbeitsbereich
 
-Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

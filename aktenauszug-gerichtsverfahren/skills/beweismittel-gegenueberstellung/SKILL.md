@@ -1,13 +1,13 @@
 ---
 name: beweismittel-gegenueberstellung
-description: "Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverständigenbeweis Zeugenbeweis. Prüfraster Vollständigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Übersicht. Abgrenzung zu parteivortrag-gegenüberstellung (Sachverhalt) und rechtsargumente-gegenüberstellung (Recht) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverständigenbeweis Zeugenbeweis. Prüfraster Vollständigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Übersicht. Abgrenzung zu parteivortrag-gegenüberstellung (Sachverhalt) und rechtsargumente-gegenüberstellung (Recht) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweismittel — Gegenüberstellung
 
 ## Arbeitsbereich
 
-Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverständigenbeweis Zeugenbeweis. Prüfraster Vollständigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Übersicht. Abgrenzung zu parteivortrag-gegenüberstellung (Sachverhalt) und rechtsargumente-gegenüberstellung (Recht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt will Beweisangebote aller Parteien uebersichtlich gegenüberstellen: Zeugen Urkunden Sachverständige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverständigenbeweis Zeugenbeweis. Prüfraster Vollständigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Übersicht. Abgrenzung zu parteivortrag-gegenüberstellung (Sachverhalt) und rechtsargumente-gegenüberstellung (Recht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

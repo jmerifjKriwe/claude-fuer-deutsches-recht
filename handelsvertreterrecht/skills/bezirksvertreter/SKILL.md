@@ -1,13 +1,13 @@
 ---
 name: bezirksvertreter
-description: "Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte
 
 ## Arbeitsbereich
 
-Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

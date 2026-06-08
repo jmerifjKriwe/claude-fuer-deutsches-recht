@@ -1,13 +1,13 @@
 ---
 name: anzahlungs-gewaehrleistungs-und-erfuellungsgarantien
-description: "Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
 
 ## Arbeitsbereich
 
-Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzun
 
 ## Arbeitsbereich
 
-PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

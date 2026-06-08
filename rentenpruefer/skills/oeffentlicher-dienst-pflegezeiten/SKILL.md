@@ -1,13 +1,13 @@
 ---
 name: oeffentlicher-dienst-pflegezeiten
-description: "Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # öffentlicher-dienst-vbl-und-zusatzversorgung
 
 ## Arbeitsbereich
 
-Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

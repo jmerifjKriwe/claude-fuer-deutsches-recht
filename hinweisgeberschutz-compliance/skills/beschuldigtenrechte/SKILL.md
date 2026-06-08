@@ -1,13 +1,13 @@
 ---
 name: beschuldigtenrechte
-description: "Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschuldigtenrechte
 
 ## Arbeitsbereich
 
-Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

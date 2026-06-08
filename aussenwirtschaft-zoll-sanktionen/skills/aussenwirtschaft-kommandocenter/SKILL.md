@@ -7,7 +7,7 @@ description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirts
 
 ## Arbeitsbereich
 
-Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

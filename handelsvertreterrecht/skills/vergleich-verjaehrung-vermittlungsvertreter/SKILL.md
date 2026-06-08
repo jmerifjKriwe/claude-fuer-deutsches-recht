@@ -1,13 +1,13 @@
 ---
 name: vergleich-verjaehrung-vermittlungsvertreter
-description: "Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich und außergerichtliche Einigung im Handelsvertreterstreit
 
 ## Arbeitsbereich
 
-Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

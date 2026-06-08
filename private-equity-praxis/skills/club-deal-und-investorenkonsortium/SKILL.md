@@ -1,13 +1,13 @@
 ---
 name: club-deal-und-investorenkonsortium
-description: "Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Club Deal und Investorenkonsortium
 
 ## Arbeitsbereich
 
-Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

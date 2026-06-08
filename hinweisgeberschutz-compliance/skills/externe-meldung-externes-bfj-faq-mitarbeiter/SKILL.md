@@ -1,13 +1,13 @@
 ---
 name: externe-meldung-externes-bfj-faq-mitarbeiter
-description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Externe Meldung BfJ
 
 ## Arbeitsbereich
 
-Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

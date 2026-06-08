@@ -1,13 +1,13 @@
 ---
 name: lph-02-rechnung-und-prueffaehigkeit
-description: "HOAI LPH 2 Vorplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 2 Vorplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 2 Vorplanung: Prüft abschlag
 
 ## Arbeitsbereich
 
-HOAI LPH 2 Vorplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 2 Vorplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

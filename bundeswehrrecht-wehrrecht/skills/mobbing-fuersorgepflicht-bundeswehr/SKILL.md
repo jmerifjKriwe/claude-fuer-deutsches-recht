@@ -1,13 +1,13 @@
 ---
 name: mobbing-fuersorgepflicht-bundeswehr
-description: "Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mobbing und Fürsorgepflicht Bundeswehr
 
 ## Arbeitsbereich
 
-Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

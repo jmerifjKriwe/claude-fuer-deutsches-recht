@@ -1,13 +1,13 @@
 ---
 name: bsig-registrierung-bsi
-description: "Führt Registrierung und Kontaktdaten beim BSI sauber durch im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Registrierung und Kontaktdaten beim BSI sauber durch im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bsig Registrierung BSI
 
 ## Arbeitsbereich
 
-Führt Registrierung und Kontaktdaten beim BSI sauber durch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt Registrierung und Kontaktdaten beim BSI sauber durch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

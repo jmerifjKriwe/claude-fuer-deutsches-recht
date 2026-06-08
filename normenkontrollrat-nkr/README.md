@@ -130,10 +130,11 @@ Erste Antwort knapp. Maximal eine gezielte Rueckfrage zur Mandatsaufnahme. Sofor
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `allgemein` | Einstieg in das Normenkontrollrat-NKR-Plugin: Triage von Gesetzesvorhaben nach Erfüllungsaufwand, One-in-one-out, Digitalcheck, Befristung, Alternativenprüfung und Vollzugsfolgenabschätzung. Routet zum passenden Spezial-Skill und liefert... |
 | `alternativen-keine-aufgabe-kompetenz` | Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hier... |
 | `alternativen-keine-regelung-soft-law` | Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hier... |
 | `aufgabe-und-kompetenz-nkrg` | Zeigt Aufgabe Zuständigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und... |
@@ -191,7 +192,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `verhaeltnismaessigkeit-aus-sicht` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
 | `verhaeltnismaessigkeit-sicht-zeitwerttabelle` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
 | `zeitwerttabelle-und-fallzahlen` | Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quel... |
-| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampe... |
+| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
 | `zusammenarbeit-bundesregierung-ressorts` | Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Sc... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

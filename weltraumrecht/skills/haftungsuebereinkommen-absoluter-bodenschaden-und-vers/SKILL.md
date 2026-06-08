@@ -1,13 +1,13 @@
 ---
 name: haftungsuebereinkommen-absoluter-bodenschaden-und-vers
-description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All
 
 ## Arbeitsbereich
 
-Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

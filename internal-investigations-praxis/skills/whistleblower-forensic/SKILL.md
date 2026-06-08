@@ -1,13 +1,13 @@
 ---
 name: whistleblower-forensic
-description: "Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Whistleblower-Schutz und -Management
 
 ## Arbeitsbereich
 
-Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

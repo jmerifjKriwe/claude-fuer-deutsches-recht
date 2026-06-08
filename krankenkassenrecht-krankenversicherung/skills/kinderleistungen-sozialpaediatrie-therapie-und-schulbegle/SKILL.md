@@ -7,7 +7,7 @@ description: "Krankenversicherungsleistungen für Kinder: sozialpädiatrische Ze
 
 ## Arbeitsbereich
 
-Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

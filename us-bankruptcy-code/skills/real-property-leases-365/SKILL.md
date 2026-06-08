@@ -1,13 +1,13 @@
 ---
 name: real-property-leases-365
-description: "Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Real Property Leases § 365
 
 ## Arbeitsbereich
 
-Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

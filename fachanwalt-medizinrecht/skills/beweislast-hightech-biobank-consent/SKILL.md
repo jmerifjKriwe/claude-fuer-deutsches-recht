@@ -7,7 +7,7 @@ description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Beweislast Hightech Biobank Consent** ordnet den Fall über die tragenden Prüfungslinien: Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Beweislast Hightech Biobank Consent** ordnet den Fall über die tragenden Prüfungslinien: Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

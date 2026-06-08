@@ -1,13 +1,13 @@
 ---
 name: adressatenkreis-bundestag-bundesregierung
-description: "Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Adressatenkreis Bundestag und Bundesregierung
 
 ## Arbeitsbereich
 
-Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

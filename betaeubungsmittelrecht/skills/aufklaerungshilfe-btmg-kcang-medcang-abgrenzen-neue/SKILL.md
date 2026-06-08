@@ -1,13 +1,13 @@
 ---
 name: aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue
-description: "Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufklaerungshilfe 31 Btmg
 
 ## Arbeitsbereich
 
-Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

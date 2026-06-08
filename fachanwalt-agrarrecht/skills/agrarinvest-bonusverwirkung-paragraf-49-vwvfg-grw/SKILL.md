@@ -1,37 +1,44 @@
 ---
 name: agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw
-description: Bonusverwirkung bei Agrarinvest-Foerderung durch verspaetete Verwendung mit Paragraf 49 VwVfG und VO 2021/1060 Art 64. Pruefraster Vertrauensschutz Bagatellgrenze Vorhabensteuerung.
+description: "Bonusverwirkung bei Agrarinvest-Foerderung durch verspaetete Verwendung mit Paragraf 49 VwVfG und VO 2021/1060 Art 64. Pruefraster Vertrauensschutz Bagatellgrenze Vorhabensteuerung."
 ---
 
-## Problemstellung
+# Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg Grw
+
+## Einsatzlage
 
 Landwirt L erhielt 280.000 EUR Investitionsfoerderung fuer Milchviehstall. Foerderbedingung: Erstmilchlieferung binnen 24 Monaten. Tatsaechlich erst nach 27 Monaten. Foerderbehoerde droht Rueckforderung von 100 Prozent.
 
-## Normen
+## Normenanker
 
-- Paragrafen 48, 49 VwVfG.
-- VO (EU) 2021/1060 Art 64.
-- Foerderrichtlinie GAK-Investitionsfoerderung 2023.
-- Paragraf 1 SubvG.
+- § 49 VWVFG
+- VO (EU) 2021/1060
+- §§ 585 ff. BGB
+- § 9 GrdstVG
+- § 16a TierSchG
+- § 13a DüV
+- § 906 BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BVerwG 14.06.2018 3 C 2.17: Vertrauensschutz im Subventionsrecht eng.
-- BVerwG 23.01.2003 3 C 39/01: Rueckforderung pflichtgemaess wenn Voraussetzung weggefallen.
-- VGH Muenchen 20.07.2022 11 BV 21.188: Bagatellgrenze 5 Prozent Zeitueberschreitung.
+- BVerwG 23.01.2003 3 C 39/01 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 1. Bagatellgrenze pruefen (3 Monate Ueberschreitung von 24 Monaten = 12,5 Prozent, knapp).
 2. Verlaengerungsantrag nachreichen mit Begruendung (Lieferengpaesse).
 3. Anhoerung Paragraf 28 VwVfG einfordern.
 4. Hilfsweise: Anteilige Rueckforderung statt 100 Prozent.
 
-## Schriftsatzkern
-
-Verhaeltnismaessigkeit Paragraf 49 II VwVfG: Bei nur 3 Monaten Ueberschreitung ist Vollwiderruf unverhaeltnismaessig.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bauverzoegerungsnachweis.
 - Lieferdokumente Erstmilch.

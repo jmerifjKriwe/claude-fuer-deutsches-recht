@@ -1,13 +1,13 @@
 ---
 name: manda-erstgespraechsleitfaden-checkliste
-description: "Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manda: Erstgespraechsleitfaden
 
 ## Arbeitsbereich
 
-Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: migrations-und-staatsangehoerigkeitsrecht
-description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Migrations- und Staatsangehoerigkeitsrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

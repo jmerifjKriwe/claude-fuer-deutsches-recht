@@ -1,13 +1,13 @@
 ---
 name: computer-kunst-datenbank-dataset-einstweilige
-description: "Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Computerkunst und generative Modelle
 
 ## Arbeitsbereich
 
-Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: cyberangriff
-description: "Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
 
 ## Arbeitsbereich
 
-Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: blue-pencil-board-agb-bonitaetspruefung-bonus
-description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Blue Pencil Und Geltungserhaltende Reduktion
 
 ## Arbeitsbereich
 
-Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

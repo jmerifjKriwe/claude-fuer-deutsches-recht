@@ -7,7 +7,7 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 
 ## Arbeitsbereich
 
-**Patg Verfuegung Beweislast Verletzungsklage** ordnet den Fall über die tragenden Prüfungslinien: PatG, Einstweilige Verfügung, Verletzungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Patg Verfuegung Beweislast Verletzungsklage** ordnet den Fall über die tragenden Prüfungslinien: PatG, Einstweilige Verfügung, Verletzungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: besonders-wichtige-wichtige-einrichtung
-description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besonders Wichtige Wichtige Einrichtung
 
 ## Arbeitsbereich
 
-Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

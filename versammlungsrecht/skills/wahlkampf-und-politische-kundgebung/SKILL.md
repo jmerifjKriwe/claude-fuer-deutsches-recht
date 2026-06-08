@@ -1,13 +1,13 @@
 ---
 name: wahlkampf-und-politische-kundgebung
-description: "Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahlkampf im öffentlichen Raum
 
 ## Arbeitsbereich
 
-Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

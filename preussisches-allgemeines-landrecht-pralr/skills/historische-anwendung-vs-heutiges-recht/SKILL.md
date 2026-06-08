@@ -7,7 +7,7 @@ description: "PrALR: historische Anwendung, heutige Fortwirkung und bloße Argum
 
 ## Arbeitsbereich
 
-PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: langfristige-liefervertraege-lsa
-description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Langfristige Lieferverträge (LSA)
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

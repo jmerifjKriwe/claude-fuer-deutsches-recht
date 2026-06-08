@@ -1,13 +1,13 @@
 ---
 name: neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

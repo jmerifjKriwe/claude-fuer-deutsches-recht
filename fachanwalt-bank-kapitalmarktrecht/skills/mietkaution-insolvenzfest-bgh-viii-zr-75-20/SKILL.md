@@ -1,30 +1,40 @@
 ---
 name: mietkaution-insolvenzfest-bgh-viii-zr-75-20
-description: Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20.
+description: "Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20."
 ---
 
-## Problemstellung
+# Mietkaution Insolvenzfest BGH Viii Zr 75 20
+
+## Einsatzlage
 
 Vermieter mischt Kaution mit Eigenvermoegen; Vermieter wird insolvent.
 
-## Normen
+## Normenanker
 
-- Paragraf 551 BGB
+- §§ 1, 32 KWG
+- §§ 63 ff. WpHG
+- §§ 491 ff. BGB
+- §§ 675c ff. BGB
+- Art. 17 MAR
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 09.06.2021 VIII ZR 75/20
-- BGH 23.09.2009 VIII ZR 36/09
+- BGH 09.06.2021 VIII ZR 75/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 23.09.2009 VIII ZR 36/09 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Insolvenzfeste Anlage Pflicht; Mieter hat Aussonderungsrecht und Schadensersatzanspruch.
 
-## Schriftsatzkern
-
-Verletzung Paragraf 551 III BGB; Aussonderung nach Paragraf 47 InsO.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Mietvertrag
 - Kontoauszug Kautionskonto

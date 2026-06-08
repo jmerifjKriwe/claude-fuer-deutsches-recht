@@ -1,13 +1,13 @@
 ---
 name: wechat-business-records
-description: "WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz
 
 ## Arbeitsbereich
 
-WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

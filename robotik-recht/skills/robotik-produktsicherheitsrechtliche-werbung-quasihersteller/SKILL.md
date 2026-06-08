@@ -1,13 +1,13 @@
 ---
 name: robotik-produktsicherheitsrechtliche-werbung-quasihersteller
-description: "Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktsicherheitsrechtliche Werbung
 
 ## Arbeitsbereich
 
-Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

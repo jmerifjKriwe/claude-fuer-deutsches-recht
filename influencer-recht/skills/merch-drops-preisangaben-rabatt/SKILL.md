@@ -1,13 +1,13 @@
 ---
 name: merch-drops-preisangaben-rabatt
-description: "Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Merch-Drops, E-Commerce und Widerruf
 
 ## Arbeitsbereich
 
-Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Verfolgungsgrund GFK Visum National** ordnet den Fall über die tragenden Prüfungslinien: GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verfolgungsgrund GFK Visum National** ordnet den Fall über die tragenden Prüfungslinien: GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

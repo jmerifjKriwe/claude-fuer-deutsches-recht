@@ -1,13 +1,13 @@
 ---
 name: mieteranfragen-bearbeitung-projekt
-description: "Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mieteranfragen Bearbeitung
 
 ## Arbeitsbereich
 
-Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

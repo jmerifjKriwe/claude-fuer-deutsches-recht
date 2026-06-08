@@ -1,13 +1,13 @@
 ---
 name: auftrag-scope
-description: "Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Untersuchungsauftrag und Scope
 
 ## Arbeitsbereich
 
-Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

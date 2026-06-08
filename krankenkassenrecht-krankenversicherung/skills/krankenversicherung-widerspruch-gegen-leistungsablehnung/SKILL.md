@@ -7,7 +7,7 @@ description: "Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begrün
 
 ## Arbeitsbereich
 
-Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begründungsanforderungen, Widerspruchsstellen und typische Fehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begründungsanforderungen, Widerspruchsstellen und typische Fehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

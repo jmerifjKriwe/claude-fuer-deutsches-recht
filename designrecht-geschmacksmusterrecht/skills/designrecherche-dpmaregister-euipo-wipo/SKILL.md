@@ -1,13 +1,13 @@
 ---
 name: designrecherche-dpmaregister-euipo-wipo
-description: "Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designrecherche Dpmaregister Euipo Wipo
 
 ## Arbeitsbereich
 
-Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: termsheet-mapping
-description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Term-Sheet-Mapping
 
 ## Arbeitsbereich
 
-Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

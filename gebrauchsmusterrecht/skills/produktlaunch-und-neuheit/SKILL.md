@@ -1,13 +1,13 @@
 ---
 name: produktlaunch-und-neuheit
-description: "Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktlaunch Und Neuheit
 
 ## Arbeitsbereich
 
-Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

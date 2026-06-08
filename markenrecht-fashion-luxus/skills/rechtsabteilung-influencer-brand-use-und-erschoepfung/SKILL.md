@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-influencer-brand-use-und-erschoepfung
-description: "Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

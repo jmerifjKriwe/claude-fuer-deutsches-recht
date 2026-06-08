@@ -7,7 +7,7 @@ description: "Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsanspr
 
 ## Arbeitsbereich
 
-Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

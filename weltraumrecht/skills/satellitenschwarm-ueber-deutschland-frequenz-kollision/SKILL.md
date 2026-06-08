@@ -1,13 +1,13 @@
 ---
 name: satellitenschwarm-ueber-deutschland-frequenz-kollision
-description: "Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken
 
 ## Arbeitsbereich
 
-Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: polizeiverordnung-gefahrenabwehrsatzung
-description: "Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.
 
 ## Arbeitsbereich
 
-Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

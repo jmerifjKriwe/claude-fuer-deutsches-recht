@@ -1,13 +1,13 @@
 ---
 name: auslandszeiten-sozialversicherungsabkommen
-description: "Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # auslandszeiten-sozialversicherungsabkommen
 
 ## Arbeitsbereich
 
-Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

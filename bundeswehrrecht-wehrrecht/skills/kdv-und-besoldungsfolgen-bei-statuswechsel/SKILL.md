@@ -1,13 +1,13 @@
 ---
 name: kdv-und-besoldungsfolgen-bei-statuswechsel
-description: "KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KDV und Besoldungsfolgen bei Statuswechsel
 
 ## Arbeitsbereich
 
-KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

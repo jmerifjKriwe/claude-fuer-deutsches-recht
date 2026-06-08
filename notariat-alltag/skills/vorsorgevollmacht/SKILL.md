@@ -1,13 +1,13 @@
 ---
 name: vorsorgevollmacht
-description: "Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung, Zentrales Vorsorgeregister
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

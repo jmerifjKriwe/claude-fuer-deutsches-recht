@@ -1,13 +1,13 @@
 ---
 name: modulhandbuch-bindung-modulpruefung
-description: "Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Modulhandbuch und Bindungswirkung
 
 ## Arbeitsbereich
 
-Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

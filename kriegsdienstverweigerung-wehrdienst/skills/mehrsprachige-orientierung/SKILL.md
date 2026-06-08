@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-orientierung
-description: "Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrsprachige Orientierung
 
 ## Arbeitsbereich
 
-Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

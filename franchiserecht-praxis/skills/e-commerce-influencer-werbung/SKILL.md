@@ -1,13 +1,13 @@
 ---
 name: e-commerce-influencer-werbung
-description: "E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
 
 ## Arbeitsbereich
 
-E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

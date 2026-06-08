@@ -7,7 +7,7 @@ description: "Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt
 
 ## Arbeitsbereich
 
-Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

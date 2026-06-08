@@ -1,13 +1,13 @@
 ---
 name: textile-and-fashion-sourcing
-description: "Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht
 
 ## Arbeitsbereich
 
-Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

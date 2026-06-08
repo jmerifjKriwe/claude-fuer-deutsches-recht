@@ -1,13 +1,13 @@
 ---
 name: aufsichtsratssonderpr
-description: "Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

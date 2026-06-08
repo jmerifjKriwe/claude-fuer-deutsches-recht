@@ -1,13 +1,13 @@
 ---
 name: e-commerce-crossborder-b2b
-description: "Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzüberschreitender B2B-E-Commerce
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

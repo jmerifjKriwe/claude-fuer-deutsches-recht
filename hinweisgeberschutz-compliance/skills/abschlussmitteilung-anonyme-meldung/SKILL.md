@@ -1,13 +1,13 @@
 ---
 name: abschlussmitteilung-anonyme-meldung
-description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abschlussmitteilung
 
 ## Arbeitsbereich
 
-Formuliert Abschlussmitteilung an Hinweisgeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Abschlussmitteilung an Hinweisgeber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

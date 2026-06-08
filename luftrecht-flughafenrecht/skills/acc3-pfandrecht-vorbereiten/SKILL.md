@@ -1,13 +1,13 @@
 ---
 name: acc3-pfandrecht-vorbereiten
-description: "ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ACC3 – Pfandrecht vorbereiten
 
 ## Arbeitsbereich
 
-ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

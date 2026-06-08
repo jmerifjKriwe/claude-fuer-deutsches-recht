@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-versicherung-melden
-description: "Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Schadensfall bei Versicherung melden
 
 ## Arbeitsbereich
 
-Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

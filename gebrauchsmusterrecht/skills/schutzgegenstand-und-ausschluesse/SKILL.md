@@ -1,13 +1,13 @@
 ---
 name: schutzgegenstand-und-ausschluesse
-description: "Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schutzgegenstand Und Ausschluesse
 
 ## Arbeitsbereich
 
-Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

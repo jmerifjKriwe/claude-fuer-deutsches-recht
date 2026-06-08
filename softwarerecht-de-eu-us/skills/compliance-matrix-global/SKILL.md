@@ -1,13 +1,13 @@
 ---
 name: compliance-matrix-global
-description: "Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Global Software Compliance Matrix
 
 ## Arbeitsbereich
 
-Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

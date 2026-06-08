@@ -1,13 +1,13 @@
 ---
 name: schiffsverkauf-closing
-description: "Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffsverkauf Closing – Durchführung und Übergabe
 
 ## Arbeitsbereich
 
-Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

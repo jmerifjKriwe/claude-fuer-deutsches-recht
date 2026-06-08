@@ -1,13 +1,13 @@
 ---
 name: alkohol-tabak-cannabis-werbung
-description: "Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen
 
 ## Arbeitsbereich
 
-Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

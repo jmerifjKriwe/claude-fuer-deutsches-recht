@@ -1,13 +1,13 @@
 ---
 name: plan-pension-erisa-classification
-description: "Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pension, ERISA and PBGC
 
 ## Arbeitsbereich
 
-Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

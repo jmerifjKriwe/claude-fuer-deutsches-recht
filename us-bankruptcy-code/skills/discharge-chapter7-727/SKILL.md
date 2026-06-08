@@ -1,13 +1,13 @@
 ---
 name: discharge-chapter7-727
-description: "Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 7 Discharge § 727
 
 ## Arbeitsbereich
 
-Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

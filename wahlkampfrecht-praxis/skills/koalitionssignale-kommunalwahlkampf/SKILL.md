@@ -1,13 +1,13 @@
 ---
 name: koalitionssignale-kommunalwahlkampf
-description: "Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Koalitionssignale Und Rote Linien
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

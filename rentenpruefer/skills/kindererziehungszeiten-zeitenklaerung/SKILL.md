@@ -1,13 +1,13 @@
 ---
 name: kindererziehungszeiten-zeitenklaerung
-description: "Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # kindererziehungszeiten-und-beruecksichtigungszeiten
 
 ## Arbeitsbereich
 
-Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

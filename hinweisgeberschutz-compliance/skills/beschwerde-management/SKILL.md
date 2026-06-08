@@ -1,13 +1,13 @@
 ---
 name: beschwerde-management
-description: "Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde Management
 
 ## Arbeitsbereich
 
-Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

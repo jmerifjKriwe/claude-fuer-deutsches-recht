@@ -1,13 +1,13 @@
 ---
 name: eudr-entwaldung-due-diligence
-description: "EUDR: relevante Rohstoffe/Produkte, Sorgfaltserklärung, Geolokalisierung, Risikobewertung und Lieferantendaten im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EUDR: relevante Rohstoffe/Produkte, Sorgfaltserklärung, Geolokalisierung, Risikobewertung und Lieferantendaten im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EUDR Entwaldungsfreie Lieferketten
 
 ## Arbeitsbereich
 
-EUDR: relevante Rohstoffe/Produkte, Sorgfaltserklärung, Geolokalisierung, Risikobewertung und Lieferantendaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EUDR: relevante Rohstoffe/Produkte, Sorgfaltserklärung, Geolokalisierung, Risikobewertung und Lieferantendaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

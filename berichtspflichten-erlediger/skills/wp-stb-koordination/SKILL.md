@@ -1,13 +1,13 @@
 ---
 name: wp-stb-koordination
-description: "Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WP/StB-Koordination bei Berichtspflichten
 
 ## Arbeitsbereich
 
-Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

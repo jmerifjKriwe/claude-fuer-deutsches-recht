@@ -1,13 +1,13 @@
 ---
 name: regulated-bank-fintech-target
-description: "Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bank-/FinTech-Target im PE-Deal
 
 ## Arbeitsbereich
 
-Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

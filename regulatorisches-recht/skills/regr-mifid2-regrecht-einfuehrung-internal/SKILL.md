@@ -1,13 +1,13 @@
 ---
 name: regr-mifid2-regrecht-einfuehrung-internal
-description: "Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster für Emittent und Wertpapierdienstleister im Regulatorisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster für Emittent und Wertpapierdienstleister im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # RegR: MiFID II MAR
 
 ## Arbeitsbereich
 
-Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster für Emittent und Wertpapierdienstleister. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster für Emittent und Wertpapierdienstleister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

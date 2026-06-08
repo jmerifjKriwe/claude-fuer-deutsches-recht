@@ -1,13 +1,13 @@
 ---
 name: laufbahnrecht-bund
-description: "Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Laufbahnrecht Bund
 
 ## Arbeitsbereich
 
-Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

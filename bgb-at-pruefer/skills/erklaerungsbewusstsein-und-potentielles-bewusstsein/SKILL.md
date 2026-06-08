@@ -1,13 +1,13 @@
 ---
 name: erklaerungsbewusstsein-und-potentielles-bewusstsein
-description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung
 
 ## Arbeitsbereich
 
-Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

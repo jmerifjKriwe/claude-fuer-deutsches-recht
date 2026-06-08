@@ -1,13 +1,13 @@
 ---
 name: lph-08-mangel-claim-vorsorge
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert spätere mängel-
 
 ## Arbeitsbereich
 
-HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

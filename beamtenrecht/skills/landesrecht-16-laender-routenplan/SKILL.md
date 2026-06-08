@@ -1,13 +1,13 @@
 ---
 name: landesrecht-16-laender-routenplan
-description: "Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landesrecht - 16-Länder-Routenplan
 
 ## Arbeitsbereich
 
-Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

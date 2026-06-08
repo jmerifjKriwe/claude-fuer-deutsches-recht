@@ -7,7 +7,7 @@ description: "Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- u
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

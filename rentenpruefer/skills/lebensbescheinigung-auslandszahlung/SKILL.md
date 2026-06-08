@@ -1,13 +1,13 @@
 ---
 name: lebensbescheinigung-auslandszahlung
-description: "Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # lebensbescheinigung-und-auslandszahlung
 
 ## Arbeitsbereich
 
-Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

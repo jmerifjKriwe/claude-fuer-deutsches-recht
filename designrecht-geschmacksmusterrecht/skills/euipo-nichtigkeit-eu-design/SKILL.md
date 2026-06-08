@@ -1,13 +1,13 @@
 ---
 name: euipo-nichtigkeit-eu-design
-description: "Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Euipo Nichtigkeit Eu Design
 
 ## Arbeitsbereich
 
-Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

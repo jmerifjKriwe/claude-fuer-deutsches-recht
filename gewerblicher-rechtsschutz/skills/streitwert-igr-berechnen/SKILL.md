@@ -1,13 +1,13 @@
 ---
 name: streitwert-igr-berechnen
-description: "Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen
 
 ## Arbeitsbereich
 
-Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

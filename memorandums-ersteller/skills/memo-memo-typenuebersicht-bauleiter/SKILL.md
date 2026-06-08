@@ -1,13 +1,13 @@
 ---
 name: memo-memo-typenuebersicht-bauleiter
-description: "Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster für Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster für Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo: Typen-Uebersicht
 
 ## Arbeitsbereich
 
-Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster für Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster für Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

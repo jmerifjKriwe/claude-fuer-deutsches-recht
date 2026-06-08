@@ -1,13 +1,13 @@
 ---
 name: hausbesuch-behoerde
-description: "Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hausbesuch Behörde
 
 ## Arbeitsbereich
 
-Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bezugsbindung-lieferanten-und-kartellrecht
-description: "Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht
 
 ## Arbeitsbereich
 
-Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: wahlanfechtung-intern-wahlkampffinanzierung
-description: "Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Wahlanfechtung
 
 ## Arbeitsbereich
 
-Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

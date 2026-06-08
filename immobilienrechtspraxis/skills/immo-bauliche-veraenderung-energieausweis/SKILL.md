@@ -1,13 +1,13 @@
 ---
 name: immo-bauliche-veraenderung-energieausweis
-description: "Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauliche Veraenderung WEG
 
 ## Arbeitsbereich
 
-Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

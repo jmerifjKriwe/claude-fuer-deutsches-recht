@@ -1,13 +1,13 @@
 ---
 name: steuerberater-153-ao-berichtigung-verteidigung
-description: "Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerberater § 153 AO Berichtigung: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

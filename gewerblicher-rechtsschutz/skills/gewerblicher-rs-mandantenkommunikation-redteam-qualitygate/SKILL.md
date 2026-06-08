@@ -1,13 +1,13 @@
 ---
 name: gewerblicher-rs-mandantenkommunikation-redteam-qualitygate
-description: "Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Mandantenkommunikation
 
 ## Arbeitsbereich
 
-Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

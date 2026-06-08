@@ -1,13 +1,13 @@
 ---
 name: maritime-satellitendienste-und-schiffssicherheit
-description: "Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Maritime Satellitendienste und Schiffssicherheit
 
 ## Arbeitsbereich
 
-Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

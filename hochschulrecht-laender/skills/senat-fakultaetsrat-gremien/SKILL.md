@@ -1,13 +1,13 @@
 ---
 name: senat-fakultaetsrat-gremien
-description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Senat Fakultaetsrat Gremien
 
 ## Arbeitsbereich
 
-Prüft Senat, Fakultätsrat und akademische Gremien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Senat, Fakultätsrat und akademische Gremien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

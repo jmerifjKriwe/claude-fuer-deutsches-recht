@@ -1,13 +1,13 @@
 ---
 name: pruefungsunfaehigkeit-ruecktritt
-description: "Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüfungsunfähigkeit und Rücktritt
 
 ## Arbeitsbereich
 
-Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

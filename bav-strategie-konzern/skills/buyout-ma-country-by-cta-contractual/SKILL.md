@@ -1,13 +1,13 @@
 ---
 name: buyout-ma-country-by-cta-contractual
-description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
 ## Arbeitsbereich
 
-Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

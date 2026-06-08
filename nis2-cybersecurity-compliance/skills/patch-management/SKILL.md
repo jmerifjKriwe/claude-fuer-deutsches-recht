@@ -1,13 +1,13 @@
 ---
 name: patch-management
-description: "Prüft Patch-Management bei Servern, Clients, Cloud und OT im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Patch-Management bei Servern, Clients, Cloud und OT im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patch Management
 
 ## Arbeitsbereich
 
-Prüft Patch-Management bei Servern, Clients, Cloud und OT. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Patch-Management bei Servern, Clients, Cloud und OT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

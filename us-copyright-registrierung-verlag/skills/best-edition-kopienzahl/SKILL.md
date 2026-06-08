@@ -1,13 +1,13 @@
 ---
 name: best-edition-kopienzahl
-description: "Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Best Edition und Kopienzahl
 
 ## Arbeitsbereich
 
-Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

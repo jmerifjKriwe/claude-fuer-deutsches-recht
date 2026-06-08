@@ -1,13 +1,13 @@
 ---
 name: u-haft-fristenwacht
-description: "U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # U-Haft-Fristenwacht
 
 ## Arbeitsbereich
 
-U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: insolvenz-forsch-konzernverbund
-description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO im Forschungszulage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
 
 ## Arbeitsbereich
 
-Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

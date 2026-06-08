@@ -7,7 +7,7 @@ description: "Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Staat Vereinigte Arabische Staaten** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Vereinigte Arabische Staaten** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

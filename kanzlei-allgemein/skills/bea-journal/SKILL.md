@@ -1,13 +1,13 @@
 ---
 name: bea-journal
-description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # beA-Nachrichtenjournal und EB-Workflow
 
 ## Arbeitsbereich
 
-Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

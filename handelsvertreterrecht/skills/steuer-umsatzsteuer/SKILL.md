@@ -1,13 +1,13 @@
 ---
 name: steuer-umsatzsteuer
-description: "Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umsatzsteuer im Handelsvertreterverhältnis nach UStG
 
 ## Arbeitsbereich
 
-Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontro
 
 ## Arbeitsbereich
 
-Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

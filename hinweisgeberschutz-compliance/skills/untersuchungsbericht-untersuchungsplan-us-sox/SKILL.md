@@ -1,13 +1,13 @@
 ---
 name: untersuchungsbericht-untersuchungsplan-us-sox
-description: "Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Untersuchungsbericht
 
 ## Arbeitsbereich
 
-Erstellt Untersuchungsbericht ohne Quellenpreisgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Untersuchungsbericht ohne Quellenpreisgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

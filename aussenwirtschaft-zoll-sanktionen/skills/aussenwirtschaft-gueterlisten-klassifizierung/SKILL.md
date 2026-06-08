@@ -7,7 +7,7 @@ description: "Technische Klassifizierung von Waren, Software und Technologie nac
 
 ## Arbeitsbereich
 
-Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

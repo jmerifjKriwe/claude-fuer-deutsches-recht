@@ -1,13 +1,13 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verordnung, Beschluss und Soft Law
 
 ## Arbeitsbereich
 
-EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafverfolgung: KI und Beweisbewertung
 
 ## Arbeitsbereich
 
-KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

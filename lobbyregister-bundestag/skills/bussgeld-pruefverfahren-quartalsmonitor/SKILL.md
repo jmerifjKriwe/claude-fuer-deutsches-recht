@@ -1,13 +1,13 @@
 ---
 name: bussgeld-pruefverfahren-quartalsmonitor
-description: "Reaktionsbei RfS-Prüfung, Anhörung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reaktionsbei RfS-Prüfung, Anhörung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bussgeld und Pruefverfahren
 
 ## Arbeitsbereich
 
-Reaktionsbei RfS-Prüfung, Anhörung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reaktionsbei RfS-Prüfung, Anhörung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

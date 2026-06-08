@@ -1,13 +1,13 @@
 ---
 name: refusal-reconsideration-escalation
-description: "Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Refusal, Reconsideration und Eskalation
 
 ## Arbeitsbereich
 
-Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

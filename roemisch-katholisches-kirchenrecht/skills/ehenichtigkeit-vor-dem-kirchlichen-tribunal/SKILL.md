@@ -7,7 +7,7 @@ description: "Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund,
 
 ## Arbeitsbereich
 
-Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

@@ -7,7 +7,7 @@ description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat
 
 ## Arbeitsbereich
 
-Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung für Schweizer Transaktionsweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung für Schweizer Transaktionsweg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: aktenauszug-strukturpruefung-akzg-bauleiter
-description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenauszug — Strukturprüfung
 
 ## Arbeitsbereich
 
-Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

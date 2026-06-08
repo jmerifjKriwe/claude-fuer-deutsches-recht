@@ -1,13 +1,13 @@
 ---
 name: luftfracht-pfaendung-genehmigung
-description: "Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfracht – Pfändung planen
 
 ## Arbeitsbereich
 
-Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Begriffs- und Übersetzungswerkstatt
 
 ## Arbeitsbereich
 
-Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

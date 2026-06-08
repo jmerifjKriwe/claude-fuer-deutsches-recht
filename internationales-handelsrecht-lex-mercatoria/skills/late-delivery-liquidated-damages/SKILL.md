@@ -1,13 +1,13 @@
 ---
 name: late-delivery-liquidated-damages
-description: "Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferverzug und Liquidated Damages
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

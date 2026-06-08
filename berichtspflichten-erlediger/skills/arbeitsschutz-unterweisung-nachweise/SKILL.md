@@ -1,13 +1,13 @@
 ---
 name: arbeitsschutz-unterweisung-nachweise
-description: "Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsschutz-Unterweisungen nachweisen
 
 ## Arbeitsbereich
 
-Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: aircraft-arrest-airline-finanzielle
-description: "Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest
 
 ## Arbeitsbereich
 
-Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

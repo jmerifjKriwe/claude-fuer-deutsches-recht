@@ -1,13 +1,13 @@
 ---
 name: schiedsstellenverfahren-krankenhausentgelt
-description: "Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiedsstellenverfahren Krankenhausentgelt
 
 ## Arbeitsbereich
 
-Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

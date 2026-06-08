@@ -1,13 +1,13 @@
 ---
 name: handelskauf-paragraphen-handelsmakler
-description: "Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelskauf §§ 373-381 HGB
 
 ## Arbeitsbereich
 
-Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

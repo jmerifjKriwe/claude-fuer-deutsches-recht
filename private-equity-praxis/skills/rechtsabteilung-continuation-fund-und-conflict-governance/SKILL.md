@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-continuation-fund-und-conflict-governance
-description: "Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Continuation Fund und Conflict Governance
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

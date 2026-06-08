@@ -3,6 +3,8 @@ name: erforderlichkeit-mildestes-mittel
 description: Stufe 3 der Verhaeltnismaessigkeit Erforderlichkeit als Suche nach dem mildesten gleich effektiven Mittel. Mit Pruefraster fuer Mittelvergleich Effektivitaetsvergleich und Drittbelastungsverlagerung sowie Hinweisen zur Einschaetzungspraerogative.
 ---
 
+# Erforderlichkeit Mildestes Mittel
+
 ## Massstab
 
 Das Mittel ist **erforderlich**, wenn es kein milderes Mittel gibt,

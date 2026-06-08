@@ -1,13 +1,13 @@
 ---
 name: dlt-pilot-regime-market-infrastructure
-description: "DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DLT Pilot Regime
 
 ## Arbeitsbereich
 
-DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

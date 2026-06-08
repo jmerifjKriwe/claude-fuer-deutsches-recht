@@ -1,6 +1,6 @@
 ---
 name: whistleblowing-hinschg
-description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin im Startup-HR Berlin: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Whistleblowing Hinschg

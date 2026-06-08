@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-d-umwelthaftpflicht
-description: "Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: D&O-Deckung bei Organhaftung
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

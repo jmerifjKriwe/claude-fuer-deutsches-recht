@@ -7,7 +7,7 @@ description: "Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im glo
 
 ## Arbeitsbereich
 
-Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

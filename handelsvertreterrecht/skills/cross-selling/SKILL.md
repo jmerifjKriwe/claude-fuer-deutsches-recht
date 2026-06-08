@@ -1,13 +1,13 @@
 ---
 name: cross-selling
-description: "Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag
 
 ## Arbeitsbereich
 
-Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph-03-nachtrag-und-change-request
-description: "HOAI LPH 3 Entwurfsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 3 Entwurfsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 3 Entwurfsplanung: Erkennt planungsänderung
 
 ## Arbeitsbereich
 
-HOAI LPH 3 Entwurfsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 3 Entwurfsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: hauptversammlung-bank-aktg
-description: "Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hauptversammlung Bank
 
 ## Arbeitsbereich
 
-Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

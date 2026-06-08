@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

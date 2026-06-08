@@ -1,13 +1,13 @@
 ---
 name: podium-teilnahmeentscheidung
-description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Podium Teilnahmeentscheidung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: software-and-saas-agency-distribution-franchise
-description: "Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software- und SaaS-Verträge im grenzüberschreitenden B2B
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

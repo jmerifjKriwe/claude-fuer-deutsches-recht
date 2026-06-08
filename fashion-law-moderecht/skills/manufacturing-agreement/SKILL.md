@@ -1,13 +1,13 @@
 ---
 name: manufacturing-agreement
-description: "Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manufacturing Agreement
 
 ## Arbeitsbereich
 
-Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

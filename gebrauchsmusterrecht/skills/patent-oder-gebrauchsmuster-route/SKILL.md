@@ -1,13 +1,13 @@
 ---
 name: patent-oder-gebrauchsmuster-route
-description: "Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patent Oder Gebrauchsmuster Route
 
 ## Arbeitsbereich
 
-Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

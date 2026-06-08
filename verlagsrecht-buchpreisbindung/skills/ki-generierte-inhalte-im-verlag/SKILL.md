@@ -7,7 +7,7 @@ description: "Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Ve
 
 ## Arbeitsbereich
 
-Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: zulagen-ruhegehaltfaehigkeit-und-rueckforderung
-description: "Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # zulagen-ruhegehaltfaehigkeit-und-rueckforderung
 
 ## Arbeitsbereich
 
-Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: genehmigung-erlaubnis-zulassung
-description: "Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anmeldung und Behörden: Prüft erlaubnispflichtige tätigkeiten wie makler
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

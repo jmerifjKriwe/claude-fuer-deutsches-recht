@@ -1,13 +1,13 @@
 ---
 name: zag-agenten-auslagerung-register
-description: "ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZAG-Agenten, E-Geld-Agenten und Auslagerung
 
 ## Arbeitsbereich
 
-ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

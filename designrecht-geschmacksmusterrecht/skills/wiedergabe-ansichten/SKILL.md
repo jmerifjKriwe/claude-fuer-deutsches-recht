@@ -1,6 +1,6 @@
 ---
 name: wiedergabe-ansichten
-description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wiedergabe Ansichten

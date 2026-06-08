@@ -1,13 +1,13 @@
 ---
 name: motion-picture-audiovisual
-description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Motion Pictures und Audiovisual Works
 
 ## Arbeitsbereich
 
-Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Facto Vergabe im Plugin Fachanwalt Vergaberecht: prüft konkret Ch
 
 ## Arbeitsbereich
 
-**Facto Vergabe** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht, De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Facto Vergabe** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht, De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

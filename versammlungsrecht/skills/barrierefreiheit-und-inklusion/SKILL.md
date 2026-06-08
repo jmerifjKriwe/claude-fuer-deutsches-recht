@@ -1,13 +1,13 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Art. 8 auch praktisch zugänglich machen
 
 ## Arbeitsbereich
 
-Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

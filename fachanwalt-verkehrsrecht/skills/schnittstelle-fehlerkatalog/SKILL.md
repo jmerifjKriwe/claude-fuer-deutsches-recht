@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Verkehrsrecht** Ergebnisse v
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-verk-unfallregulierung-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `autonom-bezuege-fachanwalt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bussgeld-unfall-haftungsquote-vkr-totalschaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstgespraech-mandatsannahme-verkehr-autonom-fahrerlaubnis`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fahrerlaubnis-kanzlei-personen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mandat-triage-schriftsatzkern-substantiierung-315c`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mpu-vorbereitung-orientierung-regulierungsanforderung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `pflvg-quoten-sonderfall-stgb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `stvg-verkehr-fristennotiz-vkr-blitzer`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `stvo-unfallregulierung-beweislast-verkehrsrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-verk-unfallregulierung-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `autonom-bezuege-fachanwalt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bussgeld-unfall-haftungsquote-vkr-totalschaden`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstgespraech-mandatsannahme-verkehr-autonom-fahrerlaubnis`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fahrerlaubnis-kanzlei-personen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mandat-triage-schriftsatzkern-substantiierung-315c`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mpu-vorbereitung-orientierung-regulierungsanforderung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `pflvg-quoten-sonderfall-stgb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `stvg-verkehr-fristennotiz-vkr-blitzer`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `stvo-unfallregulierung-beweislast-verkehrsrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

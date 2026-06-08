@@ -1,13 +1,13 @@
 ---
 name: menschenrechte-ueberwachung
-description: "Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Menschenrechte und Überwachung durch Satelliten
 
 ## Arbeitsbereich
 
-Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

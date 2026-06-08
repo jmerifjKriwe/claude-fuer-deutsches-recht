@@ -1,13 +1,13 @@
 ---
 name: organwechsel-ssm-imas-mvp
-description: "Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Organwechsel Einreichkanal
 
 ## Arbeitsbereich
 
-Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

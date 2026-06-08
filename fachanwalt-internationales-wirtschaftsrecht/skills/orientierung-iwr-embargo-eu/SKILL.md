@@ -7,7 +7,7 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 
 ## Arbeitsbereich
 
-**Orientierung IWR Embargo EU** ordnet den Fall über die tragenden Prüfungslinien: Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023 als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Orientierung IWR Embargo EU** ordnet den Fall über die tragenden Prüfungslinien: Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023 als. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

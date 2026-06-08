@@ -1,13 +1,13 @@
 ---
 name: schweigen-erklaerungswert-stellvertretung
-description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schweigen und Erklärungswert
 
 ## Arbeitsbereich
 
-Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

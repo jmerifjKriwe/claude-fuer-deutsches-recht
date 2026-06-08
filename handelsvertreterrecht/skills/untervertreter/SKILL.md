@@ -1,13 +1,13 @@
 ---
 name: untervertreter
-description: "Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB
 
 ## Arbeitsbereich
 
-Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

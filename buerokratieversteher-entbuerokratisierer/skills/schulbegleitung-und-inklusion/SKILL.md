@@ -1,13 +1,13 @@
 ---
 name: schulbegleitung-und-inklusion
-description: "Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulbegleitung und Inklusion
 
 ## Arbeitsbereich
 
-Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

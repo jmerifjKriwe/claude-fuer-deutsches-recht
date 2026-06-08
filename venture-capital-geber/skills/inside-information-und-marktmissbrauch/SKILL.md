@@ -7,7 +7,7 @@ description: "Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC u
 
 ## Arbeitsbereich
 
-Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

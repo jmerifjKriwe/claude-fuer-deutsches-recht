@@ -1,13 +1,13 @@
 ---
 name: einstweilige-anordnung-vwgo-123
-description: "Prüft vorläufige Regelung ohne passenden §80-Fall im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vorläufige Regelung ohne passenden §80-Fall im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Anordnung § 123
 
 ## Arbeitsbereich
 
-Prüft vorläufige Regelung ohne passenden §80-Fall. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft vorläufige Regelung ohne passenden §80-Fall. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

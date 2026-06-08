@@ -7,7 +7,7 @@ description: "Intwr RED im Internationalen Wirtschaftsrecht: prüft konkret Fach
 
 ## Arbeitsbereich
 
-**Intwr RED** ordnet den Fall über die tragenden Prüfungslinien: Fachanwalt, Internationales, Intwr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Intwr RED** ordnet den Fall über die tragenden Prüfungslinien: Fachanwalt, Internationales, Intwr. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

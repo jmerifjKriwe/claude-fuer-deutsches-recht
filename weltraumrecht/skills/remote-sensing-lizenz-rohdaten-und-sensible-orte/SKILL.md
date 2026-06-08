@@ -1,13 +1,13 @@
 ---
 name: remote-sensing-lizenz-rohdaten-und-sensible-orte
-description: "Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte
 
 ## Arbeitsbereich
 
-Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

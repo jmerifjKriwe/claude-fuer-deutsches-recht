@@ -1,13 +1,13 @@
 ---
 name: 153a-stpo-iii-bewaehrung-stgb
-description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstellung gegen Auflage — § 153a StPO
 
 ## Arbeitsbereich
 
-Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsre
 
 ## Arbeitsbereich
 
-**Schiedsklausel Intwr EU Sanktions** ordnet den Fall über die tragenden Prüfungslinien: Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Schiedsklausel Intwr EU Sanktions** ordnet den Fall über die tragenden Prüfungslinien: Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

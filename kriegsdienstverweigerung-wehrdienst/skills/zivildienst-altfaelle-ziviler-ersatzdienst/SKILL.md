@@ -1,13 +1,13 @@
 ---
 name: zivildienst-altfaelle-ziviler-ersatzdienst
-description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zivildienst-Altfall
 
 ## Arbeitsbereich
 
-Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

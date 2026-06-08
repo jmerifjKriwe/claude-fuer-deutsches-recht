@@ -1,13 +1,13 @@
 ---
 name: anwesenheitspflicht-modul
-description: "Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwesenheitspflicht im Modul
 
 ## Arbeitsbereich
 
-Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

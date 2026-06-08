@@ -1,13 +1,13 @@
 ---
 name: plan-support-agreements
-description: "Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plan Support Agreements
 
 ## Arbeitsbereich
 
-Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

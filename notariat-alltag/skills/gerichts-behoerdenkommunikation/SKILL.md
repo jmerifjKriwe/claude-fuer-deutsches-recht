@@ -1,13 +1,13 @@
 ---
 name: gerichts-behoerdenkommunikation
-description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

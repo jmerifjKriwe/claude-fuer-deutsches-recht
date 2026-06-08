@@ -1,13 +1,13 @@
 ---
 name: versicherung-launch-in-orbit-third-party-liability
-description: "Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Versicherung: Launch, In-Orbit, Third Party Liability
 
 ## Arbeitsbereich
 
-Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

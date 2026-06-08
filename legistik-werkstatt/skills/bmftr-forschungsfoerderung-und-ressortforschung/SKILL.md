@@ -1,13 +1,13 @@
 ---
 name: bmftr-forschungsfoerderung-und-ressortforschung
-description: "Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Forschungsfoerderung und Ressortforschung (BMFTR)
 
 ## Arbeitsbereich
 
-Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

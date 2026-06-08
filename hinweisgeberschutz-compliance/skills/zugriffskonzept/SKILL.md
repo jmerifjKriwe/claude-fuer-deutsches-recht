@@ -1,13 +1,13 @@
 ---
 name: zugriffskonzept
-description: "Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zugriffskonzept
 
 ## Arbeitsbereich
 
-Baut Zugriffskonzept für Case-Management-Systeme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Zugriffskonzept für Case-Management-Systeme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

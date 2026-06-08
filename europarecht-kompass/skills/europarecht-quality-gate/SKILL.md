@@ -1,13 +1,13 @@
 ---
 name: europarecht-quality-gate
-description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Europarecht-Qualitätstor
 
 ## Arbeitsbereich
 
-EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

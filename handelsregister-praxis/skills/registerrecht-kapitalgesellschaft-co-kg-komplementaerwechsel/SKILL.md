@@ -1,13 +1,13 @@
 ---
 name: registerrecht-kapitalgesellschaft-co-kg-komplementaerwechsel
-description: "Koordiniert Ausscheiden/Eintritt der Komplementär-GmbH, Haftung, Vertretung und Registerreihenfolge im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordiniert Ausscheiden/Eintritt der Komplementär-GmbH, Haftung, Vertretung und Registerreihenfolge im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Komplementärwechsel
 
 ## Arbeitsbereich
 
-Koordiniert Ausscheiden/Eintritt der Komplementär-GmbH, Haftung, Vertretung und Registerreihenfolge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordiniert Ausscheiden/Eintritt der Komplementär-GmbH, Haftung, Vertretung und Registerreihenfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

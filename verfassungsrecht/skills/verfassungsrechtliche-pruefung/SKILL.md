@@ -1,13 +1,13 @@
 ---
 name: verfassungsrechtliche-pruefung
-description: "Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungsrechtliche Prüfung — Master-Workflow
 
 ## Arbeitsbereich
 
-Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

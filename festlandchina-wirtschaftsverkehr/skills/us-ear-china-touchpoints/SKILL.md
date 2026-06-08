@@ -1,13 +1,13 @@
 ---
 name: us-ear-china-touchpoints
-description: "US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US-EAR und China: Berührungspunkte für deutsche Exporteure
 
 ## Arbeitsbereich
 
-US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

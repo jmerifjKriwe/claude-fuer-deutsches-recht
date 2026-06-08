@@ -1,13 +1,13 @@
 ---
 name: fashion-week-event
-description: "Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fashion Week Event
 
 ## Arbeitsbereich
 
-Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

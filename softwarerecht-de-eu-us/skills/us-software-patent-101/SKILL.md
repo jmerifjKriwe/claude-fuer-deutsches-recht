@@ -1,13 +1,13 @@
 ---
 name: us-software-patent-101
-description: "Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Software Patent § 101
 
 ## Arbeitsbereich
 
-Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

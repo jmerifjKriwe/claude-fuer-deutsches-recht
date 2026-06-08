@@ -1,13 +1,13 @@
 ---
 name: pfaendung-flugzeug-deutschland
-description: "Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation
 
 ## Arbeitsbereich
 
-Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

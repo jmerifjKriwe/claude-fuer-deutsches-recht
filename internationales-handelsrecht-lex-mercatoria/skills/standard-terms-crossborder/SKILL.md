@@ -1,13 +1,13 @@
 ---
 name: standard-terms-crossborder
-description: "Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Standard Terms im grenzüberschreitenden Handel
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

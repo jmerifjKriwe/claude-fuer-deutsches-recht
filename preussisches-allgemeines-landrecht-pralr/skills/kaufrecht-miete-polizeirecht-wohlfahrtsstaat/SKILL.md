@@ -7,7 +7,7 @@ description: "PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historisc
 
 ## Arbeitsbereich
 
-PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

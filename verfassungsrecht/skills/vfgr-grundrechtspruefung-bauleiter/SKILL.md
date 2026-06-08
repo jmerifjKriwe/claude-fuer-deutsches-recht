@@ -1,13 +1,13 @@
 ---
 name: vfgr-grundrechtspruefung-bauleiter
-description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VfgR: Grundrechtspruefung
 
 ## Arbeitsbereich
 
-Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

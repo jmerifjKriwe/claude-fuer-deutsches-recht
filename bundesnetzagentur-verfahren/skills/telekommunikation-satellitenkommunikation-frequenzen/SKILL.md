@@ -1,13 +1,13 @@
 ---
 name: telekommunikation-satellitenkommunikation-frequenzen
-description: "Telekommunikation / Satellitenkommunikation Frequenzen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telekommunikation / Satellitenkommunikation Frequenzen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Telekommunikation: Satellitenkommunikation Frequenzen
 
 ## Arbeitsbereich
 
-Telekommunikation / Satellitenkommunikation Frequenzen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Telekommunikation / Satellitenkommunikation Frequenzen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

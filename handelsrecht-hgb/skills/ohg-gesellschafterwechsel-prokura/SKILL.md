@@ -1,13 +1,13 @@
 ---
 name: ohg-gesellschafterwechsel-prokura
-description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # OHG Gesellschafterwechsel
 
 ## Arbeitsbereich
 
-Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

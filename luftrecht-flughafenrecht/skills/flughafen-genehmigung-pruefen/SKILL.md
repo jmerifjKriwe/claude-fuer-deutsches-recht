@@ -1,13 +1,13 @@
 ---
 name: flughafen-genehmigung-pruefen
-description: "Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Genehmigung prüfen
 
 ## Arbeitsbereich
 
-Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

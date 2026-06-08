@@ -1,13 +1,13 @@
 ---
 name: sepa-direct-debit-return-disputes
-description: "SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SEPA Lastschriftstreit
 
 ## Arbeitsbereich
 
-SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

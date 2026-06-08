@@ -1,13 +1,13 @@
 ---
 name: semester-uebergabe
-description: "Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Semesterübergabe
 
 ## Arbeitsbereich
 
-Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

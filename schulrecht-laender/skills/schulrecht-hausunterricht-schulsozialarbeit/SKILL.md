@@ -1,13 +1,13 @@
 ---
 name: schulrecht-hausunterricht-schulsozialarbeit
-description: "Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung
 
 ## Arbeitsbereich
 
-Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

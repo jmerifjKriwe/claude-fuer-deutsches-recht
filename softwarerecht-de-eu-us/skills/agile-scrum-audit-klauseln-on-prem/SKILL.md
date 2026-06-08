@@ -1,13 +1,13 @@
 ---
 name: agile-scrum-audit-klauseln-on-prem
-description: "Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agile/Scrum-Vertrag
 
 ## Arbeitsbereich
 
-Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

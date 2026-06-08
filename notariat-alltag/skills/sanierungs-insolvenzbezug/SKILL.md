@@ -1,13 +1,13 @@
 ---
 name: sanierungs-insolvenzbezug
-description: "Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

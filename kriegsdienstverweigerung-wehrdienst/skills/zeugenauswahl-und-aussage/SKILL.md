@@ -1,13 +1,13 @@
 ---
 name: zeugenauswahl-und-aussage
-description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeugen und Auskunftspersonen
 
 ## Arbeitsbereich
 
-Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

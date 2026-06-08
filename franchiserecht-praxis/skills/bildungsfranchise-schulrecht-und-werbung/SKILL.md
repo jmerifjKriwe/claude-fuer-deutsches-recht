@@ -1,13 +1,13 @@
 ---
 name: bildungsfranchise-schulrecht-und-werbung
-description: "Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
 
 ## Arbeitsbereich
 
-Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

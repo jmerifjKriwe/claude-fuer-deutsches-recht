@@ -7,7 +7,7 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 
 ## Arbeitsbereich
 
-**Ombudsmann GDV Orientierung Regress Abwehr** ordnet den Fall über die tragenden Prüfungslinien: Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gegen Sozialversicherungstraeger und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Ombudsmann GDV Orientierung Regress Abwehr** ordnet den Fall über die tragenden Prüfungslinien: Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gegen Sozialversicherungstraeger und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

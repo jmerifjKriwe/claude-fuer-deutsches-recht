@@ -1,13 +1,13 @@
 ---
 name: esg-sfdr-und-lieferketten-im-pe-mandat
-description: "Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ESG, SFDR und Lieferketten im PE-Mandat
 
 ## Arbeitsbereich
 
-Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: pr-einfuehrung-recherchearten
-description: "Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix im Patentrecherche: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patentrecherche: Arten
 
 ## Arbeitsbereich
 
-Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

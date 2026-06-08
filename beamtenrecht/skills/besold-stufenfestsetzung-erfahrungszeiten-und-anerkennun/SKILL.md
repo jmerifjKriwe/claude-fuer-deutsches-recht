@@ -1,13 +1,13 @@
 ---
 name: besold-stufenfestsetzung-erfahrungszeiten-und-anerkennun
-description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun
 
 ## Arbeitsbereich
 
-Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

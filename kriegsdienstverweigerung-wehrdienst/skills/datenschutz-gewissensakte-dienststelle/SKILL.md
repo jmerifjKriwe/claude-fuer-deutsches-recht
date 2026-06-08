@@ -1,13 +1,13 @@
 ---
 name: datenschutz-gewissensakte-dienststelle
-description: "Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz Gewissensakte
 
 ## Arbeitsbereich
 
-Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

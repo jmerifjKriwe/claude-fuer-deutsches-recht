@@ -7,7 +7,7 @@ description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buc
 
 ## Arbeitsbereich
 
-Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

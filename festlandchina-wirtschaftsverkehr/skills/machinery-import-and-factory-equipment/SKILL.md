@@ -1,13 +1,13 @@
 ---
 name: machinery-import-and-factory-equipment
-description: "Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maschinenbau-Import China: CE, Dual-Use und Lieferkette
 
 ## Arbeitsbereich
 
-Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

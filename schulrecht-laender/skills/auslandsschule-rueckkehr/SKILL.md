@@ -1,13 +1,13 @@
 ---
 name: auslandsschule-rueckkehr
-description: "Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsschule und Rückkehr
 
 ## Arbeitsbereich
 
-Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

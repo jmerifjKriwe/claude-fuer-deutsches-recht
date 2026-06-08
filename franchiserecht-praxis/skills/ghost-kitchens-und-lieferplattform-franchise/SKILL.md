@@ -1,13 +1,13 @@
 ---
 name: ghost-kitchens-und-lieferplattform-franchise
-description: "Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Ghost Kitchens und Lieferplattform-Franchise
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

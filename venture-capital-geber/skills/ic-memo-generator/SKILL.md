@@ -7,7 +7,7 @@ description: "Erzeugt IC-Memo mit These, Deal Terms, Risiken, Checks, Alternativ
 
 ## Arbeitsbereich
 
-Erzeugt IC-Memo mit These, Deal Terms, Risiken, Checks, Alternativen, Follow-on und Beschlussvorschlag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt IC-Memo mit These, Deal Terms, Risiken, Checks, Alternativen, Follow-on und Beschlussvorschlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

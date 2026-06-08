@@ -1,13 +1,13 @@
 ---
 name: personenverzeichnis-aufbau
-description: "Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personenverzeichnis aufbauen
 
 ## Arbeitsbereich
 
-Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personenverzeichnis für eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: richterwahl-art-33-ii-und-praesidialrat
-description: "Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterwahl, Bestenauslese und Präsidialrat
 
 ## Arbeitsbereich
 
-Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: reservisten-heranziehung
-description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reservisten und Heranziehung
 
 ## Arbeitsbereich
 
-Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

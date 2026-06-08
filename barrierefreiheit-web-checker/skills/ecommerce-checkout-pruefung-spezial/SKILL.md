@@ -1,13 +1,13 @@
 ---
 name: ecommerce-checkout-pruefung-spezial
-description: "Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Commerce Checkout-Spezial
 
 ## Arbeitsbereich
 
-Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

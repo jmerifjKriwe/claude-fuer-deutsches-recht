@@ -7,7 +7,7 @@ description: "Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, D
 
 ## Arbeitsbereich
 
-Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

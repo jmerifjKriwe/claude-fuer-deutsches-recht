@@ -1,13 +1,13 @@
 ---
 name: esg-and-lksg-data-transfer-trade-e-commerce
-description: "Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ESG, LkSG und CSDDD in der Lieferkette
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

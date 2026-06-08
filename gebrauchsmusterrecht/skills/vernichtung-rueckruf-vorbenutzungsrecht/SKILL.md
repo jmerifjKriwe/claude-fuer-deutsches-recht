@@ -1,13 +1,13 @@
 ---
 name: vernichtung-rueckruf-vorbenutzungsrecht
-description: "Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vernichtung Rueckruf Und Entfernung
 
 ## Arbeitsbereich
 
-Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

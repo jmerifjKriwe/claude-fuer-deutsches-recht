@@ -1,13 +1,13 @@
 ---
 name: dawn-raid-inspection-factory
-description: "Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dawn Raid China: Notfallprotokoll und Behördeninspektion
 
 ## Arbeitsbereich
 
-Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

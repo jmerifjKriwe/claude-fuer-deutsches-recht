@@ -1,13 +1,13 @@
 ---
 name: verpackg-vollstaendigkeitserklaerung
-description: "Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VerpackG Vollständigkeitserklärung
 
 ## Arbeitsbereich
 
-Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: china-dual-use-bafa-us-ear-export-control
-description: "BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BAFA Dual-Use-Check: Genehmigungspflichten für China-Exporte
 
 ## Arbeitsbereich
 
-BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schadensersatz-nichtbefoerderung
-description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schadensersatz wegen Nichtbefoerderung
 
 ## Arbeitsbereich
 
-Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

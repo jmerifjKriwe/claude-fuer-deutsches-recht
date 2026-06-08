@@ -1,13 +1,13 @@
 ---
 name: fristlose-kuendigung-89a
-description: "Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen
 
 ## Arbeitsbereich
 
-Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

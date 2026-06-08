@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung 
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

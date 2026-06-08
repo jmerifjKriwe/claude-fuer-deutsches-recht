@@ -7,7 +7,7 @@ description: "Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerang
 
 ## Arbeitsbereich
 
-Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bverwg-sanitaetsdienst-innere-umkehr
-description: "Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BVerwG 2012 Sanitätsdienst
 
 ## Arbeitsbereich
 
-Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

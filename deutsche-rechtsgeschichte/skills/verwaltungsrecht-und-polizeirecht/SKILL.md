@@ -1,13 +1,13 @@
 ---
 name: verwaltungsrecht-und-polizeirecht
-description: "Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsrecht und Polizeirecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

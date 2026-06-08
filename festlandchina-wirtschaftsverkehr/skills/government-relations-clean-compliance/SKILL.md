@@ -1,13 +1,13 @@
 ---
 name: government-relations-clean-compliance
-description: "Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Government Relations China: Compliance ohne Korruptionsrisiko
 
 ## Arbeitsbereich
 
-Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

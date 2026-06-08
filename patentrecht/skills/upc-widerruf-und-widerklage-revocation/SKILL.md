@@ -1,13 +1,13 @@
 ---
 name: upc-widerruf-und-widerklage-revocation
-description: "Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UPC: Widerruf und Revocation Counterclaim
 
 ## Arbeitsbereich
 
-Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

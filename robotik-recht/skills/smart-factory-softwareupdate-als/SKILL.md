@@ -1,13 +1,13 @@
 ---
 name: smart-factory-softwareupdate-als
-description: "Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Smart Factory und Industrie 4.0
 
 ## Arbeitsbereich
 
-Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

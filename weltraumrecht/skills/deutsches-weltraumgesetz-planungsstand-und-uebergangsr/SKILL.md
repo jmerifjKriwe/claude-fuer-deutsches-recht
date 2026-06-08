@@ -1,13 +1,13 @@
 ---
 name: deutsches-weltraumgesetz-planungsstand-und-uebergangsr
-description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko
 
 ## Arbeitsbereich
 
-Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

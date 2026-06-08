@@ -1,13 +1,13 @@
 ---
 name: gegenveranstaltung-trennung-infostand
-description: "Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gegenprotest ist nicht automatisch Störung
 
 ## Arbeitsbereich
 
-Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

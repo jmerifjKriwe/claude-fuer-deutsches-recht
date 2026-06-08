@@ -1,6 +1,6 @@
 ---
 name: werbung-beweislast
-description: "Werbung Beweislast im KI-Governance im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werbung Beweislast im KI-Governance im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werbung Beweislast

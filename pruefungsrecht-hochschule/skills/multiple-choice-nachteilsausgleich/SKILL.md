@@ -1,13 +1,13 @@
 ---
 name: multiple-choice-nachteilsausgleich
-description: "Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Multiple Choice Und Antwortwahl
 
 ## Arbeitsbereich
 
-Prüft Multiple-Choice- und Antwort-Wahl-Verfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Multiple-Choice- und Antwort-Wahl-Verfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

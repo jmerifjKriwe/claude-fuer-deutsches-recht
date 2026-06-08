@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Immobilienrechtspraxis** Ergebnisse vor
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `case-gegen-grundbuchanalyse`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `case-management-grundbuchanalyse-immo-aufteilungsplan`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immo-bauliche-veraenderung-energieausweis-gewerbliche-mieter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck-mietkaufvertrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immo-grundschuld-bestellung-makler-honorar-wohnungseigentum`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immo-immobilienrechtliche-live-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immo-zwangsversteigerung-frist-naechster-rechtsabteilungen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immor-bauvertrag-vob-erbbaurecht-vertrag-grundstueckskaufvertrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `immor-bodenrichtwert-betriebskostenabrechnung-erstellen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `case-gegen-grundbuchanalyse`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `case-management-grundbuchanalyse-immo-aufteilungsplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immo-bauliche-veraenderung-energieausweis-gewerbliche-mieter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immo-bauvertrag-vob-kaufvertrag-grundstueck-mietkaufvertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immo-grundschuld-bestellung-makler-honorar-wohnungseigentum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immo-immobilienrechtliche-live-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immo-zwangsversteigerung-frist-naechster-rechtsabteilungen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immor-bauvertrag-vob-erbbaurecht-vertrag-grundstueckskaufvertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `immor-bodenrichtwert-betriebskostenabrechnung-erstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

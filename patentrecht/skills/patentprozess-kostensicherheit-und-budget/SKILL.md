@@ -1,13 +1,13 @@
 ---
 name: patentprozess-kostensicherheit-und-budget
-description: "Erstellt Kosten- und Risikoüberblick für Patentstreitigkeiten: Gerichtskosten, Anwalt, Patentanwalt, Sachverständige, Übersetzungen, Sicherheitsleistung, UPC-/Auslandsbudget und Vergleichswert im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Kosten- und Risikoüberblick für Patentstreitigkeiten: Gerichtskosten, Anwalt, Patentanwalt, Sachverständige, Übersetzungen, Sicherheitsleistung, UPC-/Auslandsbudget und Vergleichswert im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patentprozess: Kosten, Sicherheit und Budget
 
 ## Arbeitsbereich
 
-Erstellt Kosten- und Risikoüberblick für Patentstreitigkeiten: Gerichtskosten, Anwalt, Patentanwalt, Sachverständige, Übersetzungen, Sicherheitsleistung, UPC-/Auslandsbudget und Vergleichswert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Kosten- und Risikoüberblick für Patentstreitigkeiten: Gerichtskosten, Anwalt, Patentanwalt, Sachverständige, Übersetzungen, Sicherheitsleistung, UPC-/Auslandsbudget und Vergleichswert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

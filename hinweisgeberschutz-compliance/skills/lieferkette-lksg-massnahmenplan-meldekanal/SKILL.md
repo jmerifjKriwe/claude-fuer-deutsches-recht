@@ -1,13 +1,13 @@
 ---
 name: lieferkette-lksg-massnahmenplan-meldekanal
-description: "Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferkette LkSG CSDDD
 
 ## Arbeitsbereich
 
-Verknüpft Hinweise mit Lieferkette und Menschenrechten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft Hinweise mit Lieferkette und Menschenrechten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

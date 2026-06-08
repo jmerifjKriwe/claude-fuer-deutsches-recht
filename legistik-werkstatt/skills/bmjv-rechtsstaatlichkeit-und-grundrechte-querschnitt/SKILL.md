@@ -1,13 +1,13 @@
 ---
 name: bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt
-description: "Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)
 
 ## Arbeitsbereich
 
-Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

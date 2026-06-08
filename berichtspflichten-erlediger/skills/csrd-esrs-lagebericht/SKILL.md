@@ -1,13 +1,13 @@
 ---
 name: csrd-esrs-lagebericht
-description: "Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CSRD/ESRS Nachhaltigkeitsbericht
 
 ## Arbeitsbereich
 
-Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

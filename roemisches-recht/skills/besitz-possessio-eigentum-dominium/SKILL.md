@@ -1,13 +1,13 @@
 ---
 name: besitz-possessio-eigentum-dominium
-description: "Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besitz (possessio) - Grundlagen
 
 ## Arbeitsbereich
 
-Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

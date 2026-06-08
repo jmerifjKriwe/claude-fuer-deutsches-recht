@@ -1,13 +1,13 @@
 ---
 name: harmonisierung-migration-historisch
-description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
 
 ## Arbeitsbereich
 
-bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

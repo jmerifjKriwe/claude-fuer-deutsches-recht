@@ -1,13 +1,13 @@
 ---
 name: nicht-aktualisiert-risiko
-description: "Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nicht-aktualisiert Risiko
 
 ## Arbeitsbereich
 
-Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

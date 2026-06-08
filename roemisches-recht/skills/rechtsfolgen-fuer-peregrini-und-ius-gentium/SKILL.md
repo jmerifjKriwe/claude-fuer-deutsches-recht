@@ -1,13 +1,13 @@
 ---
 name: rechtsfolgen-fuer-peregrini-und-ius-gentium
-description: "Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 156 Rechtsfolgen Fuer Peregrini Und Ius Gentium
 
 ## Arbeitsbereich
 
-Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsfolgen für Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

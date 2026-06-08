@@ -1,13 +1,13 @@
 ---
 name: foerdermittel-verein
-description: "Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fördermittel Verein
 
 ## Arbeitsbereich
 
-Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vertrag-unterschrieben-abo-falle
-description: "Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertrag unterschrieben und bereut
 
 ## Arbeitsbereich
 
-Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

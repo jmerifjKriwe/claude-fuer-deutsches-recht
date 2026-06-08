@@ -1,13 +1,13 @@
 ---
 name: krankheit-reha-uebergangsgeld
-description: "Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # krankheit-reha-uebergangsgeld
 
 ## Arbeitsbereich
 
-Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

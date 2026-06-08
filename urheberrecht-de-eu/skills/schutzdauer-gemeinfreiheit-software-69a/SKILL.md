@@ -1,13 +1,13 @@
 ---
 name: schutzdauer-gemeinfreiheit-software-69a
-description: "Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schutzdauer und Gemeinfreiheit
 
 ## Arbeitsbereich
 
-Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

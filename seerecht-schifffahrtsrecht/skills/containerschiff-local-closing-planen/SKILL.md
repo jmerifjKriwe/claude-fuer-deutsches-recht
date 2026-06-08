@@ -1,13 +1,13 @@
 ---
 name: containerschiff-local-closing-planen
-description: "Containerschiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Local Counsel instruieren
 
 ## Arbeitsbereich
 
-Containerschiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

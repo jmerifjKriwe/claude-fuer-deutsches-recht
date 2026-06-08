@@ -1,13 +1,13 @@
 ---
 name: ownership-transfer-writing
-description: "Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ownership, Assignment und Writing Requirement
 
 ## Arbeitsbereich
 
-Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

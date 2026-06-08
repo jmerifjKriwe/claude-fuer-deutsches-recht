@@ -1,13 +1,13 @@
 ---
 name: bachelorarbeit-abgabe-abschlussarbeit
-description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bachelorarbeit Abgabe
 
 ## Arbeitsbereich
 
-Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

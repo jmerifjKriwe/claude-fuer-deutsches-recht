@@ -1,13 +1,13 @@
 ---
 name: native-apps-ios-android-pruefung
-description: "Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin für haeufige Probleme im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin für haeufige Probleme im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Native Apps iOS und Android
 
 ## Arbeitsbereich
 
-Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin für haeufige Probleme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin für haeufige Probleme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

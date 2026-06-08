@@ -1,13 +1,13 @@
 ---
 name: eu-richtlinie-abgleich
-description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Richtlinie Abgleich
 
 ## Arbeitsbereich
 
-Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

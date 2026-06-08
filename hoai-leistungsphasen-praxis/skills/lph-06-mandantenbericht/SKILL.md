@@ -1,13 +1,13 @@
 ---
 name: lph-06-mandantenbericht
-description: "HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
 ## Arbeitsbereich
 
-HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

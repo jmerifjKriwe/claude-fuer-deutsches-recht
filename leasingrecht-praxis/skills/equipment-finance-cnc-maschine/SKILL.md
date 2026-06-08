@@ -1,13 +1,13 @@
 ---
 name: equipment-finance-cnc-maschine
-description: "Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Equipment Finance Term Sheet
 
 ## Arbeitsbereich
 
-Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: leasing-in-sanierungsgutachten
-description: "Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasing im Sanierungsgutachten (IDW S6)
 
 ## Arbeitsbereich
 
-Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

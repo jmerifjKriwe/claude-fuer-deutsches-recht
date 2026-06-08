@@ -1,13 +1,13 @@
 ---
 name: spontanversammlung-strafrecht-versg
-description: "Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spontan heißt nicht schlecht vorbereitet verstecken
 
 ## Arbeitsbereich
 
-Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

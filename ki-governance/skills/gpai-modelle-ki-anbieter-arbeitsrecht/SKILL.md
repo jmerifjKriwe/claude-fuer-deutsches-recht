@@ -1,13 +1,13 @@
 ---
 name: gpai-modelle-ki-anbieter-arbeitsrecht
-description: "General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten für Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap für Modellanbieter im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten für Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap für Modellanbieter im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GPAI: Systemic-Risk-Modelle
 
 ## Arbeitsbereich
 
-General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten für Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap für Modellanbieter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten für Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap für Modellanbieter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

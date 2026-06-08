@@ -1,13 +1,13 @@
 ---
 name: vertragsstrafe-339-bgb
-description: "Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertragsstrafe nach §§ 339-345 BGB
 
 ## Arbeitsbereich
 
-Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

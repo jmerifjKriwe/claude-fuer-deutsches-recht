@@ -1,13 +1,13 @@
 ---
 name: viraler-clip-waehlerdaten-listen
-description: "Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Viraler Clip Notfall
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

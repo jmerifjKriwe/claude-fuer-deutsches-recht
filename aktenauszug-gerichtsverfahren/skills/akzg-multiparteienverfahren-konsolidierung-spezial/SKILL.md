@@ -1,13 +1,13 @@
 ---
 name: akzg-multiparteienverfahren-konsolidierung-spezial
-description: "Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Pruefraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Pruefraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AkzG: Multipartei Konsolidierung
 
 ## Arbeitsbereich
 
-Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Pruefraster für Hauptaktenfuehrer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Pruefraster für Hauptaktenfuehrer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

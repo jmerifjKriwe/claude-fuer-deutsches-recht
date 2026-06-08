@@ -1,13 +1,13 @@
 ---
 name: vergleichende-werbung-und-herabsetzung
-description: "Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Vergleichende Werbung und Herabsetzung
 
 ## Arbeitsbereich
 
-Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

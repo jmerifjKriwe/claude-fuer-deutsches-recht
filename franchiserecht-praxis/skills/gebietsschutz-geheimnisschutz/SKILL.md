@@ -1,13 +1,13 @@
 ---
 name: gebietsschutz-geheimnisschutz
-description: "Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

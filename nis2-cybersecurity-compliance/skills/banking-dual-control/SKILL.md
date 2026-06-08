@@ -1,13 +1,13 @@
 ---
 name: banking-dual-control
-description: "Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Banking Dual Control
 
 ## Arbeitsbereich
 
-Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

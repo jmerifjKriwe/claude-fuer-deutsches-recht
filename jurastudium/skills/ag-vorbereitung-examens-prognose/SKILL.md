@@ -1,13 +1,13 @@
 ---
 name: ag-vorbereitung-examens-prognose
-description: "AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)
 
 ## Arbeitsbereich
 
-AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

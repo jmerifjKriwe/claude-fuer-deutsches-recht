@@ -1,13 +1,13 @@
 ---
 name: bim-datenraum-dokumentation-belegakte-02
-description: "HOAI LPH 2 Vorplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 2 Vorplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 2 Vorplanung: Ordnet digitale modelle
 
 ## Arbeitsbereich
 
-HOAI LPH 2 Vorplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 2 Vorplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

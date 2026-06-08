@@ -1,13 +1,13 @@
 ---
 name: disziplinar-bemessung-13-bdg-stufenfolge
-description: "Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarmaßnahme bemessen - § 13 BDG und Stufenfolge
 
 ## Arbeitsbereich
 
-Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

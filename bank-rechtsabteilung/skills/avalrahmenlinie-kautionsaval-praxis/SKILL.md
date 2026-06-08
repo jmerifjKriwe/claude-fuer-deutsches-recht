@@ -1,13 +1,13 @@
 ---
 name: avalrahmenlinie-kautionsaval-praxis
-description: "Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Avalrahmenlinie und Kautionsaval
 
 ## Arbeitsbereich
 
-Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

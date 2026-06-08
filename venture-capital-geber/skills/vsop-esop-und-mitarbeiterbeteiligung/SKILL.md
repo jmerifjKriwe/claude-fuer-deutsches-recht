@@ -7,7 +7,7 @@ description: "Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Ri
 
 ## Arbeitsbereich
 
-Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

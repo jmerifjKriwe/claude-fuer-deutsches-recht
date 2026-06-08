@@ -7,7 +7,7 @@ description: "Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken be
 
 ## Arbeitsbereich
 
-Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

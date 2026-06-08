@@ -1,13 +1,13 @@
 ---
 name: anti-ki-beweissicherung-testkauf-bildmarke
-description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anti-KI-Marken und Authentizitätskennzeichen
 
 ## Arbeitsbereich
 
-Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

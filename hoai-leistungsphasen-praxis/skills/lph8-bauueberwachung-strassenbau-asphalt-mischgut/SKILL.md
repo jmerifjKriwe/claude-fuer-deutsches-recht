@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-strassenbau-asphalt-mischgut
-description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12697-1. Praxisnahe Dokumentation mit PlanRadar und SAP-PM für Strassenbauverwaltung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12697-1. Praxisnahe Dokumentation mit PlanRadar und SAP-PM für Strassenbauverwaltung im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12697-1. Praxisnahe Dokumentation mit PlanRadar und SAP-PM für Strassenbauverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12697-1. Praxisnahe Dokumentation mit PlanRadar und SAP-PM für Strassenbauverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

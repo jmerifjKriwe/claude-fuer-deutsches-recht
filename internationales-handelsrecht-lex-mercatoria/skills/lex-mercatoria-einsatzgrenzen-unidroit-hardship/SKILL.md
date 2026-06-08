@@ -1,13 +1,13 @@
 ---
 name: lex-mercatoria-einsatzgrenzen-unidroit-hardship
-description: "Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lex Mercatoria: Geltungsbereich und Grenzen
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

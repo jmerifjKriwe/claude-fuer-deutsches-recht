@@ -1,13 +1,13 @@
 ---
 name: pre1972-sound-preemption-state-privacy-pii
-description: "Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pre-1972 Sound Recordings § 1401
 
 ## Arbeitsbereich
 
-Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

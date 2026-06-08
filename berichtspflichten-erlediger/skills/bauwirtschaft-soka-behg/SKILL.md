@@ -1,13 +1,13 @@
 ---
 name: bauwirtschaft-soka-behg
-description: "Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauwirtschaft SOKA und Meldepflichten
 
 ## Arbeitsbereich
 
-Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

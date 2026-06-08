@@ -7,7 +7,7 @@ description: "Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif,
 
 ## Arbeitsbereich
 
-Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

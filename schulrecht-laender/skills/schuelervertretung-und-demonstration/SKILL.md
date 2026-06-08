@@ -1,13 +1,13 @@
 ---
 name: schuelervertretung-und-demonstration
-description: "Prüft Schülervertretung, politische Aktionen und Versammlungen im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schülervertretung, politische Aktionen und Versammlungen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schuelervertretung Und Demonstration
 
 ## Arbeitsbereich
 
-Prüft Schülervertretung, politische Aktionen und Versammlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schülervertretung, politische Aktionen und Versammlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

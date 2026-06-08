@@ -1,13 +1,13 @@
 ---
 name: fristen-abschlussprodukt-und-uebergabe
-description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Fristen – Abschlussprodukt und Übergabe
 
 ## Arbeitsbereich
 
-Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

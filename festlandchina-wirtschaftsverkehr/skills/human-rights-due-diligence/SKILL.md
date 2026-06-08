@@ -1,13 +1,13 @@
 ---
 name: human-rights-due-diligence
-description: "Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP
 
 ## Arbeitsbereich
 
-Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

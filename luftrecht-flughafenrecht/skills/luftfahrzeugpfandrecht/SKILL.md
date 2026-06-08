@@ -1,13 +1,13 @@
 ---
 name: luftfahrzeugpfandrecht
-description: "Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung
 
 ## Arbeitsbereich
 
-Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

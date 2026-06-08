@@ -1,13 +1,13 @@
 ---
 name: quellen-rspr-fristen
-description: "Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellen- und Rechtsprechungscheck
 
 ## Arbeitsbereich
 
-Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

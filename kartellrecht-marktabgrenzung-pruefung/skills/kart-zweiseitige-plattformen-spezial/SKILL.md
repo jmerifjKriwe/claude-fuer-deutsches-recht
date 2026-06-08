@@ -7,7 +7,7 @@ description: "Spezialfall zweiseitige Plattformen / Mehrseitige Maerkte: Netzwer
 
 ## Arbeitsbereich
 
-Spezialfall zweiseitige Plattformen / Mehrseitige Maerkte: Netzwerkeffekte, Tipping, DMA-Gatekeeper. Pruefraster für Digitalplattformen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall zweiseitige Plattformen / Mehrseitige Maerkte: Netzwerkeffekte, Tipping, DMA-Gatekeeper. Pruefraster für Digitalplattformen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

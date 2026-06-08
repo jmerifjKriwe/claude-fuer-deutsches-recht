@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-updates-sicherheitsupdates-327f-475b
-description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB
 
 ## Arbeitsbereich
 
-Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

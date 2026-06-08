@@ -1,13 +1,13 @@
 ---
 name: verfassungstreue-extremismus-chatgruppen-disziplinarrecht
-description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungstreue, Chatgruppen und politische Grenzfälle
 
 ## Arbeitsbereich
 
-Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sachverstaendigenbriefing-musik-sampling
-description: "Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sachverständigenbriefing Musik
 
 ## Arbeitsbereich
 
-Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

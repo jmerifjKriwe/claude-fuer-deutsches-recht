@@ -1,13 +1,13 @@
 ---
 name: disziplinarmassnahmebemessung-13-bdg
-description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarmassnahmebemessung § 13 BDG
 
 ## Arbeitsbereich
 
-Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

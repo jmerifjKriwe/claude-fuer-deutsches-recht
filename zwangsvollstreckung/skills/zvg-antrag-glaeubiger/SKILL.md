@@ -1,13 +1,13 @@
 ---
 name: zvg-antrag-glaeubiger
-description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)
 
 ## Arbeitsbereich
 
-Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

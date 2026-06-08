@@ -1,13 +1,13 @@
 ---
 name: kreditwesengesetz-erlaubnis-inhaberkontrolle
-description: "KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KWG-Erlaubnis und Inhaberkontrolle
 
 ## Arbeitsbereich
 
-KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

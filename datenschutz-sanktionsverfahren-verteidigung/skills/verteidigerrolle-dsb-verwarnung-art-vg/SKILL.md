@@ -7,7 +7,7 @@ description: "Verteidigerrolle DSB Verwarnung ART VG im Datenschutz-Sanktionsver
 
 ## Arbeitsbereich
 
-**Verteidigerrolle DSB Verwarnung ART VG** ordnet den Fall über die tragenden Prüfungslinien: Rollenklärung Verteidiger DSB Geschäftsleitung externe, Verwarnung Art, Anfechtungsklage nach § 20 BDSG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verteidigerrolle DSB Verwarnung ART VG** ordnet den Fall über die tragenden Prüfungslinien: Rollenklärung Verteidiger DSB Geschäftsleitung externe, Verwarnung Art, Anfechtungsklage nach § 20 BDSG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

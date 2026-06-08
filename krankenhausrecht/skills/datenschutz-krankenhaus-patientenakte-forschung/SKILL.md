@@ -1,13 +1,13 @@
 ---
 name: datenschutz-krankenhaus-patientenakte-forschung
-description: "Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz Krankenhaus Patientenakte Forschung
 
 ## Arbeitsbereich
 
-Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

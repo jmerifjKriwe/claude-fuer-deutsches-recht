@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-produktsicherheit-gpsr-korrektur
-description: "Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktsicherheit GPSR richtig routen
 
 ## Arbeitsbereich
 
-Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

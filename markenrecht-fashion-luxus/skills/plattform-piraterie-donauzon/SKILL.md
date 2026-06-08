@@ -1,13 +1,13 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
 
 ## Arbeitsbereich
 
-Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

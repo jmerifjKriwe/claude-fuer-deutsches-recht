@@ -1,13 +1,13 @@
 ---
 name: muster-erstantwort
-description: "Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Muster-Erstantwort
 
 ## Arbeitsbereich
 
-Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

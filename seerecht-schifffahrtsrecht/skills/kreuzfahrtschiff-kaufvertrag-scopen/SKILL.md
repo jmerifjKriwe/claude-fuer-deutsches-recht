@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-kaufvertrag-scopen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

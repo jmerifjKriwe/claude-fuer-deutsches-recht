@@ -1,13 +1,13 @@
 ---
 name: luftfracht-dashboard-mandantenmemo
-description: "Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard für Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard für Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfracht – Dashboard bauen
 
 ## Arbeitsbereich
 
-Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard für Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard für Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

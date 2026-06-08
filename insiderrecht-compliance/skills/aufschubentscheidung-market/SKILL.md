@@ -1,13 +1,13 @@
 ---
 name: aufschubentscheidung-market
-description: "Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR
 
 ## Arbeitsbereich
 
-Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

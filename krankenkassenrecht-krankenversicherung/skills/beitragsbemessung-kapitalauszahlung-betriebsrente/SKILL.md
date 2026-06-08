@@ -7,7 +7,7 @@ description: "GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus b
 
 ## Arbeitsbereich
 
-GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus betrieblicher Altersversorgung: § 229 SGB V, BSG-Rechtsprechung und Doppelverbeitragung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus betrieblicher Altersversorgung: § 229 SGB V, BSG-Rechtsprechung und Doppelverbeitragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

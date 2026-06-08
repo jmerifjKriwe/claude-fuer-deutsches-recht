@@ -1,13 +1,13 @@
 ---
 name: ruhensregelungen-versorgung-und-erwerbseinkommen
-description: "Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ruhensregelungen: Versorgung und Erwerbseinkommen
 
 ## Arbeitsbereich
 
-Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: zeitnarrative
-description: "Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeitnarrative und Timesheet
 
 ## Arbeitsbereich
 
-Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

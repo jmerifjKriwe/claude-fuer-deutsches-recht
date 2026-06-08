@@ -1,13 +1,13 @@
 ---
 name: karteikarten-lernplan-lernsitzung
-description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Karteikarten-Drill
 
 ## Arbeitsbereich
 
-Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

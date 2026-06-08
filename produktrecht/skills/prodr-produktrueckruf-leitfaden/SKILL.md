@@ -1,13 +1,13 @@
 ---
 name: prodr-produktrueckruf-leitfaden
-description: "Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster für Hersteller im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster für Hersteller im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ProdR: Produktrueckruf
 
 ## Arbeitsbereich
 
-Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster für Hersteller. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster für Hersteller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

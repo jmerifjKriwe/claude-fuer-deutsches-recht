@@ -1,13 +1,13 @@
 ---
 name: incident-meldekaskade-iot-geraete-iso27001
-description: "Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Incident Meldekaskade 24 72 Abschluss
 
 ## Arbeitsbereich
 
-Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

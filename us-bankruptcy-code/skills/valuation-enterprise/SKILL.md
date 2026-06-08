@@ -1,13 +1,13 @@
 ---
 name: valuation-enterprise
-description: "Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Enterprise Valuation
 
 ## Arbeitsbereich
 
-Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

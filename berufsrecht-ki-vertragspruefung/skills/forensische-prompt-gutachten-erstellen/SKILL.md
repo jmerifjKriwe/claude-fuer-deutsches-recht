@@ -1,13 +1,13 @@
 ---
 name: forensische-prompt-gutachten-erstellen
-description: "Forensische Pruefung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Pruefraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts im Berufsrecht KI-Vertragsprüfung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Forensische Pruefung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Pruefraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prompt-Injection: Pruefung
 
 ## Arbeitsbereich
 
-Forensische Pruefung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Pruefraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Forensische Pruefung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Pruefraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schuldschein-darlehen-struktur
-description: "Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schuldscheindarlehen: Struktur und Dokumente
 
 ## Arbeitsbereich
 
-Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

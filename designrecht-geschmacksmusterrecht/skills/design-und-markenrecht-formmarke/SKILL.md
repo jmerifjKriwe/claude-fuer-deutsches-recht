@@ -1,13 +1,13 @@
 ---
 name: design-und-markenrecht-formmarke
-description: "Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Design Und Markenrecht Formmarke
 
 ## Arbeitsbereich
 
-Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

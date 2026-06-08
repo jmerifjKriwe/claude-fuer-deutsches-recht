@@ -1,13 +1,13 @@
 ---
 name: sprach-und-verstehensprofil
-description: "Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sprache und Verstehensprofil
 
 ## Arbeitsbereich
 
-Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

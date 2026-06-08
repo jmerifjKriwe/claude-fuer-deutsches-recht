@@ -1,13 +1,13 @@
 ---
 name: rechtsgeschichte-grundgesetz-entstehung-bverfg
-description: "Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundgesetz Entstehung 1948-49
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: freiwillige-beitraege-fremdrentengesetz
-description: "Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # freiwillige-beitraege-und-rentenoptimierung
 
 ## Arbeitsbereich
 
-Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

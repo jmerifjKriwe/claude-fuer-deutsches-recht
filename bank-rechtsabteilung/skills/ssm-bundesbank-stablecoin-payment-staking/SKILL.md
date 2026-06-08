@@ -1,13 +1,13 @@
 ---
 name: ssm-bundesbank-stablecoin-payment-staking
-description: "SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SSM und Bundesbank
 
 ## Arbeitsbereich
 
-SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

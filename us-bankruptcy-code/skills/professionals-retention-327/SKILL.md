@@ -1,13 +1,13 @@
 ---
 name: professionals-retention-327
-description: "Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Professionals Retention § 327
 
 ## Arbeitsbereich
 
-Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

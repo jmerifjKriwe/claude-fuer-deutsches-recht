@@ -1,13 +1,13 @@
 ---
 name: chapter11-dip
-description: "Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 11 Debtor in Possession
 
 ## Arbeitsbereich
 
-Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

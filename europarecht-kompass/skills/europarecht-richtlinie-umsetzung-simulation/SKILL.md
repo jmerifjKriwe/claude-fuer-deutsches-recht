@@ -1,13 +1,13 @@
 ---
 name: europarecht-richtlinie-umsetzung-simulation
-description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richtlinie und Umsetzung
 
 ## Arbeitsbereich
 
-EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

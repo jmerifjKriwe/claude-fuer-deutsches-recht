@@ -1,13 +1,13 @@
 ---
 name: logdaten-beschaeftigte
-description: "Prüft Logdaten von Beschäftigten rechts- und beweissicher im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Logdaten von Beschäftigten rechts- und beweissicher im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Logdaten Beschaeftigte
 
 ## Arbeitsbereich
 
-Prüft Logdaten von Beschäftigten rechts- und beweissicher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Logdaten von Beschäftigten rechts- und beweissicher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

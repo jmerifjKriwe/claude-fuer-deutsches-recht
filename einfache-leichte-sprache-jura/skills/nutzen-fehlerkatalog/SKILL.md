@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Einfache Leichte Sprache Jura** Ergebni
 
 ## Fachspezifische Fehlerachsen
 
-- `leichte-sprache-jura-ls-bescheid-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `einfache-elsj-bescheidmodus-elsj`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-aufenthaltsrecht-mandant`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-bescheidmodus`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-betreuung-vormundschaft`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-einfache-sprache`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-familienrecht-erstgespraech`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-familienrecht-erstgespraech-juristische-sicherung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `elsj-juristische-sicherung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `leichte-sprache-jura-ls-bescheid-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einfache-elsj-bescheidmodus-elsj`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-aufenthaltsrecht-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-bescheidmodus`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-betreuung-vormundschaft`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-einfache-sprache`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-familienrecht-erstgespraech`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-familienrecht-erstgespraech-juristische-sicherung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `elsj-juristische-sicherung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

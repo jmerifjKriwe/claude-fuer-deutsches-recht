@@ -1,13 +1,13 @@
 ---
 name: landwirtschaftsroboter-und-autonome-feldtechnik
-description: "Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landwirtschaftsroboter
 
 ## Arbeitsbereich
 
-Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-ueberwachungstiefe-stichproben
-description: "HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 8 Überwachungstiefe Und Stichproben
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

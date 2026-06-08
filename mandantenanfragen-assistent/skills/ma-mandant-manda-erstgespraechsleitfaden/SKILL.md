@@ -1,13 +1,13 @@
 ---
 name: ma-mandant-manda-erstgespraechsleitfaden
-description: "Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandant mit Betreuung
 
 ## Arbeitsbereich
 
-Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

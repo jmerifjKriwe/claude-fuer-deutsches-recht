@@ -1,13 +1,13 @@
 ---
 name: emotionale-trigger-ironie-sarkasmus-klare
-description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz) im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Emotionaler Trigger-Katalog
 
 ## Arbeitsbereich
 
-Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

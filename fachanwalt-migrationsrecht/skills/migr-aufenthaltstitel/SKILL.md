@@ -1,13 +1,13 @@
 ---
 name: migr-aufenthaltstitel
-description: "Migr Aufenthaltstitel im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Migr Aufenthaltstitel im Migrationsrecht im Fachanwalt Migrationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Migr Aufenthaltstitel
 
 ## Arbeitsbereich
 
-**Migr Aufenthaltstitel** ordnet den Fall über die tragenden Prüfungslinien: Uebersicht Aufenthaltstitel AufenthG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Migr Aufenthaltstitel** ordnet den Fall über die tragenden Prüfungslinien: Uebersicht Aufenthaltstitel AufenthG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

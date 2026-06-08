@@ -1,13 +1,13 @@
 ---
 name: evvollzug-zustellung-durch-bea-einstweiliger
-description: "EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren
 
 ## Arbeitsbereich
 
-EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "DSV Risikobewertung ART Schnelltriage Risiko im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**DSV Risikobewertung ART Schnelltriage Risiko** ordnet den Fall über die tragenden Prüfungslinien: Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko, Generiert eine priorisierte Sofortmaßnahmen-Checkliste. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Risikobewertung ART Schnelltriage Risiko** ordnet den Fall über die tragenden Prüfungslinien: Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko, Generiert eine priorisierte Sofortmaßnahmen-Checkliste. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

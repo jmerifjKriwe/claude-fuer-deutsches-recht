@@ -1,13 +1,13 @@
 ---
 name: konkurrentenstreit-eilverfahren
-description: "Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konkurrentenstreit Eilverfahren
 
 ## Arbeitsbereich
 
-Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

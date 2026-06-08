@@ -7,7 +7,7 @@ description: "Bescheid Anhörung Besondere Datenkategorien im Datenschutz-Sankti
 
 ## Arbeitsbereich
 
-**Bescheid Anhörung Besondere Datenkategorien** ordnet den Fall über die tragenden Prüfungslinien: Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bescheid Anhörung Besondere Datenkategorien** ordnet den Fall über die tragenden Prüfungslinien: Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

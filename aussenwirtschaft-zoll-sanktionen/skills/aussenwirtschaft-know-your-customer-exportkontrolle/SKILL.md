@@ -7,7 +7,7 @@ description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endv
 
 ## Arbeitsbereich
 
-KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

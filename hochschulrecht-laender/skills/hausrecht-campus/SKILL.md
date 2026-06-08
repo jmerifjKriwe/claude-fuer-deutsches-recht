@@ -1,13 +1,13 @@
 ---
 name: hausrecht-campus
-description: "Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hausrecht Campus
 
 ## Arbeitsbereich
 
-Prüft Hausrecht, Demonstration und Campusnutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hausrecht, Demonstration und Campusnutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

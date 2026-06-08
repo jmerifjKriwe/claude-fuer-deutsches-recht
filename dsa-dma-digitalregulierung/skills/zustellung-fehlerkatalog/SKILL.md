@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Dsa Dma Digitalregulierung** Ergebnisse
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dark-patterns-internes-beschwerdesystem`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `data-digitalregulierung-dora`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dma-business-user-gatekeeper-kernplattformdienste`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dma-pflichten-dsa-art-forschungsdatenzugang-algorithmen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dsa-eidas-einordnung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstellung-forschungsdatenzugang-mehrparteienkonflikt-gatekeeper`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `kernplattformdienste-sonderfall-klagewege-risikobewertung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `out-court-pflichten-pyramide-systemic-risk`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `pyramide-check-dsgvo-p2b-anti-steering`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dark-patterns-internes-beschwerdesystem`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `data-digitalregulierung-dora`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dma-business-user-gatekeeper-kernplattformdienste`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dma-pflichten-dsa-art-forschungsdatenzugang-algorithmen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dsa-eidas-einordnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstellung-forschungsdatenzugang-mehrparteienkonflikt-gatekeeper`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `kernplattformdienste-sonderfall-klagewege-risikobewertung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `out-court-pflichten-pyramide-systemic-risk`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `pyramide-check-dsgvo-p2b-anti-steering`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

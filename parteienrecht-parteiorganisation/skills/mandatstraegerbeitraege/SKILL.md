@@ -1,13 +1,13 @@
 ---
 name: mandatstraegerbeitraege
-description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandatsträgerbeiträge
 
 ## Arbeitsbereich
 
-Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustellung Postfach

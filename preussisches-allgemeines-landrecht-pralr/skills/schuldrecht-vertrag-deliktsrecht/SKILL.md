@@ -7,7 +7,7 @@ description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit un
 
 ## Arbeitsbereich
 
-PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

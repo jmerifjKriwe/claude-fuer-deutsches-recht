@@ -1,13 +1,13 @@
 ---
 name: petition-und-buergeranliegen
-description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Petition und Bürgeranliegen
 
 ## Arbeitsbereich
 
-Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

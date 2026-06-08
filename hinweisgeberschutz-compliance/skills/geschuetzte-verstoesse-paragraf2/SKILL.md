@@ -1,13 +1,13 @@
 ---
 name: geschuetzte-verstoesse-paragraf2
-description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschuetzte Verstoesse Paragraf2
 
 ## Arbeitsbereich
 
-Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

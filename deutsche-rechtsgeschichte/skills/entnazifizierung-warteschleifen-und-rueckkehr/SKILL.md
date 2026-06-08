@@ -1,13 +1,13 @@
 ---
 name: entnazifizierung-warteschleifen-und-rueckkehr
-description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entnazifizierung, Warteschleifen und Rückkehr
 
 ## Arbeitsbereich
 
-Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

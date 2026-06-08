@@ -1,13 +1,13 @@
 ---
 name: khub-mandantenkonferenz-paralegal-rollen
-description: "Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Pruefraster für Konfliktpotenzial im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Pruefraster für Konfliktpotenzial im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Khub: Mandantenkonferenz-Templates
 
 ## Arbeitsbereich
 
-Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Pruefraster für Konfliktpotenzial. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Pruefraster für Konfliktpotenzial. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

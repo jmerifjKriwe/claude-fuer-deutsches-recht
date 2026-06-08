@@ -1,13 +1,13 @@
 ---
 name: gesetzentwurf-gg-konformitaet-pruefen
-description: "Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin) im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin) im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
 
 ## Arbeitsbereich
 
-Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

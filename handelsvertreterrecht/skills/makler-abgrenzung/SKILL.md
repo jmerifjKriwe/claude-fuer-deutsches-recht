@@ -1,13 +1,13 @@
 ---
 name: makler-abgrenzung
-description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB
 
 ## Arbeitsbereich
 
-Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

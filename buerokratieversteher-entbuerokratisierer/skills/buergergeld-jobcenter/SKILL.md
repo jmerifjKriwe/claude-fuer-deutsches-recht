@@ -1,13 +1,13 @@
 ---
 name: buergergeld-jobcenter
-description: "Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bürgergeld / Jobcenter
 
 ## Arbeitsbereich
 
-Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

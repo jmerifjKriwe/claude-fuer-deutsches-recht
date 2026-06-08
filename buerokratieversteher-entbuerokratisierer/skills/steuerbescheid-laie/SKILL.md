@@ -1,13 +1,13 @@
 ---
 name: steuerbescheid-laie
-description: "Erklärt Steuerbescheid, Einspruchsfrist, Aussetzung der Vollziehung, Nachzahlung, Vorauszahlung und Belege im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Steuerbescheid, Einspruchsfrist, Aussetzung der Vollziehung, Nachzahlung, Vorauszahlung und Belege im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerbescheid für Laien
 
 ## Arbeitsbereich
 
-Erklärt Steuerbescheid, Einspruchsfrist, Aussetzung der Vollziehung, Nachzahlung, Vorauszahlung und Belege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Steuerbescheid, Einspruchsfrist, Aussetzung der Vollziehung, Nachzahlung, Vorauszahlung und Belege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

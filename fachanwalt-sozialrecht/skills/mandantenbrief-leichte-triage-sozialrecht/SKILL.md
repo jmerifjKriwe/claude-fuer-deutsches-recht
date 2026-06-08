@@ -7,7 +7,7 @@ description: "Mandantenbrief Leichte Triage Sozialrecht im Plugin Fachanwalt Soz
 
 ## Arbeitsbereich
 
-**Mandantenbrief Leichte Triage Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: Erklärung eines sozialrechtlichen Bescheids für den, Neues sozialrechtliches Mandat, Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandantenbrief Leichte Triage Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: Erklärung eines sozialrechtlichen Bescheids für den, Neues sozialrechtliches Mandat, Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -15,7 +15,7 @@ description: "Mandantenbrief Leichte Triage Sozialrecht im Plugin Fachanwalt Soz
 | `mandantenbrief-leichte-sprache` | Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei. |
 | `mandat-triage-sozialrecht` | Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing). |
 | `pflegegrad-widerspruch` | Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht. |
-| `pkh-erfolgsaussicht-pruefen` | Prüfungslinie für pkh erfolgsaussicht pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `pkh-erfolgsaussicht-pruefen` | Pkh Erfolgsaussicht Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -33,7 +33,7 @@ description: "Mandantenbrief Leichte Triage Sozialrecht im Plugin Fachanwalt Soz
 ### Mandantenbrief in Einfacher oder Leichter Sprache
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenbrief in Einfacher oder Leichter Sprache` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenbrief in Einfacher oder Leichter Sprache` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -202,7 +202,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Mandat-Triage Sozialrecht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Sozialrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Sozialrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -366,7 +366,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Pflegegrad-Widerspruch — Praxisleitfaden
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegrad-Widerspruch — Praxisleitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegrad-Widerspruch — Praxisleitfaden` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -502,12 +502,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `pkh-erfolgsaussicht-pruefen`
 
-**Fokus:** Prüfungslinie für pkh erfolgsaussicht pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Pkh Erfolgsaussicht Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### PKH-Erfolgsaussicht prüfen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PKH-Erfolgsaussicht prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PKH-Erfolgsaussicht prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.

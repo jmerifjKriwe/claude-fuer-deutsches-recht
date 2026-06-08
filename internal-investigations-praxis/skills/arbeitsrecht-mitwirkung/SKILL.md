@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-mitwirkung
-description: "Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrechtliche Mitwirkungspflichten
 
 ## Arbeitsbereich
 
-Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

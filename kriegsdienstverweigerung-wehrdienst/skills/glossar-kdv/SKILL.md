@@ -1,13 +1,13 @@
 ---
 name: glossar-kdv
-description: "Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Glossar KDV Wehrdienst
 
 ## Arbeitsbereich
 
-Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

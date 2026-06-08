@@ -1,13 +1,13 @@
 ---
 name: software-sicherungskopie-bestimmungsgemaesse
-description: "Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sicherungskopie und bestimmungsgemäße Nutzung
 
 ## Arbeitsbereich
 
-Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: it-hardware-refresh
-description: "IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IT Hardware Refresh im Leasing
 
 ## Arbeitsbereich
 
-IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

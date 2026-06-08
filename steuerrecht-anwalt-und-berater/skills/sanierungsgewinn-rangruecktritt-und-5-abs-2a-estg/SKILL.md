@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg
-description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rangrücktritt und § 5 Abs. 2a EStG
 
 ## Arbeitsbereich
 
-Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung a
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rangrücktritt und § 5 Abs. 2a EStG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rangrücktritt und § 5 Abs. 2a EStG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.

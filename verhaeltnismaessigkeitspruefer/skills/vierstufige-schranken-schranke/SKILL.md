@@ -3,6 +3,8 @@ name: vierstufige-schranken-schranke
 description: Die vier Stufen der Verhaeltnismaessigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Pruefungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nadeloehr ist.
 ---
 
+# Vierstufige Schranken Schranke
+
 ## Dogmatische Verortung
 
 Die Verhaeltnismaessigkeitspruefung ist eine **Schranken-Schranke**: Sie

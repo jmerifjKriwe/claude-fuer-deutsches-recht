@@ -1,13 +1,13 @@
 ---
 name: debt-equity-swap-pe
-description: "Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Debt-Equity-Swap
 
 ## Arbeitsbereich
 
-Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: teilzeit-beurlaubung-umsetzung-versetzung
-description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teilzeit Beurlaubung Familienpflege
 
 ## Arbeitsbereich
 
-Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

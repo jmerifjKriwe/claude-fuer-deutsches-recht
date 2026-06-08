@@ -1,13 +1,13 @@
 ---
 name: quellen-und-livecheck-softwarerecht
-description: "Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellen- und Livecheck Softwarerecht
 
 ## Arbeitsbereich
 
-Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

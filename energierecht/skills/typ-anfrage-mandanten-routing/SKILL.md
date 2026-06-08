@@ -1,13 +1,13 @@
 ---
 name: typ-anfrage-mandanten-routing
-description: "Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Förderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Förderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energie: Anfrage-Routing
 
 ## Arbeitsbereich
 
-Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Förderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Förderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

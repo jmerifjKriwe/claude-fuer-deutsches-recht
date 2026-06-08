@@ -1,30 +1,40 @@
 ---
 name: praemiensparvertrag-zinsanpassung-bgh-xi-zr-234-20
-description: Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260.
+description: "Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260."
 ---
 
-## Problemstellung
+# Praemiensparvertrag Zinsanpassung BGH Xi Zr 234 20
+
+## Einsatzlage
 
 Sparkasse hat 1992 bis 2019 Zinsen nach intransparenter Klausel gesenkt; Sparer fordert Nachzahlung.
 
-## Normen
+## Normenanker
 
-- Paragrafen 488, 315 BGB
+- §§ 1, 32 KWG
+- §§ 63 ff. WpHG
+- §§ 491 ff. BGB
+- §§ 675c ff. BGB
+- Art. 17 MAR
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 06.10.2021 XI ZR 234/20
-- BGH 14.05.2019 XI ZR 345/18
+- BGH 06.10.2021 XI ZR 234/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 14.05.2019 XI ZR 345/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Lueckenfuellung durch Verfahren Paragraf 315 BGB; Referenzzins Bundesbank-Reihe WX4260.
 
-## Schriftsatzkern
-
-Zinsanpassungsklausel unwirksam; ergaenzende Vertragsauslegung mit Referenzzins.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Sparvertrag
 - Kontoauszuege

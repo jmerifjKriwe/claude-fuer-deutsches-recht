@@ -7,12 +7,12 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 
 ## Arbeitsbereich
 
-**EU Agrarfoerderung GAP Direktzahlungen Hoefe** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**EU Agrarfoerderung GAP Direktzahlungen Hoefe** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Fachanwalt Agrarrecht EU Agrarfoerderung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch. |
 | `fachanwalt-agrarrecht-hoefe-uebergabe` | Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit. |
 
@@ -27,7 +27,7 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 
 ## 1. `fachanwalt-agrarrecht-eu-agrarfoerderung`
 
-**Fokus:** Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Agrarrecht EU Agrarfoerderung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### EU-Agrarförderung
 

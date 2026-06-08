@@ -1,13 +1,13 @@
 ---
 name: mutterschutz-gefaehrdungsbeurteilung
-description: "Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mutterschutz Gefährdungsbeurteilung und Meldung
 
 ## Arbeitsbereich
 
-Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

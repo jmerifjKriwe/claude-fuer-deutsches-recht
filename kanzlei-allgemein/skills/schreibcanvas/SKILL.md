@@ -1,13 +1,13 @@
 ---
 name: schreibcanvas
-description: "Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schreib-Canvas
 
 ## Arbeitsbereich
 
-Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

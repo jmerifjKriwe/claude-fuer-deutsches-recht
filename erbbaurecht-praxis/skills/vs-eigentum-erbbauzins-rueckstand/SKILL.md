@@ -1,13 +1,13 @@
 ---
 name: vs-eigentum-erbbauzins-rueckstand
-description: "Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erbbaurecht verständlich erklären
 
 ## Arbeitsbereich
 
-Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

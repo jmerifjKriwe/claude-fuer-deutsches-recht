@@ -1,13 +1,13 @@
 ---
 name: evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache
-description: "EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EV-Vollzug 007: Abschlussschreiben und Übergang in die Hauptsache
 
 ## Arbeitsbereich
 
-EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

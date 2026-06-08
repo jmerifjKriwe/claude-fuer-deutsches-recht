@@ -7,7 +7,7 @@ description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prü
 
 ## Arbeitsbereich
 
-**Migration Selbststaendige Migrationsrecht** ordnet den Fall über die tragenden Prüfungslinien: Selbstständige Migration, Migrationsrecht, Unbegleitete Minderjährige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Migration Selbststaendige Migrationsrecht** ordnet den Fall über die tragenden Prüfungslinien: Selbstständige Migration, Migrationsrecht, Unbegleitete Minderjährige. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

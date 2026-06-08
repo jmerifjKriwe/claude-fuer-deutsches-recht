@@ -1,13 +1,13 @@
 ---
 name: schwerpunktthemen-identifikation-akten
-description: "Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schwerpunktthemen-Identifikation
 
 ## Arbeitsbereich
 
-Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

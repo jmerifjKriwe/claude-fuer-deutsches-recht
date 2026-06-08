@@ -1,13 +1,13 @@
 ---
 name: board-duties-cash-collateral-chapter7-asset
-description: "Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Board Duties and Zone of Insolvency
 
 ## Arbeitsbereich
 
-Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

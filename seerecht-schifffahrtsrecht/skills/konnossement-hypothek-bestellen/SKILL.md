@@ -1,13 +1,13 @@
 ---
 name: konnossement-hypothek-bestellen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

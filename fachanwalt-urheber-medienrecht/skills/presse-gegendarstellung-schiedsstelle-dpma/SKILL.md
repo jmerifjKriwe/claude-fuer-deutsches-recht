@@ -7,7 +7,7 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 
 ## Arbeitsbereich
 
-**Presse Gegendarstellung Schiedsstelle Dpma** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Presse Gegendarstellung Schiedsstelle Dpma** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

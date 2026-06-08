@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-meldung-geschaeftsgeheimnis
-description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geldwaesche Meldung
 
 ## Arbeitsbereich
 
-Verbindet Hinweis mit GwG/FIU-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet Hinweis mit GwG/FIU-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck im Preuß
 
 ## Arbeitsbereich
 
-PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

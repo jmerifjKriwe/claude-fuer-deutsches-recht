@@ -1,13 +1,13 @@
 ---
 name: training-fallvarianten-digitale-elemente
-description: "Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Training mit Fallvarianten — BGB Allgemeiner Teil Examen
 
 ## Arbeitsbereich
 
-Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

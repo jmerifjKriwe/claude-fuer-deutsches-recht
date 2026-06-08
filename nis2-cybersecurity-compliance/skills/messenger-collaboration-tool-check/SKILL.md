@@ -1,13 +1,13 @@
 ---
 name: messenger-collaboration-tool-check
-description: "Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Messenger Collaboration Tool Check
 
 ## Arbeitsbereich
 
-Prüft Messenger und Chatkanäle für interne und externe Kommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Messenger und Chatkanäle für interne und externe Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

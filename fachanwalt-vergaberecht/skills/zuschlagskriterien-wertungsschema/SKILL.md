@@ -7,7 +7,7 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 
 ## Arbeitsbereich
 
-**Zuschlagskriterien Wertungsschema** ordnet den Fall über die tragenden Prüfungslinien: Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Zuschlagskriterien Wertungsschema** ordnet den Fall über die tragenden Prüfungslinien: Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

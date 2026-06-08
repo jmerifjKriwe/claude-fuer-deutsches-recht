@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Berufsrecht Ki Vertragspruefung** Ergeb
 
 ## Fachspezifische Fehlerachsen
 
-- `ai-act-rollen-kanzlei-provider-deployer-api`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `br-ki-vertragspruefung-brki-rollout-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anbietern-belehrung-sonderfall-edge`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `art-50-ki-vo-schriftsatz-marketing-chatbot`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `avv-grenzpruefung-brki-anbieter-brki-eu`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `avv-grenzpruefung-datenschutz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berufsrecht-ki-vertragspruefung-kaltstart-interview`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berufsrechtliche-bnoto-interessen-brao`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `brki-anbieter-due-diligence`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `brki-eu-us-dpf-transferpruefung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `ai-act-rollen-kanzlei-provider-deployer-api`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `br-ki-vertragspruefung-brki-rollout-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anbietern-belehrung-sonderfall-edge`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `art-50-ki-vo-schriftsatz-marketing-chatbot`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `avv-grenzpruefung-brki-anbieter-brki-eu`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `avv-grenzpruefung-datenschutz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berufsrecht-ki-vertragspruefung-kaltstart-interview`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berufsrechtliche-bnoto-interessen-brao`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `brki-anbieter-due-diligence`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `brki-eu-us-dpf-transferpruefung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

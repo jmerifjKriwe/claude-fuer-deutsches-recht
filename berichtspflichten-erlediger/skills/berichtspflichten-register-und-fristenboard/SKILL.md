@@ -1,13 +1,13 @@
 ---
 name: berichtspflichten-register-und-fristenboard
-description: "Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Register und Fristenboard für Berichtspflichten
 
 ## Arbeitsbereich
 
-Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

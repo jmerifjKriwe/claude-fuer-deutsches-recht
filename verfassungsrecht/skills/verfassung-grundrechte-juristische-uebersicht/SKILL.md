@@ -1,13 +1,13 @@
 ---
 name: verfassung-grundrechte-juristische-uebersicht
-description: "Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Auslaendische jur. Personen jetzt teilweise EuGH-konform anerkannt im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Auslaendische jur. Personen jetzt teilweise EuGH-konform anerkannt im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundrechte jur. Personen
 
 ## Arbeitsbereich
 
-Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Auslaendische jur. Personen jetzt teilweise EuGH-konform anerkannt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Auslaendische jur. Personen jetzt teilweise EuGH-konform anerkannt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

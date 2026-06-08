@@ -1,13 +1,13 @@
 ---
 name: euipo-dokumentenmatrix-und-lueckenliste
-description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: EUIPO – Dokumentenmatrix und Lückenliste
 
 ## Arbeitsbereich
 
-EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kandidatenbriefing-kamera
-description: "Wahlkampfrecht Praxis: Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kandidatenbriefing Kamera
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

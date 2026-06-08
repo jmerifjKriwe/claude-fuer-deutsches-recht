@@ -1,13 +1,13 @@
 ---
 name: cross-border-fund-investment
-description: "Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cross-border Fund Investment
 
 ## Arbeitsbereich
 
-Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

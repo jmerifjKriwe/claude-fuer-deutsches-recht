@@ -1,13 +1,13 @@
 ---
 name: neu-014-entnazifizierung-kontrollratsrecht-und-uebergang
-description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 014 Entnazifizierung Kontrollratsrecht Und Uebergang
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

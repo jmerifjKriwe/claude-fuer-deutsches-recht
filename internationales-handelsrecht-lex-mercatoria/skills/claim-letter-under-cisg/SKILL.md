@@ -1,13 +1,13 @@
 ---
 name: claim-letter-under-cisg
-description: "Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Claim-Letter unter CISG
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

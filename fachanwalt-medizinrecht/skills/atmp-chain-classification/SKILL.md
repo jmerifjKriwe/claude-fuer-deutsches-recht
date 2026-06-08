@@ -7,7 +7,7 @@ description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Cha
 
 ## Arbeitsbereich
 
-**Atmp Chain Classification** ordnet den Fall über die tragenden Prüfungslinien: ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Atmp Chain Classification** ordnet den Fall über die tragenden Prüfungslinien: ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: gmbh-und-co-kg-hgb
-description: "Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GmbH & Co. KG HGB
 
 ## Arbeitsbereich
 
-Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

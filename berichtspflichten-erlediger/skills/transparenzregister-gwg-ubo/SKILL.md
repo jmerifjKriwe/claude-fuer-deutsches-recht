@@ -1,13 +1,13 @@
 ---
 name: transparenzregister-gwg-ubo
-description: "Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transparenzregister und wirtschaftlich Berechtigte
 
 ## Arbeitsbereich
 
-Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

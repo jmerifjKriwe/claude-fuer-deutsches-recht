@@ -1,13 +1,13 @@
 ---
 name: ausland-tochter-emissionshandel-tehg
-description: "Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandstöchter und deutsche Berichtspflichten
 
 ## Arbeitsbereich
 
-Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

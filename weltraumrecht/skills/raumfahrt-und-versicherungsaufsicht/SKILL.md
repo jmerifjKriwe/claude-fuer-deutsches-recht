@@ -1,13 +1,13 @@
 ---
 name: raumfahrt-und-versicherungsaufsicht
-description: "Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raumfahrt und Versicherungsaufsicht
 
 ## Arbeitsbereich
 
-Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

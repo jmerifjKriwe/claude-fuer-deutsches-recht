@@ -1,13 +1,13 @@
 ---
 name: ladeinfrastruktur-spezial-vertragskette
-description: "Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Konflikte im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Konflikte im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ladeinfrastruktur-Vertragskette
 
 ## Arbeitsbereich
 
-Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Konflikte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Konflikte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

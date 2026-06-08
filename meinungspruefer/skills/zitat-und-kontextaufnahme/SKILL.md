@@ -1,13 +1,13 @@
 ---
 name: zitat-und-kontextaufnahme
-description: "Erfasst den exakten Wortlaut, Screenshot-Kontext, Medium, Adressatenkreis, Anlass, Vorgeschichte, zeitliche Abfolge, Wiederholung, Sichtbarkeit und Ziel der Äußerung. Grundlage für jede Äußerungsprüfung im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst den exakten Wortlaut, Screenshot-Kontext, Medium, Adressatenkreis, Anlass, Vorgeschichte, zeitliche Abfolge, Wiederholung, Sichtbarkeit und Ziel der Äußerung. Grundlage für jede Äußerungsprüfung im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zitat und Kontextaufnahme
 
 ## Arbeitsbereich
 
-Erfasst den exakten Wortlaut, Screenshot-Kontext, Medium, Adressatenkreis, Anlass, Vorgeschichte, zeitliche Abfolge, Wiederholung, Sichtbarkeit und Ziel der Äußerung. Grundlage für jede Äußerungsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst den exakten Wortlaut, Screenshot-Kontext, Medium, Adressatenkreis, Anlass, Vorgeschichte, zeitliche Abfolge, Wiederholung, Sichtbarkeit und Ziel der Äußerung. Grundlage für jede Äußerungsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: insiderinformation-zwischenschritte
-description: "Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insiderinformation nach Art. 7 MAR
 
 ## Arbeitsbereich
 
-Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nicht-eingetragenes-rechtekette-entwerfer
-description: "Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nicht Eingetragenes Eu Design
 
 ## Arbeitsbereich
 
-Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

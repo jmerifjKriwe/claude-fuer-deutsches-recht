@@ -7,7 +7,7 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 
 ## Arbeitsbereich
 
-**Tdddg AVV EU Loeschung** ordnet den Fall über die tragenden Prüfungslinien: Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Tdddg AVV EU Loeschung** ordnet den Fall über die tragenden Prüfungslinien: Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

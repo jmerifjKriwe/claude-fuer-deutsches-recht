@@ -1,13 +1,13 @@
 ---
 name: gewr-uwg-abmahnung-checkliste
-description: "UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GewR: UWG-Abmahnung – Vollständige Prüfcheckliste
 
 ## Arbeitsbereich
 
-UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

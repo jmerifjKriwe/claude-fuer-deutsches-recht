@@ -1,13 +1,13 @@
 ---
 name: anschreiben-kurz-antrag-bapersbw
-description: "Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anschreiben kurz und würdig
 
 ## Arbeitsbereich
 
-Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

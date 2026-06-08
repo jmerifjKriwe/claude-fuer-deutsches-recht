@@ -1,13 +1,13 @@
 ---
 name: email-konvolute-zu-fachbeitrag
-description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Mail-Konvolute zu Fachbeitrag
 
 ## Arbeitsbereich
 
-Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

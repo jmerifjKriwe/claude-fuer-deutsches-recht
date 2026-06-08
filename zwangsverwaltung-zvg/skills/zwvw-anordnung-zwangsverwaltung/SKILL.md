@@ -1,13 +1,13 @@
 ---
 name: zwvw-anordnung-zwangsverwaltung
-description: "Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwVw: Anordnung Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

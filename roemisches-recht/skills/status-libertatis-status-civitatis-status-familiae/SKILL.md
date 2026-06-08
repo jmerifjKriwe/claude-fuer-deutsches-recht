@@ -1,13 +1,13 @@
 ---
 name: status-libertatis-status-civitatis-status-familiae
-description: "Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 151 Status Libertatis Status Civitatis Status Familiae
 
 ## Arbeitsbereich
 
-Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

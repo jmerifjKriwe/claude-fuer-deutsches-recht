@@ -1,13 +1,13 @@
 ---
 name: hochschularchiv-und-aktenordnung
-description: "Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hochschularchiv und Aktenordnung
 
 ## Arbeitsbereich
 
-Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

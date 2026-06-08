@@ -1,13 +1,13 @@
 ---
 name: takedown-anweisung-unterlassungsverlangen
-description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notice-and-Take-Down / Meldeverfahren
 
 ## Arbeitsbereich
 
-Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

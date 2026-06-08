@@ -1,13 +1,13 @@
 ---
 name: lph-05-schnittstelle-vob-bgb
-description: "HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 5 Ausführungsplanung: Prüft vob/b
 
 ## Arbeitsbereich
 
-HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

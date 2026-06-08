@@ -1,13 +1,13 @@
 ---
 name: fristenkalender-bundeswehrrecht
-description: "Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristenkalender Bundeswehrrecht
 
 ## Arbeitsbereich
 
-Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

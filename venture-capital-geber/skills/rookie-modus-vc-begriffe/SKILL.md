@@ -7,7 +7,7 @@ description: "Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-
 
 ## Arbeitsbereich
 
-Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

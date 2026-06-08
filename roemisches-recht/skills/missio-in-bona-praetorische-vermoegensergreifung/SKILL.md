@@ -1,13 +1,13 @@
 ---
 name: missio-in-bona-praetorische-vermoegensergreifung
-description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 112 Missio In Bona Praetorische Vermoegensergreifung
 
 ## Arbeitsbereich
 
-Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: bwbes-verwendungsfaehigkeit-tauglichkeit
-description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
 ## Arbeitsbereich
 
-Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

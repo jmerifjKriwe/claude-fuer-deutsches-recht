@@ -1,13 +1,13 @@
 ---
 name: deutscher-vertreter-ecommerce-marketplace
-description: "Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand
 
 ## Arbeitsbereich
 
-Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

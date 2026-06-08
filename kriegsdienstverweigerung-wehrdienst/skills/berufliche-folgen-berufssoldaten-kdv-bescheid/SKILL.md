@@ -1,13 +1,13 @@
 ---
 name: berufliche-folgen-berufssoldaten-kdv-bescheid
-description: "Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufliche Folgen zivil
 
 ## Arbeitsbereich
 
-Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

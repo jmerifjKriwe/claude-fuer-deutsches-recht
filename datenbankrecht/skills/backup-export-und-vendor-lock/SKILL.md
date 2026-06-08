@@ -1,13 +1,13 @@
 ---
 name: backup-export-und-vendor-lock
-description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
 
 ## Arbeitsbereich
 
-Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

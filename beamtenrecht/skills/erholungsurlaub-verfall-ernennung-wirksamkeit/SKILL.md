@@ -1,13 +1,13 @@
 ---
 name: erholungsurlaub-verfall-ernennung-wirksamkeit
-description: "Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der EuGH-Rechtsprechung Schultz-Hoff und Folgesachen. Klaert die Voraussetzung der Mitwirkungsobliegenheit des Dienstherrn die Konstellation langer Krankheit und Beurlaubung sowie die Differenzierung zwischen unionsrechtlichem Mindesturlaub und nationalem Zusatzurlaub. Behandelt Sonderfaelle Wechselschichturlaub Schwerbehindertenzusatzurlaub Erziehungsurlaub. Liefert Pruefraster und Antrag auf Abgeltung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der EuGH-Rechtsprechung Schultz-Hoff und Folgesachen. Klaert die Voraussetzung der Mitwirkungsobliegenheit des Dienstherrn die Konstellation langer Krankheit und Beurlaubung sowie die Differenzierung zwischen unionsrechtlichem Mindesturlaub und nationalem Zusatzurlaub. Behandelt Sonderfaelle Wechselschichturlaub Schwerbehindertenzusatzurlaub Erziehungsurlaub. Liefert Pruefraster und Antrag auf Abgeltung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erholungsurlaub — Verfall und Mitwirkungsobliegenheit
 
 ## Arbeitsbereich
 
-Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der EuGH-Rechtsprechung Schultz-Hoff und Folgesachen. Klaert die Voraussetzung der Mitwirkungsobliegenheit des Dienstherrn die Konstellation langer Krankheit und Beurlaubung sowie die Differenzierung zwischen unionsrechtlichem Mindesturlaub und nationalem Zusatzurlaub. Behandelt Sonderfaelle Wechselschichturlaub Schwerbehindertenzusatzurlaub Erziehungsurlaub. Liefert Pruefraster und Antrag auf Abgeltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der EuGH-Rechtsprechung Schultz-Hoff und Folgesachen. Klaert die Voraussetzung der Mitwirkungsobliegenheit des Dienstherrn die Konstellation langer Krankheit und Beurlaubung sowie die Differenzierung zwischen unionsrechtlichem Mindesturlaub und nationalem Zusatzurlaub. Behandelt Sonderfaelle Wechselschichturlaub Schwerbehindertenzusatzurlaub Erziehungsurlaub. Liefert Pruefraster und Antrag auf Abgeltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

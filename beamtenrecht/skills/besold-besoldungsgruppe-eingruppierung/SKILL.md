@@ -1,13 +1,13 @@
 ---
 name: besold-besoldungsgruppe-eingruppierung
-description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Besoldungsgruppe Eingruppierung Amt Und Funktion
 
 ## Arbeitsbereich
 
-Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

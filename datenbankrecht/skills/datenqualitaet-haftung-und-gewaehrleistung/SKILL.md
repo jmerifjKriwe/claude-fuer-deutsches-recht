@@ -1,13 +1,13 @@
 ---
 name: datenqualitaet-haftung-und-gewaehrleistung
-description: "Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
 
 ## Arbeitsbereich
 
-Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

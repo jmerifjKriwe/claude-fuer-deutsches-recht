@@ -1,13 +1,13 @@
 ---
 name: rechtsgeschichte-vertiefung-quellenmatrix-streitstand
-description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertiefung: Quellenmatrix
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

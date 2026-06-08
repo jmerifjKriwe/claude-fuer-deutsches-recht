@@ -1,13 +1,13 @@
 ---
 name: gliederung-mit-tiefenstruktur
-description: "Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-für-schritt (Inhalt) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-für-schritt (Inhalt) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gliederung mit Tiefen-Struktur
 
 ## Arbeitsbereich
 
-Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-für-schritt (Inhalt). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-für-schritt (Inhalt). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

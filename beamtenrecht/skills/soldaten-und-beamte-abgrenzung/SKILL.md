@@ -1,13 +1,13 @@
 ---
 name: soldaten-und-beamte-abgrenzung
-description: "Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Soldaten Und Beamte Abgrenzung
 
 ## Arbeitsbereich
 
-Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

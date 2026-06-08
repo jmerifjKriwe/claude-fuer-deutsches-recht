@@ -1,13 +1,13 @@
 ---
 name: fakultaetsrat-kompetenzen-forschungsdaten
-description: "Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fakultätsrat und Kompetenzen
 
 ## Arbeitsbereich
 
-Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

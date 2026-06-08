@@ -7,7 +7,7 @@ description: "DSV Kein Risiko Kinderdaten Besondere im Datenschutzrecht: prüft 
 
 ## Arbeitsbereich
 
-**DSV Kein Risiko Kinderdaten Besondere** ordnet den Fall über die tragenden Prüfungslinien: Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die A, Bewertet einen Datenschutzvorfall mit Daten von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Kein Risiko Kinderdaten Besondere** ordnet den Fall über die tragenden Prüfungslinien: Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die A, Bewertet einen Datenschutzvorfall mit Daten von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

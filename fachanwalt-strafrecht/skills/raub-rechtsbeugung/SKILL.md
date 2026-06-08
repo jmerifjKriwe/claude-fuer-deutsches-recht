@@ -7,7 +7,7 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 ## Arbeitsbereich
 
-**Spezial Raub Rechtsbeugung** ordnet den Fall über die tragenden Prüfungslinien: Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Spezial Raub Rechtsbeugung** ordnet den Fall über die tragenden Prüfungslinien: Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

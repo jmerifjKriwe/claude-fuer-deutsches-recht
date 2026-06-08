@@ -1,13 +1,13 @@
 ---
 name: werkvertrag-maengelrechte-deliktsrecht
-description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werkvertrag Mängelrechte §§ 633-638 BGB
 
 ## Arbeitsbereich
 
-Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: abgrenzung-konventionelle-software-vs-ki-system
-description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abgrenzung: Konventionelle Software versus KI-System
 
 ## Arbeitsbereich
 
-Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: eu-behoerde-familiengericht-vorladung
-description: "Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Behörde und SOLVIT
 
 ## Arbeitsbereich
 
-Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

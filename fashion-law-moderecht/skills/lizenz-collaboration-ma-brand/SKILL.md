@@ -1,13 +1,13 @@
 ---
 name: lizenz-collaboration-ma-brand
-description: "Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lizenz Collaboration Co Branding
 
 ## Arbeitsbereich
 
-Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

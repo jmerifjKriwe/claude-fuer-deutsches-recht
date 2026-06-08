@@ -1,13 +1,13 @@
 ---
 name: medizinprodukt-software-mitbestimmung
-description: "Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Medizinprodukt-Software-KI-Roboter
 
 ## Arbeitsbereich
 
-Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

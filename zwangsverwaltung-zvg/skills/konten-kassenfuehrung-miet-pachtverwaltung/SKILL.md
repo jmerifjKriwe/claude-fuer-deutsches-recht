@@ -1,13 +1,13 @@
 ---
 name: konten-kassenfuehrung-miet-pachtverwaltung
-description: "Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Prüfraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Prüfraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konten, Kasse und Buchführung
 
 ## Arbeitsbereich
 
-Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Prüfraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. Prüfraster Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss Auskunft Gerichtsbericht. Output Kontenspiegel mit Saldouebersicht Belegverzeichnis und monatlichem Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-rechnungslegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

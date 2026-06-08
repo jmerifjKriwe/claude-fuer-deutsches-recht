@@ -1,13 +1,13 @@
 ---
 name: nachweisordner-dokumentenmatrix
-description: "Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachweisordner und Dokumentenmatrix
 
 ## Arbeitsbereich
 
-Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

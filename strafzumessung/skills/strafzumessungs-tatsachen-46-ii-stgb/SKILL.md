@@ -1,13 +1,13 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
 
 ## Arbeitsbereich
 
-Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

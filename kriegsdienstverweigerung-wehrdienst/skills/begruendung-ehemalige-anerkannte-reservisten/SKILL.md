@@ -1,13 +1,13 @@
 ---
 name: begruendung-ehemalige-anerkannte-reservisten
-description: "Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Frühere Anerkennung späterer Dienst
 
 ## Arbeitsbereich
 
-Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: beurteilung-konkurrentenstreit-auswahlentscheidung
-description: "Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beurteilung, Konkurrentenstreit und Auswahlentscheidung
 
 ## Arbeitsbereich
 
-Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

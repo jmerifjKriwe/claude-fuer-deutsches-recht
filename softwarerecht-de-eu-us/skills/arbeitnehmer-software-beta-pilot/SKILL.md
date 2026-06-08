@@ -1,13 +1,13 @@
 ---
 name: arbeitnehmer-software-beta-pilot
-description: "Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitnehmer-Software § 69b UrhG
 
 ## Arbeitsbereich
 
-Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

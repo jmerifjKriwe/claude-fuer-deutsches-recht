@@ -7,7 +7,7 @@ description: "Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-
 
 ## Arbeitsbereich
 
-Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

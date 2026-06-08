@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-parkhaus-tiefgarage-beton
-description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Parkhaus und Tiefgarage Beton (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

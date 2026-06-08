@@ -1,13 +1,13 @@
 ---
 name: betriebskosten-hausgeld-bieterangebot
-description: "Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Prüfraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Übersicht mit Abrechnungsprotokoll und Zahlungsplan für Gericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Prüfraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Übersicht mit Abrechnungsprotokoll und Zahlungsplan für Gericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebskosten, Hausgeld und laufende Objektkosten
 
 ## Arbeitsbereich
 
-Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Prüfraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Übersicht mit Abrechnungsprotokoll und Zahlungsplan für Gericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld BetrKV Betriebskostenarten. Prüfraster Nebenkosten Dienstleister WEG-Hausgeld Versorger Wirtschaftlichkeit Abrechnung Zahlungsplan Belegpflicht. Output Betriebskosten-Übersicht mit Abrechnungsprotokoll und Zahlungsplan für Gericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-indexklausel-inflation
-description: "Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Indexklausel und Inflation
 
 ## Arbeitsbereich
 
-Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: lebensfuehrung-und-plausibilitaet
-description: "Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lebensführung und Plausibilität
 
 ## Arbeitsbereich
 
-Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

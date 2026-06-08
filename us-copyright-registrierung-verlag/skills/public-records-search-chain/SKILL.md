@@ -1,13 +1,13 @@
 ---
 name: public-records-search-chain
-description: "Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Public Records Search and Chain
 
 ## Arbeitsbereich
 
-Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

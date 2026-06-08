@@ -7,7 +7,7 @@ description: "Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positione
 
 ## Arbeitsbereich
 
-Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

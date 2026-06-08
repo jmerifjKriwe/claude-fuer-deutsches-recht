@@ -1,13 +1,13 @@
 ---
 name: sanierungskonzept-factoring-als-liquiditaetsbaustein
-description: "Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungskonzept Factoring als Liquiditätsbaustein
 
 ## Arbeitsbereich
 
-Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

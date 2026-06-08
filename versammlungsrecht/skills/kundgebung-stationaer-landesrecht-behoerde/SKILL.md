@@ -1,13 +1,13 @@
 ---
 name: kundgebung-stationaer-landesrecht-behoerde
-description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Der Ort spricht mit
 
 ## Arbeitsbereich
 
-Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

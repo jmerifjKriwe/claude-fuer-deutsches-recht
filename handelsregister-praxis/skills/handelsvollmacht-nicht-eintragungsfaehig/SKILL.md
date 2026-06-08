@@ -1,13 +1,13 @@
 ---
 name: handelsvollmacht-nicht-eintragungsfaehig
-description: "Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handlungsvollmacht richtig abgrenzen
 
 ## Arbeitsbereich
 
-Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

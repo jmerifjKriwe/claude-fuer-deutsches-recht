@@ -1,13 +1,13 @@
 ---
 name: schultraeger-gebaeude-und-ausstattung
-description: "Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schultraeger Gebaeude Und Ausstattung
 
 ## Arbeitsbereich
 
-Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: hinweisgeber-betriebsrat-personenkreis
-description: "Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hinweisgeber Im Betriebsrat
 
 ## Arbeitsbereich
 
-Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

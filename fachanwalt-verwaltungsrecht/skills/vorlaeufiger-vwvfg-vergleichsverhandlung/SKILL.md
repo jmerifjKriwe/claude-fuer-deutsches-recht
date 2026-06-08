@@ -7,7 +7,7 @@ description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-**Vorlaeufiger Vwvfg Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vorlaeufiger Vwvfg Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: visas-expats-and-secondment
-description: "Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht
 
 ## Arbeitsbereich
 
-Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

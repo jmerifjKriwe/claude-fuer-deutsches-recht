@@ -1,13 +1,13 @@
 ---
 name: hausaufgaben-und-betreuungspflichten
-description: "Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hausaufgaben und Betreuungspflichten
 
 ## Arbeitsbereich
 
-Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

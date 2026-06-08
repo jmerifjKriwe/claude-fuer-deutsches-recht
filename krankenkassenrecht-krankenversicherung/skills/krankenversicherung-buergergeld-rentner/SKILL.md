@@ -7,7 +7,7 @@ description: "Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: P
 
 ## Arbeitsbereich
 
-Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

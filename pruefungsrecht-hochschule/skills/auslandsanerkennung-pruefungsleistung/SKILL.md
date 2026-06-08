@@ -1,13 +1,13 @@
 ---
 name: auslandsanerkennung-pruefungsleistung
-description: "Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsanerkennung Prüfungsleistung
 
 ## Arbeitsbereich
 
-Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

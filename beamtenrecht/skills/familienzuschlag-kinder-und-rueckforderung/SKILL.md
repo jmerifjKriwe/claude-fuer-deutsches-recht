@@ -1,13 +1,13 @@
 ---
 name: familienzuschlag-kinder-und-rueckforderung
-description: "Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienzuschlag Kinder Und Rueckforderung
 
 ## Arbeitsbereich
 
-Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

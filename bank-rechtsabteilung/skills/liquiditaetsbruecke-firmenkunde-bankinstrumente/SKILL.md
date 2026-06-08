@@ -1,13 +1,13 @@
 ---
 name: liquiditaetsbruecke-firmenkunde-bankinstrumente
-description: "Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Liquiditätsbrücke durch Bankinstrumente
 
 ## Arbeitsbereich
 
-Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

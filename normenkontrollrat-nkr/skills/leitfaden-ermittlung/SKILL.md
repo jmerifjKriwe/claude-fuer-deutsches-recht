@@ -1,13 +1,13 @@
 ---
 name: leitfaden-ermittlung
-description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands
 
 ## Arbeitsbereich
 
-Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

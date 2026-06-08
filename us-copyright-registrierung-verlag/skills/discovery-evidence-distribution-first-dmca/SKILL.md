@@ -1,13 +1,13 @@
 ---
 name: discovery-evidence-distribution-first-dmca
-description: "Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Discovery and Evidence Copyright
 
 ## Arbeitsbereich
 
-Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: dienstunfall-anerkennung
-description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstunfall Anerkennung
 
 ## Arbeitsbereich
 
-Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

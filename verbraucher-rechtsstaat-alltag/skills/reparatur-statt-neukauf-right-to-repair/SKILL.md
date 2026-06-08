@@ -1,13 +1,13 @@
 ---
 name: reparatur-statt-neukauf-right-to-repair
-description: "Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reparatur statt Neukauf und Right to Repair
 
 ## Arbeitsbereich
 
-Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: bidco-stack-und-holdingstruktur
-description: "Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BidCo-Stack und Holdingstruktur
 
 ## Arbeitsbereich
 
-Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

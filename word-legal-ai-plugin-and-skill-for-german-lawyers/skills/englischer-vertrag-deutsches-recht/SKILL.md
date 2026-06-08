@@ -1,13 +1,13 @@
 ---
 name: englischer-vertrag-deutsches-recht
-description: "Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Englischer Vertrag nach Deutschem Recht
 
 ## Arbeitsbereich
 
-Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

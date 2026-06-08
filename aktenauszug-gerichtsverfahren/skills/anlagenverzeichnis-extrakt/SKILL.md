@@ -1,13 +1,13 @@
 ---
 name: anlagenverzeichnis-extrakt
-description: "Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anlagenverzeichnis-Extrakt
 
 ## Arbeitsbereich
 
-Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

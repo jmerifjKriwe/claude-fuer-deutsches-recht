@@ -1,13 +1,13 @@
 ---
 name: semiconductor-chip-ch9
-description: "Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Semiconductor Chip Protection
 
 ## Arbeitsbereich
 
-Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

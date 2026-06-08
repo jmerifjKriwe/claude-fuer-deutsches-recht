@@ -1,13 +1,13 @@
 ---
 name: reservistendienst-dienstleistungspflicht
-description: "Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reservistendienst und Dienstleistungspflicht
 
 ## Arbeitsbereich
 
-Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

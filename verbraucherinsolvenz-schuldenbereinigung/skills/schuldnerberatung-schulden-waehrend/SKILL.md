@@ -7,7 +7,7 @@ description: "Schuldnerberatung Schulden Waehrend im Plugin Verbraucherinsolvenz
 
 ## Arbeitsbereich
 
-**Schuldnerberatung Schulden Waehrend** ordnet den Fall über die tragenden Prüfungslinien: mit Schuldnerberatung, Neue Schulden während des Verfahrens, Verfahrenskostenstundung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Schuldnerberatung Schulden Waehrend** ordnet den Fall über die tragenden Prüfungslinien: mit Schuldnerberatung, Neue Schulden während des Verfahrens, Verfahrenskostenstundung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

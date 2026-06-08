@@ -1,13 +1,13 @@
 ---
 name: juristenausbildung-und-pruefungswesen
-description: "Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Juristenausbildung und Pruefungswesen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: eidas-electronic-signatures-software
-description: "Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # eIDAS und Signatursoftware
 
 ## Arbeitsbereich
 
-Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

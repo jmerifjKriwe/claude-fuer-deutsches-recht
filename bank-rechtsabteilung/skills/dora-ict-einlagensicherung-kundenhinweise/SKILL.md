@@ -1,13 +1,13 @@
 ---
 name: dora-ict-einlagensicherung-kundenhinweise
-description: "DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DORA IKT-Verträge und Vorfälle
 
 ## Arbeitsbereich
 
-DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: aa-eu-bmi-verwaltungsverfahren
-description: "Sachbereich EU-Grundlagen und Ratsverfahren im Geschaeftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich EU-Grundlagen und Ratsverfahren im Geschaeftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Grundlagen und Ratsverfahren (AA)
 
 ## Arbeitsbereich
 
-Sachbereich EU-Grundlagen und Ratsverfahren im Geschaeftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich EU-Grundlagen und Ratsverfahren im Geschaeftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

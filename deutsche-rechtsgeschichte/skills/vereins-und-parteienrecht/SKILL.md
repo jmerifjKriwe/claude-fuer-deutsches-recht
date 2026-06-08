@@ -1,13 +1,13 @@
 ---
 name: vereins-und-parteienrecht
-description: "Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vereins- und Parteienrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

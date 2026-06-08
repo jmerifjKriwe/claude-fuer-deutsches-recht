@@ -1,13 +1,13 @@
 ---
 name: geschenke-korruption-compliance
-description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschenke Korruption Compliance
 
 ## Arbeitsbereich
 
-Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

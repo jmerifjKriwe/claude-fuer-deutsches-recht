@@ -1,13 +1,13 @@
 ---
 name: data-board
-description: "Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sicherer Data Room für Counsel und Behörden
 
 ## Arbeitsbereich
 
-Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

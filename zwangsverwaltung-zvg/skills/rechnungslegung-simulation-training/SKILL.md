@@ -1,13 +1,13 @@
 ---
 name: rechnungslegung-simulation-training
-description: "Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 155 ZVG Einnahmen Ausgaben § 10 ZVG Rangklassen. Prüfraster Jahresrechnung Schlussrechnung Endabrechnung Einnahme-Ausgaben-Rechnung Soll-Ist Belege Salden Verteilung. Output Gerichtsfähige Rechnungslegung mit Saldouebersicht Belegverzeichnis und Verteilungsnachweis. Abgrenzung zu zvg-konten-kassenführung (laufend) und zvg-verteilungsplan-155 im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 155 ZVG Einnahmen Ausgaben § 10 ZVG Rangklassen. Prüfraster Jahresrechnung Schlussrechnung Endabrechnung Einnahme-Ausgaben-Rechnung Soll-Ist Belege Salden Verteilung. Output Gerichtsfähige Rechnungslegung mit Saldouebersicht Belegverzeichnis und Verteilungsnachweis. Abgrenzung zu zvg-konten-kassenführung (laufend) und zvg-verteilungsplan-155 im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechnungslegung
 
 ## Arbeitsbereich
 
-Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 155 ZVG Einnahmen Ausgaben § 10 ZVG Rangklassen. Prüfraster Jahresrechnung Schlussrechnung Endabrechnung Einnahme-Ausgaben-Rechnung Soll-Ist Belege Salden Verteilung. Output Gerichtsfähige Rechnungslegung mit Saldouebersicht Belegverzeichnis und Verteilungsnachweis. Abgrenzung zu zvg-konten-kassenführung (laufend) und zvg-verteilungsplan-155. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 155 ZVG Einnahmen Ausgaben § 10 ZVG Rangklassen. Prüfraster Jahresrechnung Schlussrechnung Endabrechnung Einnahme-Ausgaben-Rechnung Soll-Ist Belege Salden Verteilung. Output Gerichtsfähige Rechnungslegung mit Saldouebersicht Belegverzeichnis und Verteilungsnachweis. Abgrenzung zu zvg-konten-kassenführung (laufend) und zvg-verteilungsplan-155. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

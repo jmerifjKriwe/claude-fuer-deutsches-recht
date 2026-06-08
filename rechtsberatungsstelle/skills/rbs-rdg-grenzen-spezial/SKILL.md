@@ -1,13 +1,13 @@
 ---
 name: rbs-rdg-grenzen-spezial
-description: "Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rbs: RDG-Grenzen
 
 ## Arbeitsbereich
 
-Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

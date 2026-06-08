@@ -7,7 +7,7 @@ description: "Archive, Register und Datenschutz: Registerführung, Einsicht, Kor
 
 ## Arbeitsbereich
 
-Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

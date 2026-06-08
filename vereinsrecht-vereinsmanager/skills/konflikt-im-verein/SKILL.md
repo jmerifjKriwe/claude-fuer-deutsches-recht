@@ -1,13 +1,13 @@
 ---
 name: konflikt-im-verein
-description: "Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konflikt im Verein
 
 ## Arbeitsbereich
 
-Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

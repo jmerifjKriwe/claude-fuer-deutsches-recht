@@ -1,13 +1,13 @@
 ---
 name: umwandlung-registervollzug
-description: "Prüft Verschmelzung, Spaltung, Formwechsel, Registerreihenfolge, Schlussbilanz und Bekanntmachung im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verschmelzung, Spaltung, Formwechsel, Registerreihenfolge, Schlussbilanz und Bekanntmachung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwandlung im Register
 
 ## Arbeitsbereich
 
-Prüft Verschmelzung, Spaltung, Formwechsel, Registerreihenfolge, Schlussbilanz und Bekanntmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verschmelzung, Spaltung, Formwechsel, Registerreihenfolge, Schlussbilanz und Bekanntmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

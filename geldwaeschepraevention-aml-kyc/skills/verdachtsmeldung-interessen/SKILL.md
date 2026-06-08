@@ -1,6 +1,6 @@
 ---
 name: verdachtsmeldung-interessen
-description: "Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verdachtsmeldung Interessen

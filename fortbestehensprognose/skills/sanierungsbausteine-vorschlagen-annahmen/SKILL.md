@@ -1,13 +1,13 @@
 ---
 name: sanierungsbausteine-vorschlagen-annahmen
-description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger) im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger) im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsbausteine vorschlagen
 
 ## Arbeitsbereich
 
-Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Que
 
 ## Arbeitsbereich
 
-PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

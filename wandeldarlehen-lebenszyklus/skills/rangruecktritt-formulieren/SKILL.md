@@ -1,13 +1,13 @@
 ---
 name: rangruecktritt-formulieren
-description: "Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualifizierten Rangrücktritt formulieren
 
 ## Arbeitsbereich
 
-Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

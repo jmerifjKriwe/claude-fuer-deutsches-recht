@@ -1,13 +1,13 @@
 ---
 name: vorlageanordnung-zeuge-vorbereitung
-description: "Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO im Prozessrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen
 
 ## Arbeitsbereich
 
-Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

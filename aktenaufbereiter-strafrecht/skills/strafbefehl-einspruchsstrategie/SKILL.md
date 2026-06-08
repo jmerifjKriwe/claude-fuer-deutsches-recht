@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-einspruchsstrategie
-description: "Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafbefehl: Einspruchsstrategie
 
 ## Arbeitsbereich
 
-Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

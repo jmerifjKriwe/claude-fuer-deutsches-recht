@@ -7,7 +7,7 @@ description: "Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audi
 
 ## Arbeitsbereich
 
-Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

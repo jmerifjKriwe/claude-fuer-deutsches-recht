@@ -1,13 +1,13 @@
 ---
 name: international-subsidiaries
-description: "Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # International Subsidiaries
 
 ## Arbeitsbereich
 
-Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

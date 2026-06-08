@@ -1,13 +1,13 @@
 ---
 name: 029-familiengesellschaft-poolvertrag-und-minderjaehrige
-description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

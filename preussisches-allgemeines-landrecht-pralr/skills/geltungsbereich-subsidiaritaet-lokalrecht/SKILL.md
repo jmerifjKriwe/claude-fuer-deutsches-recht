@@ -7,7 +7,7 @@ description: "PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen,
 
 ## Arbeitsbereich
 
-PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen, Observanz und lokale Rechtsquellen prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen, Observanz und lokale Rechtsquellen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

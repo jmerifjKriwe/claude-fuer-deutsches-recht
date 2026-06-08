@@ -1,13 +1,13 @@
 ---
 name: schadensersatz-auskunft-abmahnung-designrecht
-description: "Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schadensersatz Auskunft Vernichtung
 
 ## Arbeitsbereich
 
-Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

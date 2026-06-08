@@ -1,13 +1,13 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Single Asset Real Estate
 
 ## Arbeitsbereich
 
-Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

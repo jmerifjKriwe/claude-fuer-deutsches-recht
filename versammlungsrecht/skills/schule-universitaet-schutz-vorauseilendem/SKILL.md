@@ -1,13 +1,13 @@
 ---
 name: schule-universitaet-schutz-vorauseilendem
-description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Junge Versammlungen brauchen klare Rollen
 
 ## Arbeitsbereich
 
-Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

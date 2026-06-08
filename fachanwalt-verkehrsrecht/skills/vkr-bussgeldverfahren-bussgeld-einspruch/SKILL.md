@@ -7,13 +7,13 @@ description: "VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verk
 
 ## Arbeitsbereich
 
-**VKR Bussgeldverfahren Bussgeld Einspruch** ordnet den Fall über die tragenden Prüfungslinien: Bussgeldverfahren Grundzuege, Prüfungslinie für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**VKR Bussgeldverfahren Bussgeld Einspruch** ordnet den Fall über die tragenden Prüfungslinien: Bussgeldverfahren Grundzuege, Prüfungslinie für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `vkr-bussgeldverfahren-grundzuege` | Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Pruefraster. |
-| `bussgeld-einspruch-pruefen` | Prüfungslinie für bussgeld einspruch pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bussgeld-einspruch-pruefen` | Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen` | Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verjährung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhörung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Prüfprotokoll und Einspruchsempfehlung. Abgrenzung zu bußgeld-einspruch-prüfen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug. |
 
 ## Arbeitsweg
@@ -75,7 +75,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 2. `bussgeld-einspruch-pruefen`
 
-**Fokus:** Prüfungslinie für bussgeld einspruch pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Bußgeldbescheid prüfen und Einspruch
 

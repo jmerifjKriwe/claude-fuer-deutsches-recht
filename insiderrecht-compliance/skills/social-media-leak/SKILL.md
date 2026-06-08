@@ -1,13 +1,13 @@
 ---
 name: social-media-leak
-description: "Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion
 
 ## Arbeitsbereich
 
-Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

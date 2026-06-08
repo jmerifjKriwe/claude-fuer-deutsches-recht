@@ -1,13 +1,13 @@
 ---
 name: besold-amtsangemessene-alimentation-fuenf-parameter
-description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Amtsangemessene Alimentation Fuenf Parameter
 
 ## Arbeitsbereich
 
-Beamtenrecht: Amtsangemessene Alimentation fünf Parameter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Amtsangemessene Alimentation fünf Parameter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

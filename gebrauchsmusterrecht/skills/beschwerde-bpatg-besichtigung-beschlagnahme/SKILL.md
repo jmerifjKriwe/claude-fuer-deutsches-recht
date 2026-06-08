@@ -1,13 +1,13 @@
 ---
 name: beschwerde-bpatg-besichtigung-beschlagnahme
-description: "Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde Bpatg
 
 ## Arbeitsbereich
 
-Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

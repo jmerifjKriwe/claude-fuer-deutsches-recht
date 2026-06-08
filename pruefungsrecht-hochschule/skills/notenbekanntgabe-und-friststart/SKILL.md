@@ -1,13 +1,13 @@
 ---
 name: notenbekanntgabe-und-friststart
-description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notenbekanntgabe und Friststart
 
 ## Arbeitsbereich
 
-Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

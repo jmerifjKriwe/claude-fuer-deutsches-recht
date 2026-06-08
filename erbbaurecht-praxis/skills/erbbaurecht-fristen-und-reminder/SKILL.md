@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-fristen-und-reminder
-description: "Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen und Reminder
 
 ## Arbeitsbereich
 
-Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

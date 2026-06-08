@@ -1,13 +1,13 @@
 ---
 name: compliance-mandantenkommunikation-entscheidungsvorlage
-description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

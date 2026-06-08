@@ -1,13 +1,13 @@
 ---
 name: transportvertrag-luft
-description: "Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lufttransportrecht: Montrealer Übereinkommen 1999
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

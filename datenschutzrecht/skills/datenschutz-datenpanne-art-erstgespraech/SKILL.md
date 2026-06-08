@@ -7,7 +7,7 @@ description: "Datenschutz Datenpanne ART Erstgespraech im Datenschutzrecht: prü
 
 ## Arbeitsbereich
 
-**Datenschutz Datenpanne ART Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Datenpannen-Incident-Response Art, Strukturiertes Erstgespraech im Datenschutzmandat, Auskunft gegenüber Auskunfteien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Datenpanne ART Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Datenpannen-Incident-Response Art, Strukturiertes Erstgespraech im Datenschutzmandat, Auskunft gegenüber Auskunfteien. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

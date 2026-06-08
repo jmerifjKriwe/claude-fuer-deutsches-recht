@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-wrackpflicht
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

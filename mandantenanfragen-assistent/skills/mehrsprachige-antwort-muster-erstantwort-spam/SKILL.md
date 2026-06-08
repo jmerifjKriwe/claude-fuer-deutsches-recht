@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-antwort-muster-erstantwort-spam
-description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede) im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede) im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrsprachige-Antwort
 
 ## Arbeitsbereich
 
-Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

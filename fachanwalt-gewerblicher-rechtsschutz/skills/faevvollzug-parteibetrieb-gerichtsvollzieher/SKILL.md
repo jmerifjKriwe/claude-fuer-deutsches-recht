@@ -7,7 +7,7 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Faevvollzug Parteibetrieb Gerichtsvollzieher** ordnet den Fall über die tragenden Prüfungslinien: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Faevvollzug Parteibetrieb Gerichtsvollzieher** ordnet den Fall über die tragenden Prüfungslinien: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

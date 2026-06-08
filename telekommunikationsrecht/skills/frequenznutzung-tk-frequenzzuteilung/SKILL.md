@@ -1,13 +1,13 @@
 ---
 name: frequenznutzung-tk-frequenzzuteilung
-description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Frequenzstörungen und Funkverträglichkeit
 
 ## Arbeitsbereich
 
-Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

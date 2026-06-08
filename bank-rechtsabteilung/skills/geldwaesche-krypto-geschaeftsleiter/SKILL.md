@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-krypto-geschaeftsleiter
-description: "Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krypto-AML Wallet Screening
 
 ## Arbeitsbereich
 
-Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: interne-lobbyregister-richtlinie
-description: "Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Lobbyregister-Richtlinie
 
 ## Arbeitsbereich
 
-Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

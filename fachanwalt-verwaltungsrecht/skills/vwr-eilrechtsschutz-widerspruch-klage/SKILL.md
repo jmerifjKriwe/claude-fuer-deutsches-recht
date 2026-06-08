@@ -7,7 +7,7 @@ description: "VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwalt
 
 ## Arbeitsbereich
 
-**VWR Eilrechtsschutz Widerspruch Klage** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Eilrechtsschutz vor Verwaltungsgericht, Entscheidung Widerspruch vs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**VWR Eilrechtsschutz Widerspruch Klage** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Eilrechtsschutz vor Verwaltungsgericht, Entscheidung Widerspruch vs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: frist-sofortcheck-nachbar-bauverfahren
-description: "Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Frist Sofortcheck
 
 ## Arbeitsbereich
 
-Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

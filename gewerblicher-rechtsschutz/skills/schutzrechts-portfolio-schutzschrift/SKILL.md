@@ -1,13 +1,13 @@
 ---
 name: schutzrechts-portfolio-schutzschrift
-description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP-Portfolio-Verwaltung
 
 ## Arbeitsbereich
 
-Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

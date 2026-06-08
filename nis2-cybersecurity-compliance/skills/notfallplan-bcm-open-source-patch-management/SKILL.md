@@ -1,13 +1,13 @@
 ---
 name: notfallplan-bcm-open-source-patch-management
-description: "Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notfallplan Und Bcm
 
 ## Arbeitsbereich
 
-Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

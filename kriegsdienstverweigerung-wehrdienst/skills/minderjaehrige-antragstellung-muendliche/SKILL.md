@@ -1,13 +1,13 @@
 ---
 name: minderjaehrige-antragstellung-muendliche
-description: "Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Minderjährige Antragstellung
 
 ## Arbeitsbereich
 
-Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

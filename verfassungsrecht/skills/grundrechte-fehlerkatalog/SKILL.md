@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Verfassungsrecht** Ergebnisse vor Abgab
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesetzgebungskompetenz-grundrechtspruefung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `grundrechtspruefung-acht-formelle-interessen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `materielle-petition-sonderfall-recherche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `rechtsprechungsgetrieben-rechtsweg-bverfg-verfahrenssicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `sicht-spezialkanzlei-unter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verfassung-beweislast-verfassungsbeschwerde`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verfassung-grundgesetz-verfassung-organstreitverfahren`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verfassung-grundrechte-juristische-uebersicht-eu`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verfassung-konkrete-normenkontrolle-parteiverbot-petition`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesetzgebungskompetenz-grundrechtspruefung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `grundrechtspruefung-acht-formelle-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `materielle-petition-sonderfall-recherche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `rechtsprechungsgetrieben-rechtsweg-bverfg-verfahrenssicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `sicht-spezialkanzlei-unter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verfassung-beweislast-verfassungsbeschwerde`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verfassung-grundgesetz-verfassung-organstreitverfahren`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verfassung-grundrechte-juristische-uebersicht-eu`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verfassung-konkrete-normenkontrolle-parteiverbot-petition`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

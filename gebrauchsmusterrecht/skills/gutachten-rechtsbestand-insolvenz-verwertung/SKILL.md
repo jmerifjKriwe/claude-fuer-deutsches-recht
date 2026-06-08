@@ -1,13 +1,13 @@
 ---
 name: gutachten-rechtsbestand-insolvenz-verwertung
-description: "Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gutachten Rechtsbestand
 
 ## Arbeitsbereich
 
-Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,29 +1,40 @@
 ---
 name: dsgvo-bussgeld-art-83-eugh-c-807-21
-description: DSGVO Bussgeldzumessung Art 83 mit EuGH C-807/21.
+description: "DSGVO Bussgeld Art 83 EuGH C 807 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# DSGVO Bussgeld Art 83 EuGH C 807 21
+
+## Einsatzlage
 
 Aufsicht verhaengt 14,5 Mio EUR Bussgeld gegen Tochter; Mutterkonzern haftet?
 
-## Normen
+## Normenanker
 
-- Art 83 DSGVO
+- Art. 83 EUGH
+- Art. 5 DSGVO
+- Art. 6 DSGVO
+- Art. 28 DSGVO
+- Art. 44 ff. DSGVO
+- VO (EU) 2024/1689
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 05.12.2023 C-807/21 Deutsche Wohnen
+- EuGH 05.12.2023 C-807/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Konzernweite Umsatzbasis; Verschuldensnachweis.
 
-## Schriftsatzkern
-
-Bussgeld nach Konzernumsatz; aber Verschuldenspruefung erforderlich.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bussgeldbescheid
 - Konzernstruktur

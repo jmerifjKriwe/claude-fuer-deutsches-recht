@@ -1,13 +1,13 @@
 ---
 name: ruecktritt-kuendigung-verhandlungsplan
-description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Fristen, Rücktritt und Kündigung
 
 ## Arbeitsbereich
 
-Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

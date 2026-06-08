@@ -3,6 +3,8 @@ name: bundesnotbremse-bverfge-159-223
 description: Bundesnotbremse BVerfGE Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhaeltnismaessigkeitspruefung der Pandemie-Massnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissenslage und Pruefung Stufe fuer Stufe.
 ---
 
+# Bundesnotbremse BVerfGE 159 223
+
 ## Sachverhalt
 
 Vierte Aenderung des Infektionsschutzgesetzes vom 22.04.2021 sah

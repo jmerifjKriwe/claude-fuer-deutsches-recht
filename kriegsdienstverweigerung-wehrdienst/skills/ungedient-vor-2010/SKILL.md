@@ -1,13 +1,13 @@
 ---
 name: ungedient-vor-2010
-description: "Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ungediente vor 01.01.2010
 
 ## Arbeitsbereich
 
-Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

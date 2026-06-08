@@ -1,13 +1,13 @@
 ---
 name: klage-drafting-mandantenmemo-partner
-description: "Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klage-Drafting nach § 253 ZPO
 
 ## Arbeitsbereich
 
-Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

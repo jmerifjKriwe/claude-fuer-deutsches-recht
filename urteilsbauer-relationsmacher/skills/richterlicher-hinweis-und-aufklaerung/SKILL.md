@@ -1,13 +1,13 @@
 ---
 name: richterlicher-hinweis-und-aufklaerung
-description: "Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
 
 ## Arbeitsbereich
 
-Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

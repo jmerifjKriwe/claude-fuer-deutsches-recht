@@ -1,13 +1,13 @@
 ---
 name: plattformsales-dsa-pricing-sales
-description: "Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plattformsales Dsa Marketplace
 
 ## Arbeitsbereich
 
-Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

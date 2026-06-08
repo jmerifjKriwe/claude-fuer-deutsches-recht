@@ -7,7 +7,7 @@ description: "Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Repo
 
 ## Arbeitsbereich
 
-Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

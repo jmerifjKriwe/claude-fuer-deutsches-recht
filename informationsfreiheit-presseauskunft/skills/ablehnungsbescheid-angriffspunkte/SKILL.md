@@ -7,7 +7,7 @@ description: "Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Ang
 
 ## Arbeitsbereich
 
-Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

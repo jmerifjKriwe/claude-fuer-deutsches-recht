@@ -1,13 +1,13 @@
 ---
 name: lph-04-verbraucher-privater-bauherr
-description: "HOAI LPH 4 Genehmigungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 4 Genehmigungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 4 Genehmigungsplanung: Erklärt pflichten
 
 ## Arbeitsbereich
 
-HOAI LPH 4 Genehmigungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 4 Genehmigungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

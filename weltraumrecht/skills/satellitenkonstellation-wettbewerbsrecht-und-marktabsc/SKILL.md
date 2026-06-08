@@ -1,13 +1,13 @@
 ---
 name: satellitenkonstellation-wettbewerbsrecht-und-marktabsc
-description: "Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung
 
 ## Arbeitsbereich
 
-Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

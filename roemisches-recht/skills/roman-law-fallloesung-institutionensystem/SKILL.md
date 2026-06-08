@@ -1,13 +1,13 @@
 ---
 name: roman-law-fallloesung-institutionensystem
-description: "Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig) im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig) im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Falsche Freunde zwischen römischem und modernem Recht
 
 ## Arbeitsbereich
 
-Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

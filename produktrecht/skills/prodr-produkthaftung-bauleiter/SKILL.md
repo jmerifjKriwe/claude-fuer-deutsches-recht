@@ -1,13 +1,13 @@
 ---
 name: prodr-produkthaftung-bauleiter
-description: "Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ProdR: Produkthaftung Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

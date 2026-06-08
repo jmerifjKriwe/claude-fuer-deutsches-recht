@@ -1,13 +1,13 @@
 ---
 name: sozialgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sozialgerichtsbarkeit Geschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

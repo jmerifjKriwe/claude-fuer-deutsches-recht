@@ -7,7 +7,7 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 ## Arbeitsbereich
 
-**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüfungslinien: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüfungslinien: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: aktenvorblatt-erstellen
-description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenvorblatt-Erstellung
 
 ## Arbeitsbereich
 
-Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

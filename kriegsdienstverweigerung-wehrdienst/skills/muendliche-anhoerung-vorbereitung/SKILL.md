@@ -1,13 +1,13 @@
 ---
 name: muendliche-anhoerung-vorbereitung
-description: "Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mündliche Anhörung
 
 ## Arbeitsbereich
 
-Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

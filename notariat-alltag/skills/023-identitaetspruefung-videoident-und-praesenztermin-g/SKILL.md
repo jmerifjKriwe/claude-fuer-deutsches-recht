@@ -1,13 +1,13 @@
 ---
 name: 023-identitaetspruefung-videoident-und-praesenztermin-g
-description: "Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

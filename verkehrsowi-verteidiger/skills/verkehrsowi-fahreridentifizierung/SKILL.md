@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-fahreridentifizierung
-description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fahreridentifizierung im OWi-Verfahren
 
 ## Arbeitsbereich
 
-Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

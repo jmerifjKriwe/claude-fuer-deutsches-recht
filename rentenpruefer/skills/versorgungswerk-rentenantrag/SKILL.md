@@ -1,13 +1,13 @@
 ---
 name: versorgungswerk-rentenantrag
-description: "Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # versorgungswerk-rentenantrag
 
 ## Arbeitsbereich
 
-Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

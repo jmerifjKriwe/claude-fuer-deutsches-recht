@@ -1,13 +1,13 @@
 ---
 name: strafmilderung-49-stgb-zwingend-fakultativ
-description: "Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafmilderung — § 49 StGB
 
 ## Arbeitsbereich
 
-Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: exportkontrolle-sanktionen
-description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exportkontrolle Sanktionen
 
 ## Arbeitsbereich
 
-Routet Sanktions- und Exportkontrollhinweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Sanktions- und Exportkontrollhinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

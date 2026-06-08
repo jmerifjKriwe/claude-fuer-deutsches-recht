@@ -7,7 +7,7 @@ description: "AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simpl
 
 ## Arbeitsbereich
 
-AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

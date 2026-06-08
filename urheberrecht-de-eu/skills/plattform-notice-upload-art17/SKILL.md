@@ -1,13 +1,13 @@
 ---
 name: plattform-notice-upload-art17
-description: "Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notice, Takedown und Restore
 
 ## Arbeitsbereich
 
-Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

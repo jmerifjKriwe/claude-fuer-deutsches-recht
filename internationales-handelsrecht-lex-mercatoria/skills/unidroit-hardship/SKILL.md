@@ -1,13 +1,13 @@
 ---
 name: unidroit-hardship
-description: "Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC) im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC) im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Strafr Haftpruefung im Strafrecht: prüft konkret Einstieg, Schnel
 
 ## Arbeitsbereich
 
-**Strafr Haftpruefung** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Haftpruefung und Haftbeschwerde §§ 117 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafr Haftpruefung** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Haftpruefung und Haftbeschwerde §§ 117 ff. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

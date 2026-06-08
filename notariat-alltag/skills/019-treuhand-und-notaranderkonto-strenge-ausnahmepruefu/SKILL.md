@@ -1,13 +1,13 @@
 ---
 name: 019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu
-description: "Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

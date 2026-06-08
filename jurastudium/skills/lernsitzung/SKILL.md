@@ -1,13 +1,13 @@
 ---
 name: lernsitzung
-description: "Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lerneinheit
 
 ## Arbeitsbereich
 
-Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

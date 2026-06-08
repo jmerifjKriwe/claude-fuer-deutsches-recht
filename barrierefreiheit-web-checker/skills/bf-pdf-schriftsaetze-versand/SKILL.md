@@ -1,13 +1,13 @@
 ---
 name: bf-pdf-schriftsaetze-versand
-description: "Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BF: PDF-Schriftsatz-Versand
 
 ## Arbeitsbereich
 
-Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste für Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

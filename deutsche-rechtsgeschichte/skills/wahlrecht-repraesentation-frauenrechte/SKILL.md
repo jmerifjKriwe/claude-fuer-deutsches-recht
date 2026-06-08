@@ -1,13 +1,13 @@
 ---
 name: wahlrecht-repraesentation-frauenrechte
-description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahlrecht und Repraesentation
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

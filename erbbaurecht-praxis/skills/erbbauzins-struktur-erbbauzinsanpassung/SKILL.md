@@ -1,13 +1,13 @@
 ---
 name: erbbauzins-struktur-erbbauzinsanpassung
-description: "Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erbbauzins und Reallast
 
 ## Arbeitsbereich
 
-Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: innere-umkehr-gediente
-description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Innere Umkehr bei Gedienten
 
 ## Arbeitsbereich
 
-Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

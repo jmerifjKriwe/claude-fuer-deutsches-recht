@@ -1,13 +1,13 @@
 ---
 name: cybersecurity-law-risk-map
-description: "Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cybersecurity Law VR China: Risikolandkarte für deutsche Unternehmen
 
 ## Arbeitsbereich
 
-Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

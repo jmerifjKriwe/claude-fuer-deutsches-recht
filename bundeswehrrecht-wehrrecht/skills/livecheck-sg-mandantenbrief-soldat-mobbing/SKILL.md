@@ -1,13 +1,13 @@
 ---
 name: livecheck-sg-mandantenbrief-soldat-mobbing
-description: "Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Live-Check SG, WBO, WDO, WPflG, SVG
 
 ## Arbeitsbereich
 
-Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

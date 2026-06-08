@@ -1,13 +1,13 @@
 ---
 name: internationale-buyout-datenflows-und-datenschutz
-description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationale Buyout-Datenflows und Datenschutz
 
 ## Arbeitsbereich
 
-Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

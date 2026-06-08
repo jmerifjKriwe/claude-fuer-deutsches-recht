@@ -1,13 +1,13 @@
 ---
 name: wirtschaftsverkehr
-description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht
 
 ## Arbeitsbereich
 
-Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

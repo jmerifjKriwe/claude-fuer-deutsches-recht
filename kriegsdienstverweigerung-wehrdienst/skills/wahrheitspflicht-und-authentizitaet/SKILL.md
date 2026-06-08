@@ -1,13 +1,13 @@
 ---
 name: wahrheitspflicht-und-authentizitaet
-description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wahrheit und Authentizität
 
 ## Arbeitsbereich
 
-Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

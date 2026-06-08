@@ -1,13 +1,13 @@
 ---
 name: pdf-formulare-automatisierter-audit-bf
-description: "PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PDF und Formulare barrierefrei
 
 ## Arbeitsbereich
 
-PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

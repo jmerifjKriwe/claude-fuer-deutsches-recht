@@ -1,13 +1,13 @@
 ---
 name: vorstandsvorlage
-description: "Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorstandsvorlage zu Handelsvertreter-Themen nach HGB
 
 ## Arbeitsbereich
 
-Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sprachfoerderung-willkommensklasse
-description: "Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sprachförderung und Willkommensklasse
 
 ## Arbeitsbereich
 
-Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

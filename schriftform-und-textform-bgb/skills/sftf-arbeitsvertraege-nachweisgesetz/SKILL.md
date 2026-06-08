@@ -1,13 +1,13 @@
 ---
 name: sftf-arbeitsvertraege-nachweisgesetz
-description: "Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster für Arbeitgeber im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster für Arbeitgeber im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SfTf: Nachweisgesetz Arbeit
 
 ## Arbeitsbereich
 
-Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster für Arbeitgeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster für Arbeitgeber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

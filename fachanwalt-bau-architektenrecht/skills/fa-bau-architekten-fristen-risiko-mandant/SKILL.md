@@ -7,7 +7,7 @@ description: "FA BAU Architekten Fristen Risiko Mandant im Plugin Fachanwalt Bau
 
 ## Arbeitsbereich
 
-**FA BAU Architekten Fristen Risiko Mandant** ordnet den Fall über die tragenden Prüfungslinien: Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**FA BAU Architekten Fristen Risiko Mandant** ordnet den Fall über die tragenden Prüfungslinien: Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

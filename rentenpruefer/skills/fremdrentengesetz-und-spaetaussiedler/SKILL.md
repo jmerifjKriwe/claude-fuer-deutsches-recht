@@ -1,13 +1,13 @@
 ---
 name: fremdrentengesetz-und-spaetaussiedler
-description: "Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # fremdrentengesetz-und-spaetaussiedler
 
 ## Arbeitsbereich
 
-Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: rechtshilfe-international-ristbv-finden
-description: "Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationale Rechtshilfe
 
 ## Arbeitsbereich
 
-Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

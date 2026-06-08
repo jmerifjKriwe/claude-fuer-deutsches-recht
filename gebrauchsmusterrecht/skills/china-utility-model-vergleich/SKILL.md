@@ -1,13 +1,13 @@
 ---
 name: china-utility-model-vergleich
-description: "China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # China Utility Model Vergleich
 
 ## Arbeitsbereich
 
-China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

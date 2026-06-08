@@ -7,14 +7,14 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 
 ## Arbeitsbereich
 
-**Orientierung Schufa Eintrag** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Orientierung Schufa Eintrag** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`
 
-**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### SCHUFA-Eintrag
 
@@ -215,7 +215,7 @@ Mit freundlichen Gruessen
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`
 
-**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### SCHUFA-Löschungsanspruch
 

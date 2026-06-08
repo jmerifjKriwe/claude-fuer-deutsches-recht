@@ -1,13 +1,13 @@
 ---
 name: psd2-sca-strong-customer-authentication
-description: "Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PSD2 SCA
 
 ## Arbeitsbereich
 
-Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

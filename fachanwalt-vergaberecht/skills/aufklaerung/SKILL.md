@@ -7,7 +7,7 @@ description: "Aufklaerung im Plugin Fachanwalt Vergaberecht: prüft konkret Scha
 
 ## Arbeitsbereich
 
-**Aufklaerung** ordnet den Fall über die tragenden Prüfungslinien: Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei, Aufklaerung, Nachforderung und Angebotsaufklaerung steuern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Aufklaerung** ordnet den Fall über die tragenden Prüfungslinien: Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei, Aufklaerung, Nachforderung und Angebotsaufklaerung steuern. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

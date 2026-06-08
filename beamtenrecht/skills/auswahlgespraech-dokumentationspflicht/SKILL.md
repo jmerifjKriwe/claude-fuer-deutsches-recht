@@ -1,13 +1,13 @@
 ---
 name: auswahlgespraech-dokumentationspflicht
-description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler
 
 ## Arbeitsbereich
 
-Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

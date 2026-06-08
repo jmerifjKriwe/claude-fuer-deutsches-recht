@@ -1,13 +1,13 @@
 ---
 name: cowork-cloud-kollaboration-drafting
-description: "Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cowork und Cloud-Kollaboration im Drafting
 
 ## Arbeitsbereich
 
-Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

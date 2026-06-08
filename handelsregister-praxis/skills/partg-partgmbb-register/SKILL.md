@@ -1,13 +1,13 @@
 ---
 name: partg-partgmbb-register
-description: "Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PartG/PartG mbB
 
 ## Arbeitsbereich
 
-Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

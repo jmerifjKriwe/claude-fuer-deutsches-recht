@@ -1,13 +1,13 @@
 ---
 name: architektur-angewandte-kunst
-description: "Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Architektur und angewandte Kunst
 
 ## Arbeitsbereich
 
-Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

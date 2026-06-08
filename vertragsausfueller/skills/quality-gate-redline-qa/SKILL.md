@@ -1,13 +1,13 @@
 ---
 name: quality-gate-redline-qa
-description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quality Gate — Vertragsausfueller
 
 ## Arbeitsbereich
 
-Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-kirche-sanierung-statik
-description: "Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Kirche Sanierung Statik (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

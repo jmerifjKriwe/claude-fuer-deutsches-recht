@@ -1,13 +1,13 @@
 ---
 name: weltraumdaten-datenbankrecht
-description: "Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Weltraumdaten: Datenbankrecht und AI-Training
 
 ## Arbeitsbereich
 
-Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

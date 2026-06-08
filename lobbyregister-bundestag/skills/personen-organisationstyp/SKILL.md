@@ -1,13 +1,13 @@
 ---
 name: personen-organisationstyp
-description: "Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personen- und Organisationstyp
 
 ## Arbeitsbereich
 
-Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

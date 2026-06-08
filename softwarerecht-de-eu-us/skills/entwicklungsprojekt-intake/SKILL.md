@@ -1,13 +1,13 @@
 ---
 name: entwicklungsprojekt-intake
-description: "Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Softwareentwicklungsprojekt Intake
 
 ## Arbeitsbereich
 
-Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

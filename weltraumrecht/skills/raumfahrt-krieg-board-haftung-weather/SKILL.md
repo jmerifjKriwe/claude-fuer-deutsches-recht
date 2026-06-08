@@ -1,13 +1,13 @@
 ---
 name: raumfahrt-krieg-board-haftung-weather
-description: "Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raumfahrt im Krieg: Neutralität und Sanktionen
 
 ## Arbeitsbereich
 
-Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

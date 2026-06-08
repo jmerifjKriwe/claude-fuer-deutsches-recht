@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im P
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

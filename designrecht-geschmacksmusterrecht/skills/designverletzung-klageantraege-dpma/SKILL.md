@@ -1,13 +1,13 @@
 ---
 name: designverletzung-klageantraege-dpma
-description: "Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designverletzung Klageantraege
 
 ## Arbeitsbereich
 
-Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

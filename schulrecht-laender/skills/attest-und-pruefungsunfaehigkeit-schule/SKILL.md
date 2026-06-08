@@ -1,13 +1,13 @@
 ---
 name: attest-und-pruefungsunfaehigkeit-schule
-description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Attest Und Pruefungsunfaehigkeit Schule
 
 ## Arbeitsbereich
 
-Prüft Atteste und Prüfungsunfähigkeit in Schule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Atteste und Prüfungsunfähigkeit in Schule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

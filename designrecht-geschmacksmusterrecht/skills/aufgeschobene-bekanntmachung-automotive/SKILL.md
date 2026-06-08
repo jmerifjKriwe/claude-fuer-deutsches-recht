@@ -1,13 +1,13 @@
 ---
 name: aufgeschobene-bekanntmachung-automotive
-description: "Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufgeschobene Bekanntmachung
 
 ## Arbeitsbereich
 
-Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

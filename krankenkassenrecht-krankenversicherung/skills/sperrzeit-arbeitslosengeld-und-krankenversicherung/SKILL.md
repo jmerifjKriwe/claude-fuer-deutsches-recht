@@ -7,7 +7,7 @@ description: "Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB II
 
 ## Arbeitsbereich
 
-Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

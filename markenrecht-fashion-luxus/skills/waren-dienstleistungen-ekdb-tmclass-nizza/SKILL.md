@@ -1,13 +1,13 @@
 ---
 name: waren-dienstleistungen-ekdb-tmclass-nizza
-description: "Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Waren- und Dienstleistungsverzeichnis
 
 ## Arbeitsbereich
 
-Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

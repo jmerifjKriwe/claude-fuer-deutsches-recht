@@ -1,13 +1,13 @@
 ---
 name: gutachten-uebung
-description: "Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gutachtenstil-Übung
 
 ## Arbeitsbereich
 
-Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

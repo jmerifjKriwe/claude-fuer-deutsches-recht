@@ -1,13 +1,13 @@
 ---
 name: force-majeure-notice-claim-letter-under
-description: "Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Force-Majeure-Notifikationsschreiben
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-kita-sozialimmobilie
-description: "Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sozialimmobilie/Kita
 
 ## Arbeitsbereich
 
-Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

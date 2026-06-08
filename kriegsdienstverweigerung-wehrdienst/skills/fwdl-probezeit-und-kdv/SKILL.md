@@ -1,13 +1,13 @@
 ---
 name: fwdl-probezeit-und-kdv
-description: "Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # FWDL Probezeit und KDV
 
 ## Arbeitsbereich
 
-Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

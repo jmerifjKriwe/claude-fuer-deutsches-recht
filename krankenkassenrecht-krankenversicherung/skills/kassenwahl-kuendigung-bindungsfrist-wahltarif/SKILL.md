@@ -7,7 +7,7 @@ description: "Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sond
 
 ## Arbeitsbereich
 
-Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

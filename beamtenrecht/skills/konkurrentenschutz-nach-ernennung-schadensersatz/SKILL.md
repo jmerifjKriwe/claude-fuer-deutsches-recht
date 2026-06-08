@@ -1,13 +1,13 @@
 ---
 name: konkurrentenschutz-nach-ernennung-schadensersatz
-description: "Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # konkurrentenschutz-nach-ernennung-schadensersatz
 
 ## Arbeitsbereich
 
-Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

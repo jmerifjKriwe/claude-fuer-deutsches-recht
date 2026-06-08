@@ -1,6 +1,6 @@
 ---
 name: zugangsvereitelung-annahmeverweigerung
-description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zugangsvereitelung Annahmeverweigerung

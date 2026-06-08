@@ -1,13 +1,13 @@
 ---
 name: zitat-haus-zitierregel-instanzgerichte
-description: "Kanzlei-Hauszitierweise anpassen: Excel-Vorlage Beck/NJW vs. Hartung/Roemermann v4. Empfehlung: konsistente Regel pro Kanzlei, in den Schriftsatz-Templates verankern. Output: Hauszitierregel-Dokument im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei-Hauszitierweise anpassen: Excel-Vorlage Beck/NJW vs. Hartung/Roemermann v4. Empfehlung: konsistente Regel pro Kanzlei, in den Schriftsatz-Templates verankern. Output: Hauszitierregel-Dokument im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kanzlei-Hauszitierweise
 
 ## Arbeitsbereich
 
-Kanzlei-Hauszitierweise anpassen: Excel-Vorlage Beck/NJW vs. Hartung/Roemermann v4. Empfehlung: konsistente Regel pro Kanzlei, in den Schriftsatz-Templates verankern. Output: Hauszitierregel-Dokument. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei-Hauszitierweise anpassen: Excel-Vorlage Beck/NJW vs. Hartung/Roemermann v4. Empfehlung: konsistente Regel pro Kanzlei, in den Schriftsatz-Templates verankern. Output: Hauszitierregel-Dokument. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

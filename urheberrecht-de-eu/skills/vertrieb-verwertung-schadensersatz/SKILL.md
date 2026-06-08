@@ -1,13 +1,13 @@
 ---
 name: vertrieb-verwertung-schadensersatz
-description: "Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwertungskette und Vertrieb
 
 ## Arbeitsbereich
 
-Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

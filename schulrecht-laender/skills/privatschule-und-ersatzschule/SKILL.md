@@ -1,13 +1,13 @@
 ---
 name: privatschule-und-ersatzschule
-description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Privatschule Und Ersatzschule
 
 ## Arbeitsbereich
 
-Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

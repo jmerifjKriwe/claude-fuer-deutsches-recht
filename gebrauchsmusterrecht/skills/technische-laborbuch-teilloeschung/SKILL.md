@@ -1,13 +1,13 @@
 ---
 name: technische-laborbuch-teilloeschung
-description: "Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Technische Dokumentation Laborbuch
 
 ## Arbeitsbereich
 
-Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

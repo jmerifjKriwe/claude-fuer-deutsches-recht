@@ -1,13 +1,13 @@
 ---
 name: freiwillige-registrierung-fremdmandat
-description: "Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiwillige Registrierung
 
 ## Arbeitsbereich
 
-Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

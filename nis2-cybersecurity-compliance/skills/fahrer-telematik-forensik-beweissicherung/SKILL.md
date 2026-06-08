@@ -1,13 +1,13 @@
 ---
 name: fahrer-telematik-forensik-beweissicherung
-description: "Prüft Telematik in Fuhrpark und Logistik im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Telematik in Fuhrpark und Logistik im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fahrer Telematik
 
 ## Arbeitsbereich
 
-Prüft Telematik in Fuhrpark und Logistik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Telematik in Fuhrpark und Logistik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

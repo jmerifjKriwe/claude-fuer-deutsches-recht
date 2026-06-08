@@ -1,13 +1,13 @@
 ---
 name: richtlinien-skelett-update-schatten
-description: "KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richtlinien-Skelett erzeugen
 
 ## Arbeitsbereich
 
-KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: deal-timeline-und-workstreams
-description: "Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deal Timeline und Workstreams
 
 ## Arbeitsbereich
 
-Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

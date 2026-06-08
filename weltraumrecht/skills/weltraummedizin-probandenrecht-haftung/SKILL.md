@@ -1,13 +1,13 @@
 ---
 name: weltraummedizin-probandenrecht-haftung
-description: "Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung
 
 ## Arbeitsbereich
 
-Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

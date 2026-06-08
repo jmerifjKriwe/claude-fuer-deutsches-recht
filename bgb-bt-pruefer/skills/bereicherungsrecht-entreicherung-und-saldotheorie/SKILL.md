@@ -1,13 +1,13 @@
 ---
 name: bereicherungsrecht-entreicherung-und-saldotheorie
-description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bereicherungsrecht: Entreicherung und Saldotheorie
 
 ## Arbeitsbereich
 
-Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

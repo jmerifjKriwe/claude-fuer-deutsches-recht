@@ -7,7 +7,7 @@ description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln un
 
 ## Arbeitsbereich
 
-Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

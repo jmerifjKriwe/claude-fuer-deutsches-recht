@@ -1,13 +1,13 @@
 ---
 name: kammeraufsicht-und-ruege
-description: "Kammeraufsicht und Rüge: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kammeranfrage, Sachverhalt, Stellungnahme, Rüge und Rechtsbehelf, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kammeraufsicht und Rüge: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kammeranfrage, Sachverhalt, Stellungnahme, Rüge und Rechtsbehelf, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kammeraufsicht und Rüge
 
 ## Arbeitsbereich
 
-Kammeraufsicht und Rüge: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kammeranfrage, Sachverhalt, Stellungnahme, Rüge und Rechtsbehelf, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kammeraufsicht und Rüge: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kammeranfrage, Sachverhalt, Stellungnahme, Rüge und Rechtsbehelf, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

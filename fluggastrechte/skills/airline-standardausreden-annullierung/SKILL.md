@@ -1,13 +1,13 @@
 ---
 name: airline-standardausreden-annullierung
-description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage im Fluggastrechte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline-Standardausreden — Katalog und Gegenargumente
 
 ## Arbeitsbereich
 
-Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

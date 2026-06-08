@@ -1,13 +1,13 @@
 ---
 name: bfsg-zeitleiste-ecommerce-checkout-en301549
-description: "Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0 im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0 im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BFSG: Zeitleiste und Pflichten
 
 ## Arbeitsbereich
 
-Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

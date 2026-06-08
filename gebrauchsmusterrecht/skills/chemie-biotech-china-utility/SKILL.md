@@ -1,13 +1,13 @@
 ---
 name: chemie-biotech-china-utility
-description: "Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chemie Biotech Und Stoffschutz
 
 ## Arbeitsbereich
 
-Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

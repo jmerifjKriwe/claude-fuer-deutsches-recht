@@ -1,13 +1,13 @@
 ---
 name: vergebung-vererbung-vergabe-begriffsklaerung
-description: "Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergebung, Vererbung oder Vergabe
 
 ## Arbeitsbereich
 
-Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

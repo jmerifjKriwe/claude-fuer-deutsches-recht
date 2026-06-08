@@ -1,13 +1,13 @@
 ---
 name: seeunglueck-versicherung-actio-tributoria
-description: "Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 131 Seeunglueck Versicherung Und Risiko
 
 ## Arbeitsbereich
 
-Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

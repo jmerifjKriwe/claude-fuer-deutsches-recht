@@ -7,7 +7,7 @@ description: "Pruefung von Eigentum und Kontrolle sanktionierter Personen bei ju
 
 ## Arbeitsbereich
 
-Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

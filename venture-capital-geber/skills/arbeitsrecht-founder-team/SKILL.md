@@ -7,7 +7,7 @@ description: "Prüft Geschäftsführer, Arbeitsverträge, IP-Abtretung, Freelanc
 
 ## Arbeitsbereich
 
-Prüft Geschäftsführer, Arbeitsverträge, IP-Abtretung, Freelancer, Scheinselbstständigkeit und Schlüsselpersonenrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Geschäftsführer, Arbeitsverträge, IP-Abtretung, Freelancer, Scheinselbstständigkeit und Schlüsselpersonenrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

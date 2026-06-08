@@ -1,13 +1,13 @@
 ---
 name: stundungsanfrage-glaeubiger
-description: "Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stundungsanfrage Gläubiger
 
 ## Arbeitsbereich
 
-Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

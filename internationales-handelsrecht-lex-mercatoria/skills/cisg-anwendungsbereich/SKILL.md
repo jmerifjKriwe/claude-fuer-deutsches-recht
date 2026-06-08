@@ -1,13 +1,13 @@
 ---
 name: cisg-anwendungsbereich
-description: "Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CISG Anwendungsbereich (Art. 1-13)
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

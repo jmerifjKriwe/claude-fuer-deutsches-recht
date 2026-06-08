@@ -1,13 +1,13 @@
 ---
 name: agb-kontrolle
-description: "Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB
 
 ## Arbeitsbereich
 
-Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

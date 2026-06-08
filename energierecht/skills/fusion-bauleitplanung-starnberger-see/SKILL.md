@@ -1,13 +1,13 @@
 ---
 name: fusion-bauleitplanung-starnberger-see
-description: "Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fusion: Bauleitplanung am Starnberger See
 
 ## Arbeitsbereich
 
-Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

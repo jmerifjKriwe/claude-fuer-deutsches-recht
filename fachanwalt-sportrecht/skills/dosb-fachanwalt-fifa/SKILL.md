@@ -7,7 +7,7 @@ description: "Dosb Fachanwalt Fifa im Sportrecht: prüft konkret Dosb, Fachanwal
 
 ## Arbeitsbereich
 
-**Dosb Fachanwalt Fifa** ordnet den Fall über die tragenden Prüfungslinien: Dosb, Fachanwalt, Fifa. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Dosb Fachanwalt Fifa** ordnet den Fall über die tragenden Prüfungslinien: Dosb, Fachanwalt, Fifa. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

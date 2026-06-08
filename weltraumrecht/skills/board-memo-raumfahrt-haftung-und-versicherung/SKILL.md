@@ -1,13 +1,13 @@
 ---
 name: board-memo-raumfahrt-haftung-und-versicherung
-description: "Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung
 
 ## Arbeitsbereich
 
-Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

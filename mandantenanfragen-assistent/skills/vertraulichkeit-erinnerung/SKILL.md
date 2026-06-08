@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Vertraulichkeit Erinnerung im Mandantenanfragen-Triage im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertraulichkeit Erinnerung im Mandantenanfragen-Triage im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertraulichkeit Erinnerung

@@ -1,13 +1,13 @@
 ---
 name: penetration-test-per-seat-platform-dsa
-description: "Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Penetration Test Terms
 
 ## Arbeitsbereich
 
-Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

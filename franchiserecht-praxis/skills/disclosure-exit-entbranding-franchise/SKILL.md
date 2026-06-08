@@ -1,13 +1,13 @@
 ---
 name: disclosure-exit-entbranding-franchise
-description: "Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

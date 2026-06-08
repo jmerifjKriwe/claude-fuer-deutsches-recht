@@ -1,13 +1,13 @@
 ---
 name: jugendliche-im-owi-verfahren
-description: "Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Jugendliche Im Owi Verfahren
 
 ## Arbeitsbereich
 
-Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

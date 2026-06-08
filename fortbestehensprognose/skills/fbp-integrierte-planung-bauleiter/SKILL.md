@@ -1,13 +1,13 @@
 ---
 name: fbp-integrierte-planung-bauleiter
-description: "Bauleiter integrierte Planung GuV, Bilanz, Cashflow für IDW S 11. Pruefraster für Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter integrierte Planung GuV, Bilanz, Cashflow für IDW S 11. Pruefraster für Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # FBP: Integrierte Planung Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter integrierte Planung GuV, Bilanz, Cashflow für IDW S 11. Pruefraster für Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter integrierte Planung GuV, Bilanz, Cashflow für IDW S 11. Pruefraster für Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

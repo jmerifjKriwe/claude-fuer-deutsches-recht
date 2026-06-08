@@ -1,13 +1,13 @@
 ---
 name: ki-nutzung-und-eigenstaendigkeit
-description: "Prüft KI-Nutzung in Prüfungsleistungen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KI-Nutzung in Prüfungsleistungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI Nutzung Und Eigenstaendigkeit
 
 ## Arbeitsbereich
 
-Prüft KI-Nutzung in Prüfungsleistungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KI-Nutzung in Prüfungsleistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

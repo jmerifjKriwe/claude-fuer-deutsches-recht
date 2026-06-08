@@ -1,13 +1,13 @@
 ---
 name: sofortvollzug-und-anordnung
-description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sofortvollzug § 80 VwGO
 
 ## Arbeitsbereich
 
-Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

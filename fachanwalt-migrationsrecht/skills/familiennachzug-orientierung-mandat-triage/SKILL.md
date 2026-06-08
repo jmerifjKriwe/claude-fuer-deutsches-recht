@@ -7,7 +7,7 @@ description: "Familiennachzug Orientierung Mandat Triage im Migrationsrecht: pr�
 
 ## Arbeitsbereich
 
-**Familiennachzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Mandant will Ehegatten Kinder oder Eltern nach Deutschland, Anwalt will ueberblicken welche Normen und Mandate das, Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Familiennachzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Mandant will Ehegatten Kinder oder Eltern nach Deutschland, Anwalt will ueberblicken welche Normen und Mandate das, Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

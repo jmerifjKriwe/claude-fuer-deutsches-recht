@@ -7,7 +7,7 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Beweismittel Vorab Dokumenten Erzeugung** ordnet den Fall über die tragenden Prüfungslinien: Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Beweismittel Vorab Dokumenten Erzeugung** ordnet den Fall über die tragenden Prüfungslinien: Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

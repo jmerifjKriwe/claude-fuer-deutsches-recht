@@ -1,13 +1,13 @@
 ---
 name: europarecht-grundrechte-charta
-description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Grundrechte und Charta
 
 ## Arbeitsbereich
 
-EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

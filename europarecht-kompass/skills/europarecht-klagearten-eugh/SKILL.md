@@ -1,13 +1,13 @@
 ---
 name: europarecht-klagearten-eugh
-description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EuGH-Klagearten und Rechtsschutz
 
 ## Arbeitsbereich
 
-Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: claims-trading-confirmation-contested-matters
-description: "Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Claims Trading Rule 3001(e)
 
 ## Arbeitsbereich
 
-Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

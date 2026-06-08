@@ -1,13 +1,13 @@
 ---
 name: tax-and-transfer-pricing-touchpoints
-description: "Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise
 
 ## Arbeitsbereich
 
-Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

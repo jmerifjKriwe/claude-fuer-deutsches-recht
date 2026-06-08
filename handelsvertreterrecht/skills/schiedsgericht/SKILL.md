@@ -1,13 +1,13 @@
 ---
 name: schiedsgericht
-description: "Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB
 
 ## Arbeitsbereich
 
-Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

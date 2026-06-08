@@ -1,13 +1,13 @@
 ---
 name: rechtshistorische-gutachtenstruktur
-description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtshistorische Gutachtenstruktur
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

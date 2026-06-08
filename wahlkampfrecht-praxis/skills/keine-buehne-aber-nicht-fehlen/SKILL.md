@@ -1,13 +1,13 @@
 ---
 name: keine-buehne-aber-nicht-fehlen
-description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Keine Buehne Aber Nicht Fehlen
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

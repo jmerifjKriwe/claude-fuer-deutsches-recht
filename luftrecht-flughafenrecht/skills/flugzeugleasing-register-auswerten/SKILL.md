@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-register-auswerten
-description: "Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Register auswerten
 
 ## Arbeitsbereich
 
-Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

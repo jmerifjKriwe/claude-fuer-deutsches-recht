@@ -1,13 +1,13 @@
 ---
 name: besoldung-versorgung-familienzuschlag
-description: "Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versorgung, Familienzuschlag und offene Übertragungsfragen
 
 ## Arbeitsbereich
 
-Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

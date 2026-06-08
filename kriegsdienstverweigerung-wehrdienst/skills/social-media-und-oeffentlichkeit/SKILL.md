@@ -1,13 +1,13 @@
 ---
 name: social-media-und-oeffentlichkeit
-description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Social Media und Öffentlichkeit
 
 ## Arbeitsbereich
 
-Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

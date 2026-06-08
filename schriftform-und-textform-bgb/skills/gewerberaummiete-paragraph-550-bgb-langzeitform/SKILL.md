@@ -1,13 +1,13 @@
 ---
 name: gewerberaummiete-paragraph-550-bgb-langzeitform
-description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gewerberaummiete § 550 BGB — Langzeitform
 
 ## Arbeitsbereich
 
-Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Req
 
 ## Arbeitsbereich
 
-Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

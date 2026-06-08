@@ -1,13 +1,13 @@
 ---
 name: absolute-priority-adequate-protection
-description: "Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Absolute Priority Rule
 
 ## Arbeitsbereich
 
-Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

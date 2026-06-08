@@ -1,13 +1,13 @@
 ---
 name: cloud-and-erp-rollout-china
-description: "Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cloud und ERP in China: ICP/MLPS/Datenlokalisierung
 
 ## Arbeitsbereich
 
-Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: dsa-pflichten-pyramide-uebersicht
-description: "Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DSA: Pflichtenpyramide
 
 ## Arbeitsbereich
 
-Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

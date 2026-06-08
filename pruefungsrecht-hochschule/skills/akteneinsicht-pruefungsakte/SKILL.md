@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-pruefungsakte
-description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Akteneinsicht Pruefungsakte
 
 ## Arbeitsbereich
 
-Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

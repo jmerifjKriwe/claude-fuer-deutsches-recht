@@ -1,13 +1,13 @@
 ---
 name: arbeitslosigkeit-buergergeld-und-rente
-description: "Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # arbeitslosigkeit-buergergeld-und-rente
 
 ## Arbeitsbereich
 
-Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

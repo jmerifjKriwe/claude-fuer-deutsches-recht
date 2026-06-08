@@ -1,13 +1,13 @@
 ---
 name: neu-012-notverordnungen-und-verfassungskrise-weimar
-description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: mahnwesen-honorar
-description: "Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mahnwesen für Kanzleihonorar
 
 ## Arbeitsbereich
 
-Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

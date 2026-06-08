@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-energie-smartmeter-waerme
-description: "Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.
 
 ## Arbeitsbereich
 
-Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: betreuungsgericht-kommunikation-fuer-angehoerige
-description: "Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreuungsgericht-Kommunikation für Angehörige
 
 ## Arbeitsbereich
 
-Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

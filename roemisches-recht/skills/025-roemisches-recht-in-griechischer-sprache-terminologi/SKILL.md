@@ -1,13 +1,13 @@
 ---
 name: 025-roemisches-recht-in-griechischer-sprache-terminologi
-description: "Römisches Recht: Römisches Recht in griechischer Sprache Terminologie im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Römisches Recht in griechischer Sprache Terminologie im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Roemisches Recht In Griechischer Sprache Terminologi
 
 ## Arbeitsbereich
 
-Römisches Recht: Römisches Recht in griechischer Sprache Terminologie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Römisches Recht in griechischer Sprache Terminologie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: trustee-us-trustee-roles
-description: "Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trustee and U.S. Trustee Roles
 
 ## Arbeitsbereich
 
-Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

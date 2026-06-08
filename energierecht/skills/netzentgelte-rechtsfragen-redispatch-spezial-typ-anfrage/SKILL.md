@@ -1,13 +1,13 @@
 ---
 name: netzentgelte-rechtsfragen-redispatch-spezial-typ-anfrage
-description: "Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Netzentgelte: Rechtsfragen
 
 ## Arbeitsbereich
 
-Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

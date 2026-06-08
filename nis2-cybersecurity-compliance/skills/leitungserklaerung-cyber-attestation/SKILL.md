@@ -1,13 +1,13 @@
 ---
 name: leitungserklaerung-cyber-attestation
-description: "Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leitungserklärung Cyber Attestation
 
 ## Arbeitsbereich
 
-Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

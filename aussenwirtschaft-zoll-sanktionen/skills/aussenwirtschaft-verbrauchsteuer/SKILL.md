@@ -7,7 +7,7 @@ description: "Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer 
 
 ## Arbeitsbereich
 
-Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. Output: Verbrauchsteuer-Pruefmatrix und EMCS-Eintragungsanleitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. Output: Verbrauchsteuer-Pruefmatrix und EMCS-Eintragungsanleitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

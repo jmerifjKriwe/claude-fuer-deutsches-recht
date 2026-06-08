@@ -1,13 +1,13 @@
 ---
 name: kommission-paragraphen-ladenvollmacht
-description: "Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommission §§ 383 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

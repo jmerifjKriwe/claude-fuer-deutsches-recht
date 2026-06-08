@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-register-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Registerprüfung
 
 ## Arbeitsbereich
 
-Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bav-erstattung-fuenftelregelung
-description: "Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # bAV: Fuenftelregelung Auszahlung
 
 ## Arbeitsbereich
 
-Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

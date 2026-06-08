@@ -1,13 +1,13 @@
 ---
 name: finanzprodukte-krypto-gluecksspiel
-description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Finanzprodukte, Krypto-Affiliate und BaFin-Risiko
 
 ## Arbeitsbereich
 
-Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

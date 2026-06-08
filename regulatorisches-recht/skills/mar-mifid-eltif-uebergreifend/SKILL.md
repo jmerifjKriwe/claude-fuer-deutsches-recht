@@ -1,13 +1,13 @@
 ---
 name: mar-mifid-eltif-uebergreifend
-description: "MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte im Regulatorisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # MAR und MiFID und ELTIF
 
 ## Arbeitsbereich
 
-MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Pruefraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

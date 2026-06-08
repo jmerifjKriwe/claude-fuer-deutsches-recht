@@ -1,13 +1,13 @@
 ---
 name: regulatory-sector-dd
-description: "Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Regulatory Sector DD
 
 ## Arbeitsbereich
 
-Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

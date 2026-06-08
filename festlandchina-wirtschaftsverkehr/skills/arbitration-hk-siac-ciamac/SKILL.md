@@ -1,13 +1,13 @@
 ---
 name: arbitration-hk-siac-ciamac
-description: "Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich
 
 ## Arbeitsbereich
 
-Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

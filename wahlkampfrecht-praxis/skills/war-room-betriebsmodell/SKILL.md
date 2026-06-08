@@ -1,13 +1,13 @@
 ---
 name: war-room-betriebsmodell
-description: "Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # War Room Betriebsmodell
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

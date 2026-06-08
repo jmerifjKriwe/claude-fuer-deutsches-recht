@@ -1,13 +1,13 @@
 ---
 name: vert-vertragsschluss-vertragspruefung
-description: "Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster für typische Streitfaelle im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster für typische Streitfaelle im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vert: Vertragsschluss Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster für typische Streitfaelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster für typische Streitfaelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-
 
 ## Arbeitsbereich
 
-Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: pfueb-bank
-description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PfÜB Bankkonto
 
 ## Arbeitsbereich
 
-Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

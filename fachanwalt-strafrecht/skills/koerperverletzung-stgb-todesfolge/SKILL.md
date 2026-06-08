@@ -7,7 +7,7 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 ## Arbeitsbereich
 
-**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüfungslinien: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüfungslinien: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: nda-konflikt
-description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NDA Konflikt
 
 ## Arbeitsbereich
 
-Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

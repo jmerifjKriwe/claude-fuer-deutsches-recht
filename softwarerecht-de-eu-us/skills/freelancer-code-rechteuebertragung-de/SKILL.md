@@ -1,13 +1,13 @@
 ---
 name: freelancer-code-rechteuebertragung-de
-description: "Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freelancer-Code Rechteübertragung DE
 
 ## Arbeitsbereich
 
-Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

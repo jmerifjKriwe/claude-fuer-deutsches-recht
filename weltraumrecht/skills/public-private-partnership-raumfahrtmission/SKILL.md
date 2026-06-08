@@ -1,13 +1,13 @@
 ---
 name: public-private-partnership-raumfahrtmission
-description: "PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Public-Private-Partnership Raumfahrtmission
 
 ## Arbeitsbereich
 
-PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

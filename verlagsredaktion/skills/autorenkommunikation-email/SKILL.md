@@ -1,13 +1,13 @@
 ---
 name: autorenkommunikation-email
-description: "Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Autor:innenkommunikation
 
 ## Arbeitsbereich
 
-Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

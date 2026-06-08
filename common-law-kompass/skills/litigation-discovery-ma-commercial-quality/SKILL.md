@@ -1,13 +1,13 @@
 ---
 name: litigation-discovery-ma-commercial-quality
-description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Litigation, Discovery und Evidence
 
 ## Arbeitsbereich
 
-Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

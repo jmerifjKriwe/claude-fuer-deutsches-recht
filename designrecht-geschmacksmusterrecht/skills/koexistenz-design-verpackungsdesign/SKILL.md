@@ -1,13 +1,13 @@
 ---
 name: koexistenz-design-verpackungsdesign
-description: "Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich Koexistenz Design
 
 ## Arbeitsbereich
 
-Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

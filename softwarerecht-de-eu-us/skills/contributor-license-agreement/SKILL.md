@@ -1,13 +1,13 @@
 ---
 name: contributor-license-agreement
-description: "Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Contributor License Agreement
 
 ## Arbeitsbereich
 
-Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

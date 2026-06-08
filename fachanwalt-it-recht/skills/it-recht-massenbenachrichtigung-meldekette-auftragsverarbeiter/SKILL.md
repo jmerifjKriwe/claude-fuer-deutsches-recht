@@ -7,7 +7,7 @@ description: "Massenbenachrichtigung Meldekette Auftragsverarbeiter im Plugin Fa
 
 ## Arbeitsbereich
 
-**Massenbenachrichtigung Meldekette Auftragsverarbeiter** ordnet den Fall über die tragenden Prüfungslinien: Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer, Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Massenbenachrichtigung Meldekette Auftragsverarbeiter** ordnet den Fall über die tragenden Prüfungslinien: Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer, Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

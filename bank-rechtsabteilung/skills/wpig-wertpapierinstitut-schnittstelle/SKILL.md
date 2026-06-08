@@ -1,13 +1,13 @@
 ---
 name: wpig-wertpapierinstitut-schnittstelle
-description: "WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WpIG-Schnittstelle
 
 ## Arbeitsbereich
 
-WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

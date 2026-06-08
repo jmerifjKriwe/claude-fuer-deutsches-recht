@@ -1,13 +1,13 @@
 ---
 name: penalty-vs-liquidated-damages
-description: "Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Penalty vs. Liquidated Damages: Rechtsvergleich
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: selektiver-vertrieb-size-fit
-description: "Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Selektiver Vertrieb Luxus
 
 ## Arbeitsbereich
 
-Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

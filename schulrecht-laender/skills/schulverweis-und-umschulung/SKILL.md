@@ -1,13 +1,13 @@
 ---
 name: schulverweis-und-umschulung
-description: "Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulverweis Und Umschulung
 
 ## Arbeitsbereich
 
-Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

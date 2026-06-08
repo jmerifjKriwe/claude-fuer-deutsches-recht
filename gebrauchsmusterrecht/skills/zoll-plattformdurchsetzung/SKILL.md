@@ -1,6 +1,6 @@
 ---
 name: zoll-plattformdurchsetzung
-description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zoll Plattformdurchsetzung

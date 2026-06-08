@@ -1,13 +1,13 @@
 ---
 name: hundesteuer-und-hundeverordnung
-description: "Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hundesteuer und Hundeverordnung
 
 ## Arbeitsbereich
 
-Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

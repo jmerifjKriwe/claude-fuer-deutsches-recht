@@ -1,13 +1,13 @@
 ---
 name: fitness-franchise-bildungsfranchise
-description: "Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Fitness-Franchise und Verbraucherverträge
 
 ## Arbeitsbereich
 
-Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

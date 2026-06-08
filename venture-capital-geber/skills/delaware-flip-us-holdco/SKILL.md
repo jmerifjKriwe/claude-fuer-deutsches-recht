@@ -7,7 +7,7 @@ description: "Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minder
 
 ## Arbeitsbereich
 
-Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minderheitenschutz bei Delaware-Flip-Szenarien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minderheitenschutz bei Delaware-Flip-Szenarien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

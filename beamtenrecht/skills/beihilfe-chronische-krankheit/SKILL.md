@@ -1,13 +1,13 @@
 ---
 name: beihilfe-chronische-krankheit
-description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beihilfe bei chronischer Krankheit
 
 ## Arbeitsbereich
 
-Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

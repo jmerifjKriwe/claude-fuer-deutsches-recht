@@ -1,6 +1,6 @@
 ---
 name: organschaft-konzern-grundlagen
-description: "Prüfungslinie für anw organschaft konzern grundlagen im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw organschaft konzern grundlagen im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anw Organschaft Konzern Grundlagen

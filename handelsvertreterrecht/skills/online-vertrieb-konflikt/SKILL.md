@@ -1,13 +1,13 @@
 ---
 name: online-vertrieb-konflikt
-description: "Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach § 87 HGB
 
 ## Arbeitsbereich
 
-Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

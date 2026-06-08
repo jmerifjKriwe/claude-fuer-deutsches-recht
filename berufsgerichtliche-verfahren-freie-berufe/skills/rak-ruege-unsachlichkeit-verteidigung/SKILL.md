@@ -1,13 +1,13 @@
 ---
 name: rak-ruege-unsachlichkeit-verteidigung
-description: "RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und Kammerantwort): steuert berufsrechtliche Rüge wegen scharfer Schriftsatzsprache, Social-Media-Äußerung oder Kollegenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und Kammerantwort): steuert berufsrechtliche Rüge wegen scharfer Schriftsatzsprache, Social-Media-Äußerung oder Kollegenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # RAK-Rüge wegen Unsachlichkeit: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und Kammerantwort): steuert berufsrechtliche Rüge wegen scharfer Schriftsatzsprache, Social-Media-Äußerung oder Kollegenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und Kammerantwort): steuert berufsrechtliche Rüge wegen scharfer Schriftsatzsprache, Social-Media-Äußerung oder Kollegenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

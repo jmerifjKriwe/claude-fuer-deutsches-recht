@@ -1,13 +1,13 @@
 ---
 name: generalklauseln-als-einbruchstelle-zeitgeist
-description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Generalklauseln als Einbruchstelle des Zeitgeists
 
 ## Arbeitsbereich
 
-Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

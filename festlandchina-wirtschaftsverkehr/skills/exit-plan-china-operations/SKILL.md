@@ -1,13 +1,13 @@
 ---
 name: exit-plan-china-operations
-description: "Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung
 
 ## Arbeitsbereich
 
-Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

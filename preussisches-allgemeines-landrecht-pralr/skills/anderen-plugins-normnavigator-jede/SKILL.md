@@ -7,7 +7,7 @@ description: "PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung,
 
 ## Arbeitsbereich
 
-PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

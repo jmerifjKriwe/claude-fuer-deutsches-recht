@@ -1,13 +1,13 @@
 ---
 name: instandhaltung-versicherung-investoren-q
-description: "Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Instandhaltung, Versicherung und Betriebspflichten
 
 ## Arbeitsbereich
 
-Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

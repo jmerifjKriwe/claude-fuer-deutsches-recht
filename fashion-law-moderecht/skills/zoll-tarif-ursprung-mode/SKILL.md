@@ -1,13 +1,13 @@
 ---
 name: zoll-tarif-ursprung-mode
-description: "Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zoll Tarif Ursprung Mode
 
 ## Arbeitsbereich
 
-Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

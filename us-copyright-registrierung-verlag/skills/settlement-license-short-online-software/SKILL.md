@@ -1,13 +1,13 @@
 ---
 name: settlement-license-short-online-software
-description: "Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Settlement and License US Copyright
 
 ## Arbeitsbereich
 
-Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

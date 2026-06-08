@@ -1,13 +1,13 @@
 ---
 name: incoterms-china-shipment
-description: "Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Incoterms China-Handel: Auswahl und Risikobewertung
 
 ## Arbeitsbereich
 
-Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

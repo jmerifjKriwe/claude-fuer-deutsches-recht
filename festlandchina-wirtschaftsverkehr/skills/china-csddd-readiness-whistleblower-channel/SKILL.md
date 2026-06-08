@@ -1,13 +1,13 @@
 ---
 name: china-csddd-readiness-whistleblower-channel
-description: "EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU CSDDD-Readiness China: Gap-Analyse und Umsetzung
 
 ## Arbeitsbereich
 
-EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

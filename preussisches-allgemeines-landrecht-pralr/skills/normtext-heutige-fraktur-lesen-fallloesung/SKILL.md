@@ -7,7 +7,7 @@ description: "PrALR: historische Normtexte verständlich, knapp und ohne Sinnver
 
 ## Arbeitsbereich
 
-PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

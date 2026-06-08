@@ -1,13 +1,13 @@
 ---
 name: verbrauchervertrag-wartefrist
-description: "Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

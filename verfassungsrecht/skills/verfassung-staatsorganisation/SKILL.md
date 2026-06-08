@@ -1,13 +1,13 @@
 ---
 name: verfassung-staatsorganisation
-description: "Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Staatsorganisation GG
 
 ## Arbeitsbereich
 
-Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

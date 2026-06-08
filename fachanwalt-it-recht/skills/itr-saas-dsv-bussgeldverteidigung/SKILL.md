@@ -7,7 +7,7 @@ description: "ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: p
 
 ## Arbeitsbereich
 
-**ITR Saas DSV Bussgeldverteidigung** ordnet den Fall über die tragenden Prüfungslinien: SaaS-Vertragstypen in der Praxis, Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art, Verteidigt den Verantwortlichen gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**ITR Saas DSV Bussgeldverteidigung** ordnet den Fall über die tragenden Prüfungslinien: SaaS-Vertragstypen in der Praxis, Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art, Verteidigt den Verantwortlichen gegen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

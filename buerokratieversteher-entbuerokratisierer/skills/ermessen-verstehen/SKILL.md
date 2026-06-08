@@ -1,13 +1,13 @@
 ---
 name: ermessen-verstehen
-description: "Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ermessen verstehen
 
 ## Arbeitsbereich
 
-Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

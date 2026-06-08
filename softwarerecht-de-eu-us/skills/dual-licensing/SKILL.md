@@ -1,13 +1,13 @@
 ---
 name: dual-licensing
-description: "Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual Licensing
 
 ## Arbeitsbereich
 
-Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

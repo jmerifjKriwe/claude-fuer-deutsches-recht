@@ -1,13 +1,13 @@
 ---
 name: ausgleichsanspruch-89b
-description: "Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausgleichsanspruch nach § 89b HGB — Entstehung, Berechnung und Durchsetzung
 
 ## Arbeitsbereich
 
-Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

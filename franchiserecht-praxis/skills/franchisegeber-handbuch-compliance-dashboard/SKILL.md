@@ -1,13 +1,13 @@
 ---
 name: franchisegeber-handbuch-compliance-dashboard
-description: "Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard
 
 ## Arbeitsbereich
 
-Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

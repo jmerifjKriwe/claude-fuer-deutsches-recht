@@ -1,13 +1,13 @@
 ---
 name: bafin-kommunikation-und-anhoerung
-description: "BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BaFin-Anhörung und Aufsichtsschreiben
 
 ## Arbeitsbereich
 
-BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

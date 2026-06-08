@@ -1,13 +1,13 @@
 ---
 name: datenschutz-crm-arbeitsrecht
-description: "Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
 
 ## Arbeitsbereich
 
-Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

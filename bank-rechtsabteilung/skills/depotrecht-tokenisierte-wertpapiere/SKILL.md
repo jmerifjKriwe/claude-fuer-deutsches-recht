@@ -1,13 +1,13 @@
 ---
 name: depotrecht-tokenisierte-wertpapiere
-description: "Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Depotrecht Tokenpapiere
 
 ## Arbeitsbereich
 
-Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

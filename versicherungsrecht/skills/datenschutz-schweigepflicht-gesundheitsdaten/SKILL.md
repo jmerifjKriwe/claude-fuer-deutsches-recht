@@ -1,13 +1,13 @@
 ---
 name: datenschutz-schweigepflicht-gesundheitsdaten
-description: "Gesundheitsdaten im Versicherungsmandat: Schweigepflichtentbindung, DSGVO, Datensparsamkeit, Arztanfragen, Gutachter, PKV/BU/Unfall und Aktenführung im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesundheitsdaten im Versicherungsmandat: Schweigepflichtentbindung, DSGVO, Datensparsamkeit, Arztanfragen, Gutachter, PKV/BU/Unfall und Aktenführung im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesundheitsdaten, Schweigepflicht und Versicherer
 
 ## Arbeitsbereich
 
-Gesundheitsdaten im Versicherungsmandat: Schweigepflichtentbindung, DSGVO, Datensparsamkeit, Arztanfragen, Gutachter, PKV/BU/Unfall und Aktenführung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesundheitsdaten im Versicherungsmandat: Schweigepflichtentbindung, DSGVO, Datensparsamkeit, Arztanfragen, Gutachter, PKV/BU/Unfall und Aktenführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

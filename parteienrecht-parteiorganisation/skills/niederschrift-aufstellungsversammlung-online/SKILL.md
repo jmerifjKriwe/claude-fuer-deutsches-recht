@@ -1,13 +1,13 @@
 ---
 name: niederschrift-aufstellungsversammlung-online
-description: "Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Niederschrift Aufstellungsversammlung
 
 ## Arbeitsbereich
 
-Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

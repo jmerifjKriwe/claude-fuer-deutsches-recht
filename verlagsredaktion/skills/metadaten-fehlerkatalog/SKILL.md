@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Verlagsredaktion** Ergebnisse vor Abgab
 
 ## Fachspezifische Fehlerachsen
 
-- `eingangskorb-heftplanung-interessen-juristische-manuskript`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `eingangskorb-triage-entscheidungsmonitor-fremdtext-plagiat`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `lektorat-struktur-manuskriptaufnahme-materialinventar-marketing`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `qualitaetsgate-verlag-quellen-zitate-rechtecheck-urhg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `redaktion-satzfahnen-verlage-verlagsdesk-sprachlektorat-stil`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `sales-katalog-satzfahne-korrekturlauf-autorenkommunikation`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verl-abstimmung-lektorat-produktion-satz-rechtsabteilung-audio`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verl-aussagensicherheit-buchprojekt-bauleiter-email-konvolute`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verl-fussnoten-quellen-glossar-konsistenz-grammatik-handschrift`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `verl-ideenpool-priorisierung-impressum-pflicht-interview-roh`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `eingangskorb-heftplanung-interessen-juristische-manuskript`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `eingangskorb-triage-entscheidungsmonitor-fremdtext-plagiat`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `lektorat-struktur-manuskriptaufnahme-materialinventar-marketing`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `qualitaetsgate-verlag-quellen-zitate-rechtecheck-urhg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `redaktion-satzfahnen-verlage-verlagsdesk-sprachlektorat-stil`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `sales-katalog-satzfahne-korrekturlauf-autorenkommunikation`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verl-abstimmung-lektorat-produktion-satz-rechtsabteilung-audio`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verl-aussagensicherheit-buchprojekt-bauleiter-email-konvolute`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verl-fussnoten-quellen-glossar-konsistenz-grammatik-handschrift`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `verl-ideenpool-priorisierung-impressum-pflicht-interview-roh`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

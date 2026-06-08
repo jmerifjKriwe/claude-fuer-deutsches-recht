@@ -1,13 +1,13 @@
 ---
 name: romanisierung-der-provinzen-und-stadtrecht
-description: "Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 159 Romanisierung Der Provinzen Und Stadtrecht
 
 ## Arbeitsbereich
 
-Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

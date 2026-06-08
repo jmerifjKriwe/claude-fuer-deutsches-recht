@@ -1,13 +1,13 @@
 ---
 name: datenbankherstellerrecht-gegen-ex-mitarbeiter
-description: "Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot
 
 ## Arbeitsbereich
 
-Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

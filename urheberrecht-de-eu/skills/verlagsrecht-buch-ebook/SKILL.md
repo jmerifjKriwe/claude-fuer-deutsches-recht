@@ -1,13 +1,13 @@
 ---
 name: verlagsrecht-buch-ebook
-description: "Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verlagsrecht Buch und E-Book
 
 ## Arbeitsbereich
 
-Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

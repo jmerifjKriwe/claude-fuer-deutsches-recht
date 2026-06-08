@@ -1,13 +1,13 @@
 ---
 name: kuendigungsschreiben
-description: "Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung) im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung) im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt
 
 ## Arbeitsbereich
 
-Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

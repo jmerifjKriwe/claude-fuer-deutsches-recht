@@ -1,13 +1,13 @@
 ---
 name: gewissensbegruendung-werkstatt
-description: "Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werkstatt Gewissensbegründung
 
 ## Arbeitsbereich
 
-Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

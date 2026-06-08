@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung 
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

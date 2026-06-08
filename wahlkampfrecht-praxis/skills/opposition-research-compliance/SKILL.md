@@ -1,13 +1,13 @@
 ---
 name: opposition-research-compliance
-description: "Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Opposition Research Compliance
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: schutz-vor-vorauseilendem-gehorsam
-description: "Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Keine Schere im Kopf
 
 ## Arbeitsbereich
 
-Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

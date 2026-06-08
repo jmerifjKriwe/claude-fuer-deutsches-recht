@@ -1,13 +1,13 @@
 ---
 name: ad-insiderliste
-description: "Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ad-hoc-Publizität nach Art. 17 MAR
 
 ## Arbeitsbereich
 
-Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

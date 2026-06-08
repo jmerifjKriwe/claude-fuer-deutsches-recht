@@ -1,13 +1,13 @@
 ---
 name: handelsregister-gewerbe-handelsvertreter-gmbh
-description: "Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO
 
 ## Arbeitsbereich
 
-Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

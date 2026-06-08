@@ -1,13 +1,13 @@
 ---
 name: franchise-internationaler-kontext
-description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Internationaler Kontext
 
 ## Arbeitsbereich
 
-Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ungeschriebene-merkmale-judikatur
-description: "Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich gepraegten Normen im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich gepraegten Normen im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ungeschriebene Merkmale und Judikatur
 
 ## Arbeitsbereich
 
-Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich gepraegten Normen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich gepraegten Normen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

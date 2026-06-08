@@ -1,13 +1,13 @@
 ---
 name: vollmacht-und-anmeldung-oeffentliche-beglaubigung
-description: "Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anmeldung und Vollmacht formfest machen
 
 ## Arbeitsbereich
 
-Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

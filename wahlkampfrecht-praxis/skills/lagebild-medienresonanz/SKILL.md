@@ -1,13 +1,13 @@
 ---
 name: lagebild-medienresonanz
-description: "Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lagebild Medienresonanz
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

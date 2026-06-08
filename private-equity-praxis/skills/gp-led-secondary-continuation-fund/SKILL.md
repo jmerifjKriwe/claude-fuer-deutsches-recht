@@ -1,13 +1,13 @@
 ---
 name: gp-led-secondary-continuation-fund
-description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GP-led Secondary und Continuation Fund
 
 ## Arbeitsbereich
 
-Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

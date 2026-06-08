@@ -1,13 +1,13 @@
 ---
 name: materialienarbeit-ohne-blindzitat
-description: "Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Materialienarbeit ohne Blindzitat
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: eilantrag-notfall
-description: "Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eilantrag Notfall
 
 ## Arbeitsbereich
 
-Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

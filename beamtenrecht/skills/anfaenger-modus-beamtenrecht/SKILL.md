@@ -1,13 +1,13 @@
 ---
 name: anfaenger-modus-beamtenrecht
-description: "Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe, Verfahrenswege und typische Denkfehler ohne juristische Überwältigung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe, Verfahrenswege und typische Denkfehler ohne juristische Überwältigung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfaenger Modus Beamtenrecht
 
 ## Arbeitsbereich
 
-Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe, Verfahrenswege und typische Denkfehler ohne juristische Überwältigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe, Verfahrenswege und typische Denkfehler ohne juristische Überwältigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

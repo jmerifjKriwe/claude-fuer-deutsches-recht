@@ -1,13 +1,13 @@
 ---
 name: eu-ausland-brand-reverse-charge-und-oss
-description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS
 
 ## Arbeitsbereich
 
-Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

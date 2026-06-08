@@ -1,13 +1,13 @@
 ---
 name: distressed-ma-aus-insolvenz
-description: "Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Distressed M&A aus Krise und Insolvenz
 
 ## Arbeitsbereich
 
-Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

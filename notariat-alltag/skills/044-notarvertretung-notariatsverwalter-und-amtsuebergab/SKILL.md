@@ -1,13 +1,13 @@
 ---
 name: 044-notarvertretung-notariatsverwalter-und-amtsuebergab
-description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: deepfake-ceo-fraud
-description: "Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deepfake Ceo Fraud
 
 ## Arbeitsbereich
 
-Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: due-diligence-ergebnis-handlungsempfehlung
-description: "Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Due-Diligence-Rechtsmemo
 
 ## Arbeitsbereich
 
-Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

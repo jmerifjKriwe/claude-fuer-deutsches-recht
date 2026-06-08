@@ -7,7 +7,7 @@ description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrument
 
 ## Arbeitsbereich
 
-Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster für Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster für Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

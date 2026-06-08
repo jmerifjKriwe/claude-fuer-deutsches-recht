@@ -1,13 +1,13 @@
 ---
 name: arbeitsgericht-klage-arbeitsschutz-audit
-description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsgericht Klage
 
 ## Arbeitsbereich
 
-Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

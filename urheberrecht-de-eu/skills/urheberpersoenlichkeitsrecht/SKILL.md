@@ -1,13 +1,13 @@
 ---
 name: urheberpersoenlichkeitsrecht
-description: "Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urheberpersönlichkeitsrecht
 
 ## Arbeitsbereich
 
-Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

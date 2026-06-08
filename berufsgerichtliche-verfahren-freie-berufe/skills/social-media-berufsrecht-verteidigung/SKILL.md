@@ -1,13 +1,13 @@
 ---
 name: social-media-berufsrecht-verteidigung
-description: "Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Social Media Berufsrecht: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüf
 
 ## Arbeitsbereich
 
-**Cloud Vertrag Datenschutz ITR** ordnet den Fall über die tragenden Prüfungslinien: Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Cloud Vertrag Datenschutz ITR** ordnet den Fall über die tragenden Prüfungslinien: Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: nachbar-im-bauverfahren
-description: "Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachbar im Bauverfahren
 
 ## Arbeitsbereich
 
-Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

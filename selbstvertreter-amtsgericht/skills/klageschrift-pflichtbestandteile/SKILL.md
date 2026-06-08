@@ -7,7 +7,7 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 ## Arbeitsbereich
 
-**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüfungslinien: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüfungslinien: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

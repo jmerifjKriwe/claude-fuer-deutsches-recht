@@ -7,7 +7,7 @@ description: "Kanzlei Interessen Livecheck Mandat im Plugin Fachanwalt Bau Archi
 
 ## Arbeitsbereich
 
-**Kanzlei Interessen Livecheck Mandat** ordnet den Fall über die tragenden Prüfungslinien: Kanzlei, Livecheck, Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Kanzlei Interessen Livecheck Mandat** ordnet den Fall über die tragenden Prüfungslinien: Kanzlei, Livecheck, Mandat. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

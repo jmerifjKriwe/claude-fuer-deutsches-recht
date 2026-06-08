@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-gmbh
-description: "Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach § 89b HGB
 
 ## Arbeitsbereich
 
-Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

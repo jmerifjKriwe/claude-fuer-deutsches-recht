@@ -1,13 +1,13 @@
 ---
 name: tod-im-ausland-hinterbliebene
-description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # tod-im-ausland-hinterbliebene
 
 ## Arbeitsbereich
 
-Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

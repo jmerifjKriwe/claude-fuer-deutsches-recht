@@ -1,13 +1,13 @@
 ---
 name: akte-anlegen-und-aktenzeichen-zuordnen
-description: "Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Akte, Konfliktcheck und Mandatsanlage
 
 ## Arbeitsbereich
 
-Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

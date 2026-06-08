@@ -1,13 +1,13 @@
 ---
 name: translation-de-en-pe-terms
-description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DE/EN PE-Terms: präzise übersetzen
 
 ## Arbeitsbereich
 
-Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

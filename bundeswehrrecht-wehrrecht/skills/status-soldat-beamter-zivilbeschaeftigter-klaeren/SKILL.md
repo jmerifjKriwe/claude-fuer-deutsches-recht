@@ -1,13 +1,13 @@
 ---
 name: status-soldat-beamter-zivilbeschaeftigter-klaeren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

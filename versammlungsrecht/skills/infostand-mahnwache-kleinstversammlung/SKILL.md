@@ -1,13 +1,13 @@
 ---
 name: infostand-mahnwache-kleinstversammlung
-description: "Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwei Menschen können schon reichen
 
 ## Arbeitsbereich
 
-Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

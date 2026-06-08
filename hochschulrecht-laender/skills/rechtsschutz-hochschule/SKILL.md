@@ -1,13 +1,13 @@
 ---
 name: rechtsschutz-hochschule
-description: "Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsschutz Hochschule
 
 ## Arbeitsbereich
 
-Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

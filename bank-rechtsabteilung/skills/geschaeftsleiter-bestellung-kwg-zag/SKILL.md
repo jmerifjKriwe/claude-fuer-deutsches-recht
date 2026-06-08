@@ -1,13 +1,13 @@
 ---
 name: geschaeftsleiter-bestellung-kwg-zag
-description: "Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsleiterbestellung nach KWG und ZAG
 
 ## Arbeitsbereich
 
-Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

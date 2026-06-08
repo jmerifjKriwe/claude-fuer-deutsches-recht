@@ -1,13 +1,13 @@
 ---
 name: redispatch-3-0-spezial
-description: "Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energie: Redispatch 3.0
 
 ## Arbeitsbereich
 
-Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferan
 
 ## Arbeitsbereich
 
-Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

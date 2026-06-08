@@ -1,13 +1,13 @@
 ---
 name: widerspruch-kdvg-9
-description: "Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch § 9 KDVG
 
 ## Arbeitsbereich
 
-Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

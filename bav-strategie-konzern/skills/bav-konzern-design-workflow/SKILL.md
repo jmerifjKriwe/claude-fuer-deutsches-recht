@@ -1,13 +1,13 @@
 ---
 name: bav-konzern-design-workflow
-description: "Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # bAV: Konzern-Design
 
 ## Arbeitsbereich
 
-Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

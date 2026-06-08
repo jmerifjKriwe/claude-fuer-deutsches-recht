@@ -1,13 +1,13 @@
 ---
 name: rechtsschein-innenstreit-register
-description: "Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Innenstreit trotz Registerschein
 
 ## Arbeitsbereich
 
-Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

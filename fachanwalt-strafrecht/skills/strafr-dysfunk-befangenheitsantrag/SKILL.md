@@ -7,7 +7,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Befangenheitsantrag** ordnet den Fall über die tragenden Prüfungslinien: Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafr Dysfunk Befangenheitsantrag** ordnet den Fall über die tragenden Prüfungslinien: Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

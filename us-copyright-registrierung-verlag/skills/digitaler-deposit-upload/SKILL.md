@@ -1,13 +1,13 @@
 ---
 name: digitaler-deposit-upload
-description: "Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digitaler Deposit Upload
 
 ## Arbeitsbereich
 
-Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

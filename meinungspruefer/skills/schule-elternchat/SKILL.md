@@ -1,13 +1,13 @@
 ---
 name: schule-elternchat
-description: "Prüft Äußerungen über Lehrkräfte, Schulleitung und Eltern in Elternchat, Schulmail, Klassenpflegschaft und Beschwerde. Achtet auf Sachbezug, Kindesschutz, Amtsträgerrolle, Belege und Deeskalation im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Äußerungen über Lehrkräfte, Schulleitung und Eltern in Elternchat, Schulmail, Klassenpflegschaft und Beschwerde. Achtet auf Sachbezug, Kindesschutz, Amtsträgerrolle, Belege und Deeskalation im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schule und Elternchat
 
 ## Arbeitsbereich
 
-Prüft Äußerungen über Lehrkräfte, Schulleitung und Eltern in Elternchat, Schulmail, Klassenpflegschaft und Beschwerde. Achtet auf Sachbezug, Kindesschutz, Amtsträgerrolle, Belege und Deeskalation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Äußerungen über Lehrkräfte, Schulleitung und Eltern in Elternchat, Schulmail, Klassenpflegschaft und Beschwerde. Achtet auf Sachbezug, Kindesschutz, Amtsträgerrolle, Belege und Deeskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

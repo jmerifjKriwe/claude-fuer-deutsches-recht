@@ -1,13 +1,13 @@
 ---
 name: license-scanner-remediation
-description: "Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # License Scanner Remediation
 
 ## Arbeitsbereich
 
-Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

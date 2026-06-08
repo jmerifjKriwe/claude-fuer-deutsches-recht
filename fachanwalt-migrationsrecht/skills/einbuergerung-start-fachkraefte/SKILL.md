@@ -7,7 +7,7 @@ description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret
 
 ## Arbeitsbereich
 
-**Einbuergerung Start Fachkraefte** ordnet den Fall über die tragenden Prüfungslinien: Einbürgerung Start, Fachkräfte-Start. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Einbuergerung Start Fachkraefte** ordnet den Fall über die tragenden Prüfungslinien: Einbürgerung Start, Fachkräfte-Start. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

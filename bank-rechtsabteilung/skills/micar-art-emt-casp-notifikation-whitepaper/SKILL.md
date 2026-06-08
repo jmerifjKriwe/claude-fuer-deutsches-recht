@@ -1,13 +1,13 @@
 ---
 name: micar-art-emt-casp-notifikation-whitepaper
-description: "ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # MiCAR ART und EMT
 
 ## Arbeitsbereich
 
-ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

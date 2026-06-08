@@ -1,13 +1,13 @@
 ---
 name: beweissicherung-testkauf-screenshot-chain
-description: "Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweissicherung, Testkauf und Screenshot
 
 ## Arbeitsbereich
 
-Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

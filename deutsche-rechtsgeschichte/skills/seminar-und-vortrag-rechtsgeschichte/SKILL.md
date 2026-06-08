@@ -1,13 +1,13 @@
 ---
 name: seminar-und-vortrag-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seminar und Vortrag Rechtsgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

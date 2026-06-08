@@ -7,7 +7,7 @@ description: "Experimentelle Behandlung Fachanwalt im Medizinrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Experimentelle Behandlung Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Experimentelle Behandlung Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

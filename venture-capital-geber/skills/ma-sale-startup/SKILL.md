@@ -7,7 +7,7 @@ description: "Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP,
 
 ## Arbeitsbereich
 
-Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ki-arbeitsrecht-mitbestimmung
-description: "Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI: Arbeitsrecht und BR
 
 ## Arbeitsbereich
 
-Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

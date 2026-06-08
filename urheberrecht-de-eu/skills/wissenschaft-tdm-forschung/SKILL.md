@@ -1,13 +1,13 @@
 ---
 name: wissenschaft-tdm-forschung
-description: "Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wissenschaft, Forschung und TDM
 
 ## Arbeitsbereich
 
-Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kommunalbeamte-und-wahlbeamte
-description: "Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunalbeamte Und Wahlbeamte
 
 ## Arbeitsbereich
 
-Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

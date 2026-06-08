@@ -1,13 +1,13 @@
 ---
 name: vermoegensabschoepfung-dritt-einziehung
-description: "Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafrecht: Dritt-Arrest
 
 ## Arbeitsbereich
 
-Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

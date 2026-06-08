@@ -3,6 +3,8 @@ name: apotheken-urteil-bverfge-7-377
 description: Apotheken-Urteil BVerfGE Band 7 Seite 377 vom 11.06.1958 als Geburtsstunde der Drei-Stufen-Lehre der Berufsfreiheit Art 12 GG. Mit Sachverhalt Stufen-Lehre Berufsausuebung subjektive und objektive Berufswahl und Hinweisen wann welche Stufe greift.
 ---
 
+# Apotheken Urteil BVerfGE 7 377
+
 ## Sachverhalt
 
 Bayerisches Apothekenrecht knuepfte Apotheken-Neukonzessionen an
@@ -76,6 +78,4 @@ bleibt** der zentrale Massstab.
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 

@@ -1,13 +1,13 @@
 ---
 name: verletzungs-triage
-description: "Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verletzungs-Triage
 
 ## Arbeitsbereich
 
-Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

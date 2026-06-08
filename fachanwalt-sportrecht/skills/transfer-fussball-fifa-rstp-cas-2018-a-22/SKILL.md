@@ -1,29 +1,39 @@
 ---
 name: transfer-fussball-fifa-rstp-cas-2018-a-22
-description: FIFA Transferreglement RSTP mit CAS.
+description: "Transfer Fussball Fifa Rstp Cas 2018 A 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Transfer Fussball Fifa Rstp Cas 2018 A 22
+
+## Einsatzlage
 
 Spieler bricht Vertrag ohne wichtigen Grund; Schadensersatz.
 
-## Normen
+## Normenanker
 
-- FIFA RSTP
+- Art. 101 AEUV
+- Art. 102 AEUV
+- § 19 GWB
+- NADA-Code
+- § 22 BImSchG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- CAS 22/A/2018
+- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Art 17 RSTP; Berechnung nach Webster Matuzalem.
 
-## Schriftsatzkern
-
-Schadensersatz nach Vertragsrestwert.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Spielervertrag
 - Transferangebot

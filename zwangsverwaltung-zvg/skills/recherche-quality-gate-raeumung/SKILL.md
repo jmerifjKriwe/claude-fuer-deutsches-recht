@@ -1,13 +1,13 @@
 ---
 name: recherche-quality-gate-raeumung
-description: "Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZVG-Portal-Recherche
 
 ## Arbeitsbereich
 
-Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

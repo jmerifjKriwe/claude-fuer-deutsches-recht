@@ -1,13 +1,13 @@
 ---
 name: erwerbsgeschaeft-dienst-formnichtigkeit
-description: "Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

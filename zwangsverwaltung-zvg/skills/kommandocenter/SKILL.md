@@ -1,13 +1,13 @@
 ---
 name: kommandocenter
-description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsverwaltungs-Kommandocenter
 
 ## Arbeitsbereich
 
-Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

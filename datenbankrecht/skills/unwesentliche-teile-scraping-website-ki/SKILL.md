@@ -1,13 +1,13 @@
 ---
 name: unwesentliche-teile-scraping-website-ki
-description: "Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unwesentliche Teile — wiederholte und systematische Entnahme als Verletzung
 
 ## Arbeitsbereich
 
-Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

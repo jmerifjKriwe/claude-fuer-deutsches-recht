@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsjuristen-terms
-description: "Wirtschaftsjuristen Terms im Common Law (Orientierung) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsjuristen Terms im Common Law (Orientierung) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftsjuristen Terms

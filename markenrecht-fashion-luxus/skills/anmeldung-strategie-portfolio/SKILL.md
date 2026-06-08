@@ -1,13 +1,13 @@
 ---
 name: anmeldung-strategie-portfolio
-description: "Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
 
 ## Arbeitsbereich
 
-Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

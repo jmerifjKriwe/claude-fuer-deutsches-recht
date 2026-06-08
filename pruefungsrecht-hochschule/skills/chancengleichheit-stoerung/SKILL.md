@@ -1,13 +1,13 @@
 ---
 name: chancengleichheit-stoerung
-description: "Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chancengleichheit und Störung
 
 ## Arbeitsbereich
 
-Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: versetzung-gegen-willen-28-bbg
-description: "Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wie Versetzung von Bund zu Land Versetzung in andere Behörde mit groesserer Entfernung Versetzung zur Vermeidung von Mobbingsituationen. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wie Versetzung von Bund zu Land Versetzung in andere Behörde mit groesserer Entfernung Versetzung zur Vermeidung von Mobbingsituationen. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versetzung gegen den Willen § 28 BBG
 
 ## Arbeitsbereich
 
-Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wie Versetzung von Bund zu Land Versetzung in andere Behörde mit groesserer Entfernung Versetzung zur Vermeidung von Mobbingsituationen. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wie Versetzung von Bund zu Land Versetzung in andere Behörde mit groesserer Entfernung Versetzung zur Vermeidung von Mobbingsituationen. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

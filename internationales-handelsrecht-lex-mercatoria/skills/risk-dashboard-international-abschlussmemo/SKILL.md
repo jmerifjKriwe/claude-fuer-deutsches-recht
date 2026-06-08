@@ -1,13 +1,13 @@
 ---
 name: risk-dashboard-international-abschlussmemo
-description: "Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Risiko-Dashboard Internationaler Handel
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

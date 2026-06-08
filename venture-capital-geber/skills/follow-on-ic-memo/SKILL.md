@@ -7,7 +7,7 @@ description: "Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, R
 
 ## Arbeitsbereich
 
-Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

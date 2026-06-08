@@ -7,7 +7,7 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-**Vergleichsverhandlung Strategie Werkmangel** ordnet den Fall über die tragenden Prüfungslinien: Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vergleichsverhandlung Strategie Werkmangel** ordnet den Fall über die tragenden Prüfungslinien: Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

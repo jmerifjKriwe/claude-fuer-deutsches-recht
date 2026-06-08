@@ -1,13 +1,13 @@
 ---
 name: dual-use-produktrecht
-description: "Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Use im Produktrecht
 
 ## Arbeitsbereich
 
-Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

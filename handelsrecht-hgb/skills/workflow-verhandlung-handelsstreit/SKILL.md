@@ -1,13 +1,13 @@
 ---
 name: workflow-verhandlung-handelsstreit
-description: "Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verhandlung im Handelsstreit
 
 ## Arbeitsbereich
 
-Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

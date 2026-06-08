@@ -1,13 +1,13 @@
 ---
 name: 020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz
-description: "Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz, Registerportal
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

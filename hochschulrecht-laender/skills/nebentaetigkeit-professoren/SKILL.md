@@ -1,13 +1,13 @@
 ---
 name: nebentaetigkeit-professoren
-description: "Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nebentätigkeit Professorinnen und Professoren
 
 ## Arbeitsbereich
 
-Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

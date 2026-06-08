@@ -1,13 +1,13 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Wahlordnung
 
 ## Arbeitsbereich
 
-Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

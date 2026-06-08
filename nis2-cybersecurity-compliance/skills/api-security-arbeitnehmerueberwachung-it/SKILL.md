@@ -1,13 +1,13 @@
 ---
 name: api-security-arbeitnehmerueberwachung-it
-description: "Prüft API-Sicherheit in Produkten und internen Schnittstellen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft API-Sicherheit in Produkten und internen Schnittstellen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # API Security
 
 ## Arbeitsbereich
 
-Prüft API-Sicherheit in Produkten und internen Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft API-Sicherheit in Produkten und internen Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: datenschutz-kameras-digitaler-zwilling-dronen
-description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz Sensorik
 
 ## Arbeitsbereich
 
-Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

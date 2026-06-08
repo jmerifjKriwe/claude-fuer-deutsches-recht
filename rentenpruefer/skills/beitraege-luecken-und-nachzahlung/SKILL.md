@@ -1,13 +1,13 @@
 ---
 name: beitraege-luecken-und-nachzahlung
-description: "Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # beitraege-luecken-und-nachzahlung
 
 ## Arbeitsbereich
 
-Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

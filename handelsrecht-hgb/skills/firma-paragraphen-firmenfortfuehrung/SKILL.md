@@ -1,13 +1,13 @@
 ---
 name: firma-paragraphen-firmenfortfuehrung
-description: "Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Firma §§ 17 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

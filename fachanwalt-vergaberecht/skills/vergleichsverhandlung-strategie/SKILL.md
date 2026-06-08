@@ -7,7 +7,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht:
 
 ## Arbeitsbereich
 
-**Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüfungslinien: Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüfungslinien: Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

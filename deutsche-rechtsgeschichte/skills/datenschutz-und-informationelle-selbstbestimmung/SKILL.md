@@ -1,13 +1,13 @@
 ---
 name: datenschutz-und-informationelle-selbstbestimmung
-description: "Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenschutz und informationelle Selbstbestimmung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

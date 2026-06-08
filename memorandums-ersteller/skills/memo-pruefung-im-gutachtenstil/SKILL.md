@@ -1,13 +1,13 @@
 ---
 name: memo-pruefung-im-gutachtenstil
-description: "Pruefungsabschnitt im Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis. Streitiges nur dann oeffnen, wenn für das Ergebnis relevant. BGH-Linien werden zitiert, nicht referiert. Output mit klaren Ueberschriften und kurzer Inhaltsuebersicht im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefungsabschnitt im Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis. Streitiges nur dann oeffnen, wenn für das Ergebnis relevant. BGH-Linien werden zitiert, nicht referiert. Output mit klaren Ueberschriften und kurzer Inhaltsuebersicht im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo: Pruefung im Gutachtenstil
 
 ## Arbeitsbereich
 
-Pruefungsabschnitt im Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis. Streitiges nur dann oeffnen, wenn für das Ergebnis relevant. BGH-Linien werden zitiert, nicht referiert. Output mit klaren Ueberschriften und kurzer Inhaltsuebersicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pruefungsabschnitt im Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis. Streitiges nur dann oeffnen, wenn für das Ergebnis relevant. BGH-Linien werden zitiert, nicht referiert. Output mit klaren Ueberschriften und kurzer Inhaltsuebersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

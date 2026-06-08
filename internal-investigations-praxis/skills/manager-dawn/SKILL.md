@@ -1,13 +1,13 @@
 ---
 name: manager-dawn
-description: "Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interviews mit Führungskräften und Organmitgliedern
 
 ## Arbeitsbereich
 
-Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

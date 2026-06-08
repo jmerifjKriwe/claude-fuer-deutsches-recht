@@ -1,13 +1,13 @@
 ---
 name: kritis-bsig-schnittstelle
-description: "Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kritis Bsig Schnittstelle
 
 ## Arbeitsbereich
 
-Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: training-material
-description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB
 
 ## Arbeitsbereich
 
-Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

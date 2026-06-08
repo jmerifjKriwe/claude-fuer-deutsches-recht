@@ -7,7 +7,7 @@ description: "Rechtliche Anforderungen bei grenzueberschreitender Bewegung von K
 
 ## Arbeitsbereich
 
-Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz für archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Pruefbericht und Antrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz für archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Pruefbericht und Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

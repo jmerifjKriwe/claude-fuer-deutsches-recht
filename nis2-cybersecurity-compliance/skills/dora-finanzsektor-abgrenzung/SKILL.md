@@ -1,13 +1,13 @@
 ---
 name: dora-finanzsektor-abgrenzung
-description: "Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DORA Finanzsektor Abgrenzung
 
 ## Arbeitsbereich
 
-Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

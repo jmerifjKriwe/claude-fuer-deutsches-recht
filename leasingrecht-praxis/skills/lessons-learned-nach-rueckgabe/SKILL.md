@@ -1,13 +1,13 @@
 ---
 name: lessons-learned-nach-rueckgabe
-description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lessons Learned nach der Leasingrückgabe
 
 ## Arbeitsbereich
 
-Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

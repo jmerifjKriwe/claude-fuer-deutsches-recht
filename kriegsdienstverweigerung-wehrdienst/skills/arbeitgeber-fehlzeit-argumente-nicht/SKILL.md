@@ -1,13 +1,13 @@
 ---
 name: arbeitgeber-fehlzeit-argumente-nicht
-description: "Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitgeber und Fehlzeit
 
 ## Arbeitsbereich
 
-Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

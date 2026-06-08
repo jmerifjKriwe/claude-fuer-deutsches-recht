@@ -1,13 +1,13 @@
 ---
 name: forschungsdaten-und-open-science
-description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Forschungsdaten Und Open Science
 
 ## Arbeitsbereich
 
-Prüft Forschungsdaten, Open Science und Repositorien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Forschungsdaten, Open Science und Repositorien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

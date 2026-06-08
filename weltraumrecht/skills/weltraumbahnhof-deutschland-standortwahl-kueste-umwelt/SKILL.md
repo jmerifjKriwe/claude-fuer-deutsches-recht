@@ -1,13 +1,13 @@
 ---
 name: weltraumbahnhof-deutschland-standortwahl-kueste-umwelt
-description: "Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit
 
 ## Arbeitsbereich
 
-Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

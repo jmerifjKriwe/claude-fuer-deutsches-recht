@@ -7,7 +7,7 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüfungslinien: Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüfungslinien: Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

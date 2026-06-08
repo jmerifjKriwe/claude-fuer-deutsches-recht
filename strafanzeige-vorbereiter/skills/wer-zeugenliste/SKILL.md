@@ -1,13 +1,13 @@
 ---
 name: wer-zeugenliste
-description: "Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik im Strafanzeige-Vorbereitung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik im Strafanzeige-Vorbereitung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sachverhalt: wer, was, wann, wo, wie
 
 ## Arbeitsbereich
 
-Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

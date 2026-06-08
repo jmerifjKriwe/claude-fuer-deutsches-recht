@@ -1,13 +1,13 @@
 ---
 name: dokument-upload-dolmetscher-uebersetzung
-description: "Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokument-Upload Erste Hilfe
 
 ## Arbeitsbereich
 
-Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

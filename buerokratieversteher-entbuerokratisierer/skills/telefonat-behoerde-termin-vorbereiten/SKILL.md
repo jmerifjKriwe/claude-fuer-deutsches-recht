@@ -1,13 +1,13 @@
 ---
 name: telefonat-behoerde-termin-vorbereiten
-description: "Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Telefonat mit Behörde
 
 ## Arbeitsbereich
 
-Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht
-description: "Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ)
 
 ## Arbeitsbereich
 
-Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

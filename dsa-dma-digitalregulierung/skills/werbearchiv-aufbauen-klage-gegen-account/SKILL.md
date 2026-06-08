@@ -1,13 +1,13 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DSA: Werbearchiv Art. 39
 
 ## Arbeitsbereich
 
-Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene R
 
 ## Arbeitsbereich
 
-Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

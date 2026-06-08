@@ -1,13 +1,13 @@
 ---
 name: eu-produktsicherheitsverordnung-feature
-description: "EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten für Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten für Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GPSR in der Praxis
 
 ## Arbeitsbereich
 
-EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten für Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten für Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

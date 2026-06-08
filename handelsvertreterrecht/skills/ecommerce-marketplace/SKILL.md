@@ -1,13 +1,13 @@
 ---
 name: ecommerce-marketplace
-description: "Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB
 
 ## Arbeitsbereich
 
-Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ransomware-verhandlungsverbot-remote-access
-description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ransomware Verhandlungsverbot
 
 ## Arbeitsbereich
 
-Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

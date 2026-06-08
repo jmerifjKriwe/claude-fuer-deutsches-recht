@@ -1,13 +1,13 @@
 ---
 name: leihe-commodatum-verwahrung-depositum-auftrag
-description: "Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa) im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa) im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leihe (commodatum)
 
 ## Arbeitsbereich
 
-Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

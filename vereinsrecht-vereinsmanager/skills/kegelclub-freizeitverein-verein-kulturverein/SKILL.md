@@ -1,13 +1,13 @@
 ---
 name: kegelclub-freizeitverein-verein-kulturverein
-description: "Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kegelclub/Freizeitverein
 
 ## Arbeitsbereich
 
-Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

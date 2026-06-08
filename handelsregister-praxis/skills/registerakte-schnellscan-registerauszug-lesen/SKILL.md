@@ -1,13 +1,13 @@
 ---
 name: registerakte-schnellscan-registerauszug-lesen
-description: "Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerakte in 10 Minuten sortieren
 
 ## Arbeitsbereich
 
-Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

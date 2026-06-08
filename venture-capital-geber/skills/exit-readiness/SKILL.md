@@ -7,7 +7,7 @@ description: "Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder s
 
 ## Arbeitsbereich
 
-Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nachschreibtermin-terminkollision
-description: "Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachschreibtermin und Terminkollision
 
 ## Arbeitsbereich
 
-Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

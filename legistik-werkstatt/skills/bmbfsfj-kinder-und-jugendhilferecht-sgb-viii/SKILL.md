@@ -1,13 +1,13 @@
 ---
 name: bmbfsfj-kinder-und-jugendhilferecht-sgb-viii
-description: "Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ)
 
 ## Arbeitsbereich
 
-Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

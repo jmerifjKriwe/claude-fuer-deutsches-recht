@@ -1,13 +1,13 @@
 ---
 name: strafverteidigung-tatbestand-beweis-und-belege
-description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Arbeitsbereich
 
-Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

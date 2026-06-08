@@ -1,13 +1,13 @@
 ---
 name: antikorruption-crm-datenschutz-cross-selling
-description: "Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Compliance und Antikorruption im Handelsvertretervertrieb
 
 ## Arbeitsbereich
 
-Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

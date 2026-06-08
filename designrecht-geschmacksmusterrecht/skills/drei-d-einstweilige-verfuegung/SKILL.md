@@ -1,13 +1,13 @@
 ---
 name: drei-d-einstweilige-verfuegung
-description: "3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drei D Druck Digitales Design
 
 ## Arbeitsbereich
 
-3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bonus-equity-devs-noncompete
-description: "Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bonus Equity Devs Non-Compete
 
 ## Arbeitsbereich
 
-Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

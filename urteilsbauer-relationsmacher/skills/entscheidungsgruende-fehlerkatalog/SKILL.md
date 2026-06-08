@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Urteilsbauer Relationsmacher** Ergebnis
 
 ## Fachspezifische Fehlerachsen
 
-- `aktenintake-zivil`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `amts-aktenintake-zivil-anspruchsgrundlagen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anspruchsgrundlagen-pruefen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berufungsfest-beschluss-bauen-beweisbeschluss-vorbereiten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berufungsfest-pruefen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beschluss-bauen-zpo`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beweisbeschluss-vorbereiten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beweiswuerdigung-mit-richter-input`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beweiswuerdigung-richter-cisg-dsgvo-rechtswidriges`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `aktenintake-zivil`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `amts-aktenintake-zivil-anspruchsgrundlagen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anspruchsgrundlagen-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berufungsfest-beschluss-bauen-beweisbeschluss-vorbereiten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berufungsfest-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beschluss-bauen-zpo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beweisbeschluss-vorbereiten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beweiswuerdigung-mit-richter-input`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beweiswuerdigung-richter-cisg-dsgvo-rechtswidriges`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

@@ -7,7 +7,7 @@ description: "PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Vorau
 
 ## Arbeitsbereich
 
-PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

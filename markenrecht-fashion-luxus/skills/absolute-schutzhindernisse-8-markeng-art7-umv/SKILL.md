@@ -1,13 +1,13 @@
 ---
 name: absolute-schutzhindernisse-8-markeng-art7-umv
-description: "Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Absolute Schutzhindernisse
 
 ## Arbeitsbereich
 
-Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

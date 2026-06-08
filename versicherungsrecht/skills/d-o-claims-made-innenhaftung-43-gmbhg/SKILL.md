@@ -1,13 +1,13 @@
 ---
 name: d-o-claims-made-innenhaftung-43-gmbhg
-description: "D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # D&O: Claims-made, Innenhaftung und Organstreit
 
 ## Arbeitsbereich
 
-D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

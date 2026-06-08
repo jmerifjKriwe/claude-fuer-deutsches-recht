@@ -1,13 +1,13 @@
 ---
 name: bmi-verwaltungsverfahren-und-bundesverwaltung
-description: "Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsverfahren und Bundesverwaltung (BMI)
 
 ## Arbeitsbereich
 
-Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

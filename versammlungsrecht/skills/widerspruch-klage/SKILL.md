@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage
-description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch Klage

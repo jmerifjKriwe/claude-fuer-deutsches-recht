@@ -1,13 +1,13 @@
 ---
 name: 028-pontifikalrecht-kalender-und-rechtszugang
-description: "Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Pontifikalrecht Kalender Und Rechtszugang
 
 ## Arbeitsbereich
 
-Römisches Recht: Pontifikalrecht Kalender und Rechtszugang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Pontifikalrecht Kalender und Rechtszugang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

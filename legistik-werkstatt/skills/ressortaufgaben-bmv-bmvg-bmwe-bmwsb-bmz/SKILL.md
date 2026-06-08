@@ -1,13 +1,13 @@
 ---
 name: ressortaufgaben-bmv-bmvg-bmwe-bmwsb-bmz
-description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ressortaufgaben BMV
 
 ## Arbeitsbereich
 
-Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

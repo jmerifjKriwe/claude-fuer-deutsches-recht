@@ -1,13 +1,13 @@
 ---
 name: ki-training-tdm-optout
-description: "Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Training, TDM und Opt-out
 
 ## Arbeitsbereich
 
-Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

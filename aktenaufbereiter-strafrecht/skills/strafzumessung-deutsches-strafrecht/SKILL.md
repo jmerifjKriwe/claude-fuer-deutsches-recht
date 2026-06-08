@@ -1,13 +1,13 @@
 ---
 name: strafzumessung-deutsches-strafrecht
-description: "Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessung-Werkstatt
 
 ## Arbeitsbereich
 
-Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

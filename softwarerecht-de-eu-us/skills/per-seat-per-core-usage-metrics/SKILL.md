@@ -1,13 +1,13 @@
 ---
 name: per-seat-per-core-usage-metrics
-description: "Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seat/Core/Usage-Metriken
 
 ## Arbeitsbereich
 
-Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

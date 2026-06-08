@@ -1,13 +1,13 @@
 ---
 name: nationales-verfahren-vorlageverfahren-art
-description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nationales Verfahren und Effektivität
 
 ## Arbeitsbereich
 
-EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

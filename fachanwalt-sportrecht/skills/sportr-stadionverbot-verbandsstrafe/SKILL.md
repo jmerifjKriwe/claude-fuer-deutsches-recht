@@ -7,14 +7,14 @@ description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-**Sportr Stadionverbot Verbandsstrafe** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sportr Stadionverbot Verbandsstrafe** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `sportr-stadionverbot-fanrechte-spezial` | Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte. Pruefraster für Anhörungsrecht und Klage. |
 | `sportr-stadionverbot-und-fan-rechte-spezial` | Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhörungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht. |
-| `verbandsstrafe-anfechten` | Prüfungslinie für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `verbandsstrafe-anfechten` | Verbandsstrafe Anfechten: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -124,7 +124,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 3. `verbandsstrafe-anfechten`
 
-**Fokus:** Prüfungslinie für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Verbandsstrafe Anfechten: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Verbandsstrafe anfechten
 

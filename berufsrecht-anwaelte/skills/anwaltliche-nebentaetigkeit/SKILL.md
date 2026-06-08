@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-nebentaetigkeit
-description: "Anwälte: anwaltliche nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: anwaltliche nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwälte: anwaltliche nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

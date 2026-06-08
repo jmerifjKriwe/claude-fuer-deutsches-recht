@@ -7,7 +7,7 @@ description: "Krankenversicherung für im Ausland lebende Rentner mit deutschen 
 
 ## Arbeitsbereich
 
-Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: exporteur-deutschland-nach-china
-description: "Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen
 
 ## Arbeitsbereich
 
-Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

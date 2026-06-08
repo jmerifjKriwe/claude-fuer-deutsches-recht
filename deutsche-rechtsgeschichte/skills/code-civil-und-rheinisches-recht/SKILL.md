@@ -1,13 +1,13 @@
 ---
 name: code-civil-und-rheinisches-recht
-description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Code Civil und rheinisches Recht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

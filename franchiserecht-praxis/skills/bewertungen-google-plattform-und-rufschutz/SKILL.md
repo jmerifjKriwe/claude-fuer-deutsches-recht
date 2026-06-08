@@ -1,13 +1,13 @@
 ---
 name: bewertungen-google-plattform-und-rufschutz
-description: "Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
 
 ## Arbeitsbereich
 
-Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

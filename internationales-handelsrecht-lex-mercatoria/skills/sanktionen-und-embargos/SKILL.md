@@ -1,13 +1,13 @@
 ---
 name: sanktionen-und-embargos
-description: "Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionen und Embargos
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: faktencheck-gegenrede
-description: "Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Faktencheck Gegenrede
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

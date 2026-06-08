@@ -7,7 +7,7 @@ description: "IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsre
 
 ## Arbeitsbereich
 
-**IWR Arbitration NY CISG Anwendung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**IWR Arbitration NY CISG Anwendung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

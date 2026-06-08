@@ -1,13 +1,13 @@
 ---
 name: us-uk-legal-writing-fuer-deutsche
-description: "Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US/UK Legal Writing für Deutsche
 
 ## Arbeitsbereich
 
-Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

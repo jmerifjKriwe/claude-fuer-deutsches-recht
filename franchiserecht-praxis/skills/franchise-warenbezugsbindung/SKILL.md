@@ -1,6 +1,6 @@
 ---
 name: franchise-warenbezugsbindung
-description: "Franchise Warenbezugsbindung im Franchiserecht im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise Warenbezugsbindung im Franchiserecht im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Warenbezugsbindung

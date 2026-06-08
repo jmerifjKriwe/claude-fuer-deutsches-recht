@@ -1,13 +1,13 @@
 ---
 name: abmahnung-gebrauchsmuster-abzweigung
-description: "Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abmahnung Gebrauchsmuster Verteidigung
 
 ## Arbeitsbereich
 
-Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

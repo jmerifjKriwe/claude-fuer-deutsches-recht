@@ -1,13 +1,13 @@
 ---
 name: bafoeg
-description: "Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BAföG
 
 ## Arbeitsbereich
 
-Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

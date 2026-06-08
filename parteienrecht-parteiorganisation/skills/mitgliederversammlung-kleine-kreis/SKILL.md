@@ -1,13 +1,13 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kleine Partei Praxis
 
 ## Arbeitsbereich
 
-Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

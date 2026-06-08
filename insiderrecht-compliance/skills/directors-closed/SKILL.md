@@ -1,13 +1,13 @@
 ---
 name: directors-closed
-description: "Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Directors' Dealings nach Art. 19 MAR
 
 ## Arbeitsbereich
 
-Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

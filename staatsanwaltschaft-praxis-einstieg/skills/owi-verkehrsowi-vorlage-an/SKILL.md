@@ -1,13 +1,13 @@
 ---
 name: owi-verkehrsowi-vorlage-an
-description: "Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht
 
 ## Arbeitsbereich
 
-Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

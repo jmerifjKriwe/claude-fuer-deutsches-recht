@@ -1,13 +1,13 @@
 ---
 name: containerschiff-risiko-memo-schreiben
-description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

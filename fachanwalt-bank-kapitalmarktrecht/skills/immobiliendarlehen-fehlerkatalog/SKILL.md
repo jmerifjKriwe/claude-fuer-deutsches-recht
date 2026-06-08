@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Bank Kapitalmarktrecht** Erg
 
 ## Fachspezifische Fehlerachsen
 
-- `fa-bank-kapitalmarkt-bk-bafin-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bankrecht-buergschaft-aval-garantieabruf-eilrechtsschutz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bankrecht-privatbuergschaft-bankrecht-regress-bk-aufsicht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beratungshaftung-haftung-beweislast-bk-cum`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bk-bankenfehlberatung-bk-einfuehrung-bk-mandantenrouting`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bk-mifid-bk-prip-erstgespraech-mandatsannahme`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fehlerhaft-fristennotiz-kapitalmarktrecht-bk-emissionsprospekt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `fa-bank-kapitalmarkt-bk-bafin-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bankrecht-buergschaft-aval-garantieabruf-eilrechtsschutz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bankrecht-privatbuergschaft-bankrecht-regress-bk-aufsicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beratungshaftung-haftung-beweislast-bk-cum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bk-bankenfehlberatung-bk-einfuehrung-bk-mandantenrouting`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bk-mifid-bk-prip-erstgespraech-mandatsannahme`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fehlerhaft-fristennotiz-kapitalmarktrecht-bk-emissionsprospekt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

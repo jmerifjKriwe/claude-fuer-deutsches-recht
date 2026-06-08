@@ -1,13 +1,13 @@
 ---
 name: onboarding-online-vertrieb-pharma-medtech
-description: "Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB
 
 ## Arbeitsbereich
 
-Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

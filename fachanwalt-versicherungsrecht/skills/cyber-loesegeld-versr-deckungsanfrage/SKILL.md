@@ -7,7 +7,7 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 
 ## Arbeitsbereich
 
-**Cyber Loesegeld Versr Deckungsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Cyber Loesegeld Versr Deckungsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

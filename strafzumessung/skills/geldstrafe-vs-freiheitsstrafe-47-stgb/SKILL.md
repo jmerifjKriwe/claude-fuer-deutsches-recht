@@ -1,13 +1,13 @@
 ---
 name: geldstrafe-vs-freiheitsstrafe-47-stgb
-description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geldstrafe vs. Freiheitsstrafe — § 47 StGB
 
 ## Arbeitsbereich
 
-Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

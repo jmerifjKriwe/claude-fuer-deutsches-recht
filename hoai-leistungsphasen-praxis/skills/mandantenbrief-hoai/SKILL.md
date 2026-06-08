@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-hoai
-description: "HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # HOAI Querschnitt: Erklärt bauherrn oder planer den stand in normalem deutsch
 
 ## Arbeitsbereich
 
-HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

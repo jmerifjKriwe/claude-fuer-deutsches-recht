@@ -1,13 +1,13 @@
 ---
 name: gc-dashboard-handover-kanzleiwechsel-inhouse
-description: "General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # General Counsel Dashboard
 
 ## Arbeitsbereich
 
-General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

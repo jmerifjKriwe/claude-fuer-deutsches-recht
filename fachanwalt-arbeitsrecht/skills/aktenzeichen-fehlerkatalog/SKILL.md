@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Arbeitsrecht** Ergebnisse vo
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-ar-kuendigungspruefung-fazugang-arbeitgeber`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ar-aufhebungsvertrag-konkurrenzklausel-fachanwalt-arbeitsrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ar-betriebsuebergang-ar-einfuehrung-ar-leiharbeit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `arbeitsgericht-abrechnung-vergleichsverhandlung-strategie-zugang`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `befristung-fao-unwirksam-fristennotiz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `befristung-tzbfg-bem-verfahren-fazugang-kuendigungsfrist`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `beteiligung-betriebsrat-erstgespraech-mandatsannahme-fachanwalt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betriebsrat-betrvg-datum`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `entgtranspg-fachanwalt-kschg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-arbeitsrecht-bag-betriebsratsanhoerung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-ar-kuendigungspruefung-fazugang-arbeitgeber`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ar-aufhebungsvertrag-konkurrenzklausel-fachanwalt-arbeitsrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ar-betriebsuebergang-ar-einfuehrung-ar-leiharbeit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `arbeitsgericht-abrechnung-vergleichsverhandlung-strategie-zugang`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `befristung-fao-unwirksam-fristennotiz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `befristung-tzbfg-bem-verfahren-fazugang-kuendigungsfrist`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `beteiligung-betriebsrat-erstgespraech-mandatsannahme-fachanwalt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betriebsrat-betrvg-datum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `entgtranspg-fachanwalt-kschg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-arbeitsrecht-bag-betriebsratsanhoerung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

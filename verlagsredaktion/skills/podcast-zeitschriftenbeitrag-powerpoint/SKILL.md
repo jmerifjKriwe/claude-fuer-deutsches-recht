@@ -1,13 +1,13 @@
 ---
 name: podcast-zeitschriftenbeitrag-powerpoint
-description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Podcast zu Zeitschriftenbeitrag
 
 ## Arbeitsbereich
 
-Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

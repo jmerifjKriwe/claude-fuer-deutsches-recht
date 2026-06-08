@@ -1,13 +1,13 @@
 ---
 name: erbrecht-und-hofrecht
-description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erbrecht und Hofrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

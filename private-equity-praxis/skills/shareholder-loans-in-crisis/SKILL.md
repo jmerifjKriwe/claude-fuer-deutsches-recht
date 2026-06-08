@@ -1,13 +1,13 @@
 ---
 name: shareholder-loans-in-crisis
-description: "Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesellschafterdarlehen in Krise
 
 ## Arbeitsbereich
 
-Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

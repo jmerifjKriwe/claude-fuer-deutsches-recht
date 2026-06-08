@@ -1,13 +1,13 @@
 ---
 name: china-export-control-law-touchpoints
-description: "Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen
 
 ## Arbeitsbereich
 
-Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

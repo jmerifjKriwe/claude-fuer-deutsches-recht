@@ -1,13 +1,13 @@
 ---
 name: psd3-psr-vorschau-gap-analysis
-description: "PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PSD3/PSR Vorschau
 
 ## Arbeitsbereich
 
-PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

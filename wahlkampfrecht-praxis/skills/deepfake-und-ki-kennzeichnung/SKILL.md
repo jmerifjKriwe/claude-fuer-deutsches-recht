@@ -1,13 +1,13 @@
 ---
 name: deepfake-und-ki-kennzeichnung
-description: "Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deepfake Und Ki Kennzeichnung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

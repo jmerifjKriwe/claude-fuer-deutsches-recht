@@ -1,13 +1,13 @@
 ---
 name: aufsichtsrat-vorlage-bank
-description: "Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtsrat und Ausschüsse
 
 ## Arbeitsbereich
 
-Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

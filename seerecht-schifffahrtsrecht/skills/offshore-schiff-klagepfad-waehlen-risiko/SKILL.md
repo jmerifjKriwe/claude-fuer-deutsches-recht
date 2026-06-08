@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-klagepfad-waehlen-risiko
-description: "Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Closing planen
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

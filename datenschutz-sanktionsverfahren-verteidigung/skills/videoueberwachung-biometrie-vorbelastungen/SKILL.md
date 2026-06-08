@@ -7,7 +7,7 @@ description: "Videoueberwachung Biometrie Vorbelastungen im Datenschutz-Sanktion
 
 ## Arbeitsbereich
 
-**Videoueberwachung Biometrie Vorbelastungen** ordnet den Fall über die tragenden Prüfungslinien: Videoüberwachung und Biometrie, Vorbelastungen und Wiederholungstäter, Vorsatz und Fahrlässigkeit des Unternehmens. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Videoueberwachung Biometrie Vorbelastungen** ordnet den Fall über die tragenden Prüfungslinien: Videoüberwachung und Biometrie, Vorbelastungen und Wiederholungstäter, Vorsatz und Fahrlässigkeit des Unternehmens. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

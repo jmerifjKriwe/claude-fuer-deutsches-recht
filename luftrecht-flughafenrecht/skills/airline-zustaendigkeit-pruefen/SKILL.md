@@ -1,13 +1,13 @@
 ---
 name: airline-zustaendigkeit-pruefen
-description: "Airline-Mandat: unklar welche Behörde zuständig ist LBA EU-Behörde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zuständigkeits-Vermerk mit korrektem Antragsadressaten im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline-Mandat: unklar welche Behörde zuständig ist LBA EU-Behörde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zuständigkeits-Vermerk mit korrektem Antragsadressaten im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Airline – Zuständigkeit prüfen
 
 ## Arbeitsbereich
 
-Airline-Mandat: unklar welche Behörde zuständig ist LBA EU-Behörde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zuständigkeits-Vermerk mit korrektem Antragsadressaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline-Mandat: unklar welche Behörde zuständig ist LBA EU-Behörde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zuständigkeits-Vermerk mit korrektem Antragsadressaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

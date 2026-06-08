@@ -1,13 +1,13 @@
 ---
 name: anfechtungsfolgen-paragraphen-anspruchsaufbau
-description: "Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

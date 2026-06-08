@@ -7,7 +7,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Klageschrift Anschreiben AN Antrag Bestimmt** ordnet den Fall über die tragenden Prüfungslinien: Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Klageschrift Anschreiben AN Antrag Bestimmt** ordnet den Fall über die tragenden Prüfungslinien: Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

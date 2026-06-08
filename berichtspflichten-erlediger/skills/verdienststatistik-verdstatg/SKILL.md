@@ -1,13 +1,13 @@
 ---
 name: verdienststatistik-verdstatg
-description: "Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verdienststatistik und Entgeltdaten
 
 ## Arbeitsbereich
 
-Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

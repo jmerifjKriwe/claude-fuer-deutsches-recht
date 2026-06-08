@@ -1,13 +1,13 @@
 ---
 name: insiderliste-art18
-description: "Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insiderliste nach Art. 18 MAR
 
 ## Arbeitsbereich
 
-Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

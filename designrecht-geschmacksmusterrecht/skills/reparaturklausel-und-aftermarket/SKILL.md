@@ -1,13 +1,13 @@
 ---
 name: reparaturklausel-und-aftermarket
-description: "Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reparaturklausel Und Aftermarket
 
 ## Arbeitsbereich
 
-Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

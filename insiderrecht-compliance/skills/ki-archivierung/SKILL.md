@@ -1,13 +1,13 @@
 ---
 name: ki-archivierung
-description: "Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Prognosemodelle und Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

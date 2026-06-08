@@ -7,7 +7,7 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 
 ## Arbeitsbereich
 
-**Verhandlungsverfahren Dialog** ordnet den Fall über die tragenden Prüfungslinien: Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verhandlungsverfahren Dialog** ordnet den Fall über die tragenden Prüfungslinien: Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

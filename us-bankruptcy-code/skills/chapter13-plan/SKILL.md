@@ -1,13 +1,13 @@
 ---
 name: chapter13-plan
-description: "Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 13 Plan Confirmation
 
 ## Arbeitsbereich
 
-Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: aktuelle-lage-2026
-description: "Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktuelle Lage 2026
 
 ## Arbeitsbereich
 
-Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

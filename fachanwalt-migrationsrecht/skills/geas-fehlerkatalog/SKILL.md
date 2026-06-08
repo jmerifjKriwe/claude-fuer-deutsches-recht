@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Migrationsrecht** Ergebnisse
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-abschiebungsabwehr-sofort-arbeitgeber-arbeitsrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ba-zustimmung-beschaeftigungsduldung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `botschaft-visumtermin-workflow-chronologie-dokumentenstapel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `datenschutz-sicherheit-daueraufenthalt-eu-digitalbeweise-flucht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dublin-ueberstellung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `einbuergerung-lebensunterhalt-mehrstaatigkeit-strafen-einreise`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-abschiebungsabwehr-sofort-arbeitgeber-arbeitsrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ba-zustimmung-beschaeftigungsduldung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `botschaft-visumtermin-workflow-chronologie-dokumentenstapel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `datenschutz-sicherheit-daueraufenthalt-eu-digitalbeweise-flucht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dublin-ueberstellung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einbuergerung-lebensunterhalt-mehrstaatigkeit-strafen-einreise`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

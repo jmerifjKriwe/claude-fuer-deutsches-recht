@@ -1,13 +1,13 @@
 ---
 name: platform-takedown-registration-package
-description: "Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Platform Takedown Registration Package
 
 ## Arbeitsbereich
 
-Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

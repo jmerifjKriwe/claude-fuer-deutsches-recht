@@ -1,13 +1,13 @@
 ---
 name: bescheid-archivieren
-description: "Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anerkennungsbescheid archivieren
 
 ## Arbeitsbereich
 
-Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

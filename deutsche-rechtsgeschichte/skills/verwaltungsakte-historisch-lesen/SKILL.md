@@ -1,13 +1,13 @@
 ---
 name: verwaltungsakte-historisch-lesen
-description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsakte historisch lesen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

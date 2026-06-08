@@ -1,30 +1,40 @@
 ---
 name: trennungsunterhalt-bedarfspruefung-bgh-xii-zr-181-22
-description: Trennungsunterhalt Bedarfspruefung mit BGH XII ZR 181/22.
+description: "Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22
+
+## Einsatzlage
 
 Frau F verlangt 2.880 EUR Trennungsunterhalt vom Mann M; M verdient netto 5.500 EUR.
 
-## Normen
+## Normenanker
 
-- Paragraf 1361 BGB
+- §§ 1564 ff. BGB
+- § 1671 BGB
+- § 1684 BGB
+- §§ 1601 ff. BGB
+- §§ 1372 ff. BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 25.10.2023 XII ZB 286/21
-- BGH 13.11.2019 XII ZB 3/19
+- BGH 25.10.2023 XII ZB 286/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 13.11.2019 XII ZB 3/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Bedarf nach Lebensverhaeltnissen waehrend Ehe; 45 Prozent des bereinigten Erwerbseinkommens.
 
-## Schriftsatzkern
-
-Anspruch auf 2.475 EUR Unterhalt nach 45-Prozent-Regel.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Verdienstbescheinigungen
 - Steuererklaerung

@@ -7,7 +7,7 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüfungslinien: Neues Verkehrsrechtsmandat kommt rein und Anwalt muss, Substantiierter Schriftsatzkern für Klage Verkehrsunfall, Einspruch OWi-Bußgeldb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüfungslinien: Neues Verkehrsrechtsmandat kommt rein und Anwalt muss, Substantiierter Schriftsatzkern für Klage Verkehrsunfall, Einspruch OWi-Bußgeldb. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Versicherungsrecht** Ergebni
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `cyber-loesegeld-versr-cyber-deckungsanfrage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `deckungsklage-interessen-deckungspruefung-obliegenheiten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `do-deckungsabwehr-lebensversicherung-rueckkauf`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erstgespraech-mandatsannahme-berufsunfaehigkeit-klage`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-kanzlei-krankenversicherung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `klage-versicherer-triage-versicherungsrecht-schriftsatzkern`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `lebens-leistungsablehnung-international-obliegenheitsverletzung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ombudsmann-gdv-orientierung-regress-abwehr`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `private-spezial-pruefen-rechtsschutz-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `cyber-loesegeld-versr-cyber-deckungsanfrage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `deckungsklage-interessen-deckungspruefung-obliegenheiten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `do-deckungsabwehr-lebensversicherung-rueckkauf`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstgespraech-mandatsannahme-berufsunfaehigkeit-klage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-kanzlei-krankenversicherung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `klage-versicherer-triage-versicherungsrecht-schriftsatzkern`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `lebens-leistungsablehnung-international-obliegenheitsverletzung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ombudsmann-gdv-orientierung-regress-abwehr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `private-spezial-pruefen-rechtsschutz-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

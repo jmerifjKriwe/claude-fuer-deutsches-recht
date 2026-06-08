@@ -1,13 +1,13 @@
 ---
 name: bergung-fremder-weltraumgegenstaende-fundrecht-und-voe
-description: "Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht
 
 ## Arbeitsbereich
 
-Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

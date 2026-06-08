@@ -7,7 +7,7 @@ description: "DSV ART Besondere Aufnahme Statusinformation im Datenschutzrecht: 
 
 ## Arbeitsbereich
 
-**DSV ART Besondere Aufnahme Statusinformation** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall mit besonderen Kategorien, Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV ART Besondere Aufnahme Statusinformation** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall mit besonderen Kategorien, Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

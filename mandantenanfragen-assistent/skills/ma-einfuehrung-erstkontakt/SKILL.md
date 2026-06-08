@@ -1,13 +1,13 @@
 ---
 name: ma-einfuehrung-erstkontakt
-description: "Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erstkontakt: Typen
 
 ## Arbeitsbereich
 
-Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

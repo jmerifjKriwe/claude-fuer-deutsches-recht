@@ -1,13 +1,13 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster
 
 ## Arbeitsbereich
 
-Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

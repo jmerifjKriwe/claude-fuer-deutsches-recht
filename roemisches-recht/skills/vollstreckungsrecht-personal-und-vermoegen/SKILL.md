@@ -1,13 +1,13 @@
 ---
 name: vollstreckungsrecht-personal-und-vermoegen
-description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermoegen
 
 ## Arbeitsbereich
 
-Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

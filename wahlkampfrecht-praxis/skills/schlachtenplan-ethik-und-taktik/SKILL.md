@@ -1,13 +1,13 @@
 ---
 name: schlachtenplan-ethik-und-taktik
-description: "Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schlachtenplan Ethik Und Taktik
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

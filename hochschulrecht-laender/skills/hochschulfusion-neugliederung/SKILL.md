@@ -1,13 +1,13 @@
 ---
 name: hochschulfusion-neugliederung
-description: "Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hochschulfusion und Neugliederung
 
 ## Arbeitsbereich
 
-Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

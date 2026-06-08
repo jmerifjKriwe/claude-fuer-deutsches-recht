@@ -1,13 +1,13 @@
 ---
 name: contract-playbook-exporter
-description: "Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Contract Playbook für Exporteure
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

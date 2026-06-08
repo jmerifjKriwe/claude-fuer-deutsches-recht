@@ -1,13 +1,13 @@
 ---
 name: kirk-prompts-templates-versionierung-spezial
-description: "Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster für Knowledge-Management im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster für Knowledge-Management im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KIRK: Prompts Versionierung
 
 ## Arbeitsbereich
 
-Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster für Knowledge-Management. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster für Knowledge-Management. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: office-action-rueckfragen-45-tage
-description: "Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Office Actions und Rückfragen
 
 ## Arbeitsbereich
 
-Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

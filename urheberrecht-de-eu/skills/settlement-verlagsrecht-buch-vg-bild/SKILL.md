@@ -1,13 +1,13 @@
 ---
 name: settlement-verlagsrecht-buch-vg-bild
-description: "Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich und Settlement
 
 ## Arbeitsbereich
 
-Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: persoenlichkeitsrecht-stimme-deepfake
-description: "Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stimme, Deepfake und Persönlichkeit
 
 ## Arbeitsbereich
 
-Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

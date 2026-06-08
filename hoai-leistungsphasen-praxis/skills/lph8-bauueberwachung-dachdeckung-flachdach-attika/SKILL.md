@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Flachdach und Attika
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: beschlagnahme-oder-pfaendung-von-satellitenrechten
-description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten
 
 ## Arbeitsbereich
 
-Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

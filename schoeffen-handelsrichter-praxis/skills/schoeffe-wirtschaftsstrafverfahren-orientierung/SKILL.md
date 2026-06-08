@@ -1,13 +1,13 @@
 ---
 name: schoeffe-wirtschaftsstrafverfahren-orientierung
-description: "Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirtschaftsstrafverfahren für Schöffen: Orientierung
 
 ## Arbeitsbereich
 
-Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

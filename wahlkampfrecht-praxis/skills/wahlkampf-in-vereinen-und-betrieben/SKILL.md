@@ -1,13 +1,13 @@
 ---
 name: wahlkampf-in-vereinen-und-betrieben
-description: "Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # In Vereinen Und Betrieben
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: unterzeichnung-elektronisch-wandelereignis
-description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)
 
 ## Arbeitsbereich
 
-Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

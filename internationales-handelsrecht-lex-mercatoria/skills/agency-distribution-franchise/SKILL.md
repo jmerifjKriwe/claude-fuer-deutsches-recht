@@ -1,13 +1,13 @@
 ---
 name: agency-distribution-franchise
-description: "Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter, Vertriebsvertrag und Franchise
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

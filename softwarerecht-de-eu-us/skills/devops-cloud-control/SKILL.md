@@ -1,13 +1,13 @@
 ---
 name: devops-cloud-control
-description: "Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DevOps und Cloud Control
 
 ## Arbeitsbereich
 
-Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

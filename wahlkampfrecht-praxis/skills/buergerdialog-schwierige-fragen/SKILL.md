@@ -1,13 +1,13 @@
 ---
 name: buergerdialog-schwierige-fragen
-description: "Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Buergerdialog Schwierige Fragen
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

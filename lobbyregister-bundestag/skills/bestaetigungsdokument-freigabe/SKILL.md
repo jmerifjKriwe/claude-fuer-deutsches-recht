@@ -1,13 +1,13 @@
 ---
 name: bestaetigungsdokument-freigabe
-description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bestaetigungsdokument und Freigabe
 
 ## Arbeitsbereich
 
-Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

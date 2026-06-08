@@ -1,13 +1,13 @@
 ---
 name: intercreditor-und-sicherheitenagent
-description: "Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Intercreditor, Security Agent und Sicherheitenpool
 
 ## Arbeitsbereich
 
-Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

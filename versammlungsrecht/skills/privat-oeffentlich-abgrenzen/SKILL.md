@@ -1,13 +1,13 @@
 ---
 name: privat-oeffentlich-abgrenzen
-description: "Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Öffentlichkeit sauber bestimmen
 
 ## Arbeitsbereich
 
-Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

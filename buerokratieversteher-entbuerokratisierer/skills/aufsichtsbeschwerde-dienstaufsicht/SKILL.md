@@ -1,13 +1,13 @@
 ---
 name: aufsichtsbeschwerde-dienstaufsicht
-description: "Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichts- und Dienstaufsichtsbeschwerde
 
 ## Arbeitsbereich
 
-Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

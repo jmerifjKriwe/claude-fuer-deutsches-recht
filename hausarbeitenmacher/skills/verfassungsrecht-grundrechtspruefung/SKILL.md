@@ -1,13 +1,13 @@
 ---
 name: verfassungsrecht-grundrechtspruefung
-description: "Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungsrecht — Grundrechts-Prüfung
 
 ## Arbeitsbereich
 
-Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

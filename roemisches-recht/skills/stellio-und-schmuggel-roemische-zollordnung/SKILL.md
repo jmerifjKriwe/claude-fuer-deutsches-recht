@@ -1,13 +1,13 @@
 ---
 name: stellio-und-schmuggel-roemische-zollordnung
-description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 133 Stellio Und Schmuggel Roemische Zollordnung
 
 ## Arbeitsbereich
 
-Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

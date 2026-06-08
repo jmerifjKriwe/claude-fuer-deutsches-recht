@@ -1,13 +1,13 @@
 ---
 name: anpassen
-description: "Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gewerblicher Rechtsschutz: Plugin anpassen
 
 ## Arbeitsbereich
 
-Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

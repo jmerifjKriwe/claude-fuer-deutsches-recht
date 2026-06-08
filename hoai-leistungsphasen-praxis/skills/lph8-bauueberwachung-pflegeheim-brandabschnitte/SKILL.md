@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-pflegeheim-brandabschnitte
-description: "Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Pflegeheim Brandabschnitte (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

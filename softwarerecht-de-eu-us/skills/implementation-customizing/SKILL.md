@@ -1,13 +1,13 @@
 ---
 name: implementation-customizing
-description: "Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Implementation und Customizing
 
 ## Arbeitsbereich
 
-Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

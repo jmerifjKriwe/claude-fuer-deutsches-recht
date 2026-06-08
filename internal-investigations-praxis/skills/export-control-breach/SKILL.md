@@ -1,13 +1,13 @@
 ---
 name: export-control-breach
-description: "Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exportkontrollverstöße – Untersuchung und Meldepflichten
 
 ## Arbeitsbereich
 
-Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

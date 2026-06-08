@@ -1,13 +1,13 @@
 ---
 name: hochschulgesetz-brandenburg
-description: "Prüft Hochschulrecht in Brandenburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulrecht in Brandenburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hochschulgesetz Brandenburg
 
 ## Arbeitsbereich
 
-Prüft Hochschulrecht in Brandenburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulrecht in Brandenburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

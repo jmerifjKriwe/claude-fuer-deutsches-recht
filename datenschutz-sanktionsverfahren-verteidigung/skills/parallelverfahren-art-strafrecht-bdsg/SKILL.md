@@ -7,7 +7,7 @@ description: "Parallelverfahren ART Strafrecht BDSG im Datenschutz-Sanktionsverf
 
 ## Arbeitsbereich
 
-**Parallelverfahren ART Strafrecht BDSG** ordnet den Fall über die tragenden Prüfungslinien: Parallelverfahren Art, Parallelverfahren § 42 BDSG und Strafrecht, Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Parallelverfahren ART Strafrecht BDSG** ordnet den Fall über die tragenden Prüfungslinien: Parallelverfahren Art, Parallelverfahren § 42 BDSG und Strafrecht, Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

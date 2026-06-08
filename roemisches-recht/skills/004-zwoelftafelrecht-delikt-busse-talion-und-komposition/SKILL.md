@@ -1,13 +1,13 @@
 ---
 name: 004-zwoelftafelrecht-delikt-busse-talion-und-komposition
-description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

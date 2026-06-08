@@ -1,13 +1,13 @@
 ---
 name: schulhund-allergie-schulische-ordnungsakte
-description: "Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulhund, Allergie und Sicherheit
 
 ## Arbeitsbereich
 
-Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

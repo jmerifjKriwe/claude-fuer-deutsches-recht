@@ -1,13 +1,13 @@
 ---
 name: betraute-personen-datenschutz
-description: "Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betraute Personen
 
 ## Arbeitsbereich
 
-Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

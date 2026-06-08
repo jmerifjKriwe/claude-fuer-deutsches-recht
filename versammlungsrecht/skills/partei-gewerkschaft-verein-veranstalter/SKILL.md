@@ -1,13 +1,13 @@
 ---
 name: partei-gewerkschaft-verein-veranstalter
-description: "Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wer lädt eigentlich ein?
 
 ## Arbeitsbereich
 
-Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

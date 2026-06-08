@@ -7,7 +7,7 @@ description: "Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call
 
 ## Arbeitsbereich
 
-Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

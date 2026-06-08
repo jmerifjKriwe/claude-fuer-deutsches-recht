@@ -1,13 +1,13 @@
 ---
 name: rechtstheorie-rechtsphilosophie-seminararbeit
-description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung
 
 ## Arbeitsbereich
 
-Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

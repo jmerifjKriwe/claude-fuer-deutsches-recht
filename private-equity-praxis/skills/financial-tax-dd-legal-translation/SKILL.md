@@ -1,13 +1,13 @@
 ---
 name: financial-tax-dd-legal-translation
-description: "Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Financial/Tax DD für Legal Teams übersetzen
 
 ## Arbeitsbereich
 
-Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fragerecht-ohne-freispruch-zweifel
-description: "Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fragerecht ohne Vorwegnahme
 
 ## Arbeitsbereich
 
-Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

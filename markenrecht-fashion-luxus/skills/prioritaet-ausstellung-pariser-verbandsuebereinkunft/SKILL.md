@@ -1,13 +1,13 @@
 ---
 name: prioritaet-ausstellung-pariser-verbandsuebereinkunft
-description: "Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Priorität und Ausstellungspriorität
 
 ## Arbeitsbereich
 
-Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

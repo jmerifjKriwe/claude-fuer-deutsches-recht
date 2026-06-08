@@ -1,13 +1,13 @@
 ---
 name: bau-und-ladenbau-pflichten
-description: "Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Bau- und Ladenbau-Pflichten
 
 ## Arbeitsbereich
 
-Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

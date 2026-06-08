@@ -1,13 +1,13 @@
 ---
 name: satzungsaenderung-satzungszweck
-description: "Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Satzungsänderung
 
 ## Arbeitsbereich
 
-Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gastwissenschaftler-sanktionen-dual-use
-description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gastwissenschaftler, Sanktionen und Dual Use
 
 ## Arbeitsbereich
 
-Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

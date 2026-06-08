@@ -1,13 +1,13 @@
 ---
 name: monitor-privilege
-description: "Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Externer Compliance-Monitor und Monitor-Reporting
 
 ## Arbeitsbereich
 
-Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

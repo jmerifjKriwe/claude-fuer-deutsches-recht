@@ -1,13 +1,13 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-EU-Ebene und Better Regulation
 
 ## Arbeitsbereich
 
-Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: hybride-virtuelle-versammlung
-description: "Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hybride und virtuelle Versammlung
 
 ## Arbeitsbereich
 
-Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

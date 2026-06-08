@@ -1,13 +1,13 @@
 ---
 name: zwvw-mietverhaeltnis-bestand-leitfaden
-description: "Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster für Mieter und Verwalter im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster für Mieter und Verwalter im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwVw: Mietverhaeltnis Bestand
 
 ## Arbeitsbereich
 
-Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster für Mieter und Verwalter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster für Mieter und Verwalter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

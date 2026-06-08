@@ -1,13 +1,13 @@
 ---
 name: community-management
-description: "Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Community Management
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

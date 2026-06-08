@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

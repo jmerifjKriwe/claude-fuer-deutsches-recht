@@ -7,7 +7,7 @@ description: "GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maß
 
 ## Arbeitsbereich
 
-GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

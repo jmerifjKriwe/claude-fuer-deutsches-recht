@@ -1,13 +1,13 @@
 ---
 name: krisenuebung-kritis-bsig-leitungserklaerung
-description: "Prüft technische Krisenübung mit Restore und Kommunikationsausfall im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische Krisenübung mit Restore und Kommunikationsausfall im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krisenuebung
 
 ## Arbeitsbereich
 
-Prüft technische Krisenübung mit Restore und Kommunikationsausfall. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technische Krisenübung mit Restore und Kommunikationsausfall. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: kognitionsverfahren-mandatum-pecuniae-credendae
-description: "Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Das Kognitionsverfahren (cognitio extra ordinem)
 
 ## Arbeitsbereich
 
-Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

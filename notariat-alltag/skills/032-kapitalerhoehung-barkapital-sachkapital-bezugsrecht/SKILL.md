@@ -1,13 +1,13 @@
 ---
 name: 032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht
-description: "Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

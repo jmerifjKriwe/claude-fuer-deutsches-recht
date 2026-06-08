@@ -1,13 +1,13 @@
 ---
 name: paragraphen-cic-vorvertragliche-ergaenzende
-description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristenberechnung — §§ 186 bis 193 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

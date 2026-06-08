@@ -1,13 +1,13 @@
 ---
 name: attest-anforderungen-auslandsanerkennung
-description: "Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Attestanforderungen Hochschule
 
 ## Arbeitsbereich
 
-Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

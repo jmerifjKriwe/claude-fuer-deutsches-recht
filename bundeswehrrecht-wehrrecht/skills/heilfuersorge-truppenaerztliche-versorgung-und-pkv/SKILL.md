@@ -1,13 +1,13 @@
 ---
 name: heilfuersorge-truppenaerztliche-versorgung-und-pkv
-description: "Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Heilfürsorge, truppenärztliche Versorgung und PKV
 
 ## Arbeitsbereich
 
-Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

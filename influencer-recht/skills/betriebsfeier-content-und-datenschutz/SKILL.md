@@ -1,13 +1,13 @@
 ---
 name: betriebsfeier-content-und-datenschutz
-description: "Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Betriebsfeier, Content und Datenschutz
 
 ## Arbeitsbereich
 
-Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fair-use-fashion-jewelry-fixation-originality
-description: "Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fair Use Four Factors
 
 ## Arbeitsbereich
 
-Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

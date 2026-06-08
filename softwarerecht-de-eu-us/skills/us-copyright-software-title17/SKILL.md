@@ -1,13 +1,13 @@
 ---
 name: us-copyright-software-title17
-description: "Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US Copyright Software Title 17
 
 ## Arbeitsbereich
 
-Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: produktsicherheit-import-eu
-description: "Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktsicherheit beim EU-Import
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

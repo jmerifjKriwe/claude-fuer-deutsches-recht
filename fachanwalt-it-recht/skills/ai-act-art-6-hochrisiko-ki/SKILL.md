@@ -1,29 +1,42 @@
 ---
 name: ai-act-art-6-hochrisiko-ki
-description: AI Act Hochrisiko-KI Art 6.
+description: "AI Act Art 6 Hochrisiko KI: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# AI Act Art 6 Hochrisiko KI
+
+## Einsatzlage
 
 KI-System fuer Kreditvergabe wird eingefuehrt.
 
-## Normen
+## Normenanker
 
-- VO 2024/1689
+- Art. 6 HOCHRISIKO
+- Art. 33 DSGVO
+- Art. 34 DSGVO
+- Art. 9 DSGVO
+- Art. 56 DSGVO
+- Art. 32 DSGVO
+- § 32 BSIG
+- Art. 28 DSGVO
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- Erwaegungsgrund 56 AI Act
+- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Hochrisiko-Klassifikation; Konformitaetsbewertung erforderlich.
 
-## Schriftsatzkern
-
-Hochrisiko; Konformitaetsbewertung und CE-Kennzeichnung.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Risikoanalyse
 - Modelbeschreibung
@@ -50,4 +63,3 @@ Hochrisiko; Konformitaetsbewertung und CE-Kennzeichnung.
 - EuGH C-311/18
 - EuGH C-300/21
 - EuGH C-589/22
-

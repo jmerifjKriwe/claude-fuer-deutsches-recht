@@ -1,13 +1,13 @@
 ---
 name: anti-coercion-instrument-eu
-description: "EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
 
 ## Arbeitsbereich
 
-EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

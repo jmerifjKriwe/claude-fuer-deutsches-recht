@@ -1,13 +1,13 @@
 ---
 name: maschinenleasing-abnahme-medizintechnik
-description: "Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maschinenleasing: Abnahme, Wartung und Stillstand
 
 ## Arbeitsbereich
 
-Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

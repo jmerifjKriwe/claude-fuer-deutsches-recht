@@ -1,13 +1,13 @@
 ---
 name: anti-bribery-compliance-dd
-description: "Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ABC/Compliance DD
 
 ## Arbeitsbereich
 
-Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

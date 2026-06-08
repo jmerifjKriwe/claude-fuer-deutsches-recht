@@ -1,13 +1,13 @@
 ---
 name: usability-test-mit-betroffenen
-description: "Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Usability-Test mit Betroffenen
 
 ## Arbeitsbereich
 
-Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

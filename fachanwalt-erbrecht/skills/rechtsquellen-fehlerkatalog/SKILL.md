@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Erbrecht** Ergebnisse vor Ab
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `berater-interessen-beweislast-darlegungslast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erb-einfuehrung-erb-erstgespraech-erb-internationales`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erb-nachlassinventar-erb-pflichtteilsanspruch-erb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erbengemeinschaft-blockade-erstgespraech-mandatsannahme`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erbfall-eu-mandat-triage-pflichtteil-auskunft`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erbfall-intake-erbrecht-erbschein`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `erbschein-antrag-orientierung-pflichtteilsberechnung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fachanwalt-kanzlei-livecheck`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `krypto-wallet-erbschaftsteuer-steuerrecht`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `berater-interessen-beweislast-darlegungslast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erb-einfuehrung-erb-erstgespraech-erb-internationales`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erb-nachlassinventar-erb-pflichtteilsanspruch-erb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erbengemeinschaft-blockade-erstgespraech-mandatsannahme`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erbfall-eu-mandat-triage-pflichtteil-auskunft`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erbfall-intake-erbrecht-erbschein`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erbschein-antrag-orientierung-pflichtteilsberechnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `fachanwalt-kanzlei-livecheck`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `krypto-wallet-erbschaftsteuer-steuerrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

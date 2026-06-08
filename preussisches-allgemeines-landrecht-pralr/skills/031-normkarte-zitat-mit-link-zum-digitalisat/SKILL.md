@@ -7,7 +7,7 @@ description: "PrALR: Normkarte Zitat mit Link zum Digitalisat im Preußisches Al
 
 ## Arbeitsbereich
 
-PrALR: Normkarte Zitat mit Link zum Digitalisat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normkarte Zitat mit Link zum Digitalisat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: betreuung-grenzueberschreitend-betreuungsantrag
-description: "Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzueberschreitende Betreuung
 
 ## Arbeitsbereich
 
-Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

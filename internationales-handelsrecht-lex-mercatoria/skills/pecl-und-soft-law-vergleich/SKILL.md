@@ -1,13 +1,13 @@
 ---
 name: pecl-und-soft-law-vergleich
-description: "Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PECL, DCFR und PICC: Soft-Law-Vergleich
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

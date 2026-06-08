@@ -1,13 +1,13 @@
 ---
 name: einleitungssatz-generator
-description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einleitungssatz-Generator
 
 ## Arbeitsbereich
 
-Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren
 
 ## Arbeitsbereich
 
-Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

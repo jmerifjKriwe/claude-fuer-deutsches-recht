@@ -1,13 +1,13 @@
 ---
 name: internationale-harmonisierung-japan-corporate
-description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme) im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationale Harmonisierung Konzern-BAV
 
 ## Arbeitsbereich
 
-Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: evidence-preservation-china
-description: "Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe
 
 ## Arbeitsbereich
 
-Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: phishing-spoofing-internationaler-bezug-schnittstellen
-description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer im Phishing Vorfall Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spoofing Internationaler Bezug Schnittstellen

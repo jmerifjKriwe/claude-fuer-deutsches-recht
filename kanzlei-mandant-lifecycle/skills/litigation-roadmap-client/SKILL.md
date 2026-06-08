@@ -1,13 +1,13 @@
 ---
 name: litigation-roadmap-client
-description: "Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Litigation Roadmap für Mandanten
 
 ## Arbeitsbereich
 
-Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

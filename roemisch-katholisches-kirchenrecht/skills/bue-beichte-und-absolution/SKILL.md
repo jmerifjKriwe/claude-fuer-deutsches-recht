@@ -7,7 +7,7 @@ description: "Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprech
 
 ## Arbeitsbereich
 
-Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis; CIC can. 959-997; KKK 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis; CIC can. 959-997; KKK 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

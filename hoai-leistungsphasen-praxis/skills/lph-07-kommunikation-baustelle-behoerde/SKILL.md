@@ -1,13 +1,13 @@
 ---
 name: lph-07-kommunikation-baustelle-behoerde
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Formuliert klare e-mails an bauherr
 
 ## Arbeitsbereich
 
-HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

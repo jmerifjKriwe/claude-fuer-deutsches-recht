@@ -1,6 +1,6 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wettbewerb Flaschenhaelse

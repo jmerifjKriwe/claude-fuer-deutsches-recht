@@ -1,6 +1,6 @@
 ---
 name: versionierung
-description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VAF Versionierung

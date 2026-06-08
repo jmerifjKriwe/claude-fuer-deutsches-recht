@@ -7,7 +7,7 @@ description: "Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, V
 
 ## Arbeitsbereich
 
-Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

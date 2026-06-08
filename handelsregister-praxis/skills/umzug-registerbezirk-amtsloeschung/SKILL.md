@@ -1,13 +1,13 @@
 ---
 name: umzug-registerbezirk-amtsloeschung
-description: "Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sitzverlegung und Registerbezirk
 
 ## Arbeitsbereich
 
-Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

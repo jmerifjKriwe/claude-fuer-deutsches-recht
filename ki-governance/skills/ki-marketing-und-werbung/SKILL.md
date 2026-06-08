@@ -1,13 +1,13 @@
 ---
 name: ki-marketing-und-werbung
-description: "KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-und Reviewer-Checkliste im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-und Reviewer-Checkliste im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI: Marketing und Werbung
 
 ## Arbeitsbereich
 
-KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-und Reviewer-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-und Reviewer-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

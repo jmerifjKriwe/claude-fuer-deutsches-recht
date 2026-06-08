@@ -7,7 +7,7 @@ description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ue
 
 ## Arbeitsbereich
 
-Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket für BAFA-Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket für BAFA-Genehmigungsantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

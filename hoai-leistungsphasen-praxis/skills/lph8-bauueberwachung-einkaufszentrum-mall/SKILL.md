@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-einkaufszentrum-mall
-description: "Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Einkaufszentrum Mall (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

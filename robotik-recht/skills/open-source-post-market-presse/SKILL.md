@@ -1,13 +1,13 @@
 ---
 name: open-source-post-market-presse
-description: "Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open Source und SBOM
 
 ## Arbeitsbereich
 
-Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

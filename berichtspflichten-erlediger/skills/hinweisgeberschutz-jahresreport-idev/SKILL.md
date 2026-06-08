@@ -1,13 +1,13 @@
 ---
 name: hinweisgeberschutz-jahresreport-idev
-description: "Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # HinSchG Reporting und Fallregister
 
 ## Arbeitsbereich
 
-Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

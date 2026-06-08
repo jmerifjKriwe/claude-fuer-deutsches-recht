@@ -1,13 +1,13 @@
 ---
 name: vertiefung-01-streitstand-ohne-blindzitat
-description: "Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertiefung: Streitstand ohne Blindzitat
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

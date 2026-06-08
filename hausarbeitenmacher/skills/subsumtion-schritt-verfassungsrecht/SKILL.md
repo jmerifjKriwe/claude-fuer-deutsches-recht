@@ -1,13 +1,13 @@
 ---
 name: subsumtion-schritt-verfassungsrecht
-description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subsumtion Schritt für Schritt
 
 ## Arbeitsbereich
 
-Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

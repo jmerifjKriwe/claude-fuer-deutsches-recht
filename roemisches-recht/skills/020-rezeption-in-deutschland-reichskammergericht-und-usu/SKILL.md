@@ -1,13 +1,13 @@
 ---
 name: 020-rezeption-in-deutschland-reichskammergericht-und-usu
-description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Rezeption In Deutschland Reichskammergericht Und Usu
 
 ## Arbeitsbereich
 
-Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

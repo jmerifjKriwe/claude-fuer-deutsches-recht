@@ -1,13 +1,13 @@
 ---
 name: asymmetrische-demobilisierung
-description: "Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Asymmetrische Demobilisierung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: negotiation-playbook-pe
-description: "Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Negotiation Playbook PE
 
 ## Arbeitsbereich
 
-Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

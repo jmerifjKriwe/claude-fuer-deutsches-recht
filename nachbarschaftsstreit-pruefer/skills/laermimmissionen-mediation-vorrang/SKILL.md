@@ -1,13 +1,13 @@
 ---
 name: laermimmissionen-mediation-vorrang
-description: "Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nach: Laermimmissionen
 
 ## Arbeitsbereich
 
-Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

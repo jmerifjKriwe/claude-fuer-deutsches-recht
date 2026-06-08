@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-abweichungsvereinbarung-objektive-beweislast
-description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB
 
 ## Arbeitsbereich
 
-Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

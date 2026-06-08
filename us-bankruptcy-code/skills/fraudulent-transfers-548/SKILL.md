@@ -1,13 +1,13 @@
 ---
 name: fraudulent-transfers-548
-description: "Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fraudulent Transfers § 548
 
 ## Arbeitsbereich
 
-Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

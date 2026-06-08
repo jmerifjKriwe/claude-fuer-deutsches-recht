@@ -1,13 +1,13 @@
 ---
 name: 002-beurkundung-oder-unterschriftsbeglaubigung-richtig
-description: "Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

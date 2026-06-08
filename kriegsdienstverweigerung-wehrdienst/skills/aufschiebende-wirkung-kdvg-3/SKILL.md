@@ -1,13 +1,13 @@
 ---
 name: aufschiebende-wirkung-kdvg-3
-description: "Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3 im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3 im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wirkung des Antrags
 
 ## Arbeitsbereich
 
-Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

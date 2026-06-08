@@ -1,13 +1,13 @@
 ---
 name: recherche-nach-schutzgegenstand-ausschluesse
-description: "Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recherche Nach Paragraph 7 Gebrmg
 
 ## Arbeitsbereich
 
-Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rechtsbeistand-im-disziplinarverfahren
-description: "Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsbeistand im Disziplinarverfahren
 
 ## Arbeitsbereich
 
-Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

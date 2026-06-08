@@ -1,13 +1,13 @@
 ---
 name: actio-denken-und-rechtsmechanik
-description: "Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Actio-Denken und Rechtsmechanik
 
 ## Arbeitsbereich
 
-Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

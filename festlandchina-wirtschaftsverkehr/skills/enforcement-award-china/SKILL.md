@@ -1,13 +1,13 @@
 ---
 name: enforcement-award-china
-description: "Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollstreckung in China: Schiedssprüche und ausländische Urteile
 
 ## Arbeitsbereich
 
-Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

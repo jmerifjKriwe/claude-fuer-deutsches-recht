@@ -1,13 +1,13 @@
 ---
 name: governance-und-anpassungsmechanismen
-description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill) im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
 
 ## Arbeitsbereich
 
-Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

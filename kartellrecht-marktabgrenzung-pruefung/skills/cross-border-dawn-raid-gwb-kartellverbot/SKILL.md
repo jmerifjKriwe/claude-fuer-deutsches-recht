@@ -7,7 +7,7 @@ description: "Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht
 
 ## Arbeitsbereich
 
-Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

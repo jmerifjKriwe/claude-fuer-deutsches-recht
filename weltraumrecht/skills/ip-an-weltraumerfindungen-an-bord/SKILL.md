@@ -1,13 +1,13 @@
 ---
 name: ip-an-weltraumerfindungen-an-bord
-description: "Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: IP an Weltraumerfindungen an Bord
 
 ## Arbeitsbereich
 
-Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

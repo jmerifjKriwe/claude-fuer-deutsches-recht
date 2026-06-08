@@ -1,13 +1,13 @@
 ---
 name: soldatinnen-und-kdv
-description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Soldatinnen und KDV
 
 ## Arbeitsbereich
 
-Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

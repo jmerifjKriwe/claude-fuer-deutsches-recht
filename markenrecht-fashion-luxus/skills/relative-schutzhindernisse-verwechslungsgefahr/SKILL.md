@@ -1,13 +1,13 @@
 ---
 name: relative-schutzhindernisse-verwechslungsgefahr
-description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Relative Schutzhindernisse und Verwechslungsgefahr
 
 ## Arbeitsbereich
 
-Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,12 +7,12 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `anlageberatungsfehler-pruefen` | Prüfungslinie für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anlageberatungsfehler-pruefen` | Anlageberatungsfehler Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `bankrecht-akkreditiv-standby-lc-dokumentenstreit` | Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung. |
 | `bankrecht-buergschaft-auf-erste-anforderung` | Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress. |
 
@@ -27,7 +27,7 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 
 ## 1. `anlageberatungsfehler-pruefen`
 
-**Fokus:** Prüfungslinie für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Anlageberatungsfehler Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Anlageberatungsfehler prüfen
 

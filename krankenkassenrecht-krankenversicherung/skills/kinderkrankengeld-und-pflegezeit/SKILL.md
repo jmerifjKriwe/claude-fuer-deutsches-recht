@@ -7,7 +7,7 @@ description: "Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung d
 
 ## Arbeitsbereich
 
-Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: pflege-beihilfe-pflegeversicherung-beamte
-description: "Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # pflege-beihilfe-pflegeversicherung-beamte
 
 ## Arbeitsbereich
 
-Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

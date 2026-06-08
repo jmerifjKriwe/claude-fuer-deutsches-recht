@@ -1,13 +1,13 @@
 ---
 name: arbeitsgerichtsverfahren-modus-terminkalender
-description: "Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsgerichtsverfahren-Modus (ArbGG)
 
 ## Arbeitsbereich
 
-Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

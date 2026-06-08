@@ -7,7 +7,7 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 
 ## Arbeitsbereich
 
-**AVV Haftung Datenschutz Schadensersatz Dsfa** ordnet den Fall über die tragenden Prüfungslinien: Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**AVV Haftung Datenschutz Schadensersatz Dsfa** ordnet den Fall über die tragenden Prüfungslinien: Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

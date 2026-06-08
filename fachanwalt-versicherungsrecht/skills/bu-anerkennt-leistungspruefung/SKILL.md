@@ -7,7 +7,7 @@ description: "Versr BU Anerkennt Leistungspruefung im Plugin Fachanwalt Versiche
 
 ## Arbeitsbereich
 
-**Versr BU Anerkennt Leistungspruefung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Berufsunfaehigkeitsversicherung, Spezialfall BU-Leistungspruefung, BU-Anerkenntnis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Versr BU Anerkennt Leistungspruefung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Berufsunfaehigkeitsversicherung, Spezialfall BU-Leistungspruefung, BU-Anerkenntnis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

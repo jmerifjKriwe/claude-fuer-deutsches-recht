@@ -1,13 +1,13 @@
 ---
 name: amateurfunk-satellit-und-frequenznutzung
-description: "Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung
 
 ## Arbeitsbereich
 
-Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

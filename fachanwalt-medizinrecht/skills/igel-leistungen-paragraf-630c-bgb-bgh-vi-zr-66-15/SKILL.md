@@ -1,28 +1,39 @@
 ---
 name: igel-leistungen-paragraf-630c-bgb-bgh-vi-zr-66-15
-description: IGEL-Leistungen Aufklaerungspflicht Paragraf 630c BGB.
+description: "Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15
+
+## Einsatzlage
 
 Patient erhaelt IGEL-Leistung ohne Aufklaerung ueber Kostenpflicht.
 
-## Normen
+## Normenanker
 
-- Paragraf 630c BGB
+- § 630c BGB
+- §§ 630a ff. BGB
+- § 630e BGB
+- § 630h BGB
+- § 7 MBO-Ä
+- § 115b SGB V
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 28.02.2017 VI ZR 66/15
+- BGH 28.02.2017 VI ZR 66/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Wirtschaftliche Aufklaerung schriftlich; sonst kein Vergueterungsanspruch.
 
-## Schriftsatzkern
-
-Aufklaerungsmangel; Honorar nicht geschuldet.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Schriftliche IGEL-Vereinbarung

@@ -1,13 +1,13 @@
 ---
 name: arbeitszeugnis-standard-und-code
-description: "Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitszeugnis Standard Und Code
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

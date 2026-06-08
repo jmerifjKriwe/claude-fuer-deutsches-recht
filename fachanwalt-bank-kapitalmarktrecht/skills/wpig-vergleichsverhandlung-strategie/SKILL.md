@@ -7,14 +7,14 @@ description: "Wpig Vergleichsverhandlung Strategie im Plugin Fachanwalt Bank Kap
 
 ## Arbeitsbereich
 
-**Wpig Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüfungslinien: Wpig, Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Wpig Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüfungslinien: Wpig, Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-wpig-risikoampel-und-gegenargumente` | Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `widerrufsjoker-immobiliendarlehen` | Prüfungslinie für widerrufsjoker immobiliendarlehen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `widerrufsjoker-immobiliendarlehen` | Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -240,7 +240,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `widerrufsjoker-immobiliendarlehen`
 
-**Fokus:** Prüfungslinie für widerrufsjoker immobiliendarlehen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Widerrufsjoker bei Immobiliendarlehen
 

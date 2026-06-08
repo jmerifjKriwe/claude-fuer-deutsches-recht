@@ -1,13 +1,13 @@
 ---
 name: reaktion-internationaler-bezug-und-schnittstellen
-description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Internationaler Bezug und Schnittstellen
 
 ## Arbeitsbereich
 
-Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

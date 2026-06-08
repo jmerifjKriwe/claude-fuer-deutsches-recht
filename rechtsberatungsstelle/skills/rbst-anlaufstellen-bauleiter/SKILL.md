@@ -1,13 +1,13 @@
 ---
 name: rbst-anlaufstellen-bauleiter
-description: "Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster für Mandant und Sozialberatung im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster für Mandant und Sozialberatung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # RBst: Anlaufstellen Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster für Mandant und Sozialberatung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster für Mandant und Sozialberatung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

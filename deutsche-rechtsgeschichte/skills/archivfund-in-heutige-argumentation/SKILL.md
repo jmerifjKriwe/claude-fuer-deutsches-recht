@@ -1,13 +1,13 @@
 ---
 name: archivfund-in-heutige-argumentation
-description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Archivfund in heutige Argumentation
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

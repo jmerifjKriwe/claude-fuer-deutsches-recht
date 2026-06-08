@@ -1,13 +1,13 @@
 ---
 name: rechtsbehelfsbelehrung-pruefungsbescheid
-description: "Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsbehelfsbelehrung Prüfungsbescheid
 
 ## Arbeitsbereich
 
-Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: besold-landesbesoldung-foederalismus-und-synopse
-description: "Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Landesbesoldung Foederalismus Und Synopse
 
 ## Arbeitsbereich
 
-Beamtenrecht: Landesbesoldung Föderalismus und Synopse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Landesbesoldung Föderalismus und Synopse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

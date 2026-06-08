@@ -1,13 +1,13 @@
 ---
 name: plagiatsanalyse-musik-text
-description: "Prueft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plagiatsanalyse Musik und Text
 
 ## Arbeitsbereich
 
-Prueft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

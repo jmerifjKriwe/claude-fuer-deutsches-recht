@@ -1,13 +1,13 @@
 ---
 name: versicherung-objekt-untergang-und-ersatz
-description: "Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherung im Leasingrecht: Untergang und Ersatz
 
 ## Arbeitsbereich
 
-Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

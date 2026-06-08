@@ -1,13 +1,13 @@
 ---
 name: fristenkalender-kdv
-description: "Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13 im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13 im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristenkalender KDV
 
 ## Arbeitsbereich
 
-Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: grundbuchamt-vollstreckungsunterwerfung
-description: "Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung im Grundbuchamt Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterwerfung und Vollstreckung
 
 ## Arbeitsbereich
 
-Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

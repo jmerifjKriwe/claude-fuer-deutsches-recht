@@ -1,13 +1,13 @@
 ---
 name: warranty-defects
-description: "Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Softwaremängel und Gewährleistung
 
 ## Arbeitsbereich
 
-Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

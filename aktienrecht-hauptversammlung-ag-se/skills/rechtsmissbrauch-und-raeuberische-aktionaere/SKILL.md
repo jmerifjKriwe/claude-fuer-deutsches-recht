@@ -7,7 +7,7 @@ description: "Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Akti
 
 ## Arbeitsbereich
 
-Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

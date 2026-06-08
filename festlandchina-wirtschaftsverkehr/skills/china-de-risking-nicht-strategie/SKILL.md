@@ -1,13 +1,13 @@
 ---
 name: china-de-risking-nicht-strategie
-description: "Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # De-risking statt Decoupling: Strategie und operative Umsetzung
 
 ## Arbeitsbereich
 
-Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: local-counsel-loeschung-erwiderung
-description: "Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Local Counsel Briefing Ausland
 
 ## Arbeitsbereich
 
-Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

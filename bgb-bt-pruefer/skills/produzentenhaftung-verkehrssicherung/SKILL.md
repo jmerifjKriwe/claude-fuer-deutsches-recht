@@ -1,13 +1,13 @@
 ---
 name: produzentenhaftung-verkehrssicherung
-description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produzentenhaftung und Verkehrssicherung
 
 ## Arbeitsbereich
 
-Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

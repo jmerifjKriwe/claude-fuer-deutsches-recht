@@ -1,13 +1,13 @@
 ---
 name: sanctions-cartel
-description: "Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie
 
 ## Arbeitsbereich
 
-Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

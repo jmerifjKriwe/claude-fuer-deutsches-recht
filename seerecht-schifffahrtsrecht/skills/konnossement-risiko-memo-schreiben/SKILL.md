@@ -1,13 +1,13 @@
 ---
 name: konnossement-risiko-memo-schreiben
-description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: open-source-urheberrecht-und-lizenzkette
-description: "Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open Source Rechtekette
 
 ## Arbeitsbereich
 
-Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

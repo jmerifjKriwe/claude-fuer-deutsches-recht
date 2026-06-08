@@ -7,7 +7,7 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüfungslinien: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüfungslinien: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

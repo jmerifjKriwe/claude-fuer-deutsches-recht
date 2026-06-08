@@ -1,13 +1,13 @@
 ---
 name: abmahnung-uwg
-description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UWG-Abmahnung – Erstellung und Prüfung
 
 ## Arbeitsbereich
 
-Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

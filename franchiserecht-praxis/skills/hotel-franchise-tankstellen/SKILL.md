@@ -1,13 +1,13 @@
 ---
 name: hotel-franchise-tankstellen
-description: "Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung
 
 ## Arbeitsbereich
 
-Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

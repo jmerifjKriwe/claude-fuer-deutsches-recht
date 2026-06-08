@@ -1,13 +1,13 @@
 ---
 name: mandat-arbeitsbereich
-description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandatsarbeitsbereich
 
 ## Arbeitsbereich
 
-Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

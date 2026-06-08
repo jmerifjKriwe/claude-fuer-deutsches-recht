@@ -1,13 +1,13 @@
 ---
 name: uebertragung-sicherheit-us-provisional
-description: "Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Uebertragung Und Sicherheit
 
 ## Arbeitsbereich
 
-Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vertraulichkeit-sprachklausel
-description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertraulichkeit und Sprachklausel
 
 ## Arbeitsbereich
 
-Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

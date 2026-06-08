@@ -1,13 +1,13 @@
 ---
 name: drittversuch-und-haertefall
-description: "Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drittversuch Und Haertefall
 
 ## Arbeitsbereich
 
-Prüft Drittversuch, Härtefall und zusätzliche Wiederholung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Drittversuch, Härtefall und zusätzliche Wiederholung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

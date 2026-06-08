@@ -1,13 +1,13 @@
 ---
 name: exportkontrolle-forschung
-description: "Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exportkontrolle in der Forschung
 
 ## Arbeitsbereich
 
-Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

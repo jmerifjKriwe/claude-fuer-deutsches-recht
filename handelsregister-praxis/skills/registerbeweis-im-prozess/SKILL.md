@@ -1,13 +1,13 @@
 ---
 name: registerbeweis-im-prozess
-description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerbeweis im Zivilprozess
 
 ## Arbeitsbereich
 
-Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: bf-mediendienste-untertitel-spezial
-description: "Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Pruefraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos) im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Pruefraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos) im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BF: Mediendienste-Spezial
 
 ## Arbeitsbereich
 
-Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Pruefraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Pruefraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

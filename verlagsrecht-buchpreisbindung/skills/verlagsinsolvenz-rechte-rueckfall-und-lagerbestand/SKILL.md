@@ -7,7 +7,7 @@ description: "Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten a
 
 ## Arbeitsbereich
 
-Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: richterdienst-drig-grundlagen
-description: "Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterdienst Drig Grundlagen
 
 ## Arbeitsbereich
 
-Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

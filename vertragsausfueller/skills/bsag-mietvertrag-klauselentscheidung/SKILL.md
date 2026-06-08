@@ -1,13 +1,13 @@
 ---
 name: bsag-mietvertrag-klauselentscheidung
-description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BSAG-Mietvertrag
 
 ## Arbeitsbereich
 
-BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

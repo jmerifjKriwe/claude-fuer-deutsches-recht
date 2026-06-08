@@ -1,13 +1,13 @@
 ---
 name: tastatur-fokus-ueberwachungsstelle
-description: "Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tastatur, Fokus, Navigation
 
 ## Arbeitsbereich
 
-Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

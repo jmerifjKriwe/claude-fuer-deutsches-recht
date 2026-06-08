@@ -1,13 +1,13 @@
 ---
 name: backup-ransomware-banking-dual-besonders
-description: "Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Backup Ransomware Resilience
 
 ## Arbeitsbereich
 
-Prüft Backup-Strategie gegen Ransomware. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Backup-Strategie gegen Ransomware. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

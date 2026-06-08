@@ -1,13 +1,13 @@
 ---
 name: ki-dienstleister-43e-brao-praxis
-description: "Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis
 
 ## Arbeitsbereich
 
-Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

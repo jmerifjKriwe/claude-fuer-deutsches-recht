@@ -1,13 +1,13 @@
 ---
 name: buergschaft-auf-erste-anforderung-bank
-description: "Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bürgschaft auf erste Anforderung
 
 ## Arbeitsbereich
 
-Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

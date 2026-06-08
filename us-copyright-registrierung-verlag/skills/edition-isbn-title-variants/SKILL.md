@@ -1,13 +1,13 @@
 ---
 name: edition-isbn-title-variants
-description: "Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Edition, ISBN und Titelvarianten
 
 ## Arbeitsbereich
 
-Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

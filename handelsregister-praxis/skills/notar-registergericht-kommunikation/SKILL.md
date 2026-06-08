@@ -1,13 +1,13 @@
 ---
 name: notar-registergericht-kommunikation
-description: "Erstellt klare Nachreichungslisten, Telefonnotizen, E-Mail-Entwürfe und Mandantenupdates ohne Schuldzuweisungschaos im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt klare Nachreichungslisten, Telefonnotizen, E-Mail-Entwürfe und Mandantenupdates ohne Schuldzuweisungschaos im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notar und Registergericht steuern
 
 ## Arbeitsbereich
 
-Erstellt klare Nachreichungslisten, Telefonnotizen, E-Mail-Entwürfe und Mandantenupdates ohne Schuldzuweisungschaos. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt klare Nachreichungslisten, Telefonnotizen, E-Mail-Entwürfe und Mandantenupdates ohne Schuldzuweisungschaos. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-aktenanlage
-description: "Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsakte-Template Fristenuebersicht Excel-Export Akten-Checkliste. Abgrenzung: strafbefehl-kommandocenter für uebergreifende Mandats-Steuerung im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsakte-Template Fristenuebersicht Excel-Export Akten-Checkliste. Abgrenzung: strafbefehl-kommandocenter für uebergreifende Mandats-Steuerung im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenanlage im Strafbefehlsverfahren
 
 ## Arbeitsbereich
 
-Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsakte-Template Fristenuebersicht Excel-Export Akten-Checkliste. Abgrenzung: strafbefehl-kommandocenter für uebergreifende Mandats-Steuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsakte-Template Fristenuebersicht Excel-Export Akten-Checkliste. Abgrenzung: strafbefehl-kommandocenter für uebergreifende Mandats-Steuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

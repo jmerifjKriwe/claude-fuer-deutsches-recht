@@ -1,13 +1,13 @@
 ---
 name: argumente-die-nicht-tragen
-description: "Markiert KDV-schwache Argumente und passende Alternativwege im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markiert KDV-schwache Argumente und passende Alternativwege im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Argumente die nicht tragen
 
 ## Arbeitsbereich
 
-Markiert KDV-schwache Argumente und passende Alternativwege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Markiert KDV-schwache Argumente und passende Alternativwege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

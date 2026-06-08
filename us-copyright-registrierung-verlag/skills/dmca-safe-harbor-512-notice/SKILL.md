@@ -1,13 +1,13 @@
 ---
 name: dmca-safe-harbor-512-notice
-description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DMCA Safe Harbor § 512 Notice
 
 ## Arbeitsbereich
 
-Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

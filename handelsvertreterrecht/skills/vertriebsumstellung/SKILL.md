@@ -1,13 +1,13 @@
 ---
 name: vertriebsumstellung
-description: "Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB
 
 ## Arbeitsbereich
 
-Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

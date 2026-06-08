@@ -1,13 +1,13 @@
 ---
 name: sammelanmeldung-locarno-schutzgegenstand
-description: "Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sammelanmeldung Und Locarno Klasse
 
 ## Arbeitsbereich
 
-Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

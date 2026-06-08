@@ -7,13 +7,13 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 
 ## Arbeitsbereich
 
-**Erstgespraech Mandatsannahme FA Vwgo** ordnet den Fall über die tragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Erstgespraech Mandatsannahme FA Vwgo** ordnet den Fall über die tragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Fa VwGO Widerspruchsbescheid Abschleppen Oepnv: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-verwaltungsrecht-anfechtungsklage` | Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
 ## Arbeitsweg
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`
 
-**Fokus:** Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fa VwGO Widerspruchsbescheid Abschleppen Oepnv: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
 

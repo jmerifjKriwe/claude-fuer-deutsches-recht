@@ -1,13 +1,13 @@
 ---
 name: brand-enforcement-markenportfolio
-description: "Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Brand Enforcement Abmahnung
 
 ## Arbeitsbereich
 
-Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

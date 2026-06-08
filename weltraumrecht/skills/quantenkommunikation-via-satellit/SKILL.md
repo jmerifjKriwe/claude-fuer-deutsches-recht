@@ -1,13 +1,13 @@
 ---
 name: quantenkommunikation-via-satellit
-description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild für Quantenkommunikations-Mandate im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild für Quantenkommunikations-Mandate im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quantenkommunikation via Satellit
 
 ## Arbeitsbereich
 
-Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild für Quantenkommunikations-Mandate. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild für Quantenkommunikations-Mandate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

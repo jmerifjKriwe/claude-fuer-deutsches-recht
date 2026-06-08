@@ -1,13 +1,13 @@
 ---
 name: title11-map-chapters
-description: "Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Title 11 Chapters Map
 
 ## Arbeitsbereich
 
-Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

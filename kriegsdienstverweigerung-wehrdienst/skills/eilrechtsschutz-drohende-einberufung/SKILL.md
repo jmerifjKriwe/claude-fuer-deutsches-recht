@@ -1,13 +1,13 @@
 ---
 name: eilrechtsschutz-drohende-einberufung
-description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eilrechtsschutz bei Einberufung
 
 ## Arbeitsbereich
 
-Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bodeneigentuemer-startplatz-laerm-erschuetterung-und-n
-description: "Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht
 
 ## Arbeitsbereich
 
-Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

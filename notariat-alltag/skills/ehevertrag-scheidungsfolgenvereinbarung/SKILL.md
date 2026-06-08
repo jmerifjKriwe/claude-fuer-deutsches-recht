@@ -1,13 +1,13 @@
 ---
 name: ehevertrag-scheidungsfolgenvereinbarung
-description: "Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

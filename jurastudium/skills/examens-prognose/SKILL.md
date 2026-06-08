@@ -1,13 +1,13 @@
 ---
 name: examens-prognose
-description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Examensprognose / JPA-Statistik
 
 ## Arbeitsbereich
 
-Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

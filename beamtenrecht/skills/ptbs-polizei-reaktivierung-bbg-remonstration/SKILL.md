@@ -1,13 +1,13 @@
 ---
 name: ptbs-polizei-reaktivierung-bbg-remonstration
-description: "Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PTBS und Dienstunfall im Vollzugsdienst
 
 ## Arbeitsbereich
 
-Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

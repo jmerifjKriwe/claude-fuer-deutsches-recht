@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-querverweis
-description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht im Selbstvertreter Amtsgericht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht im Selbstvertreter Amtsgericht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsvollstreckung Querverweis

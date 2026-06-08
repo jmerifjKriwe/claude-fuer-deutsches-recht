@@ -7,7 +7,7 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 
 ## Arbeitsbereich
 
-**Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS** ordnet den Fall über die tragenden Prüfungslinien: Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS** ordnet den Fall über die tragenden Prüfungslinien: Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: geheime-abstimmung-geschaeftsordnung
-description: "Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geheime Abstimmung
 
 ## Arbeitsbereich
 
-Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vfgr-bundestreue-foederalismus
-description: "Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VfgR: Bundestreue Foederalismus
 
 ## Arbeitsbereich
 
-Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 
 ## Arbeitsbereich
 
-**Facto** ordnet den Fall über die tragenden Prüfungslinien: De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen (Architekten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Facto** ordnet den Fall über die tragenden Prüfungslinien: De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen (Architekten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

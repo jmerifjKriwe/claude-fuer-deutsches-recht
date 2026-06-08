@@ -1,13 +1,13 @@
 ---
 name: data-act-bei-backup-export
-description: "Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht
 
 ## Arbeitsbereich
 
-Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

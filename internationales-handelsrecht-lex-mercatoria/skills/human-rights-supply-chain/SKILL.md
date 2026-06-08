@@ -1,13 +1,13 @@
 ---
 name: human-rights-supply-chain
-description: "Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Menschenrechte in der Lieferkette
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

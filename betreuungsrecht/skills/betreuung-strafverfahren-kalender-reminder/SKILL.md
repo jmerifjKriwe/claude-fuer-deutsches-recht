@@ -1,13 +1,13 @@
 ---
 name: betreuung-strafverfahren-kalender-reminder
-description: "Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreuung im Strafverfahren
 
 ## Arbeitsbereich
 
-Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

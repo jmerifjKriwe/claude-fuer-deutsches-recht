@@ -1,13 +1,13 @@
 ---
 name: alleinvertreter-alters-krankheitskuendigung
-description: "Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
 
 ## Arbeitsbereich
 
-Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

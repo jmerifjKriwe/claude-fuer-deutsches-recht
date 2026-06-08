@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-und-kyc
-description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Anwälte; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Anwälte; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geldwäsche und KYC
 
 ## Arbeitsbereich
 
-Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Anwälte; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Anwälte; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

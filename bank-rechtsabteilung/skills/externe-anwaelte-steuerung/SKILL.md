@@ -1,13 +1,13 @@
 ---
 name: externe-anwaelte-steuerung
-description: "Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Externe Anwälte steuern
 
 ## Arbeitsbereich
 
-Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: besoldung-verfassungswidrig-a-besoldung
-description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung
 
 ## Arbeitsbereich
 
-Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

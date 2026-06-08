@@ -1,13 +1,13 @@
 ---
 name: raumstation-miet-orbit-slot
-description: "Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Raumstation: Miet- und Nutzungsverträge, Module, Rack Time
 
 ## Arbeitsbereich
 
-Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

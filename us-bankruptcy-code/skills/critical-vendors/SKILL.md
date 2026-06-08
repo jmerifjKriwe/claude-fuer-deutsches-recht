@@ -1,13 +1,13 @@
 ---
 name: critical-vendors
-description: "Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Critical Vendors
 
 ## Arbeitsbereich
 
-Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

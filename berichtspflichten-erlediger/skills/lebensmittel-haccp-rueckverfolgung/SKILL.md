@@ -1,13 +1,13 @@
 ---
 name: lebensmittel-haccp-rueckverfolgung
-description: "Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lebensmittel: HACCP und Rückverfolgung
 
 ## Arbeitsbereich
 
-Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

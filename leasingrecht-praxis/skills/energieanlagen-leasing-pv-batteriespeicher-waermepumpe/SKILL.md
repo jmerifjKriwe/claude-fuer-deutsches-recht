@@ -1,13 +1,13 @@
 ---
 name: energieanlagen-leasing-pv-batteriespeicher-waermepumpe
-description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe
 
 ## Arbeitsbereich
 
-Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: discounter-graumarkt-dpma-bpatg-widerspruch
-description: "Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie
 
 ## Arbeitsbereich
 
-Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: strafverfahren-und-disziplinarverfahren
-description: "Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafverfahren Und Disziplinarverfahren
 
 ## Arbeitsbereich
 
-Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

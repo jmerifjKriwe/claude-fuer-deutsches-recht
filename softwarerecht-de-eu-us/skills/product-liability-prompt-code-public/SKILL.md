@@ -1,13 +1,13 @@
 ---
 name: product-liability-prompt-code-public
-description: "Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produkthaftung für fehlerhafte Software EU
 
 ## Arbeitsbereich
 
-Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

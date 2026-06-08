@@ -1,13 +1,13 @@
 ---
 name: hausausweis-anhoerung-interessen
-description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hausausweis und Anhörung
 
 ## Arbeitsbereich
 
-Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: ladenvollmacht-paragraph-56-hgb
-description: "Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ladenvollmacht § 56 HGB
 
 ## Arbeitsbereich
 
-Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

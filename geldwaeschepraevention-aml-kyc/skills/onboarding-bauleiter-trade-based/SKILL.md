@@ -1,13 +1,13 @@
 ---
 name: onboarding-bauleiter-trade-based
-description: "Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Pruefung, Sanktionslistenabgleich. Pruefraster für Verpflichtete im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Pruefung, Sanktionslistenabgleich. Pruefraster für Verpflichtete im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AML: KYC-Onboarding
 
 ## Arbeitsbereich
 
-Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Pruefung, Sanktionslistenabgleich. Pruefraster für Verpflichtete. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Pruefung, Sanktionslistenabgleich. Pruefraster für Verpflichtete. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

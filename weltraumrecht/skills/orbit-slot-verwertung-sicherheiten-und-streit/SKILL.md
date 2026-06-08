@@ -1,13 +1,13 @@
 ---
 name: orbit-slot-verwertung-sicherheiten-und-streit
-description: "Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit
 
 ## Arbeitsbereich
 
-Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

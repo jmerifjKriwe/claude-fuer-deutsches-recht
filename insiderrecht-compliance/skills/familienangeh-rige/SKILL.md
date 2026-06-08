@@ -1,13 +1,13 @@
 ---
 name: familienangeh-rige
-description: "Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienangehörige und nahestehende Personen – Insiderrecht
 
 ## Arbeitsbereich
 
-Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

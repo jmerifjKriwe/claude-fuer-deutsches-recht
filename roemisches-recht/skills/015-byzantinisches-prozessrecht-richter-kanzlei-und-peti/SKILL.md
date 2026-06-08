@@ -1,13 +1,13 @@
 ---
 name: 015-byzantinisches-prozessrecht-richter-kanzlei-und-peti
-description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti
 
 ## Arbeitsbereich
 
-Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

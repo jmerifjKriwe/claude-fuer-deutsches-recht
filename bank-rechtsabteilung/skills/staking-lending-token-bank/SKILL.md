@@ -1,13 +1,13 @@
 ---
 name: staking-lending-token-bank
-description: "Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Staking und Token-Lending
 
 ## Arbeitsbereich
 
-Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

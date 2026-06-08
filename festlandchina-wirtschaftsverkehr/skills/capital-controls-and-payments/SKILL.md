@@ -1,13 +1,13 @@
 ---
 name: capital-controls-and-payments
-description: "Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken
 
 ## Arbeitsbereich
 
-Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

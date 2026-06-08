@@ -7,7 +7,7 @@ description: "Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisie
 
 ## Arbeitsbereich
 
-Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

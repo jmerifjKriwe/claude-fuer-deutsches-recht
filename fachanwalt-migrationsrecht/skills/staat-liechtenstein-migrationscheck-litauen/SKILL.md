@@ -7,7 +7,7 @@ description: "Staat Liechtenstein Migrationscheck Litauen im Migrationsrecht: pr
 
 ## Arbeitsbereich
 
-**Staat Liechtenstein Migrationscheck Litauen** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Liechtenstein, Staaten- und Gebietscheck Litauen, Staaten- und Gebietscheck Luxemburg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Liechtenstein Migrationscheck Litauen** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Liechtenstein, Staaten- und Gebietscheck Litauen, Staaten- und Gebietscheck Luxemburg. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

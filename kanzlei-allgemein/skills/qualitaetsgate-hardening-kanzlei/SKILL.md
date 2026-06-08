@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-hardening-kanzlei
-description: "Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollständigkeit und Haftungsrisiken geprüft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Prüfraster Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollständigkeit und Haftungsrisiken geprüft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Prüfraster Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätsgate und Hardening
 
 ## Arbeitsbereich
 
-Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollständigkeit und Haftungsrisiken geprüft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Prüfraster Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollständigkeit und Haftungsrisiken geprüft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Prüfraster Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

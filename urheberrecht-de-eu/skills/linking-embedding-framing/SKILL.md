@@ -1,13 +1,13 @@
 ---
 name: linking-embedding-framing
-description: "Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Linking, Embedding und Framing
 
 ## Arbeitsbereich
 
-Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

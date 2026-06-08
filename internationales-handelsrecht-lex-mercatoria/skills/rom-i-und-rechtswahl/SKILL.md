@@ -1,13 +1,13 @@
 ---
 name: rom-i-und-rechtswahl
-description: "Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom I-VO und Rechtswahl im internationalen Handel
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: urheberrechts-versand-interessen-streitwert
-description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung
 
 ## Arbeitsbereich
 
-Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

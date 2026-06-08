@@ -1,13 +1,13 @@
 ---
 name: bverwg-2018-innere-umkehr
-description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BVerwG 2018 innere Umkehr
 
 ## Arbeitsbereich
 
-Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: zahnarzt-kostenvoranschlag
-description: "Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zahnarzt Kostenvoranschlag
 
 ## Arbeitsbereich
 
-Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

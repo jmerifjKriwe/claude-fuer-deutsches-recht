@@ -1,13 +1,13 @@
 ---
 name: transparenzgebot-bgb-us-uk
-description: "Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transparenzgebot nach § 307 I S. 2 BGB
 
 ## Arbeitsbereich
 
-Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

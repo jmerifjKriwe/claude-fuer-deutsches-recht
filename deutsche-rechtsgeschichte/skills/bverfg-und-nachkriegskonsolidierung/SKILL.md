@@ -1,13 +1,13 @@
 ---
 name: bverfg-und-nachkriegskonsolidierung
-description: "Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BVerfG und Nachkriegskonsolidierung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

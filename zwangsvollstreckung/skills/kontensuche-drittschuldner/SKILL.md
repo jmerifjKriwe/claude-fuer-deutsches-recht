@@ -1,13 +1,13 @@
 ---
 name: kontensuche-drittschuldner
-description: "Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kontensuche und Drittschuldnerermittlung
 
 ## Arbeitsbereich
 
-Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

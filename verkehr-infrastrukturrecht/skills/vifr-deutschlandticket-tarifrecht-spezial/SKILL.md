@@ -1,13 +1,13 @@
 ---
 name: vifr-deutschlandticket-tarifrecht-spezial
-description: "Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster für Verbraucherzentrale und Verkehrsverbund im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster für Verbraucherzentrale und Verkehrsverbund im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ViFR: Deutschlandticket Tarifrecht
 
 ## Arbeitsbereich
 
-Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster für Verbraucherzentrale und Verkehrsverbund. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster für Verbraucherzentrale und Verkehrsverbund. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

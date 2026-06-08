@@ -1,13 +1,13 @@
 ---
 name: collective-work-compilations-derivative
-description: "Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Collective Work, Beiträge und Periodika
 
 ## Arbeitsbereich
 
-Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

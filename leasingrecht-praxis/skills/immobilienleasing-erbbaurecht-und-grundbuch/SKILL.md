@@ -1,13 +1,13 @@
 ---
 name: immobilienleasing-erbbaurecht-und-grundbuch
-description: "Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Immobilienleasing: Erbbaurecht und Grundbuch
 
 ## Arbeitsbereich
 
-Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

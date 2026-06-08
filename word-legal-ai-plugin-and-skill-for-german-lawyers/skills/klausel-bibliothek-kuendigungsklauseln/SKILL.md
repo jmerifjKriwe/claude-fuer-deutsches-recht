@@ -1,13 +1,13 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klauselbibliothek-Katalog
 
 ## Arbeitsbereich
 
-Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

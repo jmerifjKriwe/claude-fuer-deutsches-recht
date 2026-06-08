@@ -1,13 +1,13 @@
 ---
 name: bribery-red-flags
-description: "Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bestechungs-Red-Flags und Korruptionsermittlung
 
 ## Arbeitsbereich
 
-Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

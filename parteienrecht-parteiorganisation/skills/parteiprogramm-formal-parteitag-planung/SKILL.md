@@ -1,13 +1,13 @@
 ---
 name: parteiprogramm-formal-parteitag-planung
-description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Parteiprogramm formal
 
 ## Arbeitsbereich
 
-Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

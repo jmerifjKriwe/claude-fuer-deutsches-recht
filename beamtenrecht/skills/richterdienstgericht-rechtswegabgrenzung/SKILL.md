@@ -1,13 +1,13 @@
 ---
 name: richterdienstgericht-rechtswegabgrenzung
-description: "Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterdienstgericht oder Verwaltungsgericht?
 
 ## Arbeitsbereich
 
-Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

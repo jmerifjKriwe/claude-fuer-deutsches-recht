@@ -7,7 +7,7 @@ description: "Arbeitnehmerdaten Betriebsrat im Datenschutz-Sanktionsverfahren-Ve
 
 ## Arbeitsbereich
 
-**Arbeitnehmerdaten Betriebsrat** ordnet den Fall über die tragenden Prüfungslinien: Beschäftigtendaten und Betriebsrat, Beschlussverfahren § 72 OWiG, Beschwerde eines Betroffenen als Auslöser. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Arbeitnehmerdaten Betriebsrat** ordnet den Fall über die tragenden Prüfungslinien: Beschäftigtendaten und Betriebsrat, Beschlussverfahren § 72 OWiG, Beschwerde eines Betroffenen als Auslöser. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

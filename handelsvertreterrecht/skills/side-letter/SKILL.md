@@ -1,13 +1,13 @@
 ---
 name: side-letter
-description: "Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken
 
 ## Arbeitsbereich
 
-Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

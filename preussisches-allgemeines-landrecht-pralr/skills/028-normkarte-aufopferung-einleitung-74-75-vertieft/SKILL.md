@@ -7,7 +7,7 @@ description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußis
 
 ## Arbeitsbereich
 
-PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

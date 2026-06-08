@@ -1,13 +1,13 @@
 ---
 name: stornoreserve-training-material
-description: "Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB
 
 ## Arbeitsbereich
 
-Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

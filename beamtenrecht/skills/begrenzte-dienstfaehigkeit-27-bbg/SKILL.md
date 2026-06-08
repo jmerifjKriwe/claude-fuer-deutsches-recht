@@ -1,13 +1,13 @@
 ---
 name: begrenzte-dienstfaehigkeit-27-bbg
-description: "Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Begrenzte Dienstfaehigkeit nach § 27 BBG
 
 ## Arbeitsbereich
 
-Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

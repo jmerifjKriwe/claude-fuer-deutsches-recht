@@ -1,13 +1,13 @@
 ---
 name: eintrittsgebuehr-laufende-gebietsschutz
-description: "Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee
 
 ## Arbeitsbereich
 
-Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

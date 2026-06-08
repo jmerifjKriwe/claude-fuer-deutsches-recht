@@ -1,13 +1,13 @@
 ---
 name: closing-cp-funds-flow
-description: "Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Closing, CPs und Funds Flow
 
 ## Arbeitsbereich
 
-Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

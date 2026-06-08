@@ -1,13 +1,13 @@
 ---
 name: datenschutz-fotos-livestream
-description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sichtbarkeit und Datenschutz zusammen denken
 
 ## Arbeitsbereich
 
-Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

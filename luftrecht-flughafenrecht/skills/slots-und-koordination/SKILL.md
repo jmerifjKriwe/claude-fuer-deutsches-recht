@@ -1,13 +1,13 @@
 ---
 name: slots-und-koordination
-description: "Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz
 
 ## Arbeitsbereich
 
-Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: iii-stpo-begruendungsanforderungen-strafurteil
-description: "Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Begruendung der Strafzumessung im Urteil — § 267 Abs. 3 StPO
 
 ## Arbeitsbereich
 
-Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

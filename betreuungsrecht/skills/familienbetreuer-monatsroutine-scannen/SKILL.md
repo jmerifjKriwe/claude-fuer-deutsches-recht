@@ -1,13 +1,13 @@
 ---
 name: familienbetreuer-monatsroutine-scannen
-description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Familienbetreuer: Monatsroutine und Kalender
 
 ## Arbeitsbereich
 
-Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

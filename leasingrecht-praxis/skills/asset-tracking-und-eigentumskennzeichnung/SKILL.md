@@ -1,13 +1,13 @@
 ---
 name: asset-tracking-und-eigentumskennzeichnung
-description: "Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Asset Tracking und Eigentumskennzeichnung im Leasing
 
 ## Arbeitsbereich
 
-Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

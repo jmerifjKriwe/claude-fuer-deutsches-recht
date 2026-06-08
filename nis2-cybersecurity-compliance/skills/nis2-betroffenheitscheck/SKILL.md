@@ -1,13 +1,13 @@
 ---
 name: nis2-betroffenheitscheck
-description: "Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NIS-2 Betroffenheitscheck
 
 ## Arbeitsbereich
 
-Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

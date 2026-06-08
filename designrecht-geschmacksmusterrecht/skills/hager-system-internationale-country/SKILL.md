@@ -1,13 +1,13 @@
 ---
 name: hager-system-internationale-country
-description: "Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hager System Wipo
 
 ## Arbeitsbereich
 
-Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

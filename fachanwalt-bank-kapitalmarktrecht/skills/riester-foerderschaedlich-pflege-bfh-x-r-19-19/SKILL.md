@@ -1,30 +1,40 @@
 ---
 name: riester-foerderschaedlich-pflege-bfh-x-r-19-19
-description: Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R 19/19.
+description: "Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R 19/19."
 ---
 
-## Problemstellung
+# Riester Foerderschaedlich Pflege BFH X R 19 19
+
+## Einsatzlage
 
 Riester-Sparerin nutzt Restkapital fuer Pflegekosten; Anbieter meldet foerderschaedliche Verwendung.
 
-## Normen
+## Normenanker
 
-- Paragraf 93 EStG
+- §§ 1, 32 KWG
+- §§ 63 ff. WpHG
+- §§ 491 ff. BGB
+- §§ 675c ff. BGB
+- Art. 17 MAR
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BFH 12.04.2022 X R 19/19
-- FG Berlin-Brandenburg 28.04.2020 11 K 11160/18
+- BFH 12.04.2022 X R 19/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- FG Berlin-Brandenburg 28.04.2020 11 K 11160/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Pflegebedarf der Sparerin selbst kann unschaedlich sein wenn Wohnzwecke (Wohn-Riester Verwendung).
 
-## Schriftsatzkern
-
-Verwendung fuer eigene Pflege in selbst genutzter Wohnung unschaedlich nach Paragraf 92a EStG.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Pflegegrad-Bescheid
 - Riester-Vertrag

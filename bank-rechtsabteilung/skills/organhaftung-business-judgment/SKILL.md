@@ -1,13 +1,13 @@
 ---
 name: organhaftung-business-judgment
-description: "Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Organhaftung
 
 ## Arbeitsbereich
 
-Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

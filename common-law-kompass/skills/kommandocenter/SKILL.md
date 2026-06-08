@@ -1,13 +1,13 @@
 ---
 name: kommandocenter
-description: "Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common-Law-Kommandocenter
 
 ## Arbeitsbereich
 
-Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

@@ -1,29 +1,42 @@
 ---
 name: cloud-act-vs-dsgvo-art-48-dsgvo
-description: Cloud Act und DSGVO Art 48.
+description: "Cloud Act Vs DSGVO Art 48 DSGVO: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Cloud Act Vs DSGVO Art 48 DSGVO
+
+## Einsatzlage
 
 US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben.
 
-## Normen
+## Normenanker
 
-- Art 48 DSGVO
+- Art. 48 DSGVO
+- Art. 33 DSGVO
+- Art. 34 DSGVO
+- Art. 9 DSGVO
+- Art. 56 DSGVO
+- Art. 32 DSGVO
+- § 32 BSIG
+- Art. 28 DSGVO
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 16.07.2020 C-311/18 Schrems II
+- EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Beachtung DSGVO; Garantieklauseln; SCC plus zusaetzliche Massnahmen.
 
-## Schriftsatzkern
-
-Datenuebermittlung unzulaessig ohne zusaetzliche Massnahmen; Verschluesselung.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - SCC
 - Verschluesselungskonzept
@@ -50,4 +63,3 @@ Datenuebermittlung unzulaessig ohne zusaetzliche Massnahmen; Verschluesselung.
 - EuGH C-311/18
 - EuGH C-300/21
 - EuGH C-589/22
-

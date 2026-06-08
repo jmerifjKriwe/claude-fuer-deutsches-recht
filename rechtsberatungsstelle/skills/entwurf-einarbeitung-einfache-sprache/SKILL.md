@@ -1,13 +1,13 @@
 ---
 name: entwurf-einarbeitung-einfache-sprache
-description: "Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatzentwurf: Erstentwurf-Erstellung
 
 ## Arbeitsbereich
 
-Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: geschaeftsleiter-abberufung-krise
-description: "Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsleiterabberufung und Krise
 
 ## Arbeitsbereich
 
-Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

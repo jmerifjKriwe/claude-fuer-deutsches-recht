@@ -1,13 +1,13 @@
 ---
 name: rechteclearing-ki-dataset-musik
-description: "Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechteclearing KI-Dataset Musik
 
 ## Arbeitsbereich
 
-Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

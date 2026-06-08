@@ -1,13 +1,13 @@
 ---
 name: vertiefung-01-laienerklaerung
-description: "Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Laienerklärungen: Internationales Handelsrecht
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

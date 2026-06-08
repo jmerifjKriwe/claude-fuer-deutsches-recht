@@ -1,13 +1,13 @@
 ---
 name: cyber-incident
-description: "Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cyber-Incident-Response und forensische Untersuchung
 
 ## Arbeitsbereich
 
-Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

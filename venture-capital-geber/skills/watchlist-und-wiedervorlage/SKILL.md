@@ -7,7 +7,7 @@ description: "Verwandelt interessante, aber unreife Deals in klare Beobachtungsl
 
 ## Arbeitsbereich
 
-Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

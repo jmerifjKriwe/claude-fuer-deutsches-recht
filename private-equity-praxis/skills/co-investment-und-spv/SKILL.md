@@ -1,13 +1,13 @@
 ---
 name: co-investment-und-spv
-description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Co-Investment und SPV-Struktur
 
 ## Arbeitsbereich
 
-Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

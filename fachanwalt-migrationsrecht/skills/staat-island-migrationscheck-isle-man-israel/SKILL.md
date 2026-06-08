@@ -7,7 +7,7 @@ description: "Staat Island Migrationscheck Isle MAN Israel im Migrationsrecht: p
 
 ## Arbeitsbereich
 
-**Staat Island Migrationscheck Isle MAN Israel** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Island, Staaten- und Gebietscheck Isle of Man, Staaten- und Gebietscheck Israel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Island Migrationscheck Isle MAN Israel** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Island, Staaten- und Gebietscheck Isle of Man, Staaten- und Gebietscheck Israel. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

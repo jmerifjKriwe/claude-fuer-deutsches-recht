@@ -1,13 +1,13 @@
 ---
 name: elektrog-ear-mengenmeldung
-description: "ElektroG: Herstellerregistrierung, Gerätearten, Mengenmeldungen, Rücknahme, Bevollmächtigter und Marktplatzrisiko im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ElektroG: Herstellerregistrierung, Gerätearten, Mengenmeldungen, Rücknahme, Bevollmächtigter und Marktplatzrisiko im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ElektroG ear und Mengenmeldung
 
 ## Arbeitsbereich
 
-ElektroG: Herstellerregistrierung, Gerätearten, Mengenmeldungen, Rücknahme, Bevollmächtigter und Marktplatzrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ElektroG: Herstellerregistrierung, Gerätearten, Mengenmeldungen, Rücknahme, Bevollmächtigter und Marktplatzrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

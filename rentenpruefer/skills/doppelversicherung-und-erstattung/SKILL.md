@@ -1,13 +1,13 @@
 ---
 name: doppelversicherung-und-erstattung
-description: "Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # doppelversicherung-und-erstattung
 
 ## Arbeitsbereich
 
-Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

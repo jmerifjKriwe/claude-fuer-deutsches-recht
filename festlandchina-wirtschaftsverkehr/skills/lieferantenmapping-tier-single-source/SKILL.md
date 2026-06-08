@@ -1,13 +1,13 @@
 ---
 name: lieferantenmapping-tier-single-source
-description: "Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferantenmapping Tier-1 bis Tier-n: China-Exposition erfassen
 
 ## Arbeitsbereich
 
-Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

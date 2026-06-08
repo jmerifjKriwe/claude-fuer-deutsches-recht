@@ -1,13 +1,13 @@
 ---
 name: us-selektivvertrieb-und-mfp-tiffany-vs-costco
-description: "US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
 
 ## Arbeitsbereich
 
-US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

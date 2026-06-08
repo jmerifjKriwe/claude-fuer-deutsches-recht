@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-hypothek-bestellen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

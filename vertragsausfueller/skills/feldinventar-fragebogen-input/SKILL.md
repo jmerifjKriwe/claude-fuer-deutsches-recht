@@ -1,13 +1,13 @@
 ---
 name: feldinventar-fragebogen-input
-description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Feldinventar
 
 ## Arbeitsbereich
 
-Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

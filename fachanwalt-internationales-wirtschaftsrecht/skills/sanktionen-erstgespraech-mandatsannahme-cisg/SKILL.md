@@ -7,14 +7,14 @@ description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wi
 
 ## Arbeitsbereich
 
-**Sanktionen Erstgespraech Mandatsannahme CISG** ordnet den Fall über die tragenden Prüfungslinien: Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sanktionen Erstgespraech Mandatsannahme CISG** ordnet den Fall über die tragenden Prüfungslinien: Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Prüfungslinie für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -285,7 +285,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=1
 
 ## 3. `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`
 
-**Fokus:** Prüfungslinie für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Mandantenfragen beim Kaltstart
 

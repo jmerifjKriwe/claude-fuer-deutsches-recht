@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-dingliche-vorkaufsrechte
-description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorkaufsrechte im Erbbaurecht
 
 ## Arbeitsbereich
 
-Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

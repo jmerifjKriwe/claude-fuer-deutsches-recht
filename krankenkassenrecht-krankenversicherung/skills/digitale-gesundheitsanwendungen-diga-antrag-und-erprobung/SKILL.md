@@ -7,7 +7,7 @@ description: "GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verord
 
 ## Arbeitsbereich
 
-GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 
 ## Arbeitsbereich
 
-Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Import-Lieferkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Import-Lieferkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

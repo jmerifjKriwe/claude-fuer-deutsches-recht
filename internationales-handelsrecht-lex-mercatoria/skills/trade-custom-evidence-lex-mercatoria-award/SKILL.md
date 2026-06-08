@@ -1,13 +1,13 @@
 ---
 name: trade-custom-evidence-lex-mercatoria-award
-description: "Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsbräuche: Nachweis und Evidenz
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

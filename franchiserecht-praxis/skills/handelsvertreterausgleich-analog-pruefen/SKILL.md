@@ -1,13 +1,13 @@
 ---
 name: handelsvertreterausgleich-analog-pruefen
-description: "Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Handelsvertreterausgleich analog – § 89b HGB prüfen
 
 ## Arbeitsbereich
 
-Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

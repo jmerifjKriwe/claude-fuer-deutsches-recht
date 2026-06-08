@@ -1,13 +1,13 @@
 ---
 name: bergung-und-wrack
-description: "Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bergung und Wrack – Bergungslohn und Beseitigungspflicht
 
 ## Arbeitsbereich
 
-Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

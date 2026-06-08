@@ -7,7 +7,7 @@ description: "ITR Open Source Mandat Triage im Plugin Fachanwalt It Recht: prüf
 
 ## Arbeitsbereich
 
-**ITR Open Source Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Open-Source-Compliance, Spezialfall Source-Code-Escrow, Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**ITR Open Source Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Open-Source-Compliance, Spezialfall Source-Code-Escrow, Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

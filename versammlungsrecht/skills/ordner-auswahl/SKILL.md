@@ -1,13 +1,13 @@
 ---
 name: ordner-auswahl
-description: "Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ordner sind Schutz, kein Privatpolizei-Ersatz
 
 ## Arbeitsbereich
 
-Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rechenschaft-rechenschaftsbericht-satzung
-description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüfung Rechenschaft
 
 ## Arbeitsbereich
 
-Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

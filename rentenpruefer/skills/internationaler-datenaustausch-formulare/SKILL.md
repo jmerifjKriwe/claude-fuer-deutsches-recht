@@ -1,13 +1,13 @@
 ---
 name: internationaler-datenaustausch-formulare
-description: "Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # internationaler-datenaustausch-formulare
 
 ## Arbeitsbereich
 
-Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

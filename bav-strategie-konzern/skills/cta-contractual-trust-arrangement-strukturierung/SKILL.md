@@ -1,13 +1,13 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich) im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
 ## Arbeitsbereich
 
-CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: zitat-rechtsprechung-fristennotiz-naechster
-description: "Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle
 
 ## Arbeitsbereich
 
-Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

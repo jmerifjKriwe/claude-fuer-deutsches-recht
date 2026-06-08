@@ -1,13 +1,13 @@
 ---
 name: vertragsgenerator-musik-release
-description: "Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Musikvertrag und Release-Paket
 
 ## Arbeitsbereich
 
-Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

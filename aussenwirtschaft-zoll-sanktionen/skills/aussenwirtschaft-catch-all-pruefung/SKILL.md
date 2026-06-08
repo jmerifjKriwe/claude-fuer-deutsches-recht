@@ -7,7 +7,7 @@ description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflic
 
 ## Arbeitsbereich
 
-Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO
 
 ## Arbeitsbereich
 
-Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-untererbbaurecht-und-weitergabe
-description: "Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Untererbbaurecht und Weitergabe
 
 ## Arbeitsbereich
 
-Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: negotiation-playbook
-description: "Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verhandlungs-Playbook China: Kultur/Taktik/BATNA
 
 ## Arbeitsbereich
 
-Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

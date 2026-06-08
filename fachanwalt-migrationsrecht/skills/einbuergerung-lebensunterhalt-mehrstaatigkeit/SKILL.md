@@ -7,7 +7,7 @@ description: "Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: 
 
 ## Arbeitsbereich
 
-**Einbuergerung Lebensunterhalt Mehrstaatigkeit** ordnet den Fall über die tragenden Prüfungslinien: Einbürgerung Lebensunterhalt, Einbürgerung Mehrstaatigkeit, Einbürgerung Vorstrafen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Einbuergerung Lebensunterhalt Mehrstaatigkeit** ordnet den Fall über die tragenden Prüfungslinien: Einbürgerung Lebensunterhalt, Einbürgerung Mehrstaatigkeit, Einbürgerung Vorstrafen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

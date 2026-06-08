@@ -1,13 +1,13 @@
 ---
 name: kommunikation-familie-kosten-auslagen
-description: "Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunikation mit Familie
 
 ## Arbeitsbereich
 
-Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

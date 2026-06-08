@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-bautagebuch-erp-import
-description: "Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bautagebuch und ERP-Import in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

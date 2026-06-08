@@ -7,7 +7,7 @@ description: "Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendun
 
 ## Arbeitsbereich
 
-Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

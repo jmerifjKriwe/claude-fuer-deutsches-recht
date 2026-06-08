@@ -7,7 +7,7 @@ description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht akti
 
 ## Arbeitsbereich
 
-Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen für AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen für AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: registerpublizitaet-paragraph-scheinkaufmann
-description: "Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerpublizität § 15 HGB
 
 ## Arbeitsbereich
 
-Prüft negative und positive Publizität des Handelsregisters. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft negative und positive Publizität des Handelsregisters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

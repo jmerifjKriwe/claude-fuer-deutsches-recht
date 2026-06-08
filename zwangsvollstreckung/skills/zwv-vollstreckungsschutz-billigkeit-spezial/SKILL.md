@@ -1,13 +1,13 @@
 ---
 name: zwv-vollstreckungsschutz-billigkeit-spezial
-description: "Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZwV: Vollstreckungsschutz Billigkeit
 
 ## Arbeitsbereich
 
-Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

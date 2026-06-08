@@ -1,13 +1,13 @@
 ---
 name: ohg-kg-online-abruf-partg-partgmbb
-description: "Prüft kaufmännischen Betrieb, Statuswechsel, Anmeldung, Gesellschafter, Vertretung und MoPeG-Schnittstellen im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kaufmännischen Betrieb, Statuswechsel, Anmeldung, Gesellschafter, Vertretung und MoPeG-Schnittstellen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GbR/eGbR zu OHG/KG
 
 ## Arbeitsbereich
 
-Prüft kaufmännischen Betrieb, Statuswechsel, Anmeldung, Gesellschafter, Vertretung und MoPeG-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft kaufmännischen Betrieb, Statuswechsel, Anmeldung, Gesellschafter, Vertretung und MoPeG-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

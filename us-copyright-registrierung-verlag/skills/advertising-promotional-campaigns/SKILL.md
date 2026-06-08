@@ -1,13 +1,13 @@
 ---
 name: advertising-promotional-campaigns
-description: "Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Advertising und Promotional Campaigns
 
 ## Arbeitsbereich
 
-Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr
-description: "Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsueberleitung Und Vermoegensfr
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

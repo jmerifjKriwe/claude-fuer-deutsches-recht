@@ -1,13 +1,13 @@
 ---
 name: recherche-start-rechtsberatungsstelle
-description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche
 
 ## Arbeitsbereich
 
-Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

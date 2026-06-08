@@ -1,13 +1,13 @@
 ---
 name: kita-gebuehren
-description: "Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kita-Gebühren
 
 ## Arbeitsbereich
 
-Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

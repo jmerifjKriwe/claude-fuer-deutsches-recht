@@ -1,13 +1,13 @@
 ---
 name: klageerwiderung-substantiiertes-bestreiten
-description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klageerwiderung und substantiiertes Bestreiten
 
 ## Arbeitsbereich
 
-Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gerichtsladung-zeuge
-description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtsladung als Zeuge
 
 ## Arbeitsbereich
 
-Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

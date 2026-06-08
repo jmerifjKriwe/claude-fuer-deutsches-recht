@@ -1,13 +1,13 @@
 ---
 name: leiter-verantwortung-mildere-mittel
-description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leitung ist nicht Befehlsempfänger der Polizei
 
 ## Arbeitsbereich
 
-Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

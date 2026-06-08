@@ -1,13 +1,13 @@
 ---
 name: khentgg-budgetverhandlung-drg-pepp-abgrenzung
-description: "Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung
 
 ## Arbeitsbereich
 
-Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

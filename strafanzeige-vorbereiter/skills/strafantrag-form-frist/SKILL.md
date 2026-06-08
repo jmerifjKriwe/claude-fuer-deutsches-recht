@@ -1,13 +1,13 @@
 ---
 name: strafantrag-form-frist
-description: "Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen im Strafanzeige-Vorbereitung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen im Strafanzeige-Vorbereitung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafantrag Form, Frist, Rücknahme
 
 ## Arbeitsbereich
 
-Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

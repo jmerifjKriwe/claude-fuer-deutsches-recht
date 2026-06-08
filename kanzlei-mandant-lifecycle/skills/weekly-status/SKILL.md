@@ -1,6 +1,6 @@
 ---
 name: weekly-status
-description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weekly Status

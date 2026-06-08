@@ -1,13 +1,13 @@
 ---
 name: yachtkauf-risiko-memo-schreiben
-description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Yachtkauf – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

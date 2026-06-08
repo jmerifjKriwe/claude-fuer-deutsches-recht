@@ -7,15 +7,15 @@ description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsr
 
 ## Arbeitsbereich
 
-**Glaeubigerantrag Insolvenzanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Glaeubigerantrag Insolvenzanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung` | Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich prüfen: Verwalter- und Anfechtungsgegnerperspektive, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146, KI-Screening von Schuldnerakten und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen. |
 | `fachanwalt-insolvenz-sanierungsrecht-orientierung` | Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan. |
-| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung. |
 
 ## Arbeitsweg
@@ -29,10 +29,10 @@ description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsr
 
 ## 1. `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`
 
-**Fokus:** Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -268,7 +268,7 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 ### Insolvenzanfechtung §§ 129 ff. InsO
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzanfechtung §§ 129 ff. InsO` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzanfechtung §§ 129 ff. InsO` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -376,7 +376,7 @@ Hinweis: Keine Rechtsberatung. Diese Prüfung ist Facharbeitsstruktur; Rechtssta
 ### Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -523,10 +523,10 @@ VI. KOSTEN / HONORARRAHMEN
 
 ## 4. `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`
 
-**Fokus:** Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -752,7 +752,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### InsAnw: Anfechtung-Leitfaden
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsAnw: Anfechtung-Leitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsAnw: Anfechtung-Leitfaden` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.

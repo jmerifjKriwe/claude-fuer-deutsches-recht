@@ -1,13 +1,13 @@
 ---
 name: gwg-kyc-ubo-und-sanctions
-description: "Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GwG, KYC, UBO und Sanktionen
 
 ## Arbeitsbereich
 
-Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

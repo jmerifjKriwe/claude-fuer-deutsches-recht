@@ -1,13 +1,13 @@
 ---
 name: entfernung-aus-dem-beamtenverhaeltnis-unterhalt
-description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag
 
 ## Arbeitsbereich
 
-Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

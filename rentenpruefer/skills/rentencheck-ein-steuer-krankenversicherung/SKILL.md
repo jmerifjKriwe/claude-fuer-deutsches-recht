@@ -1,13 +1,13 @@
 ---
 name: rentencheck-ein-steuer-krankenversicherung
-description: "Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # rentencheck-ein-jahr-vorher
 
 ## Arbeitsbereich
 
-Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

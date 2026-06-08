@@ -1,13 +1,13 @@
 ---
 name: live-quellencheck-bund-land-richter
-description: "Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Live Quellencheck Bund Land Richter
 
 ## Arbeitsbereich
 
-Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

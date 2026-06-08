@@ -1,13 +1,13 @@
 ---
 name: soziale-medien-aeusserungsrecht
-description: "Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Soziale Medien: X, LinkedIn, Bewertungsportale
 
 ## Arbeitsbereich
 
-Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

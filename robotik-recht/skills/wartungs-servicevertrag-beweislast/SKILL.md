@@ -1,13 +1,13 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wartungs- und Servicevertrag
 
 ## Arbeitsbereich
 
-Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

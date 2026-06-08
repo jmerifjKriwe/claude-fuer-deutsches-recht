@@ -7,7 +7,7 @@ description: "Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch** ordnet den Fall über die tragenden Prüfungslinien: Leitfaden Fahrerlaubnisrecht, Spezialfall Fahrtenbuchanordnung § 31a StVZO, Spezialfall Trunkenheits- und Drogenfahrt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch** ordnet den Fall über die tragenden Prüfungslinien: Leitfaden Fahrerlaubnisrecht, Spezialfall Fahrtenbuchanordnung § 31a StVZO, Spezialfall Trunkenheits- und Drogenfahrt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: pricing-gebuehren-zins-marge-transparenz
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz im Factoring Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz im Factoring Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pricing Gebühren Zins Marge Transparenz
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

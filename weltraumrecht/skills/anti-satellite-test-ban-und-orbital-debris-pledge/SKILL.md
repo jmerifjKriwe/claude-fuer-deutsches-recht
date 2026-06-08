@@ -1,13 +1,13 @@
 ---
 name: anti-satellite-test-ban-und-orbital-debris-pledge
-description: "Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anti-Satellite-Test-Ban und Orbital-Debris-Pledge
 
 ## Arbeitsbereich
 
-Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

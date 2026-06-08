@@ -1,13 +1,13 @@
 ---
 name: verletzung-anspruchsmerkmale
-description: "Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verletzung Anspruchsmerkmale
 
 ## Arbeitsbereich
 
-Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

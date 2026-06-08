@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-abnahmeprotokoll-foerder-erp
-description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

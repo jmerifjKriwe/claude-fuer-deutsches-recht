@@ -1,13 +1,13 @@
 ---
 name: fundraising-vertrieb-subscription-package-side-lp-transfer
-description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fundraising und Vertrieb: Teaser bis Subscription
 
 ## Arbeitsbereich
 
-Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

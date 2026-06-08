@@ -1,13 +1,13 @@
 ---
 name: verstoesse-melden
-description: "Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verstoesse melden
 
 ## Arbeitsbereich
 
-Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

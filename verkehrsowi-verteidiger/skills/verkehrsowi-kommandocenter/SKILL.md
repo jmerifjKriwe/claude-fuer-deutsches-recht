@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-kommandocenter
-description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VerkehrsOWi-Verteidiger — Kommandocenter
 
 ## Arbeitsbereich
 
-Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

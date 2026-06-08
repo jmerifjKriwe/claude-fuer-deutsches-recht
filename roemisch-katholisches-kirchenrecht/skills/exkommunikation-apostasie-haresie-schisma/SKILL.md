@@ -7,7 +7,7 @@ description: "Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zureche
 
 ## Arbeitsbereich
 
-Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: legal-hold
-description: "Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Legal Hold
 
 ## Arbeitsbereich
 
-Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

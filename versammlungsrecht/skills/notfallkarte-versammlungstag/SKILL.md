@@ -1,13 +1,13 @@
 ---
 name: notfallkarte-versammlungstag
-description: "Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eine Seite für den Tag selbst
 
 ## Arbeitsbereich
 
-Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

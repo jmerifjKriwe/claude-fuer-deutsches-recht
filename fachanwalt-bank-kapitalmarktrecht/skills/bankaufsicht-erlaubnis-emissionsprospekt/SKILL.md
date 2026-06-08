@@ -7,7 +7,7 @@ description: "Bankaufsicht Erlaubnis Emissionsprospekt im Plugin Fachanwalt Bank
 
 ## Arbeitsbereich
 
-**Bankaufsicht Erlaubnis Emissionsprospekt** ordnet den Fall über die tragenden Prüfungslinien: Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bankaufsicht Erlaubnis Emissionsprospekt** ordnet den Fall über die tragenden Prüfungslinien: Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

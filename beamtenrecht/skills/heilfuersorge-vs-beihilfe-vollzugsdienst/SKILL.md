@@ -1,13 +1,13 @@
 ---
 name: heilfuersorge-vs-beihilfe-vollzugsdienst
-description: "Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten
 
 ## Arbeitsbereich
 
-Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

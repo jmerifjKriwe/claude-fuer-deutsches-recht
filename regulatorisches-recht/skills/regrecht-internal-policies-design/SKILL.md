@@ -1,13 +1,13 @@
 ---
 name: regrecht-internal-policies-design
-description: "Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate für Bank- und Versicherungskonzerne im Regulatorisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate für Bank- und Versicherungskonzerne im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Regrecht: Internal Policies
 
 ## Arbeitsbereich
 
-Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate für Bank- und Versicherungskonzerne. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate für Bank- und Versicherungskonzerne. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

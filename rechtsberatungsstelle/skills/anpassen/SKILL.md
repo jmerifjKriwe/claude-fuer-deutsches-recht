@@ -1,13 +1,13 @@
 ---
 name: anpassen
-description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # /anpassen
 
 ## Arbeitsbereich
 
-Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

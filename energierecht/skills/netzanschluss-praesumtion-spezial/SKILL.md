@@ -1,13 +1,13 @@
 ---
 name: netzanschluss-praesumtion-spezial
-description: "Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energie: Netzanschluss-Verweigerung
 
 ## Arbeitsbereich
 
-Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

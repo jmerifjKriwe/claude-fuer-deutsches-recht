@@ -7,7 +7,7 @@ description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-U
 
 ## Arbeitsbereich
 
-Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

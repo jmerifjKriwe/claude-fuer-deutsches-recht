@@ -1,13 +1,13 @@
 ---
 name: vo-pflichtenpyramide-kig-ai-foundation
-description: "Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-VO Pflichtenpyramide
 
 ## Arbeitsbereich
 
-Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

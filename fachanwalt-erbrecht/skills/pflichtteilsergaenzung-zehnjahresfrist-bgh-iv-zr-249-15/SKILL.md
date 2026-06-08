@@ -1,30 +1,40 @@
 ---
 name: pflichtteilsergaenzung-zehnjahresfrist-bgh-iv-zr-249-15
-description: Pflichtteilsergaenzung Zehnjahresfrist mit BGH IV ZR 249/15.
+description: "Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15
+
+## Einsatzlage
 
 Erblasser hat 4 Jahre vor Tod Immobilie an Sohn S verschenkt; Tochter T pflichtteilsberechtigt.
 
-## Normen
+## Normenanker
 
-- Paragrafen 2325, 2329 BGB
+- § 1922 BGB
+- § 1937 BGB
+- §§ 2303 ff. BGB
+- §§ 2353 ff. BGB
+- Art. 21 EuErbVO
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 23.05.2012 IV ZR 250/11
-- BGH 29.06.2016 IV ZR 387/15
+- BGH 23.05.2012 IV ZR 250/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 29.06.2016 IV ZR 387/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Abschmelzung pro Jahr 10 Prozent; bei Behalt eines Nutzungsrechts kein Fristanlauf.
 
-## Schriftsatzkern
-
-Ergaenzungsanspruch mit Bewertungsstichtag Tod minus Abschmelzung.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Schenkungsvertrag
 - Verkehrswertgutachten

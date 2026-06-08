@@ -1,13 +1,13 @@
 ---
 name: barrierefreie-und-mehrsprachige-information
-description: "Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Barrierefreie Und Mehrsprachige Information
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

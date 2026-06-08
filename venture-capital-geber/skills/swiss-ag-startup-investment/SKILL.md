@@ -7,7 +7,7 @@ description: "Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeld
 
 ## Arbeitsbereich
 
-Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

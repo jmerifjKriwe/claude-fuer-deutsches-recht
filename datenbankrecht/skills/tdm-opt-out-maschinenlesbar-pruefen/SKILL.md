@@ -1,13 +1,13 @@
 ---
 name: tdm-opt-out-maschinenlesbar-pruefen
-description: "Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren
 
 ## Arbeitsbereich
 
-Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

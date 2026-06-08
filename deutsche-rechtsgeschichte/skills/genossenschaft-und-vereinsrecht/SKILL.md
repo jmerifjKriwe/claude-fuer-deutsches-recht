@@ -1,13 +1,13 @@
 ---
 name: genossenschaft-und-vereinsrecht
-description: "Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Genossenschaft und Vereinsrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

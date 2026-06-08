@@ -1,13 +1,13 @@
 ---
 name: containerschiff-register-hypothek
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Registerprüfung
 
 ## Arbeitsbereich
 
-Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

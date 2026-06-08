@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-betreiberwechsel
-description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreiberwechsel
 
 ## Arbeitsbereich
 
-Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

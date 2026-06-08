@@ -7,7 +7,7 @@ description: "DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It R
 
 ## Arbeitsbereich
 
-**DSV Pressemitteilung Krisenkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichnisses von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Pressemitteilung Krisenkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichnisses von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

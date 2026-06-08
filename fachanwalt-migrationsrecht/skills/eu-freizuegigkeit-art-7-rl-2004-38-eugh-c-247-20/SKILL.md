@@ -1,29 +1,40 @@
 ---
 name: eu-freizuegigkeit-art-7-rl-2004-38-eugh-c-247-20
-description: EU-Freizuegigkeit Art 7 RL 2004/38 mit EuGH C-247/20.
+description: "EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20
+
+## Einsatzlage
 
 EU-Buerger lebt 4 Jahre arbeitslos in DE; Sozialhilfeantrag.
 
-## Normen
+## Normenanker
 
-- RL 2004/38
+- Art. 7 RL
+- § 4 AufenthG
+- § 18b AufenthG
+- § 25 AufenthG
+- § 60 AufenthG
+- Art. 7 RL 2004/38/EG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 18.11.2020 C-247/20
+- EuGH 18.11.2020 C-247/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Daueraufenthaltsrecht nach 5 Jahren; bis dahin existenzsichern.
 
-## Schriftsatzkern
-
-Existenzsicherung gewaehrleistet; Aufenthaltsrecht bleibt.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Meldebescheinigungen
 - Sozialhilfebescheid

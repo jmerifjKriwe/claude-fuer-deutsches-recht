@@ -1,13 +1,13 @@
 ---
 name: konzerninsolvenz-koordination
-description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konzerninsolvenz — Koordination
 
 ## Arbeitsbereich
 
-Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfah
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Konzerninsolvenz — Koordination` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Konzerninsolvenz — Koordination` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.

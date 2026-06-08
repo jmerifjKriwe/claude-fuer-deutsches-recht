@@ -1,13 +1,13 @@
 ---
 name: wissenschaftsdaten-forschungsdatenbank
-description: "Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke
 
 ## Arbeitsbereich
 
-Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

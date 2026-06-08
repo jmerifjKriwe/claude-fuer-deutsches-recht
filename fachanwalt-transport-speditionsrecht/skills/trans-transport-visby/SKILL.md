@@ -7,7 +7,7 @@ description: "Trans Transport Visby im Plugin Fachanwalt Transport Speditionsrec
 
 ## Arbeitsbereich
 
-**Trans Transport Visby** ordnet den Fall über die tragenden Prüfungslinien: Trans, Transport, Visby. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Trans Transport Visby** ordnet den Fall über die tragenden Prüfungslinien: Trans, Transport, Visby. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

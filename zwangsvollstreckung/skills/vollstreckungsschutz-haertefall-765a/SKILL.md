@@ -1,13 +1,13 @@
 ---
 name: vollstreckungsschutz-haertefall-765a
-description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall
 
 ## Arbeitsbereich
 
-Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

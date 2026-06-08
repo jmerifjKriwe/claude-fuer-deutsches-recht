@@ -1,13 +1,13 @@
 ---
 name: rsa-lockup-fiduciary-out
-description: "Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lock-Up and Fiduciary Out
 
 ## Arbeitsbereich
 
-Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

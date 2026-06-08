@@ -1,13 +1,13 @@
 ---
 name: stimmrechtsmitteilung-social
-description: "Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stimmrechtsmitteilungen (§§ 33 ff. WpHG) und Insiderrecht
 
 ## Arbeitsbereich
 
-Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

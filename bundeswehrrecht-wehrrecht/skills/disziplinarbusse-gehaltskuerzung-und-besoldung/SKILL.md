@@ -1,13 +1,13 @@
 ---
 name: disziplinarbusse-gehaltskuerzung-und-besoldung
-description: "Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarbuße, Gehaltskürzung und Besoldung
 
 ## Arbeitsbereich
 
-Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

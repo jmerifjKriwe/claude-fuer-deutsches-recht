@@ -7,7 +7,7 @@ description: "Anwendungsfall: anfangsmangel, späterer Wegfall, Teilmangel und Z
 
 ## Arbeitsbereich
 
-Anwendungsfall: anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendungsfall: anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

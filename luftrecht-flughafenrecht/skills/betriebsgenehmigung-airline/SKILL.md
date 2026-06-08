@@ -1,13 +1,13 @@
 ---
 name: betriebsgenehmigung-airline
-description: "Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf
 
 ## Arbeitsbereich
 
-Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

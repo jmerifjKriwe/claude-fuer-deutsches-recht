@@ -7,7 +7,7 @@ description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherin
 
 ## Arbeitsbereich
 
-**Geschaeftsfuehrer Altlasten Steuerschulden** ordnet den Fall über die tragenden Prüfungslinien: Ehemaliger Geschäftsführer, Steuerschulden, Abschluss und Neustart. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Geschaeftsfuehrer Altlasten Steuerschulden** ordnet den Fall über die tragenden Prüfungslinien: Ehemaliger Geschäftsführer, Steuerschulden, Abschluss und Neustart. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

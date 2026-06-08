@@ -1,13 +1,13 @@
 ---
 name: security-training-management
-description: "Prüft Security-Schulung der Leitung und Mitarbeitenden im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Security-Schulung der Leitung und Mitarbeitenden im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Security Training Management
 
 ## Arbeitsbereich
 
-Prüft Security-Schulung der Leitung und Mitarbeitenden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Security-Schulung der Leitung und Mitarbeitenden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

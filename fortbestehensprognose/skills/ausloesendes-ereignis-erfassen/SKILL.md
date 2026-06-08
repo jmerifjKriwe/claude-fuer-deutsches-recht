@@ -1,13 +1,13 @@
 ---
 name: ausloesendes-ereignis-erfassen
-description: "Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig für spaeteren Nachweis dass der Geschäftsführer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO) im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig für spaeteren Nachweis dass der Geschäftsführer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO) im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslösendes Ereignis erfassen
 
 ## Arbeitsbereich
 
-Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig für spaeteren Nachweis dass der Geschäftsführer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig für spaeteren Nachweis dass der Geschäftsführer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

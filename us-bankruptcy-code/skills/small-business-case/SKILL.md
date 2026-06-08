@@ -1,13 +1,13 @@
 ---
 name: small-business-case
-description: "Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Small Business Case
 
 ## Arbeitsbereich
 
-Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

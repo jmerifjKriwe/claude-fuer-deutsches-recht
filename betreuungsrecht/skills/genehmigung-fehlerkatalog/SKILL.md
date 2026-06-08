@@ -29,16 +29,16 @@ Dieser Fehlerkatalog prüft im Bereich **Betreuungsrecht** Ergebnisse vor Abgabe
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-anschluss-router-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `aufgabenkreise-festlegen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bericht-betreuer-betreuerpflichten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuer-als-erbe`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuer-als-registrierung-betreuung-anwaltskosten`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuer-registrierung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuerpflichten-genehmigung-betreuung-interessen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuung-anwaltskosten-rvg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuung-bei-demenz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betreuung-demenz-erbe-werden-erwachsene-kinder`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-anschluss-router-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `aufgabenkreise-festlegen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bericht-betreuer-betreuerpflichten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuer-als-erbe`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuer-als-registrierung-betreuung-anwaltskosten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuer-registrierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuerpflichten-genehmigung-betreuung-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuung-anwaltskosten-rvg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuung-bei-demenz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betreuung-demenz-erbe-werden-erwachsene-kinder`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

@@ -1,13 +1,13 @@
 ---
 name: joint-authorship-wmfh
-description: "Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Joint Authorship und Work Made for Hire
 
 ## Arbeitsbereich
 
-Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: klausel-beweislast-und-darlegungslast
-description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht
 
 ## Arbeitsbereich
 
-Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

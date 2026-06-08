@@ -1,13 +1,13 @@
 ---
 name: memo-zur-rechtsmittelentscheidung
-description: "Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsmittel-Memo
 
 ## Arbeitsbereich
 
-Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

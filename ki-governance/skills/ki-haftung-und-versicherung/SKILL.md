@@ -1,13 +1,13 @@
 ---
 name: ki-haftung-und-versicherung
-description: "Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster für Versicherungsmakler und Risikomanagement im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster für Versicherungsmakler und Risikomanagement im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Haftung und Versicherung
 
 ## Arbeitsbereich
 
-Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster für Versicherungsmakler und Risikomanagement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster für Versicherungsmakler und Risikomanagement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

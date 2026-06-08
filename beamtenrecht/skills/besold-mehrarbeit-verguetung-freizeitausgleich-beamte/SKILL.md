@@ -1,13 +1,13 @@
 ---
 name: besold-mehrarbeit-verguetung-freizeitausgleich-beamte
-description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Mehrarbeit Verguetung Freizeitausgleich Beamte
 
 ## Arbeitsbereich
 
-Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,14 +7,14 @@ description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft k
 
 ## Arbeitsbereich
 
-**Verbandsrecht Sportr Doping Spielervertrag** ordnet den Fall über die tragenden Prüfungslinien: Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verbandsrecht Sportr Doping Spielervertrag** ordnet den Fall über die tragenden Prüfungslinien: Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-verbandsrecht-fristen-form-und-zuständigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster für Verteidiger. |
-| `fachanwalt-sportrecht-spielervertrag` | Prüfungslinie für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sportrecht-spielervertrag` | Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -113,7 +113,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 3. `fachanwalt-sportrecht-spielervertrag`
 
-**Fokus:** Prüfungslinie für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Spielervertrag
 

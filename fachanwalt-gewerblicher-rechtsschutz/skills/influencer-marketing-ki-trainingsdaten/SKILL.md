@@ -7,7 +7,7 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 
 ## Arbeitsbereich
 
-**Influencer Marketing KI Trainingsdaten** ordnet den Fall über die tragenden Prüfungslinien: Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Influencer Marketing KI Trainingsdaten** ordnet den Fall über die tragenden Prüfungslinien: Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

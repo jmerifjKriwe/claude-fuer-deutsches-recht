@@ -7,7 +7,7 @@ description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: 
 
 ## Arbeitsbereich
 
-Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

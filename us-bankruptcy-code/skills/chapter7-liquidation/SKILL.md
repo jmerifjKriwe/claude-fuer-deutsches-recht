@@ -1,13 +1,13 @@
 ---
 name: chapter7-liquidation
-description: "Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 7 Liquidation Workflow
 
 ## Arbeitsbereich
 
-Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

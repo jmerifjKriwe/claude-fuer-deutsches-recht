@@ -1,13 +1,13 @@
 ---
 name: dienstunfall-anerkennung-45-beamtvg
-description: "Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstunfall — Anerkennung und Meldefristen
 
 ## Arbeitsbereich
 
-Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

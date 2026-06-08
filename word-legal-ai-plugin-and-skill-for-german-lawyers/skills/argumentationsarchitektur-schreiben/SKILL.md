@@ -1,13 +1,13 @@
 ---
 name: argumentationsarchitektur-schreiben
-description: "Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Argumentationsarchitektur Schreiben
 
 ## Arbeitsbereich
 
-Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

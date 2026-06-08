@@ -1,13 +1,13 @@
 ---
 name: datenverlust-digitaler-deliktische-haftung
-description: "Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenverlust und digitaler Schaden
 
 ## Arbeitsbereich
 
-Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

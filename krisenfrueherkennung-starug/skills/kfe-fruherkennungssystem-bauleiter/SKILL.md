@@ -1,13 +1,13 @@
 ---
 name: kfe-fruherkennungssystem-bauleiter
-description: "Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster für mittelstaendische GmbH im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster für mittelstaendische GmbH im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KFE: Frueherkennungssystem
 
 ## Arbeitsbereich
 
-Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster für mittelstaendische GmbH. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster für mittelstaendische GmbH. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

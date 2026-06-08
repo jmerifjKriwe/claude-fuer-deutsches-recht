@@ -1,13 +1,13 @@
 ---
 name: willenserklaerung-wucher-ausbeutung-zugang
-description: "Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Willenserklärung — Tatbestand §§ 116 ff. BGB
 
 ## Arbeitsbereich
 
-Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

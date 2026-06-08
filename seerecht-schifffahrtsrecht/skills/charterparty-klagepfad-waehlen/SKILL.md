@@ -1,13 +1,13 @@
 ---
 name: charterparty-klagepfad-waehlen
-description: "Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Charterparty – Klagepfad wählen
 
 ## Arbeitsbereich
 
-Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

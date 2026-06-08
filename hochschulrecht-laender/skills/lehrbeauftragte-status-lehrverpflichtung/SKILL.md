@@ -1,13 +1,13 @@
 ---
 name: lehrbeauftragte-status-lehrverpflichtung
-description: "Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lehrbeauftragte Und Status
 
 ## Arbeitsbereich
 
-Prüft Lehrbeauftragte, Honorar und Status. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lehrbeauftragte, Honorar und Status. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG
 
 ## Arbeitsbereich
 
-Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

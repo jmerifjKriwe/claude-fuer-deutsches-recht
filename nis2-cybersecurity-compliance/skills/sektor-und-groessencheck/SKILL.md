@@ -1,13 +1,13 @@
 ---
 name: sektor-und-groessencheck
-description: "Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sektor Und Groessencheck
 
 ## Arbeitsbereich
 
-Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

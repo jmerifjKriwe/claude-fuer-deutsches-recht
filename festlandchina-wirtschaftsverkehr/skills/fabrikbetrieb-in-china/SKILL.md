@@ -1,13 +1,13 @@
 ---
 name: fabrikbetrieb-in-china
-description: "Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance
 
 ## Arbeitsbereich
 
-Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

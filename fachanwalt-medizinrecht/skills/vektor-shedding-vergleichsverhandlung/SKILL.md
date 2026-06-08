@@ -7,7 +7,7 @@ description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Vektor Shedding Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Vektor Shedding Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

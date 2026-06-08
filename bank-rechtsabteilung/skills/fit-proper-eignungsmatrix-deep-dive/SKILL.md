@@ -1,13 +1,13 @@
 ---
 name: fit-proper-eignungsmatrix-deep-dive
-description: "Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fit-and-Proper Eignungsmatrix
 
 ## Arbeitsbereich
 
-Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

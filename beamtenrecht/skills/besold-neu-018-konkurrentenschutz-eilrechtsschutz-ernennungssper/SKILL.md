@@ -1,13 +1,13 @@
 ---
 name: besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper
-description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Konkurrentenschutz Eilrechtsschutz Ernennungssper
 
 ## Arbeitsbereich
 
-Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

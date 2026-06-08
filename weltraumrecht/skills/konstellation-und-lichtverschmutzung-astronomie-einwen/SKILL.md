@@ -1,13 +1,13 @@
 ---
 name: konstellation-und-lichtverschmutzung-astronomie-einwen
-description: "Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen
 
 ## Arbeitsbereich
 
-Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

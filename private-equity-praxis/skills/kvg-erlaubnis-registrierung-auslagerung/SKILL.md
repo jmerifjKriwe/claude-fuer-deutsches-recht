@@ -1,13 +1,13 @@
 ---
 name: kvg-erlaubnis-registrierung-auslagerung
-description: "Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KVG: Erlaubnis, Registrierung und Auslagerung
 
 ## Arbeitsbereich
 
-Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

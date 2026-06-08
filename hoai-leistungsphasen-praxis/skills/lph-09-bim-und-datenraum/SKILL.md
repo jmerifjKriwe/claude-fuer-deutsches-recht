@@ -1,13 +1,13 @@
 ---
 name: lph-09-bim-und-datenraum
-description: "HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 9 Objektbetreuung: Ordnet digitale modelle
 
 ## Arbeitsbereich
 
-HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

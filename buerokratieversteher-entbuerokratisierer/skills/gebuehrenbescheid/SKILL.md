@@ -1,13 +1,13 @@
 ---
 name: gebuehrenbescheid
-description: "Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gebührenbescheid
 
 ## Arbeitsbereich
 
-Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

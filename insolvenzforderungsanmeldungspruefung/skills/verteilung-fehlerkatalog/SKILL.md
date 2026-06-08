@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Insolvenzforderungsanmeldungspruefung**
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `feststellung-forderungsgrund-rang-grund`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `iap-anmeldepruefung-bauleiter-aussonderung-absonderung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `iap-rangordnung-ifap-aktenanlage-ifap-beleg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-dubletten-serienforderungen-formalpruefung-grund-betrag`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-insolvenzforderungsanmeldungspruefung-intake`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-intake-kanalcheck-masseverbindlichkeit-abgrenzen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-nachtraegliche-anmeldung-pruefungstermin-gate`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-pruefentscheidung-vbuh`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `ifap-rang-nachrang-schuldnerwiderspruch-streitige-forderung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `feststellung-forderungsgrund-rang-grund`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `iap-anmeldepruefung-bauleiter-aussonderung-absonderung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `iap-rangordnung-ifap-aktenanlage-ifap-beleg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-dubletten-serienforderungen-formalpruefung-grund-betrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-insolvenzforderungsanmeldungspruefung-intake`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-intake-kanalcheck-masseverbindlichkeit-abgrenzen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-nachtraegliche-anmeldung-pruefungstermin-gate`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-pruefentscheidung-vbuh`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `ifap-rang-nachrang-schuldnerwiderspruch-streitige-forderung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

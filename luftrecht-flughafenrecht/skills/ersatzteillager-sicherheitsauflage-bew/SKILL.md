@@ -1,13 +1,13 @@
 ---
 name: ersatzteillager-sicherheitsauflage-bew
-description: "Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ersatzteillager – Sicherheitsauflage bewerten
 
 ## Arbeitsbereich
 
-Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

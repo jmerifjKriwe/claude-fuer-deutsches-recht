@@ -1,13 +1,13 @@
 ---
 name: operate-verhandlung-vergleich-und-eskalation
-description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Verhandlung, Vergleich und Eskalation
 
 ## Arbeitsbereich
 
-Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

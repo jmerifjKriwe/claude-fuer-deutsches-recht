@@ -7,7 +7,7 @@ description: "Bautraeger WEG Erstgespraech im Plugin Fachanwalt Bau Architektenr
 
 ## Arbeitsbereich
 
-**Bautraeger WEG Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: WEG-Instandhaltungsruecklage zur Uebergabe, WEG-Teilungserklaerung beim Bautraegervertrag pruefen, Erstgespraeches-Aufnahme im Bau- und Architektenrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bautraeger WEG Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: WEG-Instandhaltungsruecklage zur Uebergabe, WEG-Teilungserklaerung beim Bautraegervertrag pruefen, Erstgespraeches-Aufnahme im Bau- und Architektenrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

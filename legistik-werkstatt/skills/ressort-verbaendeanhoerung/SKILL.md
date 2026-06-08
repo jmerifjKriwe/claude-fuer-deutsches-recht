@@ -1,13 +1,13 @@
 ---
 name: ressort-verbaendeanhoerung
-description: "Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fiskalnormen; haushalts-und-zuwendungsrecht; finanzmarktaufsicht-bafin-kwg-wpig; zoll-und-aussenwirtschaftsrecht; geldwaesche-und-sanktionsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmf und legw-bmf-Themenslug im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fiskalnormen; haushalts-und-zuwendungsrecht; finanzmarktaufsicht-bafin-kwg-wpig; zoll-und-aussenwirtschaftsrecht; geldwaesche-und-sanktionsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmf und legw-bmf-Themenslug im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ressort-Heranfuehrung BMF
 
 ## Arbeitsbereich
 
-Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fiskalnormen; haushalts-und-zuwendungsrecht; finanzmarktaufsicht-bafin-kwg-wpig; zoll-und-aussenwirtschaftsrecht; geldwaesche-und-sanktionsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmf und legw-bmf-Themenslug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fiskalnormen; haushalts-und-zuwendungsrecht; finanzmarktaufsicht-bafin-kwg-wpig; zoll-und-aussenwirtschaftsrecht; geldwaesche-und-sanktionsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmf und legw-bmf-Themenslug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

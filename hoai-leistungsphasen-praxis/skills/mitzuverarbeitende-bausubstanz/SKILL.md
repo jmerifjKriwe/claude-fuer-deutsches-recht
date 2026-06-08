@@ -1,13 +1,13 @@
 ---
 name: mitzuverarbeitende-bausubstanz
-description: "HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mitzuverarbeitende Bausubstanz Im Bestand
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

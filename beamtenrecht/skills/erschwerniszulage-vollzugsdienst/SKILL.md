@@ -1,13 +1,13 @@
 ---
 name: erschwerniszulage-vollzugsdienst
-description: "Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erschwerniszulage Vollzugsdienst und Sonderdienste
 
 ## Arbeitsbereich
 
-Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

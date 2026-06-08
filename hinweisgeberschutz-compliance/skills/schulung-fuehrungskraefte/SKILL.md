@@ -1,13 +1,13 @@
 ---
 name: schulung-fuehrungskraefte
-description: "Schult Führungskräfte gegen Repressalienfehler im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schult Führungskräfte gegen Repressalienfehler im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulung Fuehrungskraefte
 
 ## Arbeitsbereich
 
-Schult Führungskräfte gegen Repressalienfehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schult Führungskräfte gegen Repressalienfehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

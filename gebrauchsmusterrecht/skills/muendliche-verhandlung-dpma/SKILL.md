@@ -1,13 +1,13 @@
 ---
 name: muendliche-verhandlung-dpma
-description: "Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Muendliche Verhandlung Dpma
 
 ## Arbeitsbereich
 
-Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

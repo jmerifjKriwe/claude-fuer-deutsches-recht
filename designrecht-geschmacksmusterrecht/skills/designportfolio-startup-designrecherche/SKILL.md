@@ -1,13 +1,13 @@
 ---
 name: designportfolio-startup-designrecherche
-description: "Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designportfolio Startup
 
 ## Arbeitsbereich
 
-Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

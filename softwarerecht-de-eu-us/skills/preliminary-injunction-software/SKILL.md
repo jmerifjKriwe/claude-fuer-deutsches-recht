@@ -1,13 +1,13 @@
 ---
 name: preliminary-injunction-software
-description: "Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstweilige Verfügung Software
 
 ## Arbeitsbereich
 
-Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

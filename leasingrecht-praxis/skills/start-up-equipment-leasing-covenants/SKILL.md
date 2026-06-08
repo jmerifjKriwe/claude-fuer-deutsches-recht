@@ -1,13 +1,13 @@
 ---
 name: start-up-equipment-leasing-covenants
-description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Start-up Equipment-Leasing: Covenants und Risikoabsicherung
 
 ## Arbeitsbereich
 
-Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

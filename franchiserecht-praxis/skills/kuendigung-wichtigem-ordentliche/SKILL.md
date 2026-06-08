@@ -1,13 +1,13 @@
 ---
 name: kuendigung-wichtigem-ordentliche
-description: "Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Kündigung aus wichtigem Grund
 
 ## Arbeitsbereich
 
-Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

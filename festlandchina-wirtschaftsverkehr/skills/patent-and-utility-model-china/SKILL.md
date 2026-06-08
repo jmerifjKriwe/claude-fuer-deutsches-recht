@@ -1,13 +1,13 @@
 ---
 name: patent-and-utility-model-china
-description: "Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz
 
 ## Arbeitsbereich
 
-Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

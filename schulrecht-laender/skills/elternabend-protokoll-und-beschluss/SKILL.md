@@ -1,13 +1,13 @@
 ---
 name: elternabend-protokoll-und-beschluss
-description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elternabend, Protokoll und Beschluss
 
 ## Arbeitsbereich
 
-Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 
 ## Arbeitsbereich
 
-Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollaußenpruefungen. Output: Integrierte Zollwert-Ursprungs-Pruefmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollaußenpruefungen. Output: Integrierte Zollwert-Ursprungs-Pruefmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversor
 
 ## Arbeitsbereich
 
-Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

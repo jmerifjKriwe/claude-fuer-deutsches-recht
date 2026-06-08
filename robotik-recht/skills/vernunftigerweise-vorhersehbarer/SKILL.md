@@ -1,13 +1,13 @@
 ---
 name: vernunftigerweise-vorhersehbarer
-description: "Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorhersehbarer Gebrauch
 
 ## Arbeitsbereich
 
-Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

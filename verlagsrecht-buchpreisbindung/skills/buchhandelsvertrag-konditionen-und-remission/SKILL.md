@@ -7,7 +7,7 @@ description: "Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel �
 
 ## Arbeitsbereich
 
-Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel — Konditionenabkommen, Remissionsrecht, Retourenquoten, Auslieferungsverträge und Buchpreisbindungs-Compliance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel — Konditionenabkommen, Remissionsrecht, Retourenquoten, Auslieferungsverträge und Buchpreisbindungs-Compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

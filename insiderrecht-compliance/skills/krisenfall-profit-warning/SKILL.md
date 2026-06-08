@@ -1,13 +1,13 @@
 ---
 name: krisenfall-profit-warning
-description: "Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krisenfall Profit Warning – Ad-hoc und Insiderrecht
 
 ## Arbeitsbereich
 
-Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 
 ## Arbeitsbereich
 
-**GR Einfuehrung Saeulen** ordnet den Fall über die tragenden Prüfungslinien: Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**GR Einfuehrung Saeulen** ordnet den Fall über die tragenden Prüfungslinien: Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

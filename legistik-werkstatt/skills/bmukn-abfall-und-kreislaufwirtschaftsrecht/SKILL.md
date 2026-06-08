@@ -1,13 +1,13 @@
 ---
 name: bmukn-abfall-und-kreislaufwirtschaftsrecht
-description: "Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abfall- und Kreislaufwirtschaftsrecht (BMUKN)
 
 ## Arbeitsbereich
 
-Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

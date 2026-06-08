@@ -1,13 +1,13 @@
 ---
 name: eu-design-euipo-nichtigkeit
-description: "EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024 im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024 im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eu Design Anmeldung Euipo
 
 ## Arbeitsbereich
 
-EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, 
 
 ## Arbeitsbereich
 
-Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, Founder Calls und Datenschutzgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, Founder Calls und Datenschutzgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

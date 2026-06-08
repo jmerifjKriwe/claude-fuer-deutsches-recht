@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-risiko-memo-schreiben
-description: "Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung
-description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
 
 ## Arbeitsbereich
 
-Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

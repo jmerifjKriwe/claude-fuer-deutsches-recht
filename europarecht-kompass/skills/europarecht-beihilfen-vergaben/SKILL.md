@@ -1,13 +1,13 @@
 ---
 name: europarecht-beihilfen-vergaben
-description: "Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beihilfen, Förderungen und Vergabe
 
 ## Arbeitsbereich
 
-Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

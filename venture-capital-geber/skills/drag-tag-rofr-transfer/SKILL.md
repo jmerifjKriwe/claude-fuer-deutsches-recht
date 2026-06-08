@@ -7,7 +7,7 @@ description: "Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrech
 
 ## Arbeitsbereich
 
-Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrechte, Transferbeschränkungen und Secondary-Optionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrechte, Transferbeschränkungen und Secondary-Optionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

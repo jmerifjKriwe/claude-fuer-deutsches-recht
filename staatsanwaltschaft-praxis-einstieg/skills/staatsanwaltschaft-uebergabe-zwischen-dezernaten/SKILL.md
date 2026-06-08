@@ -1,13 +1,13 @@
 ---
 name: staatsanwaltschaft-uebergabe-zwischen-dezernaten
-description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten
 
 ## Arbeitsbereich
 
-Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

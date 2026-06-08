@@ -7,7 +7,7 @@ description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandanten
 
 ## Arbeitsbereich
 
-**Strafprozess Instruktionen** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Strafprozess Instruktionen** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwvw Versteigerung

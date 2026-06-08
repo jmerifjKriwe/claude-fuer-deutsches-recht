@@ -1,13 +1,13 @@
 ---
 name: kollegialitaetsgebot-kompetenz-zweifel
-description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kollegialitätsgebot-Prüfung
 
 ## Arbeitsbereich
 
-E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

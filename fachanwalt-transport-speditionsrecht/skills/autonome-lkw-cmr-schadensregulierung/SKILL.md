@@ -7,7 +7,7 @@ description: "Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transpor
 
 ## Arbeitsbereich
 
-**Autonome LKW CMR Schadensregulierung** ordnet den Fall über die tragenden Prüfungslinien: Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren, Schadensregulierung im grenzüberschreitenden Gueterverkehr, Speditionshaftung nach HGB prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Autonome LKW CMR Schadensregulierung** ordnet den Fall über die tragenden Prüfungslinien: Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren, Schadensregulierung im grenzüberschreitenden Gueterverkehr, Speditionshaftung nach HGB prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

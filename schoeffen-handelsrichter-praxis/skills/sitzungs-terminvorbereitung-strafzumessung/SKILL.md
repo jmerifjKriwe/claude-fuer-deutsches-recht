@@ -1,13 +1,13 @@
 ---
 name: sitzungs-terminvorbereitung-strafzumessung
-description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sitzungs- und Terminvorbereitung
 
 ## Arbeitsbereich
 
-Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

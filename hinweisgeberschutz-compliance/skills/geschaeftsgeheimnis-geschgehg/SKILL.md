@@ -1,13 +1,13 @@
 ---
 name: geschaeftsgeheimnis-geschgehg
-description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschaeftsgeheimnis Geschgehg
 
 ## Arbeitsbereich
 
-Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

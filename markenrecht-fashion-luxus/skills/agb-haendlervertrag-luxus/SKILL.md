@@ -1,13 +1,13 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
 
 ## Arbeitsbereich
 
-AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

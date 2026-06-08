@@ -1,13 +1,13 @@
 ---
 name: arbeitsunfall-dguv-audit-trail
-description: "Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsunfallanzeige DGUV
 
 ## Arbeitsbereich
 
-Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

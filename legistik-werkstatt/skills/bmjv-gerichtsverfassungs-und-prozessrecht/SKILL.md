@@ -1,13 +1,13 @@
 ---
 name: bmjv-gerichtsverfassungs-und-prozessrecht
-description: "Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gerichtsverfassungs- und Prozessrecht (BMJV)
 
 ## Arbeitsbereich
 
-Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

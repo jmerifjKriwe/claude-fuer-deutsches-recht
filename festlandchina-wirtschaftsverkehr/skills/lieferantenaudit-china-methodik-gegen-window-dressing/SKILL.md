@@ -1,13 +1,13 @@
 ---
 name: lieferantenaudit-china-methodik-gegen-window-dressing
-description: "Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferantenaudit China: Methodik gegen Window Dressing
 
 ## Arbeitsbereich
 
-Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

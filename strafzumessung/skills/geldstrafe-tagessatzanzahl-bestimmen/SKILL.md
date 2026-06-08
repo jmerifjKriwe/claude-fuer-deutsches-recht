@@ -1,13 +1,13 @@
 ---
 name: geldstrafe-tagessatzanzahl-bestimmen
-description: "Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tagessatzanzahl der Geldstrafe — § 40 Abs. 1 StGB
 
 ## Arbeitsbereich
 
-Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

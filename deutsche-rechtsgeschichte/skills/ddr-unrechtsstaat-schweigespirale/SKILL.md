@@ -1,13 +1,13 @@
 ---
 name: ddr-unrechtsstaat-schweigespirale
-description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DDR-Recht und juristische Aufarbeitung
 
 ## Arbeitsbereich
 
-Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

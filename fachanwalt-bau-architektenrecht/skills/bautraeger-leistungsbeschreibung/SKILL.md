@@ -7,7 +7,7 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 ## Arbeitsbereich
 
-**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüfungslinien: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüfungslinien: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

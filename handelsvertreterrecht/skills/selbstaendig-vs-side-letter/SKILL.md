@@ -1,13 +1,13 @@
 ---
 name: selbstaendig-vs-side-letter
-description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB
 
 ## Arbeitsbereich
 
-Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

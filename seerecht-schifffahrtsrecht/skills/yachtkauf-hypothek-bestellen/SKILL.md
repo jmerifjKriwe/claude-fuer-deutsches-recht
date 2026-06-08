@@ -1,13 +1,13 @@
 ---
 name: yachtkauf-hypothek-bestellen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit für Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit für Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Yachtkauf – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit für Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit für Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

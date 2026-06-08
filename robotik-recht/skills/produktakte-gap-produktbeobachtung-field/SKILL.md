@@ -1,13 +1,13 @@
 ---
 name: produktakte-gap-produktbeobachtung-field
-description: "Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktakte Gap-Analyse
 
 ## Arbeitsbereich
 
-Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

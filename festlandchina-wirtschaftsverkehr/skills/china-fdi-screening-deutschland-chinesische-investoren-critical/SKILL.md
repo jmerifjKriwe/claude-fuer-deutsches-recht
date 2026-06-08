@@ -1,13 +1,13 @@
 ---
 name: china-fdi-screening-deutschland-chinesische-investoren-critical
-description: "FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen
 
 ## Arbeitsbereich
 
-FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

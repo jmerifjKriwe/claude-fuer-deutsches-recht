@@ -1,13 +1,13 @@
 ---
 name: berufsgesellschaft-compliance-verteidigung
-description: "Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Berufsgesellschaft Compliance: Verteidigungs- und Kammerantwort
 
 ## Arbeitsbereich
 
-Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

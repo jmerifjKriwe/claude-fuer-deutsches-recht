@@ -1,13 +1,13 @@
 ---
 name: strafz-strafzumessungstatsachen
-description: "Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster für Plaedoyer und Urteil im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster für Plaedoyer und Urteil im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # StrafZ: Tatsachen Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster für Plaedoyer und Urteil. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster für Plaedoyer und Urteil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

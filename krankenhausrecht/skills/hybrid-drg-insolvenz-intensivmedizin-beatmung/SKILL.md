@@ -1,13 +1,13 @@
 ---
 name: hybrid-drg-insolvenz-intensivmedizin-beatmung
-description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hybrid-DRG § 115f SGB V
 
 ## Arbeitsbereich
 
-Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

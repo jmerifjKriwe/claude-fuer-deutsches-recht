@@ -7,7 +7,7 @@ description: "Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorver
 
 ## Arbeitsbereich
 
-Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: einfuehrung-durchfuehrungswege-erstattung
-description: "Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # bAV: Durchfuehrungswege
 
 ## Arbeitsbereich
 
-Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

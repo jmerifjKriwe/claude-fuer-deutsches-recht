@@ -1,13 +1,13 @@
 ---
 name: zag-ausnahmen-limited-network-commercial-agent
-description: "ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ZAG-Ausnahmen
 
 ## Arbeitsbereich
 
-ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

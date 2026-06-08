@@ -1,13 +1,13 @@
 ---
 name: mandatsbeendigung
-description: "Mandatsbeendigung: vertiefter Berufsrechts-Skill für Notare; prüft Mandatsbeendigung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsbeendigung: vertiefter Berufsrechts-Skill für Notare; prüft Mandatsbeendigung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandatsbeendigung
 
 ## Arbeitsbereich
 
-Mandatsbeendigung: vertiefter Berufsrechts-Skill für Notare; prüft Mandatsbeendigung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandatsbeendigung: vertiefter Berufsrechts-Skill für Notare; prüft Mandatsbeendigung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

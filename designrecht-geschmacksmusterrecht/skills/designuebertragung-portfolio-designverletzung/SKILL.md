@@ -1,13 +1,13 @@
 ---
 name: designuebertragung-portfolio-designverletzung
-description: "Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designuebertragung Portfolio
 
 ## Arbeitsbereich
 
-Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

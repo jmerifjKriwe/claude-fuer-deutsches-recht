@@ -7,7 +7,7 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 ## Arbeitsbereich
 
-**CAS DIS** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**CAS DIS** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

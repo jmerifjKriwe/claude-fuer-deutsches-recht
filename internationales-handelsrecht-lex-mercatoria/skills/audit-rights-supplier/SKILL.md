@@ -1,13 +1,13 @@
 ---
 name: audit-rights-supplier
-description: "Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Audit-Rechte gegenüber Lieferanten
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: dpma-bpatg-bgh-rechtsmittelroute
-description: "DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DPMA, BPatG und BGH
 
 ## Arbeitsbereich
 
-DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: satzungsaenderung-beschlussmaengel-liste
-description: "Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

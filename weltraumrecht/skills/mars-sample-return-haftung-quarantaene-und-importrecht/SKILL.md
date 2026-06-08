@@ -1,13 +1,13 @@
 ---
 name: mars-sample-return-haftung-quarantaene-und-importrecht
-description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Mars Sample Return: Haftung, Quarantäne und Importrecht
 
 ## Arbeitsbereich
 
-Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bewegliche-sachen-router
-description: "Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasing von Netzwerkequipment: Router, Switches, Access Points
 
 ## Arbeitsbereich
 
-Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

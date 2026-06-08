@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-und-machine-learning-features
-description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten
 
 ## Arbeitsbereich
 
-Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

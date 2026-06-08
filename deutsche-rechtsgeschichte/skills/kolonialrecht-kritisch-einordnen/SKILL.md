@@ -1,13 +1,13 @@
 ---
 name: kolonialrecht-kritisch-einordnen
-description: "Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kolonialrecht kritisch einordnen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: vergleich-brd-ddr-recht
-description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich BRD-DDR-Recht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

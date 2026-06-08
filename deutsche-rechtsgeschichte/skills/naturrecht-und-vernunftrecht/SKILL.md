@@ -1,13 +1,13 @@
 ---
 name: naturrecht-und-vernunftrecht
-description: "Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Naturrecht und Vernunftrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

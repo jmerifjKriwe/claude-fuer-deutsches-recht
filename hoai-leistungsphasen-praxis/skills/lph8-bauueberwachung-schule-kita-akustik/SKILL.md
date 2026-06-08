@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-schule-kita-akustik
-description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Schule und Kita Akustik (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sanierung-krise-jahresabschluss-grundlagen
-description: "Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # HGB in Krise und Sanierung
 
 ## Arbeitsbereich
 
-Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

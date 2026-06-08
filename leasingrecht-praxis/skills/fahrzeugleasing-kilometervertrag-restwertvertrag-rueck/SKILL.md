@@ -1,13 +1,13 @@
 ---
 name: fahrzeugleasing-kilometervertrag-restwertvertrag-rueck
-description: "Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe
 
 ## Arbeitsbereich
 
-Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

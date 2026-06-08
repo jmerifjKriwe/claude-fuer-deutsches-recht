@@ -1,13 +1,13 @@
 ---
 name: markenrecherche
-description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Markenrecherche (Clearance)
 
 ## Arbeitsbereich
 
-Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

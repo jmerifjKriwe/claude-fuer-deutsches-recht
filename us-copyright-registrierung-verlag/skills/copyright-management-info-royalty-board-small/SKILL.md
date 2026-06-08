@@ -1,13 +1,13 @@
 ---
 name: copyright-management-info-royalty-board-small
-description: "Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Copyright Management Information § 1202
 
 ## Arbeitsbereich
 
-Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

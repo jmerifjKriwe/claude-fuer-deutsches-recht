@@ -7,7 +7,7 @@ description: "Laienrollen in Liturgie und Verkündigung: Fachmodul für CIC, Kat
 
 ## Arbeitsbereich
 
-Laienrollen in Liturgie und Verkündigung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Laienrollen in Liturgie und Verkündigung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

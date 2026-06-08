@@ -1,13 +1,13 @@
 ---
 name: joint-venture-trade-manufacturing-agreement-oem
-description: "Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV) im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV) im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Joint Venture im internationalen Handel
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

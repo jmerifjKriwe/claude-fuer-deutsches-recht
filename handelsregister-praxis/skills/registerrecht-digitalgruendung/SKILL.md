@@ -1,13 +1,13 @@
 ---
 name: registerrecht-digitalgruendung
-description: "Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online-Gründung und DiRUG
 
 ## Arbeitsbereich
 
-Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

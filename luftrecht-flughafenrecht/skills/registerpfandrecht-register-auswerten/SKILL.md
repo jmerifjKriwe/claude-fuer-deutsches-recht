@@ -1,13 +1,13 @@
 ---
 name: registerpfandrecht-register-auswerten
-description: "Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerpfandrecht – Register auswerten
 
 ## Arbeitsbereich
 
-Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

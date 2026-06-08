@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsprechung live verifizieren
 
 ## Arbeitsbereich
 
-Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

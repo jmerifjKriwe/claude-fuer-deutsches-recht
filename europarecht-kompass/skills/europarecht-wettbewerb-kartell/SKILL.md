@@ -1,13 +1,13 @@
 ---
 name: europarecht-wettbewerb-kartell
-description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Wettbewerb und Kartellrecht
 
 ## Arbeitsbereich
 
-Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

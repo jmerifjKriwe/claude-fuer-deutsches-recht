@@ -1,13 +1,13 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Pruefraster für Nutzer und Plattform-Strategie im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Pruefraster für Nutzer und Plattform-Strategie im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DSA: Out-of-Court-Streit
 
 ## Arbeitsbereich
 
-Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Pruefraster für Nutzer und Plattform-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Pruefraster für Nutzer und Plattform-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

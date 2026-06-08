@@ -1,13 +1,13 @@
 ---
 name: esa-vertrag-programmbeitraege-und-industrielle-rueckfl
-description: "ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse
 
 ## Arbeitsbereich
 
-ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

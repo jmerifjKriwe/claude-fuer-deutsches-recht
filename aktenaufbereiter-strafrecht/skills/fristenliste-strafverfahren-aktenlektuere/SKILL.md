@@ -1,13 +1,13 @@
 ---
 name: fristenliste-strafverfahren-aktenlektuere
-description: "Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen pruefen im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen pruefen im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristenliste Strafverfahren
 
 ## Arbeitsbereich
 
-Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Pruefung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsoptionen pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

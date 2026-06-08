@@ -1,13 +1,13 @@
 ---
 name: immo-makler-honorar
-description: "Maklervertrag und Honorar: § 652 BGB Maklerlohn, Nachweismakler/Verhandlungsmakler, § 656d BGB Verbraucher-Wohnimmobilien Halbteilungsgrundsatz, Hinweis Doppelmaklertaetigkeit § 654 BGB. Pruefraster im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maklervertrag und Honorar: § 652 BGB Maklerlohn, Nachweismakler/Verhandlungsmakler, § 656d BGB Verbraucher-Wohnimmobilien Halbteilungsgrundsatz, Hinweis Doppelmaklertaetigkeit § 654 BGB. Pruefraster im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maklervertrag
 
 ## Arbeitsbereich
 
-Maklervertrag und Honorar: § 652 BGB Maklerlohn, Nachweismakler/Verhandlungsmakler, § 656d BGB Verbraucher-Wohnimmobilien Halbteilungsgrundsatz, Hinweis Doppelmaklertaetigkeit § 654 BGB. Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maklervertrag und Honorar: § 652 BGB Maklerlohn, Nachweismakler/Verhandlungsmakler, § 656d BGB Verbraucher-Wohnimmobilien Halbteilungsgrundsatz, Hinweis Doppelmaklertaetigkeit § 654 BGB. Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

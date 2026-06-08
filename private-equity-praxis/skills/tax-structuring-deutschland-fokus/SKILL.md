@@ -1,13 +1,13 @@
 ---
 name: tax-structuring-deutschland-fokus
-description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tax Structuring: Deutschland-Fokus
 
 ## Arbeitsbereich
 
-Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

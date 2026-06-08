@@ -1,13 +1,13 @@
 ---
 name: wohnung-und-obdachlosigkeit
-description: "Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wohnung und Obdachlosigkeit
 
 ## Arbeitsbereich
 
-Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

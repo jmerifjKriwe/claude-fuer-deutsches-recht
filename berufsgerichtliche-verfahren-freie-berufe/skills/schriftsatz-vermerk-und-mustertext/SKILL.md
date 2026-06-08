@@ -1,13 +1,13 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatz, Vermerk und Mustertext
 
 ## Arbeitsbereich
 
-Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

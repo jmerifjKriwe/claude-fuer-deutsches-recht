@@ -1,13 +1,13 @@
 ---
 name: garantie-vs-gebrauchtkauf-privat
-description: "Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Garantie versus Gewährleistung
 
 ## Arbeitsbereich
 
-Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

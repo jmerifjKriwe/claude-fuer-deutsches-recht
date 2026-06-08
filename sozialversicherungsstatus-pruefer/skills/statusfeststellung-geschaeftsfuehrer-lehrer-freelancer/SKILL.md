@@ -1,13 +1,13 @@
 ---
 name: statusfeststellung-geschaeftsfuehrer-lehrer-freelancer
-description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Statusfeststellung: Geschäftsführer, Lehrende, Freelancer und Scheinselbstständigkeit
 
 ## Arbeitsbereich
 
-Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

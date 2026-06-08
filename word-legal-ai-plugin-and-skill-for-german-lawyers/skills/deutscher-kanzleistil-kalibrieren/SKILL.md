@@ -1,13 +1,13 @@
 ---
 name: deutscher-kanzleistil-kalibrieren
-description: "Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutscher Kanzleistil Kalibrieren
 
 ## Arbeitsbereich
 
-Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schuldrecht-vertragsfreiheit
-description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schuldrecht und Vertragsfreiheit
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

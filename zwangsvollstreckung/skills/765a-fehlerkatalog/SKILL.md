@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Zwangsvollstreckung** Ergebnisse vor Ab
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bank-haertefall-inso`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `kontenpfaendung-notar-interessen-online`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `mahnbescheid-fristennotiz-zv-titel-zv-kontensuche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `pfueb-raeumung-schuldnerschutz-beweislast`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `vermoegensauskunft-vollstreckungsbescheid-vollstreckungstitel`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zpo-zwangsvollstreckung-zv-abwehr`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zv-elektronische-zv-eu-zv`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zv-mahnbescheid-zv-mobiliar-zv-notarielle`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `zv-pfaendungstabelle-zv-pfueb-zv-pfueb`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `bank-haertefall-inso`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `kontenpfaendung-notar-interessen-online`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `mahnbescheid-fristennotiz-zv-titel-zv-kontensuche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `pfueb-raeumung-schuldnerschutz-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `vermoegensauskunft-vollstreckungsbescheid-vollstreckungstitel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zpo-zwangsvollstreckung-zv-abwehr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zv-elektronische-zv-eu-zv`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zv-mahnbescheid-zv-mobiliar-zv-notarielle`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `zv-pfaendungstabelle-zv-pfueb-zv-pfueb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

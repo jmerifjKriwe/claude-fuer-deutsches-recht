@@ -1,13 +1,13 @@
 ---
 name: flughafen-planfeststellung
-description: "Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz
 
 ## Arbeitsbereich
 
-Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

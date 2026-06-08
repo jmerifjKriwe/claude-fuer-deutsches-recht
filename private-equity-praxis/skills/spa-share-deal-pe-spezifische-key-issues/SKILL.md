@@ -1,13 +1,13 @@
 ---
 name: spa-share-deal-pe-spezifische-key-issues
-description: "Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SPA Share Deal: PE-spezifische Key Issues
 
 ## Arbeitsbereich
 
-Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

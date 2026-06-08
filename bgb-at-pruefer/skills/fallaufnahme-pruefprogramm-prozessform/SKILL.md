@@ -1,13 +1,13 @@
 ---
 name: fallaufnahme-pruefprogramm-prozessform
-description: "Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil
 
 ## Arbeitsbereich
 
-Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

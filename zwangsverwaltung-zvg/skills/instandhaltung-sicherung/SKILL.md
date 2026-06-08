@@ -1,13 +1,13 @@
 ---
 name: instandhaltung-sicherung
-description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Länder. Prüfraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begründung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Länder. Prüfraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begründung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Instandhaltung, Sicherung und Gefahrenabwehr
 
 ## Arbeitsbereich
 
-Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Länder. Prüfraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begründung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Länder. Prüfraster Verkehrssicherungspflicht Notmassnahmen Reparaturen Genehmigung Budget Dokumentation Gerichtszustimmung. Output Massnahmenprotokoll mit Kosten Begründung Genehmigungsantrag und Bericht ans Gericht. Abgrenzung zu zvg-betriebskosten-hausgeld und zvg-versicherungen-gefahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

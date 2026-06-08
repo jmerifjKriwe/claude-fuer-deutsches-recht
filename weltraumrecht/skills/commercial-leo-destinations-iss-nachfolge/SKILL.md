@@ -1,13 +1,13 @@
 ---
 name: commercial-leo-destinations-iss-nachfolge
-description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Commercial LEO Destinations - ISS-Nachfolge
 
 ## Arbeitsbereich
 
-Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

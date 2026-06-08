@@ -7,7 +7,7 @@ description: "Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antrag
 
 ## Arbeitsbereich
 
-Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

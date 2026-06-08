@@ -1,13 +1,13 @@
 ---
 name: kita-antrag-gebuehren-klage
-description: "Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kita-Antrag
 
 ## Arbeitsbereich
 
-Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

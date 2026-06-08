@@ -1,13 +1,13 @@
 ---
 name: kfz-franchise-und-selektivvertrieb
-description: "Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Kfz-Franchise und Selektivvertrieb
 
 ## Arbeitsbereich
 
-Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

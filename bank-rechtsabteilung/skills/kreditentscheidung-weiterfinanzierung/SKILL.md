@@ -1,13 +1,13 @@
 ---
 name: kreditentscheidung-weiterfinanzierung
-description: "Kreditentscheidung und Weiterfinanzierung: neue Auszahlung, Prolongation, Covenant-Bruch, Sanierungsphase, Risikovotum, Organpflichten und Dokumentation der Bankentscheidung prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditentscheidung und Weiterfinanzierung: neue Auszahlung, Prolongation, Covenant-Bruch, Sanierungsphase, Risikovotum, Organpflichten und Dokumentation der Bankentscheidung prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weiterfinanzierung
 
 ## Arbeitsbereich
 
-Kreditentscheidung und Weiterfinanzierung: neue Auszahlung, Prolongation, Covenant-Bruch, Sanierungsphase, Risikovotum, Organpflichten und Dokumentation der Bankentscheidung prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditentscheidung und Weiterfinanzierung: neue Auszahlung, Prolongation, Covenant-Bruch, Sanierungsphase, Risikovotum, Organpflichten und Dokumentation der Bankentscheidung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

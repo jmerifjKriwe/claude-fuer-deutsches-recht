@@ -1,13 +1,13 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sale Process and Bidding Procedures
 
 ## Arbeitsbereich
 
-Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

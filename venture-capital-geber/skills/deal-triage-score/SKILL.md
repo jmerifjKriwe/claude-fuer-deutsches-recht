@@ -7,7 +7,7 @@ description: "Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Ter
 
 ## Arbeitsbereich
 
-Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

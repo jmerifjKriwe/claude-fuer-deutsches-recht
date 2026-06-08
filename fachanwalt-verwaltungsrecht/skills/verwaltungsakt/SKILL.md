@@ -7,7 +7,7 @@ description: "Verwaltungsakt im Plugin Fachanwalt Verwaltungsrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Verwaltungsakt** ordnet den Fall über die tragenden Prüfungslinien: Beamten-Disziplinarverfahren führen oder verteidigen, Verwaltungsakt, Rechtsbehelf und Vorverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verwaltungsakt** ordnet den Fall über die tragenden Prüfungslinien: Beamten-Disziplinarverfahren führen oder verteidigen, Verwaltungsakt, Rechtsbehelf und Vorverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

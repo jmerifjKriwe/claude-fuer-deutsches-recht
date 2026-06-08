@@ -7,7 +7,7 @@ description: "CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditio
 
 ## Arbeitsbereich
 
-**CMR Haftung Ladungsschaden** ordnet den Fall über die tragenden Prüfungslinien: CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**CMR Haftung Ladungsschaden** ordnet den Fall über die tragenden Prüfungslinien: CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

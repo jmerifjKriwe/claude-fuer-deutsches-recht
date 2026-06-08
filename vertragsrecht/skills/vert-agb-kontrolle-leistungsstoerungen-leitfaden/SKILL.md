@@ -1,13 +1,13 @@
 ---
 name: vert-agb-kontrolle-leistungsstoerungen-leitfaden
-description: "Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Pruefraster für Standardvertraege im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Pruefraster für Standardvertraege im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vert: AGB-Kontrolle B2B
 
 ## Arbeitsbereich
 
-Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Pruefraster für Standardvertraege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Pruefraster für Standardvertraege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

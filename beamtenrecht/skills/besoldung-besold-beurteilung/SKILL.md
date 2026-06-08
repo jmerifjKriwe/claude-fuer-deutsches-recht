@@ -1,13 +1,13 @@
 ---
 name: besoldung-besold-beurteilung
-description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Beurteilung Plausibilisierung Und Anlassbeurteilu
 
 ## Arbeitsbereich
 
-Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

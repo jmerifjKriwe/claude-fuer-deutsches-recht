@@ -1,13 +1,13 @@
 ---
 name: umsatzsteuer-voranmeldung-elster
-description: "USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umsatzsteuer-Voranmeldung und ELSTER
 
 ## Arbeitsbereich
 
-USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

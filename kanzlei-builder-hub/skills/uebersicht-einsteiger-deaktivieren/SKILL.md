@@ -1,13 +1,13 @@
 ---
 name: uebersicht-einsteiger-deaktivieren
-description: "Einfuehrender Ueberblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einfuehrender Ueberblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Builder: Uebersicht Einsteiger
 
 ## Arbeitsbereich
 
-Einfuehrender Ueberblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einfuehrender Ueberblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

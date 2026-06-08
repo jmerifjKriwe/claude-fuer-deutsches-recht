@@ -1,13 +1,13 @@
 ---
 name: model-release-persoenlichkeitsrechte
-description: "Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Model Release Persoenlichkeitsrechte
 
 ## Arbeitsbereich
 
-Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

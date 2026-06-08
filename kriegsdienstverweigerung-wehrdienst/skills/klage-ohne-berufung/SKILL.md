@@ -1,13 +1,13 @@
 ---
 name: klage-ohne-berufung
-description: "Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klage ohne normale Berufung
 
 ## Arbeitsbereich
 
-Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

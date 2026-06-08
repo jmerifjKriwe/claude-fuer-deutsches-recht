@@ -1,13 +1,13 @@
 ---
 name: eingang-und-pk-nachweis
-description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eingangsnachweis sichern
 
 ## Arbeitsbereich
 
-Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

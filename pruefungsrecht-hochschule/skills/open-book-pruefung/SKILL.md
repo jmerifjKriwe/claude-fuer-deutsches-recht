@@ -1,13 +1,13 @@
 ---
 name: open-book-pruefung
-description: "Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open-Book-Prüfung
 
 ## Arbeitsbereich
 
-Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

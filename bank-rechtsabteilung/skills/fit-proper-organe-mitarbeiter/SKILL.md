@@ -1,13 +1,13 @@
 ---
 name: fit-proper-organe-mitarbeiter
-description: "Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fit and Proper
 
 ## Arbeitsbereich
 
-Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

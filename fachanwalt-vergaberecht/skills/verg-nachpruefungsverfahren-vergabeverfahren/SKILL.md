@@ -7,7 +7,7 @@ description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Verg Nachpruefungsverfahren Vergabeverfahren** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verg Nachpruefungsverfahren Vergabeverfahren** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

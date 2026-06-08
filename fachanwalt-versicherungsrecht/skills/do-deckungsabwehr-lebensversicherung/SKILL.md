@@ -7,13 +7,13 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 
 ## Arbeitsbereich
 
-**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüfungslinien: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüfungslinien: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-do-deckungsabwehr` | D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen. |
-| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen` | Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage. |
 
 ## Arbeitsweg
@@ -282,7 +282,7 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 
 ## 2. `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`
 
-**Fokus:** Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Lebensversicherung Rückkauf
 

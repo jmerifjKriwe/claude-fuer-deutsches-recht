@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-finanzdienstleistung-online
-description: "Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
 
 ## Arbeitsbereich
 
-Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

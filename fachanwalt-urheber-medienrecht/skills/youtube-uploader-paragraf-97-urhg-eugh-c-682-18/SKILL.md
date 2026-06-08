@@ -1,30 +1,40 @@
 ---
 name: youtube-uploader-paragraf-97-urhg-eugh-c-682-18
-description: YouTube Uploadhaftung mit EuGH C-682/18.
+description: "Youtube Uploader Paragraf 97 Urhg EuGH C 682 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Youtube Uploader Paragraf 97 Urhg EuGH C 682 18
+
+## Einsatzlage
 
 Plattform haftet fuer Nutzer-Uploads urheberrechtswidrig?
 
-## Normen
+## Normenanker
 
-- Paragraf 97 UrhG
-- RL 2019/790
+- § 97 URHG
+- § 2 UrhG
+- § 15 UrhG
+- § 19a UrhG
+- § 97 UrhG
+- Art. 17 DSM-RL
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 22.06.2021 C-682/18
+- EuGH 22.06.2021 C-682/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Haftung bei aktiver Rolle; Notice-and-Takedown.
 
-## Schriftsatzkern
-
-Plattform muss Verfahren bereitstellen.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - DMCA-Notices
 - Uploaderdaten

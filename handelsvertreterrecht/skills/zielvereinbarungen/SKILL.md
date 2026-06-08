@@ -1,13 +1,13 @@
 ---
 name: zielvereinbarungen
-description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB
 
 ## Arbeitsbereich
 
-Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: strafrahmen-und-strafzumessungsstufen
-description: "Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafrahmen und Strafzumessungsstufen
 
 ## Arbeitsbereich
 
-Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

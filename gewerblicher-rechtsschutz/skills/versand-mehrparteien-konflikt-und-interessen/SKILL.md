@@ -1,13 +1,13 @@
 ---
 name: versand-mehrparteien-konflikt-und-interessen
-description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Mehrparteien-Konstellationen und Interessenkonflikte
 
 ## Arbeitsbereich
 
-Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

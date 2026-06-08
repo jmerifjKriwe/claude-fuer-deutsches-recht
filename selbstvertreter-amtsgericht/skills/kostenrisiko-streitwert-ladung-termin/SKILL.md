@@ -7,7 +7,7 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 ## Arbeitsbereich
 
-**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -7,7 +7,7 @@ description: "Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behörde
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Do
 
 ## Arbeitsbereich
 
-Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

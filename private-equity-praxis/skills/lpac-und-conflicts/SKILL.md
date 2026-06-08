@@ -1,13 +1,13 @@
 ---
 name: lpac-und-conflicts
-description: "Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPAC und Conflicts Management
 
 ## Arbeitsbereich
 
-Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

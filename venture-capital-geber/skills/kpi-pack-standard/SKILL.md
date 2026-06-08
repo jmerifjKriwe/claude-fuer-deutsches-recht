@@ -7,7 +7,7 @@ description: "Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech,
 
 ## Arbeitsbereich
 
-Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

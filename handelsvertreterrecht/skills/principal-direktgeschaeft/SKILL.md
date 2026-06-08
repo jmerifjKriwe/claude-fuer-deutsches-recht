@@ -1,13 +1,13 @@
 ---
 name: principal-direktgeschaeft
-description: "Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB
 
 ## Arbeitsbereich
 
-Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

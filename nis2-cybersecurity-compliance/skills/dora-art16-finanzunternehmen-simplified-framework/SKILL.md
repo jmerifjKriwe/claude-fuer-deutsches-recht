@@ -1,13 +1,13 @@
 ---
 name: dora-art16-finanzunternehmen-simplified-framework
-description: "DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DORA Artikel 16 für Finanzunternehmen
 
 ## Arbeitsbereich
 
-DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

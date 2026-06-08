@@ -1,13 +1,13 @@
 ---
 name: subject-matter-102-scope
-description: "Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subject Matter und § 102 Scope
 
 ## Arbeitsbereich
 
-Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

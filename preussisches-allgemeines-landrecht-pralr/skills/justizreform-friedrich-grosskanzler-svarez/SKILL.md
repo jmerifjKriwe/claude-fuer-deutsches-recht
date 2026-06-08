@@ -7,7 +7,7 @@ description: "Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Sk
 
 ## Arbeitsbereich
 
-Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

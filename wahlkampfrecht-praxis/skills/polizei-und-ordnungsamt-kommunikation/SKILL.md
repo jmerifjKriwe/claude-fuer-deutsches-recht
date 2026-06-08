@@ -1,13 +1,13 @@
 ---
 name: polizei-und-ordnungsamt-kommunikation
-description: "Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei Und Ordnungsamt Kommunikation
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

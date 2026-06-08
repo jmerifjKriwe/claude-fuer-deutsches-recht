@@ -7,7 +7,7 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 
 ## Arbeitsbereich
 
-Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk für Forschungsvorhaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk für Forschungsvorhaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

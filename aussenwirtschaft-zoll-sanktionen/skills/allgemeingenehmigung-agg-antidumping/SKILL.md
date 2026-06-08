@@ -7,7 +7,7 @@ description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passe
 
 ## Arbeitsbereich
 
-Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

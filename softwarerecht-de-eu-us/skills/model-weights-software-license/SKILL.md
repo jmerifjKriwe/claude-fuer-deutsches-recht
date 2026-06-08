@@ -1,13 +1,13 @@
 ---
 name: model-weights-software-license
-description: "Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Model Weights Software License
 
 ## Arbeitsbereich
 
-Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

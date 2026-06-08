@@ -7,7 +7,7 @@ description: "Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge,
 
 ## Arbeitsbereich
 
-Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

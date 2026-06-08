@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb
-description: "Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

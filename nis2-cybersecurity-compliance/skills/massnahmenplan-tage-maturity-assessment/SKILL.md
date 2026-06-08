@@ -1,13 +1,13 @@
 ---
 name: massnahmenplan-tage-maturity-assessment
-description: "Baut 100-Tage-Programm für Cyber-Compliance im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut 100-Tage-Programm für Cyber-Compliance im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Massnahmenplan 100 Tage
 
 ## Arbeitsbereich
 
-Baut 100-Tage-Programm für Cyber-Compliance. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut 100-Tage-Programm für Cyber-Compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-
 
 ## Arbeitsbereich
 
-Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

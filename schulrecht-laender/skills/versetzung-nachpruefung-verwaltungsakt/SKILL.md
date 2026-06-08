@@ -1,13 +1,13 @@
 ---
 name: versetzung-nachpruefung-verwaltungsakt
-description: "Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versetzung Und Nachpruefung
 
 ## Arbeitsbereich
 
-Prüft Versetzung, Nichtversetzung und Nachprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Versetzung, Nichtversetzung und Nachprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

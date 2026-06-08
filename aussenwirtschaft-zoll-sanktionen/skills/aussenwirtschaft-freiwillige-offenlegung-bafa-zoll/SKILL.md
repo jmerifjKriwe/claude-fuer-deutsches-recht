@@ -7,7 +7,7 @@ description: "Strategische und operative Vorbereitung einer freiwilligen Selbsta
 
 ## Arbeitsbereich
 
-Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

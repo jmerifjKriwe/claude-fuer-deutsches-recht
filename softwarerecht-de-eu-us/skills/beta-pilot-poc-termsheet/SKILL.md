@@ -1,13 +1,13 @@
 ---
 name: beta-pilot-poc-termsheet
-description: "Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beta Pilot PoC Termsheet
 
 ## Arbeitsbereich
 
-Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

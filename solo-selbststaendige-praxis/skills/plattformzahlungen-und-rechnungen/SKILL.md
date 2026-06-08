@@ -1,13 +1,13 @@
 ---
 name: plattformzahlungen-und-rechnungen
-description: "Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechnung und Umsatzsteuer: Sortiert stripe
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

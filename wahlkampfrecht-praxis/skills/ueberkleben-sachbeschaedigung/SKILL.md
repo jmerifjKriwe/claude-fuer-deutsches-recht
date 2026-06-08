@@ -1,13 +1,13 @@
 ---
 name: ueberkleben-sachbeschaedigung
-description: "Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ueberkleben Sachbeschaedigung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

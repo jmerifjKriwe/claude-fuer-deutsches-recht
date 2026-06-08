@@ -7,7 +7,7 @@ description: "Arabische Pastoralantworten: arabische Antworten zu Sakrament, Com
 
 ## Arbeitsbereich
 
-Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

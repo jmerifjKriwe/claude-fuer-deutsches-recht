@@ -1,13 +1,13 @@
 ---
 name: dolmetscher-und-uebersetzung
-description: "Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dolmetscher und Übersetzung
 
 ## Arbeitsbereich
 
-Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

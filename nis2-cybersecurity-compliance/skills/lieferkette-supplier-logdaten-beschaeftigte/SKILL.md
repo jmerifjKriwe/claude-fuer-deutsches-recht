@@ -1,13 +1,13 @@
 ---
 name: lieferkette-supplier-logdaten-beschaeftigte
-description: "Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferkette Supplier Security
 
 ## Arbeitsbereich
 
-Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

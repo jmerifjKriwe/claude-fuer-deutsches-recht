@@ -1,13 +1,13 @@
 ---
 name: sportbefreiung-gesundheit-sprachfoerderung
-description: "Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sportbefreiung Und Gesundheit
 
 ## Arbeitsbereich
 
-Prüft Befreiung vom Sport und Gesundheitskonflikte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Befreiung vom Sport und Gesundheitskonflikte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

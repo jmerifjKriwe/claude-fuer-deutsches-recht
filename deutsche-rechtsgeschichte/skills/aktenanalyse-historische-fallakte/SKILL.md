@@ -1,13 +1,13 @@
 ---
 name: aktenanalyse-historische-fallakte
-description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenanalyse: Historische Fallakte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

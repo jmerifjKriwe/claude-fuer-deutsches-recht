@@ -49,13 +49,13 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` | Abnahmefiktion Paragraf 640 II BGB mit BGH VII ZR 301/13. |
+| `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` | Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `abnahme-quellenkarte` | Abnahme Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `anschluss-routing` | Anschluss-Routing für Fachanwalt Bau- und Architektenrecht: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 5 Jahre § 634a BGB, Bauvertrag, Pläne, Bautagebuch), dokumentiert Router-Entscheidung mit Begründung. |
 | `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` | HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19. |
 | `bau-abnahme-nachtrag` | Abnahme Nachtrag im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bau, Abnahme, Nachtragsmanagement. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem... |
 | `bauablauf-vbg` | Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers, HOAI-Honorar für Architekten und Ingenieure b... |
-| `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` | Nachbarklage gegen Baugenehmigung mit BVerwG 4 C 1/19. |
+| `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` | Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `bauordnungsrecht-einfuehrung-fachanwalt-hoai` | Bauordnungsrecht Einfuehrung Fachanwalt HOAI im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bauordnungsrecht, Einfuehrung, Fachanwalt, Hoai. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `bautraeger-abnahme-formgerecht-abnahmefiktion` | Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim B... |
 | `bautraeger-belehrungspflicht` | Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag, B... |
@@ -69,9 +69,9 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 | `bautraeger-weg-erstgespraech` | Bautraeger WEG Erstgespraech im Plugin Fachanwalt Bau Architektenrecht: prüft konkret WEG-Instandhaltungsruecklage zur Uebergabe, WEG-Teilungserklaerung beim Bautraegervertrag pruefen, Erstgespraeches-Aufnahme im Bau- und Architektenrech... |
 | `bautraegervertrag-mev-verstoss-bgh-vii-zr-25-20` | Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Pruefraster Vorleistungsverbot Erstattungsanspruch. |
 | `bgb-bau-einfuehrung-bautraeger-eigenkapital` | BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt Bau Architektenrecht: prüft konkret BGB, Bau- und Architektenrecht einfuehrend, Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss, Bautraegervertrag notarieller P... |
-| `denkmalschutz-abriss-paragraf-9-dschg-bayverfgh` | Denkmalschutz Abrissverbot mit Paragraf 9 DSchG und BayVerfGH. |
-| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `denkmalschutz-abriss-paragraf-9-dschg-bayverfgh` | Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `dokumente-intake` | Dokumentenintake für Fachanwalt Bau- und Architektenrecht: sortiert Bauvertrag, Pläne, Bautagebuch, prüft Datum, Absender, Frist und Beweiswert (SV-Gutachten Mängel, Bautagebuch); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
+| `einstieg-routing` | Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenrecht: ordnet Rolle (Bauherr, Bauunternehmer, Architekt), markiert Frist (Verjährung 5 Jahre § 634a BGB), wählt Norm (BGB §§ 631 ff., 650a ff. Bauvertrag, 650u ff. Bauträger... |
 | `fa-bau-architekten-fristen-risiko-mandant` | FA BAU Architekten Fristen Risiko Mandant im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Bautraeger Fertigstellungsfrist und... |
 | `fa-bau-architekten-quellen-frist-next` | Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `honorar-hoai-kuendigung-vob-bau` | Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architektenrecht: prüft konkret HOAI in Grundzuegen, Spezialfall Kuendigung VOB-Bauvertrag, Spezialfall Schiedsgutachten in Bauvertraegen, Spezialfall Sicherungsmittel. Liefert pri... |
@@ -79,15 +79,15 @@ Automatisch generierte Komplett-Liste aller 40 Skills in diesem Plugin. Beschrei
 | `kontaminierter-baugrund-orientierung-vob` | Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum, Werkmae... |
 | `mandat-triage-nachtragsmanagement-650b` | Mandat Triage Nachtragsmanagement 650b im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Ersteinordnung neuer Mandate im Bau- und Architektenrecht, Nachtragsforderungen des Unternehmers nach § 650b BGB, Schriftsatzkern im Bau- und... |
 | `mangelhaftung-symptomtheorie-bautraeger` | Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a B... |
-| `nachtragsforderung-bgh-vii-zr-34-18-bauwirtschaft` | Nachtragsforderung Bauwirtschaft mit BGH VII ZR 34/18. |
-| `output-waehlen` | Output wählen im Plugin Fachanwalt Bau Architektenrecht: Diese Output-Weiche für Fachanwalt Bau Architektenrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schrit... |
-| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `nachtragsforderung-bgh-vii-zr-34-18-bauwirtschaft` | Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `output-waehlen` | Output-Wahl für Fachanwalt Bau- und Architektenrecht: stimmt Adressat (Bauherr, Bauunternehmer, Architekt), Frist (Verjährung 5 Jahre § 634a BGB) und Form auf den Zweck ab — typische Outputs: Mängelrüge, Klage Werklohn / Schadensersatz M... |
+| `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Bau- und Architektenrecht: prüft Normen (BGB §§ 631 ff., 650a ff. Bauvertrag, 650u ff. Bauträger, HOAI, VOB/B) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgericht (LG mei... |
 | `schiedsgutachten-international-triage` | Schiedsgutachten International Triage im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Schiedsgutachten, Schnittstellen, Triage, Vergaberecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13` | Schwarzarbeit Werklohn nach BGH VII ZR 6/13. |
-| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13` | Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Bau- und Architektenrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bauvertrag, Pläne, Bautagebuch), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht (LG meist)), Frist und E... |
 | `vergleichsverhandlung-strategie-werkmangel` | Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Liefert priorisierten Output mit Norm-Pi... |
-| `verjaehrungsbeginn-werkvertrag-bgh-vii-zr-301-13` | Verjaehrungsbeginn Werkvertrag mit BGH VII ZR 301/13. |
-| `verzug-vob-b-paragraf-5-vob-b-bgh-vii-zr-71-15` | Verzug VOB/B Kuendigung Paragraf 5 VOB/B mit BGH VII ZR 71/15. |
-| `vob-b-bgb-vermischung-bgh-vii-zr-235-15` | VOB/B als Ganzes vereinbart Pruefraster BGH VII ZR 235/15. |
+| `verjaehrungsbeginn-werkvertrag-bgh-vii-zr-301-13` | Verjaehrungsbeginn Werkvertrag BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `verzug-vob-b-paragraf-5-vob-b-bgh-vii-zr-71-15` | Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `vob-b-bgb-vermischung-bgh-vii-zr-235-15` | Vob B BGB Vermischung BGH Vii Zr 235 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

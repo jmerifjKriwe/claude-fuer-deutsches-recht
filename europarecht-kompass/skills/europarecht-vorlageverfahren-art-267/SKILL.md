@@ -1,13 +1,13 @@
 ---
 name: europarecht-vorlageverfahren-art-267
-description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh) im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorlageverfahren Art. 267 AEUV
 
 ## Arbeitsbereich
 
-Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

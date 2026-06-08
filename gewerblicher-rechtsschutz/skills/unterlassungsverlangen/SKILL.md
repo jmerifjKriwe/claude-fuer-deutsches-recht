@@ -1,13 +1,13 @@
 ---
 name: unterlassungsverlangen
-description: "Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung) im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung) im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abmahnung
 
 ## Arbeitsbereich
 
-Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

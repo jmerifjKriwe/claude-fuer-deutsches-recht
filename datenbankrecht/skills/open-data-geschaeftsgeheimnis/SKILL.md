@@ -1,13 +1,13 @@
 ---
 name: open-data-geschaeftsgeheimnis
-description: "Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen
 
 ## Arbeitsbereich
 
-Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

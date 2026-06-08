@@ -1,13 +1,13 @@
 ---
 name: jus-studienplan-bauleiter
-description: "Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster für typische Pruefungsordnungen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster für typische Pruefungsordnungen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # JuS: Studienplan Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster für typische Pruefungsordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster für typische Pruefungsordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

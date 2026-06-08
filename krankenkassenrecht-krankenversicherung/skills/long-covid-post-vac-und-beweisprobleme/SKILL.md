@@ -7,7 +7,7 @@ description: "Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-
 
 ## Arbeitsbereich
 
-Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-Vac-Syndrom: Leistungsansprüche, Beweisschwierigkeiten, MDK-Problematik und Kausalitätsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-Vac-Syndrom: Leistungsansprüche, Beweisschwierigkeiten, MDK-Problematik und Kausalitätsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

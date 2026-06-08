@@ -1,6 +1,6 @@
 ---
 name: vkr-einfuehrung
-description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt Verkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt Verkehrsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VKR Einfuehrung

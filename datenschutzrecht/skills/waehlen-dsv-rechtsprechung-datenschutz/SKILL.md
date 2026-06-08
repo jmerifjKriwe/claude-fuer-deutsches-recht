@@ -7,7 +7,7 @@ description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-**Wählen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Wählen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

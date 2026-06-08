@@ -7,7 +7,7 @@ description: "DSV Sanktion Rechtsweg Sanktionsmandat im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-**DSV Sanktion Rechtsweg Sanktionsmandat** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrecht-Brückenskill. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Sanktion Rechtsweg Sanktionsmandat** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrecht-Brückenskill. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

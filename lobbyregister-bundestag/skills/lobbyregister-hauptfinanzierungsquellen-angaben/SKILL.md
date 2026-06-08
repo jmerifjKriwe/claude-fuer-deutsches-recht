@@ -1,13 +1,13 @@
 ---
 name: lobbyregister-hauptfinanzierungsquellen-angaben
-description: "Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hauptfinanzierungsquellen
 
 ## Arbeitsbereich
 
-Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

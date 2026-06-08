@@ -1,13 +1,13 @@
 ---
 name: action-item-owner-matrix
-description: "Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Action-Item Owner Matrix
 
 ## Arbeitsbereich
 
-Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

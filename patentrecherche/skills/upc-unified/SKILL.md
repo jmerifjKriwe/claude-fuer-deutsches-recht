@@ -1,6 +1,6 @@
 ---
 name: upc-unified
-description: "UPC Unified im Plugin Patentrecherche im Patentrecherche: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UPC Unified im Plugin Patentrecherche im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UPC Unified

@@ -1,13 +1,13 @@
 ---
 name: verbraucherrecht-waren-widerruf
-description: "Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.
 
 ## Arbeitsbereich
 
-Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

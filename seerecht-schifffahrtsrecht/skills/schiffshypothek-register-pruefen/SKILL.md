@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-register-pruefen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Registerprüfung
 
 ## Arbeitsbereich
 
-Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

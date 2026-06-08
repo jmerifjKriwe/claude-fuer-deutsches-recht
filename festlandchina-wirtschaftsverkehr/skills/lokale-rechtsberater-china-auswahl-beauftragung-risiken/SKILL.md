@@ -1,13 +1,13 @@
 ---
 name: lokale-rechtsberater-china-auswahl-beauftragung-risiken
-description: "Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken
 
 ## Arbeitsbereich
 
-Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

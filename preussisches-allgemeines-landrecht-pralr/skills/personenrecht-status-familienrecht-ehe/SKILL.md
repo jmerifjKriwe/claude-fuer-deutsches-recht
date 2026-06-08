@@ -7,7 +7,7 @@ description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband
 
 ## Arbeitsbereich
 
-PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

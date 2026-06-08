@@ -1,13 +1,13 @@
 ---
 name: bwbes-auslandsverwendungszuschlag
-description: "AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsverwendungszuschlag und Einsatzversorgung
 
 ## Arbeitsbereich
 
-AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

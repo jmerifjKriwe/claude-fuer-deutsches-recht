@@ -1,13 +1,13 @@
 ---
 name: insolvenz-eines-franchisenehmers-im-filialnetz
-description: "Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Insolvenz eines Franchisenehmers im Filialnetz
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: besold-erschwerniszulagen-dienst-zu-unguenstigen-zeiten
-description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten
 
 ## Arbeitsbereich
 
-Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

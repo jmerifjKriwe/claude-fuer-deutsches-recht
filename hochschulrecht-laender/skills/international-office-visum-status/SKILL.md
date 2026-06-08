@@ -1,13 +1,13 @@
 ---
 name: international-office-visum-status
-description: "Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # International Office, Visum und Status
 
 ## Arbeitsbereich
 
-Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

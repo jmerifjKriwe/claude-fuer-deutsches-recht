@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-kaufvertrag-scopen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: treuhand-und-volksvermoegen
-description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Treuhandanstalt und DDR-Volksvermoegen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

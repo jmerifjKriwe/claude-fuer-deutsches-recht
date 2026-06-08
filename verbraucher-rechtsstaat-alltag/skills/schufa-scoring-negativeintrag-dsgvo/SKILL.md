@@ -1,13 +1,13 @@
 ---
 name: schufa-scoring-negativeintrag-dsgvo
-description: "SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg im Verbraucher Rechtsstaat Alltag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SCHUFA Scoring Negativeintrag DSGVO
 
 ## Arbeitsbereich
 
-SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

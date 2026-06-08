@@ -1,13 +1,13 @@
 ---
 name: notarielle-beurkundung-prozessablauf-papier
-description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung
 
 ## Arbeitsbereich
 
-Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

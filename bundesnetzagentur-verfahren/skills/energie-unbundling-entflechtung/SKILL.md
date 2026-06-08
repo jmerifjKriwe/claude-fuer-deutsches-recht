@@ -1,13 +1,13 @@
 ---
 name: energie-unbundling-entflechtung
-description: "Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energie: Unbundling Entflechtung
 
 ## Arbeitsbereich
 
-Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

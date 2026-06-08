@@ -7,7 +7,7 @@ description: "Bfdi VS Datenloeschung Beweissicherung im Datenschutz-Sanktionsver
 
 ## Arbeitsbereich
 
-**Bfdi VS Datenloeschung Beweissicherung** ordnet den Fall über die tragenden Prüfungslinien: BfDI oder Landesaufsicht, Datenlöschung vs, Dokumentenmatrix vor Akteneinsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bfdi VS Datenloeschung Beweissicherung** ordnet den Fall über die tragenden Prüfungslinien: BfDI oder Landesaufsicht, Datenlöschung vs, Dokumentenmatrix vor Akteneinsicht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: insolvenzrisiko-fuer-pe-sponsor
-description: "Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenzrisiko für PE-Sponsor
 
 ## Arbeitsbereich
 
-Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

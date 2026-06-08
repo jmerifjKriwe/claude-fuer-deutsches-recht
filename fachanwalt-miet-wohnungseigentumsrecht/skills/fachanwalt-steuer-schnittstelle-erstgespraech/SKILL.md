@@ -7,7 +7,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 
 ## Arbeitsbereich
 
-**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -16,7 +16,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
 | `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM. |
-| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -34,7 +34,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 ### Steuer-Schnittstelle Vermietung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuer-Schnittstelle Vermietung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuer-Schnittstelle Vermietung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
@@ -78,7 +78,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 ### Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
@@ -268,7 +268,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Miet-/WEG-Mediation und Mietvereins-Schlichtung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet-/WEG-Mediation und Mietvereins-Schlichtung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet-/WEG-Mediation und Mietvereins-Schlichtung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
@@ -423,7 +423,7 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 ### Wärmepumpen-Einbau in WEG nach GEG 2024
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wärmepumpen-Einbau in WEG nach GEG 2024` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wärmepumpen-Einbau in WEG nach GEG 2024` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
@@ -649,12 +649,12 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`
 
-**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.

@@ -1,13 +1,13 @@
 ---
 name: rbst-niedrigschwellige-onlineberatung-spezial
-description: "Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Pruefraster für Anbieter im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Pruefraster für Anbieter im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # RBst: Onlineberatung KI
 
 ## Arbeitsbereich
 
-Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Pruefraster für Anbieter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Pruefraster für Anbieter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

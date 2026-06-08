@@ -1,13 +1,13 @@
 ---
 name: anfaenger-modus-pe-begriffe-ohne-gesichtsverlust
-description: "Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
 ## Arbeitsbereich
 
-Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

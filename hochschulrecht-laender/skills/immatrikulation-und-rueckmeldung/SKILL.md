@@ -1,13 +1,13 @@
 ---
 name: immatrikulation-und-rueckmeldung
-description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Immatrikulation Und Rueckmeldung
 
 ## Arbeitsbereich
 
-Prüft Immatrikulation, Rückmeldung und Gebühren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Immatrikulation, Rückmeldung und Gebühren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

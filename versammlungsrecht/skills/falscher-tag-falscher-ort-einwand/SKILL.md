@@ -1,13 +1,13 @@
 ---
 name: falscher-tag-falscher-ort-einwand
-description: "Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nicht jeder Behördenwunsch ist Recht
 
 ## Arbeitsbereich
 
-Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

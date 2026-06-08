@@ -1,13 +1,13 @@
 ---
 name: umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten
-description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten
 
 ## Arbeitsbereich
 
-Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

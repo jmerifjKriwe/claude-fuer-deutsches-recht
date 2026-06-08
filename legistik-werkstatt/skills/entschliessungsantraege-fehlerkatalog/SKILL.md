@@ -29,16 +29,16 @@ Dieser Fehlerkatalog prüft im Bereich **Legistik Werkstatt** Ergebnisse vor Abg
 
 ## Fachspezifische Fehlerachsen
 
-- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `begruendung-allgemein-und-besonders`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `dokumente-rendern-docx-pdf`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `europarechtskonformitaet`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `folgenabschaetzung-erfuellungsaufwand`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `folgenabschaetzung-erfuellungsaufwand-folgenabschaetzung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `folgenabschaetzung-nachhaltigkeit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `formulierungshilfe-bauen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesetzesentwurf-kabinett`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `gesetzgebungskompetenz-pruefen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `begruendung-allgemein-und-besonders`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dokumente-rendern-docx-pdf`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `europarechtskonformitaet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `folgenabschaetzung-erfuellungsaufwand`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `folgenabschaetzung-erfuellungsaufwand-folgenabschaetzung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `folgenabschaetzung-nachhaltigkeit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `formulierungshilfe-bauen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesetzesentwurf-kabinett`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gesetzgebungskompetenz-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

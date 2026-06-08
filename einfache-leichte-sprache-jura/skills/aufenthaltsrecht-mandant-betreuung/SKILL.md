@@ -7,7 +7,7 @@ description: "Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Fami
 
 ## Arbeitsbereich
 
-Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Auslaenderbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Auslaenderbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

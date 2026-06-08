@@ -1,13 +1,13 @@
 ---
 name: verfahrenszusammenfassung-absatz
-description: "Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollständig) und schwerpunktthemen-identifikation (Streitpunkte) im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollständig) und schwerpunktthemen-identifikation (Streitpunkte) im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfahrenszusammenfassung — Absatz
 
 ## Arbeitsbereich
 
-Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollständig) und schwerpunktthemen-identifikation (Streitpunkte). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollständig) und schwerpunktthemen-identifikation (Streitpunkte). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: interdictum-fraudatorium-und-restitutio-in-integrum
-description: "Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
 
 ## Arbeitsbereich
 
-Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

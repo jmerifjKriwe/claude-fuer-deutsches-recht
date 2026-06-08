@@ -1,13 +1,13 @@
 ---
 name: vorlage-originale-kopien
-description: "Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Originale und Kopien
 
 ## Arbeitsbereich
 
-Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

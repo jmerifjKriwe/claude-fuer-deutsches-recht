@@ -1,6 +1,6 @@
 ---
 name: beschwerde-rechtsanwaltskammer-fakte
-description: "Anwälte: beschwerde bei rechtsanwaltskammer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: beschwerde bei rechtsanwaltskammer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwälte: beschwerde bei rechtsanwaltskammer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

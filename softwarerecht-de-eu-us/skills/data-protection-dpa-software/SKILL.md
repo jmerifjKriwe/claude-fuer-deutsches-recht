@@ -1,13 +1,13 @@
 ---
 name: data-protection-dpa-software
-description: "Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DPA und Datenschutz im Softwarevertrag
 
 ## Arbeitsbereich
 
-Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

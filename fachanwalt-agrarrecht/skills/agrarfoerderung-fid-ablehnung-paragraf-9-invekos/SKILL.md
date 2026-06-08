@@ -1,37 +1,47 @@
 ---
 name: agrarfoerderung-fid-ablehnung-paragraf-9-invekos
-description: Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzung mit Paragraf 9 InVeKoSV und VG-Linie zur Bagatellgrenze. Pruefraster fuer den typischen Fall ueberhoehte Beanstandungsquote durch Kontrolle aus der Vogelperspektive.
+description: "Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzung mit Paragraf 9 InVeKoSV und VG-Linie zur Bagatellgrenze. Pruefraster fuer den typischen Fall ueberhoehte Beanstandungsquote durch Kontrolle aus der Vogelperspektive."
 ---
 
-## Problemstellung
+# Agrarfoerderung Fid Ablehnung Paragraf 9 Invekos
+
+## Einsatzlage
 
 Landwirt L beantragt Direktzahlung fuer 87,6 ha. Beanstandung der Landwirtschaftskammer: Feldstueck FID-188-4711 sei nur 0,42 ha statt 0,48 ha; Sanktionsabschlag 3 Prozent auf gesamte Beihilfe.
 
-## Normen
+## Normenanker
 
-- Paragrafen 9, 10 InVeKoSV (InVeKoS-Verordnung).
-- Paragraf 5 GAPDZG.
-- VO (EU) 2021/2115 Art 18.
-- VO (EU) 2022/1172 Art 5 ff.
+- § 9 INVEKOS
+- VO (EU) 2021/2115
+- VO (EU) 2022/1172
+- §§ 585 ff. BGB
+- § 9 GrdstVG
+- § 16a TierSchG
+- § 13a DüV
+- § 906 BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 27.04.2017 C-535/14 Borovus: Bagatellgrenze 0,1 ha im Feldstueck.
-- BVerwG 17.12.2020 3 C 18/19: Sanktionssystem InVeKoS strikt anzuwenden.
-- OVG Lueneburg 19.05.2022 10 LB 22/21: Vor-Ort-Kontrolle hat Vorrang.
+- EuGH 27.04.2017 C-535/14 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerwG 17.12.2020 3 C 18/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- OVG Lueneburg 19.05.2022 10 LB 22/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 1. Eigene Vermessung mit GNSS-Gestuetzte Geraete oder anerkannter Vermesser.
 2. Anmerkungen zur Methode der Behoerden-Vermessung (Geometriedrift moeglich).
 3. Antrag auf erneute Kontrolle nach Paragraf 11 InVeKoSV.
 4. Widerspruch binnen 1 Monat ab Bescheid.
 
-## Schriftsatzkern
-
-Bemessungsgrundlage muss konkret begruendet sein; pauschale Sat-Bildauswertung genuegt nicht; vgl. EuGH Borovus.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Eigenmessung Protokoll.
 - Bestaetigung Lohnunternehmer.

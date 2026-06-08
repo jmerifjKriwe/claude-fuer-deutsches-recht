@@ -1,13 +1,13 @@
 ---
 name: frachtvertrag-paragraphen-speditionsvertrag
-description: "Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Frachtvertrag §§ 407 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

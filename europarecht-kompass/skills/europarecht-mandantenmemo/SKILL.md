@@ -1,13 +1,13 @@
 ---
 name: europarecht-mandantenmemo
-description: "Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenmemo und Executive Briefing
 
 ## Arbeitsbereich
 
-Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

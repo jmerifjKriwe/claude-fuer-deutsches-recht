@@ -7,7 +7,7 @@ description: "Schnittstelle Verpflichtungsklage im Plugin Fachanwalt Verwaltungs
 
 ## Arbeitsbereich
 
-**Schnittstelle Verpflichtungsklage** ordnet den Fall über die tragenden Prüfungslinien: Schnittstelle, Verpflichtungsklage, Verwaltungsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Schnittstelle Verpflichtungsklage** ordnet den Fall über die tragenden Prüfungslinien: Schnittstelle, Verpflichtungsklage, Verwaltungsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -7,7 +7,7 @@ description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und 
 
 ## Arbeitsbereich
 
-EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

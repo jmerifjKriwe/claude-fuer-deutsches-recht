@@ -1,13 +1,13 @@
 ---
 name: policy-pack
-description: "Erzeugt ein schlankes Policy-Paket statt Papierfriedhof im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt ein schlankes Policy-Paket statt Papierfriedhof im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Policy Pack
 
 ## Arbeitsbereich
 
-Erzeugt ein schlankes Policy-Paket statt Papierfriedhof. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt ein schlankes Policy-Paket statt Papierfriedhof. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

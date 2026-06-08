@@ -1,13 +1,13 @@
 ---
 name: schriftsatz-ueberarbeiten-richterlesbar
-description: "Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatz Richterlesbar Überarbeiten
 
 ## Arbeitsbereich
 
-Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

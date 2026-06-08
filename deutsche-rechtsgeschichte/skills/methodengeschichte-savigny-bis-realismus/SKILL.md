@@ -1,13 +1,13 @@
 ---
 name: methodengeschichte-savigny-bis-realismus
-description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Methodengeschichte: Savigny bis Rechtsrealismus
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

@@ -1,13 +1,13 @@
 ---
 name: turbo-zeitnarrative
-description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatz-Turbo: Klage, Replik, Antrag
 
 ## Arbeitsbereich
 
-Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

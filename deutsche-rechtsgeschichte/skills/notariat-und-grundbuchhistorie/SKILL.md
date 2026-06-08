@@ -1,13 +1,13 @@
 ---
 name: notariat-und-grundbuchhistorie
-description: "Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat und Grundbuchhistorie
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: einmalig-vs-erforderlichkeitspruefung-warum
-description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend
 
 ## Arbeitsbereich
 
-Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

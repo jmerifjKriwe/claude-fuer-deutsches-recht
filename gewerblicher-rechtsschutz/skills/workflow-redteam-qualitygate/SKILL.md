@@ -1,13 +1,13 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Red-Team Quality Gate
 
 ## Arbeitsbereich
 
-Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

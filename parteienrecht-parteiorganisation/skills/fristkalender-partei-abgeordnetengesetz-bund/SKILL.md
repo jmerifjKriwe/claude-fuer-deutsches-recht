@@ -1,13 +1,13 @@
 ---
 name: fristkalender-partei-abgeordnetengesetz-bund
-description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristkalender Partei
 
 ## Arbeitsbereich
 
-Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

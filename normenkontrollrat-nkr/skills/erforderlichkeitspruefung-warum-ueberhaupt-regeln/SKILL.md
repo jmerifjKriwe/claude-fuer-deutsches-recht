@@ -1,13 +1,13 @@
 ---
 name: erforderlichkeitspruefung-warum-ueberhaupt-regeln
-description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
 
 ## Arbeitsbereich
 
-Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: uwr-co2-emissionshandel-spezial
-description: "Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster für Anlagenbetreiber im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster für Anlagenbetreiber im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UwR: ETS CBAM
 
 ## Arbeitsbereich
 
-Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster für Anlagenbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster für Anlagenbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

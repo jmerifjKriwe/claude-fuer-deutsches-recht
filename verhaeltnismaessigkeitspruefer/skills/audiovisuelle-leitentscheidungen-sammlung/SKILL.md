@@ -3,6 +3,8 @@ name: audiovisuelle-leitentscheidungen-sammlung
 description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidungen des Bundesverfassungsgerichts zur Verhaeltnismaessigkeitsdogmatik. Erschliesst Urteilsverkuendungen muendliche Verhandlungen Pressekonferenzen und Hochschul-Vorlesungen als Lehrmaterial mit Aktenzeichen Fundstelle Zeitstempel und Verortung im Pruefungsschema.
 ---
 
+# Audiovisuelle Leitentscheidungen Sammlung
+
 ## Zweck
 
 Die Verhaeltnismaessigkeitsdogmatik ist nicht nur Lesestoff. Verkuendungstermine, muendliche Verhandlungen und akademische Vortraege geben den Entscheidungen Stimme, Mimik, Pause und Betonung. Dieser Skill kuratiert verifizierte audiovisuelle Materialien zu Leitentscheidungen und ordnet sie didaktisch in das vierstufige Schema ein.

@@ -1,13 +1,13 @@
 ---
 name: verkehrsplanung-verkehrswende
-description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verkehrsplanung und Projektstrategie
 
 ## Arbeitsbereich
 
-Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

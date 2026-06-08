@@ -1,13 +1,13 @@
 ---
 name: kein-totalverweigerungs-tool
-description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Keine Totalverweigerung
 
 ## Arbeitsbereich
 
-Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bav-cta-treuhand-spezial
-description: "Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte für Trust-Setup im Konzern im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte für Trust-Setup im Konzern im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # bAV: CTA Treuhand
 
 ## Arbeitsbereich
 
-Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte für Trust-Setup im Konzern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte für Trust-Setup im Konzern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: workflow-internationaler-export
-description: "Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationaler Export
 
 ## Arbeitsbereich
 
-Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

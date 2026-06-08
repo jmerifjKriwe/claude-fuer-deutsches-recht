@@ -1,13 +1,13 @@
 ---
 name: aa-konsular-bmas-arbeitsrecht
-description: "Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konsularrecht und Passrecht (AA)
 
 ## Arbeitsbereich
 
-Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

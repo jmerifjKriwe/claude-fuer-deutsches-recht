@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-provision
-description: "Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsvertreter Provision
 
 ## Arbeitsbereich
 
-Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

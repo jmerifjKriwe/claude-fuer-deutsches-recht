@@ -1,13 +1,13 @@
 ---
 name: market-surveillance-eu-import
-description: "EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Marktüberwachung China-Import: Pflichten und Behörden
 
 ## Arbeitsbereich
 
-EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

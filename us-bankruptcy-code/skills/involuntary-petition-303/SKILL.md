@@ -1,13 +1,13 @@
 ---
 name: involuntary-petition-303
-description: "Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Involuntary Petition § 303
 
 ## Arbeitsbereich
 
-Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

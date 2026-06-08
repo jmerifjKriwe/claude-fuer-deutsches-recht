@@ -7,7 +7,7 @@ description: "Agrar Wolfsschaden Cross Glozez Förderung im Agrarrecht: prüft k
 
 ## Arbeitsbereich
 
-**Agrar Wolfsschaden Cross Glozez Förderung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Förderung einfuehrend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Agrar Wolfsschaden Cross Glozez Förderung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Förderung einfuehrend. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

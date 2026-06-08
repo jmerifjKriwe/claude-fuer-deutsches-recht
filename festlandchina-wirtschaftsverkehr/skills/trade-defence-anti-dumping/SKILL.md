@@ -1,13 +1,13 @@
 ---
 name: trade-defence-anti-dumping
-description: "EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Anti-Dumping China: Verfahren und laufende Maßnahmen
 
 ## Arbeitsbereich
 
-EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

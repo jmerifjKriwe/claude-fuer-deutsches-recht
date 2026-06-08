@@ -1,13 +1,13 @@
 ---
 name: eur-state-aid-notifikation-spezial
-description: "Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU: State-Aid-Notifikation
 
 ## Arbeitsbereich
 
-Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

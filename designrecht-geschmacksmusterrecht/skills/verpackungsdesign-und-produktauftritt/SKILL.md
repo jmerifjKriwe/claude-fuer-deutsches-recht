@@ -1,13 +1,13 @@
 ---
 name: verpackungsdesign-und-produktauftritt
-description: "Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verpackungsdesign Und Produktauftritt
 
 ## Arbeitsbereich
 
-Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

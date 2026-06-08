@@ -1,13 +1,13 @@
 ---
 name: preferential-origin-not-usually
-description: "Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Präferenzursprung EU-China: Fehlende FTA und Alternativen
 
 ## Arbeitsbereich
 
-Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

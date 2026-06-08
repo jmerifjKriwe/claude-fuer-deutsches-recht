@@ -7,7 +7,7 @@ description: "Loeschungsanordnung Datenbestand Logfiles im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-**Loeschungsanordnung Datenbestand Logfiles** ordnet den Fall über die tragenden Prüfungslinien: Löschungsanordnung und Datenbestand, Logfiles und technische Beweise, Mandanteninterview ohne Selbstbelastung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Loeschungsanordnung Datenbestand Logfiles** ordnet den Fall über die tragenden Prüfungslinien: Löschungsanordnung und Datenbestand, Logfiles und technische Beweise, Mandanteninterview ohne Selbstbelastung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -7,7 +7,7 @@ description: "Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Pr�
 
 ## Arbeitsbereich
 
-Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

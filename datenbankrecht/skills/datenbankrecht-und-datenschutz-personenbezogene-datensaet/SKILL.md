@@ -1,13 +1,13 @@
 ---
 name: datenbankrecht-und-datenschutz-personenbezogene-datensaet
-description: "Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht und DSGVO — Personenbezogene Datenbanken
 
 ## Arbeitsbereich
 
-Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

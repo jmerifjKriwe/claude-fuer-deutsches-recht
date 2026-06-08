@@ -1,13 +1,13 @@
 ---
 name: landeskrankenhausplan-aufnahme-herausnahme-aenderung
-description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Landeskrankenhausplan Aufnahme Herausnahme Aenderung
 
 ## Arbeitsbereich
 
-Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

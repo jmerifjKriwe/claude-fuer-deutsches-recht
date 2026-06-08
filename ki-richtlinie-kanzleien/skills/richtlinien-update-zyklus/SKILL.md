@@ -1,13 +1,13 @@
 ---
 name: richtlinien-update-zyklus
-description: "KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richtlinien-Update-Zyklus
 
 ## Arbeitsbereich
 
-KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,29 +1,39 @@
 ---
 name: eu-warenmarke-loeschung-eugh-c-541-18
-description: EU-Marke Loeschungsverfahren Boesglaeubigkeit mit EuGH C-541/18.
+description: "EU Warenmarke Loeschung EuGH C 541 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# EU Warenmarke Loeschung EuGH C 541 18
+
+## Einsatzlage
 
 Marke wurde fuer Klassen angemeldet die nicht genutzt wurden; Loeschung wegen Boesglaeubigkeit?
 
-## Normen
+## Normenanker
 
-- UMV Art 59
+- § 14 MarkenG
+- § 4 UWG
+- § 97 UrhG
+- § 9 DesignG
+- § 139 PatG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- EuGH 12.09.2019 C-541/18 SkyKick
+- EuGH 12.09.2019 C-541/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Boesglaeubigkeit nur bei Verhinderungsabsicht; nicht jede Ueberbreite.
 
-## Schriftsatzkern
-
-Anteilige Loeschung fuer ungenutzte Klassen; Restbestand bleibt.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Anmeldeunterlagen
 - Benutzungsnachweise

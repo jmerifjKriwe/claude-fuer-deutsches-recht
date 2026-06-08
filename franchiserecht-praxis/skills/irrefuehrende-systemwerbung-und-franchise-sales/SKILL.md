@@ -1,13 +1,13 @@
 ---
 name: irrefuehrende-systemwerbung-und-franchise-sales
-description: "Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Irreführende Systemwerbung und Franchise Sales
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

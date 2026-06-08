@@ -1,13 +1,13 @@
 ---
 name: sustainability-linked-loan-greenwashing
-description: "Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SLL und Greenwashing
 
 ## Arbeitsbereich
 
-Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

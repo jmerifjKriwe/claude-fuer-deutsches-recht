@@ -7,7 +7,7 @@ description: "Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Ur
 
 ## Arbeitsbereich
 
-**Presse Presserecht Rechtsschutz Interessen** ordnet den Fall über die tragenden Prüfungslinien: Presse, Presserecht, Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Presse Presserecht Rechtsschutz Interessen** ordnet den Fall über die tragenden Prüfungslinien: Presse, Presserecht, Rechtsschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

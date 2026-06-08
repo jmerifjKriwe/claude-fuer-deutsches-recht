@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-investoren-q-and-a
-description: "Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investor Q&A
 
 ## Arbeitsbereich
 
-Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

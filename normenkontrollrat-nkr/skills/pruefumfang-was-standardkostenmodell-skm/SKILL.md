@@ -1,13 +1,13 @@
 ---
 name: pruefumfang-was-standardkostenmodell-skm
-description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Pruefumfang — was prueft der NKR nicht
 
 ## Arbeitsbereich
 
-Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

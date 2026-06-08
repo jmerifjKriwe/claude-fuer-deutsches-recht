@@ -1,13 +1,13 @@
 ---
 name: influencer-und-unterstuetzer
-description: "Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer Und Unterstuetzer
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

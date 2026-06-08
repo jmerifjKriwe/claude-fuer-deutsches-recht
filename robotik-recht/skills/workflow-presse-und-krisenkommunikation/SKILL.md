@@ -1,13 +1,13 @@
 ---
 name: workflow-presse-und-krisenkommunikation
-description: "Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Presse und Krisenkommunikation
 
 ## Arbeitsbereich
 
-Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

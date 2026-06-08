@@ -1,13 +1,13 @@
 ---
 name: machine-regulation-embedded-software
-description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Embedded Software Maschinenverordnung
 
 ## Arbeitsbereich
 
-Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

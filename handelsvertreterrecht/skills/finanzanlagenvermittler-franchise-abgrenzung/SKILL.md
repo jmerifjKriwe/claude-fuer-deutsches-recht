@@ -1,13 +1,13 @@
 ---
 name: finanzanlagenvermittler-franchise-abgrenzung
-description: "Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO
 
 ## Arbeitsbereich
 
-Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

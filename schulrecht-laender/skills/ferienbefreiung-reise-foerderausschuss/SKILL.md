@@ -1,13 +1,13 @@
 ---
 name: ferienbefreiung-reise-foerderausschuss
-description: "Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ferienbefreiung und Reise
 
 ## Arbeitsbereich
 
-Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

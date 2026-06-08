@@ -1,13 +1,13 @@
 ---
 name: pflicht-treuen-politische-betaetigung
-description: "Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pflicht zum treuen Dienen (§ 7 SG)
 
 ## Arbeitsbereich
 
-Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

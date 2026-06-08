@@ -1,13 +1,13 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB
 
 ## Arbeitsbereich
 
-Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: china-environmental-permits-factory-workplace-safety-union-and
-description: "Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umweltgenehmigungen China: EIA/MEE und LkSG-Schnittstelle
 
 ## Arbeitsbereich
 
-Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

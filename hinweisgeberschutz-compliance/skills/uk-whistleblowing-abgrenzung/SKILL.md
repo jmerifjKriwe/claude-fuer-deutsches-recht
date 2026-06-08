@@ -1,13 +1,13 @@
 ---
 name: uk-whistleblowing-abgrenzung
-description: "Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Uk Whistleblowing Abgrenzung
 
 ## Arbeitsbereich
 
-Grenzt UK Whistleblowing bei Niederlassungen ab. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt UK Whistleblowing bei Niederlassungen ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

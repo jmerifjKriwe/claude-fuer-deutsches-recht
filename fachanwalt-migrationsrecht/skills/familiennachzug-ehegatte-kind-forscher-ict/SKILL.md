@@ -7,7 +7,7 @@ description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: pr�
 
 ## Arbeitsbereich
 
-**Familiennachzug Ehegatte Kind Forscher ICT** ordnet den Fall über die tragenden Prüfungslinien: Ehegattennachzug, Kindernachzug, Familiennachzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Familiennachzug Ehegatte Kind Forscher ICT** ordnet den Fall über die tragenden Prüfungslinien: Ehegattennachzug, Kindernachzug, Familiennachzug. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

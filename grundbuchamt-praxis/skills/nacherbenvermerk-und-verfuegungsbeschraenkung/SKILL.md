@@ -1,13 +1,13 @@
 ---
 name: nacherbenvermerk-und-verfuegungsbeschraenkung
-description: "Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nacherbenvermerk
 
 ## Arbeitsbereich
 
-Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

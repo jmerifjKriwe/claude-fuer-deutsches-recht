@@ -7,7 +7,7 @@ description: "Verwr Verwaltungsverfahren Eilantrag ABS im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-**Verwr Verwaltungsverfahren Eilantrag ABS** ordnet den Fall über die tragenden Prüfungslinien: Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verwr Verwaltungsverfahren Eilantrag ABS** ordnet den Fall über die tragenden Prüfungslinien: Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

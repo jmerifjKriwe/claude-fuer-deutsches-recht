@@ -1,13 +1,13 @@
 ---
 name: nationale-widerklage-neuheit-eigenart
-description: "Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nationale Widerklage Nichtigkeit
 
 ## Arbeitsbereich
 
-Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

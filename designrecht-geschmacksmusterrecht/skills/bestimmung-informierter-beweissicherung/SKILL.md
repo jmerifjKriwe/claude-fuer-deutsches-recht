@@ -1,13 +1,13 @@
 ---
 name: bestimmung-informierter-beweissicherung
-description: "Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bestimmung Informierter Benutzer
 
 ## Arbeitsbereich
 
-Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

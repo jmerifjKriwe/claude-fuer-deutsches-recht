@@ -7,7 +7,7 @@ description: "Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mis
 
 ## Arbeitsbereich
 
-Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

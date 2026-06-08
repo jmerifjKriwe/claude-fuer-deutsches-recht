@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-museum-denkmal-restaurierung
-description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Museum und Denkmal Restaurierung (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

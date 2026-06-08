@@ -1,13 +1,13 @@
 ---
 name: delegierte-abteilungen-entlastung-vorstand
-description: "Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Delegierte und Abteilungen
 
 ## Arbeitsbereich
 
-Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: positionsmarke
-description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Positionsmarken
 
 ## Arbeitsbereich
 
-Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

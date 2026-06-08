@@ -7,7 +7,7 @@ description: "FA INT Wirtschaft Start Chronologie Fristen im Internationalen Wir
 
 ## Arbeitsbereich
 
-**FA INT Wirtschaft Start Chronologie Fristen** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**FA INT Wirtschaft Start Chronologie Fristen** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales, Chronologie und Belegmatrix im Plugin. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

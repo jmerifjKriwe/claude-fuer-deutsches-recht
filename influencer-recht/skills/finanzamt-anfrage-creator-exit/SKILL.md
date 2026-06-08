@@ -1,13 +1,13 @@
 ---
 name: finanzamt-anfrage-creator-exit
-description: "Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Finanzamt – Anfrage beantworten
 
 ## Arbeitsbereich
 
-Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

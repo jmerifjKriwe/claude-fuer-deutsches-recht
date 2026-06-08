@@ -1,13 +1,13 @@
 ---
 name: ipr-art-versionierung-aenderungshistorie
-description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher
 
 ## Arbeitsbereich
 
-AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

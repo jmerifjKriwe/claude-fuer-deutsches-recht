@@ -7,7 +7,7 @@ description: "Einstweilige Anordnung Eugh Vorlage im Datenschutz-Sanktionsverfah
 
 ## Arbeitsbereich
 
-**Einstweilige Anordnung Eugh Vorlage** ordnet den Fall über die tragenden Prüfungslinien: Einstweilige Anordnung § 123 VwGO, EuGH-Vorlagefragen entwickeln, Gerichtstermin-Sprechzettel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Einstweilige Anordnung Eugh Vorlage** ordnet den Fall über die tragenden Prüfungslinien: Einstweilige Anordnung § 123 VwGO, EuGH-Vorlagefragen entwickeln, Gerichtstermin-Sprechzettel. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

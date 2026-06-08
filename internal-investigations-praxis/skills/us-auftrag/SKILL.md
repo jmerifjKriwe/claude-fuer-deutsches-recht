@@ -1,13 +1,13 @@
 ---
 name: us-auftrag
-description: "Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US-Discovery in Cross-Border Investigations
 
 ## Arbeitsbereich
 
-Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

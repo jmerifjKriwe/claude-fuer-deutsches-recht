@@ -1,13 +1,13 @@
 ---
 name: kanonisches-recht-und-ehe
-description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kanonisches Recht und Eherecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

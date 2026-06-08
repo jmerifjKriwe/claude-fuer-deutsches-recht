@@ -1,13 +1,13 @@
 ---
 name: recherche-strategie-tools-marktuebersicht
-description: "Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle im Patentrecherche: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Recherche-Strategie
 
 ## Arbeitsbereich
 
-Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

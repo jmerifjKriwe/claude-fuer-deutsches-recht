@@ -1,13 +1,13 @@
 ---
 name: restructuring-waiver-amend-extend
-description: "Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Amend & Extend und Restrukturierung
 
 ## Arbeitsbereich
 
-Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

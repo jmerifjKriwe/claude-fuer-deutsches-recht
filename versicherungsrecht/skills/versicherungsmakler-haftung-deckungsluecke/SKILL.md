@@ -1,13 +1,13 @@
 ---
 name: versicherungsmakler-haftung-deckungsluecke
-description: "Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherungsmaklerhaftung bei Deckungslücken
 
 ## Arbeitsbereich
 
-Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

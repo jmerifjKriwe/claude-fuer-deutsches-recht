@@ -1,13 +1,13 @@
 ---
 name: metadaten-katalog-machine
-description: "Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen
 
 ## Arbeitsbereich
 
-Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, 
 
 ## Arbeitsbereich
 
-Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

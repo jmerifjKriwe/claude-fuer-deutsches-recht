@@ -1,13 +1,13 @@
 ---
 name: schatten-ki-aufdeckung
-description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schatten-KI Aufdeckung
 
 ## Arbeitsbereich
 
-Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

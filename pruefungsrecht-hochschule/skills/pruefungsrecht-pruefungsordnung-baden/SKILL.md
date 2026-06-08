@@ -1,13 +1,13 @@
 ---
 name: pruefungsrecht-pruefungsordnung-baden
-description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pruefungsordnung Router
 
 ## Arbeitsbereich
 
-Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

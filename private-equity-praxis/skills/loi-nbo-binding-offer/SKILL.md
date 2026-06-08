@@ -1,13 +1,13 @@
 ---
 name: loi-nbo-binding-offer
-description: "Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LOI, NBO und Binding Offer
 
 ## Arbeitsbereich
 
-Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

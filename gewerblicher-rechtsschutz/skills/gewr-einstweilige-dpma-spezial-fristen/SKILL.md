@@ -1,13 +1,13 @@
 ---
 name: gewr-einstweilige-dpma-spezial-fristen
-description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial
 
 ## Arbeitsbereich
 
-Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

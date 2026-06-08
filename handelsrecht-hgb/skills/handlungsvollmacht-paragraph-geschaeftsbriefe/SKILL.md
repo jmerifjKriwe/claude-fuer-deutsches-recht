@@ -1,13 +1,13 @@
 ---
 name: handlungsvollmacht-paragraph-geschaeftsbriefe
-description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handlungsvollmacht § 54 HGB
 
 ## Arbeitsbereich
 
-Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

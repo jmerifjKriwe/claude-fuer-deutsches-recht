@@ -1,13 +1,13 @@
 ---
 name: auslandsurkunde-apostille-vollmacht
-description: "Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung, Registertauglichkeit
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

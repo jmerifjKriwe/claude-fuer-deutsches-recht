@@ -1,13 +1,13 @@
 ---
 name: beweismittel-fotos-screenshots
-description: "Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fotos und Screenshots als Belege
 
 ## Arbeitsbereich
 
-Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

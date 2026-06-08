@@ -1,13 +1,13 @@
 ---
 name: flottenleasing-schaden-minderwert-und-gutachten
-description: "Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flottenleasing: Schadenmanagement und Minderwertabrechnung
 
 ## Arbeitsbereich
 
-Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

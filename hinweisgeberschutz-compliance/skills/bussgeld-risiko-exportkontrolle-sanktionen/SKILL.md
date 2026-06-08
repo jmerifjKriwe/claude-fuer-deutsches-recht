@@ -1,13 +1,13 @@
 ---
 name: bussgeld-risiko-exportkontrolle-sanktionen
-description: "Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bussgeld Risiko
 
 ## Arbeitsbereich
 
-Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

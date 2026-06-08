@@ -1,13 +1,13 @@
 ---
 name: kirk-ki-richtlinie-bauleiter
-description: "Bauleiter KI-Richtlinie für Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster für Geschaeftsfuehrung und IT im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter KI-Richtlinie für Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster für Geschaeftsfuehrung und IT im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KIRK: KI-Richtlinie Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter KI-Richtlinie für Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster für Geschaeftsfuehrung und IT. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter KI-Richtlinie für Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster für Geschaeftsfuehrung und IT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: sanktionsscreening-embargo-bank
-description: "Sanktionsscreening und Embargo in der Bank: Treffer, False Positive, EU-Sanktionen, OFAC-Berührung, Zahlungsstopp, Kontosperre, Freigabeprozess und Kundenkommunikation steuern im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktionsscreening und Embargo in der Bank: Treffer, False Positive, EU-Sanktionen, OFAC-Berührung, Zahlungsstopp, Kontosperre, Freigabeprozess und Kundenkommunikation steuern im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionen und Embargo
 
 ## Arbeitsbereich
 
-Sanktionsscreening und Embargo in der Bank: Treffer, False Positive, EU-Sanktionen, OFAC-Berührung, Zahlungsstopp, Kontosperre, Freigabeprozess und Kundenkommunikation steuern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktionsscreening und Embargo in der Bank: Treffer, False Positive, EU-Sanktionen, OFAC-Berührung, Zahlungsstopp, Kontosperre, Freigabeprozess und Kundenkommunikation steuern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: rechtsschutz-review-sonderfall-source-red-team-korrektur
-description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht
 
 ## Arbeitsbereich
 
-Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

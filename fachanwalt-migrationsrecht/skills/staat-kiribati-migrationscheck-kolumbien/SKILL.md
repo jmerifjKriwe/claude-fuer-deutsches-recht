@@ -7,7 +7,7 @@ description: "Staat Kiribati Migrationscheck Kolumbien im Migrationsrecht: prüf
 
 ## Arbeitsbereich
 
-**Staat Kiribati Migrationscheck Kolumbien** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Kiribati, Staaten- und Gebietscheck Kolumbien, Staaten- und Gebietscheck Komoren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Staat Kiribati Migrationscheck Kolumbien** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Kiribati, Staaten- und Gebietscheck Kolumbien, Staaten- und Gebietscheck Komoren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

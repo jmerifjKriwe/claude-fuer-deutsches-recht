@@ -1,13 +1,13 @@
 ---
 name: prueferbestellung-zustaendigkeit
-description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüferbestellung und Zuständigkeit
 
 ## Arbeitsbereich
 
-Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

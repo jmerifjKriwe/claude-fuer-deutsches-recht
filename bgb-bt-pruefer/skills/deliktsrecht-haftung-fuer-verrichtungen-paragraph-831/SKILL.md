@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
-description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deliktsrecht: Haftung für Verrichtungen § 831 BGB
 
 ## Arbeitsbereich
 
-Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

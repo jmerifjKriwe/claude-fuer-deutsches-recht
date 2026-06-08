@@ -1,13 +1,13 @@
 ---
 name: online-subpoena-512h
-description: "Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DMCA Subpoena § 512h
 
 ## Arbeitsbereich
 
-Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

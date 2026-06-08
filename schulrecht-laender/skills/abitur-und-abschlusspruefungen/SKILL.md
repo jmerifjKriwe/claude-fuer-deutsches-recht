@@ -1,13 +1,13 @@
 ---
 name: abitur-und-abschlusspruefungen
-description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abitur Und Abschlusspruefungen
 
 ## Arbeitsbereich
 
-Prüft schulische Abschlussprüfungen und Abitur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft schulische Abschlussprüfungen und Abitur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lph6-lv-lph7-bieterspiegel-lph8-maengel
-description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 6 Leistungsverzeichnis, Mengen Und Vergabereife
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

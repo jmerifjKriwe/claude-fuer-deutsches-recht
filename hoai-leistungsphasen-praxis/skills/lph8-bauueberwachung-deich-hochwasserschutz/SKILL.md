@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-deich-hochwasserschutz
-description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Deich und Hochwasserschutzanlage
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

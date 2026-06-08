@@ -7,7 +7,7 @@ description: "Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne 
 
 ## Arbeitsbereich
 
-Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

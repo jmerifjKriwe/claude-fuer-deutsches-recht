@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-quality-gate
-description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter für laufende Mandats-Steuerung im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter für laufende Mandats-Steuerung im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quality Gate — Strafbefehl-Mandat
 
 ## Arbeitsbereich
 
-Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter für laufende Mandats-Steuerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter für laufende Mandats-Steuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

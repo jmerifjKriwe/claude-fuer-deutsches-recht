@@ -1,13 +1,13 @@
 ---
 name: franchise-kuendigung-und-nachvertragliche-wettbewerb
-description: "Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Pruefraster im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Pruefraster im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Kuendigung Und Nachvertragliche Wettbewerb
 
 ## Arbeitsbereich
 
-Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

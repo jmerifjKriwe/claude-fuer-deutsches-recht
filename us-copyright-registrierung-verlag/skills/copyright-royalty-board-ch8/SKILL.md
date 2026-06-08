@@ -1,13 +1,13 @@
 ---
 name: copyright-royalty-board-ch8
-description: "Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Copyright Royalty Board Chapter 8
 
 ## Arbeitsbereich
 
-Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

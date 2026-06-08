@@ -7,7 +7,7 @@ description: "Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weit
 
 ## Arbeitsbereich
 
-Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

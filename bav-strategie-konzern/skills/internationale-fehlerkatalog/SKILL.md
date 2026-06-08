@@ -11,16 +11,16 @@ Dieser Fehlerkatalog prüft im Bereich **Bav Strategie Konzern** Ergebnisse vor 
 
 ## Fachspezifische Fehlerachsen
 
-- `bav-strategie-konzern-allgemein-design-workflow-chronologie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `altersversorgung-boutique-fristennotiz-psv`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `betrieblichen-drei-duesseldorfer-sonderfall`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `buyout-ma-country-by-cta-contractual`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `drei-stufen-expatriate-pensionsplanung-governance`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `durchfuehrungswege-fuenf-harmonisierung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `einfuehrung-durchfuehrungswege-erstattung-fuenftelregelung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `harmonisierung-migration-historisch-gewachsene-internationale`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `internationale-harmonisierung-japan-corporate`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `konzernen-pension-pensionsmodelle`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `bav-strategie-konzern-allgemein-design-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `altersversorgung-boutique-fristennotiz-psv`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betrieblichen-drei-duesseldorfer-sonderfall`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `buyout-ma-country-by-cta-contractual`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `drei-stufen-expatriate-pensionsplanung-governance`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `durchfuehrungswege-fuenf-harmonisierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einfuehrung-durchfuehrungswege-erstattung-fuenftelregelung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `harmonisierung-migration-historisch-gewachsene-internationale`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `internationale-harmonisierung-japan-corporate`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `konzernen-pension-pensionsmodelle`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

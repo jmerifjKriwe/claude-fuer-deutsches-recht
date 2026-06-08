@@ -1,13 +1,13 @@
 ---
 name: gefahrstoffverzeichnis-gefstoffv
-description: "Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gefahrstoffverzeichnis und Arbeitsschutz
 
 ## Arbeitsbereich
 
-Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische 
 
 ## Arbeitsbereich
 
-PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

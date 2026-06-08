@@ -1,13 +1,13 @@
 ---
 name: sprachlich-einfache-erklaerung
-description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einfache Erklärung
 
 ## Arbeitsbereich
 
-Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

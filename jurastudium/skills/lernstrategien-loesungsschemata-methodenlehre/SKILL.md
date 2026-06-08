@@ -1,13 +1,13 @@
 ---
 name: lernstrategien-loesungsschemata-methodenlehre
-description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lernstrategien für Jura
 
 ## Arbeitsbereich
 
-Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

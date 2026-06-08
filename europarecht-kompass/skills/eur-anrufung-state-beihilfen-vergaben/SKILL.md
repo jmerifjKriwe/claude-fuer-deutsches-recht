@@ -1,13 +1,13 @@
 ---
 name: eur-anrufung-state-beihilfen-vergaben
-description: "Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU: Petitionsausschuss
 
 ## Arbeitsbereich
 
-Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

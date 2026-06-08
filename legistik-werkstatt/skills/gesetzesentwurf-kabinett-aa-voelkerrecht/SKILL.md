@@ -1,13 +1,13 @@
 ---
 name: gesetzesentwurf-kabinett-aa-voelkerrecht
-description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesetzesentwurf Kabinett
 
 ## Arbeitsbereich
 
-Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

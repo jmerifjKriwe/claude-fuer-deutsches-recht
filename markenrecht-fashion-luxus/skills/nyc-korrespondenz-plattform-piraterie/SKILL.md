@@ -1,13 +1,13 @@
 ---
 name: nyc-korrespondenz-plattform-piraterie
-description: "Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
 
 ## Arbeitsbereich
 
-Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

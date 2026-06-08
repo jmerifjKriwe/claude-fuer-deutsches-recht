@@ -1,13 +1,13 @@
 ---
 name: pruefungsgespraech-ag-rechtsgeschichte
-description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüfungsgespräch nach AG-Tradition
 
 ## Arbeitsbereich
 
-Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: jahresabschluss-rechenschaftsbericht-konzern
-description: "Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Jahresabschluss und Rechenschaftsbericht
 
 ## Arbeitsbereich
 
-Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

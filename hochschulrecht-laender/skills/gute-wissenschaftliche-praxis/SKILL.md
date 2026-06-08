@@ -1,13 +1,13 @@
 ---
 name: gute-wissenschaftliche-praxis
-description: "Prüft gute wissenschaftliche Praxis und Ombudsverfahren im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft gute wissenschaftliche Praxis und Ombudsverfahren im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gute Wissenschaftliche Praxis
 
 ## Arbeitsbereich
 
-Prüft gute wissenschaftliche Praxis und Ombudsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft gute wissenschaftliche Praxis und Ombudsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

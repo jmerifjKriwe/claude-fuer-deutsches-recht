@@ -1,13 +1,13 @@
 ---
 name: post-closing-covenant-breach
-description: "Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Post-Closing Covenant Breach
 
 ## Arbeitsbereich
 
-Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

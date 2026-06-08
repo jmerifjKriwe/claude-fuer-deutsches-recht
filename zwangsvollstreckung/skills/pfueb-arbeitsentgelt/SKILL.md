@@ -1,13 +1,13 @@
 ---
 name: pfueb-arbeitsentgelt
-description: "Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PfÜB Arbeitsentgelt
 
 ## Arbeitsbereich
 
-Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

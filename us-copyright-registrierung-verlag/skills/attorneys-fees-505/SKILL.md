@@ -1,13 +1,13 @@
 ---
 name: attorneys-fees-505
-description: "Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Attorney’s Fees § 505
 
 ## Arbeitsbereich
 
-Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

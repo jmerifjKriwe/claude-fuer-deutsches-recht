@@ -1,13 +1,13 @@
 ---
 name: rentenantrag-startdatum-auswanderung-rente
-description: "Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # rentenantrag-fristen-und-startdatum
 
 ## Arbeitsbereich
 
-Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

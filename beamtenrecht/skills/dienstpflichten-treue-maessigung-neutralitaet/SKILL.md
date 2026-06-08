@@ -1,13 +1,13 @@
 ---
 name: dienstpflichten-treue-maessigung-neutralitaet
-description: "Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstpflichten Treue Maessigung Neutralitaet
 
 ## Arbeitsbereich
 
-Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

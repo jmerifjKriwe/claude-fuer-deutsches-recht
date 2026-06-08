@@ -1,30 +1,39 @@
 ---
 name: vob-b-bgb-vermischung-bgh-vii-zr-235-15
-description: VOB/B als Ganzes vereinbart Pruefraster BGH VII ZR 235/15.
+description: "Vob B BGB Vermischung BGH Vii Zr 235 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Vob B BGB Vermischung BGH Vii Zr 235 15
+
+## Einsatzlage
 
 Bauvertrag enthaelt VOB/B mit Einzelabweichungen; AGB-Klauselkontrolle gefordert.
 
-## Normen
+## Normenanker
 
-- Paragraf 305c BGB
-- Paragraf 309 BGB
+- §§ 631 ff. BGB
+- §§ 650a ff. BGB
+- § 640 BGB
+- § 634 BGB
+- HOAI Leistungsphasen 1-9
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 19.01.2017 VII ZR 235/15
+- BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Wer VOB/B als Ganzes vereinbart; Einzelabweichungen oeffnen Klauselkontrolle.
 
-## Schriftsatzkern
-
-Einzelne Abweichungen entziehen VOB/B-Privileg; Klauseln einzeln auf Wirksamkeit pruefen.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Bauvertrag
 - AGB-Anlagen

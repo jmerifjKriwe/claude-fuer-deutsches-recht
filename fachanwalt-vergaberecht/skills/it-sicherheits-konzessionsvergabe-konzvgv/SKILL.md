@@ -7,7 +7,7 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 
 ## Arbeitsbereich
 
-**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüfungslinien: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüfungslinien: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

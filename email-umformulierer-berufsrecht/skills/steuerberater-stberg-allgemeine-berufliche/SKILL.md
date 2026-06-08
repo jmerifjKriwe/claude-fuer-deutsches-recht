@@ -1,13 +1,13 @@
 ---
 name: steuerberater-stberg-allgemeine-berufliche
-description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)
 
 ## Arbeitsbereich
 
-Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

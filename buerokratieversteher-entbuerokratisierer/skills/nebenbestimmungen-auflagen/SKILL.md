@@ -1,13 +1,13 @@
 ---
 name: nebenbestimmungen-auflagen
-description: "Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nebenbestimmungen und Auflagen
 
 ## Arbeitsbereich
 
-Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

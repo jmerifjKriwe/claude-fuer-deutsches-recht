@@ -1,13 +1,13 @@
 ---
 name: stellungnahme-formulierungshilfe-vs-referentenentwurf
-description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Formulierungshilfe vs. Referentenentwurf
 
 ## Arbeitsbereich
 
-Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: psd2-fraud-refund-unauthorised-payment
-description: "Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unautorisierte Zahlung und Fraud
 
 ## Arbeitsbereich
 
-Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

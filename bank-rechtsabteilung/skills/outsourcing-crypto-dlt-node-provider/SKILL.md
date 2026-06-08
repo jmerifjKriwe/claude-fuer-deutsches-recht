@@ -1,13 +1,13 @@
 ---
 name: outsourcing-crypto-dlt-node-provider
-description: "Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DLT Outsourcing
 
 ## Arbeitsbereich
 
-Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

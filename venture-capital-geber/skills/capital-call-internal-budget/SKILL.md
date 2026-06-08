@@ -7,7 +7,7 @@ description: "Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen
 
 ## Arbeitsbereich
 
-Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen und Zahlungstermine bei Club Deals oder SPVs. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen und Zahlungstermine bei Club Deals oder SPVs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

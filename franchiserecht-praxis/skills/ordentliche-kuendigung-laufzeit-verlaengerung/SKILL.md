@@ -1,13 +1,13 @@
 ---
 name: ordentliche-kuendigung-laufzeit-verlaengerung
-description: "Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung
 
 ## Arbeitsbereich
 
-Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

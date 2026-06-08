@@ -1,13 +1,13 @@
 ---
 name: employee-invention-employment-contract
-description: "Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitnehmererfindungen und Softwarepatente DE
 
 ## Arbeitsbereich
 
-Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

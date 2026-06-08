@@ -1,13 +1,13 @@
 ---
 name: duration-term-302-305
-description: "Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Duration und Term
 
 ## Arbeitsbereich
 
-Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nachversicherung-beamte-referendare-soldaten
-description: "Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # nachversicherung-beamte-referendare-soldaten
 
 ## Arbeitsbereich
 
-Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

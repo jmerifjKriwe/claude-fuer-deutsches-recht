@@ -1,13 +1,13 @@
 ---
 name: planfeststellung-raumfahrtinfrastruktur
-description: "Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Planfeststellung Raumfahrtinfrastruktur
 
 ## Arbeitsbereich
 
-Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

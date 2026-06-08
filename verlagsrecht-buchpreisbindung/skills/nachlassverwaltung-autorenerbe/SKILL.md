@@ -7,7 +7,7 @@ description: "Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist n
 
 ## Arbeitsbereich
 
-Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

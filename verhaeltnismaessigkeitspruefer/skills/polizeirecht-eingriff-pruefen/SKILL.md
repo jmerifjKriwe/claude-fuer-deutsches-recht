@@ -3,6 +3,8 @@ name: polizeirecht-eingriff-pruefen
 description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnismaessigkeit pruefen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
 ---
 
+# Polizeirecht Eingriff Pruefen
+
 ## Pruefungsaufbau Polizeiverfuegung
 
 Vor der Verhaeltnismaessigkeitspruefung pruefe:

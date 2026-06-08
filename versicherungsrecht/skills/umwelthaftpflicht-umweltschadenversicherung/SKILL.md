@@ -1,13 +1,13 @@
 ---
 name: umwelthaftpflicht-umweltschadenversicherung
-description: "Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelthaftpflicht und Umweltschadenversicherung
 
 ## Arbeitsbereich
 
-Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

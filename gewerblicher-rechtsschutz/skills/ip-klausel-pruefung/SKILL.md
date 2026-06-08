@@ -1,13 +1,13 @@
 ---
 name: ip-klausel-pruefung
-description: "Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance) im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance) im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP-Klausel-Prüfung
 
 ## Arbeitsbereich
 
-Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

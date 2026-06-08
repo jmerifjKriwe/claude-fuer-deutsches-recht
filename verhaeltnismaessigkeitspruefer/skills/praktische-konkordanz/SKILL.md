@@ -3,6 +3,8 @@ name: praktische-konkordanz
 description: Praktische Konkordanz als Methodik zur Aufloesung von Grundrechtskollisionen ohne Hierarchisierung mit dem Ziel beide Verfassungsgueter zu optimieren. Mit Abgrenzung zur klassischen Abwaegung und Beispielen aus Kunstfreiheit und Pressefreiheit.
 ---
 
+# Praktische Konkordanz
+
 ## Begriff
 
 Konrad Hesse hat den Begriff gepraegt: Konkurrierende Verfassungsgueter

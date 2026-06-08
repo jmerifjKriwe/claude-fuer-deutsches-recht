@@ -1,13 +1,13 @@
 ---
 name: taiwan-risk-scenario
-description: "Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Taiwan-Risikoszenario: Rechtliche und operative Vorbereitung
 
 ## Arbeitsbereich
 
-Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

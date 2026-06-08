@@ -1,13 +1,13 @@
 ---
 name: broadcast-streaming-social
-description: "Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Streaming, Broadcast und Social Media
 
 ## Arbeitsbereich
 
-Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

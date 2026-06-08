@@ -1,13 +1,13 @@
 ---
 name: mandanten-kommunikations-log
-description: "Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill im Rechtsberatungsstelle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # /mandanten-kommunikations-log
 
 ## Arbeitsbereich
 
-Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: uwr-bimschg-genehmigung-bauleiter
-description: "Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Pruefraster für Antragsteller und Einwender im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Pruefraster für Antragsteller und Einwender im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UwR: BImSchG-Genehmigung
 
 ## Arbeitsbereich
 
-Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Pruefraster für Antragsteller und Einwender. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Pruefraster für Antragsteller und Einwender. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

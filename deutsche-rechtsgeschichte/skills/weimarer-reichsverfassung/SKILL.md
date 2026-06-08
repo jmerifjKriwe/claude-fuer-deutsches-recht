@@ -1,13 +1,13 @@
 ---
 name: weimarer-reichsverfassung
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weimarer Reichsverfassung (WRV, 11. August 1919)
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

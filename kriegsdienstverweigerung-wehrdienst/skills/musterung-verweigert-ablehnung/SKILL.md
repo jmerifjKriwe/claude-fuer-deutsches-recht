@@ -1,13 +1,13 @@
 ---
 name: musterung-verweigert-ablehnung
-description: "Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Musterung verweigert Risiko
 
 ## Arbeitsbereich
 
-Erklärt Ablehnungsrisiko bei Musterungsverweigerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Ablehnungsrisiko bei Musterungsverweigerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

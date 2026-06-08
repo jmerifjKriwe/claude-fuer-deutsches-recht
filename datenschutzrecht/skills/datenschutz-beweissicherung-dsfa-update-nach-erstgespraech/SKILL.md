@@ -7,7 +7,7 @@ description: "Datenschutz Beweissicherung Dsfa Update Nach Erstgespraech im Date
 
 ## Arbeitsbereich
 
-**Datenschutz Beweissicherung Dsfa Update Nach Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Strukturiert die Beweissicherung nach einem, dass die Bewe, Aktualisiert die Datenschutz-Folgenabschätzung nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Beweissicherung Dsfa Update Nach Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Strukturiert die Beweissicherung nach einem, dass die Bewe, Aktualisiert die Datenschutz-Folgenabschätzung nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

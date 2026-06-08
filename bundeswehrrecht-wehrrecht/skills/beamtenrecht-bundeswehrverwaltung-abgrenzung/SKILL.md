@@ -1,13 +1,13 @@
 ---
 name: beamtenrecht-bundeswehrverwaltung-abgrenzung
-description: "Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer
 
 ## Arbeitsbereich
 
-Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

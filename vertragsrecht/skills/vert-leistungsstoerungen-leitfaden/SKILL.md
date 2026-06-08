@@ -1,13 +1,13 @@
 ---
 name: vert-leistungsstoerungen-leitfaden
-description: "Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Pruefraster für typische Faelle im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Pruefraster für typische Faelle im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vert: Leistungsstoerungen
 
 ## Arbeitsbereich
 
-Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Pruefraster für typische Faelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Pruefraster für typische Faelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

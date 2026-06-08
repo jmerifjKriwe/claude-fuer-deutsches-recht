@@ -1,13 +1,13 @@
 ---
 name: hongkong-risikoszenario-national-security-law-und-rechtsstaat
-description: "Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hongkong-Risikoszenario: National Security Law und Rechtsstaat
 
 ## Arbeitsbereich
 
-Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

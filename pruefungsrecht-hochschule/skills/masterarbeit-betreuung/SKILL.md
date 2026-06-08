@@ -1,13 +1,13 @@
 ---
 name: masterarbeit-betreuung
-description: "Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Masterarbeit und Betreuung
 
 ## Arbeitsbereich
 
-Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

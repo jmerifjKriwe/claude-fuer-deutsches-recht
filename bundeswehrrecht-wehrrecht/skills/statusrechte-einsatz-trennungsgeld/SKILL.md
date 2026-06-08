@@ -1,13 +1,13 @@
 ---
 name: statusrechte-einsatz-trennungsgeld
-description: "Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüche, Betreuungsleistungen, Fürsorge im Auslandseinsatz und Rechtsbehelfe. Norm-/Quellenanker: SG § 30, EinsatzWVG, SVG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüche, Betreuungsleistungen, Fürsorge im Auslandseinsatz und Rechtsbehelfe. Norm-/Quellenanker: SG § 30, EinsatzWVG, SVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Statusrechte im Einsatz: Urlaub, Betreuung und Fürsorge
 
 ## Arbeitsbereich
 
-Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüche, Betreuungsleistungen, Fürsorge im Auslandseinsatz und Rechtsbehelfe. Norm-/Quellenanker: SG § 30, EinsatzWVG, SVG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüche, Betreuungsleistungen, Fürsorge im Auslandseinsatz und Rechtsbehelfe. Norm-/Quellenanker: SG § 30, EinsatzWVG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

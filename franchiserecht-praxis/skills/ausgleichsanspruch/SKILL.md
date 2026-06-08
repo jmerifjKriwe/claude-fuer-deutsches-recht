@@ -1,13 +1,13 @@
 ---
 name: ausgleichsanspruch
-description: "Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

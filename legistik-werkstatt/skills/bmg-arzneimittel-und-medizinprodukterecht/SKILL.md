@@ -1,13 +1,13 @@
 ---
 name: bmg-arzneimittel-und-medizinprodukterecht
-description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arzneimittel- und Medizinprodukterecht (BMG)
 
 ## Arbeitsbereich
 
-Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

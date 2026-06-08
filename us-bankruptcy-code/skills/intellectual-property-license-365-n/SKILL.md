@@ -1,13 +1,13 @@
 ---
 name: intellectual-property-license-365-n
-description: "Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Intellectual Property License § 365(n)
 
 ## Arbeitsbereich
 
-Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

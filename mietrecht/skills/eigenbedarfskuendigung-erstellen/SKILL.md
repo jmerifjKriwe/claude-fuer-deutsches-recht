@@ -1,13 +1,13 @@
 ---
 name: eigenbedarfskuendigung-erstellen
-description: "Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach § 573 Abs. 2 Nr. 2 BGB. Prüfroutine deckt berechtigtes Interesse (Eigennutzung Familienangehoerige Haushaltsangehoerige) konkrete Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) Kündigungsfristen nach § 573c BGB (drei sechs neun Monate je nach Mietdauer) Sperrfristen aus Landesverordnung (drei bis zehn Jahre nach Umwandlung) Sozialklausel des Mieters (§ 574 BGB) und Risiko der Vortaeuschung (Schadensersatz). Erzeugt rechtssicheres Kündigungsschreiben mit Disclaimer im Mietrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach § 573 Abs. 2 Nr. 2 BGB. Prüfroutine deckt berechtigtes Interesse (Eigennutzung Familienangehoerige Haushaltsangehoerige) konkrete Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) Kündigungsfristen nach § 573c BGB (drei sechs neun Monate je nach Mietdauer) Sperrfristen aus Landesverordnung (drei bis zehn Jahre nach Umwandlung) Sozialklausel des Mieters (§ 574 BGB) und Risiko der Vortaeuschung (Schadensersatz). Erzeugt rechtssicheres Kündigungsschreiben mit Disclaimer im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung)
 
 ## Arbeitsbereich
 
-Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach § 573 Abs. 2 Nr. 2 BGB. Prüfroutine deckt berechtigtes Interesse (Eigennutzung Familienangehoerige Haushaltsangehoerige) konkrete Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) Kündigungsfristen nach § 573c BGB (drei sechs neun Monate je nach Mietdauer) Sperrfristen aus Landesverordnung (drei bis zehn Jahre nach Umwandlung) Sozialklausel des Mieters (§ 574 BGB) und Risiko der Vortaeuschung (Schadensersatz). Erzeugt rechtssicheres Kündigungsschreiben mit Disclaimer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach § 573 Abs. 2 Nr. 2 BGB. Prüfroutine deckt berechtigtes Interesse (Eigennutzung Familienangehoerige Haushaltsangehoerige) konkrete Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) Kündigungsfristen nach § 573c BGB (drei sechs neun Monate je nach Mietdauer) Sperrfristen aus Landesverordnung (drei bis zehn Jahre nach Umwandlung) Sozialklausel des Mieters (§ 574 BGB) und Risiko der Vortaeuschung (Schadensersatz). Erzeugt rechtssicheres Kündigungsschreiben mit Disclaimer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.

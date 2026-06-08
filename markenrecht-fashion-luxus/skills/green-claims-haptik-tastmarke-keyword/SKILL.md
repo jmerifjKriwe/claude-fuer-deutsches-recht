@@ -1,13 +1,13 @@
 ---
 name: green-claims-haptik-tastmarke-keyword
-description: "Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Green Claims und Nachhaltigkeitsmarken
 
 ## Arbeitsbereich
 
-Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

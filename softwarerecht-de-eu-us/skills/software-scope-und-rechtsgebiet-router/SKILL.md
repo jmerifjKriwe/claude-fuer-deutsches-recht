@@ -1,13 +1,13 @@
 ---
 name: software-scope-und-rechtsgebiet-router
-description: "Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Scope- und Rechtsgebietsrouter
 
 ## Arbeitsbereich
 
-Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

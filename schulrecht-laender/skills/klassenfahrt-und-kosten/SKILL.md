@@ -1,13 +1,13 @@
 ---
 name: klassenfahrt-und-kosten
-description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klassenfahrt Und Kosten
 
 ## Arbeitsbereich
 
-Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: urheberrecht-musik-bilder-clips
-description: "Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urheberrecht Musik Bilder Clips
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

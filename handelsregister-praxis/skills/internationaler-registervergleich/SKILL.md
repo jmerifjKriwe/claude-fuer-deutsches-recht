@@ -1,13 +1,13 @@
 ---
 name: internationaler-registervergleich
-description: "Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ausländische Register verstehen
 
 ## Arbeitsbereich
 
-Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

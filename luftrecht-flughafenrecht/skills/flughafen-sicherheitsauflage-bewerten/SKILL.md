@@ -1,13 +1,13 @@
 ---
 name: flughafen-sicherheitsauflage-bewerten
-description: "Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Sicherheitsauflage bewerten
 
 ## Arbeitsbereich
 
-Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

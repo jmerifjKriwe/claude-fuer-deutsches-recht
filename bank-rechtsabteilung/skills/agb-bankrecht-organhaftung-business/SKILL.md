@@ -1,13 +1,13 @@
 ---
 name: agb-bankrecht-organhaftung-business
-description: "AGB-Recht für Banken: Klauseln nach §§ 305 bis 310 BGB, Preisänderungen, Zustimmungsmechanismen, Kündigung, Entgelte, Aufrechnung, Haftung und Verbrauchertransparenz prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGB-Recht für Banken: Klauseln nach §§ 305 bis 310 BGB, Preisänderungen, Zustimmungsmechanismen, Kündigung, Entgelte, Aufrechnung, Haftung und Verbrauchertransparenz prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGB-Klauselkontrolle Bank
 
 ## Arbeitsbereich
 
-AGB-Recht für Banken: Klauseln nach §§ 305 bis 310 BGB, Preisänderungen, Zustimmungsmechanismen, Kündigung, Entgelte, Aufrechnung, Haftung und Verbrauchertransparenz prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AGB-Recht für Banken: Klauseln nach §§ 305 bis 310 BGB, Preisänderungen, Zustimmungsmechanismen, Kündigung, Entgelte, Aufrechnung, Haftung und Verbrauchertransparenz prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

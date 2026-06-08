@@ -1,13 +1,13 @@
 ---
 name: data-act-export-control-freelancer-code
-description: "Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU Data Act in Softwareverträgen
 
 ## Arbeitsbereich
 
-Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

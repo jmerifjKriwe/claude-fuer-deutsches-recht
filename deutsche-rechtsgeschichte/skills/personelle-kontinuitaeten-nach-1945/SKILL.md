@@ -1,13 +1,13 @@
 ---
 name: personelle-kontinuitaeten-nach-1945
-description: "Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Personelle Kontinuitäten nach 1945
 
 ## Arbeitsbereich
 
-Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

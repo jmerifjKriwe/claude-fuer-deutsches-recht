@@ -1,13 +1,13 @@
 ---
 name: verfassung-konkrete-normenkontrolle
-description: "Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konkrete Normenkontrolle
 
 ## Arbeitsbereich
 
-Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz für verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

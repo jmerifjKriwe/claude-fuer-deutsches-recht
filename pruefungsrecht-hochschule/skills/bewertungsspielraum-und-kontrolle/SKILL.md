@@ -1,13 +1,13 @@
 ---
 name: bewertungsspielraum-und-kontrolle
-description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bewertungsspielraum Und Kontrolle
 
 ## Arbeitsbereich
 
-Prüft Bewertungsspielraum und gerichtliche Kontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bewertungsspielraum und gerichtliche Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: drehtuer-angaben
-description: "Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drehtuer-Angaben
 
 ## Arbeitsbereich
 
-Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

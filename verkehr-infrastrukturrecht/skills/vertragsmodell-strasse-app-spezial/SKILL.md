@@ -1,13 +1,13 @@
 ---
 name: vertragsmodell-strasse-app-spezial
-description: "Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster für Kommunen im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster für Kommunen im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # OePNV-App und Plattform
 
 ## Arbeitsbereich
 
-Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster für Kommunen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster für Kommunen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

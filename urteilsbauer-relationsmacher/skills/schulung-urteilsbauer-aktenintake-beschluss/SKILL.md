@@ -1,13 +1,13 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer
 
 ## Arbeitsbereich
 
-Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

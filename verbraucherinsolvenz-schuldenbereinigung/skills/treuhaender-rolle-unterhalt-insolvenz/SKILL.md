@@ -7,7 +7,7 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 ## Arbeitsbereich
 
-**Treuhaender Rolle Unterhalt Insolvenz** ordnet den Fall über die tragenden Prüfungslinien: Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Treuhaender Rolle Unterhalt Insolvenz** ordnet den Fall über die tragenden Prüfungslinien: Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

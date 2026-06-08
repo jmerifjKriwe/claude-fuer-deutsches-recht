@@ -1,13 +1,13 @@
 ---
 name: zivilprozessgeschichte
-description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zivilprozessgeschichte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

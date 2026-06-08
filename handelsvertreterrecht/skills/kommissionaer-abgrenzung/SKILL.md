@@ -1,13 +1,13 @@
 ---
 name: kommissionaer-abgrenzung
-description: "Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

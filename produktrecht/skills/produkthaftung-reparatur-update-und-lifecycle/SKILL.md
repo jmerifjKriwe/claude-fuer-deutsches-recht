@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-reparatur-update-und-lifecycle
-description: "Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produkthaftung: Reparatur, Update und Lifecycle
 
 ## Arbeitsbereich
 
-Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

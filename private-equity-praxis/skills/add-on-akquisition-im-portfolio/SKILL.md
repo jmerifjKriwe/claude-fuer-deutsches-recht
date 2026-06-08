@@ -1,13 +1,13 @@
 ---
 name: add-on-akquisition-im-portfolio
-description: "Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Add-on-Akquisition im Portfolio
 
 ## Arbeitsbereich
 
-Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

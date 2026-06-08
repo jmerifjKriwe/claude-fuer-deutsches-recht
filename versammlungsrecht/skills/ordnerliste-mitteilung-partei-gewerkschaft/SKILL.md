@@ -1,13 +1,13 @@
 ---
 name: ordnerliste-mitteilung-partei-gewerkschaft
-description: "Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # So viel wie nötig, so wenig wie möglich
 
 ## Arbeitsbereich
 
-Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

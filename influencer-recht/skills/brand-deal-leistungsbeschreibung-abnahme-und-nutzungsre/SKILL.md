@@ -1,13 +1,13 @@
 ---
 name: brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre
-description: "Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte
 
 ## Arbeitsbereich
 
-Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

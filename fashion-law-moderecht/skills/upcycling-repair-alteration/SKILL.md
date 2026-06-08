@@ -1,13 +1,13 @@
 ---
 name: upcycling-repair-alteration
-description: "Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Upcycling Repair Alteration
 
 ## Arbeitsbereich
 
-Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

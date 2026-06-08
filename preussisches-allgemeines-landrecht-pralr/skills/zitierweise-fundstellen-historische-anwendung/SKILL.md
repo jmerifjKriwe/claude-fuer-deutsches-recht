@@ -7,7 +7,7 @@ description: "PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und his
 
 ## Arbeitsbereich
 
-PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

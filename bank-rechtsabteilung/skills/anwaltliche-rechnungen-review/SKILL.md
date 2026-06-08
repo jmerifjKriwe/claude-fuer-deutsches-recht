@@ -1,13 +1,13 @@
 ---
 name: anwaltliche-rechnungen-review
-description: "Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechnungsreview Kanzlei
 
 ## Arbeitsbereich
 
-Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

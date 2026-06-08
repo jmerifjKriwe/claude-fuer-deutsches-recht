@@ -1,13 +1,13 @@
 ---
 name: handelsregister-paragraphen-8-16-hgb
-description: "Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsregister §§ 8 ff. HGB
 
 ## Arbeitsbereich
 
-Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

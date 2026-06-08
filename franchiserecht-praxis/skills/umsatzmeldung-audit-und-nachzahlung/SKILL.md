@@ -1,13 +1,13 @@
 ---
 name: umsatzmeldung-audit-und-nachzahlung
-description: "Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Umsatzmeldung, Audit und Nachzahlung
 
 ## Arbeitsbereich
 
-Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

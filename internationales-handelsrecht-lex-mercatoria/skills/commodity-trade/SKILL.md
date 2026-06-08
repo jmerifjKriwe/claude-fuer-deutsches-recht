@@ -1,13 +1,13 @@
 ---
 name: commodity-trade
-description: "Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Commodity Trade
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

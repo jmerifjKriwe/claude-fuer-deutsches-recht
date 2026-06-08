@@ -1,13 +1,13 @@
 ---
 name: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa
-description: "Prüfungslinie für account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
 
 ## Arbeitsbereich
 
-Prüfungslinie für account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

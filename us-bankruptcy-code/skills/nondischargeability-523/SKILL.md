@@ -1,13 +1,13 @@
 ---
 name: nondischargeability-523
-description: "Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nondischargeability § 523
 
 ## Arbeitsbereich
 
-Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

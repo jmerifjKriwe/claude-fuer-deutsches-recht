@@ -1,13 +1,13 @@
 ---
 name: kooperativer-abschluss-mehrsprachige
-description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln) im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kooperativer Abschluss
 
 ## Arbeitsbereich
 
-E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

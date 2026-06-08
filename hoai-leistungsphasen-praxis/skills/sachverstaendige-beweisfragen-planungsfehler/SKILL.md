@@ -1,13 +1,13 @@
 ---
 name: sachverstaendige-beweisfragen-planungsfehler
-description: "HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sachverständigenfragen Zu Planungsfehlern
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: financial-assistance-upstream-fund-finance-nav-preferred
-description: "Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Financial Assistance, Upstream Security und Kapitalerhaltung
 
 ## Arbeitsbereich
 
-Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

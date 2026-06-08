@@ -1,13 +1,13 @@
 ---
 name: loeschungsantrag-dpma-mandantenmemo
-description: "Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Loeschungsantrag Dpma
 
 ## Arbeitsbereich
 
-Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

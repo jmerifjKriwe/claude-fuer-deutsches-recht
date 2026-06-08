@@ -1,13 +1,13 @@
 ---
 name: bankgeheimnis-auskunftsersuchen
-description: "Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auskunftsersuchen
 
 ## Arbeitsbereich
 
-Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

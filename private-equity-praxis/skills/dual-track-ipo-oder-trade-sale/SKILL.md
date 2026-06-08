@@ -1,13 +1,13 @@
 ---
 name: dual-track-ipo-oder-trade-sale
-description: "Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual Track: IPO oder Trade Sale
 
 ## Arbeitsbereich
 
-Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

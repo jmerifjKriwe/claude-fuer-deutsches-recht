@@ -1,13 +1,13 @@
 ---
 name: spin-short
-description: "Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spin-off – Insiderrecht bei Unternehmensabspaltungen
 
 ## Arbeitsbereich
 
-Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

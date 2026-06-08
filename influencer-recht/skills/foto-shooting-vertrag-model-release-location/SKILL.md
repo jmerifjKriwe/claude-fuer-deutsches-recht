@@ -1,13 +1,13 @@
 ---
 name: foto-shooting-vertrag-model-release-location
-description: "Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location
 
 ## Arbeitsbereich
 
-Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

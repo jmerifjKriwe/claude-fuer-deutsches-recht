@@ -1,13 +1,13 @@
 ---
 name: subsumtions-rewrite-klausurton
-description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal im Subsumtions Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subsumtion im Klausurton neu schreiben
 
 ## Arbeitsbereich
 
-Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

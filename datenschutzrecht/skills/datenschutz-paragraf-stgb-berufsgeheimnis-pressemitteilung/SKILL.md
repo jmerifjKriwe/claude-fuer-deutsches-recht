@@ -7,7 +7,7 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 
 ## Arbeitsbereich
 
-**Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall bei, Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall bei, Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

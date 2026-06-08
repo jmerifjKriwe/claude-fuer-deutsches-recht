@@ -1,13 +1,13 @@
 ---
 name: kleinsatellit-universitaet-amateurfunk
-description: "CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung
 
 ## Arbeitsbereich
 
-CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: cisg-vertragsschluss
-description: "Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19) im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19) im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CISG Vertragsschluss (Art. 14-24)
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: fuehrungszeugnis-zweifel
-description: "Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Führungszeugnis bei Zweifeln
 
 ## Arbeitsbereich
 
-Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

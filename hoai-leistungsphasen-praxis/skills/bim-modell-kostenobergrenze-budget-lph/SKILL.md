@@ -1,13 +1,13 @@
 ---
 name: bim-modell-kostenobergrenze-budget-lph
-description: "HOAI-Fachfrage: BIM, Common Data Environment, Modellstand, Planfreigabe, Kollisionsprüfung, Datenhoheit, Auftraggeber-Informationsanforderungen und Haftung im digitalen Planen prüfen im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: BIM, Common Data Environment, Modellstand, Planfreigabe, Kollisionsprüfung, Datenhoheit, Auftraggeber-Informationsanforderungen und Haftung im digitalen Planen prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BIM, CDE Und Planstandshaftung
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: BIM, Common Data Environment, Modellstand, Planfreigabe, Kollisionsprüfung, Datenhoheit, Auftraggeber-Informationsanforderungen und Haftung im digitalen Planen prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: BIM, Common Data Environment, Modellstand, Planfreigabe, Kollisionsprüfung, Datenhoheit, Auftraggeber-Informationsanforderungen und Haftung im digitalen Planen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

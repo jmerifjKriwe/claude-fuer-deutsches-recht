@@ -3,6 +3,8 @@ name: hartz-iv-bverfge-125-175
 description: Hartz-IV-Urteil BVerfGE Band 125 Seite 175 vom 09.02.2010 als Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I GG iVm Sozialstaatsprinzip Art 20 I GG. Mit absoluter Grenze und Folgen fuer Verhaeltnismaessigkeit von Sozialleistungskuerzungen.
 ---
 
+# Hartz Iv BVerfGE 125 175
+
 ## Sachverhalt
 
 Berechnung der Regelleistungen nach SGB II war methodisch intransparent

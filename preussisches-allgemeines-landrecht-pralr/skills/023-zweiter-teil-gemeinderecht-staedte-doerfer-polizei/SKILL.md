@@ -7,7 +7,7 @@ description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei im Preu�
 
 ## Arbeitsbereich
 
-PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

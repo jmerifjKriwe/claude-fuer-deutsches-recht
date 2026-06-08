@@ -7,7 +7,7 @@ description: "Aufsicht Regulierten Aufsichtsbehoerden im Datenschutz-Sanktionsve
 
 ## Arbeitsbereich
 
-**Aufsicht Regulierten Aufsichtsbehoerden** ordnet den Fall über die tragenden Prüfungslinien: Regulierte Branchen Bank Gesundheit Energie, Antwortschreiben an Aufsichtsbehörde, Auskunftsverlangen Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Aufsicht Regulierten Aufsichtsbehoerden** ordnet den Fall über die tragenden Prüfungslinien: Regulierte Branchen Bank Gesundheit Energie, Antwortschreiben an Aufsichtsbehörde, Auskunftsverlangen Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

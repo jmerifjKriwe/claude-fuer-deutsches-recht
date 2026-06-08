@@ -1,13 +1,13 @@
 ---
 name: library-archives-108
-description: "Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Libraries und Archives § 108
 
 ## Arbeitsbereich
 
-Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

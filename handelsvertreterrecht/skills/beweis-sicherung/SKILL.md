@@ -1,13 +1,13 @@
 ---
 name: beweis-sicherung
-description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO
 
 ## Arbeitsbereich
 
-Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

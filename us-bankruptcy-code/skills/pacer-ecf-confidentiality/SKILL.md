@@ -1,13 +1,13 @@
 ---
 name: pacer-ecf-confidentiality
-description: "Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PACER, ECF and Confidentiality
 
 ## Arbeitsbereich
 
-Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

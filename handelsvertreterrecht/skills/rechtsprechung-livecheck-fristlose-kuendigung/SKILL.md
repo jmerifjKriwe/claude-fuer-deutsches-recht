@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-livecheck-fristlose-kuendigung
-description: "Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht
 
 ## Arbeitsbereich
 
-Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: wandlungsmechanik-konzipieren
-description: "Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung) im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wandlungsmechanik konzipieren
 
 ## Arbeitsbereich
 
-Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

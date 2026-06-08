@@ -1,13 +1,13 @@
 ---
 name: dlr-projekt-vertrag-ip-und-haftung
-description: "DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: DLR-Projektvertrag: IP und Haftung
 
 ## Arbeitsbereich
 
-DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

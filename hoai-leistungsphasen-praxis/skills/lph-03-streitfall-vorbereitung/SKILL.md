@@ -1,13 +1,13 @@
 ---
 name: lph-03-streitfall-vorbereitung
-description: "HOAI LPH 3 Entwurfsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 3 Entwurfsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LPH 3 Entwurfsplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
 ## Arbeitsbereich
 
-HOAI LPH 3 Entwurfsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 3 Entwurfsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

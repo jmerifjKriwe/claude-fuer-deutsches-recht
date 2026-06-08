@@ -1,13 +1,13 @@
 ---
 name: notice-deposit-office-action-online-subpoena
-description: "Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notice, Deposit und Registration Chapter 4
 
 ## Arbeitsbereich
 
-Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: plausibilisierung-gleicher-gesamtnoten
-description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Plausibilisierung gleicher Gesamtnoten
 
 ## Arbeitsbereich
 
-Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

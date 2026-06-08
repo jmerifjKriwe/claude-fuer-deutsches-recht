@@ -7,7 +7,7 @@ description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft 
 
 ## Arbeitsbereich
 
-**Rechtsabteilung Joint Controller Meta** ordnet den Fall über die tragenden Prüfungslinien: Rechtsabteilungs-Fachmodul für Joint Controller im, Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und, Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Rechtsabteilung Joint Controller Meta** ordnet den Fall über die tragenden Prüfungslinien: Rechtsabteilungs-Fachmodul für Joint Controller im, Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und, Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

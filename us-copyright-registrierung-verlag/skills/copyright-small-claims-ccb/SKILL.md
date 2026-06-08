@@ -1,13 +1,13 @@
 ---
 name: copyright-small-claims-ccb
-description: "Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Copyright Claims Board CCB
 
 ## Arbeitsbereich
 
-Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

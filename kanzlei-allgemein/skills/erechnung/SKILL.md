@@ -1,13 +1,13 @@
 ---
 name: erechnung
-description: "Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Prüfraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Prüfraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Rechnung, XRechnung, ZUGFeRD und GoBD
 
 ## Arbeitsbereich
 
-Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Prüfraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Prüfraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

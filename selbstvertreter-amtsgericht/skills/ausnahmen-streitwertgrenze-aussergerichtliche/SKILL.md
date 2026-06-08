@@ -7,7 +7,7 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Ausnahmen Streitwertgrenze Aussergerichtliche** ordnet den Fall über die tragenden Prüfungslinien: Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Ausnahmen Streitwertgrenze Aussergerichtliche** ordnet den Fall über die tragenden Prüfungslinien: Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

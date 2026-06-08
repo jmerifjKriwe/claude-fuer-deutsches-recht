@@ -7,7 +7,7 @@ description: "Investitionsschutz Kanzlei Lksg im Internationalen Wirtschaftsrech
 
 ## Arbeitsbereich
 
-**Investitionsschutz Kanzlei Lksg** ordnet den Fall über die tragenden Prüfungslinien: Investitionsschutz, Kanzlei, Lksg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Investitionsschutz Kanzlei Lksg** ordnet den Fall über die tragenden Prüfungslinien: Investitionsschutz, Kanzlei, Lksg. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

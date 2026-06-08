@@ -1,13 +1,13 @@
 ---
 name: barrierefreiheit-meldekanal
-description: "Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Barrierefreiheit Meldekanal
 
 ## Arbeitsbereich
 
-Prüft Barrierefreiheit des Meldekanals. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Barrierefreiheit des Meldekanals. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

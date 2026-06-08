@@ -1,13 +1,13 @@
 ---
 name: elementarschaden-starkregen-ueberschwemmung
-description: "Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache im Versicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Elementarschaden: Starkregen und Überschwemmung
 
 ## Arbeitsbereich
 
-Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahr
 
 ## Arbeitsbereich
 
-**Mehrere Verstoesse Milderung Durch** ordnet den Fall über die tragenden Prüfungslinien: Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Mehrere Verstoesse Milderung Durch** ordnet den Fall über die tragenden Prüfungslinien: Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

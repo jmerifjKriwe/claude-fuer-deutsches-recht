@@ -1,13 +1,13 @@
 ---
 name: hinzuverdienst-teilrente-datenaustausch
-description: "Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # hinzuverdienst-und-teilrente
 
 ## Arbeitsbereich
 
-Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

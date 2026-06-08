@@ -1,13 +1,13 @@
 ---
 name: humor-coach-interpretation-precedent-common
-description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Low-Key Late-Night Coach
 
 ## Arbeitsbereich
 
-Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

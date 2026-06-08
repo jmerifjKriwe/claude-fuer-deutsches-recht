@@ -1,13 +1,13 @@
 ---
 name: beforderung-und-erprobung
-description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beforderung Und Erprobung
 
 ## Arbeitsbereich
 
-Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

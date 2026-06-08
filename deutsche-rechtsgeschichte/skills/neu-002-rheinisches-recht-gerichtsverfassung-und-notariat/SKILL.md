@@ -1,13 +1,13 @@
 ---
 name: neu-002-rheinisches-recht-gerichtsverfassung-und-notariat
-description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 002 Rheinisches Recht Gerichtsverfassung Und Notariat
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

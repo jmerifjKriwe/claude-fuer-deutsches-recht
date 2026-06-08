@@ -7,7 +7,7 @@ description: "Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: p
 
 ## Arbeitsbereich
 
-**Geduldete Beschaeftigung Identitaetsklaerung** ordnet den Fall über die tragenden Prüfungslinien: Geduldete Beschäftigung, Identitätsklärung, Kindeswohl/Familie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Geduldete Beschaeftigung Identitaetsklaerung** ordnet den Fall über die tragenden Prüfungslinien: Geduldete Beschäftigung, Identitätsklärung, Kindeswohl/Familie. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

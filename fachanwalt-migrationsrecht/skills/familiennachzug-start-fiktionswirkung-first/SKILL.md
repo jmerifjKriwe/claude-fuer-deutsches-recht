@@ -7,7 +7,7 @@ description: "Familiennachzug Start Fiktionswirkung First im Migrationsrecht: pr
 
 ## Arbeitsbereich
 
-**Familiennachzug Start Fiktionswirkung First** ordnet den Fall über die tragenden Prüfungslinien: Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Familiennachzug Start Fiktionswirkung First** ordnet den Fall über die tragenden Prüfungslinien: Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

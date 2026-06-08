@@ -1,30 +1,40 @@
 ---
 name: denkmalschutz-abriss-paragraf-9-dschg-bayverfgh
-description: Denkmalschutz Abrissverbot mit Paragraf 9 DSchG und BayVerfGH.
+description: "Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh
+
+## Einsatzlage
 
 Eigentuemer will denkmalgeschuetztes Gebaeude abreissen; Behoerde verweigert Genehmigung.
 
-## Normen
+## Normenanker
 
-- Paragrafen 4, 9 DSchG (BY)
-- Art 14 GG
+- § 9 DSCHG
+- §§ 631 ff. BGB
+- §§ 650a ff. BGB
+- § 640 BGB
+- § 634 BGB
+- HOAI Leistungsphasen 1-9
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BayVerfGH 27.09.2018 Vf 18-VI-18
+- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Eigentum nicht zumutbar erhaltbar? Wirtschaftlichkeitsberechnung erforderlich.
 
-## Schriftsatzkern
-
-Unzumutbarkeit ergibt sich aus Sachverstaendigengutachten; Genehmigung zu erteilen.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Wirtschaftlichkeitsberechnung
 - Bausubstanzgutachten

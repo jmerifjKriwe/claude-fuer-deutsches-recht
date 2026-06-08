@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-von-gewerbeordnung-bis-betrvg
-description: "Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

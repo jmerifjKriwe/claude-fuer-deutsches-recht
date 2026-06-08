@@ -1,13 +1,13 @@
 ---
 name: schleichwerbung-redaktionscontent-und-kooperation
-description: "Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation
 
 ## Arbeitsbereich
 
-Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

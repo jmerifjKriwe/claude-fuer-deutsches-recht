@@ -1,13 +1,13 @@
 ---
 name: designreform-eu-2024-check
-description: "EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Designreform Eu 2024 Check
 
 ## Arbeitsbereich
 
-EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

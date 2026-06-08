@@ -7,7 +7,7 @@ description: "Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinisch
 
 ## Arbeitsbereich
 
-Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

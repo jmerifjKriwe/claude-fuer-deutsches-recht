@@ -1,13 +1,13 @@
 ---
 name: warranty-claims-und-notices
-description: "Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Warranty Claims und Notices
 
 ## Arbeitsbereich
 
-Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

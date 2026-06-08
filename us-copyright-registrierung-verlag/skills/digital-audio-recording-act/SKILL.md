@@ -1,13 +1,13 @@
 ---
 name: digital-audio-recording-act
-description: "Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digital Audio Recording Act
 
 ## Arbeitsbereich
 
-Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

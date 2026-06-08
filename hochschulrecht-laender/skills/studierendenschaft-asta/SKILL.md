@@ -1,13 +1,13 @@
 ---
 name: studierendenschaft-asta
-description: "Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Studierendenschaft AStA
 
 ## Arbeitsbereich
 
-Prüft Studierendenschaft, AStA, Beiträge und Mandat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Studierendenschaft, AStA, Beiträge und Mandat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

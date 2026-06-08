@@ -1,13 +1,13 @@
 ---
 name: akzg-aktenauszug-bauleiter
-description: "Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AkzG: Aktenauszug Bauleiter
 
 ## Arbeitsbereich
 
-Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

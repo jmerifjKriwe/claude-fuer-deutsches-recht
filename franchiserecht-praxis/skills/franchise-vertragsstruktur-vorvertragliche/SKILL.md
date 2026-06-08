@@ -1,13 +1,13 @@
 ---
 name: franchise-vertragsstruktur-vorvertragliche
-description: "Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Vertragsstruktur Master Unit
 
 ## Arbeitsbereich
 
-Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vermittlungsvertreter
-description: "Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung
 
 ## Arbeitsbereich
 
-Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

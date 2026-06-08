@@ -1,13 +1,13 @@
 ---
 name: publication-status-usa-ausland-online
-description: "Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Publication Status USA, Ausland und Online
 
 ## Arbeitsbereich
 
-Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

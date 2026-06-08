@@ -1,13 +1,13 @@
 ---
 name: pruefungsangst-und-psychische-erkrankung
-description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pruefungsangst Und Psychische Erkrankung
 
 ## Arbeitsbereich
 
-Prüft Prüfungsangst, psychische Erkrankung und Rücktritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüfungsangst, psychische Erkrankung und Rücktritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

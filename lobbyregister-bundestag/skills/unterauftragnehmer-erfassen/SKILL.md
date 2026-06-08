@@ -1,13 +1,13 @@
 ---
 name: unterauftragnehmer-erfassen
-description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterauftragnehmer erfassen
 
 ## Arbeitsbereich
 
-Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

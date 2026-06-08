@@ -1,13 +1,13 @@
 ---
 name: fruehere-soldaten-und-erneute-heranziehung
-description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Frühere Soldaten
 
 ## Arbeitsbereich
 
-Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

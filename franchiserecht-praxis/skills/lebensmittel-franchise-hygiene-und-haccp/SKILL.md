@@ -1,13 +1,13 @@
 ---
 name: lebensmittel-franchise-hygiene-und-haccp
-description: "Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP
 
 ## Arbeitsbereich
 
-Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

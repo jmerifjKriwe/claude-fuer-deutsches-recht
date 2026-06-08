@@ -1,13 +1,13 @@
 ---
 name: grenzueberschreitende-datenbank
-description: "Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich
 
 ## Arbeitsbereich
 
-Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

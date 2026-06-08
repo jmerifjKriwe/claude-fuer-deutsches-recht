@@ -1,13 +1,13 @@
 ---
 name: online-technischer-open-book-plagiatssoftware
-description: "Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online Pruefung Technischer Fehler
 
 ## Arbeitsbereich
 
-Prüft technische Fehler in Online-Prüfungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technische Fehler in Online-Prüfungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**BK Bankenfehlberatung Grundzuege Einfuehrung** ordnet den Fall über die tragenden Prüfungslinien: Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**BK Bankenfehlberatung Grundzuege Einfuehrung** ordnet den Fall über die tragenden Prüfungslinien: Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

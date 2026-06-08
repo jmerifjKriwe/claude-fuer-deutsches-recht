@@ -1,13 +1,13 @@
 ---
 name: change-control-dingliche-vorkaufsrechte
-description: "Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Change of Control beim Erbbauberechtigten
 
 ## Arbeitsbereich
 
-Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

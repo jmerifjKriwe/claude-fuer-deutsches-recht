@@ -1,13 +1,13 @@
 ---
 name: konnossement-kaufvertrag-scopen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag für Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag für Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag für Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag für Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

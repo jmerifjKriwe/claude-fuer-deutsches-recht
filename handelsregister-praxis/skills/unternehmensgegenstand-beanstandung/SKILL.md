@@ -1,13 +1,13 @@
 ---
 name: unternehmensgegenstand-beanstandung
-description: "Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unternehmensgegenstand entwerfen
 
 ## Arbeitsbereich
 
-Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

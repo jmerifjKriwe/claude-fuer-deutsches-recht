@@ -7,7 +7,7 @@ description: "FA Verkehrsrecht Fristen Risiko Mandant im Plugin Fachanwalt Verke
 
 ## Arbeitsbereich
 
-**FA Verkehrsrecht Fristen Risiko Mandant** ordnet den Fall über die tragenden Prüfungslinien: Fristen- und Risikoampel im Plugin fachanwalt-verkehrsrecht, Mandantenkommunikation im Plugin fachanwalt-verkehrsrecht, Red-Team Qualitygate im Plugin fachanwalt-verkehrsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**FA Verkehrsrecht Fristen Risiko Mandant** ordnet den Fall über die tragenden Prüfungslinien: Fristen- und Risikoampel im Plugin fachanwalt-verkehrsrecht, Mandantenkommunikation im Plugin fachanwalt-verkehrsrecht, Red-Team Qualitygate im Plugin fachanwalt-verkehrsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: hilfsmittel-liste-pruefung
-description: "Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hilfsmittelliste Prüfung
 
 ## Arbeitsbereich
 
-Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: grundordnung-und-satzung
-description: "Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundordnung Und Satzung
 
 ## Arbeitsbereich
 
-Prüft Grundordnung, Satzungskompetenz und Bekanntmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Grundordnung, Satzungskompetenz und Bekanntmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

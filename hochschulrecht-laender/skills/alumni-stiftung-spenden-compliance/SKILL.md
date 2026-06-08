@@ -1,13 +1,13 @@
 ---
 name: alumni-stiftung-spenden-compliance
-description: "Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Alumni, Stiftung und Spenden-Compliance
 
 ## Arbeitsbereich
 
-Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

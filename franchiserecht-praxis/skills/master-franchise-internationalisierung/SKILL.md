@@ -1,13 +1,13 @@
 ---
 name: master-franchise-internationalisierung
-description: "Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Master-Franchise und Internationalisierung
 
 ## Arbeitsbereich
 
-Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: khub-leistungsmatrix-mandanten-checkliste
-description: "Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Pruefraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Pruefraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Khub: Leistungsmatrix
 
 ## Arbeitsbereich
 
-Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Pruefraster Honorarvereinbarung pro Mandantensegment. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Pruefraster Honorarvereinbarung pro Mandantensegment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

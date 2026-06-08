@@ -1,13 +1,13 @@
 ---
 name: pruefungsamt-kommunikation
-description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pruefungsamt Kommunikation
 
 ## Arbeitsbereich
 
-Baut klare Kommunikation mit Prüfungsamt und Ausschuss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut klare Kommunikation mit Prüfungsamt und Ausschuss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: musik-app-bei
-description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht für Musik-, Film- und Bildarchive — Mediendatenbanken
 
 ## Arbeitsbereich
 
-Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

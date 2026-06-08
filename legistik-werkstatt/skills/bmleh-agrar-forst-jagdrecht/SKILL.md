@@ -1,13 +1,13 @@
 ---
 name: bmleh-agrar-forst-jagdrecht
-description: "Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agrar- und Förderungsrecht (GAK; GAP) (BMLEH)
 
 ## Arbeitsbereich
 
-Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

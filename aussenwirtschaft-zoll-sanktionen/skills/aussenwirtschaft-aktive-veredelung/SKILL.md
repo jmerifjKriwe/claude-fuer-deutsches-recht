@@ -7,7 +7,7 @@ description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240
 
 ## Arbeitsbereich
 
-Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzungen und Rueckgabefristen. Output: Antragsunterlagen und Abschlussabrechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzungen und Rueckgabefristen. Output: Antragsunterlagen und Abschlussabrechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

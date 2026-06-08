@@ -1,13 +1,13 @@
 ---
 name: finanzaufwendungen-berechnen
-description: "Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Finanzaufwendungen berechnen
 
 ## Arbeitsbereich
 
-Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

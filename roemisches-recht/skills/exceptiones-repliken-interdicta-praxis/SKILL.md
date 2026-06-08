@@ -1,13 +1,13 @@
 ---
 name: exceptiones-repliken-interdicta-praxis
-description: "Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exceptiones und Repliken im Formularprozess
 
 ## Arbeitsbereich
 
-Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

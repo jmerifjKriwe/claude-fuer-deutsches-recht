@@ -1,13 +1,13 @@
 ---
 name: zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales
 
 ## Arbeitsbereich
 
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

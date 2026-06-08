@@ -1,13 +1,13 @@
 ---
 name: datenbank-als-kreditsicherheit-due-diligence
-description: "Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
 
 ## Arbeitsbereich
 
-Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

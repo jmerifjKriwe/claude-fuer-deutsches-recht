@@ -1,13 +1,13 @@
 ---
 name: remedies-damages-representations-warranties
-description: "Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Remedies, Damages und Equity
 
 ## Arbeitsbereich
 
-Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

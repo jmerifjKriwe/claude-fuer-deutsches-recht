@@ -1,13 +1,13 @@
 ---
 name: kandidaten-altposts-screening
-description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kandidaten Altposts Screening
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

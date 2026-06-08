@@ -1,13 +1,13 @@
 ---
 name: software-69a-computerprogramm
-description: "Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Computerprogramm nach §§ 69a ff. UrhG
 
 ## Arbeitsbereich
 
-Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

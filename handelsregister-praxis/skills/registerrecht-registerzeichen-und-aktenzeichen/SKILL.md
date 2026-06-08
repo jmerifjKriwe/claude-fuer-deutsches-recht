@@ -1,13 +1,13 @@
 ---
 name: registerrecht-registerzeichen-und-aktenzeichen
-description: "Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerzeichen verstehen
 
 ## Arbeitsbereich
 
-Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

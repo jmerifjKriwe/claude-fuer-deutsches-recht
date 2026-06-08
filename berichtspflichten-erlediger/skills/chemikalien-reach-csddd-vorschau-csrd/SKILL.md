@@ -1,13 +1,13 @@
 ---
 name: chemikalien-reach-csddd-vorschau-csrd
-description: "Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # REACH/CLP Bericht und Stoffdaten
 
 ## Arbeitsbereich
 
-Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

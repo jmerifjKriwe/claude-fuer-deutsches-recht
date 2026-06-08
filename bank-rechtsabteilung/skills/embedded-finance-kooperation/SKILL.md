@@ -1,13 +1,13 @@
 ---
 name: embedded-finance-kooperation
-description: "Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Embedded Finance
 
 ## Arbeitsbereich
 
-Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

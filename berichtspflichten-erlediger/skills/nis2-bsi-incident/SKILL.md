@@ -1,13 +1,13 @@
 ---
 name: nis2-bsi-incident
-description: "IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NIS2/BSI Incident Reporting
 
 ## Arbeitsbereich
 
-IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

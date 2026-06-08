@@ -7,7 +7,7 @@ description: "Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucher
 
 ## Arbeitsbereich
 
-**Treuhaender Kommunikation Unterhaltsschulden** ordnet den Fall über die tragenden Prüfungslinien: Kommunikation mit Treuhänder/Insolvenzverwalter, Unterhaltsschulden, Unternehmerische Restforderungen nach Geschäftsaufgabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Treuhaender Kommunikation Unterhaltsschulden** ordnet den Fall über die tragenden Prüfungslinien: Kommunikation mit Treuhänder/Insolvenzverwalter, Unterhaltsschulden, Unternehmerische Restforderungen nach Geschäftsaufgabe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

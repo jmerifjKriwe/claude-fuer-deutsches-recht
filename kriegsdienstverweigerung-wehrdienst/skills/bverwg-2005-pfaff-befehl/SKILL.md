@@ -1,13 +1,13 @@
 ---
 name: bverwg-2005-pfaff-befehl
-description: "Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BVerwG 2005 konkreter Befehl
 
 ## Arbeitsbereich
 
-Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

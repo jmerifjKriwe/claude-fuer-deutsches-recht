@@ -1,13 +1,13 @@
 ---
 name: schoeffe-haeusliche-gewalt-sitzung
-description: "Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Häusliche Gewalt Verfahren: Sitzungspraxis
 
 ## Arbeitsbereich
 
-Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: architectural-works-120
-description: "Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Architectural Works § 120
 
 ## Arbeitsbereich
 
-Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

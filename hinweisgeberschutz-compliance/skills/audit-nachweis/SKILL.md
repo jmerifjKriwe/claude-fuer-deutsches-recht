@@ -1,13 +1,13 @@
 ---
 name: audit-nachweis
-description: "Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Audit Nachweis
 
 ## Arbeitsbereich
 
-Baut Audit-Nachweis für das Hinweisgebersystem. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Audit-Nachweis für das Hinweisgebersystem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

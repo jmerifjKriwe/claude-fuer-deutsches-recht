@@ -1,13 +1,13 @@
 ---
 name: cybermobbing-schule
-description: "Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cybermobbing Schule
 
 ## Arbeitsbereich
 
-Prüft Cybermobbing mit Chat, Bild, Plattform und Schule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cybermobbing mit Chat, Bild, Plattform und Schule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

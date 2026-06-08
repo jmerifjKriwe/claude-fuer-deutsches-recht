@@ -1,13 +1,13 @@
 ---
 name: ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster
-description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG
 
 ## Arbeitsbereich
 
-Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.

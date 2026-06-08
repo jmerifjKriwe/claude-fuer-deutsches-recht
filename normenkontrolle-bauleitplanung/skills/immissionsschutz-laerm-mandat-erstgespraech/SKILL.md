@@ -1,13 +1,13 @@
 ---
 name: immissionsschutz-laerm-mandat-erstgespraech
-description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG) im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG) im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Immissionsschutz und Lärm in der Bauleitplanung
 
 ## Arbeitsbereich
 
-Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

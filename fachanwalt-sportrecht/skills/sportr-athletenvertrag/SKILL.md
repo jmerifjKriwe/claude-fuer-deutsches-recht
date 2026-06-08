@@ -7,7 +7,7 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 
 ## Arbeitsbereich
 
-**Sportr Athletenvertrag** ordnet den Fall über die tragenden Prüfungslinien: Profi-Sportler will Verein wechseln und braucht Prüfung von, Bauleiter Athletenvertrag, eSports-Organisator oder Verein fragt ob DOSB-Anerkennung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Sportr Athletenvertrag** ordnet den Fall über die tragenden Prüfungslinien: Profi-Sportler will Verein wechseln und braucht Prüfung von, Bauleiter Athletenvertrag, eSports-Organisator oder Verein fragt ob DOSB-Anerkennung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

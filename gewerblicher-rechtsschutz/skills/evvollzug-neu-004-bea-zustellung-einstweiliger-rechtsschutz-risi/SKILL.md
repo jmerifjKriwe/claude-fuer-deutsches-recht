@@ -1,13 +1,13 @@
 ---
 name: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi
-description: "EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis
 
 ## Arbeitsbereich
 
-EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

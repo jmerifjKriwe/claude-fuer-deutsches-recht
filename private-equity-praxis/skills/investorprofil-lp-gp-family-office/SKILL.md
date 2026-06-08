@@ -1,13 +1,13 @@
 ---
 name: investorprofil-lp-gp-family-office
-description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung
 
 ## Arbeitsbereich
 
-Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

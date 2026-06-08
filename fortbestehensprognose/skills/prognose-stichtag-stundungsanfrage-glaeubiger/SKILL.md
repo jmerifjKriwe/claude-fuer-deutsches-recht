@@ -1,13 +1,13 @@
 ---
 name: prognose-stichtag-stundungsanfrage-glaeubiger
-description: "Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prognose-Dokumentation Stichtag
 
 ## Arbeitsbereich
 
-Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

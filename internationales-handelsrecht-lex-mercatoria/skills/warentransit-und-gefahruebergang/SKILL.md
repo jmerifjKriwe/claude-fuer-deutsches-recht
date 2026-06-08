@@ -1,13 +1,13 @@
 ---
 name: warentransit-und-gefahruebergang
-description: "Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Warentransit und Gefahrübergang
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

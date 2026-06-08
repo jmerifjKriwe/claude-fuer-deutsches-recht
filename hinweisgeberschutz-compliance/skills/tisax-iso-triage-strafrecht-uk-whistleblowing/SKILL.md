@@ -1,13 +1,13 @@
 ---
 name: tisax-iso-triage-strafrecht-uk-whistleblowing
-description: "Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tisax Iso Hinweisgeber
 
 ## Arbeitsbereich
 
-Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

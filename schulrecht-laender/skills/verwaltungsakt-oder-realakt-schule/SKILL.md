@@ -1,13 +1,13 @@
 ---
 name: verwaltungsakt-oder-realakt-schule
-description: "Ordnet schulische Schreiben rechtlich ein im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet schulische Schreiben rechtlich ein im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsakt Oder Realakt Schule
 
 ## Arbeitsbereich
 
-Ordnet schulische Schreiben rechtlich ein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet schulische Schreiben rechtlich ein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

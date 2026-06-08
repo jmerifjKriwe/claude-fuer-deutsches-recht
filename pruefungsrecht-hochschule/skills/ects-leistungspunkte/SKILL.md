@@ -1,13 +1,13 @@
 ---
 name: ects-leistungspunkte
-description: "Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ECTS und Leistungspunkte
 
 ## Arbeitsbereich
 
-Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: mitgliedschaften-mitgliederzahl-nicht
-description: "Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mitgliedschaften und Mitgliederzahl
 
 ## Arbeitsbereich
 
-Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: gliederungs-baukasten
-description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lernstruktur-Builder
 
 ## Arbeitsbereich
 
-Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

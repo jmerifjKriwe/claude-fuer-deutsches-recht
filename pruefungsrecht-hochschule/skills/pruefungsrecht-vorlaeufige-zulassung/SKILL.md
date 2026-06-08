@@ -1,13 +1,13 @@
 ---
 name: pruefungsrecht-vorlaeufige-zulassung
-description: "Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleich Und Pruefungsrecht
 
 ## Arbeitsbereich
 
-Prüft Vergleichslösungen im Prüfungsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vergleichslösungen im Prüfungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

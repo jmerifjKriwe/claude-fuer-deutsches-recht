@@ -7,7 +7,7 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 
 ## Arbeitsbereich
 
-**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüfungslinien: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüfungslinien: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

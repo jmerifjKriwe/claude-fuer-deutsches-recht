@@ -1,13 +1,13 @@
 ---
 name: workflow-zweckbestimmung-und-usecase
-description: "Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zweckbestimmung und Use Case
 
 ## Arbeitsbereich
 
-Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

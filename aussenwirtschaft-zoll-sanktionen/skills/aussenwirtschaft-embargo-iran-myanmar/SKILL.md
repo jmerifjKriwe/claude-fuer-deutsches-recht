@@ -7,7 +7,7 @@ description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU
 
 ## Arbeitsbereich
 
-EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

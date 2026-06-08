@@ -1,13 +1,13 @@
 ---
 name: anti-bribery-and-gifts
-description: "Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anti-Korruption China: FCPA/§ 299 StGB/CN-Recht
 
 ## Arbeitsbereich
 
-Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

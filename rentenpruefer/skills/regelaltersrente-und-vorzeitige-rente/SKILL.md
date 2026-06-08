@@ -1,13 +1,13 @@
 ---
 name: regelaltersrente-und-vorzeitige-rente
-description: "Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # regelaltersrente-und-vorzeitige-rente
 
 ## Arbeitsbereich
 
-Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

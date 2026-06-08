@@ -1,13 +1,13 @@
 ---
 name: kooperation-mit-oeffentlichen-stellen
-description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Kooperation mit öffentlichen Stellen
 
 ## Arbeitsbereich
 
-Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

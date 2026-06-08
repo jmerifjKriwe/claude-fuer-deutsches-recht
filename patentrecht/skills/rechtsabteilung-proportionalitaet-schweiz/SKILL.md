@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-proportionalitaet-schweiz
-description: "Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
 
 ## Arbeitsbereich
 
-Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

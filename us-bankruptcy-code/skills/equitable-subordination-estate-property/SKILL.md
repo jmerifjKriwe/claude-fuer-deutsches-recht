@@ -1,13 +1,13 @@
 ---
 name: equitable-subordination-estate-property
-description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subordination § 510
 
 ## Arbeitsbereich
 
-Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: software-sbom
-description: "Baut SBOM-Prozess für eigene Software und Lieferanten im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut SBOM-Prozess für eigene Software und Lieferanten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software SBOM
 
 ## Arbeitsbereich
 
-Baut SBOM-Prozess für eigene Software und Lieferanten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut SBOM-Prozess für eigene Software und Lieferanten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

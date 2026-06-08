@@ -1,13 +1,13 @@
 ---
 name: transportversicherung
-description: "Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transportversicherung im internationalen Handel
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: mitarbeiter-posten-betriebsfeier-content
-description: "Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: Mitarbeiter posten für das Unternehmen
 
 ## Arbeitsbereich
 
-Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

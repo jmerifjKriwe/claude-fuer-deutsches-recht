@@ -1,13 +1,13 @@
 ---
 name: miet-und-pachtverwaltung
-description: "Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Prüfraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan für Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-räumung-kündigung im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Prüfraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan für Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-räumung-kündigung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Miet- und Pachtverwaltung
 
 ## Arbeitsbereich
 
-Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Prüfraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan für Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-räumung-kündigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Prüfraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan für Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-räumung-kündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

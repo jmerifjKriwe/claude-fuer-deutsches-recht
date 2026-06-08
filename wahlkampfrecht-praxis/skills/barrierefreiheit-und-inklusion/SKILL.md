@@ -1,13 +1,13 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Barrierefreiheit Und Inklusion
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

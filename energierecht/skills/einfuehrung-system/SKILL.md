@@ -1,13 +1,13 @@
 ---
 name: einfuehrung-system
-description: "Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Energierecht: System einfuehrend
 
 ## Arbeitsbereich
 
-Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

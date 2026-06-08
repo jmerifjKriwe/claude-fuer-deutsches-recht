@@ -1,13 +1,13 @@
 ---
 name: registerrecht-fehlende-einzahlung-fehlerhafte
-description: "Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einzahlungsrisiko Stammkapital
 
 ## Arbeitsbereich
 
-Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

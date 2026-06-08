@@ -7,7 +7,7 @@ description: "Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-**Verwr Folgenbeseitigung Planfeststellung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Folgenbeseitigungsanspruch, Spezialfall Planfeststellung Grossvorhaben, Leitfaden vorläufiger Rechtsschutz VwGO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verwr Folgenbeseitigung Planfeststellung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Folgenbeseitigungsanspruch, Spezialfall Planfeststellung Grossvorhaben, Leitfaden vorläufiger Rechtsschutz VwGO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

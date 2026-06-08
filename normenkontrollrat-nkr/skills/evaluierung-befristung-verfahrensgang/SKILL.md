@@ -1,13 +1,13 @@
 ---
 name: evaluierung-befristung-verfahrensgang
-description: "Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Evaluierung, Befristung, Sunset-Klausel
 
 ## Arbeitsbereich
 
-Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

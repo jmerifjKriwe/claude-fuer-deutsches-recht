@@ -1,13 +1,13 @@
 ---
 name: media-and-public-affairs
-description: "Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Medien und Public Affairs China: Staatspresse/Social Media/Krisenkomm
 
 ## Arbeitsbereich
 
-Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

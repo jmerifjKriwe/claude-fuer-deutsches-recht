@@ -1,13 +1,13 @@
 ---
 name: datentraeger-rueckgabe
-description: "Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB
 
 ## Arbeitsbereich
 
-Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

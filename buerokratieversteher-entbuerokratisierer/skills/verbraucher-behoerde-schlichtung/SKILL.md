@@ -1,13 +1,13 @@
 ---
 name: verbraucher-behoerde-schlichtung
-description: "Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verbraucherbehörde und Schlichtung
 
 ## Arbeitsbereich
 
-Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: it-sicherheit-cloud-vertraege
-description: "IT-Sicherheit und Cloud-Verträge einer Bank prüfen: DORA, NIS2-Schnittstelle, Datenschutz, Audit-Rechte, Exit, Verschlüsselung, Incident Response, Subdienstleister und Bankaufsicht im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT-Sicherheit und Cloud-Verträge einer Bank prüfen: DORA, NIS2-Schnittstelle, Datenschutz, Audit-Rechte, Exit, Verschlüsselung, Incident Response, Subdienstleister und Bankaufsicht im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IT-Sicherheit und Cloud
 
 ## Arbeitsbereich
 
-IT-Sicherheit und Cloud-Verträge einer Bank prüfen: DORA, NIS2-Schnittstelle, Datenschutz, Audit-Rechte, Exit, Verschlüsselung, Incident Response, Subdienstleister und Bankaufsicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT-Sicherheit und Cloud-Verträge einer Bank prüfen: DORA, NIS2-Schnittstelle, Datenschutz, Audit-Rechte, Exit, Verschlüsselung, Incident Response, Subdienstleister und Bankaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

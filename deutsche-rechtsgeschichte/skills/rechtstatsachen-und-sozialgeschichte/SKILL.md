@@ -1,13 +1,13 @@
 ---
 name: rechtstatsachen-und-sozialgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtstatsachen und Sozialgeschichte des Rechts
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

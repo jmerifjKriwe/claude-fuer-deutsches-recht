@@ -1,13 +1,13 @@
 ---
 name: dsa-plattformbeschwerde
-description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre
 
 ## Arbeitsbereich
 
-Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

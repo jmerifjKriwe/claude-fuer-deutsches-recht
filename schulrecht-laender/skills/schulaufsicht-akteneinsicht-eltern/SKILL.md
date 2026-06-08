@@ -1,13 +1,13 @@
 ---
 name: schulaufsicht-akteneinsicht-eltern
-description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulaufsicht und Akteneinsicht der Eltern
 
 ## Arbeitsbereich
 
-Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

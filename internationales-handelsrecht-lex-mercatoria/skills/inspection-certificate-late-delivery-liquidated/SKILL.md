@@ -1,13 +1,13 @@
 ---
 name: inspection-certificate-late-delivery-liquidated
-description: "Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Inspektionszertifikat
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

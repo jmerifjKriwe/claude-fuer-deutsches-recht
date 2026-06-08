@@ -1,13 +1,13 @@
 ---
 name: revision-rechtsfehler-aktenaufbereiter
-description: "Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll im Strafrechts-Aktenaufbereiter: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Revision: Rechtsfehler-Katalog
 
 ## Arbeitsbereich
 
-Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

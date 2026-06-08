@@ -1,13 +1,13 @@
 ---
 name: insolvenz-erbbauberechtigter
-description: "Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz des Erbbauberechtigten
 
 ## Arbeitsbereich
 
-Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

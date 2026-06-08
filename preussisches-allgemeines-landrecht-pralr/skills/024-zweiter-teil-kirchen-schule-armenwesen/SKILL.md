@@ -7,7 +7,7 @@ description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen im Preußisches Allg
 
 ## Arbeitsbereich
 
-PrALR: Zweiter Teil Kirchen Schule Armenwesen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zweiter Teil Kirchen Schule Armenwesen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

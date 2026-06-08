@@ -1,13 +1,13 @@
 ---
 name: konkurrentenstreit-professur-kunst
-description: "Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konkurrentenstreit Professur
 
 ## Arbeitsbereich
 
-Prüft Konkurrentenstreit im Hochschulbereich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Konkurrentenstreit im Hochschulbereich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

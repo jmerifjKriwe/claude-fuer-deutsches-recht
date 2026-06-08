@@ -7,7 +7,7 @@ description: "OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret
 
 ## Arbeitsbereich
 
-**OLG Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Sofortige Beschwerde gegen VK-Entscheidung beim, Orientierung im Fachanwaltsrecht Vergaberecht, Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**OLG Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Sofortige Beschwerde gegen VK-Entscheidung beim, Orientierung im Fachanwaltsrecht Vergaberecht, Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

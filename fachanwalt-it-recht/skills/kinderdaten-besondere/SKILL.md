@@ -7,7 +7,7 @@ description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft ko
 
 ## Arbeitsbereich
 
-**DSV Kinderdaten Besondere** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**DSV Kinderdaten Besondere** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

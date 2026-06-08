@@ -1,13 +1,13 @@
 ---
 name: public-sector-beamte
-description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Public Sector Beamte
 
 ## Arbeitsbereich
 
-Prüft Hinweisgeberschutz im öffentlichen Dienst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hinweisgeberschutz im öffentlichen Dienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

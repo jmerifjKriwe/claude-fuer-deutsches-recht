@@ -1,6 +1,6 @@
 ---
 name: zahlungsdienste-zag
-description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zahlungsdienste ZAG

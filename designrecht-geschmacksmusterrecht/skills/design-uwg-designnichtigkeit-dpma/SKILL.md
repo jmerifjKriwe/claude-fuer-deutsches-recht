@@ -1,13 +1,13 @@
 ---
 name: design-uwg-designnichtigkeit-dpma
-description: "Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Design Und Uwg Nachahmungsschutz
 
 ## Arbeitsbereich
 
-Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

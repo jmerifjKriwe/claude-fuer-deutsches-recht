@@ -7,7 +7,7 @@ description: "PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Ans
 
 ## Arbeitsbereich
 
-PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Anspruch, Einwendung und Vollzug lösen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Anspruch, Einwendung und Vollzug lösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

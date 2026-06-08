@@ -7,7 +7,7 @@ description: "PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Regis
 
 ## Arbeitsbereich
 
-PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

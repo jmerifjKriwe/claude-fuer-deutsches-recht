@@ -1,13 +1,13 @@
 ---
 name: vg-bild-vgwort-verlag
-description: "Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VG Wort, VG Bild-Kunst und Verlag
 
 ## Arbeitsbereich
 
-Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

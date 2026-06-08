@@ -1,30 +1,40 @@
 ---
 name: ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04
-description: Ehevertrag Sittenwidrigkeit mit BGH XII ZR 129/04.
+description: "Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-## Problemstellung
+# Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04
+
+## Einsatzlage
 
 Ehevertrag schliesst Versorgungsausgleich Zugewinn und Unterhalt aus; Frau bringt Kind ein.
 
-## Normen
+## Normenanker
 
-- Paragraf 138 BGB
+- §§ 1564 ff. BGB
+- § 1671 BGB
+- § 1684 BGB
+- §§ 1601 ff. BGB
+- §§ 1372 ff. BGB
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 11.02.2004 XII ZR 265/02
-- BGH 17.05.2006 XII ZR 250/03
+- BGH 11.02.2004 XII ZR 265/02 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH 17.05.2006 XII ZR 250/03 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Gesamtbetrachtung; einseitige Benachteiligung durch Kombination unwirksam.
 
-## Schriftsatzkern
-
-Ehevertrag insgesamt sittenwidrig; gesetzlicher Guterstand.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Ehevertrag
 - Familienverhaeltnisse zum Vertragsschluss

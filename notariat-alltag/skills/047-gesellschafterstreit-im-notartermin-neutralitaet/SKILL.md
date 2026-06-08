@@ -1,13 +1,13 @@
 ---
 name: 047-gesellschafterstreit-im-notartermin-neutralitaet
-description: "Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität und Protokoll. Umgang mit streitigen Beschlüssen und Gesellschafterversammlungen, Beschlussmängelklage und Protokollpflichten im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität und Protokoll. Umgang mit streitigen Beschlüssen und Gesellschafterversammlungen, Beschlussmängelklage und Protokollpflichten im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität und Protokoll. Umgang mit streitigen Beschlüssen und Gesellschafterversammlungen, Beschlussmängelklage und Protokollpflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität und Protokoll. Umgang mit streitigen Beschlüssen und Gesellschafterversammlungen, Beschlussmängelklage und Protokollpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

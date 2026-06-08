@@ -1,13 +1,13 @@
 ---
 name: handelsbilanz-und-abhaengigkeiten
-description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung
 
 ## Arbeitsbereich
 
-Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

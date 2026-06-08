@@ -1,13 +1,13 @@
 ---
 name: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust
-description: "EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EV-Vollzug 002: Urteilsverfügung, Beschlussverfügung und Zustellweg
 
 ## Arbeitsbereich
 
-EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

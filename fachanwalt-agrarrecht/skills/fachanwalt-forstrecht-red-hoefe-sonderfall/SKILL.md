@@ -7,7 +7,7 @@ description: "Forstrecht RED Hoefe Sonderfall im Agrarrecht: prüft konkret Fach
 
 ## Arbeitsbereich
 
-**Forstrecht RED Hoefe Sonderfall** ordnet den Fall über die tragenden Prüfungslinien: Fachanwalt, Forstrecht, Hoefe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Forstrecht RED Hoefe Sonderfall** ordnet den Fall über die tragenden Prüfungslinien: Fachanwalt, Forstrecht, Hoefe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

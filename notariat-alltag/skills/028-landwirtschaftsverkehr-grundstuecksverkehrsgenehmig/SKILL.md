@@ -1,13 +1,13 @@
 ---
 name: 028-landwirtschaftsverkehr-grundstuecksverkehrsgenehmig
-description: "Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Landwirtschaftsverkehr – GVO, Vorkaufsrechte
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

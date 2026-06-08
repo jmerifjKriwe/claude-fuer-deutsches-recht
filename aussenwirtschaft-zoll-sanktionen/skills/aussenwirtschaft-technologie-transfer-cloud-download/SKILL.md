@@ -7,7 +7,7 @@ description: "Exportkontrolle für Technologietransfer durch Cloud-Dienste und D
 
 ## Arbeitsbereich
 
-Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nuernberger-prozesse-und-dokumentenbasis
-description: "Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nürnberger Prozesse als Dokumentenbasis
 
 ## Arbeitsbereich
 
-Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

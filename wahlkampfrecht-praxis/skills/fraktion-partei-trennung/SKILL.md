@@ -1,13 +1,13 @@
 ---
 name: fraktion-partei-trennung
-description: "Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fraktion Partei Trennung
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

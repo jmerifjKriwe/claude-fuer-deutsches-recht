@@ -1,13 +1,13 @@
 ---
 name: krisenstatement-fehler-eigener-leute
-description: "Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krisenstatement Fehler Eigener Leute
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

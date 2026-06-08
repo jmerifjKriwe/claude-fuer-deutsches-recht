@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-quality-gate
-description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quality Gate — OWi-Mandat
 
 ## Arbeitsbereich
 
-Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

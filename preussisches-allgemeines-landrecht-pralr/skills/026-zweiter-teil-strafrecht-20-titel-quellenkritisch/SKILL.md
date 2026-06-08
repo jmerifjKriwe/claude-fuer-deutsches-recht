@@ -7,7 +7,7 @@ description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußi
 
 ## Arbeitsbereich
 
-PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

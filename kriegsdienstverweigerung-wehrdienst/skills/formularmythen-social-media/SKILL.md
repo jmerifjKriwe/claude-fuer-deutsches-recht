@@ -1,13 +1,13 @@
 ---
 name: formularmythen-social-media
-description: "Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Social-Media-Mythen
 
 ## Arbeitsbereich
 
-Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

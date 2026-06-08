@@ -1,13 +1,13 @@
 ---
 name: false-friends-scanner
-description: "Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich) im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # False-Friends-Scanner
 
 ## Arbeitsbereich
 
-Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Regelungs- und Quellenanker
 

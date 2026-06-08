@@ -1,13 +1,13 @@
 ---
 name: zitierweise-jura-fundstellen
-description: "Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zitierweise in der juristischen Hausarbeit
 
 ## Arbeitsbereich
 
-Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

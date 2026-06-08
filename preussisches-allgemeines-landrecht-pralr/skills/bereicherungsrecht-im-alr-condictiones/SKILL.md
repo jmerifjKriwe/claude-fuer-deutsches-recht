@@ -7,7 +7,7 @@ description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemisc
 
 ## Arbeitsbereich
 
-Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

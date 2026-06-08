@@ -7,7 +7,7 @@ description: "Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausl
 
 ## Arbeitsbereich
 
-Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausländische Investoren Behördenrisiken auslösen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausländische Investoren Behördenrisiken auslösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

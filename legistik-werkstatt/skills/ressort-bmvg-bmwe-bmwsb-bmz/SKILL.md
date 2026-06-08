@@ -1,13 +1,13 @@
 ---
 name: ressort-bmvg-bmwe-bmwsb-bmz
-description: "Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ressort-Heranfuehrung BMVg
 
 ## Arbeitsbereich
 
-Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

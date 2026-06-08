@@ -1,13 +1,13 @@
 ---
 name: einspruchsentscheidung-und-folgen
-description: "Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl
 
 ## Arbeitsbereich
 
-Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

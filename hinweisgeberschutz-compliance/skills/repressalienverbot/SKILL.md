@@ -1,13 +1,13 @@
 ---
 name: repressalienverbot
-description: "Prüft Repressalien und schützt Betroffene prozessfest im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Repressalien und schützt Betroffene prozessfest im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Repressalienverbot
 
 ## Arbeitsbereich
 
-Prüft Repressalien und schützt Betroffene prozessfest. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Repressalien und schützt Betroffene prozessfest. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

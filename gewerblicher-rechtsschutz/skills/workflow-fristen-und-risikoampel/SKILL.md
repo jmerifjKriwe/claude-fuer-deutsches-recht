@@ -1,13 +1,13 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Workflow: Fristen und Risikoampel
 
 ## Arbeitsbereich
 
-Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

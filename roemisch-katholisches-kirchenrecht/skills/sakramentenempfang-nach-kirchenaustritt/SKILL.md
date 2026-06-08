@@ -7,7 +7,7 @@ description: "Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katec
 
 ## Arbeitsbereich
 
-Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Canones- und Quellenanker
 

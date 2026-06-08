@@ -7,7 +7,7 @@ description: "Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV
 
 ## Arbeitsbereich
 
-Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: currency-risk-and-indexation
-description: "Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Währungsrisiko und Indexklauseln
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

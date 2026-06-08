@@ -1,13 +1,13 @@
 ---
 name: konferenzmitschnitt-zu-tagungsbericht
-description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konferenzmitschnitt zu Tagungsbericht
 
 ## Arbeitsbereich
 
-Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

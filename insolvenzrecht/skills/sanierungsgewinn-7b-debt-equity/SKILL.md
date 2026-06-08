@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-7b-debt-equity
-description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack
 
 ## Arbeitsbereich
 
-Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absa
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.

@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-paragraph-sittenwidrige
-description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deliktsrecht § 823 Abs. 1 BGB
 
 ## Arbeitsbereich
 
-Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

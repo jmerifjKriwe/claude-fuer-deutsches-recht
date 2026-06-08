@@ -1,13 +1,13 @@
 ---
 name: impfpflicht-tauglichkeit-musterung
-description: "Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1 im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Impfpflicht, Tauglichkeit und Musterung
 
 ## Arbeitsbereich
 
-Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: neu-015-grundgesetz-entstehung-parlamentarischer-rat
-description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 015 Grundgesetz Entstehung Parlamentarischer Rat
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

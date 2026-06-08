@@ -1,13 +1,13 @@
 ---
 name: minijob-midijob-nachversicherung-beamte
-description: "Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # minijob-midijob-teilzeit-pflegezeiten
 
 ## Arbeitsbereich
 
-Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

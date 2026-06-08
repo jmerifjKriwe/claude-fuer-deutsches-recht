@@ -1,13 +1,13 @@
 ---
 name: versorgung-ruhegehalt-versorgungsabschlag
-description: "Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versorgung Ruhegehalt Beamtvg
 
 ## Arbeitsbereich
 
-Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

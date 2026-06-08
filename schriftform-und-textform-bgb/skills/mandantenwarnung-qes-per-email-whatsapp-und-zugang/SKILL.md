@@ -1,13 +1,13 @@
 ---
 name: mandantenwarnung-qes-per-email-whatsapp-und-zugang
-description: "Prüfungslinie für mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
 ## Arbeitsbereich
 
-Prüfungslinie für mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Prüfungslinie für mandantenwarnung qes per email whatsapp und zugang: prüft N
 
 ## Fachkern: Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
-- **Spezialfrage (Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis):** Prüfungslinie für mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Spezialfrage (Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis):** Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 ## Rechtsgrundlagen

@@ -1,13 +1,13 @@
 ---
 name: pressetext-rechtsthemen
-description: "Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pressetext zu Rechtsthema
 
 ## Arbeitsbereich
 
-Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: geheimnisschutz-fuer-handbuch-und-know-how
-description: "Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise: Geheimnisschutz für Handbuch und Know-how
 
 ## Arbeitsbereich
 
-Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

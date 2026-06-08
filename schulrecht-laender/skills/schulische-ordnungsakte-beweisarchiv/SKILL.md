@@ -1,13 +1,13 @@
 ---
 name: schulische-ordnungsakte-beweisarchiv
-description: "Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulische Ordnungsakte und Beweisarchiv
 
 ## Arbeitsbereich
 
-Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

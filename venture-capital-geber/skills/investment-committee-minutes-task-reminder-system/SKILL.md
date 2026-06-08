@@ -7,7 +7,7 @@ description: "Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office od
 
 ## Arbeitsbereich
 
-Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

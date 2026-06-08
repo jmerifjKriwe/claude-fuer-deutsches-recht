@@ -1,13 +1,13 @@
 ---
 name: mitnutzung-gebaeude-netze
-description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mitnutzung von Gebäudenetzen und passiver Infrastruktur
 
 ## Arbeitsbereich
 
-Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

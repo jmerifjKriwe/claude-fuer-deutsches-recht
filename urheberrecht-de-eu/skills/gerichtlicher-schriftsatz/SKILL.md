@@ -1,13 +1,13 @@
 ---
 name: gerichtlicher-schriftsatz
-description: "Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schriftsatz und Antrag im Urheberrecht
 
 ## Arbeitsbereich
 
-Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

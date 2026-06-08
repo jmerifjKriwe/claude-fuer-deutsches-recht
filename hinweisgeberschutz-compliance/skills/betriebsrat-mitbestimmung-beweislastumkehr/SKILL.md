@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-mitbestimmung-beweislastumkehr
-description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebsrat Mitbestimmung
 
 ## Arbeitsbereich
 
-Prüft Mitbestimmung bei Meldesystem und Untersuchungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mitbestimmung bei Meldesystem und Untersuchungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

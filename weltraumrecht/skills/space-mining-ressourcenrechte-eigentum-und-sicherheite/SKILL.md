@@ -1,13 +1,13 @@
 ---
 name: space-mining-ressourcenrechte-eigentum-und-sicherheite
-description: "Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten
 
 ## Arbeitsbereich
 
-Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

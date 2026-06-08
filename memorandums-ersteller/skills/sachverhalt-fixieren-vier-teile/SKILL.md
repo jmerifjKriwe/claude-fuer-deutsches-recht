@@ -1,13 +1,13 @@
 ---
 name: sachverhalt-fixieren-vier-teile
-description: "Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandantendokument noch fehlen im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandantendokument noch fehlen im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo: Sachverhalt fixieren
 
 ## Arbeitsbereich
 
-Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandantendokument noch fehlen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandantendokument noch fehlen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

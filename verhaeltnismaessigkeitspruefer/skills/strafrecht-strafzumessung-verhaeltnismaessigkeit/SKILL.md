@@ -3,6 +3,8 @@ name: strafrecht-strafzumessung-verhaeltnismaessigkeit
 description: Strafzumessung Paragraf 46 StGB als anwendungsfall der Verhaeltnismaessigkeit mit Strafrahmen Tatschuld Praevention und Pruefung wann die Strafhoehe unverhaeltnismaessig ist. Mit Hinweisen auf BVerfG-Rechtsprechung zu strafrechtlichen Eingriffen.
 ---
 
+# Strafrecht Strafzumessung Verhaeltnismaessigkeit
+
 ## Paragraf 46 StGB als Verhaeltnismaessigkeitsanker
 
 Paragraf 46 I StGB: "Die Schuld des Taeters ist Grundlage fuer die Zumessung
@@ -42,7 +44,7 @@ Nachtatverhalten; Verfahrensdauer Paragraf 46 II StGB.
   verfassungsmaessig, wenn realistische Aussetzungschance besteht.
 - BVerfGE 109 133 Sicherungsverwahrung I: Verhaeltnismaessigkeit
   der praeventiven Sicherung.
-- BVerfGE 128 326 Sicherungsverwahrung II: nach EGMR-Urteil M v Germany
+- BVerfGE 128 326 Sicherungsverwahrung II: im menschenrechtlichen Anschlusskontext
   intensivere Pruefung.
 - BVerfGE 128 282 Therapieunterbringung.
 

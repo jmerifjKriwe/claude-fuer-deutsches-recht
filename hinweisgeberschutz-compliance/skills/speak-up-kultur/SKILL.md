@@ -1,13 +1,13 @@
 ---
 name: speak-up-kultur
-description: "Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Speak Up Kultur
 
 ## Arbeitsbereich
 
-Baut Speak-up-Kultur ohne Compliance-Theater. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Speak-up-Kultur ohne Compliance-Theater. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

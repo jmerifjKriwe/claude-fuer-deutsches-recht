@@ -1,13 +1,13 @@
 ---
 name: scraping-website-datenbank-und-robots-txt
-description: "Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Scraping gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse
 
 ## Arbeitsbereich
 
-Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

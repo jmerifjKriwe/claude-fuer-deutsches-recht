@@ -1,13 +1,13 @@
 ---
 name: verwaltungsakt-oder-informelles-schreiben
-description: "Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsakt oder Hinweis
 
 ## Arbeitsbereich
 
-Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

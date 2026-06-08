@@ -1,13 +1,13 @@
 ---
 name: umgang-mit-provokateuren
-description: "Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umgang Mit Provokateuren
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: wfoe-joint-venture-rep-office-rechtsformvergleich
-description: "Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WFOE/Joint Venture/Representative Office: Rechtsformvergleich China
 
 ## Arbeitsbereich
 
-Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schweigespirale-fakultaeten-und-justiz
-description: "Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schweigespirale in Fakultäten und Justiz
 
 ## Arbeitsbereich
 
-Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

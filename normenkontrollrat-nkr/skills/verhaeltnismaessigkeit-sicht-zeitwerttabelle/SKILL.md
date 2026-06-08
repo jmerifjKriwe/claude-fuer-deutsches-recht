@@ -1,13 +1,13 @@
 ---
 name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
-description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten im Normenkontrollrat Nkr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Verhaeltnismaessigkeit aus NKR-Sicht
 
 ## Arbeitsbereich
 
-Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-gewerbepark
-description: "Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gewerbliches Erbbaurecht
 
 ## Arbeitsbereich
 
-Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

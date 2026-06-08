@@ -1,13 +1,13 @@
 ---
 name: actio-pauliana-voraussetzungen-und-beweisrecht
-description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
 ## Arbeitsbereich
 
-Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

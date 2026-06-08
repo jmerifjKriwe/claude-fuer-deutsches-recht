@@ -1,13 +1,13 @@
 ---
 name: einseitige-geschaefte-minderjaehrige-paragraph-111
-description: "Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: covenant-cyberangriff
-description: "Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Covenant Breach – Insiderrecht und Ad-hoc-Pflicht
 
 ## Arbeitsbereich
 
-Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

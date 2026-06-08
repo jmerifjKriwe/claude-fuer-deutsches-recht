@@ -1,13 +1,13 @@
 ---
 name: licensing-merchandising-lieferkette-lksg
-description: "Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Licensing Merchandising
 
 ## Arbeitsbereich
 
-Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

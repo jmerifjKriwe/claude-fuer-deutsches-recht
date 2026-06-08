@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-wrackpflicht-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: vertragsschluss-antrag-abgabe
-description: "Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

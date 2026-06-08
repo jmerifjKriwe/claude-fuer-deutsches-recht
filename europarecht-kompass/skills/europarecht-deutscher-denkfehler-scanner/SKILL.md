@@ -1,13 +1,13 @@
 ---
 name: europarecht-deutscher-denkfehler-scanner
-description: "Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutscher-Denkfehler-Scanner
 
 ## Arbeitsbereich
 
-Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

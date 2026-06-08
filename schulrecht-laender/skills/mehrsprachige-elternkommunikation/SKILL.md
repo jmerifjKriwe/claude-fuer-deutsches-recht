@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-elternkommunikation
-description: "Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrsprachige Elternkommunikation
 
 ## Arbeitsbereich
 
-Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

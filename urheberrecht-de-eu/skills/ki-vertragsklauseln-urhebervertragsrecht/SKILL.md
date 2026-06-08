@@ -1,13 +1,13 @@
 ---
 name: ki-vertragsklauseln-urhebervertragsrecht
-description: "Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Klauseln in Urheberverträgen
 
 ## Arbeitsbereich
 
-Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

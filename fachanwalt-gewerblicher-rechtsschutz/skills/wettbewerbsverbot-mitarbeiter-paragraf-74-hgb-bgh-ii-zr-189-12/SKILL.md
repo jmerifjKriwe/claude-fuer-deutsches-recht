@@ -1,29 +1,40 @@
 ---
 name: wettbewerbsverbot-mitarbeiter-paragraf-74-hgb-bgh-ii-zr-189-12
-description: Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12.
+description: "Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12."
 ---
 
-## Problemstellung
+# Wettbewerbsverbot Mitarbeiter Paragraf 74 Hgb BGH Ii Zr 189 12
+
+## Einsatzlage
 
 Mitarbeiter erhaelt Wettbewerbsverbot ohne Karenzentschaedigung; will dennoch wechseln.
 
-## Normen
+## Normenanker
 
-- Paragrafen 74 ff HGB
+- § 74 HGB
+- § 14 MarkenG
+- § 4 UWG
+- § 97 UrhG
+- § 9 DesignG
+- § 139 PatG
 
-## Rechtsprechung
+## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 18.10.2012 II ZR 189/12
+- BGH 18.10.2012 II ZR 189/12 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
 
-## Loesungsweg
+## Prüfprogramm
+
+1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
+2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
+3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
+4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
+5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+
+## Arbeitsergebnis
 
 Karenzentschaedigung mindestens 50 Prozent Bezuege; sonst unwirksam.
 
-## Schriftsatzkern
-
-Verbot unwirksam; Wechsel zulaessig.
-
-## Beweismittel
+## Belege und Aktenlücken
 
 - Arbeitsvertrag
 - Wettbewerbsverbotsklausel

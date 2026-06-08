@@ -1,13 +1,13 @@
 ---
 name: dekanat-organstreit
-description: "Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dekanat und Organstreit
 
 ## Arbeitsbereich
 
-Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

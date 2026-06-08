@@ -1,13 +1,13 @@
 ---
 name: beitragsordnung
-description: "Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beitragsordnung Partei
 
 ## Arbeitsbereich
 
-Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

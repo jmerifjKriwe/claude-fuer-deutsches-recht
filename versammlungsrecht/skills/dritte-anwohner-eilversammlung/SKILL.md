@@ -1,13 +1,13 @@
 ---
 name: dritte-anwohner-eilversammlung
-description: "Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drittrechte ernst nehmen ohne Verdrängung
 
 ## Arbeitsbereich
 
-Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

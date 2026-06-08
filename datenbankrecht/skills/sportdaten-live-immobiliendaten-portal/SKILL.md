@@ -1,13 +1,13 @@
 ---
 name: sportdaten-live-immobiliendaten-portal
-description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport
 
 ## Arbeitsbereich
 
-Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

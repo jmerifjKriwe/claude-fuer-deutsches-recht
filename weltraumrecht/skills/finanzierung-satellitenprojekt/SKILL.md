@@ -1,13 +1,13 @@
 ---
 name: finanzierung-satellitenprojekt
-description: "Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Finanzierung Satellitenprojekt: Projektfinanzierung und Step-in-Rechte
 
 ## Arbeitsbereich
 
-Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

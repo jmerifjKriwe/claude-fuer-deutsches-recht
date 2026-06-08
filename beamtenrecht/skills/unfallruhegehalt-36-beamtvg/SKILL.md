@@ -1,13 +1,13 @@
 ---
 name: unfallruhegehalt-36-beamtvg
-description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandelt die Konstellation Dienstunfaehigkeit nach Dienstunfall die mehrfache Schmaelerung durch Versorgungsabschlag und das Verhaeltnis zur einmaligen Unfallentschaedigung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandelt die Konstellation Dienstunfaehigkeit nach Dienstunfall die mehrfache Schmaelerung durch Versorgungsabschlag und das Verhaeltnis zur einmaligen Unfallentschaedigung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unfallruhegehalt nach § 36 BeamtVG
 
 ## Arbeitsbereich
 
-Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandelt die Konstellation Dienstunfaehigkeit nach Dienstunfall die mehrfache Schmaelerung durch Versorgungsabschlag und das Verhaeltnis zur einmaligen Unfallentschaedigung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandelt die Konstellation Dienstunfaehigkeit nach Dienstunfall die mehrfache Schmaelerung durch Versorgungsabschlag und das Verhaeltnis zur einmaligen Unfallentschaedigung. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

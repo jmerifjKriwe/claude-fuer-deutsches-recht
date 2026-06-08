@@ -1,13 +1,13 @@
 ---
 name: eigenschaftsirrtum-paragraph-einseitige
-description: "Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

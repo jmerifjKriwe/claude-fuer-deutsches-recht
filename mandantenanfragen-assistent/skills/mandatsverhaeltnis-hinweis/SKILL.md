@@ -1,13 +1,13 @@
 ---
 name: mandatsverhaeltnis-hinweis
-description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandatsverhältnis-Hinweis
 
 ## Arbeitsbereich
 
-Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

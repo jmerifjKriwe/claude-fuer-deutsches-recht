@@ -1,13 +1,13 @@
 ---
 name: internationales-privatrecht-kollidierende-agb
-description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationales Privatrecht
 
 ## Arbeitsbereich
 
-Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

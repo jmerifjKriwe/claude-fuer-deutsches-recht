@@ -1,13 +1,13 @@
 ---
 name: besoldung-zulagen-auslandsverwendungszuschlag
-description: "Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besoldung, Zulagen und Auslandsverwendungszuschlag
 
 ## Arbeitsbereich
 
-Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

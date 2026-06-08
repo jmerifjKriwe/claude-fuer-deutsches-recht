@@ -1,13 +1,13 @@
 ---
 name: besold-neu-009-mindestabstandsgebot-buergergeld-vergleichsberech
-description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Besold Mindestabstandsgebot Buergergeld Vergleichsberech
 
 ## Arbeitsbereich
 
-Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

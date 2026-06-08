@@ -1,13 +1,13 @@
 ---
 name: politisches-risiko-china-versicherung-und-investitionsgarantien
-description: "Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Politisches Risiko China: Versicherung und Investitionsgarantien
 
 ## Arbeitsbereich
 
-Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

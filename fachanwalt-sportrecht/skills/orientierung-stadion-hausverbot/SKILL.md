@@ -7,14 +7,14 @@ description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwa
 
 ## Arbeitsbereich
 
-**Orientierung Stadion Hausverbot** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Orientierung Stadion Hausverbot** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-sportrecht-orientierung` | Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
 | `fachanwalt-sportrecht-stadion-hausverbot` | Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion). |
-| `fachanwalt-sportrecht-vereinsstrafrecht` | Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sportrecht-vereinsstrafrecht` | Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -196,7 +196,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 3. `fachanwalt-sportrecht-vereinsstrafrecht`
 
-**Fokus:** Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Vereinsstrafrecht
 

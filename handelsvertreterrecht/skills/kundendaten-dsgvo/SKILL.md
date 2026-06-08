@@ -1,13 +1,13 @@
 ---
 name: kundendaten-dsgvo
-description: "Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO
 
 ## Arbeitsbereich
 
-Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

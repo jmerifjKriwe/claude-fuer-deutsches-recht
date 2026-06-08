@@ -1,13 +1,13 @@
 ---
 name: lieferketten-compliance-lksg-und-esg
-description: "Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Lieferketten-Compliance, LkSG und ESG
 
 ## Arbeitsbereich
 
-Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

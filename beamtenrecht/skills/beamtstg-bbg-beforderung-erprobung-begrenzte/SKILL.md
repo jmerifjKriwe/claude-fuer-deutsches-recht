@@ -1,13 +1,13 @@
 ---
 name: beamtstg-bbg-beforderung-erprobung-begrenzte
-description: "Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BeamtStG, BBG und Landesrecht richtig abgrenzen
 
 ## Arbeitsbereich
 
-Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

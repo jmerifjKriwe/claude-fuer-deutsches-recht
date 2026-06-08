@@ -1,13 +1,13 @@
 ---
 name: vereinfachtes-schreiben-vollmacht-vertretung
-description: "Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schreiben-Generator
 
 ## Arbeitsbereich
 
-Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

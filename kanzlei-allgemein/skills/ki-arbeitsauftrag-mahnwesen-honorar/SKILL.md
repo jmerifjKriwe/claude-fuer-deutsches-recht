@@ -1,13 +1,13 @@
 ---
 name: ki-arbeitsauftrag-mahnwesen-honorar
-description: "Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien im Kanzlei Allgemein. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Arbeitsauftrag Briefing
 
 ## Arbeitsbereich
 
-Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

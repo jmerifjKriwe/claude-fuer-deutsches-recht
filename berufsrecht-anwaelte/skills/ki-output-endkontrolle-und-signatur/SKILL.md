@@ -1,13 +1,13 @@
 ---
 name: ki-output-endkontrolle-und-signatur
-description: "Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-Output, anwaltliche Endkontrolle und Signatur
 
 ## Arbeitsbereich
 
-Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

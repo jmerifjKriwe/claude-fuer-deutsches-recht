@@ -1,13 +1,13 @@
 ---
 name: ppa-cppa-vertragsspezialitaeten
-description: "PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jahres-PPA im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jahres-PPA im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PPA und CPPA: Spezialitaeten
 
 ## Arbeitsbereich
 
-PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jahres-PPA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jahres-PPA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

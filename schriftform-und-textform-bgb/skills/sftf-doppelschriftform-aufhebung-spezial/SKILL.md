@@ -1,13 +1,13 @@
 ---
 name: sftf-doppelschriftform-aufhebung-spezial
-description: "Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SfTf: Doppelschriftform-Aufhebung
 
 ## Arbeitsbereich
 
-Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

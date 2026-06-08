@@ -1,13 +1,13 @@
 ---
 name: qualitaetskontrolle-pre-shipment
-description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätskontrolle: Pre-Shipment Inspection
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

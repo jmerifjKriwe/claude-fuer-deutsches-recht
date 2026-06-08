@@ -1,13 +1,13 @@
 ---
 name: geheimschutz-sicherheitsueberpruefung-sueg
-description: "Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)
 
 ## Arbeitsbereich
 
-Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: lehrverpflichtung-deputat
-description: "Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lehrverpflichtung und Deputat
 
 ## Arbeitsbereich
 
-Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

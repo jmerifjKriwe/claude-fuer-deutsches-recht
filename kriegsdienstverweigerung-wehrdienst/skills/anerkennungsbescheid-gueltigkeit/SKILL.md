@@ -1,13 +1,13 @@
 ---
 name: anerkennungsbescheid-gueltigkeit
-description: "Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gültigkeit alter Bescheide
 
 ## Arbeitsbereich
 
-Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

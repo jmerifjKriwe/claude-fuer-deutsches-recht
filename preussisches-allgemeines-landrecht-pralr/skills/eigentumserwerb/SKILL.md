@@ -7,7 +7,7 @@ description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill b
 
 ## Arbeitsbereich
 
-Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

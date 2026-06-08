@@ -1,13 +1,13 @@
 ---
 name: open-operate-reaktion
-description: "Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spezial: Formulare, Portale und Einreichungswege
 
 ## Arbeitsbereich
 
-Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

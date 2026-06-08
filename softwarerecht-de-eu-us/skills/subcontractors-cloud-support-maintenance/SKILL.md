@@ -1,13 +1,13 @@
 ---
 name: subcontractors-cloud-support-maintenance
-description: "Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subcontractors und Cloud Stack
 
 ## Arbeitsbereich
 
-Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

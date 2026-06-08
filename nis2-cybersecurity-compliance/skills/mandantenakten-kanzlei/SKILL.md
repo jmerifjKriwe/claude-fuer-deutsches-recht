@@ -1,13 +1,13 @@
 ---
 name: mandantenakten-kanzlei
-description: "Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenakten Kanzlei
 
 ## Arbeitsbereich
 
-Prüft Cybersecurity für Kanzlei- und Mandatsakten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cybersecurity für Kanzlei- und Mandatsakten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

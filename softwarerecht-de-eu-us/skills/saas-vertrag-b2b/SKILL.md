@@ -1,13 +1,13 @@
 ---
 name: saas-vertrag-b2b
-description: "Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # SaaS-Vertrag B2B
 
 ## Arbeitsbereich
 
-Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

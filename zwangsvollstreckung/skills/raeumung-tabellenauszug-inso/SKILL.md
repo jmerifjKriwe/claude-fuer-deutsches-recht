@@ -1,13 +1,13 @@
 ---
 name: raeumung-tabellenauszug-inso
-description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar) im Zwangsvollstreckung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar) im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO
 
 ## Arbeitsbereich
 
-Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

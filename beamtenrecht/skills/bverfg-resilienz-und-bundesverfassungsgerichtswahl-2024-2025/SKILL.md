@@ -1,13 +1,13 @@
 ---
 name: bverfg-resilienz-und-bundesverfassungsgerichtswahl-2024-2025
-description: "Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, Wahlblockaden, Selbstvorschlagsmechanismus, institutionelle Sicherung und Bedeutung für Richterrecht und Justizverfassung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, Wahlblockaden, Selbstvorschlagsmechanismus, institutionelle Sicherung und Bedeutung für Richterrecht und Justizverfassung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BVerfG-Resilienz und Wahlblockaden
 
 ## Arbeitsbereich
 
-Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, Wahlblockaden, Selbstvorschlagsmechanismus, institutionelle Sicherung und Bedeutung für Richterrecht und Justizverfassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, Wahlblockaden, Selbstvorschlagsmechanismus, institutionelle Sicherung und Bedeutung für Richterrecht und Justizverfassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

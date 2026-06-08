@@ -1,13 +1,13 @@
 ---
 name: altersteilzeit-93-bbg-blockmodell
-description: "Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Altersteilzeit § 93 BBG — Blockmodell und Teilzeitmodell
 
 ## Arbeitsbereich
 
-Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

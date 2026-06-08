@@ -1,13 +1,13 @@
 ---
 name: entlassung-und-statusbeendigung
-description: "Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entlassung Und Statusbeendigung
 
 ## Arbeitsbereich
 
-Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

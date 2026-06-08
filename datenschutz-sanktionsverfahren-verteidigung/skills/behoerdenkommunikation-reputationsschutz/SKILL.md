@@ -7,7 +7,7 @@ description: "Behördenkommunikation Reputationsschutz im Datenschutz-Sanktionsv
 
 ## Arbeitsbereich
 
-**Behördenkommunikation Reputationsschutz** ordnet den Fall über die tragenden Prüfungslinien: Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Behördenkommunikation Reputationsschutz** ordnet den Fall über die tragenden Prüfungslinien: Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

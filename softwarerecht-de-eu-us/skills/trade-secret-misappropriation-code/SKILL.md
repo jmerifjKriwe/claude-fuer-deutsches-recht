@@ -1,13 +1,13 @@
 ---
 name: trade-secret-misappropriation-code
-description: "Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trade Secret Misappropriation Code
 
 ## Arbeitsbereich
 
-Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

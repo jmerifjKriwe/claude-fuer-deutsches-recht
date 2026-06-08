@@ -1,13 +1,13 @@
 ---
 name: bonus
-description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag
 
 ## Arbeitsbereich
 
-Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

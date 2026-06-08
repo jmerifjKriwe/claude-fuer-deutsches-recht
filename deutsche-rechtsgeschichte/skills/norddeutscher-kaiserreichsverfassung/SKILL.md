@@ -1,13 +1,13 @@
 ---
 name: norddeutscher-kaiserreichsverfassung
-description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deutsche Rechtsgeschichte: 007 Norddeutscher Bund Verfassung 1867
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

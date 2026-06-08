@@ -1,13 +1,13 @@
 ---
 name: templates-open-cases-save-for-later
-description: "Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Templates, Open Cases und Save for Later
 
 ## Arbeitsbereich
 
-Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

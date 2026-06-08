@@ -1,13 +1,13 @@
 ---
 name: robotik-ki-anhang-iii-artikel-system
-description: "Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anhang III Robotik Use Cases
 
 ## Arbeitsbereich
 
-Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

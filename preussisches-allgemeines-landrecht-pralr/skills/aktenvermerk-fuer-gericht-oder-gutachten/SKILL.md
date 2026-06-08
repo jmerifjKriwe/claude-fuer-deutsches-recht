@@ -7,7 +7,7 @@ description: "PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu 
 
 ## Arbeitsbereich
 
-PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

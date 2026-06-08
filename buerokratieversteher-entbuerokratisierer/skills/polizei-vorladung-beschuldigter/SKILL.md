@@ -1,13 +1,13 @@
 ---
 name: polizei-vorladung-beschuldigter
-description: "Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei-Vorladung als Beschuldigter
 
 ## Arbeitsbereich
 
-Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

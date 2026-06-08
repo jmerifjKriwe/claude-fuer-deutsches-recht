@@ -1,13 +1,13 @@
 ---
 name: disziplinarverfahren-intake
-description: "Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Disziplinarverfahren Intake
 
 ## Arbeitsbereich
 
-Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: entgeltgenehmigung-tk-eu
-description: "Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz im Telekommunikationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entgeltgenehmigung und Kostenorientierung
 
 ## Arbeitsbereich
 
-Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

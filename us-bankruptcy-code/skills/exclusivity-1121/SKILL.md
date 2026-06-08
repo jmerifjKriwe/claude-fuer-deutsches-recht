@@ -1,13 +1,13 @@
 ---
 name: exclusivity-1121
-description: "Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exclusivity § 1121
 
 ## Arbeitsbereich
 
-Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

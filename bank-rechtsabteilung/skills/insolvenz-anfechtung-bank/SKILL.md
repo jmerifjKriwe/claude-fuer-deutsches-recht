@@ -1,13 +1,13 @@
 ---
 name: insolvenz-anfechtung-bank
-description: "Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenzanfechtung Bank
 
 ## Arbeitsbereich
 
-Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

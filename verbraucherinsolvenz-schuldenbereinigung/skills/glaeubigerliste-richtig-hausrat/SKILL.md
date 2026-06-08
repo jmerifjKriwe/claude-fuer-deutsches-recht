@@ -7,7 +7,7 @@ description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Sch
 
 ## Arbeitsbereich
 
-**Glaeubigerliste Richtig Hausrat** ordnet den Fall über die tragenden Prüfungslinien: Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Glaeubigerliste Richtig Hausrat** ordnet den Fall über die tragenden Prüfungslinien: Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

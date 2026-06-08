@@ -1,13 +1,13 @@
 ---
 name: tokenisierung-security-token-mica-mifid
-description: "Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tokenisierung Rechtsqualifikation
 
 ## Arbeitsbereich
 
-Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

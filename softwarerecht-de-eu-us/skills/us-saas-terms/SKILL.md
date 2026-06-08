@@ -1,13 +1,13 @@
 ---
 name: us-saas-terms
-description: "Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US SaaS Terms
 
 ## Arbeitsbereich
 
-Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

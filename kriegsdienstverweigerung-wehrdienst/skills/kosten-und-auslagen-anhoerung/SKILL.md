@@ -1,13 +1,13 @@
 ---
 name: kosten-und-auslagen-anhoerung
-description: "Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kosten und Auslagen Anhörung
 
 ## Arbeitsbereich
 
-Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

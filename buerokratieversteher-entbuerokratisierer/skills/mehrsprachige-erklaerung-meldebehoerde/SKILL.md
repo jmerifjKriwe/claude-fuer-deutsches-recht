@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-erklaerung-meldebehoerde
-description: "Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrsprachige Erklärung
 
 ## Arbeitsbereich
 
-Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

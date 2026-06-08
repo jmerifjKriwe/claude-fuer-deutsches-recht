@@ -1,13 +1,13 @@
 ---
 name: covenant-waiver-crr-crd-kapitalanforderungen
-description: "Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Covenant Waiver
 
 ## Arbeitsbereich
 
-Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

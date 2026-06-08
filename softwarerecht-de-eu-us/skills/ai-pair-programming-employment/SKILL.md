@@ -1,13 +1,13 @@
 ---
 name: ai-pair-programming-employment
-description: "Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AI Pair Programming im Arbeitsverhältnis
 
 ## Arbeitsbereich
 
-Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

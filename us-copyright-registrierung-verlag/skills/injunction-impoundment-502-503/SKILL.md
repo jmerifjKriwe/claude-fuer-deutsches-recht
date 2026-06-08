@@ -1,13 +1,13 @@
 ---
 name: injunction-impoundment-502-503
-description: "Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Injunction und Impoundment
 
 ## Arbeitsbereich
 
-Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

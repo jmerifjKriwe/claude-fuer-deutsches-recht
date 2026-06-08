@@ -7,7 +7,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: countervailing-duty-risk
-description: "EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Antisubventionsverfahren China: Risiken und Verfahren
 
 ## Arbeitsbereich
 
-EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: aufsichtsbehoerdenkommunikation-internal
-description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aufsichtsbehoerdenkommunikation
 
 ## Arbeitsbereich
 
-Steuert Kommunikation mit Aufsichtsbehörden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Kommunikation mit Aufsichtsbehörden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: nachfolge-agenturverkauf
-description: "Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agenturverkauf und Nachfolge im Handelsvertreterrecht
 
 ## Arbeitsbereich
 
-Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

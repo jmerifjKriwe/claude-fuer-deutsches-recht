@@ -1,13 +1,13 @@
 ---
 name: registerstand-fristen-verlaengerung
-description: "Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Registerstand Fristen Verlaengerung
 
 ## Arbeitsbereich
 
-Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

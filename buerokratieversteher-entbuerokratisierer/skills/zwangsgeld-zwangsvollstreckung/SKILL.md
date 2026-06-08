@@ -1,6 +1,6 @@
 ---
 name: zwangsgeld-zwangsvollstreckung
-description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsgeld Zwangsvollstreckung

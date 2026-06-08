@@ -1,13 +1,13 @@
 ---
 name: rechnungseinzug
-description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Rechnungseinzug im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Rechnungseinzug im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechnungseinzug
 
 ## Arbeitsbereich
 
-Rechnungseinzug: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Rechnungseinzug im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnungseinzug: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Rechnungseinzug im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

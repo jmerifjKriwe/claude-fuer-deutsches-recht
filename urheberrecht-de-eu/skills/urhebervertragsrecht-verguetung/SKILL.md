@@ -1,13 +1,13 @@
 ---
 name: urhebervertragsrecht-verguetung
-description: "Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Angemessene Vergütung und Bestseller
 
 ## Arbeitsbereich
 
-Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

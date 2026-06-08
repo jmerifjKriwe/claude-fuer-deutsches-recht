@@ -1,13 +1,13 @@
 ---
 name: sound-recordings-114
-description: "Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sound Recordings § 114
 
 ## Arbeitsbereich
 
-Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

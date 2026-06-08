@@ -7,7 +7,7 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Richtervorschlag II Verhalten Gerichtssaal** ordnet den Fall über die tragenden Prüfungslinien: Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Richtervorschlag II Verhalten Gerichtssaal** ordnet den Fall über die tragenden Prüfungslinien: Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

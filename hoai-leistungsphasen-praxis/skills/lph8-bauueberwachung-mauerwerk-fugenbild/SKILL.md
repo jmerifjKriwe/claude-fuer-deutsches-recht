@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

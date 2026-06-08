@@ -1,13 +1,13 @@
 ---
 name: commercial-agent-eu
-description: "Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EU-Handelsvertreterrecht
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

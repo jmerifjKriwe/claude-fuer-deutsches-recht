@@ -1,13 +1,13 @@
 ---
 name: eisenbahn-regulierungsvereinbarung-db-netz-infrago
-description: "Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eisenbahn: Regulierungsvereinbarung DB Netz InfraGO
 
 ## Arbeitsbereich
 
-Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

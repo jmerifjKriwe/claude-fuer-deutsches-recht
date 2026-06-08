@@ -1,13 +1,13 @@
 ---
 name: quality-crisis-and-recall
-description: "Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätskrise und Rückruf China-Import: Haftung und Protokoll
 
 ## Arbeitsbereich
 
-Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

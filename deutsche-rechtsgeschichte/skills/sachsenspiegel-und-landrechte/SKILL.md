@@ -1,13 +1,13 @@
 ---
 name: sachsenspiegel-und-landrechte
-description: "Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sachsenspiegel und Landrechte
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

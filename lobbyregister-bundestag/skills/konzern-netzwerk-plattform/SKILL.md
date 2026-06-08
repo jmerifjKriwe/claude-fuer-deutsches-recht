@@ -1,13 +1,13 @@
 ---
 name: konzern-netzwerk-plattform
-description: "Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konzern, Netzwerk und Plattform
 
 ## Arbeitsbereich
 
-Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

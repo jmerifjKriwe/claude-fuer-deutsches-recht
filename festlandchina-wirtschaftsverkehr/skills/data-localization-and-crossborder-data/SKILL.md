@@ -1,13 +1,13 @@
 ---
 name: data-localization-and-crossborder-data
-description: "Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenlokalisierung China: Cybersecurity Law/DSL/PIPL
 
 ## Arbeitsbereich
 
-Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

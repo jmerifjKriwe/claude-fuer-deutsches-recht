@@ -1,13 +1,13 @@
 ---
 name: ruecklagen-steuern-versicherung
-description: "Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pricing Liquidität und Wachstum: Plant rücklagen für est
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

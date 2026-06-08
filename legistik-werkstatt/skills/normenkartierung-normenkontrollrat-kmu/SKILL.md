@@ -1,13 +1,13 @@
 ---
 name: normenkartierung-normenkontrollrat-kmu
-description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Normenkartierung
 
 ## Arbeitsbereich
 
-Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

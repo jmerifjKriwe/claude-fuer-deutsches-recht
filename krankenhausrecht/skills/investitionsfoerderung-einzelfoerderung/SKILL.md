@@ -1,13 +1,13 @@
 ---
 name: investitionsfoerderung-einzelfoerderung
-description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
 ## Arbeitsbereich
 
-Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

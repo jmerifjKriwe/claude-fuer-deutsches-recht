@@ -1,13 +1,13 @@
 ---
 name: buchauszug-vollstreckung
-description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO
 
 ## Arbeitsbereich
 
-Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

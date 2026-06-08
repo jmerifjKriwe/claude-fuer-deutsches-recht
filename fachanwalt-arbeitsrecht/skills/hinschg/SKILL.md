@@ -7,14 +7,14 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 
 ## Arbeitsbereich
 
-**Hinschg** ordnet den Fall über die tragenden Prüfungslinien: Verteidigung von Hinweisgebern nach HinSchG gegen, Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist, Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Hinschg** ordnet den Fall über die tragenden Prüfungslinien: Verteidigung von Hinweisgebern nach HinSchG gegen, Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist, Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren. |
 | `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhörung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhörung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Fachanwalt Arbeitsrecht Massenentlassung 17 KSchG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -32,7 +32,7 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 ### HinSchG-Whistleblower-Schutz gegen Repressalie
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG-Whistleblower-Schutz gegen Repressalie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG-Whistleblower-Schutz gegen Repressalie` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -300,7 +300,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Kündigungsschutzklage (§ 4 KSchG)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (§ 4 KSchG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (§ 4 KSchG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -555,12 +555,12 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 
 ## 3. `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`
 
-**Fokus:** Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Arbeitsrecht Massenentlassung 17 KSchG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Massenentlassung § 17 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
 - **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

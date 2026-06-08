@@ -1,13 +1,13 @@
 ---
 name: richterbild-in-diktatur-und-rechtsstaat
-description: "Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richterbild in Diktatur und Rechtsstaat
 
 ## Arbeitsbereich
 
-Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

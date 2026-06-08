@@ -1,13 +1,13 @@
 ---
 name: abzweigung-aus-patentanmeldung
-description: "Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abzweigung Aus Patentanmeldung
 
 ## Arbeitsbereich
 
-Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

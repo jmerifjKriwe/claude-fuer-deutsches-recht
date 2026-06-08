@@ -1,13 +1,13 @@
 ---
 name: agrar-logistik-cyberincident
-description: "Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
 
 ## Arbeitsbereich
 
-Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

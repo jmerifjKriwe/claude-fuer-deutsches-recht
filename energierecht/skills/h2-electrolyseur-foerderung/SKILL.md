@@ -1,13 +1,13 @@
 ---
 name: h2-electrolyseur-foerderung
-description: "Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # H2-Elektrolyseur-Spezial
 
 ## Arbeitsbereich
 
-Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: bonus-versetzung-case-management-cloud
-description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bonus Versetzung Bewertung
 
 ## Arbeitsbereich
 
-Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

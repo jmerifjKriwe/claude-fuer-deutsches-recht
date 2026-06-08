@@ -7,7 +7,7 @@ description: "Stakeholder Mapping Tonfall Krisenkommunikation im Plugin Fachanwa
 
 ## Arbeitsbereich
 
-**Stakeholder Mapping Tonfall Krisenkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in, Bewertet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Stakeholder Mapping Tonfall Krisenkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in, Bewertet. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

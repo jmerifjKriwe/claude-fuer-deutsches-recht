@@ -1,13 +1,13 @@
 ---
 name: ehrenamtliche-schulen
-description: "Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ehrenamtliche Schulen
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -7,7 +7,7 @@ description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spez
 
 ## Arbeitsbereich
 
-**Agrar Tierhaltung Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Agrar Tierhaltung Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

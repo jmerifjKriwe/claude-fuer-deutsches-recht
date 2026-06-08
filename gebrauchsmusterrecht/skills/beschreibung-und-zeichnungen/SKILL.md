@@ -1,13 +1,13 @@
 ---
 name: beschreibung-und-zeichnungen
-description: "Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen im Gebrauchsmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschreibung Und Zeichnungen
 
 ## Arbeitsbereich
 
-Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

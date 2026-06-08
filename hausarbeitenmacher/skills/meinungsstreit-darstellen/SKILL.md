@@ -1,13 +1,13 @@
 ---
 name: meinungsstreit-darstellen
-description: "Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Meinungsstreit darstellen
 
 ## Arbeitsbereich
 
-Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

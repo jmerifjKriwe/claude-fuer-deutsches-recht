@@ -1,13 +1,13 @@
 ---
 name: rueckfrageninterview
-description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter im Vertragsausfueller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rückfrageninterview
 
 ## Arbeitsbereich
 
-Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

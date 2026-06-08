@@ -1,13 +1,13 @@
 ---
 name: rechte-an-rechteclearing-ki-sync
-description: "Prueft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prompts, Promptbooks und Workflows
 
 ## Arbeitsbereich
 
-Prueft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

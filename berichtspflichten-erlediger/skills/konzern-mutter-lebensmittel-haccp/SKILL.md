@@ -1,13 +1,13 @@
 ---
 name: konzern-mutter-lebensmittel-haccp
-description: "Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft im Berichtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konzernmatrix Mutter/Tochter
 
 ## Arbeitsbereich
 
-Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

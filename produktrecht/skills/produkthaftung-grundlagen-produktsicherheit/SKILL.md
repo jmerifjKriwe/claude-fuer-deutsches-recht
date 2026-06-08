@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-grundlagen-produktsicherheit
-description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853 im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853 im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
 ## Arbeitsbereich
 
-Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

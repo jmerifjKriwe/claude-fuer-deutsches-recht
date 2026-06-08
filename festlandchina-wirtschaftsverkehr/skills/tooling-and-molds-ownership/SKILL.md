@@ -1,13 +1,13 @@
 ---
 name: tooling-and-molds-ownership
-description: "Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern
 
 ## Arbeitsbereich
 
-Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

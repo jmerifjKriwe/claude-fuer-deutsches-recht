@@ -1,13 +1,13 @@
 ---
 name: glaeubiger-schuldner-kommunikation
-description: "Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gläubiger-, Schuldner- und Drittschuldnerkommunikation
 
 ## Arbeitsbereich
 
-Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

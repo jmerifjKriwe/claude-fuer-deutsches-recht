@@ -1,13 +1,13 @@
 ---
 name: versand-aus-deutschland-zoll-tracking
-description: "Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versand aus Deutschland, Zoll und Tracking
 
 ## Arbeitsbereich
 
-Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

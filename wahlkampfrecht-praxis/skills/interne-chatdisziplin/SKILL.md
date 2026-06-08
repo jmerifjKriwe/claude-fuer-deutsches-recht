@@ -1,13 +1,13 @@
 ---
 name: interne-chatdisziplin
-description: "Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Chatdisziplin
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

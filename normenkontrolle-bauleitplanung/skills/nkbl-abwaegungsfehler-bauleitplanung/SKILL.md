@@ -1,13 +1,13 @@
 ---
 name: nkbl-abwaegungsfehler-bauleitplanung
-description: "Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NkBl: Abwaegungsfehler
 
 ## Arbeitsbereich
 
-Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

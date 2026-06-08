@@ -1,13 +1,13 @@
 ---
 name: zag-finanztransfergeschaeft-money-remittance
-description: "Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Finanztransfergeschäft / Money Remittance nach ZAG
 
 ## Arbeitsbereich
 
-Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

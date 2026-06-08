@@ -1,13 +1,13 @@
 ---
 name: memo-board-pack-besondere-anlaesse-spezial
-description: "Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo: Board-Pack Anlaesse
 
 ## Arbeitsbereich
 
-Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

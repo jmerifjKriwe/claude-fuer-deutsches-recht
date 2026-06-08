@@ -1,13 +1,13 @@
 ---
 name: gebietsschutz
-description: "Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht
 
 ## Arbeitsbereich
 
-Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

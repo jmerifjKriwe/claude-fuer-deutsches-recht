@@ -1,13 +1,13 @@
 ---
 name: unterrichtsausschluss
-description: "Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unterrichtsausschluss
 
 ## Arbeitsbereich
 
-Prüft Unterrichtsausschluss und vorläufige Maßnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Unterrichtsausschluss und vorläufige Maßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

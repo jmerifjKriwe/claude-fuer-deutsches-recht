@@ -1,13 +1,13 @@
 ---
 name: minority-investment-und-protective-rights
-description: "Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Minority Investment und Protective Rights
 
 ## Arbeitsbereich
 
-Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: mietsenkungsverlangen
-description: "Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung im Mietrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)
 
 ## Arbeitsbereich
 
-Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
 - **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.

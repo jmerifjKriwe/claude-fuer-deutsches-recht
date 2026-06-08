@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **18549 Skills** in **212 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **18550 Skills** in **212 Plugins**.
 
-Stand: `v240.0.0`.
+Stand: `v241.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 18549 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 18550 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -182,7 +182,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **nda-verschwiegenheit-generator-checker** | 100 | [Skills ansehen](skills-index/nda-verschwiegenheit-generator-checker.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-verschwiegenheit-generator-checker.zip) |
 | **nis2-cybersecurity-compliance** | 101 | [Skills ansehen](skills-index/nis2-cybersecurity-compliance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
 | **normenkontrolle-bauleitplanung** | 91 | [Skills ansehen](skills-index/normenkontrolle-bauleitplanung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/normenkontrolle-bauleitplanung.zip) |
-| **normenkontrollrat-nkr** | 59 | [Skills ansehen](skills-index/normenkontrollrat-nkr.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/normenkontrollrat-nkr.zip) |
+| **normenkontrollrat-nkr** | 60 | [Skills ansehen](skills-index/normenkontrollrat-nkr.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/normenkontrollrat-nkr.zip) |
 | **notariat-alltag** | 66 | [Skills ansehen](skills-index/notariat-alltag.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
 | **oeffentliches-wirtschaftsrecht** | 100 | [Skills ansehen](skills-index/oeffentliches-wirtschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
 | **ordnungswidrigkeitenrecht** | 100 | [Skills ansehen](skills-index/ordnungswidrigkeitenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ordnungswidrigkeitenrecht.zip) |

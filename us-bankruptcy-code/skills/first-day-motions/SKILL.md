@@ -1,13 +1,13 @@
 ---
 name: first-day-motions
-description: "Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # First-Day Motions
 
 ## Arbeitsbereich
 
-Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

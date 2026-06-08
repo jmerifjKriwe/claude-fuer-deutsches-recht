@@ -7,14 +7,14 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 ## Arbeitsbereich
 
-**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Prüfungslinie für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung). |
-| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Prüfungslinie für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`
 
-**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Anlageberatung fehlerhaft
 
@@ -420,7 +420,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`
 
-**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Kreditkündigung
 

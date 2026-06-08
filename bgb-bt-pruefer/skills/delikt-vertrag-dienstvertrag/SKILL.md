@@ -1,13 +1,13 @@
 ---
 name: delikt-vertrag-dienstvertrag
-description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Delikt-Vertrag Konkurrenz
 
 ## Arbeitsbereich
 
-Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

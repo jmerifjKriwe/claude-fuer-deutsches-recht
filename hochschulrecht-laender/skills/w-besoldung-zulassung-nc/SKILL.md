@@ -1,13 +1,13 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # W Besoldung Und Leistungsbezuege
 
 ## Arbeitsbereich
 
-Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

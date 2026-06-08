@@ -1,13 +1,13 @@
 ---
 name: kontinuitaet-und-bruch-pruefen
-description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kontinuitaet und Bruch pruefen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

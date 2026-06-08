@@ -1,13 +1,13 @@
 ---
 name: geschaeftsgeheimnisschutz-china-geschgehg-und-cn-recht
-description: "Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll im Festlandchina Wirtschaftsverkehr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geschäftsgeheimnisschutz China: GeschGehG und CN-Recht
 
 ## Arbeitsbereich
 
-Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

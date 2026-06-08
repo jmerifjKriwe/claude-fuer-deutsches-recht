@@ -1,13 +1,13 @@
 ---
 name: management-participation-mep
-description: "Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Management Participation und MEP
 
 ## Arbeitsbereich
 
-Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

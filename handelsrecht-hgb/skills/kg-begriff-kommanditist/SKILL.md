@@ -1,13 +1,13 @@
 ---
 name: kg-begriff-kommanditist
-description: "Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KG Begriff und Kommanditist
 
 ## Arbeitsbereich
 
-Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

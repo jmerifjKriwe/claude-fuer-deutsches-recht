@@ -1,13 +1,13 @@
 ---
 name: zuverlaessigkeitsueberpruefung
-description: "Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz
 
 ## Arbeitsbereich
 
-Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

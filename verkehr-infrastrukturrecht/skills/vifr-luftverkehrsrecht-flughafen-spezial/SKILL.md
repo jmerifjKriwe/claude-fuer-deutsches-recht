@@ -1,13 +1,13 @@
 ---
 name: vifr-luftverkehrsrecht-flughafen-spezial
-description: "Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster für Flughafenbetreiber und Anwohner im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster für Flughafenbetreiber und Anwohner im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ViFR: Luftverkehr Flughafen
 
 ## Arbeitsbereich
 
-Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster für Flughafenbetreiber und Anwohner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster für Flughafenbetreiber und Anwohner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

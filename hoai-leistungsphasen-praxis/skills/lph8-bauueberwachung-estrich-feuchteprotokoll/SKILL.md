@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-estrich-feuchteprotokoll
-description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Estrich und Feuchteprotokoll
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

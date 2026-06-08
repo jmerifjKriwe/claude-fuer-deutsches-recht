@@ -1,6 +1,6 @@
 ---
 name: zeugenentschaedigung-antrag
-description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeugenentschaedigung Antrag

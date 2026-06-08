@@ -7,7 +7,7 @@ description: "ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistun
 
 ## Arbeitsbereich
 
-ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

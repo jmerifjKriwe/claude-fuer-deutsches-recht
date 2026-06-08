@@ -1,13 +1,13 @@
 ---
 name: vergaberecht-raumfahrtauftrag-esa-dlr-eu
-description: "Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Vergaberecht: Raumfahrtauftrag ESA, DLR, EU
 
 ## Arbeitsbereich
 
-Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

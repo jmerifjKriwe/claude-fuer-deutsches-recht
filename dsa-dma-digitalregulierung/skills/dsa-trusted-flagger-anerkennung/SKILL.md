@@ -1,13 +1,13 @@
 ---
 name: dsa-trusted-flagger-anerkennung
-description: "Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen im Dsa Dma Digitalregulierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trusted Flagger Anerkennung
 
 ## Arbeitsbereich
 
-Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

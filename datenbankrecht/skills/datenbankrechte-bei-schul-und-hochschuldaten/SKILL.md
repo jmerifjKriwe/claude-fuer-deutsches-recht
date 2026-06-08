@@ -1,13 +1,13 @@
 ---
 name: datenbankrechte-bei-schul-und-hochschuldaten
-description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen
 
 ## Arbeitsbereich
 
-Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

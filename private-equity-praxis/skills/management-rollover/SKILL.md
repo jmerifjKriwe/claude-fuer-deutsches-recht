@@ -1,13 +1,13 @@
 ---
 name: management-rollover
-description: "Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Management Roll-over
 
 ## Arbeitsbereich
 
-Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

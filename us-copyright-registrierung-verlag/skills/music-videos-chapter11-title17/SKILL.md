@@ -1,13 +1,13 @@
 ---
 name: music-videos-chapter11-title17
-description: "Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Music Videos Chapter 11 Title 17
 
 ## Arbeitsbereich
 
-Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: karenzentschaedigung
-description: "Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
 ## Arbeitsbereich
 
-Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

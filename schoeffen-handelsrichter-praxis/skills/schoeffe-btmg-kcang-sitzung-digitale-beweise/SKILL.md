@@ -1,13 +1,13 @@
 ---
 name: schoeffe-btmg-kcang-sitzung-digitale-beweise
-description: "BtMG und KCanG für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BtMG und KCanG für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BtMG und KCanG für Schöffen: Orientierung
 
 ## Arbeitsbereich
 
-BtMG und KCanG für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BtMG und KCanG für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

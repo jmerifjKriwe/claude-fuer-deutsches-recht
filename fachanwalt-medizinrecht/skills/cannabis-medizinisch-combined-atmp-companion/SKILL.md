@@ -7,7 +7,7 @@ description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Cannabis Medizinisch Combined Atmp Companion** ordnet den Fall über die tragenden Prüfungslinien: Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Cannabis Medizinisch Combined Atmp Companion** ordnet den Fall über die tragenden Prüfungslinien: Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

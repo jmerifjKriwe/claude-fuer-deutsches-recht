@@ -1,13 +1,13 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit-gutachtenstil
-description: "Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand im BGB AT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gesetzesverbot und Sittenwidrigkeit — §§ 134 und 138 BGB
 
 ## Arbeitsbereich
 
-Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: schulbibliothek-medienbestand
-description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulbibliothek und Medienbestand
 
 ## Arbeitsbereich
 
-Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

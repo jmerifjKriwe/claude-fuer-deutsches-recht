@@ -1,13 +1,13 @@
 ---
 name: maklervertrag-provision-mietvertrag
-description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maklervertrag und Provision §§ 652 ff. BGB
 
 ## Arbeitsbereich
 
-Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

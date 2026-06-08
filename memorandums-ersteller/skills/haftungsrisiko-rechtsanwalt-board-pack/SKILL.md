@@ -1,13 +1,13 @@
 ---
 name: haftungsrisiko-rechtsanwalt-board-pack
-description: "Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG) im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG) im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haftungsrisiko-Memo
 
 ## Arbeitsbereich
 
-Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: software-foerderung-rd-tax
-description: "Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Software-F&E und Förderlogik
 
 ## Arbeitsbereich
 
-Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

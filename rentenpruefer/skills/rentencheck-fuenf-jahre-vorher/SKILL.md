@@ -1,13 +1,13 @@
 ---
 name: rentencheck-fuenf-jahre-vorher
-description: "Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # rentencheck-fuenf-jahre-vorher
 
 ## Arbeitsbereich
 
-Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

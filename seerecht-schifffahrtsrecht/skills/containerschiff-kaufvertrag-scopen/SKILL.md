@@ -1,13 +1,13 @@
 ---
 name: containerschiff-kaufvertrag-scopen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

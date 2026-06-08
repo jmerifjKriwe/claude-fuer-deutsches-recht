@@ -1,13 +1,13 @@
 ---
 name: jahresabschluss-hgb-grundlagen
-description: "Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Jahresabschluss HGB Grundlagen
 
 ## Arbeitsbereich
 
-Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

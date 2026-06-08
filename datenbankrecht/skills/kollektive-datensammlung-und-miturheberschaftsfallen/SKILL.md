@@ -1,13 +1,13 @@
 ---
 name: kollektive-datensammlung-und-miturheberschaftsfallen
-description: "Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kollektive Datensammlungen und Miturheberschaftsfallen
 
 ## Arbeitsbereich
 
-Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

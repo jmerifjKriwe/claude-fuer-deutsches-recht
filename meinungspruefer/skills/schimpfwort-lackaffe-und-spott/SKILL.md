@@ -1,13 +1,13 @@
 ---
 name: schimpfwort-lackaffe-und-spott
-description: "Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # "Lackaffe" und ähnliche Spottbegriffe
 
 ## Arbeitsbereich
 
-Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

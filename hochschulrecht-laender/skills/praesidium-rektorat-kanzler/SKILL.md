@@ -1,13 +1,13 @@
 ---
 name: praesidium-rektorat-kanzler
-description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Praesidium Rektorat Kanzler
 
 ## Arbeitsbereich
 
-Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

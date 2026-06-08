@@ -1,13 +1,13 @@
 ---
 name: autismus-sensorik-barrierefreiheit-schule
-description: "Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Autismus, Sensorik und Schule
 
 ## Arbeitsbereich
 
-Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

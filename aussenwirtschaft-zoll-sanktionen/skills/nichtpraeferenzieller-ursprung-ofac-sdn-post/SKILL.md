@@ -7,7 +7,7 @@ description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art.
 
 ## Arbeitsbereich
 
-Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket für Hauptzollamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket für Hauptzollamt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

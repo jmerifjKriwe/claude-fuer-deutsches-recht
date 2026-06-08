@@ -1,13 +1,13 @@
 ---
 name: flughafen-register-auswerten
-description: "Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Register auswerten
 
 ## Arbeitsbereich
 
-Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: franchise-shop-green-claims
-description: "Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Shop In Shop
 
 ## Arbeitsbereich
 
-Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

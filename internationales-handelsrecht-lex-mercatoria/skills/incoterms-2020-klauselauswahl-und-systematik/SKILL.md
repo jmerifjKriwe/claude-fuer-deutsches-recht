@@ -1,13 +1,13 @@
 ---
 name: incoterms-2020-klauselauswahl-und-systematik
-description: "Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Incoterms 2020: Klauselauswahl und Systematik
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

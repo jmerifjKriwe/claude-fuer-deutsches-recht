@@ -1,13 +1,13 @@
 ---
 name: stundung-standstill-waiver
-description: "Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stundung und Standstill
 
 ## Arbeitsbereich
 
-Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

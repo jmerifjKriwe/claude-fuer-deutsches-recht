@@ -1,13 +1,13 @@
 ---
 name: bewaehrung-56-stgb-positive-sozialprognose
-description: "Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafaussetzung zur Bewaehrung — § 56 StGB
 
 ## Arbeitsbereich
 
-Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

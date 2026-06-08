@@ -1,13 +1,13 @@
 ---
 name: qualitaetspruefung-builder-daten-red-team-korrektur
-description: "Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung im Kanzlei Builder Hub: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Skills-QA
 
 ## Arbeitsbereich
 
-Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

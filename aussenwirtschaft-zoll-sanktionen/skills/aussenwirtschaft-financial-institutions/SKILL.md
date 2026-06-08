@@ -7,7 +7,7 @@ description: "Sanktions-Compliance für Banken und Finanzinstitute im Korrespond
 
 ## Arbeitsbereich
 
-Sanktions-Compliance für Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktions-Compliance für Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

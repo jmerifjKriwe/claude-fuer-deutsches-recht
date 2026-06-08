@@ -1,13 +1,13 @@
 ---
 name: abmahnung-97a-response
-description: "Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abmahnung nach § 97a UrhG beantworten
 
 ## Arbeitsbereich
 
-Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

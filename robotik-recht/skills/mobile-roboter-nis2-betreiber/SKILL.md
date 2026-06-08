@@ -1,13 +1,13 @@
 ---
 name: mobile-roboter-nis2-betreiber
-description: "Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mobile Roboter AMR AGV
 
 ## Arbeitsbereich
 
-Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

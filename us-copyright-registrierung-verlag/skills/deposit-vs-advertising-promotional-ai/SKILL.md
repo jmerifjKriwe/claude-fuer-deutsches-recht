@@ -1,13 +1,13 @@
 ---
 name: deposit-vs-advertising-promotional-ai
-description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Deposit versus Registration 407 und 408
 
 ## Arbeitsbereich
 
-Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

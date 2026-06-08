@@ -1,13 +1,13 @@
 ---
 name: entlassmanagement-39-abs-1a-sgb-v
-description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entlassmanagement § 39 Abs. 1a SGB V
 
 ## Arbeitsbereich
 
-Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

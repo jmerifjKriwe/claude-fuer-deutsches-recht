@@ -1,13 +1,13 @@
 ---
 name: leasing-abrechnung-inkasso
-description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Leasingabrechnung, Nachforderung und Verjährung
 
 ## Arbeitsbereich
 
-Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

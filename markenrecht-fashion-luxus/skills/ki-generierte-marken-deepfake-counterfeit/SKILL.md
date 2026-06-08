@@ -1,13 +1,13 @@
 ---
 name: ki-generierte-marken-deepfake-counterfeit
-description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit
 
 ## Arbeitsbereich
 
-KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

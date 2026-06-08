@@ -1,13 +1,13 @@
 ---
 name: space-traffic-management-und-kollisionswarnungen
-description: "Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Weltraumrecht: Space Traffic Management und Kollisionswarnungen
 
 ## Arbeitsbereich
 
-Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

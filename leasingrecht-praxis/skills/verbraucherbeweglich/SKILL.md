@@ -1,13 +1,13 @@
 ---
 name: verbraucherbeweglich
-description: "Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf
 
 ## Arbeitsbereich
 
-Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

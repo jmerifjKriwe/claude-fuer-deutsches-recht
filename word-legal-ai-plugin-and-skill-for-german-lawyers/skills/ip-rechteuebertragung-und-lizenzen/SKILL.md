@@ -1,13 +1,13 @@
 ---
 name: ip-rechteuebertragung-und-lizenzen
-description: "Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software) im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software) im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IP-Rechteübertragung und Lizenzen
 
 ## Arbeitsbereich
 
-Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

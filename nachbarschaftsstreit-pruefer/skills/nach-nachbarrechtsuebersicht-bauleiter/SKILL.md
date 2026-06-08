@@ -1,13 +1,13 @@
 ---
 name: nach-nachbarrechtsuebersicht-bauleiter
-description: "Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Pruefraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Pruefraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nach: Nachbarrecht-Uebersicht
 
 ## Arbeitsbereich
 
-Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Pruefraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Pruefraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

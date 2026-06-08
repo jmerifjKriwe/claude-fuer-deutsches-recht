@@ -7,7 +7,7 @@ description: "Spezialfall Innovationswettbewerb und Killer Acquisitions: Pipelin
 
 ## Arbeitsbereich
 
-Spezialfall Innovationswettbewerb und Killer Acquisitions: Pipeline-Produkte, Innovation Theory of Harm. Pruefraster für Fusionskontrollanmeldung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Innovationswettbewerb und Killer Acquisitions: Pipeline-Produkte, Innovation Theory of Harm. Pruefraster für Fusionskontrollanmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

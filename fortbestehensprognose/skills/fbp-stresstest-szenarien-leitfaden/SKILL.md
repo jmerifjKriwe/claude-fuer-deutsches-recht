@@ -1,13 +1,13 @@
 ---
 name: fbp-stresstest-szenarien-leitfaden
-description: "Leitfaden Stresstest- und Szenarien-Aufbau für Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger für Massnahmen. Pruefraster für Beraterhand und Geschaeftsleitung im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Stresstest- und Szenarien-Aufbau für Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger für Massnahmen. Pruefraster für Beraterhand und Geschaeftsleitung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # FBP: Stresstest-Szenarien
 
 ## Arbeitsbereich
 
-Leitfaden Stresstest- und Szenarien-Aufbau für Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger für Massnahmen. Pruefraster für Beraterhand und Geschaeftsleitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Stresstest- und Szenarien-Aufbau für Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger für Massnahmen. Pruefraster für Beraterhand und Geschaeftsleitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

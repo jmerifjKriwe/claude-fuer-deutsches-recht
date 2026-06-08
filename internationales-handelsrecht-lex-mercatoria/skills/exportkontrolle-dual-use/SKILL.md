@@ -1,13 +1,13 @@
 ---
 name: exportkontrolle-dual-use
-description: "Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich im Internationales Handelsrecht Lex Mercatoria: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Exportkontrolle: Dual-Use-Güter
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

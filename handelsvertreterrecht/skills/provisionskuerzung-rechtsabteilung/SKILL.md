@@ -1,13 +1,13 @@
 ---
 name: provisionskuerzung-rechtsabteilung
-description: "Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen im Handelsvertreterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB
 
 ## Arbeitsbereich
 
-Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: distribution-first-sale-109
-description: "Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Distribution Right und First Sale
 
 ## Arbeitsbereich
 
-Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

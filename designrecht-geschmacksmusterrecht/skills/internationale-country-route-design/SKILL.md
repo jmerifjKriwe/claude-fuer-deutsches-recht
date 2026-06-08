@@ -1,13 +1,13 @@
 ---
 name: internationale-country-route-design
-description: "Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen im Designrecht Geschmacksmusterrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Internationale Country Route Design
 
 ## Arbeitsbereich
 
-Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

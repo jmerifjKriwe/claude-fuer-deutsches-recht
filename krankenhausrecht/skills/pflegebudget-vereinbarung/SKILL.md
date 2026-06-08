@@ -1,13 +1,13 @@
 ---
 name: pflegebudget-vereinbarung
-description: "Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0) im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0) im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pflegebudget Vereinbarung Nachweis Risiken
 
 ## Arbeitsbereich
 
-Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: campusbau-und-flaechenmanagement
-description: "Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Campusbau und Flächenmanagement
 
 ## Arbeitsbereich
 
-Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

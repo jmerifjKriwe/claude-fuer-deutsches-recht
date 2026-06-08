@@ -1,13 +1,13 @@
 ---
 name: vorvertragliche-aufklaerung
-description: "Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose
 
 ## Arbeitsbereich
 
-Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

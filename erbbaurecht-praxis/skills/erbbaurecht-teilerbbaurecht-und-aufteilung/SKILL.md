@@ -1,13 +1,13 @@
 ---
 name: erbbaurecht-teilerbbaurecht-und-aufteilung
-description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Teil-Erbbaurecht und Aufteilung
 
 ## Arbeitsbereich
 
-Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

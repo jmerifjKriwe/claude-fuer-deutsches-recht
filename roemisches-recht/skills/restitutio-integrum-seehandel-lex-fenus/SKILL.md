@@ -1,13 +1,13 @@
 ---
 name: restitutio-integrum-seehandel-lex-fenus
-description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
 
 ## Arbeitsbereich
 
-Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

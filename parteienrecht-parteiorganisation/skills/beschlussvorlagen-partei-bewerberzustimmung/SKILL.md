@@ -1,13 +1,13 @@
 ---
 name: beschlussvorlagen-partei-bewerberzustimmung
-description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschlussvorlagen Partei
 
 ## Arbeitsbereich
 
-Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

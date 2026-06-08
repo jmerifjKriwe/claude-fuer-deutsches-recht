@@ -1,13 +1,13 @@
 ---
 name: verfassung-grundrechte-uebersicht
-description: "Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken im Verfassungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Grundrechte Ueberblick
 
 ## Arbeitsbereich
 
-Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

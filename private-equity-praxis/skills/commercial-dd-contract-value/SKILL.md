@@ -1,13 +1,13 @@
 ---
 name: commercial-dd-contract-value
-description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Commercial DD und Vertragswert
 
 ## Arbeitsbereich
 
-Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

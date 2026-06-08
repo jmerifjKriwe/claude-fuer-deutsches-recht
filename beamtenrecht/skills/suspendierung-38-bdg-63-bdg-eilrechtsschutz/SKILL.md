@@ -1,13 +1,13 @@
 ---
 name: suspendierung-38-bdg-63-bdg-eilrechtsschutz
-description: "Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Suspendierung und Bezügeeinbehalt nach BDG
 
 ## Arbeitsbereich
 
-Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

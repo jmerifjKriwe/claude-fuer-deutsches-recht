@@ -1,13 +1,13 @@
 ---
 name: foto-video-campaign-rights
-description: "Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Foto Video Campaign Rights
 
 ## Arbeitsbereich
 
-Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

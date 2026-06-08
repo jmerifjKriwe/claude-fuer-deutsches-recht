@@ -1,13 +1,13 @@
 ---
 name: 061-sorgerechtsgenehmigung-familiengerichtliche-genehmi
-description: "Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach §§ 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordination im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach §§ 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordination im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung, Minderjährige
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach §§ 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordination. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach §§ 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordination. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

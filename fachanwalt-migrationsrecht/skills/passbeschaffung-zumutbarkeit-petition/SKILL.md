@@ -7,7 +7,7 @@ description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: prüft k
 
 ## Arbeitsbereich
 
-**Passbeschaffung Zumutbarkeit Petition** ordnet den Fall über die tragenden Prüfungslinien: Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Passbeschaffung Zumutbarkeit Petition** ordnet den Fall über die tragenden Prüfungslinien: Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

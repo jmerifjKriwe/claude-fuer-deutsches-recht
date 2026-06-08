@@ -1,13 +1,13 @@
 ---
 name: technische-stoerung-upload
-description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Technische Störung beim Upload
 
 ## Arbeitsbereich
 
-Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

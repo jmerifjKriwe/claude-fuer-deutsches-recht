@@ -1,13 +1,13 @@
 ---
 name: kommunale-stadtwerke-vergabe-und-beihilfe
-description: "Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss im Energierecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommunale Stadtwerke, Vergabe und Beihilfe
 
 ## Arbeitsbereich
 
-Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

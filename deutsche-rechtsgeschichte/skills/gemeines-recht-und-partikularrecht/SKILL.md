@@ -1,13 +1,13 @@
 ---
 name: gemeines-recht-und-partikularrecht
-description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gemeines Recht und Partikularrecht
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Historische Quellenanker
 

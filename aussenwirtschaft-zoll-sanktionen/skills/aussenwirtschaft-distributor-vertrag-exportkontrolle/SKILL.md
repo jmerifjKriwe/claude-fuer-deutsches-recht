@@ -7,7 +7,7 @@ description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertrae
 
 ## Arbeitsbereich
 
-Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln, Compliance-Pflichten des Partners und Due-Diligence-Rechte des Exporteurs. Output: Standardklauselwerk und Compliance-Schedule. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln, Compliance-Pflichten des Partners und Due-Diligence-Rechte des Exporteurs. Output: Standardklauselwerk und Compliance-Schedule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -1,13 +1,13 @@
 ---
 name: genossenschaft-registerschnittstelle
-description: "Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Genossenschaftsregister-Schnittstelle
 
 ## Arbeitsbereich
 
-Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

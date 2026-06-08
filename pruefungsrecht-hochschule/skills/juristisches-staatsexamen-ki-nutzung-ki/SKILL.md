@@ -1,13 +1,13 @@
 ---
 name: juristisches-staatsexamen-ki-nutzung-ki
-description: "Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Pruefungsrecht Hochschule: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Juristisches Staatsexamen
 
 ## Arbeitsbereich
 
-Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Normenanker
 

@@ -1,13 +1,13 @@
 ---
 name: psd2-open-banking-api-xs2a
-description: "Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PSD2 Open Banking API
 
 ## Arbeitsbereich
 
-Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

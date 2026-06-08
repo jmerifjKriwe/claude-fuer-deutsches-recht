@@ -1,13 +1,13 @@
 ---
 name: usa-franchise-eu-vertikal
-description: "US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchiserecht: USA-Franchise-Disclosure im Vergleich
 
 ## Arbeitsbereich
 
-US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

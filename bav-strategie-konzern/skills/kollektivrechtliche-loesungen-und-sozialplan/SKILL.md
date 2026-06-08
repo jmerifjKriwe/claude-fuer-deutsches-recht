@@ -1,13 +1,13 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
 
 ## Arbeitsbereich
 
-Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

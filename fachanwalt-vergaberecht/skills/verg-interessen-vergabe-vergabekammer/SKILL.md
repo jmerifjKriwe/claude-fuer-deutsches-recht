@@ -7,7 +7,7 @@ description: "Verg Interessen Vergabe Vergabekammer im Plugin Fachanwalt Vergabe
 
 ## Arbeitsbereich
 
-**Verg Interessen Vergabe Vergabekammer** ordnet den Fall über die tragenden Prüfungslinien: Verg, Vergabe, Vergabekammer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verg Interessen Vergabe Vergabekammer** ordnet den Fall über die tragenden Prüfungslinien: Verg, Vergabe, Vergabekammer. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

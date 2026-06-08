@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preuß
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

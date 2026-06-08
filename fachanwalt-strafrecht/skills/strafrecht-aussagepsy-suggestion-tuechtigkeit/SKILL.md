@@ -7,7 +7,7 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 
 ## Arbeitsbereich
 
-**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüfungslinien: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüfungslinien: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
