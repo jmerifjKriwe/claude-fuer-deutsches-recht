@@ -5,6 +5,20 @@ description: "Kueschk Triage Laie Vergleichsverhandlung im Plugin Arbeitsrecht: 
 
 # Kueschk Triage Laie Vergleichsverhandlung
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Triage Laie Vergleichsverhandlung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Arbeitsbereich
 
 **Kueschk Triage Laie Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: KERNEINSTIEG Kündigungsschutzklage, Checkliste für Kündigungsschutz-Vergleiche, Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.

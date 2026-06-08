@@ -5,6 +5,20 @@ description: "Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate
 
 # Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Fallaufnahme Und Pruefprogramm** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Bgb At Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Mandantenfall
 
 - Neue Mandantin schildert einen Kaufstreit; Anwalt muss zunächst alle relevanten Fakten aufnehmen und strukturieren.

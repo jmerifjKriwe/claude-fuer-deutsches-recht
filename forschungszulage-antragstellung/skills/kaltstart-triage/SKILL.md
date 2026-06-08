@@ -5,6 +5,20 @@ description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulag
 
 # Forschungszulage — Allgemein
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Forschungszulage Antragstellung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Worum geht es
 
 Die Forschungszulage nach FZulG ist eine rückzahlungsfreie steuerliche Förderung (Steuergutschrift) für Aufwendungen aus eigenen oder beauftragten FuE-Vorhaben. Sie wird beim Finanzamt festgesetzt, gegen die nächste Einkommen- oder Körperschaftsteuer aufgerechnet; ein Überschuss wird ausgezahlt. Das macht sie für Verlust- und Krisenphasen besonders wertvoll.

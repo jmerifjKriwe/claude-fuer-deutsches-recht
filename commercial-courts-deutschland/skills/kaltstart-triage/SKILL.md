@@ -5,6 +5,20 @@ description: "Einstieg, Schnelltriage und Fallrouting für Commercial-Courts-Ver
 
 # Commercial Courts Deutschland — Allgemein
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Commercial Courts Deutschland** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Startprinzip
 
 Beginne mit Orientierung, nicht mit Lehrbuch. Prüfe zuerst, ob der Fall überhaupt in einen deutschen Commercial Court oder eine Commercial Chamber gehört, ob Englisch wirksam gewählt werden kann und welche Prozesshandlung als nächstes ansteht.

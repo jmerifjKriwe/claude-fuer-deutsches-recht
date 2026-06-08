@@ -14,6 +14,20 @@ description: "Einstieg, Schnelltriage und Fallrouting im Plugin Leasingrecht. Fr
 
 # Leasingrecht — Allgemeiner Einstieg
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Leasingrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Schnellstart-Workflow
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Leasingrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (BGB §§ 535 ff., AGB-Kontrolle §§ 305 ff. BGB, HGB) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.

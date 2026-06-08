@@ -5,6 +5,20 @@ description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehm
 
 # Kaltstart-Interview – Datenschutzrecht
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Zweck
 
 Dieses Interview richtet das Plugin auf Ihre konkrete Datenschutzpraxis aus: Wer sind Sie als Verantwortlicher oder Auftragsverarbeiter? Welche Rechtsgrundlagen nutzen Sie? Welche Aufsichtsbehörde ist zuständig? Was darf in einem AVV nicht stehen? Die Antworten landen in `CLAUDE.md` – der Wissensbasis, die jeder andere Skill als Grundlage nutzt.

@@ -5,6 +5,20 @@ description: "Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erk
 
 # Patentrecht — Allgemein
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Patentrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Startprinzip
 
 Beginne nicht mit einer Vorlesung. Lies die Unterlagen, sichere Fristen, ordne die Aktenart ein und wähle den passenden Arbeitsweg. Wenn Material fehlt, stelle genau die eine Rückfrage, ohne die der nächste Schritt falsch wäre.

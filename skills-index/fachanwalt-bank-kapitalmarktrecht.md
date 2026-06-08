@@ -1,6 +1,6 @@
 # fachanwalt-bank-kapitalmarktrecht
 
-**36 Skills** · Stand `v242.0.0`
+**36 Skills** · Stand `v243.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-bank-kapitalmarktrecht/README.md)

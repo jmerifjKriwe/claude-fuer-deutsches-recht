@@ -5,6 +5,20 @@ description: "Internationales Handelsrecht: Einstieg in grenzüberschreitende Ha
 
 # Kaltstart: Internationaler Handelsfall
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Internationaler Handelsfall** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Internationales Handelsrecht Lex Mercatoria** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Worum es geht
 
 Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwendbares Einheitsrecht und Trade-Usage rasch identifiziert werden. Das CISG gilt kraft Vertragsstaatenrecht automatisch (Art. 1 CISG) und kann nur explizit ausgeschlossen werden (Art. 6 CISG). Incoterms-Klauseln regeln Gefahr- und Kostenübergang, ersetzen aber kein Vertragsstatut.

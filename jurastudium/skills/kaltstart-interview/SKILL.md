@@ -5,6 +5,20 @@ description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Stude
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Jurastudium** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Triage zu Beginn
 1. Ist dies das erste Einrichtungsgesprach oder eine Neueinrichtung (Profil zuruecksetzen)?
 2. In welchem Semester befindet sich der Nutzer und welches Bundesland?

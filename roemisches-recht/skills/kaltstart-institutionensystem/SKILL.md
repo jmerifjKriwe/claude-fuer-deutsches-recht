@@ -5,6 +5,20 @@ description: "Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae,
 
 # Kaltstart: Das Institutionensystem des römischen Rechts
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Institutionensystem** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Roemisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Worum es geht
 
 Das römische Privatrecht gliedert sich nach Gaius Inst. 1.8 in personae, res und actiones. Gaius (um 160 n.Chr.) entwickelte dieses Schema; Justinian übernahm es in Inst. 1.2.12. Das Corpus Iuris Civilis (528-534 n.Chr.) umfasst Institutiones, Digesta (50 Bücher, Exzerpte aus ca. 39 Juristen), Codex Iustinianus und Novellae. Epochen: Vorklassik (Republik), Klassik (1.-3. Jh. n.Chr.), Nachklassik, Justinian.

@@ -5,6 +5,20 @@ description: "Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage; sch�
 
 # Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Einfuehrung Energieprojekt Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Energierecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Arbeitsbereich
 
 Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung. Arbeite entlang dieser konkreten Pr체fungslinie und trenne Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.

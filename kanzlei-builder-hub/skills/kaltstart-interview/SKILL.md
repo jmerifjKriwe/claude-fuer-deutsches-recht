@@ -5,6 +5,20 @@ description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, R
 
 # /kaltstart-interview — Kanzleiprofil-Interview
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Builder Hub** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Triage zu Beginn
 1. Handelt es sich um eine Ersteinrichtung oder ein Wiederholungsinterview (--redo oder --check-integrations)?
 2. Welche Rechtsform und welcher Kanzleityp liegen vor (Einzelanwalt, PartG, GmbH, Rechtsabteilung)?

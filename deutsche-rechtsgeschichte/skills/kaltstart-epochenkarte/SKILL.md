@@ -5,6 +5,20 @@ description: "Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrumen
 
 # Kaltstart-Epochenkarte Deutsche Rechtsgeschichte
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Epochenkarte** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Worum es geht
 
 Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshistorischen Einstieg. Sie gliedert die deutsche Rechtsgeschichte in distinkte Perioden: germanisches Stammesrecht (bis ca. 900), mittelalterliches Recht mit Sachsenspiegel (ca. 1220-1500), Rezeptionsepoche (ca. 1450-1650), Naturrechts- und Vernunftrechtsbewegung (17./18. Jh.), Kodifikationsepoche (ALR 1794, Code Civil 1804, BGB 1900), Kaiserreich (1871-1918), Weimarer Republik (1919-1933), NS-Unrechtsregime (1933-1945), DDR-Parallelsystem (1949-1990) und Bundesrepublik mit EU-Ueberformung.

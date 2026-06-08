@@ -5,6 +5,20 @@ description: "Führt junge VCs, Angels und Family Offices in 90 Sekunden durch R
 
 # VC-Kaltstart-Cockpit
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Vc Cockpit** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Venture Capital Geber** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Aufgabe
 
 Führt junge VCs, Angels und Family Offices in 90 Sekunden durch Rolle, Phase, Ticket, Unterlagen, Entscheidungslage und nächsten Output.

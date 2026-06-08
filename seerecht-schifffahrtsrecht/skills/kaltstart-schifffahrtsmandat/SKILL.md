@@ -5,6 +5,20 @@ description: "'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall;
 
 # Kaltstart Schifffahrtsmandat
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Schifffahrtsmandat** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Seerecht Schifffahrtsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Mandantenfall
 Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest belegt; der Kapitän sitzt im Schiff; keine Unterlagen vorhanden. Ein Schiffsmakler legt eine Kaufvertragsanfrage über einen gebrauchten Tanker unter Marshallinseln-Flagge vor; Finanzierung ungeklärt. Ein P&I-Korrespondent bittet um Kurzgutachten zum deutschen Gerichtsstand nach Konnossementsklage in Hamburg.
 

@@ -5,6 +5,20 @@ description: "Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs.
 
 # Risikoklassen-Übersicht und Triage — KI-VO
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Risikoklassen Uebersicht Und Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Ki Vo Ai Act Pruefer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Zweck
 
 Dieser Skill gibt eine schnelle, aber dokumentierbare Ersteinschätzung der KI-VO-Risikoklasse. Der Schwerpunkt liegt auf der richtigen Abzweigung zwischen allgemeinem KI-System/GPAI, begrenztem Risiko und Hochrisiko nach Art. 6 Abs. 2 i.V.m. Anhang III.

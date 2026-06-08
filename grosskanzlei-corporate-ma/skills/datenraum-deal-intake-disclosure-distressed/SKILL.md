@@ -5,6 +5,20 @@ description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Gro�
 
 # Datenraum Deal Intake Disclosure Distressed
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Datenraum Deal Intake Disclosure Distressed** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Arbeitsbereich
 
 **Datenraum Deal Intake Disclosure Distressed** ordnet den Fall 체ber die tragenden Pr체fungslinien: KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und best체cken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll f체r M&A. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zust채ndigkeit, Beweislast oder das konkrete Arbeitsprodukt tats채chlich beeinflussen.

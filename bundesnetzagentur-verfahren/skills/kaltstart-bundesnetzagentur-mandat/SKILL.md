@@ -5,6 +5,20 @@ description: "Kaltstart Bundesnetzagentur-Mandat: Einstieg und Routing; klärt R
 
 # Kaltstart Bundesnetzagentur-Mandat
 
+## Aktenstart statt Formularstart
+
+Wenn zu **Kaltstart Bundesnetzagentur Mandat** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Bundesnetzagentur Verfahren** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+
+Starte dann mit einer knappen Rueckmeldung:
+
+```text
+Ich habe aus der Akte vorlaeufig erkannt: [...]
+Unsicher sind noch: [...]
+Als naechsten Schritt schlage ich vor: [...]
+```
+
+Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+
 ## Fachkern: Kaltstart Bundesnetzagentur-Mandat
 - **Normen- und Behördenanker:** VwVfG, VwGO, OWiG, IFG/UIG soweit einschlägig, sektorales Fachgesetz und aktuelle BNetzA-Formulare, Konsultationen und Beschlusskammerhinweise.
 - **Spezifische Weiche:** Kläre zuerst Sektor, Beschlusskammer, Verfahrensart, Beteiligtenstellung, Akteneinsicht, Anhörung, Frist, Eilbedarf und ob gerichtlicher Rechtsschutz zum VG/OVG oder über Spezialzuweisung läuft.
