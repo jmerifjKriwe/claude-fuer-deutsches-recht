@@ -144,4 +144,3 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
-

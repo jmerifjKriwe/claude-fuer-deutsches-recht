@@ -30,4 +30,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Betreuung (richterliche Anordnung, gesetzliche Rechte) vs. Vorsorgevollmacht (privatautonom, kann sofort wirken, aber missbrauchsanfälliger): vorrangig § 1814 Abs. 3 Nr. 1 BGB nF Erforderlichkeitsgrundsatz.
 - Kontrollbetreuung neben Vorsorgevollmacht möglich (§ 1820 BGB nF) bei Missbrauchsverdacht.
-

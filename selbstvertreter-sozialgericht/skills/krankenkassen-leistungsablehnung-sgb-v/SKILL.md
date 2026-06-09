@@ -146,4 +146,3 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmittel-Verzeichnis online aktuell. MD seit 2022.
-

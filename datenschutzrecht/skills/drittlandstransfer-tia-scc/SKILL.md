@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-tia-scc
-description: "Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
 ---
 
 # Drittlandstransfer: Verhandlung, Vergleich und Eskalation
@@ -35,4 +35,3 @@ Nach EuGH "Schrems II" (Urteil vom 16.07.2020, C-311/18) prüfen, ob die SCC im 
 ## Verhandlungs-Trade-off
 - US-Anbieter ohne DPF-Zertifizierung: SCC + TIA + technische Maßnahmen sind nötig. Reine Vertragsklauseln ohne TIA reichen den Aufsichtsbehörden nicht.
 - Eskalationsstufen bei Streit: Konzern-DSB, dann Aufsichtsbehörde am Hauptsitz (One-Stop-Shop Art. 56), zuletzt Klage nach Art. 79 oder Beschwerde nach Art. 77.
-

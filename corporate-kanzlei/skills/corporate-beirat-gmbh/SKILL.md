@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Share Deal vs. Asset Deal:** Asset Deal bietet Cherry-Picking und Step-up, ist aber unter § 613a BGB (Übergang Arbeitsverhältnisse) und unter § 75 AO (Steuerschulden) heikel. Share Deal einfacher, aber Käufer "kauft auch die Leichen im Keller" — daher umfangreichere W&I-Versicherung empfehlenswert.
 - **Strukturen mit MoPeG-Bezug:** seit 01.01.2024 GbR-Reform; Bedeutung für Holding-Strukturen und Joint Ventures.
 - **Kartellrecht Schwellenwerte § 35 GWB:** weltweite Umsätze über 500 Mio. EUR und inländische Umsätze ein Unternehmen über 50 Mio. EUR, anderes über 17,5 Mio. EUR (vor Vollzug aktuelle Schwellen prüfen — letzte GWB-Novelle).
-

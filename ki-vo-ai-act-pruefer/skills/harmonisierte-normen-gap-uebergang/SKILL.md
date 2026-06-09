@@ -27,4 +27,3 @@ Die KI-VO wird durch harmonisierte Normen, gemeinsame Spezifikationen, Leitlinie
 - Logging.
 - Human Oversight.
 - Modellkarten und technische Dokumentation.
-

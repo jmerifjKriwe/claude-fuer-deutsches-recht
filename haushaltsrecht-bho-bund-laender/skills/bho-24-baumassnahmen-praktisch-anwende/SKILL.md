@@ -1,6 +1,6 @@
 ---
 name: bho-24-baumassnahmen-praktisch-anwende
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen praktisch anwenden. BHO § 24 Baumaßnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen praktisch anwenden. BHO § 24 Baumaßnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die..."
 ---
 
 # Bho 24 Baumassnahmen Praktisch Anwende
@@ -56,4 +56,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen prakt
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

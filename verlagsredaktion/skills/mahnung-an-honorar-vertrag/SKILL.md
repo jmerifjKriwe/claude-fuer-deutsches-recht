@@ -153,4 +153,3 @@ Mit freundlichen Gruessen
 - VerlG § 33 - Folgen Nichtlieferung; Rueckforderung Vorschuss.
 - ZPO §§ 688-703d - Mahnverfahren, Vollstreckungsbescheid.
 - Basiszinssatz (Deutsche Bundesbank, halbjaehrliche Anpassung) unter bundesbank.de.
-

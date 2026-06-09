@@ -97,4 +97,3 @@ Eingaben:
 - BfArM und BSI-Hinweise zur TI-Sicherheit.
 - DSGVO Art. 9, 30; BDSG-neu §§ 22, 26 (vom Anwender zu verifizieren — laufende Anpassungen).
 - ABDA-Rundschreiben zur E-Rezept-Praxis (vom Anwender zu verifizieren).
-

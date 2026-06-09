@@ -45,4 +45,3 @@ description: "Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverke
 ## Qualitätsgate
 
 EuGH/BGH-Rechtsprechung nur verifiziert zitieren; Produkt- und Lieferdaten nicht raten.
-

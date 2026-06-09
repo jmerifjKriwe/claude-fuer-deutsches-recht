@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-sachwaltung
-description: "Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubigerinformation. Output: Sachwalterberichte Beanstandungsschreiben Haftungsnotiz. Abgrenzung: nicht für Schutzschirm (iv-schutzschirm-270d) oder Planverfahren (iv-plan-kommandocenter) im Insolvenzverwaltung."
+description: "Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubigerinformation. Output: Sachwalterberichte Beanstandun..."
 ---
 
 # Eigenverwaltung und Sachwaltung
@@ -86,4 +86,3 @@ Bevor losgelegt wird, klaere:
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
 3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
-

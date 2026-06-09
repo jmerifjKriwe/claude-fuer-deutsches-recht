@@ -40,4 +40,3 @@ Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beam
 2. Eigener Widerspruch eingelegt?
 3. Verjährung gehemmt?
 4. Bei Erfolg: Nachzahlung berechnen.
-

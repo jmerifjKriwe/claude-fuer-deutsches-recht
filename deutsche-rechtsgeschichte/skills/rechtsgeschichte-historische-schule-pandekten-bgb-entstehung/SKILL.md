@@ -63,4 +63,3 @@ Die Historische Rechtsschule (Begruender: Savigny, ab 1814) wandte sich gegen da
 - Windscheid Pandektenrecht: Erstausgabe 1862-70, Band und Seite angeben
 - Jhering Geist: Erstausgabe 1852-65; Jhering-Briefe an Windscheid (1907 veroeffentlicht)
 - BGB-Materialien: Mugdan Bd. I (Allgemeiner Teil) für Pandektistik-Einfluss
-

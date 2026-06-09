@@ -1,6 +1,6 @@
 ---
 name: haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d
-description: "Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten im Steuerrecht Anwalt Und Berater."
+description: "Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung...."
 ---
 
 # Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)
@@ -179,4 +179,3 @@ Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanIns
 Maßnahme: Beschreibung des AZ korrigiert auf tatsächliches Thema: § 64 GmbHG a.F. — Zahlungsverbot nach Insolvenzreife; Aktiventausch und Rückgewähranspruch des GF. Das AZ ist damit thematisch passend für diesen Insolvenzreife-Skill und bleibt erhalten.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.07.2017&Aktenzeichen=II+ZR+319%2F15
 -->
-

@@ -106,4 +106,3 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 - Bundesgesetzblatt online, [https://www.recht.bund.de/bgbl/](https://www.recht.bund.de/bgbl/).
 - Bundesrat / Bundestag Drucksachen, [https://dip.bundestag.de](https://dip.bundestag.de).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
-

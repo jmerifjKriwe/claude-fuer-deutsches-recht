@@ -1,6 +1,6 @@
 ---
 name: bmftr-raumfahrt-und-weltraumrecht-wrgg
-description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
+description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typi..."
 ---
 
 # Raumfahrt- und Weltraumrecht (BMFTR)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

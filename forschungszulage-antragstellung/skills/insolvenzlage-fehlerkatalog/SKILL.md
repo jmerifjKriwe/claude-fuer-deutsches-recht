@@ -40,4 +40,3 @@ Dieser Fehlerkatalog prüft im Bereich **Forschungszulage Antragstellung** Ergeb
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

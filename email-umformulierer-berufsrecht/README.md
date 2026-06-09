@@ -108,7 +108,7 @@ Dieses Plugin enthält keine Testakte. Es handelt sich um Formulierungswerkzeuge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -190,7 +190,6 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `unsachliche-dokumentenmatrix-und-lueckenliste` | Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für E-Mail-Umformulierung im Berufsrecht: trennt fehlende Tatsachen von fehlenden Belegen (E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben), nennt pro Lücke Beweisthema, Beschaffungsweg (RA... |
 | `varianten-fehlerkatalog` | Varianten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `vorher-nachher` | Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufsrechts-E-Mail. |
 | `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbei... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Berufsrechts-E-Mail. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Berufsrechts-E-Mail. |

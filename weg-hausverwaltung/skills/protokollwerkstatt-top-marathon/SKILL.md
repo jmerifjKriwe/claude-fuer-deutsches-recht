@@ -64,4 +64,3 @@ Frist: [...]
 - Starte mit Objekt, Beschlussgegenstand, Einladung/Tagesordnung, Kostenverteilung, Stimmen, Eigentümerrollen und Fristen.
 - Trenne Verwaltungspraxis, Beschlusskompetenz, ordnungsmäßige Verwaltung, bauliche Veraenderung, Kostenfolge und Anfechtungsrisiko.
 - Bei Protokollen: Beschlusswortlaut, Abstimmungsergebnis, Verkündung, Anlagen und abweichende Auffassungen so aufnehmen, dass ein Gericht den Vorgang nachvollziehen kann.
-

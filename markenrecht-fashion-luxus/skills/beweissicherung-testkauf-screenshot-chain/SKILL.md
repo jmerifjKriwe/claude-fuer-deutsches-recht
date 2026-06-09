@@ -45,4 +45,3 @@ description: "Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-
 ## Warnung
 
 Keine heimlichen oder rechtswidrigen Methoden vorschlagen. Beweissicherung bleibt sauber, reproduzierbar und verhältnismäßig.
-

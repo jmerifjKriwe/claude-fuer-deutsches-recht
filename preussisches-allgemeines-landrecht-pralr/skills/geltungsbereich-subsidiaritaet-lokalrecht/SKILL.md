@@ -61,4 +61,3 @@ Pruefung: Pommersches Provinzialrecht enthaelt Sondervorschriften für Bauerngut
 - Bei Erbschaftsfragen vor 1900: alte Provinzialrechte beachten.
 - Bei Grundstuecksrechten vor 1900: Provinzialrechte beachten.
 - In der Praxis selten, aber bei langen Verjährungsfristen denkbar (z. B. Erbschaftsansprueche aus alten Adelsfamilien).
-

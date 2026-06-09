@@ -49,4 +49,3 @@ Die Gemeinschaft beschließt eine Neuordnung der Fahrradabstellflächen. Die Ver
 - Taubenabwehr greift in Fassade oder Balkon ein, ohne Beschluss.
 - Fahrräder werden ohne Dokumentation entfernt.
 - Weihnachtsbaum/Beleuchtung blockiert Rettungswege oder erzeugt Brandlast.
-

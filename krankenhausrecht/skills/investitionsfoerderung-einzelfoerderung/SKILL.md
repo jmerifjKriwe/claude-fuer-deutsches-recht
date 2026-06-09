@@ -81,4 +81,3 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern 
 - KHVVG Transformationsfonds (Live-Check BMG).
 - BVerwG, staend. Rspr. zur Investitionsfoerderung; BSG zum Versorgungsauftrag.
 - EU-Beihilfenrecht: Altmark-Trans (EuGH C-280/00), Freistellung DAWI.
-

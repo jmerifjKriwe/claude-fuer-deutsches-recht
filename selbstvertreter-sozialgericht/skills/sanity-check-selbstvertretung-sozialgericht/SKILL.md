@@ -84,4 +84,3 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 | Pflegegrad | Pflegegutachten, Pflegetagebuch, Arztberichte, Hilfebedarf nach Modulen |
 | EM-Rente | Befundberichte, Reha-Entlassungsbericht, Tätigkeitsbeschreibung |
 | GdB | Diagnosen, Funktionsbeeinträchtigungen, Befunde, Alltagsschilderung |
-

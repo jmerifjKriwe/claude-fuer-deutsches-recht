@@ -34,4 +34,3 @@ Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatz
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

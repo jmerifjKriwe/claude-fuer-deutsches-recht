@@ -154,4 +154,3 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 Stand: 05/2026. DBA-Irland 30.03.2011, in Kraft 28.11.2012 (BGBl. 2012 II S. 1043). Aenderungsprotokoll 03.12.2014 (BGBl. 2015 II S. 1323). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent (Mindestbesteuerungsumsetzungsgesetz 21.12.2023). Pillar Two ab 01.01.2024.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

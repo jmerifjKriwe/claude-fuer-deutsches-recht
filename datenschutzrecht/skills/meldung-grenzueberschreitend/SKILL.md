@@ -1,6 +1,6 @@
 ---
 name: meldung-grenzueberschreitend
-description: "Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Schnittstelle zu Art. 49 DSGVO-Übermittlungen; Hinweispflichten an US-Aufsichten bei BIPA, CCPA, GLBA. Output: Memo zur Meldelandkarte. Abgrenzung: keine vertiefte US-Beratung."
+description: "Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Sch..."
 ---
 
 # Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten
@@ -42,4 +42,3 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-lead-authority-konzern` deckt die Bestimmung der federfuehrenden Behörde ab.
-

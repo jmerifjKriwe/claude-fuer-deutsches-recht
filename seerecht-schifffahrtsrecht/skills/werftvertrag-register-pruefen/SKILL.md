@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-register-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor..."
 ---
 
 # Werftvertrag – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-register-pruefen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefpr..."
 ---
 
 # Schiffshypothek – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

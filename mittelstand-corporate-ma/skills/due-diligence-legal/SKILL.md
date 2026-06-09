@@ -199,4 +199,3 @@ HUMAN-IN-THE-LOOP: [ ] Partner-Review erforderlich
 
 - assets/templates/legal-dd-findings-tabelle.md
 - assets/templates/red-flag-report-vorlage.md
-

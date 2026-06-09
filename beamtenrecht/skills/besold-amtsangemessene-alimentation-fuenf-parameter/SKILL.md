@@ -58,4 +58,3 @@ Auch wenn weniger als drei Parameter erster Stufe ueberschritten sind oder die V
 6. Sind mindestens drei Parameter erster Stufe ueberschritten - Vermutung der Unteralimentation?
 7. Gesamtabwaegung zweiter Stufe (inkl. Privatwirtschaftsindiz, Beihilfe, Sonderzahlungen).
 8. Zeitnahe Geltendmachung im Haushaltsjahr erfolgt?
-

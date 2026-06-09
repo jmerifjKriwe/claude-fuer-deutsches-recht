@@ -99,4 +99,3 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

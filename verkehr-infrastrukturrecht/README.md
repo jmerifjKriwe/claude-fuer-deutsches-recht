@@ -128,7 +128,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vifr-aeg-bahnrecht-deutschlandticket` | Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU im Verkehr Infrastrukturrecht. |
 | `vifr-deutschlandticket-tarifrecht-spezial` | Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster für Verbraucherzentrale und Verkehrsverbund im Verkehr Infrastrukturrecht. |
 | `vifr-luftverkehrsrecht-flughafen-spezial` | Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster für Flughafenbetreiber und Anwohner im Verkehr Infrastrukturrecht. |
-| `vifr-planfeststellung` | Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `vifr-planfeststellung-strasse-bauleiter` | Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss: Pruefraster für Vorhabentraeger und Einwender. |
 | `wirtschaftsverkehr` | Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Verkehr Infrastrukturrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verkehr Infrastrukturrecht. |

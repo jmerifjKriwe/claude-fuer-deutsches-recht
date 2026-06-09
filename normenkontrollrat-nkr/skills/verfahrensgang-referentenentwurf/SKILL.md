@@ -1,6 +1,6 @@
 ---
 name: verfahrensgang-referentenentwurf
-description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung."
+description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabel..."
 ---
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag
@@ -115,4 +115,3 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - §§ 70, 70a GO BT
 - Art. 76, 77, 82 GG
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

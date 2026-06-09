@@ -87,4 +87,3 @@ Ausländische Studierende in Deutschland müssen sich krankenversichern. Dieser 
 - [Bundesagentur für Arbeit Studentische KV](https://www.arbeitsagentur.de)
 - [DAAD Krankenversicherung](https://www.daad.de/de/studieren-und-forschen-in-deutschland/studium-planen/krankenversicherung/)
 - [dejure.org § 8 SGB V](https://dejure.org/gesetze/SGB_V/8.html)
-

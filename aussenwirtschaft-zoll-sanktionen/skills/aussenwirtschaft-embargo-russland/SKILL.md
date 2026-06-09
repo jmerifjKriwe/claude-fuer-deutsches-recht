@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-russland
-description: "EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prueft Lieferkette auf Russland-Kontamination. Output: Russland-Embargo-Pruefvermerk mit Ampel und Massnahmenplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prueft Lieferkette auf Russland-Kontamin..."
 ---
 
 # Embargo Russland: Sektoralsanktionen und Umgehungsverbote
@@ -81,4 +81,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU Sanctions Map Russland](https://www.sanctionsmap.eu/#/main/details/36)
 - [BAFA Russland-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

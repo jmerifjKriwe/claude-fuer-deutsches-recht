@@ -65,4 +65,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

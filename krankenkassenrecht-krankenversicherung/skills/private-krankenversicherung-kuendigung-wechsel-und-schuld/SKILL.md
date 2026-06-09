@@ -87,4 +87,3 @@ Wer die PKV kündigen oder in die GKV wechseln will, stößt auf enge Voraussetz
 - [BGH IV ZR 62/16](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
 - [dejure.org § 205 VVG](https://dejure.org/gesetze/VVG/205.html)
-

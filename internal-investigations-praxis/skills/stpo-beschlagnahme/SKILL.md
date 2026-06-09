@@ -82,4 +82,3 @@ Dieser Skill bereitet auf Durchsuchungs- und Beschlagnahme-Szenarien vor, analys
 - **Inventarlisten-Vorlage**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

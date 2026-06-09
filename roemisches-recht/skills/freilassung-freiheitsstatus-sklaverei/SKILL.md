@@ -66,4 +66,3 @@ Die manumissio ist die Freilassung eines Sklaven. Gaius Inst. 1.17-41 kennt drei
 - D. 40 (De manumissionibus) als Haupttitel
 - D. 38.1 (Operae libertorum)
 - Kaser RP I §§ 290-300; Wiedemann Slavery in Greek and Roman History
-

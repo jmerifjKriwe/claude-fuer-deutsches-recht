@@ -1,6 +1,6 @@
 ---
 name: geschaeftsordnung-gf-gesellschafterstreit
-description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung im Gesellschaftsgruender."
+description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder..."
 ---
 
 # Geschäftsordnung Geschäftsführung
@@ -139,4 +139,3 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag; Ressortbezug
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung
 - `gesellschaftsgruender-beirat-advisory-board` — Koordination mit Beiratsbefugnissen
-

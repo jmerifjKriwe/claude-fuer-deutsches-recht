@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk für Forschungsvorhaben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken..."
 ---
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Technologietransfer Hochschule](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

@@ -70,4 +70,3 @@ Creator, die für politische Parteien oder Organisationen posten, unterliegen be
 - Politische-Werbung-Compliance-Checkliste
 - Kennzeichnungskonzept für staatliche/parteiliche Kampagnen
 - Ablehnungsschreiben für verdeckte politische Werbung
-

@@ -1,6 +1,6 @@
 ---
 name: nichtpraeferenzieller-ursprung-ofac-sdn-post
-description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket für Hauptzollamt im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung u..."
 ---
 
 # Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK-DA Anhang 22-01](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
 - [Zoll.de Ursprung](https://www.zoll.de/DE/Fachthemen/Zoelle/Ursprung-Praeferenzen/ursprung-praeferenzen_node.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

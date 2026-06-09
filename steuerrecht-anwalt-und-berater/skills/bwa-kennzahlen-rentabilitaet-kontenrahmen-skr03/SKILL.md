@@ -1,6 +1,6 @@
 ---
 name: bwa-kennzahlen-rentabilitaet-kontenrahmen-skr03
-description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung im Steuerrecht Anwalt Und Berater."
+description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung..."
 ---
 
 # Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI
@@ -139,4 +139,3 @@ Stand: 05/2026.
 - Coenenberg, Jahresabschluss und Jahresabschlussanalyse.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->
-

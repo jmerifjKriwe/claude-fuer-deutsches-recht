@@ -1,6 +1,6 @@
 ---
 name: freedom-to-operate-recherche
-description: "Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung im Patentrecherche."
+description: "Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-..."
 ---
 
 # freedom-to-operate-recherche
@@ -112,4 +112,3 @@ Bevor die FTO-Analyse begonnen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

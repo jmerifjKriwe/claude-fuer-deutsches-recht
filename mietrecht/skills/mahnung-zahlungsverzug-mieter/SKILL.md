@@ -1,6 +1,6 @@
 ---
 name: mahnung-zahlungsverzug-mieter
-description: "Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose Kündigung nach § 543 Abs. 2 Nr. 3 BGB (eine Monatsmiete plus zwei aufeinanderfolgende Termine oder Rückstand von zwei Monatsmieten über zwei Termine) hilfsweise ordentliche Kündigung nach § 573 Abs. 2 Nr. 1 BGB und Schonfristzahlung des Mieters nach § 569 Abs. 3 BGB (Nachholung innerhalb von zwei Monaten nach Zustellung der Räumungsklage). Erzeugt gestuftes Schreibenpaket mit Disclaimer im Mietrecht."
+description: "Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose Kündigung nach § 543 Abs. 2 Nr. 3 BGB (eine Monatsmiete plus zwei aufeinanderf..."
 ---
 
 # Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung)
@@ -121,4 +121,3 @@ Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsb
 ## Paragrafenkette
 
 §§ 543, 569, 573 BGB — Kuendigungsvoraussetzungen Zahlungsverzug; § 286 BGB — Verzug; § 569 Abs. 3 BGB — Schonfrist; § 247 BGB — Basiszinssatz; § 288 BGB — Verzugszinsen.
-

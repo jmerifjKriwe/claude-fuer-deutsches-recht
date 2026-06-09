@@ -64,4 +64,3 @@ Erzeuge Vertragstypcheck, Reklamation, Beweisliste und pragmatischen Vergleichsv
 ## Prompts, die dieser Skill stellen soll
 
 - Was war versprochen, Ergebnis, Preis, Nachbesserung möglich?
-

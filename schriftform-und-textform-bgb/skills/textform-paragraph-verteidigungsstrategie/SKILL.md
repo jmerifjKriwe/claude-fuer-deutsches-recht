@@ -114,4 +114,3 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **WhatsApp-Sicherung**: WhatsApp-Nachrichten können als dauerhafter Datenträger dienen — aber: nach Verlust des Geräts oder Löschen der App sind Nachrichten ggf. nicht mehr reproduzierbar. Für Beweissicherung Screenshot anfertigen und in Akte nehmen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

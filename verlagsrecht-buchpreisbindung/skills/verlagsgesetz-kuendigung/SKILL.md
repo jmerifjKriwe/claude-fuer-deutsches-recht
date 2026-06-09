@@ -149,4 +149,3 @@ Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den
 - **Abgrenzungs-Chart**: VerlG vs. BGB-Werkvertrag vs. Lizenzvertrag
 - **Fristenübersicht** aus VerlG
 - **Honorarberechnungs-Leitfaden** nach VerlG §§ 22–28
-

@@ -46,4 +46,3 @@ Frage kurz und konkret:
 ## Vorsicht
 
 Keine künstliche Sicherheit: Wenn nur eine Bestätigungsmail vorliegt, aber kein Checkout-Screenshot, klar als Beweisproblem markieren. Bei gerichtlichem Mahnbescheid sofort zum Mahnbescheid-Skill routen.
-

@@ -50,4 +50,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Grundstücks- und Nachbarschaftskarte.
 - Kurzer Vergleich mit moderner Privatautonomie und Gleichheitsordnung.
 - Red-Team-Hinweise gegen anachronistische Idealisierung.
-

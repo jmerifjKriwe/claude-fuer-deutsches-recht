@@ -75,4 +75,3 @@ unverzüglich an, kommt kein Vertrag zustande. Dies wird in Klausuren oft falsch
 - Verspätete Annahme nach § 149 BGB als neues Angebot gewertet?
 - Ablehnung: unverzüglich durch den Antragenden erklärt oder konkludent?
 - Abgeänderte Annahme nach § 150 Abs. 2 BGB als weiteres Angebot?
-

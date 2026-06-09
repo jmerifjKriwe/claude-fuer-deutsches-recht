@@ -11,19 +11,19 @@ Diese Unterlagenprüfung für **Fachanwalt Strafrecht** benennt fehlende Dokumen
 
 ## Fachlandkarte dieses Plugins
 
-- `adhaesionsverfahren-ermittlungsverfahren` — Adhaesionsverfahren Ermittlungsverfahren
-- `aussagepsychologie-staatsanwaltschaft` — Aussagepsychologie Staatsanwaltschaft
-- `chatcontrol-csam-einlassung-vorbereiten` — Chatcontrol Csam Einlassung Vorbereiten
-- `ergaenzt-fachanwalt-insolvenzantrag-red-team-korrektur` — Ergaenzt Fachanwalt Insolvenzantrag RED Team Korrektur
+- `workflow-redteam-qualitygate` — Adhaesionsverfahren Ermittlungsverfahren
+- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` — Aussagepsychologie Staatsanwaltschaft
+- `chatcontrol-csam-anwaltsgeheimnis-53-stpo` — Chatcontrol Csam Einlassung Vorbereiten
+- `ergaenzt-mandantenkommunikation-entscheidungsvorlage` — Ergaenzt Fachanwalt Insolvenzantrag RED Team Korrektur
 - `fa-strafrecht-quellen-frist-next` — FA Strafrecht Quellen Frist Next
 - `freiheitsstrafe-paragraf-57-stgb` — Freiheitsstrafe Paragraf 57 STGB
 - `hauptverhandlung-quellenkarte` — Hauptverhandlung Quellenkarte
-- `koerperverletzung-stgb-todesfolge` — Koerperverletzung STGB Todesfolge
-- `mandat-triage-plaedoyer-vorbereitung` — Mandat Triage Plaedoyer Vorbereitung
-- `nebenklage-nebenstrafrecht-opfervertretung` — Nebenklage Nebenstrafrecht Opfervertretung
+- `strafrecht-spezial-koerperverletzung-223-stgb-grund` — Koerperverletzung STGB Todesfolge
+- `mandat-triage-strafrecht` — Mandat Triage Plaedoyer Vorbereitung
+- `nebenklage-compliance-dokumentation-und-akte` — Nebenklage Nebenstrafrecht Opfervertretung
 - `notwehr-paragraf-32-stgb` — Notwehr Paragraf 32 STGB
-- `orientierung` — Orientierung
-- `raub-rechtsbeugung` — Raub Rechtsbeugung
+- `orientierung-mandat-fachanwaltschaft` — Orientierung
+- `strafrecht-spezial-raub-249-stgb` — Raub Rechtsbeugung
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -40,4 +40,3 @@ Diese Unterlagenprüfung für **Fachanwalt Strafrecht** benennt fehlende Dokumen
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

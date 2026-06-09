@@ -1,6 +1,6 @@
 ---
 name: private-enforcement-produktmarkt
-description: "Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzu..."
 ---
 
 # Private Enforcement und Kartellschaden
@@ -33,4 +33,3 @@ description: "Private Enforcement und Kartellschaden: Fachmodul für großes Kar
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

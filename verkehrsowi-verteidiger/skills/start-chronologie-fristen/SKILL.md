@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Verkehrsowi Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Verkehrsowi Verteidiger."
+description: "Einstieg, Schnelltriage und Fallrouting im Verkehrsowi Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenst..."
 ---
 
 # VerkehrsOWi-Verteidiger — Allgemein
@@ -219,4 +219,3 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 - StVG in der zum Stand-Datum geltenden Fassung
 - OWiG in der geltenden Fassung
 - BKatV (Bussgeldkatalogverordnung) in der geltenden Fassung
-

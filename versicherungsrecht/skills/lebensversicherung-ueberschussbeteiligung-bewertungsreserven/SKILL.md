@@ -41,4 +41,3 @@ VVG §§ 153 ff., 169; VAG; Informationspflichten; BaFin-Hinweise live prüfen.
 
 - vag-bafin-aufsicht-beschwerde-missstand
 - solvency-ii-scr-orsa-aufsichtsrecht
-

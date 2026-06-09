@@ -1,6 +1,6 @@
 ---
 name: ausgleich-ausschlussgruende
-description: "Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung aus Gesundheitsgründen nach Art. 18 RL 86/653/EWG im Handelsvertreterrecht."
+description: "Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung aus Gesundheitsgründen nach Art. 18..."
 ---
 
 # Ausschlussgründe für den Ausgleichsanspruch nach § 89b Abs. 3 HGB
@@ -85,4 +85,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [Art. 18 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [EuGH C-465/04 Honyvem auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62004CJ0465)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
-

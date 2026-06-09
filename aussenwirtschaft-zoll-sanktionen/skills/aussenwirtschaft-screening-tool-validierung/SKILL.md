@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-screening-tool-validierung
-description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatori..."
 ---
 
 # Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Sanktionen und Embargos](https://www.bafa.de/DE/Aussenwirtschaft/Embargos/embargos_node.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

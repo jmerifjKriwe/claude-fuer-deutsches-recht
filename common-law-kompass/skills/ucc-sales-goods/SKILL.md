@@ -1,6 +1,6 @@
 ---
 name: ucc-sales-goods
-description: "Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln) im Common Law Kompass."
+description: "Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Ri..."
 ---
 
 # UCC und Sale of Goods
@@ -95,4 +95,3 @@ Date: [DATE] — Goods: [DESCRIPTION] — State: [STATE]
  Both parties in CISG states?: [YES — CISG governs unless excluded / NO]
  Exclusion clause: [present / NOT present — add Art. 6 CISG opt-out]
 ```
-

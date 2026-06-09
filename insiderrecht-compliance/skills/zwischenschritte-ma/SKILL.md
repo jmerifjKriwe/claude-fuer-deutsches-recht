@@ -90,4 +90,3 @@ d) Ist die Information noch nicht öffentlich?
 - Wurden Handelsverbote für alle Wissensträger sichergestellt?
 - Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
  sondiert wurden?
-

@@ -28,4 +28,3 @@ Der Skill hilft bei Fällen, in denen eine Hochschule eine Prüfungsleistung weg
 ## Mindeststandard
 
 Nie schreiben: "Detektor sagt KI, also Täuschung." Immer schreiben: "Detektorbefund ist nur ein Indiz; entscheidend ist die tragfähige Gesamtwürdigung."
-

@@ -1,6 +1,6 @@
 ---
 name: onboarding-fristen-uebersicht
-description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme."
+description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Fris..."
 ---
 
 # Steuerrechtliche Fristen — der Ueberblick
@@ -59,4 +59,3 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

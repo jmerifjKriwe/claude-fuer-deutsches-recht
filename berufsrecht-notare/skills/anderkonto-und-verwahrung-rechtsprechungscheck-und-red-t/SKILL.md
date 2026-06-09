@@ -60,4 +60,3 @@ Konkret zu prüfen:
 - § 23 BNotO (Notaranderkonto)
 - § 54a BeurkG
 - DONot § 11
-

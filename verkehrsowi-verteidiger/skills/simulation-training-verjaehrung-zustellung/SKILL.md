@@ -73,4 +73,3 @@ Polizeibeamter sagt aus: "Ich sah das Fahrzeug mit 80 km/h und sicher mehr als e
 - Simulationsdaten niemals als echte Praezedenzfaelle ausgeben.
 - Ergebnisse aus Simulation immer mit tatsaechlicher Rechtslage abgleichen.
 - Anwaltliche Endkontrolle vor Uebertragung auf echte Mandate.
-

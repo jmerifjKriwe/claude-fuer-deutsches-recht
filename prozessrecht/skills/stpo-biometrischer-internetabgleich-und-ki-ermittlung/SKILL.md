@@ -152,4 +152,3 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 | Drittbetroffenheit massiv | Verhältnismäßigkeit, Löschung, Benachrichtigung, Zweckbindung prüfen |
 | Berufsgeheimnisträger/Kernbereich berührt | besondere Schutzmechanismen und Verwertungsgrenzen geltend machen |
 | KI-VO-Dokumentation fehlt | Hochrisiko-Konformität, Grundrechte-Folgenabschätzung und Systemaufsicht rügen |
-

@@ -91,4 +91,3 @@ BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
-

@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Subunternehmer: prüft, redlined und entwir
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

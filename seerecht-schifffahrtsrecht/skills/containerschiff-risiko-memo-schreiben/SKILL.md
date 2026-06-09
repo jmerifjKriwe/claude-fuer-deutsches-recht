@@ -1,6 +1,6 @@
 ---
 name: containerschiff-risiko-memo-schreiben
-description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS..."
 ---
 
 # Containerschiff – Risiko-Memo schreiben
@@ -93,4 +93,3 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
-

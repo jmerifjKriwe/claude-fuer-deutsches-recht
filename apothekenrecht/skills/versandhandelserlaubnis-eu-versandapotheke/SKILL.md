@@ -111,4 +111,3 @@ Eingaben:
 - EuGH, staend. Rspr. (DocMorris-Komplex).
 - BGH, staend. Rspr. zur Preisbindung im EU-Versandhandel (vom Anwender zu verifizieren Aktualität).
 - Landesaufsichtsbehörden — Erlaubnisleitfäden (vom Anwender zu verifizieren).
-

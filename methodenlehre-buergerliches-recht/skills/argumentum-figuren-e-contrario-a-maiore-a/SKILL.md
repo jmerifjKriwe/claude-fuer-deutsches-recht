@@ -1,6 +1,6 @@
 ---
 name: argumentum-figuren-e-contrario-a-maiore-a
-description: "Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke."
+description: "Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§..."
 ---
 
 # Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
@@ -95,4 +95,3 @@ Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren s
 - §§ 119, 123, 134, 138, 139, 142, 181, 311 Abs. 1, 437, 657, 661a BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

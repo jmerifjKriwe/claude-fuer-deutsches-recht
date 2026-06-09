@@ -1,6 +1,6 @@
 ---
 name: investor-entry-options
-description: "Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht im Festlandchina Wirtschaftsverkehr."
+description: "Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2..."
 ---
 
 # Investoreintritt China: Optionen und Strukturierungsvergleich
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

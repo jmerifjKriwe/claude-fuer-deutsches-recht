@@ -1,6 +1,6 @@
 ---
 name: begrenztes-risiko-art-50-transparenzpflichten
-description: "Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1 KI-VO Deepfake-Kennzeichnungspflicht Art. 50 Abs. 4 KI-VO KI-generierter Text bei öffentlichem Interesse Art. 50 Abs. 2 KI-VO Emotionserkennung Art. 50 Abs. 3 KI-VO. Output: Checkliste Pflichten und Musterkennzeichnungstexte. Abgrenzung zu verbotene-praktiken-art-5 (Hochrisiko-Verbote) und begrenztes-risiko ist kein Hochrisiko."
+description: "Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1 KI-VO Deepfake-Kennzeichnungspflicht Art. 50 Abs. 4 KI-VO KI-generierter Text bei..."
 ---
 
 # Begrenztes Risiko — Transparenzpflichten nach Art. 50 KI-VO
@@ -109,4 +109,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

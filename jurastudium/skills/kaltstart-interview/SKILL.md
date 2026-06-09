@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methodenlehre. Prüfraster Semester und Fortschritt, Bundesland JAG-Anforderungen, Lernstil Theorie oder Praxis, bisherige Schwachpunkte, verfuegbare Zeit und Materialien. Output vollständiges Lernprofil als Grundlage für alle weiteren Jurastudium-Skills. Abgrenzung zu Jurastudium-Anpassen für spaetere Aenderungen."
+description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methodenlehre. Prüfraster Semester und Fortschritt, Bundesland JA..."
 ---
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)
@@ -138,4 +138,3 @@ Plugin: Profil angelegt. Empfehle: /jurastudium:lernplan
 - **Falsches Bundesland:** JAG-Unterschiede sind erheblich (Klausurzahl, Prüfungsgebiete). Einmal falsch eingetragen → alle Examensprognosen und Lernpläne gehen an der Realität vorbei.
 - **Wenig Material hochladen:** Das Plugin arbeitet besser mit mehr Material. Alte JPA-Klausuren und benotete eigene Arbeiten sind besonders wertvoll für `examens-prognose` und `gutachten-uebung`.
 - **Lernstil nicht anpassen:** Drill-Modus ist intensiver und für Examensphase geeignet; Erklärungs-Modus für Grundstudium. Kann jederzeit per `/jurastudium:jurastudium-anpassen` geändert werden.
-

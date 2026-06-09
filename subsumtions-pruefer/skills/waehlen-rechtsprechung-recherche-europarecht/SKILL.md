@@ -75,4 +75,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Stil- und Strukturanweisungen für den gewählten Output-Typ anwenden.
 4. Passende Fachmodule vorschlagen.
 5. Ein sofort nutzbares Ergebnis erzeugen.
-

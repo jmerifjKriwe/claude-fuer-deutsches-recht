@@ -71,4 +71,3 @@ Kein Output ohne:
 - Anhörungslage;
 - Strafverfahrensstand;
 - Rechtsschutzfrist.
-

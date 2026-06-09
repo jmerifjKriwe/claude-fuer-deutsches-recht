@@ -1,6 +1,6 @@
 ---
 name: kaltstart
-description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat mit Schnellerfassung von Parteien, Dealtyp, Phase, ersten Risiken und naechsten Schritten. Normen: BRAO §§ 43a und 49b; GwG § 10 (KYC); MAR Insider-Abgrenzung. Prüfraster: Mandantenrolle (Kaeufer/Verkaeufer/Target), Dealtyp (Share/Asset/Merger/Distressed), Phase, Konflikt-Check, Fristen-Sofortcheck. Output Deal-Kurzkarte mit Ampel, Routing-Empfehlung an Fachmodule. Abgrenzung: Detailarbeit siehe kommandocenter; Deal-Intake siehe deal-intake-skill."
+description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat mit Schnellerfassung von Parteien, Dealtyp, Phase, ersten Risiken und naechsten Schritten. Normen: BRAO §§ 43a und 49b; GwG § 10 (KYC); MAR Insider-Abgrenzung. Prüfraster: Mandantenrolle (Kaeufer/Verkaeufer/T..."
 ---
 
 # Kaltstart Corporate-Kanzlei
@@ -186,4 +186,3 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 
 - § 43a BRAO; Art. 18 MAR; §§ 2-10 GwG; §§ 311 II BGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

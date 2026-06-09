@@ -72,4 +72,3 @@ Staatliche Institutionen als Auftraggeber für Creator unterliegen besonderen Re
 - Kennzeichnungskonzept (staatliche Kampagne)
 - Nutzungsrechte-Klausel (öffentlicher Auftraggeber)
 - Vertragsmuster öffentlicher Auftrag
-

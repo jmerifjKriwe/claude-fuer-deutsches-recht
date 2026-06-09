@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 16 BeurkG
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

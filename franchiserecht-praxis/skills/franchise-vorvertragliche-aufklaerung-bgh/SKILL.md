@@ -1,6 +1,6 @@
 ---
 name: franchise-vorvertragliche-aufklaerung-bgh
-description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss im Franchiserecht."
+description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH..."
 ---
 
 # Franchise Vorvertragliche Aufklaerung Bgh
@@ -52,4 +52,3 @@ description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den
 2. Welche Angaben fehlen?
 3. Hat der Franchisenehmer eigene Marktanalyse durchgefuehrt?
 4. Schadenshoehe?
-

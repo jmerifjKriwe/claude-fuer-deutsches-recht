@@ -1,6 +1,6 @@
 ---
 name: bwa-vorlaeufiges-ergebnis-darstellung
-description: "Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung."
+description: "Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA..."
 ---
 
 # Vorlaeufiges Ergebnis in der unterjaehrigen BWA
@@ -120,4 +120,3 @@ Stand: 05/2026.
 - StBerG § 33.
 - IDW PS 480, IDW S 7.
 - BMF v. 28.11.2019 zu GoBD.
-

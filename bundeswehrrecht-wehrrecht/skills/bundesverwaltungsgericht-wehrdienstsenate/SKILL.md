@@ -1,6 +1,6 @@
 ---
 name: bundesverwaltungsgericht-wehrdienstsenate
-description: "Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr..."
 ---
 
 # Bundesverwaltungsgericht – Wehrdienstsenate
@@ -92,4 +92,3 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung; Entscheidungsdatenbank des BVerwG (bverwg.de).
 - Geschäftsverteilung BVerwG – jährlich publiziert.
 - Keine Kommentarstellen aus Modellwissen.
-

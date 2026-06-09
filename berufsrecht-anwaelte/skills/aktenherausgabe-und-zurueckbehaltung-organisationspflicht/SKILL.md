@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 50 BRAO
 - § 675 BGB i.V.m. § 667 BGB (Herausgabepflicht)
 - § 17 BORA
-

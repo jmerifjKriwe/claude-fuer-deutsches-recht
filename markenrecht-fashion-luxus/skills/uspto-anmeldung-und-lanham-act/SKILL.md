@@ -1,6 +1,6 @@
 ---
 name: uspto-anmeldung-und-lanham-act
-description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check im Markenrecht Fashion Luxus."
+description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Ext..."
 ---
 
 # USPTO-Anmeldung und Lanham Act
@@ -169,4 +169,3 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 > **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben koennen als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse für nicht-traditionelle Markenarten kennt.
 
 > **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist "merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.
-

@@ -1,6 +1,6 @@
 ---
 name: zitierweise-jura-fundstellen
-description: "Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen im Hausarbeitenmacher."
+description: "Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugri..."
 ---
 
 # Zitierweise in der juristischen Hausarbeit
@@ -53,4 +53,3 @@ Bei mehreren Belegen:
 1. Gesetz und amtliche Materialien.
 2. Verifizierte Rechtsprechung.
 3. Vom Nutzer bereitgestellte oder live verifizierte Literatur.
-

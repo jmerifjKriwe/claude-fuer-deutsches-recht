@@ -60,4 +60,3 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 - kaufrecht-gefahruebergang-und-versendung
 - kaufrecht-schadensersatz-aufwendungsersatz
 - bt-fristen-erklaerungen-zugang
-

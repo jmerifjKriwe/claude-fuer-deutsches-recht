@@ -111,4 +111,3 @@ Egal welcher Weg: Sie brauchen einen Beweis für den Tag, an dem Ihr Widerspruch
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 2024 für Buerger oeffentlich. § 65a SGG für SG-Klagen. § 36a SGB I für Behörden-Kommunikation. Pruefen Sie im Zweifel den Stand bei Ihrer Behörde.
-

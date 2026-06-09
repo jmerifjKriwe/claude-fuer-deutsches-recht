@@ -1,6 +1,6 @@
 ---
 name: nachmeldung-aktualisierung-art-33-abs-4
-description: "Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur Strafanzeige; Schluss der Meldung. Output: Nachmeldungs-Schreiben mit Bezug auf Aktenzeichen der Erstmeldung. Abgrenzung: keine neue Erstmeldung."
+description: "Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur S..."
 ---
 
 # Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO
@@ -52,4 +52,3 @@ Mit dieser Nachmeldung gilt die Meldung als endgültig.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Erstmeldung ab.
-

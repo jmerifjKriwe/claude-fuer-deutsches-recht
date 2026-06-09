@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Fahrgastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstaendig: ordnet das Material, prueft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rueckfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Fahrgastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstaendig:..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -214,4 +214,3 @@ Das Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- u
 - § 23 Nr. 1 GVG — Streitwertgrenze 10.000 EUR seit 01.01.2026
 - Schlichtungsstelle Reise & Verkehr e.V. (schlichtungsstelle-reise-verkehr.de)
 - EuGH- und BGH-Linie — siehe `references/rechtsprechung-fahrgastrechte.md`; Live-Check vor jedem Versand.
-

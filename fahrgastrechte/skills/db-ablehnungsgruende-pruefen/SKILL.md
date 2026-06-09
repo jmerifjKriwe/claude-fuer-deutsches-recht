@@ -1,6 +1,6 @@
 ---
 name: db-ablehnungsgruende-pruefen
-description: "Katalog typischer Ablehnungsgruende des DB-Servicecenters Fahrgastrechte mit Gegenargumenten und Pinpoint auf Art. 18 und 19 und 20 VO (EU) 2021/782 sowie EVO und DB-Befoerderungsbedingungen. Behandelt andere Verbindung als gebucht; Verspaetung unter 60 Minuten; hoehere Gewalt; Antrag verspaetet; fehlende Nachweise; Ticket nicht erstattungsfaehig; Verspaetung nicht nachvollziehbar; Erstattung bereits erfolgt; Umweg; Verpflegungskosten unangemessen. Fuer Reaktion auf Ablehnungsschreiben im Skill fahrgastrechte-widerspruch oder Klage."
+description: "Katalog typischer Ablehnungsgruende des DB-Servicecenters Fahrgastrechte mit Gegenargumenten und Pinpoint auf Art. 18 und 19 und 20 VO (EU) 2021/782 sowie EVO und DB-Befoerderungsbedingungen. Behandelt andere Verbindung als gebucht; Verspaetung unter 60 Minuten; hoehere Gewalt; Antrag verspaetet;..."
 ---
 
 # Katalog der DB-Ablehnungsgründe und Gegenargumente
@@ -207,4 +207,3 @@ Diesen Katalog vor jedem Widerspruchsschreiben durchgehen — den konkret im Abl
 - `ablehnungsgrund-analyse.md` — identifizierter Grund + Gegenargument + Norm-Pinpoint
 - Verweis auf entsprechende Norm in `references/vo-2021-782-uebersicht.md` und `references/evo-2023-uebersicht.md`
 - Übergabe an Skill `fahrgastrechte-widerspruch` zur Brief-Erstellung
-

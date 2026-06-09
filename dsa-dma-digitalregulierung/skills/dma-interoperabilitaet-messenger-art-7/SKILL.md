@@ -1,6 +1,6 @@
 ---
 name: dma-interoperabilitaet-messenger-art-7
-description: "Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung im Dsa Dma Digitalregulierung."
+description: "Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf In..."
 ---
 
 # DMA: Messenger-Interoperabilitaet
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - § 17 Abs. 2a BeurkG
 - § 312g BGB
 - § 355 BGB
-

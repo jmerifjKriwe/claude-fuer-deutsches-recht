@@ -41,4 +41,3 @@ VVG §§ 6, 7, 8; BGB Verbraucherdarlehen §§ 491 ff.; PAngV; IDD/Vermittlerrec
 
 - idd-vertrieb-beratung-dokumentation
 - vag-bafin-aufsicht-beschwerde-missstand
-

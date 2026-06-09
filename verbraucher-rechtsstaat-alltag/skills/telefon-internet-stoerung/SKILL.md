@@ -64,4 +64,3 @@ Erzeuge Störungstagebuch, Anbieterbrief, Minderungsrechnung und BNetzA-Beschwer
 ## Prompts, die dieser Skill stellen soll
 
 - Seit wann, vollständig oder langsam, Messprotokoll, Ticketnummer?
-

@@ -63,4 +63,3 @@ Der Zivilprozess entwickelte sich aus der territorialen Gerichtsbarkeit der Einz
 - Historische Fassungen 1877: ALEX/OeNB
 - Vereinfachungsnovelle 1977 und ZPO-Reform 2002: BGBl. via gesetze-im-internet.de
 - BGH-Rechtsprechung zur ZPO: bgh.de
-

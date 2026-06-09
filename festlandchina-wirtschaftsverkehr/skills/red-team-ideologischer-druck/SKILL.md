@@ -1,6 +1,6 @@
 ---
 name: red-team-ideologischer-druck
-description: "'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, Gegenstrategien (Distanz wahren, Dokumentation), Rechtliche Grenzen CN-staatlicher Eingriffe. Output: Red-Team-Analyse ideologischer Risiken und Gegenstrategiepapier.'"
+description: "'Red-Team: Ideologischer Druck auf Unternehmen in China: Staatliche Kampagnen zur ideologischen Konformität (CCP-Zellen in Unternehmen), Druck auf Markennamen/Kartographiepolitik (Taiwan als China), Mitarbeiterloyalitäts-Anforderungen, Gegenstrategien (Distanz wahren, Dokumentation), Rechtliche G..."
 ---
 
 # Red-Team: Ideologischer Druck auf Unternehmen in China
@@ -82,4 +82,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

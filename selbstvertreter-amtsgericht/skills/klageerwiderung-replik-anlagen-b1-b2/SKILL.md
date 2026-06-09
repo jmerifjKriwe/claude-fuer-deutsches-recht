@@ -130,4 +130,3 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
-

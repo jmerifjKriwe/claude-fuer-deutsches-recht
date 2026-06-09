@@ -45,4 +45,3 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 - `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
 - `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
 - `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
-

@@ -1,6 +1,6 @@
 ---
 name: redaktionsvertrag-freelancer-und-arbeitnehmer
-description: "Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr..."
 ---
 
 # Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer
@@ -127,4 +127,3 @@ Verlage beschäftigen **Redakteure, Lektoren, Übersetzer, Fotografen und Grafik
 - **KSA-Berechnungssheet**: Honorarsumme × Abgabesatz
 - **Nutzungsrechts-Klausel**: Standardformulierung für Freelancer-Verträge
 - **Statusfeststellungsantrag-Briefing** für DRV
-

@@ -150,4 +150,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kana
 Stand: 05/2026. DBA-Kanada 19.04.2001, BGBl. 2002 II S. 670, in Kraft 28.03.2002. Dividenden 5/15%, Zinsen 10%, Lizenzen 10%, Branch Profits Tax max. 5% (Art. 10 Abs. 6). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

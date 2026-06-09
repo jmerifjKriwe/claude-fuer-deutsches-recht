@@ -1,6 +1,6 @@
 ---
 name: wertveraenderung-und-stichtag
-description: "Bei wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB."
+description: "Bei wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvortei..."
 ---
 
 # Wertveränderung und Bewertungsstichtag
@@ -83,4 +83,3 @@ Bei Wertfragen keine Scheingenauigkeit: Bewertungsbandbreite, Methode und Belege
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

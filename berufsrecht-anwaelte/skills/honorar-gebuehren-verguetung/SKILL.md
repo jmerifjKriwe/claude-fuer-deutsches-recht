@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - §§ 3, 4 RVG
 - § 13 RVG (Wertgebühren)
 - VV RVG
-

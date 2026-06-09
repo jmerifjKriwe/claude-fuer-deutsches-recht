@@ -47,4 +47,3 @@ description: "PrALR: Normkarte Altrecht in heutiger Akte im Preußisches Allgeme
 1. Wann begruendet?
 2. Welches Recht?
 3. Heute Ablöse moeglich?
-

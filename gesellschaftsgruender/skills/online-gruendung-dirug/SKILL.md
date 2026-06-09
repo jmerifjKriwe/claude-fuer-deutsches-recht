@@ -1,6 +1,6 @@
 ---
 name: online-gruendung-dirug
-description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz) im Gesellschaftsgruender."
+description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individ..."
 ---
 
 # Online-Gründung nach DiRUG
@@ -141,4 +141,3 @@ NACH BEURKUNDUNG
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Anmeldung nach Beurkundung
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlung nach Online-Gründung
 - `gesellschaftsgruender-gmbh-vorbereitung` — Vorbereitung vor Notartermin
-

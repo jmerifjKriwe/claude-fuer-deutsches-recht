@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt. Normen: JVEG. Prüfraster: Einordnung Personenkategorie, aktueller Verfahrensschritt, Delegierung. Output: Navigationshinweis zum richtigen JVEG-Skill. Abgrenzung: kein inhaltlicher Berechnungs-Skill im Jveg Kostenpruefer."
+description: "Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt. Normen: JVEG. Prüfraster: Einordnung Personenkategorie, aktueller Verfahrensschritt, Delegierung. Output: Navigationshinweis zum richtigen JVEG-Skill. Abgrenzung: kein inhaltlicher Bere..."
 ---
 
 # JVEG-Kommandocenter
@@ -68,4 +68,3 @@ Vollständige Kostenlandkarte mit Normenzuordnung, Belegstatus und Skill-Routing
 ## Leitplanken
 - Kostenlandkarte immer zuerst; keine Position ohne Normbezug.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

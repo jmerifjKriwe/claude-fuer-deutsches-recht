@@ -1,6 +1,6 @@
 ---
 name: output-pruefdokument-ki-vo-mit-warnhinweisen
-description: "Erzeugt das abschliessende KI-VO-Pruefdokument mit Warnhinweisen, Tatsachenbasis und dokumentierbarer Begruendung. Deckt Art. 3 KI-System-Vermerk, Zweckbestimmung, GPAI/Chatbot-Abgrenzung, Art. 6 Abs. 2/Anhang III, Art. 6 Abs. 3-Rueckausnahme, Betreiber-Off-label-Nutzung, Pflichten, offene Punkte und Re-Evaluation ab. Output: strukturiertes Memo/Word/PDF für Compliance-Akte, Vorstand, Rechtsabteilung oder Kanzlei."
+description: "Erzeugt das abschliessende KI-VO-Pruefdokument mit Warnhinweisen, Tatsachenbasis und dokumentierbarer Begruendung. Deckt Art. 3 KI-System-Vermerk, Zweckbestimmung, GPAI/Chatbot-Abgrenzung, Art. 6 Abs. 2/Anhang III, Art. 6 Abs. 3-Rueckausnahme, Betreiber-Off-label-Nutzung, Pflichten, offene Punkte..."
 ---
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen
@@ -136,4 +136,3 @@ Empfohlene nächste Schritte:
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Quellenstand und Leitlinienlage sind vor Außenverwendung zu aktualisieren. Keine Rechtsberatung.
-

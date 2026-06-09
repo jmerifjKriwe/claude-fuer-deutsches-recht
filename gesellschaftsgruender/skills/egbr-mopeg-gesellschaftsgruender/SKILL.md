@@ -1,6 +1,6 @@
 ---
 name: egbr-mopeg-gesellschaftsgruender
-description: "GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB im Gesellschaftsgruender."
+description: "GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgre..."
 ---
 
 # eGbR und GbR nach MoPeG 2024
@@ -129,4 +129,3 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - `gesellschaftsgruender-handelsregister-anmeldung` — bei Umwandlung in OHG
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte
 - `gesellschaftsgruender-kommandocenter` — Gesamtablauf
-

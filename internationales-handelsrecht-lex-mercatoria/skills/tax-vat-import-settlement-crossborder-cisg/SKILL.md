@@ -52,4 +52,3 @@ Grenzüberschreitende Warenlieferungen haben Umsatzsteuer- und Zollkonsequenzen.
 ## Quellenregel
 
 UStG §§ 4, 6, 13b: gesetze-im-internet.de. MwStSystRL Art. 138: eur-lex.europa.eu. OECD-Verrechnungspreisleitlinien: oecd.org. AStG §§ 1, 1a: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
-

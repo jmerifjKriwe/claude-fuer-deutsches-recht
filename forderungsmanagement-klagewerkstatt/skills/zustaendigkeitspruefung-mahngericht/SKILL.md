@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung-mahngericht
-description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht § 689 ZPO zentral je Bundesland."
+description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht § 689 ZPO zen..."
 ---
 
 # Zuständigkeitspruefung

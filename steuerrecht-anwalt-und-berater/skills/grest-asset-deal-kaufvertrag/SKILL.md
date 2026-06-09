@@ -53,4 +53,3 @@ description: "Grunderwerbsteuer beim Asset Deal pruefen: Grundstückskauf, Gegen
 ## Beispiel-Mustertext (SPA-Klausel)
 
 > Die Grunderwerbsteuer auf den Erwerb des in Anlage [X] bezeichneten Grundbesitzes trägt der Käufer. Bewegliche Wirtschaftsgüter (Anlage [Y]) sind mit dem darin angegebenen Einzelwert in Höhe von insgesamt EUR [...] bewertet; der Veräußerer steht für die Marktüblichkeit dieser Werte ein. Die Beteiligten zeigen den Erwerb unverzüglich gemäß § 19 GrEStG dem zuständigen Finanzamt an; der Käufer übernimmt die federführende Erstellung der Anzeige.
-

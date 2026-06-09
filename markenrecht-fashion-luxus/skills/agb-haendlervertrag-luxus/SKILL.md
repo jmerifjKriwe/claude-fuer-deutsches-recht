@@ -172,4 +172,3 @@ Quelle: dejure.org. Prufer: Bundle-005-Audit.
 
 - BGH I ZB 22/20
 - BGH I ZR 149/14
-

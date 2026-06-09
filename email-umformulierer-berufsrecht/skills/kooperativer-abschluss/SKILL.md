@@ -69,4 +69,3 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 
 **Vorher:** "Das ist mein letztes Wort in dieser Sache."
 **Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
-

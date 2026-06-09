@@ -106,4 +106,3 @@ DSGVO-konform (Bindestrich)
 - LanguageTool (Open Source), [https://languagetool.org](https://languagetool.org).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Sonderzeichen-Disziplin).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

@@ -57,4 +57,3 @@ Bei Zugang zum öffentlichen Dienst gilt Art. 33 Abs. 2 GG, aber fehlende Verfas
 ## Quellenanker
 
 Bekannte Linien: BVerfG 22.05.1975 - 2 BvL 13/73; BVerfG 12.06.2018 - 2 BvR 1738/12 u.a.; BVerwG 02.12.2021 - 2 A 7.21; BVerwG 10.10.2024 - 2 C 15.23. Vor Nutzung live verifizieren.
-

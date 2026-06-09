@@ -73,4 +73,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Qualitätsgate
 
 Keine erfundenen Inhalte. Wenn ein Scan unleserlich ist, ausdrücklich sagen, welche Passage fehlt. Bei rechtlich tragenden Aussagen Normtext und Formularstand live prüfen.
-

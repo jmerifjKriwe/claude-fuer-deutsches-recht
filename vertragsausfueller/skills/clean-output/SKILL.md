@@ -1,6 +1,6 @@
 ---
 name: clean-output
-description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Prüfraster alle Platzhalter aufgelöst, Anlagenverzeichnis vollständig, Format-Konsistenz geprüft, Track Changes entfernt. Output Clean-Entwurf mit Ausfüllprotokoll, Annahmenregister und offener-Punkte-Liste. Abgrenzung zu Quality-Gate für Vorabprüfung und zu Track-Changes-Skill."
+description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Prüfraster alle..."
 ---
 
 # Clean-Output
@@ -54,4 +54,3 @@ description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: 
 
 ---
 <!-- AUDIT 27.05.2026: BGH VII ZR 37/17 (NJW 2018, 375) auf dejure.org nicht auffindbar (NOT_FOUND), NJW 2018, 375 ebenfalls nicht in Datenbank — Eintrag ersatzlos geloescht. -->
-

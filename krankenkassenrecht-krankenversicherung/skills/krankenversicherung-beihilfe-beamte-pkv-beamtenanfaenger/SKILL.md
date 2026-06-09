@@ -88,4 +88,3 @@ Beamte finanzieren ihre Krankenversorgung aus zwei Quellen: **staatliche Beihilf
 - [BVerwG Beihilfe-Entscheidungen](https://www.bverwg.de/entscheidungen)
 - [PKV-Verband Beamte](https://www.pkv.de/wissen/beihilfe/)
 - [dejure.org BBhV](https://dejure.org/gesetze/BBhV)
-

@@ -1,6 +1,6 @@
 ---
 name: workplace-safety-factory
-description: "Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China im Festlandchina Wirtschaftsverkehr."
+description: "Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierun..."
 ---
 
 # Arbeitssicherheit Fabriken China: Work Safety Law und LkSG
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

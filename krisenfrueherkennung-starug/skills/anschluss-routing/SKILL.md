@@ -64,4 +64,3 @@ Dieses Anschluss-Routing für **Krisenfrueherkennung Starug** wählt nach dem er
 - BGH IX ZR 56/22
 - BGH II ZR 206/22
 - BGH IV ZR 66/25
-

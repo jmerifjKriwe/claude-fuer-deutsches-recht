@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-streitstand-ohne-blindzitat
-description: "Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung im Internationales Handelsrecht Lex Mercat..."
 ---
 
 # Streitstandsdarstellung ohne Blindzitate
@@ -48,4 +48,3 @@ Internationale Handelsfälle enthalten viele ungelöste Rechtsfragen. Eine seri�
 - Streitstandsschema: Position A [Quelle 1, 2] vs. Position B [Quelle 3, 4] vs. Position C [...]
 - CISG-online.ch: Länderrechtsprechung nach Art. 35 filtern; Divergenzen dokumentieren
 - Schiedssprüche: jusmundi.com + CENTRAL trans-lex.org für Schiedsgerichtsstandpunkte
-

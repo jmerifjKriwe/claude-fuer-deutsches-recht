@@ -1,6 +1,6 @@
 ---
 name: eigentumsnutzung-sachenrechtliche-zuweisung
-description: "Bei fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis Eingriffskondiktion mit Wertersatz für Nutzung. Abgrenzung: nicht Schadensersatz § 823 BGB."
+description: "Bei fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrund..."
 ---
 
 # Eigentumsnutzung und sachenrechtliche Zuweisung
@@ -96,4 +96,3 @@ Anwendungsfall: fremdes Eigentum wirtschaftlich genutzt wurde. Der Skill zwingt 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

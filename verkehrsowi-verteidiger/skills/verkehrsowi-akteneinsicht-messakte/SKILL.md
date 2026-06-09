@@ -99,4 +99,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Unvollstaendige Messakte immer schriftlich ruegen.
 - Verweigerung — Beschwerde sofort; nicht akzeptieren.
 - Anwaltliche Endkontrolle bei jedem Schritt.
-

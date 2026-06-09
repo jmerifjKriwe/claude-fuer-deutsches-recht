@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-estrich-feuchteprotokoll
-description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreife..."
 ---
 
 # Bauueberwachung Estrich und Feuchteprotokoll
@@ -87,4 +87,3 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
-

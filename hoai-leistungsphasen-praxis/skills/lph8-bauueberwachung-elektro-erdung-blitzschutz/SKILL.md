@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-elektro-erdung-blitzschutz
-description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nac..."
 ---
 
 # Bauueberwachung Elektro Erdung und Blitzschutz
@@ -87,4 +87,3 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 823 Schadensersatz](https://www.gesetze-im-internet.de/bgb/__823.html)
-

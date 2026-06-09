@@ -72,4 +72,3 @@ description: "PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Ans
 2. Welche Systemstelle?
 3. Subsumtion?
 4. Heutiger Vergleich?
-

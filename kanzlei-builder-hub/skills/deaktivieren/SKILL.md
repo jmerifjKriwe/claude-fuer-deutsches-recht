@@ -154,4 +154,3 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 > Detaillierte Deaktivierungs-, Deinstallations- und Reaktivierungs-Arbeitsabläufe liegen im `skill-verwalter`-Referenz-Skill — vor substanzieller Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

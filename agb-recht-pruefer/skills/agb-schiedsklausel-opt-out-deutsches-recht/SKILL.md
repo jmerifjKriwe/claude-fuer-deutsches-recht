@@ -1,6 +1,6 @@
 ---
 name: agb-schiedsklausel-opt-out-deutsches-recht
-description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen für den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell."
+description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend..."
 ---
 
 # Agb Schiedsklausel Opt Out Deutsches Recht
@@ -50,4 +50,3 @@ description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie 
 4. Streitwert hoch genug, um Schiedsverfahren wirtschaftlich zu rechtfertigen?
 5. Vollstreckbarkeit im Zielstaat (NYC 1958)?
 6. § 307 BGB-Kontrolle der Klausel (kein unangemessenes Hindernis für den Rechtsweg)?
-

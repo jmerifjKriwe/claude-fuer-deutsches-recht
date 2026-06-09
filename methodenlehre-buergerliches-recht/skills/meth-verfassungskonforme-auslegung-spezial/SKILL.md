@@ -1,6 +1,6 @@
 ---
 name: meth-verfassungskonforme-auslegung-spezial
-description: "Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumdeutung übergeht. Geeignet für alle Fälle mit Grundrechtsbezug im Privatrecht."
+description: "Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumde..."
 ---
 
 # Verfassungskonforme Auslegung: Methodik und Grenzen
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

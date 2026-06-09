@@ -71,4 +71,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Leitentscheidungen
 
 - BGH XI ZR 39/04
-

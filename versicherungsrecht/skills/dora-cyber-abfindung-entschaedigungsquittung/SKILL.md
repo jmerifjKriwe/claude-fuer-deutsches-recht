@@ -41,4 +41,3 @@ DORA (VO (EU) 2022/2554); VAG; BaFin/EIOPA/ESA-Regeln live prüfen; DSGVO/NIS2-S
 
 - cyberversicherung-ransomware-sanktionsrecht
 - solvency-ii-scr-orsa-aufsichtsrecht
-

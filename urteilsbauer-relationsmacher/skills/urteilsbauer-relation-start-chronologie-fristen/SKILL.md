@@ -1,6 +1,6 @@
 ---
 name: urteilsbauer-relation-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Urteilsbauer Relationsmacher."
+description: "Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill ei..."
 ---
 
 # Urteilsbauer und Relationsmacher — Allgemein
@@ -228,4 +228,3 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - Stand: 05/2026
 - ZPO, FamFG, CISG, Rom I-VO, Rom II-VO in aktuell geltender Fassung
 - § 511 Abs. 2 Nr. 1 ZPO: Berufungsbeschwer 1.000 EUR (Anhebung durch Justizstandort-Staerkungsgesetz, ab 01.01.2026)
-

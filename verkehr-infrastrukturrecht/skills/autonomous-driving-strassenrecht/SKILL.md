@@ -1,6 +1,6 @@
 ---
 name: autonomous-driving-strassenrecht
-description: "Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefraster für Kommunen mit Pilotvorhaben im Verkehr Infrastrukturrecht."
+description: "Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefraster für Kommunen mit Pilotvorhaben im Verkehr Infrastruktur..."
 ---
 
 # Autonomes Fahren: Strassenrecht
@@ -69,4 +69,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ### Leitentscheidungen
 
 - BGH VI ZR 281/13
-

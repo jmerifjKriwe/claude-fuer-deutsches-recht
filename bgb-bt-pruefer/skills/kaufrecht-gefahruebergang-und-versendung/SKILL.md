@@ -69,4 +69,3 @@ description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und 
 - https://www.gesetze-im-internet.de/bgb/__446.html
 - https://www.gesetze-im-internet.de/bgb/__447.html
 - https://www.gesetze-im-internet.de/bgb/__474.html
-

@@ -1,6 +1,6 @@
 ---
 name: elan-formular-portal-einreichungslogik
-description: "Elan: Formular, Portal und Einreichungslogik im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Elan: Formular, Portal und Einreichungslogik im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik
@@ -77,4 +77,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Seitenzahl-Überschreitung der Projektbeschreibung führt zur Formalrüge / Aufforderung zur Kürzung.
 - Lebenslauf länger als drei Seiten oder mit Publikationsdoppelung in Anlage.
 - Mitzeichnung der Einrichtung fehlt am Stichtag - Antrag wird ohne Wirkung archiviert.
-

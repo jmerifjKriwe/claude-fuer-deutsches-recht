@@ -78,4 +78,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Leitentscheidungen
 
 - BGH XII ZB 174/18
-

@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtsverfahren-modus-terminkalender
-description: "Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG) im Aktenauszug Gerichtsverfahren."
+description: "Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leits..."
 ---
 
 # Arbeitsgerichtsverfahren-Modus (ArbGG)
@@ -115,4 +115,3 @@ Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
 
 ---
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
-

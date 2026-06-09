@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **§ 12 JVEG Vorschuss:** Vorschuss vor Tätigkeit beantragen; bei Nichtbewilligung Tätigkeitsablehnung möglich.
 - **Risikofaktoren:** unvollständige Belege (§ 7 JVEG Nachweis Fahrtkosten), uneinheitliche Stundensätze, Sachverständigentyp nicht passend zur Honorargruppe, fehlender Zeitnachweis (§ 8 Abs. 1 Nr. 1 JVEG Aufzeichnungspflicht).
 - Falle: § 2 Abs. 1 JVEG-Frist mit der Anspruchsverjährung (§ 195 BGB drei Jahre) verwechseln — JVEG-Frist ist 3 Monate, nicht 3 Jahre.
-

@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Darlehen Finanzierung AGB: prüft typische
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

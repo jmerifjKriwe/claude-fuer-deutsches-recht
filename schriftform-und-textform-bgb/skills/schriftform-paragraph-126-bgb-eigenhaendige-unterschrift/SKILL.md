@@ -1,6 +1,6 @@
 ---
 name: schriftform-paragraph-126-bgb-eigenhaendige-unterschrift
-description: "Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Prüfung und Empfehlung für Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger im Schriftform Und Textform Bgb."
+description: "Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift un..."
 ---
 
 # Schriftform § 126 BGB — Eigenhändige Unterschrift
@@ -100,4 +100,3 @@ der Abrede nach § 125 Satz 1 BGB.
 - **Nachträgliche Anlagen**: Werden dem unterschriebenen Vertrag nachträglich Anlagen ohne erneute Unterschrift hinzugefügt, ist deren Einbeziehung zweifelhaft.
 - **Schriftform bei Kündigung Arbeitsvertrag**: § 623 BGB verlangt zwingend Schriftform — hier ist auch § 126 Abs. 3 BGB (qES-Ersatz) ausgeschlossen, da spezialgesetzliche Regelungen des Arbeitsrechts entgegenstehen können (→ Skill `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`).
 - **Kaufmännische Bestätigungsschreiben**: Schriftform des § 126 BGB ist nicht mit kaufmännischem Schriftformerfordernis zu verwechseln.
-

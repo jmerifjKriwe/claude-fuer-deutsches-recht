@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-vs-haus-fussnotenstil
-description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau) im Hausarbeitenmacher."
+description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Erge..."
 ---
 
 # Gutachtenstil und Urteilsstil
@@ -232,4 +232,3 @@ Lies Deinen Text laut. Wenn er
 - `subsumtion-schritt-für-schritt` — Subsumtions-Übung
 - `gliederung-mit-tiefenstruktur` — Gliederung erstellen
 - `meinungsstreit-darstellen` — Bei Streit-Punkten
-

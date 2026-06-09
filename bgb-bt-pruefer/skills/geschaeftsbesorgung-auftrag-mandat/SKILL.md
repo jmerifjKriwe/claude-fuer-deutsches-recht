@@ -65,4 +65,3 @@ description: "Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und S
 - https://www.gesetze-im-internet.de/bgb/__675.html
 - https://www.gesetze-im-internet.de/bgb/__662.html
 - https://www.gesetze-im-internet.de/bgb/__667.html
-

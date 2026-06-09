@@ -1,6 +1,6 @@
 ---
 name: ecommerce-marketplace
-description: "Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB im Handelsvertreterrecht."
+description: "Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichs..."
 ---
 
 # E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [P2B-Verordnung auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-

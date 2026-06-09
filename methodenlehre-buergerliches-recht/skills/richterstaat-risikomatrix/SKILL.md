@@ -1,6 +1,6 @@
 ---
 name: richterstaat-risikomatrix
-description: "Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, strategische Entscheidungen unter Berücksichtigung richterlicher Gestaltungsmacht zu treffen. Dabei werden verfassungsrechtliche Grenzen des Richterstaats methodisch einbezogen."
+description: "Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, str..."
 ---
 
 # Richterstaat-Risikomatrix
@@ -83,4 +83,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

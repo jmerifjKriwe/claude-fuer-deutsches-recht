@@ -57,4 +57,3 @@ Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Tei
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23 und § 24 WEG über https://www.gesetze-im-internet.de/woeigg/__23.html live verifizieren. BGH V ZR 33/24 über https://dejure.org abrufen. Zoom- und Teams-Funktionen ändern sich mit Software-Updates — vor jeder Versammlung testen.
-

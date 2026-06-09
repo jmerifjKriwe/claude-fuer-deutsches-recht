@@ -155,4 +155,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - assets/templates/spa-gliederung-standard.md
 - assets/templates/apa-asset-deal-template.md
-

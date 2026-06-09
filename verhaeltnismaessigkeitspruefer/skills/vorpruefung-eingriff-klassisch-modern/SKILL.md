@@ -53,4 +53,3 @@ Die Eingriffsschwere bestimmt mit, wie streng spaeter Erforderlichkeit und Angem
 - BVerfGE 105, 252 (Glykol-Warnung, Informationshandeln als Eingriff)
 - BVerfGE 105, 279 (Osho-Beschluss, staatliche Sektenwarnung)
 - BVerfGE 152, 68 (Hartz-IV-Sanktionen, Existenzminimum)
-

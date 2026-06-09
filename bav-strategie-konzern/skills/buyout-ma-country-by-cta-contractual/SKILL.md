@@ -1,6 +1,6 @@
 ---
 name: buyout-ma-country-by-cta-contractual
-description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung im Bav Strategie Konzern."
+description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV..."
 ---
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
@@ -222,4 +222,3 @@ EMPFEHLUNG:
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
 
 ## Ergaenzende Rechtsprechung (v14.2)
-

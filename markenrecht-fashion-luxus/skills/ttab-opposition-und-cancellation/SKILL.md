@@ -1,6 +1,6 @@
 ---
 name: ttab-opposition-und-cancellation
-description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr im Markenrecht Fashion Luxus."
+description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Con..."
 ---
 
 # TTAB — Trademark Trial and Appeal Board
@@ -168,4 +168,3 @@ Bevor die Opposition eingelegt wird, klaere:
 > **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.
-

@@ -52,4 +52,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Minderheitenschutz:** Insolvenzplan § 251 InsO (Schlechterstellungstest gegenüber Regelverfahren), StaRUG § 64 StaRUG (Schlechterstellungstest gegenüber Best-Alternative-to-Negotiated-Agreement / Nicht-Plan-Szenario).
 - **Cross-Class Cram-Down:** StaRUG §§ 26–28 StaRUG verlangt absolute Vorrangregel (§ 27 StaRUG) — Eigenkapital nur, wenn Gläubiger voll bedient oder zustimmen.
 - **Steuerlich:** Sanierungsgewinn § 3a EStG (gerichtsbestätigter Insolvenzplan, gerichtsbestätigter Restrukturierungsplan oder vergleichbare Sanierung) — frühzeitig Lohnsteuerhilfe/Steuerberater einbinden.
-

@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Wohnraummiete AGB: prüft typische AGB-Ris
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

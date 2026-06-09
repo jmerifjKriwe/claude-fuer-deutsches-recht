@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: sortiert Beanstandetes Statement (Print/Online), Gegendarstellungsverlangen, Unterlassungserklärung, prüft Datum, Absender, Frist und Beweiswert (Screenshots mit Zeitstempel, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Dokumentenintake für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: sortiert Beanstandetes Statement (Print/Online), Gegendarstellungsverlangen, Unterlassungserklärung, prüft Datum, Absender, Frist und Beweiswert (Screenshots mit Zeitstempel, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimn..."
 ---
 
 # Dokumentenintake
@@ -54,4 +54,3 @@ Dieser Dokumenten-Intake für **Meinungspruefer** ordnet Anlagen, Registerdaten,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

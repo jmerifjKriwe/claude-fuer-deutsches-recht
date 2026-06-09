@@ -126,4 +126,3 @@ Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke d
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `takedown-anweisung` – Domain-Takedown
 - `spezial-patentscreening-livequellen-und-rechtsprechungscheck` – Patentrecherche
-

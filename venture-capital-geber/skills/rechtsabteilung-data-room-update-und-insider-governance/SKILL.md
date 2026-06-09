@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-data-room-update-und-insider-governance
-description: "Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerk..."
 ---
 
 # Rechtsabteilung: Data Room Update und Insider-Governance
@@ -42,4 +42,3 @@ Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt.
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

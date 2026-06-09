@@ -79,4 +79,3 @@ Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-p
 ## Grenzen
 
 Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
-

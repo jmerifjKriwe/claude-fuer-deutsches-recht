@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Kostenhinweis (§ 49b Abs. 5 BRAO):** voraussichtliche Gebühren nach RVG-VV oder Honorarvereinbarung; bei Streitwertberechnung GKG/RVG live prüfen.
 - **Unterschrift:** Berufsbezeichnung (Rechtsanwalt/Fachanwalt für ...), Kanzleidaten, ggf. Postulationsfähigkeit (§ 78 ZPO).
 - Falle: Erfolgsversprechen jenseits der vertretbaren Aussichten verletzt § 43a Abs. 3 BRAO.
-

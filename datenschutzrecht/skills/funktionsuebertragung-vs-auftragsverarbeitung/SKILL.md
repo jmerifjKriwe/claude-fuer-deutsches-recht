@@ -1,6 +1,6 @@
 ---
 name: funktionsuebertragung-vs-auftragsverarbeitung
-description: "Abgrenzung Funktionsuebertragung gegen Auftragsverarbeitung Art. 28 DSGVO bei Berufsgeheimnistraegern Inkasso Steuerberatung Wirtschaftspruefung und externe Rechtsdienstleistung. Wann handelt der Dritte als eigener Verantwortlicher und wann als Auftragsverarbeiter. § 203 StGB § 43a Abs. 2 BRAO. Output: Pruefraster Rollenzuordnung."
+description: "Abgrenzung Funktionsuebertragung gegen Auftragsverarbeitung Art. 28 DSGVO bei Berufsgeheimnistraegern Inkasso Steuerberatung Wirtschaftspruefung und externe Rechtsdienstleistung. Wann handelt der Dritte als eigener Verantwortlicher und wann als Auftragsverarbeiter. § 203 StGB § 43a Abs. 2 BRAO. O..."
 ---
 
 # Funktionsuebertragung versus Auftragsverarbeitung
@@ -102,4 +102,3 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - § 57 Abs. 1 StBerG; § 43 Abs. 1 WPO.
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021), edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-

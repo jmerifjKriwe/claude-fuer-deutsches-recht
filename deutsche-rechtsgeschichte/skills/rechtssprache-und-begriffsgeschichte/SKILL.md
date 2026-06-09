@@ -46,4 +46,3 @@ Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volks
 - BGB-Sprache: Mugdan Bd. I und gesetze-im-internet.de
 - Koselleck Geschichtliche Grundbegriffe (Hrsg. Brunner/Conze/Koselleck, 8 Bde., 1972-1997): Band und Stichwort
 - GG Art. 103 Abs. 2: gesetze-im-internet.de; BVerfGE dazu: bverfg.de
-

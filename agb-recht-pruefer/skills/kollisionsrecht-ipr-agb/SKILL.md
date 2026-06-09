@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Kollisionsrecht IPR AGB: sortie
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

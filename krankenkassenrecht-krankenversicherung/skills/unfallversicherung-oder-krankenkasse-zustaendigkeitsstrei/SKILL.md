@@ -88,4 +88,3 @@ Bei Arbeitsunfällen und Berufskrankheiten ist die Berufsgenossenschaft (BG) zus
 - [BSG B 2 U 23/14 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [DGUV – Deutsche Gesetzliche Unfallversicherung](https://www.dguv.de)
 - [dejure.org § 8 SGB VII](https://dejure.org/gesetze/SGB_VII/8.html)
-

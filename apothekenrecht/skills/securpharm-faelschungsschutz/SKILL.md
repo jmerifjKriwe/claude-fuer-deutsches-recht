@@ -102,4 +102,3 @@ Eingaben:
 - Securpharm GmbH: Nutzervereinbarung NMVS (vom Anwender zu verifizieren — laufende technische Updates).
 - BfArM-Bekanntmachungen zu Fälschungsfunden (Spotsystem).
 - ABDA-Merkblätter zur Securpharm-Praxis (vom Anwender zu verifizieren).
-

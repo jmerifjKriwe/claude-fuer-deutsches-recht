@@ -1,6 +1,6 @@
 ---
 name: weg-beschluss-anfechten
-description: "Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmäßige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Prüfung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG im Mietrecht."
+description: "Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Mae..."
 ---
 
 # WEG-Beschluss anfechten
@@ -209,4 +209,3 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 **Gesetzeslage 2026:** WEMoG vom 16.10.2020 (BGBl. I 2187) in Kraft seit 01.12.2020 — Verfahrensrecht §§ 43-45 WEG, materielle Anforderungen §§ 18-21 WEG (bauliche Veraenderungen, Verwaltung).
 
 Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
-

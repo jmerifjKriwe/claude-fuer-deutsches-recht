@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-historische-compliance-dokumentation-aktenfuehrung
-description: "Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung."
+description: "Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsa..."
 ---
 
 # Historische Compliance-Dokumentation und Aktenführung
@@ -82,4 +82,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

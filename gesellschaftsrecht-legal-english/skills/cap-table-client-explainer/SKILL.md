@@ -47,4 +47,3 @@ Ein Cap Table ist eine wirtschaftliche Beteiligungsübersicht. Die Gesellschafte
 - Fully diluted Prozentwerte in Registerkontext übernehmen.
 - Nennbetrag und wirtschaftliche Beteiligung vermischen.
 - VSOP wie echte Anteile behandeln.
-

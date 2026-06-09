@@ -51,4 +51,3 @@ Komplexe internationale Handelsfälle erfordern strukturiertes Case Management: 
 ## Quellenregel
 
 CISG Art. 39 Abs. 2: uncitral.un.org. ZPO § 1059: gesetze-im-internet.de. ICC Schiedskosten: iccwbo.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.
-

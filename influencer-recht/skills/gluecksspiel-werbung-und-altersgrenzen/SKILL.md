@@ -73,4 +73,3 @@ Glücksspiel-Werbung durch Influencer ist stark reguliert und teilweise verboten
 - Pflichthinweis-Text für GlüStV-konforme Werbung
 - Lizenz-Verifikationsprotokoll
 - Ablehnungsschreiben an Glücksspielanbieter
-

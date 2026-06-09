@@ -1,6 +1,6 @@
 ---
 name: dokumenten-cockpit-schiff
-description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender im Seerecht Schifffahrtsrecht."
+description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumente..."
 ---
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
@@ -81,4 +81,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
 - SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
-

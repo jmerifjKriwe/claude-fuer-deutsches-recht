@@ -152,4 +152,3 @@ Unterschrift Pruefer: ____________________
 - BfDI- und Landesbehoerden-Pruefberichte (live abzurufen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

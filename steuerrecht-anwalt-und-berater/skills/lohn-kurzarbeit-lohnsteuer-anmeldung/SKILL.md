@@ -1,6 +1,6 @@
 ---
 name: lohn-kurzarbeit-lohnsteuer-anmeldung
-description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung im Steuerrecht Anwalt Und Berater."
+description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnun..."
 ---
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression
@@ -121,4 +121,3 @@ Stand: 05/2026.
 - BA-Merkblatt KUG.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BBG RV 2025 96.600 EUR eingesetzt), 1 ersetzt (LSt-Bescheinigungszeile Pruefhinweis ohne Marker) -->
-

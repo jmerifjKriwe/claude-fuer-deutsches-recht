@@ -90,4 +90,3 @@ dem Schutz des Minderjährigen vor unüberschaubaren Verpflichtungen durch die E
 - Reichweite der Ermächtigung: Welche Geschäfte sind damit erfasst?
 - Ausnahmen: Grundstückserwerb und ähnlich weitreichende Verpflichtungen?
 - Widerruf der Ermächtigung: Wirkung für laufende Verträge?
-

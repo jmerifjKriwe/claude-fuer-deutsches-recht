@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-werk-herstellerrecht
-description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenstellung zwischen Datenbankwerk (§ 4 Abs. 2 UrhG) und sui-generis-Herstellerrecht (§§ 87a-87e UrhG / RL 96/9/EG). Erhebt Sachverhalt, klärt Schutzrichtung, benennt EuGH-Leitentscheidungen (BHB/William Hill C-203/02; Apis/Lakorda C-545/07) und liefert Prüfplan sowie ersten Output-Entwurf.'"
+description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenstellung zwischen Datenbankwerk (§ 4 Abs. 2 UrhG) und sui-generis-Herstellerrecht (§§ 87a-87e UrhG / RL 96/9/EG). Erhebt Sachverhalt, klärt Schutzrichtung, benennt EuGH-Leitentscheidungen (BHB/William Hill C-203/02; Apis/Lakorda C-545/..."
 ---
 
 # Kaltstart Datenbankrecht: Werk oder Herstellerrecht?
@@ -55,4 +55,3 @@ description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenst
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
-

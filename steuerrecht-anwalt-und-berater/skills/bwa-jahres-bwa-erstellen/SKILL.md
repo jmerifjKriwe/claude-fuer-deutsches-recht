@@ -1,6 +1,6 @@
 ---
 name: bwa-jahres-bwa-erstellen
-description: "Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-PDF im Steuerrecht Anwalt Und Berater."
+description: "Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-..."
 ---
 
 # Jahres-BWA — Ergaenzung zum Jahresabschluss
@@ -150,4 +150,3 @@ Stand: 05/2026.
 - StaRUG § 102.
 - IDW PS 480, IDW PS 305, DRS 17.
 - DStV-Praxisleitfaden.
-

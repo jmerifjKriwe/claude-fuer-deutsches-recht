@@ -140,4 +140,3 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nic
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen oft Sachgrund — aber nicht unbegrenzt.
-

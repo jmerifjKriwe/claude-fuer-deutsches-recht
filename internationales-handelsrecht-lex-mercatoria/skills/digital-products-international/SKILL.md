@@ -48,4 +48,3 @@ Digitale Produkte (Software, Datenbanken, KI-Modelle) stellen besondere Herausfo
 - AI-Act-Compliance: Risikoklassifikation vor Markteinführung; CE-Kennzeichnung für Hochrisiko
 - SaaS-Vertrag: Service Level Agreements (SLA), Datenschutz (DPA), Exit-Strategie
 - Open-Source-Lizenz-Audit: SBOM (Software Bill of Materials) für Lizenzkonformität
-

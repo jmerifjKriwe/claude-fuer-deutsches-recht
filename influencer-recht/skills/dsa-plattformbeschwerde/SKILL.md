@@ -69,4 +69,3 @@ Der Digital Services Act (DSA) stärkt Creator-Rechte gegenüber Plattformen erh
 - Außergerichtlicher Streitbeilegungsantrag (Art. 21)
 - Schadensdokumentation-Vorlage
 - Einstweilige-Verfügungs-Antrag (Muster)
-

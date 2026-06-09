@@ -107,4 +107,3 @@ description: "IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Kl
 - **Datenlöschungs-Zertifikat**: Mit Gerätedaten und Methode
 - **Verrechungs-Tabelle**: Restbuchwert-Berechnung bei Midterm Upgrade
 - **WEEE-Compliance-Checkliste**: Altgeräte-Rücknahme und Recycling
-

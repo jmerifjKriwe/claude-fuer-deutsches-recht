@@ -74,4 +74,3 @@ Der Jahresabschluss eines Creators ist komplexer als bei klassischen Gewerbetrei
 - Steueroptimierungs-Memo (IAB, Verluste, KSK)
 - Steuerberater-Briefing-Vorlage
 - EÜR-Vollständigkeitscheck
-

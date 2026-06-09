@@ -1,6 +1,6 @@
 ---
 name: strafakte-quality-gate
-description: "Quality-Gate für eine aufbereitete Strafakte: Vollstaendigkeit (alle Baende, Aktenblattzahl), Konsistenz (Personenverzeichnis gegen Anklageschrift), Suchbarkeit (OCR, Volltext), Sensibilitaet (verschluss-Sachen separat). Output Pruefliste mit Befund je Punkt und Naechster-Schritt-Empfehlung im Strafrechts-Aktenaufbereiter."
+description: "Quality-Gate für eine aufbereitete Strafakte: Vollstaendigkeit (alle Baende, Aktenblattzahl), Konsistenz (Personenverzeichnis gegen Anklageschrift), Suchbarkeit (OCR, Volltext), Sensibilitaet (verschluss-Sachen separat). Output Pruefliste mit Befund je Punkt und Naechster-Schritt-Empfehlung im St..."
 ---
 
 # Strafakte: Quality Gate
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

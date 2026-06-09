@@ -80,4 +80,3 @@ Dieser Skill stellt sicher, dass Whistleblower-Meldungen rechtskonform entgegeng
 - **Rückmeldung an Hinweisgeber** nach 3 Monaten (Mustertext)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -65,4 +65,3 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 1. Wann wurde die Ehe geschlossen? — vor 1900 ALR, ab 1900 BGB.
 2. Wann der Erbfall? — entsprechend.
 3. Heute lebende Frage? Direkt BGB.
-

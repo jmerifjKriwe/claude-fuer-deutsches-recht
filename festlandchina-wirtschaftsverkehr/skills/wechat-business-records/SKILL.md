@@ -1,6 +1,6 @@
 ---
 name: wechat-business-records
-description: "WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept im Festlandchina Wirtschaftsverkehr."
+description: "WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Complian..."
 ---
 
 # WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

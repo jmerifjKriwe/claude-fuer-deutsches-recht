@@ -34,4 +34,3 @@ Konkret zu prüfen:
 - § 199 StPO (Eröffnungsentscheidung)
 - BGHSt 40, 44 (Umgrenzungsfunktion)
 - Nr. 110 ff. RiStBV
-

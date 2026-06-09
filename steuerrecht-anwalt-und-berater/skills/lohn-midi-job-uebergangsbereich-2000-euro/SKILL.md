@@ -98,4 +98,3 @@ Stand: 05/2026.
 - Uebergangsbereich 2025: 556,01 EUR bis 2.000 EUR (§ 20 Abs. 2 SGB IV; Obergrenze seit 01.01.2023 stabil; Untergrenze dynamisch mit Mindestlohn; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (Grenzen 2025 eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->
-

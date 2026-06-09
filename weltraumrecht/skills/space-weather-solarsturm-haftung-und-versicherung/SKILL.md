@@ -1,6 +1,6 @@
 ---
 name: space-weather-solarsturm-haftung-und-versicherung
-description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer im Weltraumrecht."
+description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zu..."
 ---
 
 # Space Weather: Solarsturm-Haftung und Versicherung
@@ -57,4 +57,3 @@ description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche
 5. Versicherungsschutz, Sublimit, Wartefrist?
 6. KRITIS- oder NIS2-Meldepflicht ausgeloest?
 7. Force-Majeure-Klausel in welcher Fassung?
-

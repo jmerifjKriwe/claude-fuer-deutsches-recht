@@ -1,6 +1,6 @@
 ---
 name: onboarding-beratungsstruktur
-description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage)."
+description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatri..."
 ---
 
 # Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung
@@ -51,4 +51,3 @@ description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

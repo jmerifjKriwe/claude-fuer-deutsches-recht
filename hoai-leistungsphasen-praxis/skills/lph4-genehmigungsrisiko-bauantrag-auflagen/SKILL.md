@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz,
 3. Rückwirkung auf LPH 2/3/5 markieren.
 4. Kosten- und Terminfolge bestimmen.
 5. Kommunikationsstrategie mit Behörde und Bauherr vorbereiten.
-

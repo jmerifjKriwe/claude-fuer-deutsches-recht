@@ -120,4 +120,3 @@ Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. 
 - **Bibliothekskonditionen-Vorlage**: Preisänderungsmechanismus nach § 7 BuchPrG
 - **Ausnahmen-Protokoll**: Dokumentation aller gewährten Ausnahmen mit Rechtsgrundlage
 - **Abmahnungsrisiko-Ampel**: Grün/Gelb/Rot für jede Kondition
-

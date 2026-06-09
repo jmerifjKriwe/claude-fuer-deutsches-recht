@@ -114,4 +114,3 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG unveraendert.
-

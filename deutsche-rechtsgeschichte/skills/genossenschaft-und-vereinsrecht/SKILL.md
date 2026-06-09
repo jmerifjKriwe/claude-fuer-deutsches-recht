@@ -46,4 +46,3 @@ Das Genossenschaftsrecht ist eine eigenstaendige Erfolgsgeschichte des 19. Jh. H
 - GenG aktuell: gesetze-im-internet.de
 - BGB §§ 21-79: gesetze-im-internet.de; historisch Mugdan Bd. I
 - Gierke Das deutsche Genossenschaftsrecht (4 Bde., 1868-1913): historische Sekundaerquelle
-

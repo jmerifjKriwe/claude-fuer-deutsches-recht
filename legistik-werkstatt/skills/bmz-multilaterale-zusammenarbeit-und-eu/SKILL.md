@@ -1,6 +1,6 @@
 ---
 name: bmz-multilaterale-zusammenarbeit-und-eu
-description: "Sachbereich Multilaterale Zusammenarbeit und EU im Geschaeftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt für die Zukunft.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung)."
+description: "Sachbereich Multilaterale Zusammenarbeit und EU im Geschaeftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt für die Zukunft.); typische Legi..."
 ---
 
 # Multilaterale Zusammenarbeit und EU (BMZ)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

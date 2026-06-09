@@ -64,4 +64,3 @@ A klagt gegen B nach Statuten der Stadt Padua.
 1. Welche Stadt?
 2. Welches Statut?
 3. Ius commune greift?
-

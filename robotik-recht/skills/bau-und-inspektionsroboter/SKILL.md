@@ -85,4 +85,3 @@ Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schwei
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - VO (EU) 2024/1689 (KI-VO).
 - Live-Verifikation auf baua.de, bundesanzeiger.de, eur-lex.europa.eu; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

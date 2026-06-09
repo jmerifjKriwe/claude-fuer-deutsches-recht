@@ -28,4 +28,3 @@ TKG; VwGO; VwVfG; GVG/ZPO; GWB; AEUV Art. 101/102; Rechtsbehelfsbelehrung live p
 
 - tk-verwaltungsrecht-anfechtung-bnetza
 - tk-zivilklage-lg-entgelt-schadensersatz
-

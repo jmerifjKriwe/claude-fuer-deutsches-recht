@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Belegmatrix-Spalten:** Datum, Vorgang, Quelle (Dokument/System), Höhe, Wirkung auf Liquidität, Wirkung auf Bilanz, Annahme falls geschätzt.
 - **Trade-off:** Eine Chronologie aus E-Mails und Notizen ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) schwer; idealerweise mit Buchungsbelegen verknüpfen.
 - **Praxis:** Widersprüche zwischen Liquiditätsplan und Buchhaltung früh markieren — sie kosten im Streit die Prognose.
-

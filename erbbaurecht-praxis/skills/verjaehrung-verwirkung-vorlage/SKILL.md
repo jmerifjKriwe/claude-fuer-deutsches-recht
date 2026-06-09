@@ -53,4 +53,3 @@ Der Skill trennt laufende Leistung, Einmalverstoß, Dauerzustand, Mahnung und st
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

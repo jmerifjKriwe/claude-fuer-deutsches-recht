@@ -45,4 +45,3 @@ A will Vermoegen zu Lebzeiten ueber Tod hinaus verfuegen.
 1. Welche Tafel?
 2. Familienrecht / Erbrecht / Nachbarrecht?
 3. Heutiges Pendant?
-

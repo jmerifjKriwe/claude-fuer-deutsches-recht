@@ -84,4 +84,3 @@ Dieser Skill klärt, unter welchen Bedingungen Arbeitgeber auf BYOD-Geräte zugr
 - **BYOD-Policy-Prüfcheckliste** (Mitbestimmung, Forensik-Klausel, Einwilligung)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -1,6 +1,6 @@
 ---
 name: verhaeltnis-zu-anderen-unionsrechtsakten
-description: "Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience Act Kumulationseffekte Spezialitaet Verweisregelungen Doppelpflichten. Output: Normen-Konflikt-Matrix und Handlungsempfehlung. Abgrenzung zu falsche-wiese-warnung-ki-vo (Abgrenzung bei klaren Verwechslungen) und territorialer-anwendungsbereich-art-2."
+description: "Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience..."
 ---
 
 # Verhältnis zu anderen Unionsrechtsakten
@@ -109,4 +109,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

@@ -41,4 +41,3 @@ VVG §§ 100 ff.; Umweltschadensgesetz; BImSchG/WHG als Sachrecht; AVB.
 
 - betriebshaftpflicht-versicherungsfall-serienschaden
 - vag-bafin-aufsicht-beschwerde-missstand
-

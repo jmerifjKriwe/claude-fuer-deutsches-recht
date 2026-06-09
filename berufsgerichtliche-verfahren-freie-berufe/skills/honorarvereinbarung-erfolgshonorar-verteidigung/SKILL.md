@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-erfolgshonorar-verteidigung
-description: "Honorarvereinbarung und Erfolgshonorar (Verteidigungs- und Kammerantwort): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Honorarvereinbarung und Erfolgshonorar (Verteidigungs- und Kammerantwort): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfah..."
 ---
 
 # Honorarvereinbarung und Erfolgshonorar: Verteidigungs- und Kammerantwort
@@ -47,4 +47,3 @@ Erzeuge Stellungnahme, Akteneinsicht, Bestreiten, Einordnung, Entlastung, Wieder
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

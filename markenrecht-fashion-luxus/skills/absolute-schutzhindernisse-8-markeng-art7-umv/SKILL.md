@@ -60,4 +60,3 @@ Normtext und Behördenpraxis live prüfen: MarkenG, UMV, DPMA-Hinweise, EUIPO Gu
 
 - BGH I ZB 22/20
 - BGH I ZR 149/14
-

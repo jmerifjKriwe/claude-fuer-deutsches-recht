@@ -145,4 +145,3 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - Wachstumschancengesetz (BGBl. I 2024) — gesetzliche Verankerung; Stand prüfen.
 - IDW S 6 (Sanierungskonzept), IDW S 11 (Insolvenzeröffnungsgründe).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren. Vor Ausgabe Quelle mit Gericht, Datum, Aktenzeichen, Fundstelle, Randnummer protokollieren.
-

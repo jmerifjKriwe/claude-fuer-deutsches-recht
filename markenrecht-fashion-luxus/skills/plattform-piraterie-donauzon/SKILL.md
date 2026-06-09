@@ -147,4 +147,3 @@ Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17/45:** Sehr grosse Online-Plattformen muessen wirksame Notice-and-Action-Verfahren einrichten, innerhalb angemessener Frist auf qualifizierte Notices reagieren und dem Melder den Bearbeitungsstatus mitteilen; Nichteinhaltung kann zu Bussgeldern bis zu 6 % des globalen Jahresumsatzes fuehren.
-

@@ -65,4 +65,3 @@ Erzeuge Sofortplan für Bank/Plattform, Beweisordner, Anzeigeentwurf ohne Übert
 
 - Welche Zahlungsart?
 - Gibt es Impressum, Tracking, Chat, Paketnummer, Bankdaten?
-

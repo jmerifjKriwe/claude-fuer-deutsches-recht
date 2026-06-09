@@ -63,4 +63,3 @@ description: "Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingi
 - https://www.gesetze-im-internet.de/bgb/__640.html
 - https://www.gesetze-im-internet.de/bgb/__641.html
 - https://www.gesetze-im-internet.de/bgb/__634a.html
-

@@ -1,6 +1,6 @@
 ---
 name: nebenberuflicher-handelsvertreter
-description: "Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige im Handelsvertreterrecht."
+description: "Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige im Handelsvertr..."
 ---
 
 # Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
-

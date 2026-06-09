@@ -102,4 +102,3 @@ Konkret zu prüfen:
 - Art. 6 AI-Act (Hochrisiko-KI)
 - §§ 1-19 ProdHaftG
 - RL (EU) 2024/2853 (neue Produkthaftungs-RL)
-

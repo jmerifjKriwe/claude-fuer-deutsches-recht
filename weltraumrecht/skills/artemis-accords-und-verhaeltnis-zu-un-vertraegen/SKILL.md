@@ -109,4 +109,3 @@ Dieser Skill bearbeitet **Artemis Accords und Verhältnis zu UN-Verträgen** im 
 - UNOOSA COPUOS: https://www.unoosa.org/oosa/en/ourwork/copuos/index.html
 - ESA Artemis: https://www.esa.int/Enabling_Support/Space_Law/ESA_and_the_Artemis_Accords
 - US SPACE Act 2015: https://www.congress.gov/bill/114th-congress/house-bill/2262
-

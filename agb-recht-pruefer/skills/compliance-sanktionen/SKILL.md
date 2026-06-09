@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Compliance Sanktionen: prüft, redlined und
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

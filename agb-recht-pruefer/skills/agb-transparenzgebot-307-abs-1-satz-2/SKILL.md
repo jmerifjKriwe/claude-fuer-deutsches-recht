@@ -1,6 +1,6 @@
 ---
 name: agb-transparenzgebot-307-abs-1-satz-2
-description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln. Liefert Pruefraster."
+description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln...."
 ---
 
 # Agb Transparenzgebot 307 Abs 1 Satz 2
@@ -41,4 +41,3 @@ description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die 
 3. Verstaendlichkeit für typischen Vertragspartner?
 4. Wirtschaftliche Folgen vorhersehbar?
 5. Verschachtelung problematisch?
-

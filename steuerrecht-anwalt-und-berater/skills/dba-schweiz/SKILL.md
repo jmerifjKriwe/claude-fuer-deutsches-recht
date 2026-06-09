@@ -1,6 +1,6 @@
 ---
 name: dba-schweiz
-description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelung Art. 15a. Anwendungsfall Pendler Suedbaden Bodensee Zuerich Pauschalbesteuerung Wegzug Wegzugsbesteuerung Beteiligungen Lizenzen. Anrechnungsmethode Aktivitaetsklausel Subject-to-Tax. Output Mandanten-Memo Grenzgaengernachweis Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-schweiz-60-tage-rückkehr."
+description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelung Art. 15a. Anwendungsfall Pendler Suedbaden Bodensee Zuerich Pauschalbesteuerung Wegzug Wegzugsbesteuerung Beteiligungen Lizenzen. Anrechnungsmethode Aktivitaetsklausel Subject-to-Tax. Output Mandanten-Memo Grenzgaengernachweis B..."
 ---
 
 # DBA Deutschland-Schweiz
@@ -185,4 +185,3 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 Stand: 05/2026. DBA-Schweiz 11.08.1971 (BGBl. 1972 II S. 1021/1022), Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, ab 01.01.2026). ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). BMF-Schreiben zu Grenzgaengern und Wegzug im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 4 belegt (DBA-Schweiz BGBl-Daten bestaetigt; BVerfG 2 BvL 1/12 15.12.2015 bestaetigt; Schweizer Verrechnungssteuer 35% Art. 13 VStG; ATAD-UG BGBl. 2021 I S. 2035), 10 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

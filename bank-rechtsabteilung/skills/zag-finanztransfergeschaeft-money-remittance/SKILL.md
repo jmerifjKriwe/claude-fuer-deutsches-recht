@@ -46,4 +46,3 @@ Dieser Skill prüft das Finanztransfergeschäft nach § 1 Abs. 1 Satz 2 Nr. 6 ZA
 - Krypto-Remittance (BTC-Überweisung als Geldwert): MiCAR VASP + VO 2023/1113 Travel Rule; ggf. ZAG-Erlaubnis parallel
 - Transaktionen in FATF-gelistetes Land: GwG § 15 verstärkte Sorgfalt; Einzelgenehmigung Geschäftsleitung; Transaktionslimit erwägen
 - Agentenausfall mit Kundengeldverlust: § 25 ZAG Institut-Haftung, § 16 ZAG Sicherungspflicht, BaFin-Meldepflicht
-

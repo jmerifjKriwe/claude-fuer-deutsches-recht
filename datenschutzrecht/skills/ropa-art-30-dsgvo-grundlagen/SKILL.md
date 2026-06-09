@@ -105,4 +105,3 @@ Konkrete Vorlagen liefern die Skills:
 - BDSG, insbesondere § 70 für Bundesbehoerden.
 - EDSA: Position Paper on Article 30(5) GDPR (vom 19.04.2018).
 - Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Länder (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-

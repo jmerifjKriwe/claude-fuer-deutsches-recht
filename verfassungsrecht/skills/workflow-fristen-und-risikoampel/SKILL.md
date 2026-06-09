@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Gelb:** Rechtswegerschöpfung (§ 90 Abs. 2 BVerfGG) — vorher Fachgerichtsrechtsweg ausschöpfen; Subsidiaritätsgrundsatz beachten.
 - **Gelb:** Substantiierungspflicht (§§ 23 Abs. 1 S. 2, 92 BVerfGG) — Beschwerdeführer muss Grundrechtsverletzung und Beschwer schlüssig darlegen.
 - **Praxis-Tipp:** Bei Eilbedarf parallel § 32-Antrag und Hauptsachebeschwerde; Aktenzeichen nur nach Live-Check der BVerfG-Seite.
-

@@ -86,4 +86,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Normen live prüfen: gesetze-im-internet.de (ZPO §§ 286, 294, 373 ff., 402 ff., 415 ff.; BGB §§ 630h; AGG § 22).
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
 - Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-

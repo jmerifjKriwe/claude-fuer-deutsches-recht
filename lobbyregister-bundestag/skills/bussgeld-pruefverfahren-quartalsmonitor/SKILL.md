@@ -71,4 +71,3 @@ Verstöße gegen § 7 I LobbyRG sind ordnungswidrig, geahndet mit Geldbuße bis 
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

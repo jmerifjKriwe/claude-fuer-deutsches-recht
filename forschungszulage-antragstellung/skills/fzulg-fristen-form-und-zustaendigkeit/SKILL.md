@@ -80,4 +80,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Einspruch gegen BSFZ-Bescheid wird ans Finanzamt geschickt - Zuständigkeit verfehlt, Frist tickt weiter.
 - Festsetzungsantrag ohne BSFZ-Bescheinigung - Bearbeitung ruht.
 - Eigenleistung Einzelunternehmer nicht aufgeschlüsselt (Std., Wochen, Begründung); pauschale Beantragung wird gekürzt.
-

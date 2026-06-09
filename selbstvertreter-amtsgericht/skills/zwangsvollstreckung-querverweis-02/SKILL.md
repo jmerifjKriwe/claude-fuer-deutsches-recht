@@ -115,4 +115,3 @@ Wenn Vollstreckung erfolglos:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
-

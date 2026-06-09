@@ -1,6 +1,6 @@
 ---
 name: dba-home-office-pandemie-folgeregelung
-description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzüberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berechnungsbeispiel Prüf-Checkliste."
+description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzüberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berech..."
 ---
 
 # Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung)
@@ -156,4 +156,3 @@ Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jah
 Stand: 05/2026. Konsultationsvereinbarungen Home-Office DE-CH, DE-AT, DE-LU (Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334), DE-NL, DE-FR, DE-BE (Pandemie 2020/2021 und Folgeregelungen). Aktualitaet jeder Vereinbarung, Toleranzschwellen und Anwendungszeitraeume im jeweiligen BMF-Schreiben vor Anwendung pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 belegt (DBA-LU Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

@@ -80,4 +80,3 @@ Sachverhalt: A zahlt B 100 für ungesetzliche Handlung; B haelt sich nicht daran
 Sachverhalt: A zahlt 100 als Mitgift für Heirat mit Tochter des B; Heirat scheitert vor Vollzug.
 - **Roemisch**: condictio causa data causa non secuta (D. 12.4); Rueckforderung der Mitgift.
 - **BGB**: § 812 Abs. 1 Satz 2 Var. 2 BGB Zweckverfehlung.
-

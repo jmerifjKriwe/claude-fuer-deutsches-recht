@@ -48,4 +48,3 @@ description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgle
 3. Anspruch Mietzuschuss?
 4. Kaufkraftausgleich?
 5. Sonderverwaltung?
-

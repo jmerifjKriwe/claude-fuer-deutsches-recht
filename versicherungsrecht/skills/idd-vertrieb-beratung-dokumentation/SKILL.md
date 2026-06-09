@@ -41,4 +41,3 @@ VVG §§ 6, 7, 59–68; VersVermV; IDD/EU-Recht; BGB Maklerhaftung; GewO.
 
 - restschuldversicherung-widerruf-kopplung-verbraucherdarlehen
 - vag-bafin-aufsicht-beschwerde-missstand
-

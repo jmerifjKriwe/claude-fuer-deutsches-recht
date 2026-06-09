@@ -41,4 +41,3 @@ VVG §§ 178–191; AUB/AVB; BGB; ZPO medizinischer Sachverständigenbeweis.
 
 - vers-fristen-verjaehrung-klagefrist-fallkalender
 - vergleich-abfindung-entschaedigungsquittung
-

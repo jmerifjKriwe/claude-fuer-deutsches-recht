@@ -45,4 +45,3 @@ Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch
 - **Vorbenutzungsrecht als Einrede im Verletzungsprozess:** in § 12 PatG verankert; Vorbenutzungsrecht ist KEIN Nichtigkeitsgrund.
 - **Internationale Strategie:** Im Schutzrechtsprozess das Vorbenutzungsrecht als prozessuale Einrede ausspielen; parallel die Nichtigkeitsklage erwägen (§ 22 PatG Nichtigkeit / EPÜ Einspruch).
 - Falle: Konzern-internes Joint Venture als "ein Geschäftsbetrieb" einstufen — § 12 Abs. 2 PatG eng auslegen; Auseinanderfallen rechtlicher und wirtschaftlicher Zuordnung gefährdet Vorbenutzungsrecht.
-

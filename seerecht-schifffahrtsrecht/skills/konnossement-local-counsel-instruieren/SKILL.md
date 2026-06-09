@@ -1,6 +1,6 @@
 ---
 name: konnossement-local-counsel-instruieren
-description: "Konnossement: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
+description: "Konnossement: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrt..."
 ---
 
 # Konnossement – Local Counsel instruieren
@@ -91,4 +91,3 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 - EuGVVO: https://dejure.org/gesetze/EuGVVO
 - SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
 - openjur Vollstreckung Ausland: https://www.openjur.de
-

@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-integrations
-description: "Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfragen und Anmeldungspflichten im Gesellschaftsrecht."
+description: "Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfrag..."
 ---
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR
@@ -265,4 +265,3 @@ zitierweise.md`. § 15 HGB-Wirkungen sind differenziert darzustellen (negative
 vs. positive Publizität; Gutgläubigkeitsschutz). Bei Streitfragen zur
 konstitutiven vs. deklaratorischen Wirkung von Eintragungen sind h. M. und
 abweichende Literaturauffassungen kenntlich zu machen.
-

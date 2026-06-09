@@ -45,4 +45,3 @@ description: "Konkursrechtliche Stellung des magister bonorum und des curator bo
 2. Welche Befugnisse?
 3. Welche Aktionen stehen zur Verfuegung?
 4. Quellenmatrix.
-

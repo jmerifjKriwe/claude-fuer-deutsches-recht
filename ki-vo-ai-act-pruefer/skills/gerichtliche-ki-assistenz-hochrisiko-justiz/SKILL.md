@@ -28,4 +28,3 @@ Wird KI nur als allgemeines Schreibwerkzeug genutzt oder beeinflusst sie die Aus
 ## Warnung
 
 Gerade bei Justiz-KI reicht "human in the loop" nicht als Zauberwort. Entscheidend ist, ob der Mensch fachlich und organisatorisch wirklich gegensteuern kann.
-

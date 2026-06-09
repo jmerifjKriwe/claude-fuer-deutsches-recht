@@ -41,4 +41,3 @@ VVG §§ 192 ff.; MB/KT; BGB; ZPO; ggf. SGB V Abgrenzung.
 
 - bu-berufsbild-50-prozent-substantiierung
 - pkv-kostenerstattung-medizinische-notwendigkeit
-

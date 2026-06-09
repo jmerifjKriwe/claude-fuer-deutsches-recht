@@ -81,4 +81,3 @@ Die Abgrenzung ist wirtschaftlich relevant: bei Kooperationen können beide Part
 - "Kooperationsvertrag" ist tatsächlich verkappte Auftragsforschung; Außenprüfung qualifiziert um, FZulG-Förderung wird reduziert.
 - Konzernverrechnungspreise nicht marktüblich; Steuerprüfung führt zu Doppelschaden (FZulG-Kürzung + AStG-Anpassung).
 - Auftragsforschung an britischen Dienstleister nach Brexit weitergegeben - kein EWR mehr, keine Förderung.
-

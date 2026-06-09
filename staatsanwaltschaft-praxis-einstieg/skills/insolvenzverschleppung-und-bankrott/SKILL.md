@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - § 283 StGB (Bankrotthandlungen)
 - § 283a StGB (besonders schwere Fälle)
 - § 14 StGB (Vertreterhaftung)
-

@@ -53,4 +53,3 @@ Der Skill ist kein Gebührenrechner, baut aber Kostenereignisse und Zuständigke
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

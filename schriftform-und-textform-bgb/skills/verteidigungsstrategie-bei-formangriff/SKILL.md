@@ -1,6 +1,6 @@
 ---
 name: verteidigungsstrategie-bei-formangriff
-description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-für-vertrag-oder-willenserklärung im Schriftform Und Textform Bgb."
+description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst..."
 ---
 
 # Verteidigungsstrategie bei Formangriff
@@ -147,4 +147,3 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - **Heilung ≠ Rückwirkung**: Selbst wenn Heilung möglich ist (z. B. § 766 S. 3 BGB), wirkt sie nicht auf den ursprünglichen Zeitpunkt zurück — Zwischenzeiträume (z. B. Zinslauf) bleiben ggf. unberührt.
 - **§ 174 BGB Unverzüglichkeit**: Wer nicht unverzüglich (d. h. ohne schuldhaftes Zögern, in der Regel binnen einer Woche) zurückweist, verliert das Recht zur Zurückweisung wegen fehlender Vollmacht — die Kündigung gilt dann als wirksam erklärt.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

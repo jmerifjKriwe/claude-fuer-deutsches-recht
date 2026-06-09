@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-register-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Last..."
 ---
 
 # Offshore-Schiff – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

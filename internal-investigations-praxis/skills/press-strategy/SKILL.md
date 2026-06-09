@@ -82,4 +82,3 @@ Dieser Skill entwickelt eine kontrollierte Kommunikationsstrategie, die Reputati
 - **Media-Handling-Protokoll** für Journalisten-Anfragen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

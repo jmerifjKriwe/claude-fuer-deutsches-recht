@@ -48,4 +48,3 @@ Produktionsverträge verpflichten einen Hersteller zur Fertigung nach Spezifikat
 - Tooling: immer Eigentums-Klausel (Käufer behält Eigentum; Übergabepflicht bei Kündigung)
 - Geheimhaltung: NDA + Zugangsprotokoll + digitale DRM-Maßnahmen
 - Qualität: QMS-Anforderungen als Vertragsanhang; Audit-Recht vertraglich verankern
-

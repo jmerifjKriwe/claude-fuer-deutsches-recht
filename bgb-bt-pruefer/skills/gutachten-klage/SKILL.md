@@ -58,4 +58,3 @@ description: "Output-Workflow: Gutachten, Klage und Brief im BGB BT – Struktur
 - https://www.gesetze-im-internet.de/zpo/__253.html
 - https://www.gesetze-im-internet.de/brao/__43a.html
 - https://www.gesetze-im-internet.de/bgb/
-

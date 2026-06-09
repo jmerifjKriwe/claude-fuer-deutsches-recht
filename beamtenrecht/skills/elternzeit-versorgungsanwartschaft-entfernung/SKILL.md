@@ -1,6 +1,6 @@
 ---
 name: elternzeit-versorgungsanwartschaft-entfernung
-description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine im Beamtenrecht."
+description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und..."
 ---
 
 # Elternzeit — Auswirkungen auf Versorgungsanwartschaft
@@ -63,4 +63,3 @@ Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin Beamtin A12, drei Kinder, je drei Jahre Elternzeit. Skill liefert Berechnung der ruhegehaltfaehigen Zeiten und Hinweise auf Kindererziehungszuschlag.
-

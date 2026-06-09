@@ -1,6 +1,6 @@
 ---
 name: bmwe-energie-und-netzregulierung-enwg
-description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Länder-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung)."
+description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Länder-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typ..."
 ---
 
 # Energierecht und Netzregulierung (EnWG) (BMWE)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

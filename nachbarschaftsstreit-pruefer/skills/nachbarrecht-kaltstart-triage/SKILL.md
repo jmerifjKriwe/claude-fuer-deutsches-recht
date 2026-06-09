@@ -56,4 +56,3 @@ Rot markieren:
 - Baugrube/Risse/Setzung,
 - Drohung, Nötigung, Sachbeschädigung, Nachstellung,
 - Baumfällung während Schutzzeiten oder bei Baumschutzsatzung.
-

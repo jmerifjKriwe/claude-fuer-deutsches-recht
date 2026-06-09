@@ -1,6 +1,6 @@
 ---
 name: beistand-kirchlichen-urkunden-zeitrechnung
-description: "Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbesta..."
 ---
 
 # Beistand im kirchlichen Strafverfahren
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

@@ -56,4 +56,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Für Klägerseite: Konkrete Barriere mit Hilfsmittel demonstrieren (z. B. NVDA-Aufnahme), nicht abstrakt "Seite ist nicht barrierefrei" behaupten. Für Beklagtenseite: Audit-Bericht mit Datum, Methodik, Geltungsbereich vorlegen. Häufig ist der Audit veraltet oder die Versionsbestätigung fehlt — das ist angreifbar.
-

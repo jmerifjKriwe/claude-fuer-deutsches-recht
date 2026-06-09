@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vorlage
-description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer KI-Richtlinie entwerfen, wir brauchen eine KI-Richtlinie, AI-Act-konforme Richtlinie oder Ähnliches sagt im Ki Governance."
+description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer KI-Richtlinie entwerfen, wir brau..."
 ---
 
 # KI-Richtlinien-Starter
@@ -196,4 +196,3 @@ Datenschutzbeauftragter: [NAME, EMAIL]
 
 [DATUM] — [UNTERSCHRIFT GESCHAEFTSFUEHRUNG]
 ```
-

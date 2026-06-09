@@ -156,4 +156,3 @@ Pressekontakt
 - Buchpreisbindungsgesetz - Preisangabe.
 - UWG §§ 5, 5a - Irrefuehrungsverbot.
 - Pressekodex des Deutschen Presserats (presserat.de), aktuelle Fassung.
-

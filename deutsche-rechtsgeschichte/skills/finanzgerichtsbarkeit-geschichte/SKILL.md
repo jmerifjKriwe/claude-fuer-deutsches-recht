@@ -63,4 +63,3 @@ Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einze
 - AO und FGO: gesetze-im-internet.de
 - BFH-Rechtsprechung: bundesfinanzhof.de (frei zugaengliche Entscheidungen)
 - BMF-Schreiben: bundesfinanzministerium.de
-

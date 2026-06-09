@@ -43,4 +43,3 @@ BVerfGE 93, 1 (Kruzifix): Anordnung des Anbringens eines Kruzifix in
 staatlichen Volksschulen verstiess gegen Glaubensfreiheit Art 4 I GG
 in Verbindung mit staatlichem Neutralitaetsgebot. Schonende Zuordnung
 moeglich durch Einzelfallpruefung, nicht durch generellen Anbringungszwang.
-

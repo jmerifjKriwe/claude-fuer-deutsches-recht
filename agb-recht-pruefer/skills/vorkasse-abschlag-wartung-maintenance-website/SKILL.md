@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Vorkasse Abschlag Sicherheit: prüft, redli
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

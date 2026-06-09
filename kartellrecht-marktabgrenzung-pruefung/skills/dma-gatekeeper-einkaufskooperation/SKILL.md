@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-einkaufskooperation
-description: "Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren. Verhältnis DMA zu Art 102 AEUV und Paragraf 19a GWB sowie BKartA-Designierungsverfahren im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren. Verhältnis DMA zu Art 102 AEUV und Paragraf 19a GWB sowie BKartA-Designierungsve..."
 ---
 
 # DMA und Gatekeeper-Markt
@@ -93,4 +93,3 @@ Gatekeeper designiert?: [ja → Beschluss-Nummer / nein / Verfahren läuft]
 Auswirkung auf kartellrechtliche Marktdefinition: [stützt / widerspricht / neutral]
 Ergebnis: [...]
 ```
-

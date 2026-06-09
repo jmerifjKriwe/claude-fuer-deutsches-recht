@@ -46,4 +46,3 @@ Mieter X zahlt 6 Monate nicht.
 1. Welcher Vertragstyp?
 2. Kuendigung?
 3. Pfandrecht?
-

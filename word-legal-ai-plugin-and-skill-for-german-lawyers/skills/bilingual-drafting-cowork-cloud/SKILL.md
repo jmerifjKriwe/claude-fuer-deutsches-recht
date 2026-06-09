@@ -1,6 +1,6 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste für Konsistenz im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boi..."
 ---
 
 # Bilinguales Drafting Deutsch-Englisch
@@ -154,4 +154,3 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 
 - Art. 3, 6 Rom I-VO; §§ 133, 157, 158, 257, 305b, 309 Nr. 5, 387, 398, 414 BGB; §§ 17 AktG, 184 GVG, 293 ZPO, 328 ZPO, 1030 ZPO; § 15 AktG; CISG (UN-Kaufrechtsuebereinkommen).
 - Zitierweise: `references/zitierweise.md`.
-

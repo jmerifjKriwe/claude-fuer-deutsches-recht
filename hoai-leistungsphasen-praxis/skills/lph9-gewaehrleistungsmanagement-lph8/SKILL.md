@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 9: Objektbetreuung, Gewährleistungsfristen, M�
 3. Mängelmeldungen mit Fotos, Ort, Datum und Verlauf verbinden.
 4. Verantwortlichkeit Unternehmer/Planer/Fachplaner trennen.
 5. Hemmung, Anerkenntnis, Verhandlung oder selbständiges Beweisverfahren prüfen lassen.
-

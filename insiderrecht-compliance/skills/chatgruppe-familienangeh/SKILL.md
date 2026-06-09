@@ -71,4 +71,3 @@ Präventionsmaßnahmen.
 - Schulung: Mitarbeiter über Chatgruppen-Risiken informieren
 - Monitoring: Ungewöhnliche Handelsmuster vor und nach Chatgruppen-Aktivität
 - Social-Media-Policy: Klare Regeln für Diskussion über Finanzinstrumente
-

@@ -41,4 +41,3 @@ VVG allgemein; AVB Reise; BGB Reisevertragsrecht §§ 651a ff.; Datenschutz Gesu
 
 - datenschutz-schweigepflicht-gesundheitsdaten
 - vers-fristen-verjaehrung-klagefrist-fallkalender
-

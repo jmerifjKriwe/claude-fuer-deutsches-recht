@@ -1,6 +1,6 @@
 ---
 name: dokumentarchitektur-vertrag-englischer
-description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisan..."
 ---
 
 # Dokumentarchitektur: Vertrag und Schriftsatz
@@ -134,4 +134,3 @@ Anlage 3: Lieferplan
 - § 311b BGB; § 126 BGB; § 126a BGB; § 126b BGB; § 305 Abs. 1 BGB.
 - Memo-Struktur: CLAUDE.md im Repository-Wurzelverzeichnis.
 - Vertragsstruktur folgt der Konvention deutscher Wirtschaftskanzleien. Konkrete Klauselmuster vom Nutzer mit aktueller Literatur zu validieren.
-

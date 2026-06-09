@@ -34,4 +34,3 @@ description: "Norm- und Dogmatik-Skill für Transparenzgebot 307: prüft die AGB
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

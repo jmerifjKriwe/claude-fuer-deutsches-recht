@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU) und Zuständigkeit (Restrukturierungsgericht), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU) und Zuständigkeit (Restrukturierungsgericht), leitet zum passe..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

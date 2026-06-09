@@ -76,4 +76,3 @@ Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterst
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 29 WEG: https://www.gesetze-im-internet.de/woeigg/__29.html .
-

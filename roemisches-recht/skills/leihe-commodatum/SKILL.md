@@ -62,4 +62,3 @@ Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd en
 ### Modernes Aequivalent
 - §§ 598-606 BGB Leihe.
 - Wesentlicher Unterschied: roemisches Recht Haftung haerter (custodia); BGB hat das gelockert.
-

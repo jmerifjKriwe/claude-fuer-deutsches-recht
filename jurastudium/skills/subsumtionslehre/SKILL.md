@@ -1,6 +1,6 @@
 ---
 name: subsumtionslehre
-description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer Subsumtion üben, subsumiere mit mir, Tatbestandsmerkmal prüfen, Obersatz-Definition-Subsumtion oder warum springe ich im Gutachten sagt im Jurastudium."
+description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer Subsumtion üben, subsumiere mit..."
 ---
 
 # Subsumtionslehre
@@ -97,4 +97,3 @@ Der Studierende **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht
 
 - Sie schreibt keine Mustersubsumtion. Wer Mustertexte will, sucht falsch.
 - Sie urteilt nicht über das Ergebnis der Subsumtion (richtig/falsch im Sinne der h. M.), sondern über die **handwerkliche Qualität** der Subsumtion. Beides muss man trennen lernen.
-

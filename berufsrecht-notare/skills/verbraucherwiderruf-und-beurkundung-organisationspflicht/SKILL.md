@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 355 BGB
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

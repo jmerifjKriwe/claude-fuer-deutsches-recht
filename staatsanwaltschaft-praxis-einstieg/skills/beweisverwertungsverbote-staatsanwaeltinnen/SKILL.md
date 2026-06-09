@@ -33,4 +33,3 @@ Konkret zu prüfen:
 - BGHSt 38, 214 (Belehrungspflicht)
 - BGHSt 42, 139 (Hörfalle)
 - BVerfGE 109, 279 (Lauschangriff – Kernbereich)
-

@@ -1,6 +1,6 @@
 ---
 name: kammer-handelssachen-kfh
-description: "Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Scho..."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen
@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - §§ 105-109 GVG
 - § 96 GVG (Antrag auf Verweisung)
 - § 76 GVG
-

@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-geschaeftsgeheimnis
-description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung im Datenbankrecht."
+description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefu..."
 ---
 
 # Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie
@@ -63,4 +63,3 @@ description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§
 - [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
 - [§§ 6-8 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/6.html)
 - [§ 307 BGB AGB-Kontrolle — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-

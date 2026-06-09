@@ -41,4 +41,3 @@ VVG §§ 100 ff.; ProdHaftG; BGB §§ 823, 434 ff.; Produktsicherheitsrecht; AVB
 
 - betriebshaftpflicht-versicherungsfall-serienschaden
 - transportversicherung-ware-lagerung
-

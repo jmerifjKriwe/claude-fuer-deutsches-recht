@@ -1,6 +1,6 @@
 ---
 name: rechtspluralismus-und-mehrebenen-system
-description: "Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts."
+description: "Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konse..."
 ---
 
 # Rechtspluralismus und Mehrebenen-System
@@ -94,4 +94,3 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 - Art. 25, 59 GG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

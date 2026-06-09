@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Aktenauszüge zivilgerichtlicher Verfahren: ordnet Rolle (Mandant, Gegenpartei, Gericht), markiert Frist (Akteneinsicht im laufenden Verfahren jederzeit), wählt Norm (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) und Zuständigkeit (AG/LG/OLG), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Aktenauszüge zivilgerichtlicher Verfahren: ordnet Rolle (Mandant, Gegenpartei, Gericht), markiert Frist (Akteneinsicht im laufenden Verfahren jederzeit), wählt Norm (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) und Zuständigkeit (..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Aktenauszug Gerichtsverfahren** vom ersten Sachverhalt 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

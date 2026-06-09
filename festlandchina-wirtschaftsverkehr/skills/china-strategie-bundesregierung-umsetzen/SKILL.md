@@ -1,6 +1,6 @@
 ---
 name: china-strategie-bundesregierung-umsetzen
-description: "Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan im Festlandchina Wirtschaftsverkehr."
+description: "Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-..."
 ---
 
 # China-Strategie der Bundesregierung: Unternehmensumsetzung
@@ -87,4 +87,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
-

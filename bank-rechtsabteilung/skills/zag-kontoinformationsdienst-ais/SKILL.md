@@ -45,4 +45,3 @@ Dieser Skill prüft Kontoinformationsdienste (Account Information Services, AIS)
 - Kontoführer verweigert AIS-Zugang: § 50 ZAG Diskriminierungsverbot, RTS-SCA Art. 36, EBA-Eskalationsverfahren
 - AIS-Dienstleister gibt Daten weiter: § 51 ZAG Haftung, DSGVO Art. 83 Abs. 4 Bußgeld bis 10 Mio. Euro
 - Kombi AIS+PIS: Erlaubnis § 10 ZAG (PIS) + Registrierung § 34 ZAG (AIS) kombinieren
-

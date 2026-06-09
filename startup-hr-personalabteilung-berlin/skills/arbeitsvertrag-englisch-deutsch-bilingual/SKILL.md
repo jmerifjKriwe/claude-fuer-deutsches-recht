@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-englisch-deutsch-bilingual
-description: "Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR..."
 ---
 
 # Arbeitsvertrag Englisch Deutsch Bilingual
@@ -67,4 +67,3 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

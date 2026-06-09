@@ -1,6 +1,6 @@
 ---
 name: red-team-keine-sweat-brow-verwechslung
-description: "'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im Datenbankrecht: EuGH-Linie (BHB/William Hill C-203/02) verbietet Schutz für bloße Datenerzeugung. Identifiziert typische Argumentationsfehler in Herstellerrechts-Gutachten, prüft Gegenangriffe auf Datenbankschutz-Behauptungen und entwickelt Verteidigungsstrategien für Beklagte in Datenbankrechts-Verfahren.'"
+description: "'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im Datenbankrecht: EuGH-Linie (BHB/William Hill C-203/02) verbietet Schutz für bloße Datenerzeugung. Identifiziert typische Argumentationsfehler in Herstellerrechts-Gutachten, prüft Gegenangriffe auf Datenbankschutz-Behauptungen und..."
 ---
 
 # Red Team: Keine Sweat-of-the-Brow-Verwechslung im Datenbankrecht
@@ -55,4 +55,3 @@ description: "'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
 - [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
 - [EuGH C-338/02 Fixtures Marketing — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-338/02)
-

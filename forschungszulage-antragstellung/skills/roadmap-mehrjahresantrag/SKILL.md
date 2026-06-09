@@ -1,6 +1,6 @@
 ---
 name: roadmap-mehrjahresantrag
-description: "Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehrjährige Vorhaben, jährliche Aktualisierung der Stundenaufzeichnung und Projektakte, Folgeanträge knapp halten, Roadmap-Pflege, Liquiditätsplanung über Wirtschaftsjahre, rückwirkende Jahre, Fristen. Mit Anschlussantrag-Vorlage und Jahresabschluss-Trade-off."
+description: "Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehrjährige Vorhaben, jährliche Aktualisierung der Stundenaufzeichnung und Projektakte, Folgeanträge knapp halten, Roadmap-Pflege, Liquiditätsplanung über Wirtschaftsjahre, rückwirkende Jahre, Fristen. Mit Anschlussantrag-Vorlage und Ja..."
 ---
 
 # Mehrjahresroadmap Forschungszulage
@@ -140,4 +140,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BSFZ-Verfahrensregeln für mehrjährige Bescheinigung.
 - AO — Festsetzungsverjährung und Antragsfristen.
 - `references/forschungszulage-quellen-und-zahlen.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: kodifikationsalterung-und-lueckendisziplin
-description: "Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist."
+description: "Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rec..."
 ---
 
 # Kodifikationsalterung und Lückendisziplin
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

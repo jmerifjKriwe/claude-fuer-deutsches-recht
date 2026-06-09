@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Beim Erstgespräch wichtig: sortieren, ob nicht autorisierte (§ 675u BGB — gute Chancen) oder autorisierte Zahlung unter Täuschung vorliegt. Die zweite Konstellation ist anwaltlich deutlich aufwendiger und Erfolgsaussichten geringer — daher Honorarrahmen und mögliche Eigenmitwirkung des Mandanten ehrlich kommunizieren.
-

@@ -82,4 +82,3 @@ grundsätzlich Motivirrtum. Die Grenze ist fließend und BGH-Rechtsprechung prä
 - Irrtum: Hatte der Anfechtende eine falsche Vorstellung über diese Eigenschaft?
 - Kausalität: Hätte er bei richtiger Kenntnis die Erklärung nicht abgegeben?
 - Abgrenzung: Eigenschaftsirrtum oder Motivirrtum — welche Merkmale sprechen wofür?
-

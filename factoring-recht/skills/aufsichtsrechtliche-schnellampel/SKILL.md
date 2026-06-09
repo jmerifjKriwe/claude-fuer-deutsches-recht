@@ -117,4 +117,3 @@ Fragen zum Einstieg:
 - ZAG §§ 1, 10 zur Zahlungsdiensteaufsicht.
 - GwG §§ 1, 2 Abs. 1 Nr. 6 zur Verpflichteteneigenschaft.
 - Gesetzesbegründung zum Jahressteuergesetz 2009 (Einführung des Factoring-Tatbestands im KWG).
-

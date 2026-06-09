@@ -57,4 +57,3 @@ Sichere:
 ## Taktik
 
 Nicht moralisch überziehen. Gute Button-Fälle sind technisch-nüchtern: Der Text auf der Schaltfläche ist der Mittelpunkt.
-

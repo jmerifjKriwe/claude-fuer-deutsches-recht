@@ -109,4 +109,3 @@ Schreiben Sie aus:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung zur "Kenntnis und grob fahrlaessigen Unkenntnis" (§ 199 BGB).
-

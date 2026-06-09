@@ -71,4 +71,3 @@ prüft den Ad-hoc-Zeitpunkt und stellt Vertraulichkeit während der Entscheidung
  Abberufungsverhandlungen und Ad-hoc getätigt? → Art. 14 MAR-Prüfung
 - Neuer CEO: Directors'-Dealings-Registrierung ab Dienstantritt
 - Abfindung: Meldepflichtige Transaktion nach Art. 19 MAR?
-

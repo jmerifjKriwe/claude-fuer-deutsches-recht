@@ -34,4 +34,3 @@ description: "Klausel-Fachmodul für Haftung Grobe Fahrlaessigkeit Vorsatz: prü
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

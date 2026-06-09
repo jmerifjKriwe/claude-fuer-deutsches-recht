@@ -101,4 +101,3 @@ Wenn die Uebermittlung versagt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 130a ZPO seit Gesetz zur Förderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
-

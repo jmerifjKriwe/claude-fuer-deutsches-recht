@@ -1,6 +1,6 @@
 ---
 name: notar-vorbereitung
-description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung im Gesellschaftsgruender."
+description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmel..."
 ---
 
 # Notar-Vorbereitung
@@ -135,4 +135,3 @@ T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 - `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Alternative
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlung und Bankbestätigung
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Anmeldung nach Beurkundung
-

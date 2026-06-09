@@ -47,4 +47,3 @@ Konkret zu prüfen:
 - § 53 StPO
 - § 97 StPO
 - § 160a Abs. 1 StPO
-

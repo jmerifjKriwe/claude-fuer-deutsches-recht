@@ -30,4 +30,3 @@ Der Skill prüft, ob KI-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Be
 8. Rollen: Anbieter, Betreiber, Importeur, Händler, Behörde und externer IT-Dienstleister nicht vermischen.
 9. Aktenklarheit: Ist das KI-Ergebnis Primärbeweis, Ermittlungsanstoß, Übersetzungshilfe oder bloße Sortier-/Priorisierungshilfe?
 10. Fair-Trial-Gate: Kann die Verteidigung Methode, Datenbasis, Fehlerquellen und menschliche Kontrollentscheidung tatsächlich angreifen?
-

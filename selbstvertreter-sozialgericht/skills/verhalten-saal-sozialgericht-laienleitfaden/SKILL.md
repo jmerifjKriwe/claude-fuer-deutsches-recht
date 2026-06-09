@@ -125,4 +125,3 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
-

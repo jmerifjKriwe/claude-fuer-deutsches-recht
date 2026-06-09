@@ -74,4 +74,3 @@ Pflichtklauseln in Beratungsverträgen / NDAs mit externen Beratern:
  Spezialvorschriften, wenn sie MAR-Pflichten verletzen
 - Strafbarkeit nach § 119 WpHG gilt auch für externe Personen
 - Emittent kann in Anspruch genommen werden, wenn er unzureichend überwacht hat
-

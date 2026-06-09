@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-strafzumessung
-description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Hande..."
 ---
 
 # Sitzungs- und Terminvorbereitung
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-

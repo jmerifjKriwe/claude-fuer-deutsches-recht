@@ -103,4 +103,3 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte ueber aktuelle Tabelle verifizieren.
-

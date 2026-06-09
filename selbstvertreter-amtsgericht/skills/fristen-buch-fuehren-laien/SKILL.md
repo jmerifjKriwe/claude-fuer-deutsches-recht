@@ -119,4 +119,3 @@ Einmal pro Woche:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Tipp.
-

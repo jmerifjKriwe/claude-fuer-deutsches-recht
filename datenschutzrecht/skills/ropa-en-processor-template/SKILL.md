@@ -1,6 +1,6 @@
 ---
 name: ropa-en-processor-template
-description: "Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendors with German clients."
+description: "Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendor..."
 ---
 
 # Records of Processing Activities (RoPA) – Processor Template (English)
@@ -98,4 +98,3 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 1 "Records of Processing Activities" (Status 17 December 2018).
 - DSK Short Paper No. 13 "Processor Agreements" (Status 16 January 2018).
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (adopted 7 July 2021).
-

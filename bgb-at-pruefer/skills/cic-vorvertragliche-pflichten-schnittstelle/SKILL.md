@@ -75,4 +75,3 @@ Vertragsanbahnung, entsteht ein Schadensersatzanspruch nach § 280 Abs. 1 BGB.
 - Verschulden des Schädigers nach § 276 BGB (Fahrlässigkeit ausreichend)?
 - Schaden: negatives oder positives Interesse — was verlangt der Geschädigte?
 - Abgrenzung zur Anfechtung nach § 123 BGB: Beide Wege möglich?
-

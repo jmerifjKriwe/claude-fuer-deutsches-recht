@@ -80,4 +80,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Mandatsverhaeltnis nach §§ 32, 57 StBerG sauber dokumentieren; Vorbehaltsaufgaben nicht delegieren.
 - Werbeverbot § 57a StBerG nach BVerfG-Lockerung an Sachlichkeit, nicht an Verbot messen.
 - Berufshaftpflicht nach § 67 StBerG: Mindestsumme deckt keine Pauschalmandate; ggf. Erhoehung dokumentieren.
-

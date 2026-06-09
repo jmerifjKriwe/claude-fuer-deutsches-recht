@@ -47,4 +47,3 @@ description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemisch
 1. Welche Sicherungsform?
 2. Besitzuebergabe erfolgt?
 3. Rangverhaeltnis?
-

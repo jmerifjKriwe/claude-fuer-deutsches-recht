@@ -152,4 +152,3 @@ Stand: 05/2026.
 - AO §§ 90, 153.
 - IDW PS 480.
 - DStV-Praxisleitfaden Jahresabschluss.
-

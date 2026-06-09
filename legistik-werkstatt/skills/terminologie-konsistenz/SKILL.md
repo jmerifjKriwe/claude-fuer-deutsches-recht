@@ -1,6 +1,6 @@
 ---
 name: terminologie-konsistenz
-description: "Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prüft ob Begriffe konsistent verwendet werden und keine ungewollten Abweichungen von bestehenden Legaldefinitionen in anderen Gesetzen vorliegen. Faustregel ein Begriff eine Bedeutung. Prüfung gegen HdR und GGO. Abweichung gerechtfertigt und ausdrücklich oder versehentliche Bruchbildung. Output Begriffsliste kritische Faelle markiert Aenderungsvorschlag."
+description: "Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prüft ob Begriffe konsistent verwendet werden und keine ungewollten Abweichungen von bestehenden Legaldefinitionen in anderen Gesetzen vorliege..."
 ---
 
 # Terminologie-Konsistenz
@@ -67,4 +67,3 @@ Begriffstabelle als Anhang zum Entwurf. Kritische Fälle (Bruchbildung) markiert
 ## Anschluss
 
 `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
-

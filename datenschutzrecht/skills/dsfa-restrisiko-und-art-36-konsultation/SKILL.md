@@ -103,4 +103,3 @@ Mit freundlichen Gruessen
 - BfDI / Landesbehoerden — Verfahrenshinweise zur Vorabkonsultation
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

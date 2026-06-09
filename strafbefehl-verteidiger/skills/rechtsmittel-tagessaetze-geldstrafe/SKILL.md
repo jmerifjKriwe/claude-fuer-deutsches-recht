@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-tagessaetze-geldstrafe
-description: "Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe im Strafbefehl Verteidiger."
+description: "Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe im Strafbefehl Verte..."
 ---
 
 # Rechtsmittel nach Urteil im Strafbefehlsverfahren
@@ -92,4 +92,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Revisionsbegründungsfrist 1 Monat — nach Zustellung der Urteilsgruende; nicht ab Verkuendung.
 - Annahme-Berufung (§ 313 StPO): Erfolgsaussichten darlegen.
 - Anwaltliche Endkontrolle vor Einlegung und vor Begründung.
-

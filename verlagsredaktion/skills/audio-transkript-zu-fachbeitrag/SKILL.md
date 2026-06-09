@@ -92,4 +92,3 @@ Quellen-Lueckenliste:
 - DSGVO Art. 6 bei personenbezogenen Daten in der Aufnahme.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, für Pinpoint-Disziplin.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Aufbau von Fachaufsaetzen.
-

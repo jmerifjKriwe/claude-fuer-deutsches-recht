@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22
-description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung)."
+description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwo..."
 ---
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
@@ -102,4 +102,3 @@ Sieben-Fragen-Diagnose:
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023 (zu Art. 22 DSGVO).
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

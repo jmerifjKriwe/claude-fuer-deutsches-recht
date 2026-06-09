@@ -1,6 +1,6 @@
 ---
 name: bho-11-vollstaendigkeit-praktisch-anwe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit praktisch anwenden. BHO § 11 Vollständigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit praktisch anwenden. BHO § 11 Vollständigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkr..."
 ---
 
 # Bho 11 Vollstaendigkeit Praktisch Anwe
@@ -56,4 +56,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit pr
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

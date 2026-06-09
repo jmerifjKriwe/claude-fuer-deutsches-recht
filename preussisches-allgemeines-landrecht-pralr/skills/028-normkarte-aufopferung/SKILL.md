@@ -1,6 +1,6 @@
 ---
 name: 028-normkarte-aufopferung
-description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Aufopferung Einleitung 74 75 vertieft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Aufopferung Einleitung 74 75 vertieft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
@@ -60,4 +60,3 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 2. Eingriffsopfer ist Unbeteiligter bzw. Sonderbetroffener (Sonderopfer)?
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
 4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
-

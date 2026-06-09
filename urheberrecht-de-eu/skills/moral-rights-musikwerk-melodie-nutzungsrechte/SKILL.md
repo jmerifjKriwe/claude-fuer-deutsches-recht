@@ -84,4 +84,3 @@ Konkret zu prüfen:
 - § 2 Abs. 1 Nr. 2 UrhG
 - § 73 UrhG (ausübende Künstler)
 - § 85 UrhG (Tonträgerhersteller)
-

@@ -1,6 +1,6 @@
 ---
 name: innovations-und-technologiemaerkte
-description: "Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prüft Innovationsmaerkte technologische Substitution Standard-Essential-Patents FuE-Maerkte. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster Innovation-Markets-Doktrin Patent-Pool-Effekte Innovationswettbewerb als Ausgleich. Output Marktdefinitions-Memo Innovationsmarkt-Analyse Risikobewertung für Fusionskontrolle. Abgrenzung: fusionskontrolle-modus für allgemeine Fusionskontroll-Marktabgrenzung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prüft Innovationsmaerkte technologische Substitution Standard-Essential-Patents FuE-Maerkte. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinit..."
 ---
 
 # Innovations- und Technologiemärkte
@@ -80,4 +80,3 @@ Technologiemarkt-Dimension: **berücksichtigt / unvollständig / ignoriert** mit
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Innovationsmarkt Wearables; Dynamik des Produktsatzes; Zukunftsmaerkte als Wettbewerbsfaktor.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Innovationspotenzial als Marktmacht-Faktor § 18 Abs. 3a GWB.
-

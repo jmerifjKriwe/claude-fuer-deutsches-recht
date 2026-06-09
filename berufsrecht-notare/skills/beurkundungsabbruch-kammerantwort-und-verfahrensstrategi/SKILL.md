@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - § 17 BeurkG (Belehrungspflicht)
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

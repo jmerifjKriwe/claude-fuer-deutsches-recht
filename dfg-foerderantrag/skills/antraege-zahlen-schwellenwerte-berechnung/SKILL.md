@@ -1,6 +1,6 @@
 ---
 name: antraege-zahlen-schwellenwerte-berechnung
-description: "Antraege: Zahlen, Schwellenwerte und Berechnung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Antraege: Zahlen, Schwellenwerte und Berechnung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung
@@ -85,4 +85,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Programmpauschale auf Programmpauschale aufgeschlagen ("Multiplikation").
 - Geräte > 10.000 EUR ohne Einzelbegründung pauschal als "Sachmittel" verbucht.
 - Promovierende mit 100 %-Stelle beantragt, obwohl in Geisteswissenschaften regelmäßig 65 % oder 75 % üblich sind - vermeintliche Großzügigkeit wirkt antragsschwächend.
-

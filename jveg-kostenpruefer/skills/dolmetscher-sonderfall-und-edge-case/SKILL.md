@@ -46,4 +46,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Anti-Muster
 - Pauschalsatz statt detaillierter Zeitaufstellung (führt zu Kürzung im Festsetzungsverfahren).
 - Übersetzungsauftrag ohne Festlegung der Standardzeile (§ 11 JVEG).
-

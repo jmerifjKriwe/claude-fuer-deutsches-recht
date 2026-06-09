@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 204 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__204.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 195 BGB](https://dejure.org/gesetze/BGB/195.html)
-

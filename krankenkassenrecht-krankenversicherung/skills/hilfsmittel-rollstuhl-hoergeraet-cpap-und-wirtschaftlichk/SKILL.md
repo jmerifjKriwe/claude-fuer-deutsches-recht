@@ -90,4 +90,3 @@ Dieser Skill bearbeitet **Hilfsmittelversorgung** in der GKV: vom Antrag bis zur
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 33 SGB V](https://dejure.org/gesetze/SGB_V/33.html)
 - [§ 139 SGB V – Hilfsmittelverzeichnis](https://www.gesetze-im-internet.de/sgb_5/__139.html)
-

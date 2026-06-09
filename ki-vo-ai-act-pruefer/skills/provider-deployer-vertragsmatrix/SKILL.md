@@ -28,4 +28,3 @@ KI-Verträge scheitern oft daran, dass technische und regulatorische Verantwortu
 - Kein Zugriff auf Modell- oder Versionsinformationen.
 - Keine Incident-Fristen.
 - Unklare Haftung bei Outputfehlern.
-

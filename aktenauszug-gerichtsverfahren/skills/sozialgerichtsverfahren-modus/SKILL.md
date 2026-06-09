@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren-modus
-description: "Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG) im Aktenauszug Gerichtsverfahren."
+description: "Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster SGG-spezifische Fristen Vorverfahrens-Prüfung Leistungsarten. Output SGG-spezifisc..."
 ---
 
 # Sozialgerichtsverfahren-Modus (SGG)
@@ -95,4 +95,3 @@ Das Sozialgericht ermittelt den Sachverhalt von Amts wegen. Beweisangebote der P
 - Leistungsart und Leistungszeitraum im Verfahrensidentifikationsblock aufführen
 - Gutachten (ärztliche / berufskundliche) als eigene Kategorie in Beweismittel-Tabelle
 - Kostenrecht: keine Gerichtskosten für Versicherte (§ 183 SGG)
-

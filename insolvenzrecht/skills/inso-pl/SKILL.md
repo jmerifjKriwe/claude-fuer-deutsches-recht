@@ -51,4 +51,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Verschwiegenheit § 43a BRAO:** Mandantengeheimnis auch nach Insolvenzeröffnung; Verwalter wird nicht automatisch Mandant.
 - **Aufklärungspflicht:** Geschäftsführer ist über § 15a, § 15b InsO und § 266a StGB (Sozialversicherungsbeiträge) ausdrücklich aufzuklären — Beweissicherung der Aufklärung (E-Mail, Protokoll).
 - **Eilkommunikation:** Bei akuter Antragspflicht keine Beratung nur per E-Mail; telefonische Aufklärung dokumentieren.
-

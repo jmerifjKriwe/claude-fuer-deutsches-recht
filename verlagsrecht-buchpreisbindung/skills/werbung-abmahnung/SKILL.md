@@ -110,4 +110,3 @@ Verlage werben mit **Bestseller-Listen, Preisauszeichnungen und Rezensionszitate
 - **Bestseller-Nachweis-Dokumentation**: Liste, Zeitraum, Platzierung
 - **Abmahnungs-Reaktions-Schreiben**: Bei Irreführungs-Vorwurf
 - **Influencer-Kooperations-Transparenzcheck**
-

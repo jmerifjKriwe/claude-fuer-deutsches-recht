@@ -53,4 +53,3 @@ Der Skill verhindert, dass schuldrechtliche Betreiberverträge dingliche Zustimm
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

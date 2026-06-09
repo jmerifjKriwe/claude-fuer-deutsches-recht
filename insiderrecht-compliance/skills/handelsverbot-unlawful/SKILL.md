@@ -77,4 +77,3 @@ Erstelle für jede verdachtsauslösende Transaktion:
 - Handelsplan oder -strategie vor der Insiderinformation (z. B. Spar-/Investitionsplan)
 - Nachweis, dass Entscheidung vor Kenntnis getroffen wurde
 - Belege für Safe-Harbour-Tatbestand (falls zutreffend)
-

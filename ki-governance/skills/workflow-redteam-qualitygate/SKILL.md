@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Häufiger Fehler: Pauschalsubsumtion "kein Hochrisiko" ohne Anhang-III-Prüfung. Im Output stets sichtbar machen: welche Anhang-III-Ziffer geprüft, mit welcher Begründung ausgeschlossen — sonst trägt die Klassifizierung im Audit nicht.
-

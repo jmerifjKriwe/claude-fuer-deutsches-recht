@@ -1,6 +1,6 @@
 ---
 name: zvg-antrag-glaeubiger
-description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht im Zwangsvollstreckung."
+description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-A..."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)
@@ -91,4 +91,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Wertgrenzen § 85a ZVG beachten – im ersten Termin kann Zuschlag versagt werden.
 - Bei Insolvenz § 30d ZVG mitdenken.
 - Bei selbstgenutztem Wohneigentum § 765a ZPO mit Härtefall-Vortrag rechnen.
-

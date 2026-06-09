@@ -1,6 +1,6 @@
 ---
 name: rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao
-description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz im Steuerrecht Anwalt Und Berater."
+description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten geb..."
 ---
 
 # Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG
@@ -52,4 +52,3 @@ description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrech
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

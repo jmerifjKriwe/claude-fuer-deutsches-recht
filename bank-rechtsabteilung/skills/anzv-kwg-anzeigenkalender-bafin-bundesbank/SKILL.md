@@ -66,4 +66,3 @@ Dieser Skill erstellt einen operativen Anzeigenkalender für KWG-Institute nach 
 ### Leitentscheidungen
 
 - BGH XI ZR 56/93
-

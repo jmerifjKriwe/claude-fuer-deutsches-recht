@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Vor Klageweg zuerst Schlichtung nach § 21 BFSG anbieten — sie ist niedrigschwellig, dokumentiert den Konflikt und ist oft Zugangsvoraussetzung für später folgende Schadensersatzforderungen oder behördliche Maßnahmen.
-

@@ -38,4 +38,3 @@ Konkret zu prüfen:
 
 - § 184 GVG (Deutsch)
 - § 186 GVG (Übersetzer)
-

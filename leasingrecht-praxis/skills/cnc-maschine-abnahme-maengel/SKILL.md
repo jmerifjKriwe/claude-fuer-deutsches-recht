@@ -107,4 +107,3 @@ description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzision
 - **Mängelrüge-Vorlage**: LN an CNC-Hersteller (abgetretenes Recht)
 - **Wartungsnachweis-Formular**: Kalibrier- und Serviceprotokoll
 - **Rückgabe-Checkliste CNC**: Geometrie, Verschleiß, Transport
-

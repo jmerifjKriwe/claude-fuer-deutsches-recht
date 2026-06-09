@@ -30,4 +30,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: Mandantendaten in nicht AVV-bewehrtes KI-Tool eingeführt; US-Cloud ohne TIA; Verstoß § 203 StGB sichtbar; aktuelle Beschwerde Rechtsanwaltskammer.
 - **Gelb**: AVV vorhanden, aber TOM-Anlage fehlt; KI-Tool ohne dokumentierte Klassifizierung; Schulungsnachweis Art. 4 KI-VO offen.
 - **Grün**: AVV + TOM + ggf. SCC + TIA; dokumentierte KI-Klassifizierung; Schulung; intern verabschiedete KI-Richtlinie.
-

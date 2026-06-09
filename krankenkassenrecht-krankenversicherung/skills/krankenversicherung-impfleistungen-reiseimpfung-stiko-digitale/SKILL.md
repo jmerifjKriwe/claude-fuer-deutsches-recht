@@ -88,4 +88,3 @@ GKV übernimmt Kosten für Schutzimpfungen nach STIKO-Empfehlung. Dieser Skill k
 - [§ 60 IfSG – Impfschaden](https://www.gesetze-im-internet.de/ifsg/__60.html)
 - [BSG Impfrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 20i SGB V](https://dejure.org/gesetze/SGB_V/20i.html)
-

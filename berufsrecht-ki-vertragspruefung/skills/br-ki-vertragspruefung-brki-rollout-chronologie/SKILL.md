@@ -1,6 +1,6 @@
 ---
 name: br-ki-vertragspruefung-brki-rollout-chronologie
-description: "Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Berufsrecht KI-Vertragsprüfung."
+description: "Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertragspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill..."
 ---
 
 # Berufsrecht KI-Vertragspruefung — Allgemein
@@ -207,4 +207,3 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - Gesetzesfassungen zum Stand-Datum
 - aktueller berufsrechtlicher Debattenstand zur Einordnung von KI-Tools
 - BRAK-Hinweise 12/2024
-

@@ -130,4 +130,3 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxisempfehlung.
-

@@ -30,4 +30,3 @@ Dieser Skill prüft, ob eine medizinische Behandlung wirksam eingewilligt, ordnu
 3. Dokumentationslücken nach § 630f BGB nicht automatisch als Haftung behandeln, sondern über § 630h BGB in Beweisfolgen übersetzen.
 4. Hypothetische Einwilligung nur bearbeiten, wenn der konkrete Entscheidungskonflikt des Patienten greifbar ist.
 5. Output als Behandlungszeitstrahl, Aufklärungsmatrix, Beweislasttabelle und Anspruchs-/Verteidigungsvermerk liefern.
-

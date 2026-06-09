@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-zulaessigkeit-407
-description: "Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog § 407 Abs. 2 StPO. Sachliche Zuständigkeit Amtsgericht. Keine U-Haft. Keine Beweisprobleme die Hauptverhandlung erfordern. Ablehnung durch Richter § 408 Abs. 3 StPO. Nichtigkeit bei Zulässigkeitsmaengeln im Strafbefehl Verteidiger."
+description: "Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog § 407 Abs. 2 StPO. Sachliche Zuständigkeit Amtsgericht. Keine U-Haft. Keine Beweisprobleme die Hauptverhandlung erfordern. Ablehnung durch Richter § 408 Abs. 3 StPO. Nichtigkeit bei Zulässigkeitsmaengeln im Strafbefehl..."
 ---
 
 # Zulaessigkeit des Strafbefehls — § 407 StPO
@@ -82,4 +82,3 @@ Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog 
 - Nichtigkeit eines unzulaessigen Strafbefehls tritt von Amts wegen ein — trotzdem Einspruch einlegen um Rechtskraft zu verhindern.
 - Zulaessigkeitsrueage in der Hauptverhandlung vortragen, nicht erst in der Revision.
 - Anwaltliche Endkontrolle bei Qualifizierung Vergehen/Verbrechen.
-

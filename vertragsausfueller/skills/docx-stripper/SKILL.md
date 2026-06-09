@@ -1,6 +1,6 @@
 ---
 name: docx-stripper
-description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung für Vertragstyp-Erkennung und zu Feldinventar im Vertragsausfueller."
+description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Prüfraster DOCX-Zustand pr..."
 ---
 
 # DOCX-Stripper
@@ -60,4 +60,3 @@ description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 <!-- AUDIT 27.05.2026: BGH VII ZR 213/07 (14.01.2010) WRONG_TOPIC – tatsächliches Thema ist Verjährung der Rückforderung von Mangelbeseitigungsvorschüssen, NJW 2010, 1195 (nicht Urkundenauslegung, nicht NJW 2010, 1283). Verifiziert auf dejure.org (https://dejure.org/2010,781). Eintrag korrigiert. -->
-

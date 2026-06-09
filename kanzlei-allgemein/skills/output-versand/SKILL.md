@@ -78,4 +78,3 @@ Messenger nur für geeignete Inhalte nutzen. Bei Fristen, vertraulichen Dokument
 ## Ausgabe
 
 `assets/templates/output-versandprotokoll.md` verwenden.
-

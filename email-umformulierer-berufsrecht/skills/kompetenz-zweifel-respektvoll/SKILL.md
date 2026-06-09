@@ -1,6 +1,6 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persönlichen Angriff (persönlichen-angriff-entschaerfen)."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für..."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren
@@ -52,4 +52,3 @@ Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige N
 | "Ihr Anwalt ist überfordert" | "Die gewählte Strategie erscheint mir in Anbetracht von XY nicht optimal" |
 | "Das haben Sie falsch berechnet" | "In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
 | "Sie verstehen das Gesetz nicht" | "Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
-

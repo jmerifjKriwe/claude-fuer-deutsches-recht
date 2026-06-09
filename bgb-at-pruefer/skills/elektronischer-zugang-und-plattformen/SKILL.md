@@ -74,4 +74,3 @@ des Nutzers ist der gängige Ansatz.
 - Außerhalb der Geschäftszeiten: Im B2B-Bereich Verschiebung auf nächsten Werktag?
 - § 312i BGB: Bestätigungspflichten und ihre Rechtsfolgen?
 - Automatisierte Systeme: Wann gilt eine maschinelle Antwort als rechtsverbindliche Erklärung?
-

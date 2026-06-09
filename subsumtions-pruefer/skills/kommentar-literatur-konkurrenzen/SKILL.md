@@ -62,4 +62,3 @@ Wenn Nutzer keine Literatur bereithält und eine Frage literaturbedürftig ist:
 - Dieses Fachmodul als Quellenhygiene-Gate: keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Frage nach vorhandenen lizenzierten Quellen oder frei zugänglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
 - Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
-

@@ -85,4 +85,3 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 2, Art. 28.
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 - DSK-Kurzpapier Nr. 13 "Auftragsverarbeitung" (Stand 16.01.2018).
-

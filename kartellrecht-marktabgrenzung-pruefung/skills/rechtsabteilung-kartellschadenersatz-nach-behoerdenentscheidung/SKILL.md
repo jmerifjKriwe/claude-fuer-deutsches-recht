@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung
-description: "Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einsc..."
 ---
 
 # Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung
@@ -47,4 +47,3 @@ Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgese
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

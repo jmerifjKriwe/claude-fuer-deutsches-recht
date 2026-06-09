@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Erstprüfung einer Kanzlei zuerst diese Matrix tabellarisch erstellen — meistens fehlen 3-5 zentrale Dokumente. Die Behebung ist auch operativ relativ schnell möglich, sobald die Lücke benannt ist.
-

@@ -1,6 +1,6 @@
 ---
 name: rolle-ehrenamtlicher-sachverstaendiger
-description: "Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im..."
 ---
 
 # Rolle ehrenamtlicher Richter
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-

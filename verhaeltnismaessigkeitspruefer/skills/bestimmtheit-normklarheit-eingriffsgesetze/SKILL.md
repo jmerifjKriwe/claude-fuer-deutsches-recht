@@ -61,4 +61,3 @@ Wenn ein Gesetz bereits an der Bestimmtheit scheitert, kommt die Verhaeltnismaes
 - BVerfGE 126, 170 (Untreue-Beschluss, Bestimmtheit Paragraf 266 StGB)
 - BVerfGE 141, 220 (BKAG-Urteil, heimliche Datenerhebung)
 - BVerfGE 154, 152 (Bestandsdatenauskunft II)
-

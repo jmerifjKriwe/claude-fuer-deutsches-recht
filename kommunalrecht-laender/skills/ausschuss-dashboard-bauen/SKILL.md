@@ -70,4 +70,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Kommunale Wirtschaftstaetigkeit § 107 GO NRW / Art. 87 BayGO an oeffentlichem Zweck und Subsidiaritaet messen.
 - Haushaltsgenehmigung nach §§ 75-79 GO NRW: Sicherungskonzept nach BVerwG 8 C 12.12 dokumentieren.
 - Erschliessungsbeitrag nach §§ 127 ff. BauGB i.V.m. KAG: erste vs. nachmalige Erschliessung trennen.
-

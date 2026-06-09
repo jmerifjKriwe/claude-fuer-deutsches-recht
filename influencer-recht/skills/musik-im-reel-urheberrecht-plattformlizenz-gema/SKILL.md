@@ -73,4 +73,3 @@ Musik in Creator-Content ist ein unterschätztes Haftungsfeld:
 - Lizenzierungspfad für kommerzielle Musik
 - Muster-Anfrage Synchronlizenz
 - Alternative-Plattformen-Liste (royalty-free mit kommerziellem Recht)
-

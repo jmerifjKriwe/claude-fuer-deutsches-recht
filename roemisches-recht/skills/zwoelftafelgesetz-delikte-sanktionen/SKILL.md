@@ -35,4 +35,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Privat/öffentlich trennen:** archaische Mischformen nicht mit modernem Strafrecht gleichsetzen.
 4. **Fortbildung zeigen:** vom starren Satz zur actio, vom Bußsystem zur differenzierten Haftung.
 5. **Kritik sichtbar machen:** Gewalt, Statusunterschiede und Ungleichheit nicht glätten.
-

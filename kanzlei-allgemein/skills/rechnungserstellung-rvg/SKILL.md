@@ -1,6 +1,6 @@
 ---
 name: rechnungserstellung-rvg
-description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebührentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Tätigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung). Reisekosten und Tage- und Abwesenheitsgeld nach VV RVG. Auslagen-Pauschale Nr. 7002 VV RVG. Erzeugt rechtsgueltige Rechnung als PDF und Markdown. Mit Eintrag im Honorar-Tracker."
+description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebührentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Tätigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung)...."
 ---
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)
@@ -135,4 +135,3 @@ Konsolen-Rechner für RVG-Gebühren nach Anlage 2 (Stand 01.01.2021):
 - Umsatzsteuer (Default 19 %).
 
 Aufruf: `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3`. Liefert Netto, USt., Brutto in deutscher Zahlenschreibweise. Ersetzt nicht die RVG-Abrechnung im Kanzleisystem, sondern hilft beim schnellen Plausibilisieren.
-

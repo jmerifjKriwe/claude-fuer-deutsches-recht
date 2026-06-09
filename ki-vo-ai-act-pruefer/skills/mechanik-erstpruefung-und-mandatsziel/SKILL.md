@@ -74,4 +74,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Frühe Klassifizierung als "kein KI-System" oder "minimales Risiko" spart Aufwand, kann aber bei späterer Aufsichtsfeststellung doppelte Kosten und Marktausschluss verursachen. Empfehlung: konservative Klassifizierung mit dokumentierter Begründung statt einer Selbsteinschätzung "nicht erfasst".
-

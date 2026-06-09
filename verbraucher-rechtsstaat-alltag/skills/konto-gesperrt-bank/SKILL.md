@@ -64,4 +64,3 @@ Erzeuge Sofortanfrage, Unterlagenpaket, P-Konto-Check, BaFin-Beschwerde und Eils
 ## Prompts, die dieser Skill stellen soll
 
 - Sperrgrund, Banknachricht, Pfändung, Guthaben, Gehalt/Sozialleistung?
-

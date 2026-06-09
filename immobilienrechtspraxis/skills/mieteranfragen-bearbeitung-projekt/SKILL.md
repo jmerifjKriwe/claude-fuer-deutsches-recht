@@ -109,4 +109,3 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - `betriebskostenabrechnung-erstellen-asset-management`
 - `betriebskostenabrechnung-pruefen-asset-management`
 - `weg-abrechnung-mieterschnittstelle-datenpaket`
-

@@ -45,4 +45,3 @@ Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: öffentlichen 
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

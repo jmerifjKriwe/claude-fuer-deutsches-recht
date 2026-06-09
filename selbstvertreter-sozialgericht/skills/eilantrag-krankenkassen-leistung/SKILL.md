@@ -157,4 +157,3 @@ Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsa
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

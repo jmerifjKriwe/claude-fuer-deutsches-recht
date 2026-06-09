@@ -56,4 +56,3 @@ Der Skill nutzt drei Ebenen:
 ## Zitierhygiene
 
 Keine BeckRS-, juris- oder Kommentarzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle. Bekannte Anker: BVerfG 05.05.2015 - 2 BvL 17/09 u.a.; BVerfG 04.05.2020 - 2 BvL 4/18; BVerfG 04.05.2020 - 2 BvL 6/17 u.a.; BVerfG 17.09.2025 - 2 BvL 20/17 u.a. Vor Ausgabe wird die konkrete Quelle live geprüft.
-

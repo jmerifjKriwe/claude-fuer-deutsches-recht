@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verbandsklagen:** Anerkannte Umweltvereinigungen über § 64 BNatSchG, UmwRG; keine Verletzung subjektiver Rechte erforderlich.
 - **Präklusion durch Einwendungen:** Wer im Aufstellungsverfahren nichts geltend gemacht hat, kann im Normenkontrollverfahren idR nicht erstmals materielle Einwände vorbringen (§ 47 Abs. 2a VwGO).
 - **Praktiker-Tipp:** Nachbarn sollten frühzeitig im Beteiligungsverfahren konkrete Einwendungen (mit Belegen wie Verkehrsgutachten, Lärmgutachten) einbringen; sonst droht im Normenkontrollverfahren der Erfolg an der mangelnden Antragsbefugnis zu scheitern.
-

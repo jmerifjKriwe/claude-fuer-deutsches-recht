@@ -112,4 +112,3 @@ ich teile Ihnen mit, dass ich meine sämtlichen gegenwärtigen und künftigen Fo
 - DSGVO Art. 14 zur Informationspflicht.
 - BGH zur Wirksamkeit der Abtretungsanzeige und zur Vollmachtsfrage (st. Rspr., amtliche Sammlung).
 - BaFin-Merkblatt zum Factoring (zu organisatorischen Mindestanforderungen).
-

@@ -66,4 +66,3 @@ Wer einen Schriftsatz unterschreibt oder über das besondere elektronische Anwal
 - Welche KI-Teile wurden verworfen oder geändert?
 - Welche Risikopunkte bleiben offen?
 - Wer hat final freigegeben?
-

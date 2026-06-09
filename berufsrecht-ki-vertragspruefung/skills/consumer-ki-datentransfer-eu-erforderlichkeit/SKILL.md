@@ -39,4 +39,3 @@ Dieser Skill verhindert den häufigsten Denkfehler: Nicht jede KI ist berufsrech
 ## Entscheidungssatz
 
 Formuliere nie pauschal "KI mit Mandatsdaten ist verboten" oder "Enterprise reicht". Formuliere: Zulässig ist nur die konkret erforderliche Offenlegung an einen hinreichend gebundenen, kontrollierten und dokumentierten Dienstleister; alles andere bleibt anonymisierte Nutzung oder Sperrfall.
-

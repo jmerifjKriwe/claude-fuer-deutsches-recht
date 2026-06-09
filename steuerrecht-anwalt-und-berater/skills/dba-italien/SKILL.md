@@ -152,4 +152,3 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 Stand: 05/2026. DBA-Italien 18.10.1989, in Kraft 26.12.1992 (BGBl. 1990 II S. 742). Kein MLI (Italien nicht ratifiziert, Stand 01/2026). Subject-to-Tax-Klausel in Abschn. 16 Buchst. d Protokoll zum DBA-Italien. Dividenden: 5/15 Prozent; Zinsen: 10 Prozent Quellensteuer; Lizenzen: 0 Prozent. Aktuellen DBA-Text im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az angepasst oder Satz neu formuliert) -->
-

@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Eine AVV-Klausel "Mitarbeitende sind auf Verschwiegenheit i.S.d. § 203 StGB verpflichtet" ist Mindeststandard, nicht optional. Fehlt sie, bleibt das berufsrechtliche Risiko trotz Art. 28 DSGVO bestehen — § 203 StGB ist eigenständig neben DSGVO.
-

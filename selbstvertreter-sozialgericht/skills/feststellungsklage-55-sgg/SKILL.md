@@ -117,4 +117,3 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 55 SGG aktuell.
-

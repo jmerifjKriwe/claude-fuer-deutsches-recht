@@ -1,6 +1,6 @@
 ---
 name: schuldnerwiderspruch-184
-description: "Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176 im Insolvenzforderungsanmeldungspruefung."
+description: "Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwid..."
 ---
 
 # Schuldnerwiderspruch nach § 184 InsO
@@ -72,4 +72,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatz-Tatbestand benannt?** Für § 302 Nr. 1 InsO ausdrücklich Tatbestand der vorsätzlich unerlaubten Handlung in der Anmeldung benennen. Schuldnerwiderspruch nach § 184 InsO innerhalb der Frist klären.
-

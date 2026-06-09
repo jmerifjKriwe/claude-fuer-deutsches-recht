@@ -34,4 +34,3 @@ Konkret zu prüfen:
 - §§ 9-16a JGG (Erziehungsmaßregeln)
 - § 17 JGG (Jugendstrafe)
 - § 45 JGG (Diversion)
-

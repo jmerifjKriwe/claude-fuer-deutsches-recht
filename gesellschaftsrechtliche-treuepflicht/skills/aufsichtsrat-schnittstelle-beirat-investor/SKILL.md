@@ -68,4 +68,3 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 - BGH II ZR 240/13
 - BGH II ZR 91/21
-

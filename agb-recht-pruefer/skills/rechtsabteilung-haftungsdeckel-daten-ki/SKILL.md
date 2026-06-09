@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-haftungsdeckel-daten-ki
-description: "Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handl..."
 ---
 
 # Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
@@ -30,4 +30,3 @@ description: "Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

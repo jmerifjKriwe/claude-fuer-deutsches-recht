@@ -52,4 +52,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei BGH-Az.-Zitaten Phishing immer mit Vorsicht: BGH XI ZR 91/14 (26.01.2016) ist anerkannt für "Klick allein nicht grob fahrlässig". Spätere Entscheidungen variieren je nach SCA-Verfahren (push-TAN, smsTAN, App-TAN) — kontextuell prüfen.
-

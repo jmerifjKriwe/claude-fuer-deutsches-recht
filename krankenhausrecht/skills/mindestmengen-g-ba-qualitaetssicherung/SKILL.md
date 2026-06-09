@@ -77,4 +77,3 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - BSG, staend. Rspr. zur Mindestmengen-Prognose.
 - BVerfG zu Verfassungsmaessigkeit von Mindestmengen.
 - Landeskrankenhausgesetze 16 Länder zur Aufsicht und Negativfeststellung.
-

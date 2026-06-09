@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-schule-kita-akustik
-description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauuebe..."
 ---
 
 # Bauueberwachung Schule und Kita Akustik (LPH 8)
@@ -83,4 +83,3 @@ Akustische Maanahmen (Akustikdecken, Wandpaneele) muessen vor Verkleidung auf ko
 - [DIN 4109 Schallschutz](https://www.gesetze-im-internet.de/)
 - [DIN 18040-1 Barrierefreies Bauen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 222/08 Schallschutz Schule](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+222/08)
-

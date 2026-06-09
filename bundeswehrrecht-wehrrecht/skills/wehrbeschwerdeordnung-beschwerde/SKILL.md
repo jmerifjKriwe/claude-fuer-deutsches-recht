@@ -1,6 +1,6 @@
 ---
 name: wehrbeschwerdeordnung-beschwerde
-description: "Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswe..."
 ---
 
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form
@@ -98,4 +98,3 @@ Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten ge
 - WBeauftrG – Volltext gesetze-im-internet.de, Berichte des Wehrbeauftragten beim Deutschen Bundestag.
 - Truppendienstgerichte Süd/Nord – Verfahrensordnung und Geschäftsverteilungspläne (publik bei BVerwG/Truppendienstgerichten).
 - Bundeswehrhandbücher und ZDv nur nach Mandantenvorlage zitieren.
-

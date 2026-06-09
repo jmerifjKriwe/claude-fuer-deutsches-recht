@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean
-description: "Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests."
+description: "Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehle..."
 ---
 
 # Datenraum-Gap-Analyse und Clean Room
@@ -163,4 +163,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Kartellrechtlich sensible Infos im normalen Datenraum: Clean-Room-Pflicht verletzt
 - IM-Widersprueche: Misrepresentation-Risiko des Verkaeuf ers
 - Fehlende wesentliche Dokumente ohne IRL: DD unvollstaendig; Garantierisiko
-

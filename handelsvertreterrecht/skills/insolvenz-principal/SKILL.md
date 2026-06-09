@@ -1,6 +1,6 @@
 ---
 name: insolvenz-principal
-description: "Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung im Handelsvertreterrecht."
+description: "Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffn..."
 ---
 
 # Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [§ 130 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__130.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 116 InsO](https://dejure.org/gesetze/InsO/116.html)
-

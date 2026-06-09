@@ -62,4 +62,3 @@ Die Rezeption des roemischen Rechts bezeichnet den Prozess, durch den das im Mit
 - Bartolus: Konsultationen und Traktate in historischen Editionen (15./16. Jh.)
 - Usus modernus: Stryk-Edition (1690-1712)
 - Sekundaerliteratur: Wieacker, Privatrechtsgeschichte (1967); Coing, Handbuch (1973-88)
-

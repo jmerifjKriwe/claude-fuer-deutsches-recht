@@ -1,6 +1,6 @@
 ---
 name: planfeststellung
-description: "Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Prüfraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz im Verkehr Infrastrukturrecht."
+description: "Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot),..."
 ---
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur
@@ -129,4 +129,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Einwendungen muessen konkret und auf eigene Betroffenheit bezogen sein.
 - Klagebefugnis nach § 42 Abs. 2 VwGO muss sorgfaeltig begruendet werden.
 - Anwaltliche Endkontrolle bei allen Fristen und Einwendungen.
-

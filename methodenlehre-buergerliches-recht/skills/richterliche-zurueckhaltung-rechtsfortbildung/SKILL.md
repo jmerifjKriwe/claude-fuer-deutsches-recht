@@ -1,6 +1,6 @@
 ---
 name: richterliche-zurueckhaltung-rechtsfortbildung
-description: "Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist."
+description: "Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung..."
 ---
 
 # Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

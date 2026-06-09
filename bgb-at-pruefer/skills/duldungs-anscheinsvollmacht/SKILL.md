@@ -79,4 +79,3 @@ erkennen und verhindern können, (4) Gutgläubigkeit des Dritten.
 - Anscheinsvollmacht: Hätte Vertretener es erkennen und verhindern können?
 - Gutgläubigkeit des Dritten in beiden Fällen erforderlich?
 - Rechtsfolge: Vollmacht gilt als erteilt — Vertrag mit Vertretungswirkung?
-

@@ -64,4 +64,3 @@ Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation.
 1. Provinzialrecht / Statutarrecht / Gewohnheit vor ALR? — Einl. §§ 1-7 abarbeiten.
 2. Liegt eine Aufopferungslage vor? — Einl. §§ 74, 75 mit BGB §§ 904, 906 II 2 vergleichen.
 3. Heute lebende Norm oder rein historisch? — Live-Check im Digitalisat plus juris.
-

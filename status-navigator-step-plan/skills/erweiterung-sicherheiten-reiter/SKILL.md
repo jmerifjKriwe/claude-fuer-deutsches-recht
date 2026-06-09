@@ -15,4 +15,3 @@ LausitzStorage Sicherheiten: Grundschuld 80 Mio EUR zu Gunsten NordCap (Eintragu
 - Sicherheiten-Reiter mit Spalten Sicherheit, Besicherter Vertrag, Status, Datum
 - Avalstatus-Subtabelle (gesondert wegen Avalbestaetigungs-Pflicht)
 - Querverweise an Reiter 3 wo Sicherheit fehlt oder Status unklar
-

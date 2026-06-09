@@ -1,6 +1,6 @@
 ---
 name: konzerninsolvenz-koordination
-description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr im Insolvenzrecht."
+description: "Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Un..."
 ---
 
 # Konzerninsolvenz — Koordination
@@ -364,4 +364,3 @@ Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfah
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit bei Bargeschäft (§ 142 InsO) auch in Konzernverhältnissen einschlägig.
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Nachrangigkeit kapitalmarktrechtlicher Aktionärsschadensersatzansprüche in der Insolvenz der AG (Bedeutung für Konzernspitze als Holding-AG).
 - **EuInsVO** und konkrete EuGH-Entscheidungen zu COMI/Konzerninsolvenz vor Ausgabe über curia.europa.eu oder dejure.org verifizieren.
-

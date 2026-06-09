@@ -168,4 +168,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Arglist-Ausnahme nicht geklauselt: Cap ggf. unwirksam für arglistige Taeusching
 - Verjährung nicht abgegrenzt: Tax Warranties koennen unter kurzfristiger Gewaehrleistung fallen
-

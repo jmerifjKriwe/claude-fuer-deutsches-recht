@@ -68,4 +68,3 @@ d) BaFin: Proaktive Meldung erwägen (Kooperationsbonus)
 - Interne Untersuchungsergebnisse schriftlich dokumentieren
 - Maßnahmen (Disziplinarrecht, Strafanzeige, BaFin-Meldung) festhalten
 - Archivierung 3 Jahre nach Abschluss (HinSchG § 11)
-

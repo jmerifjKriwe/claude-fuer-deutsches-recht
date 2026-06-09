@@ -1,6 +1,6 @@
 ---
 name: lph-08-red-team-pruefung
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Ho..."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sucht widersprüche
@@ -32,4 +32,3 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 - Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
 - Bewertungsanker Gebäude/Innenräume: 32 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

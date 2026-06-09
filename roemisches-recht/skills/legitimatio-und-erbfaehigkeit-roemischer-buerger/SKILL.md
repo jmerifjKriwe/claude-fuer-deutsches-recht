@@ -60,4 +60,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Status der Person?
 2. Vermoegen erbfaehig?
 3. Sonderregeln?
-

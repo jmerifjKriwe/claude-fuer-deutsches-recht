@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 95 BNotO (Disziplinarmaßnahmen)
 - §§ 96-101 BNotO
 - § 92 BNotO (Aufsicht)
-

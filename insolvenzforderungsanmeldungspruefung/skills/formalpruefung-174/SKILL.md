@@ -1,6 +1,6 @@
 ---
 name: formalpruefung-174
-description: "Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderungsgrund, Betrag, Nachrang, Urkundenvorlage, elektronische Einreichung EGVP. Output Formalprüfungsprotokoll mit gruener oder roter Ampel und Maengelschreiben-Vorlage. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck im Insolvenzforderungsanmeldungspruefung."
+description: "Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderung..."
 ---
 
 # Formalprüfung nach § 174 InsO
@@ -75,4 +75,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatzklausel § 174 Abs. 2 InsO?** Bei deliktischer Forderung mit Vorsatz ausdrücklich Tatbestand benennen (Folge: Ausschluss von der Restschuldbefreiung nach § 302 Nr. 1 InsO). Sonderfall Wirecard-Konstellation (BGH IX ZR 127/24): kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind keine einfachen Insolvenzforderungen iSd § 38 InsO.
-

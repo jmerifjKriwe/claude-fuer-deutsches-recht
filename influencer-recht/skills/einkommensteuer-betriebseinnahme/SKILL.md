@@ -74,4 +74,3 @@ Creator als Gewerbetreibende oder Freiberufler unterliegen der Einkommensteuer a
 - EÜR-Vorlage für Creator
 - Private-Nutzung-Tabelle (Schätzungsprotokoll)
 - Steueroptimierungscheck: KSK, GewSt-Anrechnung, Verlustabzug
-

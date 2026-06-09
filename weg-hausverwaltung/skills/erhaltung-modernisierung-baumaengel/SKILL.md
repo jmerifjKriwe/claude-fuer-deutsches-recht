@@ -71,4 +71,3 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
-

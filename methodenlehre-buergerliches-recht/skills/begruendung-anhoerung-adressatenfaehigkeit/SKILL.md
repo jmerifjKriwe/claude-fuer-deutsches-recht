@@ -45,4 +45,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Normen vor Rechtsprechung, wenn die verfahrensrechtliche Lösung direkt aus Gesetz oder Grundgesetz folgt.
-

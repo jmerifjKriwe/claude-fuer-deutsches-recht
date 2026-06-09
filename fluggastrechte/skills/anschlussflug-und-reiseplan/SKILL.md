@@ -100,4 +100,3 @@ Verifiziert mit Quelle curia.europa.eu (Volltext jeweils vor Versand aufrufen):
 
 - Bei einheitlicher Buchung lohnt eine sorgfaeltige Prüfung — viele Airlines berechnen falsch.
 - Bei separaten Buchungen Verlust des Anschlusses regelmäßig nicht erstattungsfähig nach VO 261 — daher bei Buchung auf Einheits-PNR achten.
-

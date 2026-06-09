@@ -1,6 +1,6 @@
 ---
 name: dba-quellensteuer-erstattung-bzst-50c
-description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steuerabzug. § 50d Abs. 3 EStG Anti-Treaty-Shopping. § 50j EStG Cum-Cum. Output BZSt-Formularliste Antrags-Checkliste Frist-Hinweise."
+description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steue..."
 ---
 
 # Quellensteuer-Entlastung beim BZSt (§ 50c EStG)
@@ -219,4 +219,3 @@ Sachverhalt: US-Mutter haelt 60 Prozent an deutscher GmbH. Dividende 200.000 EUR
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 2 belegt (EuGH C-504/16 / C-613/16 20.12.2017 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

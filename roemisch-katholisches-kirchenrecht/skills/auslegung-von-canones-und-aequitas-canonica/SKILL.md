@@ -1,6 +1,6 @@
 ---
 name: auslegung-von-canones-und-aequitas-canonica
-description: "Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkre..."
 ---
 
 # Auslegung von Canones und aequitas canonica
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

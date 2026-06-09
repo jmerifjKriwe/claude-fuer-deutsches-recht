@@ -96,4 +96,3 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Modernisierungs-RL 2019/2161 – EUR-Lex.
 - EuGH-Rechtsprechung zu § 312c – curia.europa.eu (Az. verifizieren).
 - BGH ständige Rechtsprechung zu Fernabsatz – bundesgerichtshof.de.
-

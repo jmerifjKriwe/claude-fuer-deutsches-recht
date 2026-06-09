@@ -46,4 +46,3 @@ Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen
 - Ermächtigungsgesetz 1933: ALEX/OeNB
 - GG Art. 123 und 143: gesetze-im-internet.de
 - BVerfGE zur NS-Normfortgeltung: bverfg.de
-

@@ -67,4 +67,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Notstandsverfassung des GG (Art. 80a, 91, 115a-l GG) hat aus diesen Erfahrungen gelernt.
 - Strikte Begrenzungen.
 - Keine Ausschaltung des Parlaments.
-

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-liquidation
-description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte im Insolvenzrecht."
+description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen...."
 ---
 
 # Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen
@@ -176,4 +176,3 @@ Liquidation herleiten will, hat schlechte Karten.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Verzicht (Verlautbarung der OFD — Aktenzeichen/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

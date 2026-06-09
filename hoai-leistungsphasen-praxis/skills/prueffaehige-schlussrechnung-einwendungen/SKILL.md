@@ -36,4 +36,3 @@ description: "HOAI-Fachfrage: prüffähige Architekten-/Ingenieur-Schlussrechnun
 - **Prüffähigkeit:** Fehlende Kostenberechnung, falsche Honorarzone, unklare LPH-Aufteilung oder nicht nachvollziehbare Nebenkosten konkret benennen.
 - **Sachliche Unrichtigkeit:** Nach Prüfung beziffern, welcher Betrag aus welchem Parameter nicht geschuldet sein soll.
 - **Prozesstaktik:** Erst Prüfbarkeitsrüge und Zahlungsfrist, dann hilfsweise materiell prüfen; keine pauschale "alles falsch"-Einwendung.
-

@@ -144,4 +144,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - GEPRIS für Karrierestand-Kalibrierung: gepris.dfg.de
 
 Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prüfen — Verfahrensregeln ändern sich.
-

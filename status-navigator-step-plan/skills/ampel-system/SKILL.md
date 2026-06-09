@@ -15,4 +15,3 @@ LausitzStorage-Akte Stand 02.06.2026: 4 rote Eintraege (Drawstop NordCap, Anlage
 - Bedingte-Formatierung-Regeln je Reiter (Hintergrundfarbe auf Status-Spalte)
 - Restzeit-Ampel im Fristen-Reiter mit Schwellen 30/8 Tage
 - Ampel-Konsistenz-Pruefung zwischen Reiter 2 und 3
-

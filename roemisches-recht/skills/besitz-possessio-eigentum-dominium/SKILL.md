@@ -49,4 +49,3 @@ Possessio ist die tatsächliche Sachherrschaft mit Besitzwillen. Klassisch erfor
 - Gaius Inst. 4.148-160 zu Interdikten
 - Savigny Das Recht des Besitzes (1803) als Grundlagenwerk (archive.org)
 - Kaser RP I §§ 98-108; Jhering Über den Grund des Besitzschutzes
-

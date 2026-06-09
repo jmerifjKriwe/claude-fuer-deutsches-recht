@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterprivileg
-description: "Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung im Handelsvertreterrecht."
+description: "Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie..."
 ---
 
 # Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB
@@ -85,4 +85,3 @@ ergänzen das Recht praxisnah.
 - [EuGH C-217/05 CEPSA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62005CJ0217)
 - [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
 - [Dejure § 1 GWB](https://dejure.org/gesetze/GWB/1.html)
-

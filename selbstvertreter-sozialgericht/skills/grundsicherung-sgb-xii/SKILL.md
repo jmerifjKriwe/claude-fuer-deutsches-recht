@@ -143,4 +143,3 @@ Wie bei anderen Sozialleistungen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst. Sozialamt-Praxis regional unterschiedlich.
-

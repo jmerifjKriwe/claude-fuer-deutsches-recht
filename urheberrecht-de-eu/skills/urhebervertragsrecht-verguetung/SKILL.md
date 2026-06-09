@@ -78,4 +78,3 @@ Konkret zu prüfen:
 - §§ 31-44 UrhG
 - § 32a UrhG (Bestseller)
 - § 36 UrhG (gemeinsame Vergütungsregeln)
-

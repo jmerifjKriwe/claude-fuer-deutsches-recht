@@ -1,6 +1,6 @@
 ---
 name: tatkomplexe-uebersicht
-description: "Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-Ueberschneidungen und gemeinsame Beteiligte im Strafrechts-Aktenaufbereiter."
+description: "Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-U..."
 ---
 
 # Tatkomplexe-Uebersicht
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

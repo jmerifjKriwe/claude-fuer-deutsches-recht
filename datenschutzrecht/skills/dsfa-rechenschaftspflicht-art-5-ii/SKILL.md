@@ -102,4 +102,3 @@ Zugriffskonzept
 - BfDI / Landesbehoerden — Hinweise zur Rechenschaftspflicht
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

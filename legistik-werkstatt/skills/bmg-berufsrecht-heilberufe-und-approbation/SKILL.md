@@ -1,6 +1,6 @@
 ---
 name: bmg-berufsrecht-heilberufe-und-approbation
-description: "Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Länder; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrechte.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik."
+description: "Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Länder; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrecht..."
 ---
 
 # Berufsrecht der Heilberufe und Approbation (BMG)
@@ -86,4 +86,3 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

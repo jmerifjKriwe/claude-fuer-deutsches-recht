@@ -1,6 +1,6 @@
 ---
 name: finaler-writing-quality-gate
-description: "Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste im W..."
 ---
 
 # Finaler Writing Quality Gate
@@ -43,4 +43,3 @@ description: "Finales Quality Gate für juristische Texte vor Versand. Prüft Re
 - Sichtbare interne Kommentare, wenn Clean Version versendet werden soll.
 - Widerspruch zwischen Antrag und Begründung.
 - Anlagenverweis auf nicht vorhandene Anlage.
-

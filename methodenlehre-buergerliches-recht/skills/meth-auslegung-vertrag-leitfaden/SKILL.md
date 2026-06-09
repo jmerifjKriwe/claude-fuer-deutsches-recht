@@ -1,6 +1,6 @@
 ---
 name: meth-auslegung-vertrag-leitfaden
-description: "Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden."
+description: "Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten un..."
 ---
 
 # Vertragsauslegung: Vollständiger Methodenleitfaden
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BGH NJW 2010, 1135 – ergänzende Vertragsauslegung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=NJW%202010%2C%201135)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

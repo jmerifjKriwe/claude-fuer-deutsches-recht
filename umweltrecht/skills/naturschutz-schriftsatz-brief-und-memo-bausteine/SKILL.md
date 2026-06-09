@@ -44,4 +44,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Habitatschutz für prioritäre Arten:** Bei prioritären natürlichen Lebensraumtypen oder prioritären Arten (Anhang I+II FFH-RL) Ausnahme nur aus Gründen der Gesundheit, öffentlicher Sicherheit oder maßgeblichen positiven Auswirkungen auf die Umwelt; sonstige zwingende Gründe nur nach Stellungnahme der KOM (§ 34 Abs. 4 BNatSchG).
 - **Verbandsklagerecht (§ 64 BNatSchG, UmwRG):** Anerkannte Naturschutzvereinigungen können gegen Genehmigungen klagen; UmwRG eröffnet Klagebefugnis ohne Verletzung subjektiver Rechte.
 - **Bußgeld (§ 69 BNatSchG):** Bis 50.000 Euro je Verstoß; bei vorsätzlichen Tötungen streng geschützter Arten Straftat (§ 71 BNatSchG).
-

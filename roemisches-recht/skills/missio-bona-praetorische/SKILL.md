@@ -1,6 +1,6 @@
 ---
 name: missio-bona-praetorische
-description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix."
+description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa..."
 ---
 
 # Rom 112 Missio In Bona Praetorische Vermoegensergreifung
@@ -57,4 +57,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

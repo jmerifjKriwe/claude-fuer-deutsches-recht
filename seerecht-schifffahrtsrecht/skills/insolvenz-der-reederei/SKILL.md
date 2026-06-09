@@ -1,6 +1,6 @@
 ---
 name: insolvenz-der-reederei
-description: "Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie im Seerecht Schifffahrtsrecht."
+description: "Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubi..."
 ---
 
 # Insolvenz der Reederei – Gläubigerrechte und Verwertung
@@ -85,4 +85,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - ZPO §§ 864-871: https://dejure.org/gesetze/ZPO/864.html
 - EuInsVO Recast: https://dejure.org/gesetze/EuInsVO
 - BGH Insolvenz Schiff: https://www.bgh.de
-

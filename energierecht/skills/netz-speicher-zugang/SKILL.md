@@ -253,4 +253,3 @@ Konkrete Beschwerdeentscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / bunde
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde (curia.europa.eu)
 - EU REMIT 1227/2011
 - EU-Strommarktordnung 2019/943 + Reform VO (EU) 2024/1747
-

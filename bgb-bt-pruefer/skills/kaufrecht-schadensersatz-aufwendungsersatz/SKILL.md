@@ -65,4 +65,3 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 - https://www.gesetze-im-internet.de/bgb/__437.html
 - https://www.gesetze-im-internet.de/bgb/__280.html
 - https://www.gesetze-im-internet.de/bgb/__284.html
-

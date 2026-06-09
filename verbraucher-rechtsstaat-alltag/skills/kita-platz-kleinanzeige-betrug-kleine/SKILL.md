@@ -64,4 +64,3 @@ Erzeuge Widerspruch/Antrag je nach Landesrecht, Eilantragsbausteine, Nachweislis
 ## Prompts, die dieser Skill stellen soll
 
 - Alter des Kindes, gewünschter Start, bisherige Bewerbungen, Bescheid?
-

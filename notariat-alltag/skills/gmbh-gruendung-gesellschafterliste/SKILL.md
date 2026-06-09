@@ -98,4 +98,3 @@ GmbH-Gründung individuelle Satzung: 2,0 Gebühr (KV Nr. 21100), Gegenstandswert
 - **Kostenvoranschlag**
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

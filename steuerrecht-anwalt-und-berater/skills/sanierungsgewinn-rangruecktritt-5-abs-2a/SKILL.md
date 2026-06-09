@@ -165,4 +165,3 @@ IV. Empfehlung
 - § 8 Abs. 3 KStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung des BFH zu § 5 Abs. 2a EStG (ständige Rspr.): keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

@@ -1,6 +1,6 @@
 ---
 name: idw-iv
-description: "Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel im Insolvenzverwaltung."
+description: "Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditäts..."
 ---
 
 # Sanierungsfähigkeit-Gate für Insolvenzverwaltung
@@ -131,4 +131,3 @@ Erstelle ein Register mit:
 - `iv-plan-vergleichsrechnung` für Planfall gegen Liquidation.
 - `iv-plan-redteam-qualitygate` für die harte Endprüfung.
 - `iv-schutzschirm-270d` bei Schutzschirm- oder Eigenverwaltungsroute.
-

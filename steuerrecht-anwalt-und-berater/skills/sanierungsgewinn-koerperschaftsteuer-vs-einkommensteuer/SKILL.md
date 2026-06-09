@@ -165,4 +165,3 @@ Bindungswirkung nach Feststellung: EUR ...
 - § 4 Abs. 1 EStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

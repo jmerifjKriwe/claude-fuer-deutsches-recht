@@ -41,4 +41,3 @@ description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share D
 5. **Closingfähigkeit:** Conditions precedent, Bring-down, Vollmachten, Post-Closing-Registerplan.
 6. **Vertretungsmacht:** Geschäftsführer, Insolvenzverwalter, Liquidator, Trustee, Notarvollmacht, Apostille/Legalisation und Registerfähigkeit gesondert sichern.
 7. **Nebenassets:** Domains, Social Handles, Produktdesigns, Werbematerial, Datenbanken und Goodwill nicht stillschweigend als "Marke" behandeln.
-

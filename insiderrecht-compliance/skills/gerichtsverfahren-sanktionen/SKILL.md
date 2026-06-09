@@ -70,4 +70,3 @@ Neue Insiderinformationen entstehen ggf. bei:
 - Rechtsabteilung / externe Prozessanwälte: in Insiderliste aufnehmen
 - Regelmäßiger Update-Mechanismus: Quartalsbericht der Rechtsabteilung an Compliance
  über wesentliche neue Entwicklungen in Verfahren mit Ad-hoc-Relevanz
-

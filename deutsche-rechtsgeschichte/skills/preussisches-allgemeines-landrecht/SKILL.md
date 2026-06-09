@@ -64,4 +64,3 @@ Das Allgemeine Landrecht für die Preussischen Staaten (ALR) trat am 1. Juni 179
 - BGB-Vergleich: Mugdan Bd. I-VI für fachliche Einordnung
 - Sekundaerliteratur: Reinhart Koselleck, Preussen zwischen Reform und Revolution (1967)
 - Keine Anwendung heutiger BGB-Kategeorien auf ALR ohne expliziten Vergleich
-

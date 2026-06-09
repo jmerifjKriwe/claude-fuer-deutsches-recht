@@ -1,6 +1,6 @@
 ---
 name: ndas-und-geschaeftsgeheimnisse
-description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen im Handelsvertreterrecht."
+description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen im Hand..."
 ---
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 10 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__10.html)
 - [§ 23 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__23.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
-

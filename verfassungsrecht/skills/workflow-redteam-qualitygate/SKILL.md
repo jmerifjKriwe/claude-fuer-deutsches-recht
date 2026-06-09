@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Keine Präjudizienbindung:** Argumentationsfigur "BVerfG hat entschieden, also …" nur, soweit § 31 BVerfGG greift (Tenor + tragende Gründe).
 - **Verhältnismäßigkeit dreistufig:** Geeignetheit, Erforderlichkeit, Angemessenheit jeweils gesondert prüfen; bei Schranken-Schranken auch Wesensgehaltsgarantie (Art. 19 Abs. 2 GG) ansprechen.
 - **EMRK-/Unionsrechtsbezug:** Wenn Mandant auf Art. 6 EMRK oder GRCh stützt, völkerrechts- und unionsrechtskonforme Auslegung anführen.
-

@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Geruch:** GIRL (Geruchsimmissions-Richtlinie) - Geruchsstundenh채ufigkeit max. 10-15% der Jahresstunden je nach Gebietstyp.
 - **Beweisf체hrung:** Schalldruckmessungen durch Sachverst채ndigen, Geruchsbegutachtung, Schmutz-/Staubprobe, Foto-/Videodokumentation mit Datums-/Uhrzeitstempel, Zeugen, Tagebuch der Vorf채lle.
 - **Praktiker-Tipp:** Bei L채rm immer Tag- und Nachtwerte trennen; bei Industrieemissionen h채ufig BImSchG-Verfahren parallel; bei dauerhaften Streitigkeiten Ortstermin mit Sachverst채ndigem absprechen.
-

@@ -46,4 +46,3 @@ Ehefrau buergt für Geschaeftsschuld des Mannes.
 1. Welche Sicherheit?
 2. Akzessorisch?
 3. Sittenwidrig?
-

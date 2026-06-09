@@ -1,6 +1,6 @@
 ---
 name: tabellenpruefung-cap-table
-description: "'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeignet für M&A-Due-Diligence (Change-of-Control, Abtretungsverbote, MAC-Klauseln in vielen Zielgesellschaftsverträgen), Vendor-Vertragsaudits und jeden anderen Stapeldurchlauf. Lädt bei 'tabellarisches Review', 'Review-Raster', 'Prompt-Tabelle', 'Felder aus Verträgen extrahieren', 'Dokumente auf X, Y, Z prüfen' oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.'"
+description: "'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeig..."
 ---
 
 # Tabellarisches Vertragsreview als Prompt-Matrix
@@ -542,4 +542,3 @@ Eindeutig bewertete Zellen: [N] ([%])
 - **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
 - **Rechtswahlklausel auslaendisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst pruefen.
 - **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.
-

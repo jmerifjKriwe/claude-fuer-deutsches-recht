@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-informationsfreiheit
-description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller im Datenbankrecht."
+description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritt..."
 ---
 
 # Datenbankrecht und Informationsfreiheit — IFG versus Herstellerrecht
@@ -63,4 +63,3 @@ description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IF
 - [IWG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/iwg/index.html)
 - [DSGVO Art. 86 — dejure.org](https://dejure.org/gesetze/DSGVO/86.html)
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
-

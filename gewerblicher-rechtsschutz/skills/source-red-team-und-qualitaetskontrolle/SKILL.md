@@ -152,4 +152,3 @@ Empfehlung vor Versand:
 - `spezial-source-red-team-und-qualitaetskontrolle` – Dieser Skill (Selbstreferenz)
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislastfragen
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
-

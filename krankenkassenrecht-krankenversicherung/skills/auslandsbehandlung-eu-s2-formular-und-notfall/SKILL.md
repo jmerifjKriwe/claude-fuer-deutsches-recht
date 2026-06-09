@@ -116,4 +116,3 @@ Dieser Skill klärt **GKV-Leistungen für Behandlungen im Ausland**: Notfallvers
 - BGH III ZR 17/18
 - BGH IV ZR 194/07
 - BGH IV ZR 62/16
-

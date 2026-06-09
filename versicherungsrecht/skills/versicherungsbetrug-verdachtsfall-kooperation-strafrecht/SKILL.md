@@ -39,4 +39,3 @@ VVG §§ 28, 31; StGB § 263; StPO; DSGVO; BGB.
 ## Anschluss-Skills
 
 - Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
-

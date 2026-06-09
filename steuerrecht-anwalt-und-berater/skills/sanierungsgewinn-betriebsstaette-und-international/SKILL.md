@@ -154,4 +154,3 @@ the German tax authorities.
 - Doppelbesteuerungsabkommen — jeweils einschlägiges DBA.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

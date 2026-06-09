@@ -1,6 +1,6 @@
 ---
 name: strafrahmen-und-strafzumessungsstufen
-description: "Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung im Strafzumessung."
+description: "Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konk..."
 ---
 
 # Strafrahmen und Strafzumessungsstufen
@@ -96,4 +96,3 @@ Wenn mehrere § 49 Abs. 1 StGB-Milderungen zusammentreffen (z.B. Beihilfe + verm
 - Einschlaegige Spezialnormen je nach Tatbestand.
 - BGH-Linie zu mehrfacher Milderung und Regelbeispielen — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

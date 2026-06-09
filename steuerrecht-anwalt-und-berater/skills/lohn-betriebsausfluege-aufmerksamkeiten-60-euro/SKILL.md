@@ -114,4 +114,3 @@ Stand: 05/2026.
 - EStG §§ 8, 19, 37b.
 - LStR R 19.6, R 19.7.
 - BMF v. 13.04.2021 (Gutscheine).
-

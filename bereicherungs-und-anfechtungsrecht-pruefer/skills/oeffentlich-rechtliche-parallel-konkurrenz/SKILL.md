@@ -1,6 +1,6 @@
 ---
 name: oeffentlich-rechtliche-parallel-konkurrenz
-description: "Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwickl..."
 ---
 
 # Öffentlich-rechtliche Rückforderung abgrenzen
@@ -75,4 +75,3 @@ Anwendungsfall: zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuha
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

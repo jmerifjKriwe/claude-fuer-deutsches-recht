@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Entgelt Nebenkosten Service Fees: prüft, r
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

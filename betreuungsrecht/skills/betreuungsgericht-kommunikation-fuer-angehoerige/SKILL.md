@@ -88,4 +88,3 @@ Mit freundlichen Grüßen
 - `vermoegensverzeichnis-pruefung`
 - `familienbetreuer-alltagscockpit`
 - `kalender-reminder-und-fristenmanagement`
-

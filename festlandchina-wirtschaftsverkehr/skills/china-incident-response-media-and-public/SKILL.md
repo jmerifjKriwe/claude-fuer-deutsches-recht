@@ -1,6 +1,6 @@
 ---
 name: china-incident-response-media-and-public
-description: "Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage im Festlandchina Wirtschaftsverkehr."
+description: "Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Rev..."
 ---
 
 # Incident Response China: Behördliche Maßnahmen und Notfallprotokoll
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

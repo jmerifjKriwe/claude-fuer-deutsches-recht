@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausführung) und elsj-qualitaetsgate (Prüfung)."
+description: "Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu..."
 ---
 
 # Kommandocenter
@@ -117,4 +117,3 @@ Liefere bei jedem Ergebnis:
 2. **Kurzprotokoll**, welche juristischen Inhalte erhalten wurden.
 3. **Glossar** für schwere Wörter.
 4. **Offene Prüfungen**, insbesondere Nutzerprüfung bei Leichter Sprache.
-

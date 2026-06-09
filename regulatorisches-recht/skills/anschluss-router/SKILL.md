@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Regulatorisches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Regulatorisches Recht."
+description: "Einstieg, Schnelltriage und Fallrouting im Regulatorisches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstän..."
 ---
 
 # Regulatorisches Recht — Allgemein
@@ -224,4 +224,3 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 - EuGH C-6/64
 - EuGH C-117/20
-

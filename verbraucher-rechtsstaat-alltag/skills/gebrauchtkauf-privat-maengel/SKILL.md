@@ -66,4 +66,3 @@ Erzeuge Mängelrüge, Beweissicherungsliste, Vergleichsvorschlag und Entscheidun
 - Was stand im Inserat?
 - Wann wurde der Mangel entdeckt?
 - Gibt es Fotos vor Übergabe?
-

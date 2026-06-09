@@ -1,6 +1,6 @@
 ---
 name: stellplatzsatzung-bay-bauordnung
-description: "Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Prüfraster: Reduzierung Stellplatzschluessel durch örtliche Bauvorschrift sachliche Rechtfertigung Mobilitaetskonzept Parkdruck-Verlagerung Stellplatzbilanz. Output: Stellplatzsatzungs-Prüfprotokoll und Angriffspunkt Normenkontrolle. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (Festsetzungen gesamt) und normenkontrollantrag-schriftsatz."
+description: "Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Prüfraster: Reduzierung Stellplatzschluessel durch örtliche Bauvorschrift sachliche Rechtfertigung Mobilitaetskonzept Parkdruck-Verl..."
 ---
 
 # Stellplatzsatzung — Art. 47 BayBO
@@ -143,4 +143,3 @@ description: "Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder de
 ## Ergänzende Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

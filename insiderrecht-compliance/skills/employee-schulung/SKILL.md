@@ -72,4 +72,3 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 - Ausübungsfenster nur in eröffneten Trading Windows
 - Pre-Clearance-Pflicht für diskretionäre Ausübungen
 - Regelmäßige Schulung der Programmteilnehmer
-

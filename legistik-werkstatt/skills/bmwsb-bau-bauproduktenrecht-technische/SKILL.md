@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bau-bauproduktenrecht-technische
-description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung) im Legistik."
+description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko..."
 ---
 
 # Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB)
@@ -84,4 +84,3 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

@@ -48,4 +48,3 @@ Das Dokumenteninkasso (Documentary Collection) ist eine kostengünstigere Altern
 - Konnossement als Order-BL: sichert Dokumentenkontrolle bei D/P
 - Inkassoauftrag: URC 522-Einbeziehungsklausel und vollständige Anweisungen
 - Wechselakzept: Wechselrecht des Käuferlands vor D/A-Einsatz prüfen
-

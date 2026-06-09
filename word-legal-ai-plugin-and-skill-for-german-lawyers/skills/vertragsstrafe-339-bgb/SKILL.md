@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-339-bgb
-description: "Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung..."
 ---
 
 # Vertragsstrafe nach §§ 339-345 BGB
@@ -76,4 +76,3 @@ Hinweis: In AGB gegenüber Verbrauchern ist die Klausel nach § 309 Nr. 6 BGB un
 - §§ 74 ff. HGB (Wettbewerbsverbote), § 348 HGB (Herabsetzungsausschluss).
 - Methodische Grundlagen: `references/methodik-buergerliches-recht.md`.
 - Zitierweise: `references/zitierweise.md`. Konkrete Rechtsprechung des BGH zur Vertragsstrafe (etwa zur "fortgesetzten Handlung" und zur Kappungsgrenze in AGB) ist vom Nutzer fundstellengenau zu verifizieren.
-

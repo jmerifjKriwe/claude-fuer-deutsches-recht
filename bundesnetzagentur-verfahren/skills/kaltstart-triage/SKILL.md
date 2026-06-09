@@ -203,4 +203,3 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 Weitere Skills: insgesamt 220 Anschluss-Skills in diesem Plugin.
 
 <!-- END ACTUAL-SKILL-ROUTING -->
-

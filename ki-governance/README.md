@@ -253,7 +253,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `use-case-risk-classification` | Use-Case-Risikoklassifizierung nach KI-VO und DSGVO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance. |
 | `vendor-behoerden-gericht-und-registerweg` | Vendor: Behörden-, Gerichts- oder Registerweg im Plugin ki governance im Ki Governance. |
 | `vo-pflichtenpyramide-kig-ai-foundation` | Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Ueber... |
-| `werbung-beweislast` | Werbung Beweislast im KI-Governance im Ki Governance. |
+| `werbung-beweislast-und-darlegungslast` | Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung im Plugin ki governance. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Ki Governance. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Ki Governance. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Ki Governance. |

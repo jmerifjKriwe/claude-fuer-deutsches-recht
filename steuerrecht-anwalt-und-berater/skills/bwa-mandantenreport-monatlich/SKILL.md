@@ -1,6 +1,6 @@
 ---
 name: bwa-mandantenreport-monatlich
-description: "Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung. Output Mandantenreport als PDF Querverweis stb-routine-monatsabschluss-30-tage-zyklus."
+description: "Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung. Output Mandantenreport als PDF Querverweis stb-routine-monatsabschluss-30-tage-z..."
 ---
 
 # Monatlicher Mandantenreport
@@ -131,4 +131,3 @@ Stand: 05/2026.
 - DSGVO Art. 32.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 - IDW PS 480.
-

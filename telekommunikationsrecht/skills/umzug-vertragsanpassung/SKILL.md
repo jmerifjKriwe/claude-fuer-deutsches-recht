@@ -28,4 +28,3 @@ TKG Kundenschutzvorschriften zum Umzug live prüfen; BGB Dauerschuldverhältnis;
 
 - tk-mindestvertragslaufzeit-kuendigung
 - tk-glasfaser-hausanschluss-wegerecht
-

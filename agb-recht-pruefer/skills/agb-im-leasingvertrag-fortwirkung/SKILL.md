@@ -42,4 +42,3 @@ description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und
 2. Drittabtretungsmodell vereinbart?
 3. Restwertklausel transparent?
 4. Mehrkilometerregelung angemessen?
-

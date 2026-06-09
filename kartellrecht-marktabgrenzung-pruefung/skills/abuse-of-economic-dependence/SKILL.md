@@ -1,6 +1,6 @@
 ---
 name: abuse-of-economic-dependence
-description: "Relative Marktmacht und Economic Dependence: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Relative Marktmacht und Economic Dependence: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Ma..."
 ---
 
 # Relative Marktmacht und Economic Dependence
@@ -62,4 +62,3 @@ description: "Relative Marktmacht und Economic Dependence: Fachmodul für große
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.
-

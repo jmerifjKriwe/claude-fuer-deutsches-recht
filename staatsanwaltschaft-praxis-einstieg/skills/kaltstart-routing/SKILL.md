@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 158 StPO (Strafanzeige)
 - § 160 StPO (Erforschungspflicht)
 - Nr. 6 ff. RiStBV
-

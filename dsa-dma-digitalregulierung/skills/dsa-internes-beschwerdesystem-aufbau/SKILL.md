@@ -1,6 +1,6 @@
 ---
 name: dsa-internes-beschwerdesystem-aufbau
-description: "Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 DSA im Dsa Dma Digitalregulierung."
+description: "Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 D..."
 ---
 
 # DSA: Internes Beschwerdesystem
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

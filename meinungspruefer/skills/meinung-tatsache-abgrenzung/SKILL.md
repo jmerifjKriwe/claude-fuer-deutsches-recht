@@ -38,4 +38,3 @@ Meinungen sind durch Stellungnahme, Wertung und Dafürhalten geprägt. Tatsachen
 Bei Tatsachenkern: `beleglage-tatsachenbehauptung`.
 
 Bei Werturteil mit Herabsetzung: `strafrecht-185-beleidigung` und `abwaegung-art-5-gg`.
-

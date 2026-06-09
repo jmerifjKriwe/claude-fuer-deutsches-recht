@@ -1,6 +1,6 @@
 ---
 name: m-a-open-source-kollektive-datensammlung
-description: "Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix im Datenbankrecht."
+description: "Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Du..."
 ---
 
 # M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion
@@ -63,4 +63,3 @@ description: "Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: 
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)
-

@@ -63,4 +63,3 @@ Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamen
 - Archivportal-D: archivportal-d.de für Vernetzung der Landesarchive
 - MGH-Online: mgh.de für mittelalterliche Quellen
 - Archivzitat: Bestand, Signatur, Blaetterzahl; Zugangsdatum wenn digital
-

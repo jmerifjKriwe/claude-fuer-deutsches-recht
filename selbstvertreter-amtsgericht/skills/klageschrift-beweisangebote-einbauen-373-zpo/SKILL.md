@@ -169,4 +169,3 @@ Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Kl
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht unveraendert.
-

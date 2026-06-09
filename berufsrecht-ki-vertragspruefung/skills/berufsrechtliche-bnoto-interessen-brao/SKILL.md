@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schnelle Freigabe vs. berufsrechtliche Absicherung: bei knapper Zeit konservativ "vorläufig nicht freigeben" und parallel Detailprüfung, statt überstürzte Freigabe mit späterem Rückruf. § 203 StGB und § 43e BRAO sind strict liability — Vorsatz ist nicht erforderlich.
-

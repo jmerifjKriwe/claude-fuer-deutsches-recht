@@ -1,6 +1,6 @@
 ---
 name: output-konformitaetserklaerung-eu-anhang-v
-description: "Anbieter benoetigt das fertige Musterdokument für die EU-Konformitätserklärung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitätserklärung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame Spezifikationen oder andere Referenzen Unterzeichnung. Output: vollständige Muster-Konformitätserklärung als Formular. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren) und eu-datenbank-registrierung-art-49-und-71 (Registrierung)."
+description: "Anbieter benoetigt das fertige Musterdokument für die EU-Konformitätserklärung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitätserklärung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame S..."
 ---
 
 # Output: EU-Konformitätserklärung — Art. 47 und Anhang V KI-VO
@@ -142,4 +142,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

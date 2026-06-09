@@ -12,15 +12,15 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Erbrecht** tragende Normen, R
 ## Suchraster
 
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `berater-interessen-beweislast-darlegungslast`
+- `berater-mehrparteien-konflikt-und-interessen`
 - `erb-einfuehrung-erb-erstgespraech-erb-internationales`
 - `erb-nachlassinventar-erb-pflichtteilsanspruch-erb`
 - `erbengemeinschaft-blockade-erstgespraech-mandatsannahme`
-- `erbfall-eu-mandat-triage-pflichtteil-auskunft`
-- `erbfall-intake-erbrecht-erbschein`
+- `internationaler-erbfall-eu-erbvo`
+- `erbfall-intake-und-nachlassordnung`
 - `erbschein-antrag-orientierung-pflichtteilsberechnung`
-- `fachanwalt-kanzlei-livecheck`
-- `krypto-wallet-erbschaftsteuer-steuerrecht`
+- `erstpruefung-und-mandatsziel`
+- `krypto-wallet-nachlass-multisig`
 - `pflichtteil-berechnen-schriftsatzkern-substantiierung-sonderfall`
 - `pflichtteil-progressionsoptimierung-spezial-schnittstellen`
 

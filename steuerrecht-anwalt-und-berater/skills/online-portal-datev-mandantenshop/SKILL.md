@@ -100,4 +100,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019 zu GoBD.
 - DATEV-Dokumentation Unternehmen Online (aktuelle Version pruefen).
 - Verifikations-Hinweis: konkrete Programmpfade und Modul-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.
-

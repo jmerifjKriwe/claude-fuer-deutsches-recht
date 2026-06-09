@@ -109,4 +109,3 @@ Schadensersatz = Ausstehende Raten (abgezinst) - Verwertungserlös - Ersparte Au
 - **Kündigungsschreiben**: Fristlose Kündigung wegen Zahlungsverzug
 - **Schadensersatz-Rechner**: Formel mit Abzinsung und Verwertungserlös
 - **eV-Antrag-Muster**: Einstweilige Verfügung auf Herausgabe
-

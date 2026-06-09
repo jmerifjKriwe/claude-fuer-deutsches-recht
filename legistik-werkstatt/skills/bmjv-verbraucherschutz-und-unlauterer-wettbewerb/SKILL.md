@@ -1,6 +1,6 @@
 ---
 name: bmjv-verbraucherschutz-und-unlauterer-wettbewerb
-description: "Sachbereich Verbraucherschutz und Wettbewerbsrecht (UWG) im Geschaeftsbereich BMJV: Normbestand (UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.); Akteure (BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.); EU-Bezug (Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung) im Legistik."
+description: "Sachbereich Verbraucherschutz und Wettbewerbsrecht (UWG) im Geschaeftsbereich BMJV: Normbestand (UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.); Akteure (BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.); EU-Bezug (Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DS..."
 ---
 
 # Verbraucherschutz und Wettbewerbsrecht (UWG) (BMJV)
@@ -86,4 +86,3 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

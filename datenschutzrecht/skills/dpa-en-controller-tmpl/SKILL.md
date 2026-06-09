@@ -1,6 +1,6 @@
 ---
 name: dpa-en-controller-tmpl
-description: "English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a contractual data sharing framework. Output: complete English template covering lawful basis allocation transparency security and breach notification."
+description: "English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a contractual data sharing framework. Output: complete English..."
 ---
 
 # Data Sharing Agreement – English Template Controller / Controller
@@ -142,4 +142,3 @@ Date: Date:
 - EDPB Recommendations 01/2020 on transfer impact assessment (Version 2.0, June 2021).
 - CJEU C-25/17, C-498/16, C-40/17 – verified case numbers; check full text via curia.europa.eu before citation.
 - Citation rules: `../../../references/zitierweise.md`.
-

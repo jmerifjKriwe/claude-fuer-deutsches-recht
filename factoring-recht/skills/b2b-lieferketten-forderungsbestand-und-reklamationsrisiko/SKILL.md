@@ -121,4 +121,3 @@ Fragen zum Einstieg:
 - BGB § 271a zur Begrenzung von Zahlungsfristen (Umsetzung Richtlinie 2011/7/EU).
 - ICC Incoterms in aktueller Fassung.
 - BGH zur Reichweite des § 377 HGB (st. Rspr., amtliche Sammlung).
-

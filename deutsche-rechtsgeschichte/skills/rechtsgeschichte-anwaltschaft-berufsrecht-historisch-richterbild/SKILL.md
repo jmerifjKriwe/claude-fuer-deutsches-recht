@@ -63,4 +63,3 @@ Die Rechtsanwaltschaft als eigenstaendiger Beruf entstand mit der Rechtsvereinhe
 - BRAO: gesetze-im-internet.de
 - BVerfGE: bverfg.de
 - BORA: Bundesrechtsanwaltskammer-Website (brak.de)
-

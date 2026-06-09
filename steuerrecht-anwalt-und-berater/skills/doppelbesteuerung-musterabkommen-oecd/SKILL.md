@@ -1,6 +1,6 @@
 ---
 name: doppelbesteuerung-musterabkommen-oecd
-description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einkuenfte oder Wegzugskonstellation und das Finanzamt fordert deutsche Besteuerung trotz Auslandsbezuegen. Behandelt Begriff der Ansaessigkeit Tie-Breaker Betriebsstaettenbegriff und unilaterale Anrechnungsregeln § 34c EStG. Output DBA-Pruefraster mit Schritt für Schritt Anleitung. Abgrenzung zu fa-stu-wegzugsteuer-6-astg und fa-stu-quellensteuer-50a-estg."
+description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einku..."
 ---
 
 # Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA
@@ -43,4 +43,3 @@ OECD-MA Art. 4 · Art. 5 · Art. 7 · Art. 10 · Art. 11 · Art. 12 · Art. 23A/
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

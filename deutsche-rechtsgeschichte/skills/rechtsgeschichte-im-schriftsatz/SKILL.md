@@ -62,4 +62,3 @@ Rechtshistorische Argumente koennen in prozessualen Schriftsaetzen eingebracht w
 - Kein Essay: historischer Verweis als praeziser Satz mit Fundstelle
 - Anachronismus-Test vor Schriftsatzabgabe
 - ZPO: gesetze-im-internet.de für formale Anforderungen
-

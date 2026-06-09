@@ -63,4 +63,3 @@ Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Rei
 - RGZ und RGSt: Gedruckte Baende in Jurabibliotheken; Band und Seitenzahl angeben
 - VGH: Bundesarchiv R 3018, Signatur und Blattnummer
 - Kein Urteilszitat ohne Gericht, Datum, Aktenzeichen/Fundstelle
-

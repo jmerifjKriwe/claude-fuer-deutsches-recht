@@ -48,4 +48,3 @@ Handelssanktionen beschränken oder verbieten Handels-, Finanz- und Servicetrans
 - Ownership-Prüfung: 50%-Regel für verbundene Unternehmen
 - Blocking-Statute-Konflikt: EU-Unternehmens-Rechtsabteilung und BAFA/Generaldirektion Handel informieren
 - Sanctions-Klausel: vertragliche Regelung wer bei Sanktionsverstoß haftet
-

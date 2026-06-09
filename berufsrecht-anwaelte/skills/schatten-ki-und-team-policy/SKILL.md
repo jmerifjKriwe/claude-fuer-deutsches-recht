@@ -54,4 +54,3 @@ Frage knapp ab:
 4. **Menschliche Kontrolle:** Kein Schriftsatz, keine Frist, kein Vergleichsvorschlag ohne Berufsträgerprüfung.
 5. **Vorfälle:** Meldeschiene an IT, Datenschutz, Berufsrecht, Mandatsverantwortliche; Sofortstopp bei Geheimnisabfluss.
 6. **KI-Kompetenz:** Schulung nicht als Folienfriedhof, sondern mit echten Kanzleifällen: falsches Zitat, Prompt-Injection, versehentlicher Upload, Drittstaatfrage.
-

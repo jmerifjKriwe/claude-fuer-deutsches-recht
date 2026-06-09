@@ -214,4 +214,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.2013&Aktenzeichen=II+ZB+7%2F09
 -->
-

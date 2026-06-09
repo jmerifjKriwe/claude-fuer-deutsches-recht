@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Die KI-VO unterscheidet zwischen Anbieter und Betreiber sehr strikt — bei Substantieller Modifikation eines Hochrisiko-Systems (z. B. Fine-Tuning, neuer Anwendungszweck) wird der Betreiber zum Anbieter (Art. 25 KI-VO) und übernimmt deren Pflichten. Frühzeitig prüfen, ob unternehmensinterner Feintuning-Prozess Anbieterstellung auslöst.
-

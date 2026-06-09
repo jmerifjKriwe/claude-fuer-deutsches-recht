@@ -82,4 +82,3 @@ Dieser Skill leitet die korrekte Auswahl und Durchführung arbeitsrechtlicher Ma
 - **Schadensersatz-Forderungsschreiben** an betroffenen Mitarbeiter
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -89,4 +89,3 @@ Die Form eines Rechtsgeschäfts bestimmt sich nach dem Recht des Ortes der Vorna
 - **Red-Team** (Risiken bei lückenhafter Beglaubigungskette)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

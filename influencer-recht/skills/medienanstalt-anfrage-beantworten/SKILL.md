@@ -73,4 +73,3 @@ Landesmedienanstalten prüfen Influencer auf Verstöße gegen den Medienstaatsve
 - Selbstreparatur-Dokumentation (Kennzeichnung nachgeholt)
 - Widerspruchsschreiben (Muster)
 - Bußgeld-Reaktionsstrategie
-

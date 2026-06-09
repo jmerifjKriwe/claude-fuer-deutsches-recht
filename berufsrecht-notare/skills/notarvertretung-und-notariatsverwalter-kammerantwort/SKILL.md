@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - § 40 BNotO (Notariatsverwaltung)
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

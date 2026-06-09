@@ -172,4 +172,3 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
-

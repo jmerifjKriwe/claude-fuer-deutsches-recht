@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Best-Interest-Test:** Vergleich mit der besten Alternative (regelmäßig Zerschlagungsquote bei InsO bzw. Regelinsolvenz bei StaRUG) — jeder einzelne Planbetroffene muss bessergestellt sein.
 - **Typische Fallen:** Vergleichsrechnung mit zu optimistischer Liquidationsquote → Cram-Down fällt; Gruppenbildung zu fein → § 222 InsO/§ 9 StaRUG-Verstoß; nachrangige Gruppen nicht angemessen beteiligt → § 245 Abs. 1 Nr. 2 InsO/§ 26 StaRUG.
 - **Praxis:** Cram-Down ist Letzter-Ausweg — Verhandlungslösung mit allen Gruppen ist robuster.
-

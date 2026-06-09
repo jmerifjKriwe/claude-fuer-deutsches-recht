@@ -19,7 +19,7 @@ Diese Output-Weiche für **Insolvenzforderungsanmeldungspruefung** entscheidet, 
 - `dubletten-serienforderungen` — Dubletten Serienforderungen
 - `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
 - `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
-- `forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
 - `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
 - `formalpruefung-174` — Formalpruefung 174
 - `grund-betrag-zinsen` — Grund Betrag Zinsen
@@ -40,4 +40,3 @@ Diese Output-Weiche für **Insolvenzforderungsanmeldungspruefung** entscheidet, 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

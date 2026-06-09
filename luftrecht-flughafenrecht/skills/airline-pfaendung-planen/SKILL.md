@@ -1,6 +1,6 @@
 ---
 name: airline-pfaendung-planen
-description: "Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie im Luftrecht Flughafenrecht."
+description: "Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie im Luftrecht Fl..."
 ---
 
 # Airline – Pfändung planen
@@ -102,4 +102,3 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

@@ -106,4 +106,3 @@ Frist Druckfreigabe: 29.07.2026
 - Allgemeine Regeln zu Sitzungsfuehrung und Protokoll: keine spezifische juristische Quelle erforderlich.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Protokoll-Belegformat).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

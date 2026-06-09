@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für AGB Versionierung Änderungshis
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

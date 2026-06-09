@@ -1,6 +1,6 @@
 ---
 name: unidroit-principles-als-transportvertrag-see
-description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht im Internationales Handelsrecht Lex Mercat..."
 ---
 
 # UNIDROIT Principles 2016 als Vertragsrecht
@@ -52,4 +52,3 @@ Die UNIDROIT Principles of International Commercial Contracts (PICC), zuletzt re
 - Bei Lückenfüllung CISG/PICC: Erst CISG-intern, dann PICC (wenn als allg. Grundsätze anerkannt)
 - Art. 1.7 Treu und Glauben: Schiedsgerichte wenden ihn weitgehend an
 - CENTRAL-Datenbank für PICC-Referenzen in Schiedssprüchen: trans-lex.org
-

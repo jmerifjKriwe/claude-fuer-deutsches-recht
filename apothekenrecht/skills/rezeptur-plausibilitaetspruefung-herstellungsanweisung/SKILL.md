@@ -107,4 +107,3 @@ Eingaben:
 - ABDA-Leitlinien zur Rezeptur (vom Anwender zu verifizieren).
 - BGH, staend. Rspr. zur Apothekenhaftung bei Herstellungsfehlern.
 - Landesaufsicht-Merkblätter zur Rezeptur (vom Anwender zu verifizieren).
-

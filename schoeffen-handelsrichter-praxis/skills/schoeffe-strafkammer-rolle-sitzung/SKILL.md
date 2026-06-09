@@ -55,4 +55,3 @@ Konkret zu prüfen:
 
 - § 76 GVG
 - § 95 GVG
-

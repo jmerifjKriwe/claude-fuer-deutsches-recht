@@ -1,6 +1,6 @@
 ---
 name: red-team-overdependency
-description: "'Red-Team: Überabhängigkeit von China analysieren und abbauen: Selbstkritische Analyse Abhängigkeitspfade (Umsatz/Beschaffung/Technologie), Frühwarnindikator-System, Exit-Trigger-Kriterien, Vergleich mit Benchmark-Unternehmen, Board-Diskussion De-risking-Realismus, Kosten des Status quo vs. Kosten des Ausstiegs. Output: Abhängigkeits-Red-Team-Bericht und Handlungsempfehlungen.'"
+description: "'Red-Team: Überabhängigkeit von China analysieren und abbauen: Selbstkritische Analyse Abhängigkeitspfade (Umsatz/Beschaffung/Technologie), Frühwarnindikator-System, Exit-Trigger-Kriterien, Vergleich mit Benchmark-Unternehmen, Board-Diskussion De-risking-Realismus, Kosten des Status quo vs. Koste..."
 ---
 
 # Red-Team: Überabhängigkeit China analysieren und abbauen
@@ -82,4 +82,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

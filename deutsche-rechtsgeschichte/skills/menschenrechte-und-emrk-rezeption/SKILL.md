@@ -63,4 +63,3 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 - EGMR-Urteile: hudoc.echr.coe.int für vollstaendige Entscheidungen
 - BVerfGE: bverfg.de
 - GG Art. 25: gesetze-im-internet.de
-

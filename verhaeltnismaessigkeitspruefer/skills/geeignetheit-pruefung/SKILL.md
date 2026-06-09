@@ -45,4 +45,3 @@ Drei Kontrolldichten:
 - BVerfGE 102, 197 (Spielbankenmonopol) (Spielbankenmonopol): geeignet.
 - Geeignetheit verneint wurde in BVerfGE selten; die meisten Faelle
   scheitern erst an Erforderlichkeit oder Angemessenheit.
-

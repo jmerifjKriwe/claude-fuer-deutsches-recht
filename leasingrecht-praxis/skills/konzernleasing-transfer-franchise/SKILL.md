@@ -98,4 +98,3 @@ Vergleich der Nettomarge des Leasinggebers mit vergleichbaren Drittunternehmen.
 - **Methoden-Auswahl-Matrix**: CUP / Kostenaufschlag / TNMM – Eignung nach Transaktionsart
 - **Zinsschranken-Memo**: Leasingrate, Zinsanteil, § 4h EStG-Prüfung
 - **BEPS-Risikoeinschätzung**: Captive Lessor – Substanz, Verrechnungspreise, Quellensteuer
-

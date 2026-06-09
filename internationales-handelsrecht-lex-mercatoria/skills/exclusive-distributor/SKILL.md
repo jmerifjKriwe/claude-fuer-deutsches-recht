@@ -48,4 +48,3 @@ Der Alleinvertriebsvertrag (Exclusive Distribution Agreement) gewährt dem Händ
 - Exklusivgebiets-Abgrenzung: klar und nicht nach Staatsgebiet allein (VBER-konforme Geodefinition)
 - Mindestumsatz: Berechnungsbasis definieren (Nettopreis, CIF-Wert)
 - Kündigung: Vertragsstrafe oder Mindest-Schadensersatz-Klausel für missbräuchliche Kündigung
-

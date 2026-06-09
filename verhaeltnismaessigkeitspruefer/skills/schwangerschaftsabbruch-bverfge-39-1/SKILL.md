@@ -23,4 +23,3 @@ Ein Gesetz soll nicht Freiheit beschränken, sondern Schutz organisieren: Leben,
 3. **Schutzkonzept des Gesetzgebers lesen:** Beratung, Verfahren, Sanktion, Prävention, Organisation und Kontrolle getrennt erfassen.
 4. **Untermaß prüfen:** Nicht jede Schutzlücke ist verfassungswidrig; verfassungswidrig wird es bei evident unzureichendem Schutz oder inkonsistentem Schutzkonzept.
 5. **Übermaß gegen Untermaß spiegeln:** Mehr Schutz kann zugleich stärker in Freiheit eingreifen. Das Ergebnis muss beide Seiten sichtbar halten.
-

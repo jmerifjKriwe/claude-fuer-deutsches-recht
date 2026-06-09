@@ -60,4 +60,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Eigene Konformitätsbewertung des Betreibers ist begrenzt, da der Anbieter die Last trägt. Sorgfältige Vendor-Auswahl mit dokumentierten Selbstauskünften und Verträgen ist regelmäßig der wirksamste Schutz; eigene erneute Bewertung ist nicht zwingend, wenn der Anbieter Anhang IV / Anhang V vollständig liefert.
-

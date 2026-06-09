@@ -1,6 +1,6 @@
 ---
 name: pandekten-und-begriffsjurisprudenz
-description: "Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (Allgemeiner Teil, Stellvertretungsrecht) und wo nicht. Pruefraster zur Erkennung begriffsjuristischer Argumentation."
+description: "Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck,..."
 ---
 
 # Pandektenwissenschaft und Begriffsjurisprudenz
@@ -96,4 +96,3 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 - §§ 104 ff., 116 ff., 158 ff., 164 ff., 194 Abs. 1, 433, 929 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

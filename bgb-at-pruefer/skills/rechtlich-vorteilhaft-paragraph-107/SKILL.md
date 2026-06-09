@@ -74,4 +74,3 @@ ist eine Einwilligung des gesetzlichen Vertreters erforderlich (§ 108 BGB).
 - Grundstückserwerb: Sind im Grundbuch Belastungen eingetragen?
 - Schenkung mit Auflage: Auflage als rechtliche Pflicht des Minderjährigen?
 - Wirtschaftliche Vorteile bleiben außer Betracht — nur rechtliche Betrachtung?
-

@@ -26,4 +26,3 @@ BGB Mietrecht; TKG; Bau-/Immissionsschutzrecht; Frequenzrecht.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

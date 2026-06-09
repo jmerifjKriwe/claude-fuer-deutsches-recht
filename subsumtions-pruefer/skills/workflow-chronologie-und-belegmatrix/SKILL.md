@@ -78,4 +78,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Belegmatrix erstellen und Lücken rot markieren.
 4. Chronologie und Widerspruchs-Protokoll anlegen.
 5. Passende Fachmodule vorschlagen (z. B. spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste).
-

@@ -62,4 +62,3 @@ description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475
 - https://www.gesetze-im-internet.de/bgb/__475c.html
 - https://www.gesetze-im-internet.de/bgb/__327.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-

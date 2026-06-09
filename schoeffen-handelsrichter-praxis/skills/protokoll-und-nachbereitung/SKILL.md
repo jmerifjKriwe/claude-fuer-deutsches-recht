@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Protokoll und Nachbereitung: erklärt sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Protokoll und Nachbereitung: erklärt sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter P..."
 ---
 
 # Protokoll und Nachbereitung
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-

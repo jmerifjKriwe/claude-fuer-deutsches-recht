@@ -70,4 +70,3 @@ Wenn nicht bestätigt, dass eine Insiderinformation vorliegt:
 - Compliance-Kultur: Mitarbeiter sollen Compliance bei Unsicherheiten aktiv ansprechen
 - Klarer, nicht bedrohlicher Meldekanal (kein Repressaliensrisiko für Meldenden)
 - Regelmäßige Erinnerung: „Wenn unklar, frag Compliance"
-

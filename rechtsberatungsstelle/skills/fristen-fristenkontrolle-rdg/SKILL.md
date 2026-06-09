@@ -1,6 +1,6 @@
 ---
 name: fristen-fristenkontrolle-rdg
-description: "Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt im Rechtsberatungsstelle."
+description: "Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erle..."
 ---
 
 # Fristenverwaltung
@@ -156,4 +156,3 @@ Jede eingetragene Frist muss eine **Quellnorm** enthalten (Gesetz, Gerichtsurtei
 Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: außerhalb-plausibilitätsband — vom Supervisor zu prüfen`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Alle Fristenberechnungen sind vom begleitenden Supervisor zu prüfen und freizugeben.
-

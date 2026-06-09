@@ -90,4 +90,3 @@ Dieser Skill bearbeitet **ergänzende GKV-Leistungen** neben der Krankenbehandlu
 - [§ 62 SGB V – Belastungsgrenze](https://www.gesetze-im-internet.de/sgb_5/__62.html)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 60 SGB V](https://dejure.org/gesetze/SGB_V/60.html)
-

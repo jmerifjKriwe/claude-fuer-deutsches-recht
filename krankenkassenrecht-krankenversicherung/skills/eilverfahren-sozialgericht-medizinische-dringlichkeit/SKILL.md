@@ -86,4 +86,3 @@ Bei drohender Gesundheitsverschlechterung kann nicht auf den Abschluss des Wider
 - [BSG Eilrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 86b SGG](https://dejure.org/gesetze/SGG/86b.html)
 - [Art. 19 Abs. 4 GG](https://www.gesetze-im-internet.de/gg/art_19.html)
-

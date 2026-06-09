@@ -1,6 +1,6 @@
 ---
 name: gehorsam-befehl-und-rechtswidriger-befehl
-description: "Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr..."
 ---
 
 # Gehorsam, Befehl und rechtswidriger Befehl
@@ -96,4 +96,3 @@ Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen sein
 - BVerfG zum Gewissensschutz von Soldaten – ständige Rechtsprechung (Volltexte: bundesverfassungsgericht.de).
 - Truppendienstgerichte – Rechtsprechung in WDO-Verfahren (Az. nur generisch; konkrete Fundstellen nur nach Live-Recherche).
 - Bundeswehr-interne Vorschriften (ZDv, A-Vorschrift) nur nach Mandantenvorlage, nicht aus Modellwissen.
-

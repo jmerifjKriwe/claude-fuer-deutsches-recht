@@ -83,4 +83,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Widerspruch gegen BSFZ-Bescheid ans Finanzamt geschickt - falsche Zuständigkeit, kein Fristwirkung.
 - Klage gegen Festsetzungsbescheid beim Verwaltungsgericht erhoben - Rechtsweg verfehlt, FGO einschlägig.
 - AdV-Antrag vergessen, obwohl Liquiditätsdruck besteht.
-

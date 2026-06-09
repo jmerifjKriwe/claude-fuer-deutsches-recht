@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsvertrag-vergleich-eskalation
-description: "Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgru..."
 ---
 
 # Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation
@@ -72,4 +72,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praktiker-Tipp
 
 Bei Gründung "Exit-Klauseln" mitdenken: Russian-Roulette, Texas Shootout, Dutch Auction, Drag-Along, Tag-Along. Diese Klauseln sind sehr klauselsensibel — bei zu hartem "Russian Roulette" droht Sittenwidrigkeit § 138 BGB. Lieber Dutch Auction (Bieterverfahren) als gerechte Alternative.
-

@@ -75,4 +75,3 @@ Krisensituationen erfordern abgestimmtes rechtliches und kommunikatives Handeln:
 - Richtigstellungs-Statement-Vorlage
 - Löschungsschreiben (an andere Creator / Medien)
 - Einstweilige Verfügung: Prüfschema
-

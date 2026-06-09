@@ -1,6 +1,6 @@
 ---
 name: actio-pauliana-voraussetzungen
-description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster."
+description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstre..."
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
@@ -40,4 +40,3 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 2. Welche Indizien stehen zur Verfuegung?
 3. Greifen Vermutungen?
 4. Welcher Quellenanker (D. 42.8)?
-

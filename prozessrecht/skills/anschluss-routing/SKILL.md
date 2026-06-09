@@ -63,4 +63,3 @@ Dieses Anschluss-Routing für **Prozessrecht** wählt nach dem ersten Ergebnis d
 - BGH VI ZR 184/10
 - BGH VI ZR 226/16
 - BGH VI ZR 73/20
-

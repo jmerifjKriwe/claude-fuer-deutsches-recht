@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Haftungscap Summe: prüft, redlined und ent
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

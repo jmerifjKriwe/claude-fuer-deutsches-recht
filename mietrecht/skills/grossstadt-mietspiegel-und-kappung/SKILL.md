@@ -45,4 +45,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Rüge- und Auskunftsrecht des Mieters (§§ 556g Abs. 2-4 BGB):** Schriftliche Rüge; Vermieter muss innerhalb von zwei Jahren ab Rüge mitteilen, auf welche Ausnahmetatbestände er sich beruft. Ohne Auskunft kann sich der Vermieter nicht auf die Ausnahme berufen.
 - **Stichtagsproblematik:** Maßgeblich für die Vergleichsmiete ist der Zeitpunkt des Zugangs des Mieterhöhungsverlangens (§ 558a BGB); für die Kappungsgrenze der Zeitpunkt der Mieterhöhung. Bei Stichtagen vor/nach Veröffentlichung eines neuen Mietspiegels: stets aktuellen Mietspiegel verwenden.
 - **Praktiker-Tipp Großstadt:** In Berlin, München, Hamburg, Frankfurt etc. die LandesVO zu § 558 Abs. 3 S. 2 BGB UND zur Mietpreisbremse (§ 556d Abs. 2 BGB) separat prüfen - oft sind beide nebeneinander einschlägig, aber mit unterschiedlichen Gebietskulissen.
-

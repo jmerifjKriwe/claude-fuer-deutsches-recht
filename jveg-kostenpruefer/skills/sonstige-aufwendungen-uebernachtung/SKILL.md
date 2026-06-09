@@ -55,4 +55,3 @@ Prüfergebnis für Sammelposition sonstige Aufwendungen mit Belegstatus.
 ## Leitplanken
 - Kein Ansatz ohne Normgrundlage; Analogie nur in engen Grenzen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

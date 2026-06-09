@@ -43,4 +43,3 @@ A unterschreibt aus Furcht vor Drohung mit Gewalt.
 1. Welcher Mangel?
 2. Anfechtungsgrund?
 3. Frist?
-

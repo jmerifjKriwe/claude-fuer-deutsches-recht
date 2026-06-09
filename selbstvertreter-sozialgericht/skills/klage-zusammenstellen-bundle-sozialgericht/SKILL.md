@@ -112,4 +112,3 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichte.
-

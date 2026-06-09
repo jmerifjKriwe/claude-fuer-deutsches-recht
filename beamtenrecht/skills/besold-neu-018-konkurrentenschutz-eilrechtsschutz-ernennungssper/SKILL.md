@@ -43,4 +43,3 @@ description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre 
 2. Mitkonkurrent informiert?
 3. Eilantrag gestellt?
 4. Ernennungssperre erforderlich?
-

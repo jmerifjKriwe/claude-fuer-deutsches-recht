@@ -40,4 +40,3 @@ Konkret zu prüfen:
 - § 258 StPO (Schlussvorträge)
 - § 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV
-

@@ -1,6 +1,6 @@
 ---
 name: klage-finanzgericht
-description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde."
+description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender..."
 ---
 
 # Klage zum Finanzgericht
@@ -117,4 +117,3 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 ## Versand
 
 Über beA — vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
-

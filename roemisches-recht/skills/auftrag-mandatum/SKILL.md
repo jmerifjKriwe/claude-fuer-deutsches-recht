@@ -61,4 +61,3 @@ Sachverhalt: A weist B an, dem C 100 zu leihen.
 - Roemisches Recht: Auftrag streng unentgeltlich.
 - Mittelalter: ius commune erlaubt Honorarvereinbarung.
 - BGB: § 662 unentgeltlich, aber daneben Geschaeftsbesorgungsvertrag § 675 BGB entgeltlich.
-

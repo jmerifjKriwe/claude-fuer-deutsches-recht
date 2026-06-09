@@ -111,4 +111,3 @@ Typische Einwände des Schuldners:
 - `evvollzug-neu-007` – Abmahnung, Abschlussschreiben und Hauptsache
 - `unterlassungsverlangen` – Unterlassungserklärung als Alternative zum Gerichtsverfahren
 - `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
-

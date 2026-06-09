@@ -97,4 +97,3 @@ Abgelehnt: Begruendung in Spalte "Notizen"
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (für Backlog-Texte).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Verweisungsdisziplin im Backlog).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

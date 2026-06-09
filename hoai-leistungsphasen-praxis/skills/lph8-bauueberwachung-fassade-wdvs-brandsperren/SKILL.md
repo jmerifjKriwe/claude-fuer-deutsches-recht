@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-fassade-wdvs-brandsperren
-description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fensterstur..."
 ---
 
 # Bauueberwachung WDVS-Fassade und Brandsperren
@@ -87,4 +87,3 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [MBO § 28 Aussenwaende Brandschutz](https://www.gesetze-im-internet.de/mbo_2002/index.html)
-

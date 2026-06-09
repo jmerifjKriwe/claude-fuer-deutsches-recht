@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für KI-Governance: ordnet Rolle (Anbieter, Betreiber, Importeur, Händler, Aufsicht), markiert Frist (KI-VO-Geltung gestaffelt 2025-2027), wählt Norm (KI-VO EU 2024/1689, DSGVO, Produkthaftung) und Zuständigkeit (KI-Aufsichtsbehörde national), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für KI-Governance: ordnet Rolle (Anbieter, Betreiber, Importeur, Händler, Aufsicht), markiert Frist (KI-VO-Geltung gestaffelt 2025-2027), wählt Norm (KI-VO EU 2024/1689, DSGVO, Produkthaftung) und Zuständigkeit (KI-Aufsichtsbehörde national), leitet zum passenden Spez..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Ki Governance** vom ersten Sachverhalt zu Rollen, Frist
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

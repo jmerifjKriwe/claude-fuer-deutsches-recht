@@ -70,4 +70,3 @@ d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR
 - Schriftliche Verpflichtung des PDMR: Ich werde keine Insiderinformationen an nahestehende
  Personen weitergeben
 - Merkblatt für PDMRs: „Was darf ich zu Hause nicht sagen?"
-

@@ -74,4 +74,3 @@ Beauty-Filter und KI-Bildbearbeitung in Werbeposts sind zunehmend reguliert:
 - Kennzeichnungstext für bearbeitete Bilder
 - Abmahnantwort (Bildbearbeitungs-Täuschung)
 - KI-Bild-Hinweis-Vorlage
-

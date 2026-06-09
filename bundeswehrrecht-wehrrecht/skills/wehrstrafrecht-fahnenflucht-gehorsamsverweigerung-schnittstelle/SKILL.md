@@ -1,6 +1,6 @@
 ---
 name: wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-description: "Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsges..."
 ---
 
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
@@ -97,4 +97,3 @@ Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbest�
 - BVerwG Wehrdienstsenate – Rechtsprechung zur § 50 SG-Schwelle.
 - NATO-Truppenstatut (BGBl. II 1961 S. 1190 ff.) und Zusatzabkommen – Volltext bei BGBl-Online.
 - Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-

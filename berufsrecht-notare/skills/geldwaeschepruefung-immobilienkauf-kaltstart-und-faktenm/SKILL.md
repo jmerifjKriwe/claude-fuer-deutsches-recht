@@ -74,4 +74,3 @@ Konkret zu prüfen:
 - § 2 Abs. 1 Nr. 10 GwG
 - §§ 10-13 GwG (Sorgfaltspflichten)
 - § 43 GwG (Meldepflicht)
-

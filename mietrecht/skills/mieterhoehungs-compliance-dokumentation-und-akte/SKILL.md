@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Wirksamwerden:** Die erhöhte Miete ist erst ab Beginn des dritten Kalendermonats nach Zugang des Verlangens geschuldet (§ 558b Abs. 1 BGB), also etwa Zugang März → erhöhte Miete erstmals zum 01.06.
 - **Form- und Begründungsfehler:** Unzureichende Begründung führt zur Unwirksamkeit; Heilung nur durch neues Verlangen, das die volle Wartefrist neu startet. BGH ständige Rspr.: Mietspiegelanwendung muss konkret nachvollziehbar sein - Spannenoberwert ist begründungspflichtig.
 - **Mieterhöhung bei Indexmiete (§ 557b BGB) / Staffelmiete (§ 557a BGB):** §§ 558 ff. BGB sind ausgeschlossen, eigene Regeln gelten. Vor Erhöhungsverlangen prüfen, ob Index- oder Staffelvereinbarung im Mietvertrag steht.
-

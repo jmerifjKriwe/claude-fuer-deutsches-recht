@@ -15,4 +15,3 @@ LausitzStorage-Akte: Reiter 1 verlinkt alle 19 Hauptdokumente in den Mandantsfil
 - Hyperlink-Spalte je Reiter (relativer Pfad)
 - Platzhalter-Link `_FEHLT_` fuer in Reiter 3 verfolgte Luecken
 - Wartungspruefung als Eintrag in `erweiterung-laufende-aktualisierung`
-

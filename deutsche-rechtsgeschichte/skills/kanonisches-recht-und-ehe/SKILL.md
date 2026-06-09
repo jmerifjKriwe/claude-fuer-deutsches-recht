@@ -63,4 +63,3 @@ Das kanonische Recht (kirchliches Recht) hatte für das Eherecht bis ins 19. Jah
 - Tametsi-Dekret: Konzilsakten von Trient, historische Edition
 - BGB §§ 1303 ff.: gesetze-im-internet.de für aktuelle Fassung; historisch Mugdan Bd. IV
 - Reichsgesetzblatt 1874: ALEX/OeNB
-

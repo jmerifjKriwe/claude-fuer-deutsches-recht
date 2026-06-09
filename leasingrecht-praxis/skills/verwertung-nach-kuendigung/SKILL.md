@@ -112,4 +112,3 @@ Gesamtforderung LG:
 - **Schadensersatz-Berechnung**: Vorlage mit Abzinsung und Verwertungserlös
 - **Verwertungskanal-Matrix**: Objekt – Kanal – Vor-/Nachteile
 - **Abrechnung an LN**: Muster-Schlussabrechnung nach Kündigung
-

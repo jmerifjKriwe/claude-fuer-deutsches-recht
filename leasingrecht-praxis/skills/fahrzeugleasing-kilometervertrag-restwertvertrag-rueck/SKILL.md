@@ -118,4 +118,3 @@ description: "Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Mind
 - **Minderwert-Tabelle**: Schadensarten – Nachforderungsberechtigt ja/nein
 - **Muster-Widerspruch**: Gegen Minderwertabrechnung des LG
 - **Abrechnungsübersicht**: Km-Abrechnung, Restwertdifferenz, Minderwert
-

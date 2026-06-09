@@ -88,4 +88,3 @@ Key Person Suspension (LPA):
 - SFDR (VO (EU) 2019/2088) Pre-Contractual Disclosure.
 - ILPA Principles 3.0 (Stand vom Anwender zu prüfen).
 - DSGVO Art. 6, 28.
-

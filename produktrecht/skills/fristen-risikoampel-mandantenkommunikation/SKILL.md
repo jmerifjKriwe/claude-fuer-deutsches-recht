@@ -37,4 +37,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rückrufankündigung:** im Inland (BAuA), unionsweit (Safety Gate); USA: CPSC-Meldung.
 - **Strafrechtliche Risiken:** § 95 AMG Strafe Arzneimittel; § 58 LFGB Strafe Lebensmittel; § 39 ProdSG Bußgeld.
 - Falle: Lithium-Akkus, KI-Komponenten, Drohnen — zusätzliche EU-Regelwerke (Batterieverordnung 2023/1542, AI Act, EU-Drohnenverordnung) parallel prüfen.
-

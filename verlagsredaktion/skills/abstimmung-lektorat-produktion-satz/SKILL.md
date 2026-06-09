@@ -139,4 +139,3 @@ Mueller-Plattform_v7_druck.docx (an Produktion)
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

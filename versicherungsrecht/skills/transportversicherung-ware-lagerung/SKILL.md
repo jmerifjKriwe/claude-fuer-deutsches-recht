@@ -41,4 +41,3 @@ VVG Schadenversicherung; HGB Frachtrecht §§ 407 ff.; CMR/See-/Luftfracht je na
 
 - vvg-versicherung-für-fremde-43-48
 - subrogation-regress-86-vvg
-

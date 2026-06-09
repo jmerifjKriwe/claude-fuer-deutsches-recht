@@ -51,4 +51,3 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

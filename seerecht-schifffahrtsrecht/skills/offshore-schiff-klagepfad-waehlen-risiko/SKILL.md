@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-klagepfad-waehlen-risiko
-description: "Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seer..."
 ---
 
 # Offshore-Schiff – Closing planen
@@ -93,4 +93,3 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 - FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

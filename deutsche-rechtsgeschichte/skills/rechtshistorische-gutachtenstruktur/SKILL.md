@@ -62,4 +62,3 @@ Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutac
 - Streitstand: Mindestens zwei Positionen mit Quellen benennen
 - Anachronismus-Test: Jede These zeitepochengerecht pruefen
 - Fazit: Klar zwischen Sicherem und Unsicherem unterscheiden
-

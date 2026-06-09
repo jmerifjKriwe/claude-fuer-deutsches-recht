@@ -1,6 +1,6 @@
 ---
 name: europarecht-klagearten-eugh
-description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung) im Europarecht Kompass."
+description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsana..."
 ---
 
 # EuGH-Klagearten und Rechtsschutz
@@ -90,4 +90,3 @@ D. ERGEBNIS
 [ ] Klage unzulaessig — Alternative: Vorabentscheidungsverfahren Art. 267 AEUV
 [ ] Weitere Klaerung erforderlich: [Punkt]
 ```
-

@@ -1,6 +1,6 @@
 ---
 name: lph-08-oeffentlicher-auftraggeber
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leis..."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Berücksichtigt vergabe
@@ -32,4 +32,3 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 - Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
 - Bewertungsanker Gebäude/Innenräume: 32 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

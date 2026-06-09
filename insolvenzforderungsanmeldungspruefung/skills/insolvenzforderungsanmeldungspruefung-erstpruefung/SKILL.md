@@ -1,6 +1,6 @@
 ---
 name: insolvenzforderungsanmeldungspruefung-erstpruefung
-description: "Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im..."
 ---
 
 # Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel
@@ -67,4 +67,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Anfechtungsrisiken:** Haben Mandantin oder verbundene Personen in den letzten 4 (kongruent)/10 (vorsätzlich) Jahren Zahlungen erhalten? Verwalteranfechtung (§§ 129 ff. InsO) droht.
 - **Mandatsziel:** Reine Anmeldung, Tabellenklage § 180 InsO bei Bestreiten, Plan-Mitwirkung, Anfechtungsverteidigung.
 - **Praxis:** Bei Zweifel zur Höhe vorsorglich höchstmögliche Forderung anmelden; spätere Reduzierung schadet weniger als Nachmeldung mit Kostenfolge.
-

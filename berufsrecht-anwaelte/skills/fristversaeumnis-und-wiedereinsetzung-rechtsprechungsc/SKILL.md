@@ -59,4 +59,3 @@ Konkret zu prüfen:
 - § 233 ZPO (Wiedereinsetzung)
 - § 234 ZPO
 - BVerfGE 41, 332
-

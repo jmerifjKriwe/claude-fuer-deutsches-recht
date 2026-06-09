@@ -63,4 +63,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 - Versorgungszusage ohne klare Anrechnung von Vordienstzeiten - bei späterem Streit fehlt die Anknüpfung.
 - "Freiwillig, kein Rechtsanspruch" steht in der Versorgungsordnung, gleichzeitig wird seit Jahren regelmäßig gezahlt - Wirksamkeit des Freiwilligkeitsvorbehalts streitig (BAG-Linie zur AGB-Kontrolle nach §§ 305 ff. BGB).
-

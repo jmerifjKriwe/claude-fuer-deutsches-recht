@@ -121,4 +121,3 @@ DPO: ____________________ Date: ____________________
 - EDPB Opinion 28/2024 on AI models
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-

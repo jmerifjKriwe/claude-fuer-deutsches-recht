@@ -126,4 +126,3 @@ Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit**
 - **Unterlassungserklärung** (strafbewehrt)
 - **Abmahnungs-Antwort**: Reaktion auf presserechtliche Abmahnung
 - **Online-Archiv-Audit**: Berichte mit Aktualisierungsbedarf identifiziert
-

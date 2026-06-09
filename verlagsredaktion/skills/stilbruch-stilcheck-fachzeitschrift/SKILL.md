@@ -105,4 +105,3 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
-

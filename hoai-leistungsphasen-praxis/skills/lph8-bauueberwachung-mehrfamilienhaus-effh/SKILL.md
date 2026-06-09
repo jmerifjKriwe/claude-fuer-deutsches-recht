@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-mehrfamilienhaus-effh
-description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konfor..."
 ---
 
 # Bauueberwachung Mehrfamilienhaus Energieeffizienzgebaeude (LPH 8)
@@ -83,4 +83,3 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 - [DIN EN 13670 Beton](https://www.gesetze-im-internet.de/)
 - [VOB/B § 12 Abnahme](https://www.gesetze-im-internet.de/vob-b/__12.html)
 - [BGH VII ZR 308/09 KfW-Energienachweis](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+308/09)
-

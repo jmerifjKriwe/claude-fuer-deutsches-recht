@@ -1,6 +1,6 @@
 ---
 name: verfuegung-nichtberechtigter-816-vertiefung
-description: "Bei ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden)."
+description: "Bei ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage..."
 ---
 
 # § 816 BGB vertieft: Verfügung Nichtberechtigter
@@ -63,4 +63,3 @@ Anwendungsfall: ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

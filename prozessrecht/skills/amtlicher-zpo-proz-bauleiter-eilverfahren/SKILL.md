@@ -68,4 +68,3 @@ Nutze `references/amtlicher-zpo-normkern.md`. Rechtsprechung nur nach gesonderte
 - BGH VI ZR 184/10
 - BGH VI ZR 226/16
 - BGH VI ZR 73/20
-

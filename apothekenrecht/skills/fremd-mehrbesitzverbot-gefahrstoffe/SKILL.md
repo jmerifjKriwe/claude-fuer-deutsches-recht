@@ -100,4 +100,3 @@ Eingaben:
 - EuGH, staend. Rspr. zum Fremdbesitzverbot (DocMorris-Verfahren, Apothekenkammer Saarland).
 - BGH und OLG, staend. Rspr. zu verdeckten Fremdbesitzkonstellationen.
 - Landesaufsichtsbehörden — Merkblätter zur Erlaubnisprüfung (vom Anwender zu verifizieren).
-

@@ -88,4 +88,3 @@ GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen u
 - [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
 - [GKV-Spitzenverband Kostenerstattung](https://www.gkv-spitzenverband.de)
 - [Kassenärztliche Bundesvereinigung](https://www.kbv.de)
-

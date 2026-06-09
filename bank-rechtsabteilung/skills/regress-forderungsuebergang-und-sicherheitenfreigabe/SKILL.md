@@ -60,4 +60,3 @@ Erzeuge:
 - `restrukturierung-kreditengagement`
 - `kreditsicherheiten-bestellung-verwertung`
 - `litigation-schlichtung-prozess`
-

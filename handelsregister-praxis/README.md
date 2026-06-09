@@ -135,6 +135,6 @@ Automatisch generierte Komplett-Liste aller 76 Skills in diesem Plugin. Beschrei
 | `verein-registerschnittstelle-verschmelzung` | Klärt, wann Vereinsregisterlogik statt Handelsregisterlogik greift und welche Beschlüsse/Protokolle gebraucht werden im Handelsregister Praxis. |
 | `verschmelzung-gmbh-registercheck` | Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt im Handelsregister Praxis. |
 | `vollmacht-und-anmeldung-oeffentliche-beglaubigung` | Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis. |
-| `zweigniederlassung-auslaendische` | Zweigniederlassung Auslaendische im Handelsregister-Praxis im Handelsregister Praxis. |
+| `zweigniederlassung-auslaendische-gesellschaft` | Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift: Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsansc... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

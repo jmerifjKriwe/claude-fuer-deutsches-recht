@@ -43,11 +43,10 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 ## Anschluss-Skills
 - `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
+- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
 
 ## Quellen- und Aktualitätsregel
 - Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-

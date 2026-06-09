@@ -32,4 +32,3 @@ Keine rechtlichen oder vertraglichen Zusagen erfinden. Unklare Punkte an Verlag/
 ## Startfragen
 
 Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll veroeffentlicht oder uebergeben werden? Fuer wen ist es bestimmt? Bis wann muss es freigegeben sein? Danach mit einer belastbaren Arbeitsfassung beginnen.
-

@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Treuhandkonto (§ 156 Abs. 1 ZVG):** Vereinnahmte Mieten werden auf separates Treuhandkonto eingezahlt; Verwalter trennt Vermögen Schuldner und Verwaltungsvermögen.
 - **Verteilung Mieten (§ 155 ZVG i.V.m. § 156 ZVG):** Mieten dienen zuerst den Bewirtschaftungskosten (laufende Kosten, Steuern, Verwaltervergütung), dann den dinglichen Gläubigern nach Rang.
 - **Wohnungseigentum:** Bei WEG-Objekten muss Verwalter Hausgeld an die GdWE laufend zahlen (§ 16 Abs. 2 WEG i.V.m. § 152 Abs. 2 ZVG) - sonst Beitritt der GdWE zum Versteigerungsverfahren möglich.
-

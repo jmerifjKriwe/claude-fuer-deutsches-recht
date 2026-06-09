@@ -95,4 +95,3 @@ Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
 - **Abtretungsklausel-Bewertung**: Wirksam/Unwirksam nach AGB-Recht
 - **Muster-Mängelrüge**: LN an Lieferant (abgetretener Anspruch)
 - **Prozessübersicht**: LN vs. Lieferant – Beweislast, Klagegründe
-

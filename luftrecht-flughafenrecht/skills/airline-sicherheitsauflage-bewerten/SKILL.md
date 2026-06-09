@@ -1,6 +1,6 @@
 ---
 name: airline-sicherheitsauflage-bewerten
-description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan im Luftrecht Flughafenrecht."
+description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Actio..."
 ---
 
 # Airline – Sicherheitsauflage bewerten
@@ -98,4 +98,3 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

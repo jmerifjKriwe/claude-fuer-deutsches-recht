@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - § 163a StPO (Vernehmung durch Polizei/StA)
 - BGHSt 38, 214 (Beweisverwertungsverbot)
 - BGHSt 47, 172 (qualifizierte Belehrung)
-

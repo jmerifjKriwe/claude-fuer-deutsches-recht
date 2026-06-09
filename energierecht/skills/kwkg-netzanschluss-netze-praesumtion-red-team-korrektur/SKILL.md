@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Wärmenetzförderung (§§ 18 ff. KWKG):** Investitionszuschüsse für Neu- und Ausbau von Wärmenetzen (§ 19); förderfähig ist der KWK-Wärmeanteil. Wärmespeicher: § 22 KWKG.
 - **Antragstellung und Zulassung:** Bei BAFA (Bundesamt für Wirtschaft und Ausfuhrkontrolle) - Anlagenzulassung vor Inbetriebnahme empfohlen (§ 10 KWKG i.V.m. KWKAusV); detaillierte Nachweise zu Wirkungsgrad, Primärenergieeinsparung, Brennstoffeinsatz.
 - **Streitfälle:** Streitigkeiten zur Zuschlagspflicht und Höhe gehen über Beschlusskammer der BNetzA bzw. Zivilgerichte gegen den Netzbetreiber. Bei Förderverweigerung durch BAFA: VG-Verfahren möglich.
-

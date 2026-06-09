@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Vermeiden Sie technische Doppelbegriffe ohne Erklärung ("DPF", "SCC", "GPAI"). Erläutern Sie die Begriffe in einer Fußnote oder kurz im Text — sonst entsteht der Eindruck eines abgehobenen Berichts, der nicht entschieden werden kann.
-

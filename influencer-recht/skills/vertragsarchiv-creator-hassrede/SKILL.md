@@ -74,4 +74,3 @@ Strukturierte Vertragsverwaltung ist Grundlage für Compliance und Betriebsprüf
 - Fristen-Kalender-Template
 - Vertragsinventur-Checkliste
 - Compliance-Log-Vorlage
-

@@ -65,4 +65,3 @@ Erzeuge Werkstattbrief, Fotoliste, Nachbesserungsfrist und Kosten-Nutzen-Plan fÃ
 
 - Was war der konkrete Auftrag?
 - Ist das Rad verkehrssicher?
-

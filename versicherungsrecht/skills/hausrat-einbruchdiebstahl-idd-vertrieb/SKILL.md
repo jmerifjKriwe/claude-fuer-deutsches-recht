@@ -41,4 +41,3 @@ VVG §§ 1, 28, 81; VHB/AVB; StGB Indizien nur als Tatsachen; ZPO.
 
 - vvg-obliegenheit-28-quotelung-kausalitaet
 - vergleich-abfindung-entschaedigungsquittung
-

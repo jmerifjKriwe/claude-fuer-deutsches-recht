@@ -1,6 +1,6 @@
 ---
 name: ressort-bmwsb
-description: "Heranfuehrung Ressort BMWSB (Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-planungsrecht-baugb-baunvo; mietrecht-und-wohnungspolitik; stadtentwicklung-und-foerderprogramme; bauproduktenrecht-und-technische-normen; energetische-sanierung-und-geg. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwsb und legw-bmwsb-Themenslug."
+description: "Heranfuehrung Ressort BMWSB (Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-..."
 ---
 
 # Ressort-Heranfuehrung BMWSB
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

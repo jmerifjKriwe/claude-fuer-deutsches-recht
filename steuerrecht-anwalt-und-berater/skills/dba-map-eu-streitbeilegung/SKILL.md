@@ -167,4 +167,3 @@ Anlagen:
 | Substanzdokumentation | bei Holding/Vertreter-BS |
 | Ansaessigkeitsbescheinigungen beider Staaten | DBA-Anwendung |
 | Vollmacht | Steuerberater-Vertretung |
-

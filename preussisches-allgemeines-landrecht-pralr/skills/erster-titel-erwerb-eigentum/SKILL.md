@@ -46,4 +46,3 @@ A wird die Pferdekutsche gestohlen; gelangt zu B.
 1. Detentor oder Possessor?
 2. Possessorisch oder petitorisch?
 3. Vindikation moeglich?
-

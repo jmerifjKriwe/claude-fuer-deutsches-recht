@@ -56,4 +56,3 @@ Risiken der Anspruchsfassung
 - Nur ein Ausführungsbeispiel vorhanden, aber sehr breiter Anspruch gewünscht.
 - Software/AI-Feature ohne technischen Beitrag.
 - Vorveröffentlichung oder Verkauf vor Anmeldung ungeklärt.
-

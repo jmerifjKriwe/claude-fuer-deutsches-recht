@@ -237,4 +237,3 @@ Mit freundlichen Grüßen
 **Datum:** 27.05.2026
 
 Bei diesem Skill wurden drei halluzinierte BGH-Aktenzeichen entfernt oder ersetzt:
-

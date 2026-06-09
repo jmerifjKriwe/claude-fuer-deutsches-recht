@@ -48,4 +48,3 @@ Art. 25 CISG ist die Schlüsselnorm des CISG-Rechtsbehelfssystems. Nur bei wesen
 - Wirtschaftliche Auswirkung und Vertragszweck als Maßstab für "erheblich"
 - CISG Advisory Council Opinions (op. 5, 9) als nicht bindende Auslegungshilfe
 - Rechtsprechungsvergleich: OLG-Rspr. via CISG-online.ch
-

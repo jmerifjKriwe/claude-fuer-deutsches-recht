@@ -1,6 +1,6 @@
 ---
 name: argumentationsarchitektur-schreiben
-description: "Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung im Word Legal..."
 ---
 
 # Argumentationsarchitektur Schreiben
@@ -48,4 +48,3 @@ Stark:
 ```text
 Die außerordentliche Kündigung ist unwirksam, weil die Abmahnung fehlt.
 ```
-

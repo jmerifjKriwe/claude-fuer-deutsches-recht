@@ -1,6 +1,6 @@
 ---
 name: containerschiff-kaufvertrag-scopen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code..."
 ---
 
 # Containerschiff – Kaufvertrag scopen
@@ -85,4 +85,3 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 - BGB §§ 433-479: https://dejure.org/gesetze/BGB/433.html
 - HGB §§ 480 ff.: https://dejure.org/gesetze/HGB/480.html
 - openjur Schiffskaufstreit: https://www.openjur.de
-

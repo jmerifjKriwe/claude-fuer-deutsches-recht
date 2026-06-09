@@ -72,9 +72,9 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `honeypot-legal` | Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis. |
 | `hr-misconduct` | Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung im Internal Investigations Praxis. |
 | `insurance-press` | Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis. |
+| `inv-054-lessons-learned` | Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht: Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigatio... |
 | `kaltstart-triage` | Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `legal-hold` | Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis. |
-| `lessons` | INV Lessons im Internal Investigations im Internal Investigations Praxis. |
 | `manager-dawn` | Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis. |
 | `mitarbeiterinterview-arbeitsrecht` | Leitet Mitarbeiterinterviews in Internal Investigations rechtskonform durch – Belehrung, Protokoll, Verwertbarkeit, Schweigerecht im Internal Investigations Praxis. |
 | `mobile-private` | Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO im Internal Investigations Praxis. |

@@ -33,4 +33,3 @@ Konkret zu prüfen:
 - § 314 StPO (Frist 1 Woche)
 - § 318 StPO (Berufungsbeschränkung)
 - § 327 StPO (Prüfungsumfang)
-

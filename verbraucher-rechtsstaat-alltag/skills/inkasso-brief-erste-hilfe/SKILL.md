@@ -65,4 +65,3 @@ Erzeuge Forderungsprüfung, Widerspruch, Auskunftsverlangen, Ratenzahlungswarnun
 
 - Ist die Hauptforderung bekannt?
 - Kam schon ein gelber Umschlag vom Gericht?
-

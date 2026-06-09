@@ -116,4 +116,3 @@ description: "Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentati
 - **Eingangsgate-Protokoll**: Unterschriften, Bonitätsprüfung, Genehmigung
 - **Abschlussgate-Protokoll**: Rückgabe, Schlussrechnung, Verwertung
 - **DMS-Klassifikationsschema**: Dokumenttypen, Zugriffsrechte, Aufbewahrungsfristen
-

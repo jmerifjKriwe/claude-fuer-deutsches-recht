@@ -44,4 +44,3 @@ Reformfassung LobbyRG durch Gesetz zur Aenderung des Lobbyregistergesetzes vom 1
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

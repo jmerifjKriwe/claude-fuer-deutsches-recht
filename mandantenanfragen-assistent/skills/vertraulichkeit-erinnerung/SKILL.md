@@ -1,9 +1,10 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Vertraulichkeit Erinnerung im Mandantenanfragen-Triage im Mandantenanfragen Assistent."
+description: "Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt: § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Überg..."
 ---
 
-# Vertraulichkeit Erinnerung
+# Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt
+
 
 ## Arbeitsweg
 
@@ -12,10 +13,6 @@ description: "Vertraulichkeit Erinnerung im Mandantenanfragen-Triage im Mandante
 - Tragende Normen verifizieren: BRAO §§ 43a, 44, 49b, BORA §§ 2, 11, BGB §§ 145 ff., 280, 627, 675, GwG §§ 10, 11, RVG §§ 1, 4, 34 (Erstberatung), DSGVO Art. 6, 13 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht, Honorarvereinbarung, Mandantendossier, Datenschutzhinweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachliche Module
-
-## 1. `vertraulichkeit-erinnerung`
 
 **Fokus:** Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt. § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Übergangs-Instruktion Sekretariat. Output: Instruktionshinweis Schweigepflicht. Abgrenzung zu konfliktcheck-vorab (vor Mandatsannahme) und mandatsverhältnis-hinweis (Haftung).
 
@@ -87,4 +84,3 @@ Wir behandeln Ihre Anfrage selbstverständlich vertraulich.
 - `mandatsverhaeltnis-hinweis` — Disclaimer vor Mandatsbegründung
 - `konfliktcheck-vorab` — Prüfung vor Mandatsannahme
 - `folgekorrespondenz-vorbereiten` — CRM-Eintrag mit Vertraulichkeitskennzeichnung
-

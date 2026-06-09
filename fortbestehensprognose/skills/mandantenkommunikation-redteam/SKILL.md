@@ -33,4 +33,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Was die Prognose nicht leistet:** Keine Garantie, kein Comfort Letter für Banken ohne weitergehende Prüfung, kein Ersatz für ein Sanierungskonzept nach IDW S 6.
 - **Eskalation klar benennen:** Verschlechtert sich die Annahmenbasis (z. B. Kündigung Großauftrag, Kontokündigung), ist die Prognose unverzüglich zu überprüfen — sonst Strafbarkeitsrisiko nach § 15a Abs. 4, 5 InsO.
 - **Honorar:** Pauschalvereinbarung oder Stundenhonorar nach RVG-Vergütungsvereinbarung empfehlen; reine RVG-Abrechnung ist bei Sanierungsmandaten regelmäßig nicht kostendeckend.
-

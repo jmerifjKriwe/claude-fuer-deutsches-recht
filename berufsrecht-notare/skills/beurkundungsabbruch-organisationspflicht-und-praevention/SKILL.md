@@ -60,4 +60,3 @@ Konkret zu prüfen:
 - § 17 BeurkG (Belehrungspflicht)
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

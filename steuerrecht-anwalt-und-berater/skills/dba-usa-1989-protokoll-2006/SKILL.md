@@ -1,6 +1,6 @@
 ---
 name: dba-usa-1989-protokoll-2006
-description: "DBA Deutschland USA 1989 mit Protokollen 1998 2006 2021. LOB-Klausel Limitation on Benefits Substanztest. Pension Protection im Protokoll 2006. Branch Profits Tax. Anwendungsfall US-Holdings IRA 401(k) Roth Beteiligungen Sportler Kuenstler Wegzug. Methodenartikel Anrechnung. Output Mandanten-Memo LOB-Test Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland USA 1989 mit Protokollen 1998 2006 2021. LOB-Klausel Limitation on Benefits Substanztest. Pension Protection im Protokoll 2006. Branch Profits Tax. Anwendungsfall US-Holdings IRA 401(k) Roth Beteiligungen Sportler Kuenstler Wegzug. Methodenartikel Anrechnung. Output Mandanten-Memo..."
 ---
 
 # DBA Deutschland-USA (1989) mit Protokollen (1998, 2006, geplant 2021)
@@ -172,4 +172,3 @@ Bei Wegzug DE-Anteilseigner natuerliche Person in die USA: § 6 AStG-Wegzugsbest
 Stand: 05/2026. DBA-USA 29.08.1989, BGBl. 1991 II S. 354, in Kraft 21.08.1991. Protokoll 2006 vom 01.06.2006, BGBl. 2006 II S. 1184, in Kraft 28.12.2007 (BGBl. 2008 II S. 611). Dividenden 5/15%, Zinsen 0%, Lizenzen 0%. LOB: Art. 28. BMF US-LLC: BStBl. I 2004, 411. BVerfG Treaty Override: 2 BvL 1/12.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: BGBl. 1991 II S. 354 bestaetigt; Protokoll 2006 BGBl. 2006 II S. 1184 bestaetigt (NWB I R 34/08); Inkrafttreten Protokoll 2006 BGBl. 2008 II S. 611 bestaetigt; Art. 10 5/15% bestaetigt (IRS-PDF); Art. 11 0% bestaetigt; Art. 12 0% bestaetigt; LOB Art. 28 bestaetigt (IRS-PDF); BVerfG 2 BvL 1/12 bestaetigt; BMF US-LLC 19.03.2004 bestaetigt; BFH I R 79/15 gestrichen (betrifft DBA-Luxemburg); BFH I R 73/16 gestrichen (betrifft DBA-Belgien/AStG); Pension Protection allgemein gefasst; Branch Profits Tax allgemein gefasst -->
-

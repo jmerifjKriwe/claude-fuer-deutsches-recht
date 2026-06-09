@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-2026
-description: "Bemessungsgrundlage Forschungszulage ab 2026 belastbar berechnen: eigene FuE-Personalkosten, Eigenleistung 100 Euro je Stunde, Auftragsforschung 70 Prozent EU/EWR, AfA für Wirtschaftsgüter, 20-Prozent-Gemeinkostenpauschale, 12-Mio-Cap, KMU-Erhöhung. Mit Personalkostenformel, Stundenaufzeichnungsstruktur und Pitfalls zum Gesellschafter-Geschäftsführer."
+description: "Bemessungsgrundlage Forschungszulage ab 2026 belastbar berechnen: eigene FuE-Personalkosten, Eigenleistung 100 Euro je Stunde, Auftragsforschung 70 Prozent EU/EWR, AfA für Wirtschaftsgüter, 20-Prozent-Gemeinkostenpauschale, 12-Mio-Cap, KMU-Erhöhung. Mit Personalkostenformel, Stundenaufzeichnungss..."
 ---
 
 # Bemessungsgrundlage 2026
@@ -172,4 +172,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Wachstumschancengesetz, Auftragsforschungsregelung 70 Prozent.
 - Steuerliches Investitionssofortprogramm 2025/2026: https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm
 - `references/forschungszulage-quellen-und-zahlen.md`.
-

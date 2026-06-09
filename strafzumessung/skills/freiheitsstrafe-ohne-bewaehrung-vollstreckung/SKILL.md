@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-ohne-bewaehrung-vollstreckung
-description: "Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium im Strafzumessung."
+description: "Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Voll..."
 ---
 
 # Freiheitsstrafe ohne Bewaehrung — Vollstreckung
@@ -109,4 +109,3 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - §§ 35, 36 BtMG.
 - §§ 454, 455, 455a, 456, 456a, 458, 462a StPO.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

@@ -69,4 +69,3 @@ Ich halte Abstand und dokumentiere nur die öffentliche Amtshandlung zur Beweiss
 - Sind Anfertigung, Speicherung, Weitergabe, Livestream und Veröffentlichung getrennt?
 - Wird § 201 StGB ernst genommen, aber nicht pauschal überdehnt?
 - Werden Polizeibehauptungen zur „Vertraulichkeit“ konkret geprüft statt einfach übernommen?
-

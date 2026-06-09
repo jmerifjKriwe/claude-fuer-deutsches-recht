@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Dokumentenfamilie Rangfolge: so
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

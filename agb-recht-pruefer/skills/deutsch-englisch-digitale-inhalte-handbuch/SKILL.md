@@ -33,4 +33,3 @@ description: "Output- und Streit-Skill für Deutsch Englisch AGB: macht aus der 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

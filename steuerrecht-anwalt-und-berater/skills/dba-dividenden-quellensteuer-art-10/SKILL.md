@@ -1,6 +1,6 @@
 ---
 name: dba-dividenden-quellensteuer-art-10
-description: "Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. Anwendungsfall Ausschuettungen über Grenze Quellensteuer im Quellenstaat Hoechstsatz Schachtelhoehe. § 43b EStG MTRL § 8b KStG Schachtelprivileg. Anti-Cum-Cum § 50j EStG. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antrag Berechnungsbeispiel."
+description: "Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. Anwendungsfall Ausschuettungen über Grenze Quellensteuer im Quellenstaat Hoechstsatz Schachtelhoehe. § 43b EStG MTRL § 8b KStG Schachtelprivileg. Anti-Cum-Cum § 50j EStG. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Mem..."
 ---
 
 # Dividenden (Art. 10 OECD-MA)
@@ -157,4 +157,3 @@ Sachverhalt: Deutsche GmbH (Mutter) haelt 100 Prozent an Tochter in Frankreich (
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

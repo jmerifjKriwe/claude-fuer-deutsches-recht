@@ -85,4 +85,3 @@ ergänzen das Recht praxisnah.
 - [§ 37a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__37a.html)
 - [§ 34d GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [Dejure § 1 HGB](https://dejure.org/gesetze/HGB/1.html)
-

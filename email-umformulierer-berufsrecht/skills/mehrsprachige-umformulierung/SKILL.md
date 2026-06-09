@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-umformulierung
-description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz."
+description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonde..."
 ---
 
 # Mehrsprachige Umformulierung
@@ -49,4 +49,3 @@ Für grenzüberschreitende anwaltliche Kommunikation gilt: Die BRAO schreibt kei
 ## Typische Phrasen für internationale anwaltliche Korrespondenz
 
 "Please find enclosed..." → "Veuillez trouver ci-joint..." → "In allegato trova..." → "Adjunto encontrará..." "We refer to our previous correspondence..." → "Suite à notre précédente correspondance..." "We look forward to your response." → "Nous attendons votre réponse avec intérêt." → "In attesa di una Sua risposta..." → "Quedamos a la espera de su respuesta."
-

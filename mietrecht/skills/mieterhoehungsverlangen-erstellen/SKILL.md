@@ -1,6 +1,6 @@
 ---
 name: mieterhoehungsverlangen-erstellen
-description: "Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen). Prüfroutine deckt Textform Wartefrist (fuenfzehn Monate seit Einzug oder letzter Erhoehung) Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) Zustimmungsfrist (zwei Monate plus Ablauf des Kalendermonats) und Begründungsmittel ab. Spiegelt den Prüf-Skill `mieterhoehung-prüfen-widersprechen` aus der Mietersicht. Erzeugt fertiges Schreiben mit Disclaimer im Mietrecht."
+description: "Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen). Prüfroutine deckt Textform Wartefrist (fuenfzehn Monate seit Einzug oder letzter Er..."
 ---
 
 # Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung)
@@ -105,4 +105,3 @@ Vor Zitieren weiterer Entscheidungen Live-Verifikation per dejure.org / bundesge
 ## Paragrafenkette
 
 §§ 558, 558a, 558b BGB — Begruendungsmittel, Wartefrist, Kappungsgrenze
-

@@ -46,4 +46,3 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 - BGB § 242 und § 618: gesetze-im-internet.de; historisch Mugdan Bd. II
 - KSchG: gesetze-im-internet.de
 - Sekundaerliteratur: Knut Wolfgang Noerr, Privatrechtsgeschichte der Weimarer Republik
-

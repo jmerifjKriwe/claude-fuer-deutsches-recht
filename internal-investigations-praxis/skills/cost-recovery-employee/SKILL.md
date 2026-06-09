@@ -84,4 +84,3 @@ Dieser Skill strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmi
 - **Verjährungs-Tracking-Tabelle**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

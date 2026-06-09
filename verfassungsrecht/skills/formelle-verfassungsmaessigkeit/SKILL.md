@@ -1,6 +1,6 @@
 ---
 name: formelle-verfassungsmaessigkeit
-description: "Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung) im Verfassungsrecht."
+description: "Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit E..."
 ---
 
 # Formelle Verfassungsmäßigkeit prüfen
@@ -153,4 +153,3 @@ Ergebnis: [formell verfassungsgemäß / formell verfassungswidrig — Grund: ___
 ## Disclaimer-Wiederholung
 
 Auch eine sorgfältige Prüfung der formellen Verfassungsmäßigkeit ersetzt nicht die anwaltliche Mandatsbearbeitung. Die verbindliche Verwerfung obliegt allein dem BVerfG.
-

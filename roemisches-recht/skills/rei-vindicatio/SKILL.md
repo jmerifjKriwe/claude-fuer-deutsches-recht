@@ -60,4 +60,3 @@ Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; n
 - Boesglaeubiger Besitzer: Haftung ab Besitzbegin.
 - Gutglaeubiger Besitzer: Haftung erst ab Klageerhebung (litiscontestation).
 - Heute: §§ 987-993 BGB Eigentuemer-Besitzer-Verhaeltnis — sehr aehnliches System.
-

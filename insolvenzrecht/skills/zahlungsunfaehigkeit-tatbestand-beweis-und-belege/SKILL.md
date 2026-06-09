@@ -80,4 +80,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **ROT:** Lücke ≥ 10 Prozent über 3 Wochen, keine substantiierte Schließungsperspektive → ZU § 17 InsO + Antragspflicht § 15a InsO (3 Wochen ab Eintritt).
 - **GELB:** Lücke < 10 Prozent oder kurzfristig schließbar → Zahlungsstockung, Frühwarnsystem aktivieren.
 - **GRÜN:** Liquidität gedeckt mit Reserve, Kovenanten eingehalten.
-

@@ -161,4 +161,3 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen-Tabelle verifizieren ueber justiz.de.
-

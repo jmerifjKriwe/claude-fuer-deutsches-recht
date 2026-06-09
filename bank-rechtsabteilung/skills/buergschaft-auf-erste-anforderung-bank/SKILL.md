@@ -94,4 +94,3 @@ Formuliere:
 - `garantieabruf-missbrauch-und-zahlungsstopp` für Eilfall.
 - `kreditsicherheiten-bestellung-verwertung` für Regress und Sicherheiten.
 - `litigation-schlichtung-prozess` für gerichtlichen Streit.
-

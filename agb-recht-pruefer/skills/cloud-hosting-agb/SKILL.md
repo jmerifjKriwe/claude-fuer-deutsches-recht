@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Cloud Hosting AGB: prüft typische AGB-Ris
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

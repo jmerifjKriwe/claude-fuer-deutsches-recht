@@ -1,6 +1,6 @@
 ---
 name: konfliktverteidigung-souveraen
-description: "Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schr..."
 ---
 
 # Umgang mit harter Verteidigung
@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - §§ 226 ff. StPO (Hauptverhandlung)
 - § 258 StPO (Schlussvorträge)
 - Nr. 126-138 RiStBV
-

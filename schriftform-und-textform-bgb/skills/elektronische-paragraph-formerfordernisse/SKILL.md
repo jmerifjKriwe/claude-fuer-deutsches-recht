@@ -125,4 +125,3 @@ Gesetzliche Formfiktionen bleiben unberührt.
 - **§ 130e ZPO ist eng**: Die Willenserklärung muss im vorbereitenden Schriftsatz klar erkennbar sein und zugestellt oder mitgeteilt werden.
 - **§ 623 BGB bleibt direkt streng**: Kündigung und Aufhebungsvertrag per E-Mail, DocuSign oder beA-Nachricht außerhalb des § 46h ArbGG bleiben riskant bis unwirksam.
 - **Verträge brauchen zwei Seiten**: Bei § 126a Abs. 2 BGB muss die Vertragsmechanik beidseitig elektronisch sauber abgebildet sein.
-

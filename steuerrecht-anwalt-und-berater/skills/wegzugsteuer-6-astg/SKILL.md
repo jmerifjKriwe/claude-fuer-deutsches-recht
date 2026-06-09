@@ -1,6 +1,6 @@
 ---
 name: wegzugsteuer-6-astg
-description: "Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und Liquiditaetsfolge. Behandelt Tatbestaende § 6 AStG Stundungsregeln § 6 Abs. 4 AStG Rueckkehrregelung § 6 Abs. 3 AStG und Sicherheitsleistung. Output Pruefraster Vorab-Berechnung Wegzugsteuer und Stundungsantragsmuster. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd."
+description: "Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und..."
 ---
 
 # Wegzugsteuer — § 6 AStG nach AStG-Reform 2022
@@ -41,4 +41,3 @@ description: "Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteil
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

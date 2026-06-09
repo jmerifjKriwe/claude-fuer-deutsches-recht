@@ -1,6 +1,6 @@
 ---
 name: datenschutz-livecheck-bfdi-laender
-description: "Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte für Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen)."
+description: "Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Mo..."
 ---
 
 # Datenschutz Livecheck — BfDI und Landesaufsichten
@@ -116,4 +116,3 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 - EuGH curia.europa.eu.
 - Landesaufsichten siehe Liste oben.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

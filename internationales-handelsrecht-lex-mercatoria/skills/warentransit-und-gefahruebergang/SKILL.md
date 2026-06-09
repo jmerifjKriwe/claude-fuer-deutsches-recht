@@ -47,4 +47,3 @@ CISG Art. 68 regelt den Gefahrübergang beim Verkauf von Ware, die sich bereits 
 - String Trading: Versicherungskette prüfen — jeder Käufer braucht Nachweis
 - Dokumentenprüfung: On-Board-Datum im BL bestätigt Frachtführer-Übergabe
 - Arglist-Ausnahme: immer als Gegenargument prüfen
-

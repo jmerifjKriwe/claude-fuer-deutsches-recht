@@ -119,4 +119,3 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 - § 43a Abs. 3 BRAO; § 138 ZPO.
 - eur-lex.europa.eu; ECLI-Portal; openJur; dejure.org; bundesgerichtshof.de.
 - Lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

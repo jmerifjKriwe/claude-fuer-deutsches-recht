@@ -1,6 +1,6 @@
 ---
 name: awv-beteiligungsmeldungen
-description: "Meldepflichten für Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte für meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation für Bundesbank im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Meldepflichten für Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte für meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen ode..."
 ---
 
 # AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [Bundesbank Direktinvestitionsmeldungen](https://www.bundesbank.de/de/aufgaben/aussenwirtschaft/direktinvestitionen)
 - [BMWK Investitionspruefung](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/investitionspruefung.html)
-

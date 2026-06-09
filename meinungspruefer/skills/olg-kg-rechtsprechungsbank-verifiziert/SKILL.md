@@ -36,4 +36,3 @@ Nutzt obergerichtliche Praxis zu Äußerungen: OLG Frankfurt, OLG München, OLG 
 - **OLG Köln, Urteil vom 27.06.2024 - 15 U 221/22:** Persönlichkeitsrecht und Meinungsfreiheit im Einzelfall austarieren; EGMR-Werturteilslinie und deutsche Sinnermittlung zusammendenken.
 - **OLG Düsseldorf, Beschluss vom 10.07.2006 - III-5 Ss 101/05 - 53/05 I:** Beleidigungsprüfung darf nicht aus dem Kontext gerissene Ausschnitte bewerten; Schmähkritik verlangt Gesamtwürdigung.
 - **KG Berlin, Beschluss vom 11.03.2020 - 10 W 13/20:** Datenherausgabe wegen beleidigender Onlineäußerungen verlangt Prüfung, ob die Äußerung strafbar und die Herausgabe erforderlich ist.
-

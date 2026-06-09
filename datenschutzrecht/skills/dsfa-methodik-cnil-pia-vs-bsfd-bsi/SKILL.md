@@ -112,4 +112,3 @@ Unterschrift DSB: ____________________
 - BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

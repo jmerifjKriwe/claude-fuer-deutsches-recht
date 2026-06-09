@@ -65,4 +65,3 @@ Erzeuge Mängelanzeige, Minderungsübersicht, Bewertungscheck und Vergleichsvors
 
 - Direkt gebucht oder Pauschalreise?
 - Mangel angezeigt?
-

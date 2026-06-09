@@ -49,4 +49,3 @@ Der Spediteur organisiert Transporte, schließt im eigenen Namen für Rechnung d
 - Haftungsregime: bekannter Schadensort → Einzelregime (CMR, MÜ); unbekannt → ADSp/FIATA
 - FBL für Akkreditive: nur wenn Bank ausdrücklich akzeptiert (UCP 600 Art. 19 Multimodal-Transport-Dokument)
 - ADSp 2017: nur bei nationalen Verträgen; international: FIATA-Bedingungen besser
-

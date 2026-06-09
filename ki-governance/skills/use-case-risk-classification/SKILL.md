@@ -56,4 +56,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Trade-off
 Frühzeitige sorgfältige Klassifizierung ist günstiger als spätere Reklassifizierung; ein als "minimal" eingestuftes System, das später als Hochrisiko erkannt wird, erzwingt nachträgliche Konformitätsbewertung (Art. 43 KI-VO), Logging-Aufbau (Art. 12) und technische Dokumentation (Art. 11) — oft mit Marktrückzug oder kostspieliger Anpassung.
-

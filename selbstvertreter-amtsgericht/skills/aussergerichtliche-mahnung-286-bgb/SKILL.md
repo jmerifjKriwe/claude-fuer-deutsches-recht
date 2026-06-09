@@ -129,4 +129,3 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 286 BGB unveraendert. Basiszinssatz halbjaehrlich aktualisieren.
-

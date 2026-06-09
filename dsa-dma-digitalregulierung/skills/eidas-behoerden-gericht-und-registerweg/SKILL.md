@@ -46,4 +46,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 QES (qualifizierte elektronische Signatur) hat nach § 126a BGB die Funktion der Schriftform. Bei Streit über die Beweiskraft elektronischer Signaturen sind das Vertrauensdienste-Zertifikat (mit gültigem Zeitstempel zur Signaturzeit), die Sperrlistenprüfung (OCSP/CRL) und die Vertrauensliste der EU die Beweisgrundlage.
-

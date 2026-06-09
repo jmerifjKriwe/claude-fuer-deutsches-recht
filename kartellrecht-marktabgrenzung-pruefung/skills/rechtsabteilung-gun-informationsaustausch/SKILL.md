@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gun-informationsaustausch
-description: "Rechtsabteilungs-Fachmodul für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die eins..."
 ---
 
 # Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster
@@ -47,4 +47,3 @@ Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

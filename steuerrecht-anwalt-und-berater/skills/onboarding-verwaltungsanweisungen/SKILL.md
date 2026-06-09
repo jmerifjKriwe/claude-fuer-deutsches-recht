@@ -1,6 +1,6 @@
 ---
 name: onboarding-verwaltungsanweisungen
-description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben für Mandant guenstig ist und ob er sich dem Finanzamt gegenueber darauf berufen kann. Behandelt Bindungswirkung Selbstbindung der Verwaltung Art. 3 GG Vertrauensschutz und prozessuale Verwertbarkeit. Output Argumentationsraster und Zitierhilfe. Abgrenzung zu fa-stu-onboarding-beratungsstruktur und fa-stu-onboarding-bescheid-lesen."
+description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben für Mandant gue..."
 ---
 
 # BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen
@@ -42,4 +42,3 @@ Art. 20 Abs. 3 GG · Art. 3 Abs. 1 GG · § 4 AO · § 89 AO · §§ 204 ff. AO 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

@@ -75,4 +75,3 @@ Wenn Mitarbeiter im Auftrag ihres Arbeitgebers Social-Media-Posts verfassen, ent
 - Mitarbeiter-Schulungskonzept
 - Kennzeichnungs-Checkliste für Employee Posts
 - Kündigung nach Social-Media-Verstoß: Prüfschema
-

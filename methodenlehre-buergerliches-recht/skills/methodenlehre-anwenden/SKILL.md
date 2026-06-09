@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch)."
+description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonf..."
 ---
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
@@ -152,4 +152,4 @@ Die ausführliche methodische Grundlage einschließlich der Sektionen zu Anspruc
 
 - **`zitierweise-deutsches-recht`** — Jede Aussage wird nach der Hauszitierweise belegt; insbesondere BGH-Zitate mit `Az.`-Marker, Pinpoint mit Rn., Hierarchie der Gerichte.
 - **`bgb-at-pruefer`** — Mechanische BGB-AT-Prüfungen (Vertragsschluss, Anfechtung, Stellvertretung, Form, Verjährung) bauen auf dieser Methodenlehre auf.
-- Alle Rechtsgebiet-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, `fachanwalt-familienrecht`, `arbeitsrecht`, `gesellschaftsrecht-legal-english`, `kanzlei-allgemein` etc.) setzen diese Methodenlehre voraus; sie greifen über relative Pfade auf die Repo-Referenz [`references/methodik-buergerliches-recht.md`](../../references/methodik-buergerliches-recht.md) zu.
+- Alle Rechtsgebiet-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, `kindeswohlgefaehrdung-eilantrag`, `arbeitsrecht`, `gesellschaftsrecht-legal-english`, `kanzlei-allgemein` etc.) setzen diese Methodenlehre voraus; sie greifen über relative Pfade auf die Repo-Referenz [`references/methodik-buergerliches-recht.md`](../../references/methodik-buergerliches-recht.md) zu.

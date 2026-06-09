@@ -1,6 +1,6 @@
 ---
 name: stoerfall-anlagen-transaktionen-dd
-description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bußgeld-sanktionen (Bußgelder) im Umweltrecht."
+description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsb..."
 ---
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten
@@ -154,4 +154,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-bussgeld-sanktionen` — Bussgeld nach Stoerfall
 - `umweltrecht-verfahren` — Klageverfahren gegen Behördenanordnung
 - `umweltrecht-transaktionen-dd` — Stoerfall-Risiken in M&A
-

@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Softwarelizenz AGB: prüft typische AGB-Ri
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

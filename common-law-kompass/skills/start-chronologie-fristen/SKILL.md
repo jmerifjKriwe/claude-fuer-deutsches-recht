@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Common Law Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Common Law Kompass."
+description: "Einstieg, Schnelltriage und Fallrouting im Common Law Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..."
 ---
 
 # Common-Law-Kompass — Allgemein
@@ -227,4 +227,3 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (UCC, Sale of Goods Act, Contracts Act 1980, Rome I, BGB)
-

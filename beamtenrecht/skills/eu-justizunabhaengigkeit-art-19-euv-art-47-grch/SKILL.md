@@ -41,4 +41,3 @@ Dieser Skill ergänzt das deutsche Richterrecht, wenn unionsrechtliche Bezüge a
 - EuGH 19.11.2019 - C-585/18, C-624/18 und C-625/18, A.K.
 
 Vor Verwendung wird die konkrete Entscheidung in EUR-Lex geprüft. Der Skill zitiert keine Zusammenfassung aus zweiter Hand als Rechtsprechung.
-

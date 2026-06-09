@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Netzanschlusskostenbeteiligung:** Bei EEG-Anlagen trägt der Anschlussnehmer die Kosten des Anschlusses bis zum technisch und wirtschaftlich günstigsten Verknüpfungspunkt (§ 16 Abs. 1 EEG); Netzausbau danach trägt der Netzbetreiber.
 - **Streitschlichtung:** BNetzA-Schlichtungsstelle (§§ 111a, 111b EnWG) für Verbraucher; Beschlusskammerverfahren (§ 29 EnWG) für Geschäftskunden bei Diskriminierung. Klage vor OLG am Sitz der BNetzA (§ 75 EnWG).
 - **Praktiker-Tipp:** Verzögerung beim Anschluss schriftlich rügen und Frist setzen; Belege für Wirtschaftlichkeitsprüfung verlangen (Netzbetreiber muss dokumentieren). Bei EE-Großanlagen: Frühzeitig Netzverknüpfungspunkt verbindlich klären lassen, um Projektrisiken zu minimieren.
-

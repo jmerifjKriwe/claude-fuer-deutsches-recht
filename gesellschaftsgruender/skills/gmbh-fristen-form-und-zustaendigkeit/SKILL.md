@@ -69,4 +69,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Registergericht: § 374 FamFG, sachlich Amtsgericht am Sitz.
 - Beschlussmängelklage: ordentliches Landgericht am Sitz; Kammer für Handelssachen auf Antrag § 96 GVG.
 - Streitwert: meist nicht Stammkapital, sondern wirtschaftliches Interesse (BGH ständige Rechtsprechung).
-

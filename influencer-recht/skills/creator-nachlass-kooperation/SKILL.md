@@ -72,4 +72,3 @@ Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 - Passwort-Safe-Übergabe-Protokoll
 - Testaments-Ergänzung: Digitale Assets
 - Plattform-Legacy-Contact-Anleitung (Meta, Google)
-

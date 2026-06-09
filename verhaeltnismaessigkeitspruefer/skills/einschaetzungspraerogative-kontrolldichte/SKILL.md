@@ -47,4 +47,3 @@ Die Wahl der Kontrolldichte ist nicht "voraussetzungslos". Sie muss begruendet w
 - BVerfGE 88, 203 (Schwangerschaftsabbruch II, intensive Kontrolle Schutzpflicht)
 - BVerfGE 102, 197 (Spielbankenmonopol, Evidenzkontrolle)
 - BVerfGE 159, 223 (Bundesnotbremse, gestaffelte Kontrolle bei dynamischer Wissenslage)
-

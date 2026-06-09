@@ -115,4 +115,3 @@ Fragen zum Einstieg:
 - BGH zur Anerkennung der offenen Treuhand als aussonderungsfähig (st. Rspr.).
 - KWG § 21 zum Schutz von Kundengeldern.
 - ZAG zur Behandlung von Zahlungskonten.
-

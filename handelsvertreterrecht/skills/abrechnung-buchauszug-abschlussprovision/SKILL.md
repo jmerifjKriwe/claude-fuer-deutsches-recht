@@ -1,6 +1,6 @@
 ---
 name: abrechnung-buchauszug-abschlussprovision
-description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven im Handelsvertreterrecht."
+description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf L..."
 ---
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB
@@ -105,4 +105,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - EuGH C-465/04
 - EuGH C-381/19
 - EuGH C-217/05
-

@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mehrheiten-anlagenpaket
-description: "Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien taktische Schwellen. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (ips-gruppen-klassenbildung) im Insolvenzplan Starug Planwerkstatt."
+description: "Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungss..."
 ---
 
 # Abstimmung und Mehrheiten
@@ -99,4 +99,3 @@ Bevor losgelegt wird, klaere:
 - BGH IX ZR 122/23
 - BGH II ZR 206/22
 - BGH IX ZR 129/22
-

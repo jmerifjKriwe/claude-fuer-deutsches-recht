@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 44 BRAO (Ablehnung)
 - § 49 BRAO (Mandatspflicht im PKH-Mandat)
 - § 3 BORA
-

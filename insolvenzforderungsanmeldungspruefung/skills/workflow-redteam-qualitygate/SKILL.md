@@ -43,4 +43,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Vorsatzanfechtung übersehen?** Ist die Forderung in den letzten 4 Jahren entstanden und gab es Kenntnis der Zahlungsunfähigkeit? § 133 Abs. 1 InsO (10-Jahres-Frist a. F. / 4-Jahres-Frist bei kongruenten Leistungen seit SanInsFoG, Stand prüfen).
 - **Frist nicht versäumt?** § 28 InsO Anmeldefrist im Eröffnungsbeschluss; bei Verspätung Sonderprüfungstermin mit Kosten zu Lasten des Anmelders.
 - **Beleg-Halluzination ausgeschlossen?** Keine erfundenen Rechnungsnummern oder Datumsangaben — alles muss in den Unterlagen belegt sein.
-

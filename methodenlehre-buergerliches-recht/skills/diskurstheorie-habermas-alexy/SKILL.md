@@ -1,6 +1,6 @@
 ---
 name: diskurstheorie-habermas-alexy
-description: "Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann)."
+description: "Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Ausleg..."
 ---
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)
@@ -102,4 +102,3 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 - §§ 133, 138, 157, 242, 307 BGB; §§ 1059 ZPO (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

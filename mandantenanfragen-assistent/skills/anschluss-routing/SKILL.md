@@ -62,4 +62,3 @@ Dieses Anschluss-Routing für **Mandantenanfragen Assistent** wählt nach dem er
 
 - BGH VI ZR 7/20
 - BGH VI ZR 246/19
-

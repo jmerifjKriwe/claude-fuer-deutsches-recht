@@ -1,6 +1,6 @@
 ---
 name: bmds-datenrecht-und-data-act
-description: "Sachbereich Datenrecht und Data Act im Geschaeftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung)."
+description: "Sachbereich Datenrecht und Data Act im Geschaeftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); typische Legistik-Aufgaben und Pruefpun..."
 ---
 
 # Datenrecht und Data Act (BMDS)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

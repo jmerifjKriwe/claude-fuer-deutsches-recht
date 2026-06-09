@@ -105,4 +105,3 @@ Anspruch entstanden wann?
  ├─ Ja → neue Frist ab Neubeginnzeitpunkt
  └─ Nein → Ergebnis: verjährt / nicht verjährt
 ```
-

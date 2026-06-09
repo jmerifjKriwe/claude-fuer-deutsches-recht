@@ -85,4 +85,3 @@ Dieser Skill identifiziert Exportkontrollverstöße, leitet Selbstanzeige-Entsch
 - **Remediation-Plan** (Klassifizierung, Screening, Training)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

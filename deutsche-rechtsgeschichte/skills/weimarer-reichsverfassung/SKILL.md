@@ -47,4 +47,3 @@ Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt form
 - Art. 48-Verordnungen: Reichsgesetzblatt 1930-1932 pruefen
 - Sekundaerliteratur: Huber Deutsche Verfassungsgeschichte Bd. VI-VII; Gusy Die Weimarer Reichsverfassung
 - Nie Gegenwartsdogmatik (GG-Begriffe) unbemerkt in WRV-Texte einlesen
-

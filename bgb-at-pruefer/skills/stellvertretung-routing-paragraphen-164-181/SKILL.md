@@ -1,6 +1,6 @@
 ---
 name: stellvertretung-routing-paragraphen-164-181
-description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilskills."
+description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilski..."
 ---
 
 # Stellvertretung — Routing §§ 164 bis 181 BGB
@@ -76,4 +76,3 @@ duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 fü
 - Vollmacht fehlend: Rechtsschein (Duldung/Anschein) oder vollmachtloser Vertreter?
 - Insichgeschäft: § 181 BGB mit Ausnahmen geprüft?
 - Richtiger Teilskill für Detailprüfung ausgewählt?
-

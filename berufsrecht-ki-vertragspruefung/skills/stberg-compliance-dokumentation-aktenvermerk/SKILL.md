@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-aktenvermerk
-description: "Stberg: Compliance-Dokumentation und Aktenvermerk im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Stberg: Compliance-Dokumentation und Aktenvermerk im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk
@@ -49,4 +49,3 @@ Bei KI-Anbietern besonders prüfen: Trainingsnutzung der Mandantendaten ausschli
 
 ## Trade-off
 Cloud-Tools mit US-Anbieter bieten oft Funktionsvorsprung, erfordern aber TIA, DPF-Zertifizierung und vertragliche Spezifika (z. B. EU-Datenresidenz auf Vertragsschicht garantieren). Lokales Self-Hosting vermeidet Transfer, erzeugt aber höhere Eigenverantwortung für Sicherheit (Patchmanagement, Logging, Wartung).
-

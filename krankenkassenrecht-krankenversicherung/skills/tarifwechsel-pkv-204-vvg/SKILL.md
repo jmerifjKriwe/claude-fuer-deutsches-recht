@@ -86,4 +86,3 @@ Wer in der PKV zu einem günstigeren oder leistungsfähigeren Tarif beim gleiche
 - [§ 146 VAG – Altersrückstellungen](https://www.gesetze-im-internet.de/vag_2016/__146.html)
 - [dejure.org § 204 VVG](https://dejure.org/gesetze/VVG/204.html)
 - [PKV-Verband Tarifwechsel](https://www.pkv.de)
-

@@ -104,4 +104,3 @@ Erstelle je nach Ziel:
 - § 291 StGB: https://www.gesetze-im-internet.de/stgb/__291.html
 - §§ 556d-556g BGB und § 558 BGB vor konkreter Ausgabe immer aktuell prüfen.
 - Mietspiegel nur aus amtlicher Quelle verwenden; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle zitieren.
-

@@ -37,4 +37,3 @@ description: "Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid 
 ## Quellen
 
 TMclass, DPMA-eKDB, EUIPO Guidelines und aktuelle Gebührenhinweise live prüfen.
-

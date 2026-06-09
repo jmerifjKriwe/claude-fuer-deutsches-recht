@@ -1,6 +1,6 @@
 ---
 name: charterparty-register-hypothek-bestellen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prueft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prueft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Klaert Lastenfrei..."
 ---
 
 # Charterparty – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

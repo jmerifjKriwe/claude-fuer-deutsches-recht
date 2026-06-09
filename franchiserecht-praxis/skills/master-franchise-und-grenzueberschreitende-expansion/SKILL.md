@@ -1,6 +1,6 @@
 ---
 name: master-franchise-und-grenzueberschreitende-expansion
-description: "Fachmodul Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht."
+description: "Fachmodul Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und s..."
 ---
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion
@@ -46,4 +46,3 @@ Country-Launch-Checklist mit zwingendem Recht, Steuern, IP, Kartellrecht und Str
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-

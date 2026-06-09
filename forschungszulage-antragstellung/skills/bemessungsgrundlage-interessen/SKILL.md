@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen
-description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix
@@ -73,4 +73,3 @@ Die Abgrenzung ist wirtschaftlich relevant: bei Kooperationen können beide Part
 - "Kooperationsvertrag" ist tatsächlich verkappte Auftragsforschung; Außenprüfung qualifiziert um, FZulG-Förderung wird reduziert.
 - Konzernverrechnungspreise nicht marktüblich; Steuerprüfung führt zu Doppelschaden (FZulG-Kürzung + AStG-Anpassung).
 - Auftragsforschung an britischen Dienstleister nach Brexit weitergegeben - kein EWR mehr, keine Förderung.
-

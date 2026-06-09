@@ -165,4 +165,3 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 Stand: 05/2026. DBA-Spanien 03.02.2011, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18). MLI-modifiziert ab 01.01.2025 (BGBl. 2025 II Nr. 5). Beckham-Regelung und ETVE-Klassifikation im Einzelfall pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

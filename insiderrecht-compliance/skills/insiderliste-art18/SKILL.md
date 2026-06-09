@@ -78,4 +78,3 @@ Alle Änderungen sind mit Zeitstempel zu versehen.
 - Bei BaFin-Anfrage: Übermittlung unverzüglich (i.d.R. innerhalb von 24 Stunden)
 - Format: DVO-konformes Tabellenformat (Excel oder IT-System)
 - Zugriff nur für Compliance und Vorstand, nicht für Handelsabteilungen
-

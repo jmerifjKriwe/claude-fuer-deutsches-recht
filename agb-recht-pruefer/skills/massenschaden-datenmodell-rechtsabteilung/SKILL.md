@@ -33,4 +33,3 @@ description: "Output- und Streit-Skill für Massenschaden Datenmodell: macht aus
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

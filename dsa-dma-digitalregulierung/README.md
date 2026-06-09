@@ -115,6 +115,6 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Dsa Dma Digitalregulierung. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Dsa Dma Digitalregulierung. |
 | `zustellung-fehlerkatalog` | Zustellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `zustellung-vertreter` | Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digitalregulierung. |
+| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behörde will Plattform erreichen: Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

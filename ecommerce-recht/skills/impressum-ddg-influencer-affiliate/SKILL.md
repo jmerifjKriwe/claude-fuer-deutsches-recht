@@ -121,4 +121,3 @@ DE[...]
 - TDDDG – Volltext gesetze-im-internet.de.
 - § 27a UStG – Volltext gesetze-im-internet.de.
 - BGH zur Zwei-Klicks-Regel – ständige Rechtsprechung; bundesgerichtshof.de.
-

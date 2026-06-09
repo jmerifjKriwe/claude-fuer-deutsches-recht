@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. Maßgeblich sind Tool-Auswahl, Mandanten- und Berufsgeheimnisschutz, dokumentierte Endkontrolle und Aktualisierung bei neuen Kammerhinweisen, Rechtsprechung oder Gesetzesänderungen.
-

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-massiv
-description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protoko..."
 ---
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)
@@ -83,4 +83,3 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 - [DIN EN 13670 Beton Ausfuehrung](https://www.gesetze-im-internet.de/)
 - [DIN 18533 Abdichtung erdberuehrte Bauteile](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 346/01 Bauueberwachungshaftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+346/01)
-

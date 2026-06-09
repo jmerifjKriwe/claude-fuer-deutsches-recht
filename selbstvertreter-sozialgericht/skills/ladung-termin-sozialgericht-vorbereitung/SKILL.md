@@ -117,4 +117,3 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerkt genutzt.
-

@@ -142,4 +142,3 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 - §§ 286 ff. InsO (Restschuldbefreiung).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

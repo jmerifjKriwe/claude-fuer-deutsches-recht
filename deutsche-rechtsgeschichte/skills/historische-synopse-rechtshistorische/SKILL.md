@@ -45,4 +45,3 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 - DDR-ZGB: GBl. I DDR 1975, 465 via ALEX/OeNB
 - WRV: documentArchiv.de; GG: gesetze-im-internet.de
 - Textvergleich: tabellarisch mit Kommentarspalte
-

@@ -113,4 +113,3 @@ Eingaben:
 - BVerwG / OVG / VGH staend. Rspr. zur Apothekenaufsicht.
 - BGH staend. Rspr. zu §§ 299a/b StGB im Apothekenkontext.
 - Landesapothekerkammer-Beanstandungsleitfäden (vom Anwender zu verifizieren).
-

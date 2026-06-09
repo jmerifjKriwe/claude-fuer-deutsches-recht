@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-gewerbehalle-stahlbau
-description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mi..."
 ---
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)
@@ -83,4 +83,3 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 - [DIN EN ISO 12944 Korrosionsschutz](https://www.gesetze-im-internet.de/)
 - [DIN 15018 Krane Stahltragwerke](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 376/97 Stahlbau Maengelhaftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+376/97)
-

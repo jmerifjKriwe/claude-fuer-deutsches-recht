@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-125-ao
-description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhörungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo."
+description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertat..."
 ---
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO
@@ -42,4 +42,3 @@ description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

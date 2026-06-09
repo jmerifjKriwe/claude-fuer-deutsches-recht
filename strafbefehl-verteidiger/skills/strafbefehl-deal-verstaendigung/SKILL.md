@@ -93,4 +93,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Informelle Zusagen nicht vertrauen — nur foermliche Verstaendigung im Protokoll ist bindend.
 - Bindungswirkung entfaellt bei neuen Erkenntnissen (§ 257c Abs. 4 StPO) — Mandant darauf hinweisen.
 - Anwaltliche Endkontrolle bei Gestaendnisformulierung und Protokoll.
-

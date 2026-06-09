@@ -1,6 +1,6 @@
 ---
 name: bwa-kapitalflussrechnung-iduk
-description: "Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss laufende Geschäftstätigkeit Investitionstätigkeit Finanzierungstätigkeit. Output Kapitalflussrechnung als Standalone-Anhang."
+description: "Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss laufende Geschäftstätigkeit Investitionstätigkeit Finanzierungstätigkeit. Output..."
 ---
 
 # Kapitalflussrechnung nach DRS 21 indirekte Methode
@@ -140,4 +140,3 @@ Stand: 05/2026.
 - IDW S 6, IDW PS 305.
 - IAS 7 (international).
 - InsO § 19.
-

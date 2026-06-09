@@ -28,4 +28,3 @@ VVG §§ 28, 30, 31, 82, 86; AVB; BGB § 242; ZPO.
 
 - vers-deckungsablehnung-redteam
 - vergleich-abfindung-entschaedigungsquittung
-

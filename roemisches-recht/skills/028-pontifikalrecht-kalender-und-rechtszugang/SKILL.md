@@ -51,4 +51,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Pontifices?
 2. Welche Periode?
 3. Bedeutung?
-

@@ -1,6 +1,6 @@
 ---
 name: disziplinarmassnahmebemessung-13-bdg
-description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien im Beamtenrecht."
+description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertra..."
 ---
 
 # Disziplinarmassnahmebemessung § 13 BDG
@@ -71,4 +71,3 @@ Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Massna
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Justizvollzugsbeamter, drei Faelle Untreue zu Lasten einer Inhaftiertenkasse, Schaden 1.200 Euro. Skill liefert Bemessungsraster und Argumente für Disziplinarmassnahme unterhalb der Entfernung.
-

@@ -59,4 +59,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Frühe Anpassung der Cloud-Verträge erspart spätere Friktion (Wechselgebühren-Verbot); zugleich erhöht Datenzugang Sicherheitsanforderungen. Eine "Cloud-by-Design"-Architektur (Modularität, Portabilität) ist die langfristige Antwort.
-

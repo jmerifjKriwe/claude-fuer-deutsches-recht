@@ -105,4 +105,3 @@ Viele Schiffe in Deutschland: KG-Struktur (Kommanditgesellschaft als Schiffs-Eig
 - **Bareboat-Charter-Checkliste**: Flagge, ISM, Crew, Versicherung
 - **Insolvenz-Sofortplan**: LG bei Insolvenz der Reederei
 - **Tonnagesteuer-Memo**: Voraussetzungen und Berechnung
-

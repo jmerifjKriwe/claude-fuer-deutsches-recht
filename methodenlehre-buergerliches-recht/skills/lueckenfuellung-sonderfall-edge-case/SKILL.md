@@ -1,6 +1,6 @@
 ---
 name: lueckenfuellung-sonderfall-edge-case
-description: "Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht."
+description: "Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt einges..."
 ---
 
 # Lückenfüllung bei Sonderfällen und Edge Cases
@@ -82,4 +82,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

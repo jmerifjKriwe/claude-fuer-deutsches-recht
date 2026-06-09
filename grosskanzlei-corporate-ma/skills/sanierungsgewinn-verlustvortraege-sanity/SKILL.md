@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verlustvortraege-sanity
-description: "Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026."
+description: "Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Ve..."
 ---
 
 # Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess
@@ -105,4 +105,3 @@ Erfahrene Tax-Partner schauen im Distressed-DD zuerst auf drei Zahlen: kumuliert
 - FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Fundstelle für die DD-Bewertung von Targets, die statt einer Sanierung in die Liquidation laufen (nachrangige Gesellschafterdarlehen, Erlöschen von Verbindlichkeiten und Verlustvorträgen mit Löschung).
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - Sonstige BFH-Rspr. zu § 10d EStG und § 4h EStG als „ständige Rspr." formulieren; Verifizierung über bundesfinanzhof.de.
-

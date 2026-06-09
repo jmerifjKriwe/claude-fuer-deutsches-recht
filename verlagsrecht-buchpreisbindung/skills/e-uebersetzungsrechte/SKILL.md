@@ -1,6 +1,6 @@
 ---
 name: e-uebersetzungsrechte
-description: "Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
 ---
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
@@ -118,4 +118,3 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 - **Plattformvertrags-Check**: KDP, Apple, Audible, Spotify — Compliance
 - **Honorarübersicht**: Tantiemensätze je Ausgabe
 - **Checkliste unbekannte Nutzungsarten** für Altverträge (§ 31a UrhG)
-

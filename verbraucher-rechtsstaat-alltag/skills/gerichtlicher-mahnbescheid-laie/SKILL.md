@@ -65,4 +65,3 @@ Erzeuge Sofortentscheidung Widerspruch ja/nein/teilweise, Formularhilfe, Kostenh
 
 - Zustelldatum?
 - Forderung dem Grunde oder nur der Höhe nach bestritten?
-

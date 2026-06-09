@@ -1,6 +1,6 @@
 ---
 name: steuerberater-stberg-allgemeine-berufliche
-description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz im Berufsrechts-E-Mail."
+description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anw..."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)
@@ -63,4 +63,3 @@ Einschlägige Normen: § 57 StBerG (Allgemeine Berufspflichten), § 57a StBerG (
 
 **Vorher:** "Das habe ich Ihnen doch schon hundertmal erklärt!"
 **Nachher:** "Wie bereits in meinem Schreiben vom TT.MM.JJJJ dargelegt, gilt folgendes..."
-

@@ -24,4 +24,3 @@ description: "Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtre
 2. Liste alt/neu, Gesellschafterbeschlüsse, Abtretungsurkunden, Notarbescheinigung und Registerstatus vergleichen.
 3. Gesellschaftsinterne Legitimationswirkung, materielle Berechtigung und Rechtsschutzweg trennen.
 4. Eilrechtsschutz: Verbot Einreichung, Korrekturliste, Widerspruch/Zuordnungsvermerk, Beschlussanfechtung und Hauptsache koordinieren.
-

@@ -91,4 +91,3 @@ Gesundheitsdaten genießen besonderen Schutz. Dieser Skill klärt, **welche Date
 - [Bundesdatenschutzgesetz BDSG](https://www.gesetze-im-internet.de/bdsg_2018/)
 - [dejure.org § 67 SGB X](https://dejure.org/gesetze/SGB_X/67.html)
 - [BfDI – Bundesbeauftragter Datenschutz](https://www.bfdi.bund.de)
-

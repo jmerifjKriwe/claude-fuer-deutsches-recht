@@ -1,6 +1,6 @@
 ---
 name: bodenreform-grundbuch-registerlage
-description: "Einigungsvertrag und Vermögensrecht: Bodenreform-Grundbuch lesen. Bodenreform-Grundbuch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Einigungsvertrag und Vermögensrecht: Bodenreform-Grundbuch lesen. Bodenreform-Grundbuch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Ta..."
 ---
 
 # Bodenreform Grundbuch Lesen
@@ -39,4 +39,3 @@ description: "Einigungsvertrag und Vermögensrecht: Bodenreform-Grundbuch lesen.
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

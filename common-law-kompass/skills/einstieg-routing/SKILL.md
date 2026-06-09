@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Common Law Kompass: ordnet Rolle (Mandant US/UK, Counsel local, Court), markiert Frist (Statutes of Limitations je Jurisdiction), wählt Norm (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) und Zuständigkeit (UK Supreme Court, US Supreme Court), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Common Law Kompass: ordnet Rolle (Mandant US/UK, Counsel local, Court), markiert Frist (Statutes of Limitations je Jurisdiction), wählt Norm (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) und Zuständigkeit (UK Supreme Court, US Supreme Court), lei..."
 ---
 
 # Einstieg und Routing
@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

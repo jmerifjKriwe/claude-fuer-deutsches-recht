@@ -92,4 +92,3 @@ Pflichtinhalt einer Insider-Compliance-Policy:
 8. Sanktionen und Konsequenzen
 9. Meldewege und Ansprechpartner
 10. Revisions- und Aktualisierungsplan
-

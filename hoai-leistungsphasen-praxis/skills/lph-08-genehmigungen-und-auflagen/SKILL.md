@@ -32,4 +32,3 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 - Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
 - Bewertungsanker Gebäude/Innenräume: 32 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

@@ -72,4 +72,3 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 - Kennzeichnungsampel für Einladungs-Posts
 - EÜR-Buchungsnotiz
 - Bewirtungsbeleg-Vorlage
-

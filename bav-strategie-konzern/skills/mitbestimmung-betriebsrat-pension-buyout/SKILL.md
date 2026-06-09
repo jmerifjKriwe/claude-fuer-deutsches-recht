@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-pension-buyout
-description: "Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan im Bav Strategie Konzern."
+description: "Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher..."
 ---
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
@@ -220,4 +220,3 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Ergebnisdokumentation in BV
 
 ## Ergaenzende Rechtsprechung (v14.2)
-

@@ -57,4 +57,3 @@ Pruefung: Aufloesungsgesetz 26.01.1938 — Sondervermoegen wird Vermoegen aller 
 - Erbschaftsstreitigkeiten ueber Stammguter und alte Adelsvermoegen.
 - Grundbuch-Eintragungen aus dem 19. Jh.
 - Lokales Bereinigungsgesetzrecht der Länder (Sachenrechtsbereinigungsgesetz für Ostdeutschland 1994).
-

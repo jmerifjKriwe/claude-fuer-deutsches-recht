@@ -41,4 +41,3 @@ VVG §§ 214 ff., § 215; VAG Aufsicht; ZPO; Ombudsmann-Verfahrensordnungen live
 
 - deckungsprozess-zuständigkeit-215-vvg
 - rechtsschutz-deckungszusage-stichentscheid
-

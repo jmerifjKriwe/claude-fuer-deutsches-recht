@@ -71,4 +71,3 @@ Meilensteine mit potenziellem Insiderinformations-Entstehungszeitpunkt:
 - Welche Gesellschaft haftet für Compliance-Verstöße während der Transition?
 - Vertragliche Regelung im Spin-off-Vertrag (Indemnification)
 - Compliance-Übergabe: Insiderlisten, Aufschubakten, Directors'-Dealings-Register
-

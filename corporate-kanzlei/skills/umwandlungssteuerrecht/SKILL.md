@@ -216,4 +216,3 @@ OFFENE PUNKTE
 - §§ 11-25 UmwStG; § 8c KStG; § 6a GrEStG; § 1 II GrEStG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019); Tipke/Lang § 17
-

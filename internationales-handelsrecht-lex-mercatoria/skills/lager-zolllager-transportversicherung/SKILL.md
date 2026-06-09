@@ -48,4 +48,3 @@ Das Lagerrecht (HGB §§ 467-475h) regelt die Verwahrung von Waren durch einen g
 - Zolllager: Bewilligung beim Hauptzollamt beantragen; laufende Bestandsführung UZK Art. 214
 - Haftungsabgrenzung: Übernahmezustand dokumentieren (Fotos, Wiegung)
 - Pfandrecht: Rangfolge mit anderen Sicherungsrechten im Vorfeld klären
-

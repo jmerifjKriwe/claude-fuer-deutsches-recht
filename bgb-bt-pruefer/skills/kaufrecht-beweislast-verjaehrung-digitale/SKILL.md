@@ -68,4 +68,3 @@ Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besond
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__438.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
-

@@ -54,4 +54,3 @@ description: "Klausel-Fachmodul für Auditrechte: prüft, redlined und entwirft 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

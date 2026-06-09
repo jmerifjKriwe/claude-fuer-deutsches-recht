@@ -1,6 +1,6 @@
 ---
 name: joint-controllership-en-template
-description: "English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement template."
+description: "English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement t..."
 ---
 
 # Joint Controller Agreement – English Template (Article 26 GDPR)
@@ -153,4 +153,3 @@ Date: Date:
 - Full texts available via curia.europa.eu.
 - Citation rules: `../../../references/zitierweise.md`.
 ```
-

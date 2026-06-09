@@ -40,4 +40,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: behördliche Anordnung Art. 9/10 DSA mit Frist, VLOP-Kennzeichnung übersehen, Gatekeeper-Verstoß ohne Mitigation.
 - **Gelb**: AGB nicht Art. 14 DSA-konform, kein Notice-and-Action-Prozess implementiert, fehlende oder veraltete Transparenzberichte.
 - **Grün**: Compliance-Programm vorhanden, Single Point of Contact (Art. 11 DSA) benannt, gegebenenfalls Compliance-Officer (Art. 41 DSA bei VLOP).
-

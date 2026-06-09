@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-register-pruefen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prueft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prueft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor..."
 ---
 
 # Yachtkauf – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

@@ -1,6 +1,6 @@
 ---
 name: bonus
-description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB im Handelsvertreterrecht."
+description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung n..."
 ---
 
 # Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 315 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__315.html)
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-

@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Räumung an Sonn- und Feiertagen:** Grundsätzlich verboten (§ 758a Abs. 4 ZPO); werktags zwischen 21 Uhr und 6 Uhr nur mit Sondergenehmigung.
 - **Mietkosten zwischen Kündigung und Räumung:** Schuldner schuldet Nutzungsentschädigung in Höhe der ortsüblichen Miete (§ 546a BGB), nicht den vereinbarten Mietzins.
 - **Praktiker-Tipp:** Vor Räumungsklage immer prüfen: Adressaten korrekt (alle Mitmieter im Titel?), Räumlichkeiten genau bezeichnet (Stockwerk, Lage); fehlende Bezeichnungen führen zu Schwierigkeiten beim Gerichtsvollzieher. Kostenkalkulation: vollständige Räumung kann mehrere tausend Euro kosten - Berliner Modell oft wirtschaftlicher.
-

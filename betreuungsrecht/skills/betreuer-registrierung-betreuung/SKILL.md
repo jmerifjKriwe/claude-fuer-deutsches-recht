@@ -185,4 +185,3 @@ Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.
 ### Leitentscheidungen
 
 - BGH XII ZB 174/18
-

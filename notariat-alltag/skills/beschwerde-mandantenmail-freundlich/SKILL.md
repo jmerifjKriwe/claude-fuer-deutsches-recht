@@ -88,4 +88,3 @@ Beschwerde bei LG (Grundbuchsache): Gerichtskosten nach GNotKG/GKG (Auffangwert 
 ## Aussetzungsantrag
 
 Parallel zur Beschwerde kann beim Ausgangsgericht eine Aussetzung des Verfahrens beantragt werden, um eine bereits angeordnete Maßnahme vorläufig zu stoppen. Bei Grundbuchsachen: § 381 FamFG i.V.m. § 21 Abs. 1 FamFG. Selten erfolgreich; einstweiliger Rechtsschutz im FamFG ist begrenzt.
-

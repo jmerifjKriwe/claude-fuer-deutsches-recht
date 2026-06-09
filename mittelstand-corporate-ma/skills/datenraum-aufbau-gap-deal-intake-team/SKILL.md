@@ -187,4 +187,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Sensibler Wettbewerber-Datenraum ohne Clean Room: Kartellrechtsverstoss (Art. 7 FKVO)
 - Datenraumzugang ohne NDA: Geschaeftsgeheimnisschutz verletzt (GeschGehG)
 - Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
-

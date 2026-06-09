@@ -60,4 +60,3 @@ description: "Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung
 - kaufvertrag-grundschema-paragraph-433
 - werkvertrag-grundschema-paragraph-631
 - dienstvertrag-und-behandlungsvertrag
-

@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 92 BNotO (Aufsicht)
 - § 95 BNotO
 - § 43 GwG
-

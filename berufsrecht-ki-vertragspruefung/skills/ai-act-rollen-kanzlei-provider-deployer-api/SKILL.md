@@ -53,4 +53,3 @@ Die KI-VO beantwortet nicht die Berufsgeheimnisfrage. Selbst ein KI-VO-konformes
 
 - BGH VI ZR 36/20
 - BGH VIII ZR 78/20
-

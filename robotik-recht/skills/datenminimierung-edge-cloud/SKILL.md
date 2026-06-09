@@ -89,4 +89,3 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - BSI C5; ISO/IEC 27001/27017/27018.
 - EDPB Guidelines on Anonymisation (in Bearbeitung 2024-2026); EDPB Recommendations 01/2020 Supplementary Measures.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

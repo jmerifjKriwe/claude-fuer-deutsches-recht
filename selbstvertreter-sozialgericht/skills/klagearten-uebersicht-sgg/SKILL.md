@@ -117,4 +117,3 @@ Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage s
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft das Gericht oft (Hinweispflicht, § 106 SGG).
-

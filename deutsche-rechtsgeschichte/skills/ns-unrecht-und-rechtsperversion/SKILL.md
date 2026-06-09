@@ -63,4 +63,3 @@ Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegn
 - Radbruch-Formel: SJZ 1946, 105 im Original lesen
 - Fraenkel Doppelstaat: Deutsche Erstausgabe 1974 (englisches Original 1941)
 - BVerfGE: bverfg.de
-

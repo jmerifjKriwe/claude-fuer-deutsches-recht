@@ -64,4 +64,3 @@ Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (g
 - Jhering Zweck im Recht: historische Erstausgabe (1877-84), Band und Seite
 - Kantorowicz 1906: Erstausgabe (unter Pseudonym Gnaeus Flavius)
 - Larenz Methodenlehre: 6. Aufl. 1991, Seite angeben
-

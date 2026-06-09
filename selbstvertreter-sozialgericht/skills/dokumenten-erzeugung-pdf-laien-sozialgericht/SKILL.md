@@ -130,4 +130,3 @@ Speichern Sie alle Klage-PDFs in einem Ordner. Sortieren Sie alphabetisch:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Apps und Tools veraendern sich. Bei Fragen: lokale Computer-Beratung, VHS-Kurs, Familie / Bekannte fragen.
-

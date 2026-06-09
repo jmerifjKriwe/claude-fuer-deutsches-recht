@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-einfuhr-abgabenbescheid
-description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und Ursprungsablehnungen. Output: Einspruchsschriftsatz und Berechnung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und U..."
 ---
 
 # ATLAS-Einfuhr-Abgabenbescheid: Pruefen und Anfechten
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/index.html)
 - [FGO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/fgo/index.html)
 - [Zoll.de Rechtsbehelfe](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollanmeldung-Zollverfahren/Rechtsbehelfe/rechtsbehelfe_node.html)
-

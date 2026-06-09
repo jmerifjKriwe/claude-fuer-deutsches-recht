@@ -1,6 +1,6 @@
 ---
 name: bmi-sicherheits-und-polizeirecht
-description: "Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung)."
+description: "Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Auf..."
 ---
 
 # Sicherheits- und Polizeirecht (BMI)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

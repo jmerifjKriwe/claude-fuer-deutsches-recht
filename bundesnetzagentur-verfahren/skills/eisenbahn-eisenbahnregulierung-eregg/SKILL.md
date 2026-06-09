@@ -60,4 +60,3 @@ Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (
 
 ## Qualitätsgate
 Mandantenrolle eindeutig? Fachmodul-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?
-

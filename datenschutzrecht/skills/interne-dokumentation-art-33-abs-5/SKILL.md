@@ -1,6 +1,6 @@
 ---
 name: interne-dokumentation-art-33-abs-5
-description: "Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der Aufsichtsbehörde; Versionierung. Output: Vorlage Vorfallregister mit Pflichtfeldern. Abgrenzung: kein Verfahrensverzeichnis Art. 30."
+description: "Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der A..."
 ---
 
 # Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister
@@ -43,4 +43,3 @@ Versionierung: jede Änderung mit Datum und Bearbeiter; alte Versionen revisions
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-vvt-update-nach-vorfall` deckt die Aktualisierung des VVT ab.
-

@@ -1,6 +1,6 @@
 ---
 name: handelsregister-elektronische-zustellung
-description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen."
+description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only..."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung
@@ -147,4 +147,3 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - Statistisches Bundesamt — Unternehmensregister
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
-

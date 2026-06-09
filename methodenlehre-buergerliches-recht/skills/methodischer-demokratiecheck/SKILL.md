@@ -1,6 +1,6 @@
 ---
 name: methodischer-demokratiecheck
-description: "Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen."
+description: "Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen de..."
 ---
 
 # Methodischer Demokratiecheck
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 123, 267 – Lissabon-Urteil, Demokratieprinzip](https://www.bverfg.de/e/es20090630_2bve000208.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

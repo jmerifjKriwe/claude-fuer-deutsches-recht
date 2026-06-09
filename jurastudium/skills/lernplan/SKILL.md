@@ -1,6 +1,6 @@
 ---
 name: lernplan
-description: "Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer Lernplan erstellen, Examensvorbereitung planen, Stundenplan Staatsexamen oder wie soll ich für [Prüfung] lernen sagt im Jurastudium."
+description: "Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, we..."
 ---
 
 # Staatsexamen-Lernplan
@@ -234,4 +234,3 @@ Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren
 <!-- AUDIT 27.05.2026 -->
 
 ## Audit-Hinweis (27.05.2026)
-

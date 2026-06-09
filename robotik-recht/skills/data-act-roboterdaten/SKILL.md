@@ -89,4 +89,3 @@ Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwieg
 - GeschGehG; RL (EU) 2016/943.
 - VO (EU) 2024/1689 (KI-VO), Art. 10.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

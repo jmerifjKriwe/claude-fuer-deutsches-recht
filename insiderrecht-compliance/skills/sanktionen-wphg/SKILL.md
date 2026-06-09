@@ -89,4 +89,3 @@ Für Bußgeldverfahren:
 Für Strafverfahren:
 - Nachweis fehlenden Vorsatzes (Beratungsirrtum, fehlende Kenntnis der Insiderinformation)
 - Selbstanzeige prüfen (keine formale Selbstanzeige wie im Steuerrecht, aber Kooperation)
-

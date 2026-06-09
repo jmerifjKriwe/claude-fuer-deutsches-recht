@@ -1,6 +1,6 @@
 ---
 name: buerokratiekosten-vs-erfuellungsaufwand
-description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen für Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung für Ressort-Schulung."
+description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen für Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung für..."
 ---
 
 # NKR-Buerokratiekosten vs. Erfuellungsaufwand
@@ -88,4 +88,3 @@ Keine Rueckfrage noetig.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - EU Better Regulation Toolbox (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

@@ -48,4 +48,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Red Team
 
 Serienfähigkeit scheitert oft nicht am großen Rechtsproblem, sondern an heterogenen Fahrzeugdaten. Der Skill muss deshalb immer sagen, welche Tatsachen standardisierbar sind und welche zwingend individualisiert werden müssen.
-

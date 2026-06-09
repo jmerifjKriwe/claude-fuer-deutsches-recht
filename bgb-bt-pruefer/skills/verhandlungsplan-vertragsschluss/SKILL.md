@@ -59,4 +59,3 @@ description: "Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Ver
 - https://www.gesetze-im-internet.de/bgb/__779.html
 - https://www.gesetze-im-internet.de/bgb/__397.html
 - https://www.gesetze-im-internet.de/zpo/__794.html
-

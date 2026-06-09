@@ -136,4 +136,3 @@ Stand: 05/2026. § 371 ZPO unveraendert.
 ### Leitentscheidungen
 
 - BGH VI ZR 67/15
-

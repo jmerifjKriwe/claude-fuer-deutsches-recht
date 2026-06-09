@@ -39,4 +39,3 @@ Statt "Die Projektleitung ist unfähig und trickst die Kunden aus" eher:
 - **Hinweisgeberschutzgesetz (HinSchG):** Bei begründetem Verdacht auf Rechtsverstoß ist interne Meldestelle vorrangig (§ 7 HinSchG); externe Meldestelle nur bei Voraussetzungen § 8 HinSchG.
 - **Beweissicherung:** Screenshots mit Datum/URL, Zeugen befragen, ggf. Audioprotokoll (Achtung § 201 StGB — heimliche Aufnahme strafbar!).
 - Falle: Schmähkritik-Vorwurf gegenüber legitimer Sachkritik überdehnt — BAG verlangt erkennbaren Sachbezug und Verhältnismäßigkeit.
-

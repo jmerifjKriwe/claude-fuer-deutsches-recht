@@ -100,4 +100,3 @@ Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Ma
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG unveraendert.
-

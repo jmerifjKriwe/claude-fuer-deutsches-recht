@@ -85,4 +85,3 @@ Dieser Skill identifiziert Bestechungs-Red-Flags in Transaktionsdaten, Drittpart
 - **DOJ-Kooperationsstrategie-Memo**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

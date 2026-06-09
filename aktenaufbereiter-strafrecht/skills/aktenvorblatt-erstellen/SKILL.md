@@ -1,6 +1,6 @@
 ---
 name: aktenvorblatt-erstellen
-description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht im Strafrechts-Aktenaufbereiter."
+description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer K..."
 ---
 
 # Aktenvorblatt-Erstellung
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

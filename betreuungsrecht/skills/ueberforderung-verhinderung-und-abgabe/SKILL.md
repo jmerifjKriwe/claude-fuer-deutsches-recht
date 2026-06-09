@@ -68,4 +68,3 @@ Vor jeder Abgabe prüfen:
 - Welche Fristen laufen?
 - Welche Unterlagen müssen übergeben werden?
 - Muss das Gericht sofort informiert werden?
-

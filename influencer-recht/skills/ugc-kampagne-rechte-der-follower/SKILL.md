@@ -74,4 +74,3 @@ User Generated Content-Kampagnen (Follower sollen Content einreichen) erfordern 
 - DSGVO-Datenschutztext für UGC-Kampagne
 - Nutzungsrechts-Bestätigung (Einzel-Follower)
 - Preis-Übergabe-Protokoll
-

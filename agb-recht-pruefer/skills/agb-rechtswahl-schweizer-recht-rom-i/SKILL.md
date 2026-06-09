@@ -1,6 +1,6 @@
 ---
 name: agb-rechtswahl-schweizer-recht-rom-i
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm."
+description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw..."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I
@@ -61,4 +61,3 @@ description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Re
 4. Zwingende deutsche Vorschriften nach Art. 6 oder Art. 9 Rom-I?
 5. Ordre public einschlaegig?
 6. Schiedsabrede parallel?
-

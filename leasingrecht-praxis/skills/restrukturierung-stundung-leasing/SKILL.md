@@ -104,4 +104,3 @@ description: "Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinb
 - **Stundungsvereinbarungs-Muster**: Rate, Zinsen, Nachzahlungsplan
 - **Sanierungsbeitrags-Matrix**: Optionen LG – Bedingungen – Konsequenzen
 - **Steuer-Memo**: Forderungsverzicht § 3a EStG und § 11 EStG
-

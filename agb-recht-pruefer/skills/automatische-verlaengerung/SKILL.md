@@ -37,4 +37,3 @@ description: "Klausel-Fachmodul für Automatische Verlängerung: prüft, redline
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

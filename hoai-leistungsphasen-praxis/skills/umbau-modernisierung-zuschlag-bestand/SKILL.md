@@ -27,4 +27,3 @@ description: "HOAI-Fachfrage: Umbau, Modernisierung, Instandsetzung, Instandhalt
 3. Prüfen, ob Umbau-/Modernisierungszuschlag vereinbart oder plausibel zu verhandeln ist.
 4. Besondere Leistungen abgrenzen: Bestandsaufnahme, Schadstoff, Brandschutz, Denkmalschutz, Nutzerumzug.
 5. Haftungsfalle markieren: unbekannter Bestand ist kein Freibrief, aber auch kein automatisch übernommenes Risiko.
-

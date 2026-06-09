@@ -34,4 +34,3 @@ description: "Norm- und Dogmatik-Skill für Haftung Leben Koerper Gesundheit 309
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

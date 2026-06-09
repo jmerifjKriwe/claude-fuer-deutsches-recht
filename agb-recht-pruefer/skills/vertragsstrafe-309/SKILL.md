@@ -34,4 +34,3 @@ description: "Norm- und Dogmatik-Skill für Vertragsstrafe 309: prüft die AGB-K
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

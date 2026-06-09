@@ -107,4 +107,3 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Frist oder Handlung: `kanzlei-allgemein-fristen-monitor`.
 - Antwortentwurf oder Versand: `kanzlei-allgemein-output-versand`.
 - beA-Journal, beA-ZIP oder elektronisches Empfangsbekenntnis: `kanzlei-allgemein-bea-journal`.
-

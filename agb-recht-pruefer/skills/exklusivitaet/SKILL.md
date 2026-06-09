@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Exklusivität: prüft, redlined und entwirf
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

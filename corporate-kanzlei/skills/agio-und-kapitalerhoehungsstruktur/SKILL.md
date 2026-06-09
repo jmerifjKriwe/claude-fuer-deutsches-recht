@@ -1,6 +1,6 @@
 ---
 name: agio-und-kapitalerhoehungsstruktur
-description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrecht). Differenzierung echtes vs. unechtes Agio. Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG. Eintragungshindernisse beim Handelsregister vermeiden. Schnittstellen zu Notar Steuerberater Investor Counsel. Lädt bei VC-Runden Series A/B/C Anteilstauschen Bridge-Finanzierungen und Convertible-Wandlungen im Corporate Kanzlei."
+description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrec..."
 ---
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
@@ -223,4 +223,3 @@ Kein Term-Sheet-Markup geht an den Investor Counsel bevor der Senior das Agio-Ko
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

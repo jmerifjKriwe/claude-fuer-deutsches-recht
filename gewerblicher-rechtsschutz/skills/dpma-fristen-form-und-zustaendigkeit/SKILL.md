@@ -139,4 +139,3 @@ Mandatsbezug: Anwalt fragt: Wann muss ich Widerspruch einlegen? Was ist die korr
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
-

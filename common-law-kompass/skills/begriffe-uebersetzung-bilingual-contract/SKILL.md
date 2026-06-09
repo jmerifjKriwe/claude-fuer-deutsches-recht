@@ -1,6 +1,6 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen) im Common Law Kompass."
+description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Frien..."
 ---
 
 # Begriffs- und Übersetzungswerkstatt
@@ -104,4 +104,3 @@ Begriff | Kontext | Empfohlene dt. Entsprechung | Risiko Fehluebers.
 ### Leitentscheidungen
 
 - BGH XI ZR 39/04
-

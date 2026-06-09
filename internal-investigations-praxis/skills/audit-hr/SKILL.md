@@ -105,4 +105,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 - BGH II ZR 234/09
 - EuGH C-550/07
 - EuGH C-311/18
-

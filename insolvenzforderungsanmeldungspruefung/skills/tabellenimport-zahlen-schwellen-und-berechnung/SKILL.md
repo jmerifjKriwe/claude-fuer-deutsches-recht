@@ -1,6 +1,6 @@
 ---
 name: tabellenimport-zahlen-schwellen-und-berechnung
-description: "Tabellenimport: Zahlen, Schwellenwerte und Berechnung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Tabellenimport: Zahlen, Schwellenwerte und Berechnung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldung..."
 ---
 
 # Tabellenimport: Zahlen, Schwellenwerte und Berechnung
@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Quote-Berechnung:** Anteil je Forderung an Gruppensumme; je niedriger der Rang, desto geringer die Quote (nachrangige Forderungen § 39 InsO erhalten regelmäßig 0 %).
 - **Tabellensoftware:** Insolvenzverwalter verwenden idR spezialisierte Software (winsolvenz, LEXolution); Anmeldungen über Standardisierte Formulare oder Schnittstellen sind effizienter.
 - **Praxis:** Prüfung Mathematik (Zinsen, Kosten) vor Anmeldung — Bestreiten wegen Rechenfehler kostet Glaubwürdigkeit und führt regelmäßig zur Kürzung.
-

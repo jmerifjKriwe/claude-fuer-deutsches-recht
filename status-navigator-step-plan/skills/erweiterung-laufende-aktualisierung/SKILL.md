@@ -15,4 +15,3 @@ LausitzStorage: v1 (02.06.2026 Erstaufnahme nach Drawstop), v2 (05.06.2026 nach 
 - Versionierungs-Regel als Header im Reiter 1
 - Aenderungslog als eigener kleiner Reiter
 - Diff-Vorlage fuer Investor-Reporting
-

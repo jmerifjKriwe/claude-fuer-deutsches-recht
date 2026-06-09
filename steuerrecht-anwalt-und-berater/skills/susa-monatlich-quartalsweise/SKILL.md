@@ -111,4 +111,3 @@ Stand: 05/2026.
 - HGB § 238.
 - StBerG § 33.
 - BMF v. 28.11.2019 zu GoBD.
-

@@ -39,4 +39,3 @@ Red-Team-Analyse identifiziert die stärksten Gegenargumente zur eigenen Rechtsp
 - CISG-Schwächen: Fristen (Art. 38-39), Dokumentation (Art. 9 Trade Usage), Mitigation (Art. 77)
 - Award-Schwächen: Formfehler, Begründungsmängel, Befangenheit
 - Vorbeugende Gegenmaßnahmen: schwache Stellen vor Prozessbeginn stärken
-

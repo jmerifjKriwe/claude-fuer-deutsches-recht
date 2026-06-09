@@ -89,4 +89,3 @@ Compulsory Sale Mechanic (LPA):
 - GwG §§ 10 ff., § 19; EU-Sanktionsverordnungen (EU 833/2014 Russland, EU 269/2014 etc.).
 - ILPA Capital Call Templates und Default Mechanics Guidance (Stand vom Anwender zu prüfen).
 - AnlV für Versicherer.
-

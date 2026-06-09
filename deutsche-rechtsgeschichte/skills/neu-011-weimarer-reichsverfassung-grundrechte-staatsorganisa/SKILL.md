@@ -72,4 +72,3 @@ description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte S
 - Art. 137 III WRV iVm Art. 140 GG: Religionsgemeinschaften als Koerperschaften des öffentlichen Rechts.
 - Art. 4 GG iVm Art. 136 WRV.
 - Grundrechtekatalog Art. 1-19 GG ist Erbe der WRV-Grundrechte.
-

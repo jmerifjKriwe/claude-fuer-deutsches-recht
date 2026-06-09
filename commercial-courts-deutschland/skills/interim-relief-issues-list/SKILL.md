@@ -75,4 +75,3 @@ Wer Eilanträge gegen sich erwartet (z.B. nach Abmahnung), kann eine Schutzschri
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

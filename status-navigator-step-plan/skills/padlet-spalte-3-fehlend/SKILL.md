@@ -59,4 +59,3 @@ LausitzStorage-Akte, Spalte 3 mit 12 Karten:
 ## Plugin-Kontext
 Spalte 3 ist der Treiber fuer Spalte 4. Jede Karte hier wird in Spalte 4
 mit einem Schrittplan ausgearbeitet.
-

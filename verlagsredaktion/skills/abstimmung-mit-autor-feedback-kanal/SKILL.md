@@ -126,4 +126,3 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

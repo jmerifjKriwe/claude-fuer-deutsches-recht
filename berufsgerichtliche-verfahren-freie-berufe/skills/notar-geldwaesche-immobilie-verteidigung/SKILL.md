@@ -1,6 +1,6 @@
 ---
 name: notar-geldwaesche-immobilie-verteidigung
-description: "Notar Geldwäsche Immobilie (Verteidigungs- und Kammerantwort): steuert Immobilienkauf, Barzahlungsverbot, wirtschaftlich Berechtigter, Verdachtsmeldung und Beurkundung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Notar Geldwäsche Immobilie (Verteidigungs- und Kammerantwort): steuert Immobilienkauf, Barzahlungsverbot, wirtschaftlich Berechtigter, Verdachtsmeldung und Beurkundung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahr..."
 ---
 
 # Notar Geldwäsche Immobilie: Verteidigungs- und Kammerantwort
@@ -47,4 +47,3 @@ Erzeuge Stellungnahme, Akteneinsicht, Bestreiten, Einordnung, Entlastung, Wieder
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-verfahrensidentifikation-gericht
-description: "Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Klaeger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahren Berufung Revision Beschwerde). Normen §§ 253 261 ZPO Klageerhebung im Aktenauszug Gerichtsverfahren."
+description: "Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Klaeger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahren Berufung Revision Beschwerde). Normen §§ 253 261 ZPO Klag..."
 ---
 
 # Verfahrensidentifikation
@@ -106,4 +106,3 @@ Für jede Partei:
 - Keine Bewertung der Parteibezeichnung (z. B. ob Kläger wirklich klagebefugt ist).
 
 ---
-

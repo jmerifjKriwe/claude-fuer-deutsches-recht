@@ -48,4 +48,3 @@ VVG §§ 1, 6, 14, 15, 19, 28, 86, 115, 125–129, 150 ff., 172 ff., 192 ff., 21
 - vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung
 - vvg-obliegenheit-28-quotelung-kausalitaet
 - deckungsprozess-zuständigkeit-215-vvg
-

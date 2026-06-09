@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei "grobe Fahrl채ssigkeit"-Streit auf Bankspezifika der Nutzerf체hrung achten: Wurde der Kunde durch t채uschend echte App- oder Webseite get채uscht? Hat die Bank-App keine Anti-Phishing-Warnung? War der TAN-Best채tigungsdialog ausreichend deutlich? Beweisanforderungen verschieben sich zunehmend zugunsten des Kunden, wenn die Bank die Erkennung nicht aktiv unterst체tzt.
-

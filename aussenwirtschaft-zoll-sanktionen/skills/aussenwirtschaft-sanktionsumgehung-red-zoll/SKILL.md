@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-zoll
-description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-C..."
 ---
 
 # Sanktionsumgehung: Red Flags erkennen und bewerten
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 833/2014 Art. 12g auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
 - [EU-Kommissions-Guidance Umgehung](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/sanctions-policy-and-legal-framework_en)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

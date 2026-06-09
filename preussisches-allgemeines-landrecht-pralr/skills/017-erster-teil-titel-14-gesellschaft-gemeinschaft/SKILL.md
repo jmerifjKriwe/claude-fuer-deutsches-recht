@@ -44,4 +44,3 @@ Zwei Bremer Kaufleute gruenden Gesellschaft zum Handelsbetrieb.
 1. Welche Gesellschaftsform?
 2. Beitrag?
 3. Haftung?
-

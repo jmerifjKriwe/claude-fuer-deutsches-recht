@@ -169,4 +169,3 @@ Mit freundlichen Gruessen
 - VVG - Versicherungsvertragsgesetz, insb. Anzeigepflicht.
 - ZPO § 72 - Streitverkuendung.
 - BGH-Rechtsprechung zur Haftungsfreistellungsklausel (Volltexte unter bundesgerichtshof.de).
-

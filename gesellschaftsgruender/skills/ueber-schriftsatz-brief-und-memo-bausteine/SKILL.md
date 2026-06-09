@@ -50,4 +50,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Pflichtbestandteile prüfen:** Anmeldungstext HRB enthält Firma, Sitz, Gegenstand, Stammkapital, GF mit Vertretungsregelung (§ 8 GmbHG). Gewerbeanzeige erforderlich vor Geschäftsbeginn, sonst Bußgeld § 146 Abs. 2 GewO.
 4. **Befreiung § 181 BGB:** Bei Ein-Personen-GmbH zwingend Insichgeschäfts-Befreiung im Gesellschaftsvertrag und konkrete Erteilung; sonst kann GF mit sich selbst nicht wirksam kontrahieren.
 5. **Anschluss:** Geschäftsführervertrag-Skill `spezial-geschaeftsfuehrervertrag-livequellen-check`; bei Transparenzregister `gesellschaftsgruender-transparenzregister`.
-

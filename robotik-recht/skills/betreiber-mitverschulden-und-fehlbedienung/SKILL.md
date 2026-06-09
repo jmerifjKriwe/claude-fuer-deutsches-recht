@@ -86,4 +86,3 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - VO (EU) 2024/1689 (KI-VO), Art. 9.
 - ArbSchG; BetrSichV; § 130 OWiG.
 - Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de, dejure.org; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

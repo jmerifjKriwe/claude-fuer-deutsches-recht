@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-datenraum
-description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room."
+description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Ka..."
 ---
 
 # Tabellenreview 3D-Datenraum
@@ -218,4 +218,3 @@ GESAMTBEWERTUNG: [Gut / Akzeptabel mit Einschraenkungen / Erhebliche Luecken]
 - § 444 BGB; § 311 II BGB; Art. 18 MAR
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5
-

@@ -43,4 +43,3 @@ ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchge
 - Art. 7 GG Schulwesen — Länderkompetenz.
 - Allgemeine Schulpflicht in jedem Landesschulgesetz.
 - ALR-Linie der Schulaufsicht durch Geistlichkeit ist aufgehoben — strikte Trennung Staat/Kirche im Schulwesen (Art. 137 III WRV iVm Art. 140 GG).
-

@@ -89,4 +89,3 @@ GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Kra
 - [§ 13 SGB XI – Nachrang PV](https://www.gesetze-im-internet.de/sgb_11/__13.html)
 - [BSG GKV/PV-Abgrenzung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 37 SGB V](https://dejure.org/gesetze/SGB_V/37.html)
-

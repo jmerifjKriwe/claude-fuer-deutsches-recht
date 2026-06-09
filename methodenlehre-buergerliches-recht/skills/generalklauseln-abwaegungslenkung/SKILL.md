@@ -1,6 +1,6 @@
 ---
 name: generalklauseln-abwaegungslenkung
-description: "Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei gleichzeitig an Gesetz und Recht gebunden bleibt. Geeignet für Fälle mit offenen Wertungsfragen im BGB."
+description: "Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei..."
 ---
 
 # Generalklauseln als Abwägungslenker im Zivilrecht
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 7, 198 – Lüth-Urteil, mittelbare Drittwirkung und Wertordnung](https://www.bverfg.de/e/rs19580115_1bvr040051.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

@@ -131,4 +131,3 @@ Stand: 05/2026.
 - StBerG § 67; StBVV § 33.
 - DRV-Rundschreiben.
 - BMF zu Lohnsteuer-Aussenpruefung.
-

@@ -56,4 +56,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
  - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
  - Internationale Vorermittlungen Europol / Eurojust?
 - **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern ueber Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.
-

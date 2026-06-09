@@ -78,4 +78,3 @@ Konkret zu prüfen:
 - § 97a UrhG (Abmahnung)
 - § 97 UrhG
 - BGH I ZR 121/08 (Sommer unseres Lebens)
-

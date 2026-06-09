@@ -1,6 +1,6 @@
 ---
 name: onboarding-bescheid-lesen-festsetzungsverjaehrung
-description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker für Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo im Steuerrecht Anwalt Und Berater."
+description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Be..."
 ---
 
 # Steuerbescheid lesen — die ersten 10 Minuten
@@ -66,4 +66,3 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

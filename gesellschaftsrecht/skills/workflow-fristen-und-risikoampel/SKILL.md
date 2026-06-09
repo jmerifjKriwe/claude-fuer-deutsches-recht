@@ -48,4 +48,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Verschmelzung (§§ 2 ff. UmwG) vs. Asset-Deal: Verschmelzung Gesamtrechtsnachfolge ohne Einzelübertragung, aber komplex und SteuerEinbringung; Asset-Deal selektiv aber Einzelübertragung erforderlich.
 - AG (§ 23 AktG Satzungsstrenge, hohes Mindestkapital, Mitbestimmung ab 500 AN) vs. GmbH (flexibler, kein zwingender AR bei <500 AN).
-

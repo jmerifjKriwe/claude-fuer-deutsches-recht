@@ -1,6 +1,6 @@
 ---
 name: lead-authority-konzern
-description: "Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Meldung an Lead Authority versus parallele Meldung an betroffene Behörden. Output: Memo zur Behördenzuständigkeit mit Begründung. Abgrenzung: keine konkrete Meldung."
+description: "Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Mel..."
 ---
 
 # Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO
@@ -46,4 +46,3 @@ Art. 4 Nr. 16; Art. 56; Art. 60; Art. 63 DSGVO.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-bfdi` und `dsv-meldung-<land>` decken konkrete Einreichung ab.
-

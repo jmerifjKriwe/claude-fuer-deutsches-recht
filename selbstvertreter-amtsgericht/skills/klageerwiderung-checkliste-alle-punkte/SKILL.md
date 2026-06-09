@@ -190,4 +190,3 @@ Vor Versand:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 138 ZPO unveraendert.
-

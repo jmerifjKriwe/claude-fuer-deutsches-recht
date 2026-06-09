@@ -53,4 +53,3 @@ description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbscha
 1. Fideicommissum oder Substitution?
 2. Quarta Falcidia einschlaegig?
 3. Trebellianum-Wirkung?
-

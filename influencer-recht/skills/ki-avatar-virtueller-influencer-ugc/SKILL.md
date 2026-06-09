@@ -74,4 +74,3 @@ KI-generierte Abbilder von Personen sind ein wachsendes Rechtsfeld:
 - Einwilligungsformular für KI-Abbilder
 - Strafanzeige-Muster (Deepfake-Missbrauch)
 - AI Act-Kennzeichnungstext
-

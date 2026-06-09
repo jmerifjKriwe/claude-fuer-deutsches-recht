@@ -1,6 +1,6 @@
 ---
 name: kuendigungsschreiben
-description: "Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung) im Handelsvertreterrecht."
+description: "Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung)..."
 ---
 
 # Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 130 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
 - [Dejure § 89 HGB](https://dejure.org/gesetze/HGB/89.html)
-

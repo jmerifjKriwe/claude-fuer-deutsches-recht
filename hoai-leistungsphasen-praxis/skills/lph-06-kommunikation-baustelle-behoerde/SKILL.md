@@ -32,4 +32,3 @@ description: "HOAI LPH 6 Vorbereitung der Vergabe: formuliert klare E-Mails an B
 - Praktischer Kern: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur
 - Bewertungsanker Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

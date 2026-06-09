@@ -1,6 +1,6 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb im Schriftform Und Textform Bgb."
+description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Ein..."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
@@ -113,4 +113,3 @@ Option C — Gerichtliche Zustellung:
 - **Urlaubsabwesenheit des Empfängers**: Zugang tritt ein, wenn Brief im Briefkasten liegt — auch wenn Empfänger im Urlaub ist und Brief erst später liest. Ausnahme: Empfänger hat Urlaubs-Abwesenheit angekündigt und Erklärende wusste davon (einzelfallabhängig).
 - **Spam-Filter**: E-Mail landet im Spam-Ordner → BGH und OLG-Rechtsprechung uneinheitlich. Sicherheitshalber zusätzlich per Post übermitteln oder Empfangsbestätigung anfordern.
 - **qES und Zugang**: Die qES-Erklärung muss digital (nicht als Papierausdruck) beim Empfänger ankommen, damit Formwirksamkeit und Zugang zusammenfallen (→ `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`).
-

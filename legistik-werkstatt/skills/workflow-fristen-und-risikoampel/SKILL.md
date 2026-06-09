@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Gelb — HdR-Konformität:** Verfassungs- und unionsrechtliche Konformität als Pflichtprüfung (Art. 76 GG, Kompetenztitel; AEUV; Unionsrechtsvorrang).
 - **Gelb — Bestimmtheitsgebot:** Bei Eingriffsverwaltung Art. 20 Abs. 3 GG; bei strafrechtlich-administrativen Normen Art. 103 Abs. 2 GG.
 - **Praxis-Tipp:** Wesentlichkeitstheorie beachten (Parlamentsvorbehalt): grundrechtsrelevante Materien gehören in Gesetz, nicht in Rechtsverordnung; "wesentlich" ist regelmäßig prüfungsschwerpunkt für GG-Verträglichkeit.
-

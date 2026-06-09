@@ -106,4 +106,3 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

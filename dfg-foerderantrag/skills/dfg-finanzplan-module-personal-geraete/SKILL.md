@@ -202,4 +202,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-FAQ zu Personalmitteln: dfg.de
 
 Personalkostensätze, Tarifsteigerungen und Pauschalen ändern sich — keine aus dem Gedächtnis geschriebenen Zahlen verwenden.
-

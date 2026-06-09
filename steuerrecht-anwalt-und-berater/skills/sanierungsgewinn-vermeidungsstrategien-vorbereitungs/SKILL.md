@@ -206,4 +206,3 @@ Strategie C: Verzicht mit Besserungsabrede
 - UmwStG (bei konzerninternen Umstrukturierungen).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

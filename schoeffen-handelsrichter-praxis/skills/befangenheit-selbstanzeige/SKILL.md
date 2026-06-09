@@ -56,4 +56,3 @@ Konkret zu prüfen:
 - §§ 24, 26 StPO
 - § 31 StPO
 - § 338 Nr. 3 StPO
-

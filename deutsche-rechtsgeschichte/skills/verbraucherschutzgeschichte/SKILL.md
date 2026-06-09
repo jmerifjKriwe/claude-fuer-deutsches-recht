@@ -63,4 +63,3 @@ Verbraucherschutzrecht ist ein Kind des 20. Jahrhunderts. Das BGB 1900 kannte ke
 - BGB §§ 305-310 und 355 ff.: gesetze-im-internet.de
 - BGH-Verbraucherrecht: bgh.de
 - EU-AGB-Richtlinie 93/13/EWG: eur-lex.europa.eu
-

@@ -52,4 +52,3 @@ Das CISG regelt Eigentumsübergang ausdrücklich nicht (Art. 4 lit. b). National
 ## Quellenregel
 
 BGB §§ 929 ff.: gesetze-im-internet.de. SGA 1979 (UK): legislation.gov.uk. CISG Art. 4: uncitral.un.org. UCC Art. 9: uniform.law.cornell.edu. Unsicherheit bleibt sichtbar.
-

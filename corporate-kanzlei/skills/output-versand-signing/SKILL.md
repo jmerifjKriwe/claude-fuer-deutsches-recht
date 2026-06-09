@@ -1,6 +1,6 @@
 ---
 name: output-versand-signing
-description: "Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Prüfraster: Formerfordernis pro Vertrag, Signatur-Reihenfolge, Counterpart-Klauseln, Exekutions-Bestätigungen. Output Signing-Protokoll, Signaturseiten-Matrix, Verteilungsliste. Abgrenzung: Closing-Bedingungen siehe signing-closing-conditions; Archivierung siehe closing-bible-archiv."
+description: "Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Prüfrast..."
 ---
 
 # Output, Versand und Signing-Management
@@ -196,4 +196,3 @@ RUECKFRAGEN: [NAME, EMAIL, TEL]
 - §§ 126, 126a, 127, 128 BGB; eIDAS-VO (EU) 910/2014; §§ 1-14 BeurkG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-

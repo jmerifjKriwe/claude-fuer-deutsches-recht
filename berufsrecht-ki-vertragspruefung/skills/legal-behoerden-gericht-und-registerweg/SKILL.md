@@ -46,4 +46,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Anwaltsgerichtliche Verfahren laufen oft parallel zu zivilrechtlichen Haftungsklagen — z. B. § 203 StGB-Strafverfahren, § 113 BRAO anwaltsgerichtliches Verfahren und § 280 BGB-Schadensersatzklage gegen Anwalt. Mandanten verbergen diese Parallelität oft, fragen Sie aktiv nach Anwaltskammer- oder Strafverfahrensstand.
-

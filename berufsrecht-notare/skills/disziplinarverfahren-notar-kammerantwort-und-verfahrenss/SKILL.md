@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - §§ 96-101 BNotO
 - § 92 BNotO (Aufsicht)
 - § 65 BNotO (Notarkammer)
-

@@ -1,6 +1,6 @@
 ---
 name: masseverbindlichkeit-abgrenzen
-description: "Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 InsO Insolvenzforderungen. Prüfraster Entstehungszeitpunkt relativ zur Eroeffnung, Verwalterhandeln, Zustimmungsvorbehalt, Neumasse vs. Altmasse. Output Abgrenzungsprotokoll mit rechtlicher Einordnung und Handlungsempfehlung. Abgrenzung zu Formalprüfung-174 und zu Rang-Nachrang im Insolvenzforderungsanmeldungspruefung."
+description: "Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 Ins..."
 ---
 
 # Masseverbindlichkeit abgrenzen
@@ -67,4 +67,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

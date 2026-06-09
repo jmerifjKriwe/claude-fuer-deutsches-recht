@@ -1,6 +1,6 @@
 ---
 name: sozialdaten-sgb
-description: "Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher. Behandelt: Sozialdatenbegriff § 67 SGB X; Sozialgeheimnis § 35 SGB I; Verhältnis zur DSGVO; Meldepflicht nach § 83a SGB X; besondere Bußgeldvorschriften; Aufsichtsstruktur Bund/Länder. Output: Memo zur Meldepflicht-Doppelspur und Empfehlung. Abgrenzung: keine konkrete Behördenmeldung."
+description: "Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher. Behandelt: Sozialdatenbegriff § 67 SGB X; Sozialgeheimnis § 35 SGB I; Verhältnis zur DSGVO; Meldepflicht nach § 83a SGB X; besondere Bußgeld..."
 ---
 
 # Sozialdaten im Datenschutzvorfall — SGB I und SGB X
@@ -47,4 +47,3 @@ Berichtsformate parallel halten; Konsistenz beachten.
 
 - `dsv-art-9-besondere-kategorien` deckt Gesundheitsdaten ab.
 - `dsv-paragraf-203-stgb-berufsgeheimnis` deckt aerztliches Geheimnis ab.
-

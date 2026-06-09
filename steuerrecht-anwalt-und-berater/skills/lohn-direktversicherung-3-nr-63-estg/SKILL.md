@@ -1,6 +1,6 @@
 ---
 name: lohn-direktversicherung-3-nr-63-estg
-description: "Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik Beitragsberechnung Beitragsbemessung Auswirkung Netto. Output Lohn-Konfiguration mit Direktversicherung."
+description: "Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik Beitragsberechnung Beitragsbemessung Auswirkung Netto. Output Lohn-Konfiguration mit Direktversi..."
 ---
 
 # Direktversicherung — § 3 Nr. 63 EStG
@@ -111,4 +111,3 @@ Stand: 05/2026.
 - BBG-West RV 2025: 96.600 EUR; 8 Prozent = 7.728 EUR LSt-frei; 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 bestaetigt (BBG 2025 eingesetzt, BMF-GZ recherchiert), 2 ersetzt (Pruefhinweise ohne Marker) -->
-

@@ -76,4 +76,3 @@ Wer Merchandise verkauft, betreibt einen Online-Shop mit vollständigem Fernabsa
 - AGB-Vorlage (Online-Shop Creator)
 - Widerrufsbelehrungs-Muster
 - Bestätigungs-E-Mail-Vorlage
-

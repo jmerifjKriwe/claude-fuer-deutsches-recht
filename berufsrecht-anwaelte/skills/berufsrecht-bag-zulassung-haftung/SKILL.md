@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 280 BGB
 - § 51b BRAO (Verjährung)
 - BGH NJW 2014, 2275
-

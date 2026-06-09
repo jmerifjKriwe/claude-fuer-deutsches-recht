@@ -41,4 +41,3 @@ VVG §§ 1, 14, 28; AVB Betriebsschließung; IfSG als Sachrecht; BGB AGB-Kontrol
 
 - betriebsunterbrechung-sachschaden-trigger
 - deckungsprozess-zuständigkeit-215-vvg
-

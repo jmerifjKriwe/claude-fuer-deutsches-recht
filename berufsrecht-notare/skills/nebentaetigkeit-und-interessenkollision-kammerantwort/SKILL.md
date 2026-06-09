@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 16 BeurkG
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

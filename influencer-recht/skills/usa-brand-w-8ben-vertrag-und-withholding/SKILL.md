@@ -73,4 +73,3 @@ Kooperationen mit US-Brands haben mehrere rechtliche Besonderheiten:
 - Rechnungsvorlage (USD-Brand, ohne DE-USt)
 - DSGVO-Check US-Datentransfer
 - Vertragsklausel-Anpassungen (US → DE-Recht)
-

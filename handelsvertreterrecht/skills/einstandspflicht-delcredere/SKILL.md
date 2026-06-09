@@ -1,6 +1,6 @@
 ---
 name: einstandspflicht-delcredere
-description: "Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung im Handelsvertreterrecht."
+description: "Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung im Handelsvertr..."
 ---
 
 # Delkredere-Haftung des Handelsvertreters nach § 86b HGB
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 765 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__765.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 86b HGB](https://dejure.org/gesetze/HGB/86b.html)
-

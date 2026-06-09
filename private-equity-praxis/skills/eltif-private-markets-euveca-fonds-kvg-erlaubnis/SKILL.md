@@ -91,4 +91,3 @@ Redemption-Gate-Klausel:
 - PRIIPs-VO (EU) 1286/2014 und Delegated Regulation (EU) 2017/653.
 - MiFID II (RL 2014/65/EU), §§ 63 ff., 87 WpHG.
 - SFDR (VO (EU) 2019/2088); InvStG §§ 20, 21 (Teilfreistellung).
-

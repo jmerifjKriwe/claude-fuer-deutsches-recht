@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-konformitaetsbewertung-art-43
-description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack."
+description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Ken..."
 ---
 
 # Konformitätsbewertung — Art. 43 bis 49 KI-VO
@@ -114,4 +114,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

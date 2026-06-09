@@ -100,4 +100,3 @@ Stand: 05/2026.
 - EStG §§ 3 Nr. 37, 6, 8.
 - BMF v. 17.11.2017, v. 09.01.2020.
 - Verifikations-Hinweis: § 3 Nr. 37 EStG gueltig bis 31.12.2030.
-

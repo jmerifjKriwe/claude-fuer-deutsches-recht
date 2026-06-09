@@ -1,6 +1,6 @@
 ---
 name: int-verrechnungspreise-1-astg
-description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Pruefung versucht Gewinnkorrekturen via § 1 AStG; die Dokumentation soll vor Abgabe geprueft werden. Behandelt OECD-Verrechnungspreis-Leitlinien Stammdokumentation Local File Master File und CbCR Anti-BEPS-Mindestbesteuerung. Output Pruefraster mit Dokumentations-Checkliste. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd."
+description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Pruefung versucht Gewinnkorrekturen..."
 ---
 
 # Verrechnungspreise im Internationalen Steuerrecht — § 1 AStG und Dokumentation § 90 Abs. 3 AO
@@ -42,4 +42,3 @@ description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

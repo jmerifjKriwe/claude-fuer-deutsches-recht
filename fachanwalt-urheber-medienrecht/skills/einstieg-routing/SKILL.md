@@ -11,18 +11,18 @@ Dieser Einstieg routet **Fachanwalt Urheber Medienrecht** vom ersten Sachverhalt
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `erstgespraech-mandatsannahme-fachanwalt` — Erstgespraech Mandatsannahme Fachanwalt
-- `fa-urheber-medien-mandant-redteam-gate` — FA Urheber Medien Mandant Redteam Gate
-- `fa-urheber-medien-start-chronologie-fristen` — FA Urheber Medien Start Chronologie Fristen
-- `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
+- `abmahnung-sonderfall-edge-case` — Abmahnung Sonderfall Bild Eigenen
+- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Fachanwalt
+- `workflow-mandantenkommunikation` — FA Urheber Medien Mandant Redteam Gate
+- `einstieg-schnelltriage-fallrouting` — FA Urheber Medien Start Chronologie Fristen
+- `erstpruefung-und-mandatsziel` — Fachanwalt Gewerblicher Kanzlei
 - `filesharing-stoererhaftung` — Filesharing Stoererhaftung
 - `filmrecht-paragraf-89-urhg` — Filmrecht Paragraf 89 Urhg
 - `gegendarstellung-fehlerkatalog` — Gegendarstellung Fehlerkatalog
-- `gegendarstellung-presse-mandat-triage` — Gegendarstellung Presse Mandat Triage
-- `gegendarstellung-presse-mod-erklaerung` — Gegendarstellung Presse MOD Erklaerung
+- `gegendarstellung-presse` — Gegendarstellung Presse Mandat Triage
+- `gegendarstellung-presse` — Gegendarstellung Presse MOD Erklaerung
 - `link-haftung-paragraf-7-tmg` — Link Haftung Paragraf 7 TMG
-- `medienrecht-lizenzvertrag-urhmr` — Medienrecht Lizenzvertrag Urhmr
+- `medienrecht-fristen-form-und-zustaendigkeit` — Medienrecht Lizenzvertrag Urhmr
 - `medienstaatsvertrag-quellenkarte` — Medienstaatsvertrag Quellenkarte
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Fachanwalt Urheber Medienrecht** vom ersten Sachverhalt
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

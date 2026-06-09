@@ -114,4 +114,3 @@ Fragen zum Einstieg:
 - StGB § 203 zum Geheimnisschutz Berufsgeheimnisträger.
 - EuGH zu Standard Contractual Clauses und Schrems-II-Folgen (jeweils aktueller Stand).
 - BfDI- und Landesdatenschutzbehörden, Veröffentlichungen zur Verarbeitung im Factoring.
-

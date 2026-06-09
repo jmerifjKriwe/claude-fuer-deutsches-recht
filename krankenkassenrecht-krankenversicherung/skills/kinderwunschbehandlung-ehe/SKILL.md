@@ -89,4 +89,3 @@ Dieser Skill klärt den **GKV-Anspruch auf Kinderwunschbehandlung**: Welche Paar
 - [GKV-Spitzenverband Kinderwunsch](https://www.gkv-spitzenverband.de)
 - [dejure.org § 27a SGB V](https://dejure.org/gesetze/SGB_V/27a.html)
 - [Bundesministerium für Gesundheit Kinderwunsch](https://www.bundesgesundheitsministerium.de)
-

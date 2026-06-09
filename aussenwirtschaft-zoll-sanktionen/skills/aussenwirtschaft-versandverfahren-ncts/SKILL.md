@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-versandverfahren-ncts
-description: "Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Output: Versandanmeldungs-Anleitung und Sicherheitsleistungs-Kalkulation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Ou..."
 ---
 
 # NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle
@@ -75,4 +75,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de Versandverfahren](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Versandverfahren/versandverfahren_node.html)
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
-

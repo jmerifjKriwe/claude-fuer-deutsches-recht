@@ -47,4 +47,3 @@ Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erf
 - Herrenchiemseer Entwurf: historische Edition; Jahrbuecher des öffentlichen Rechts Bd. 1 (1951)
 - Parlamentarischer Rat Protokolle: historische Edition, Bundesarchiv
 - BVerfGE zur Ewigkeitsklausel: bverfg.de (BVerfGE 30, 1; BVerfGE 109, 279)
-

@@ -190,4 +190,3 @@ PMI-MEILENSTEINE
 
 - assets/templates/pmi-checkliste.md
 - assets/templates/post-closing-obligations-register.md
-

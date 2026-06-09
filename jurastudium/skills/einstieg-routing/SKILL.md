@@ -61,4 +61,3 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 ### Leitentscheidungen
 
 - BGH VI ZR 116/12
-

@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für VDuG Abhilfeklage AGB Schnittstelle:
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: verordnungsermaechtigung-art80
-description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen. Prüfung ob Ermaechtigung das Regelungsziel deckt Sub-Delegation Art. 80 Abs. 1 S. 4 GG. Landesebene Landesverfassung parallel zu Art. 80 GG. Wenn Ermaechtigung fehlt zunaechst Gesetzgebungsverfahren. Output Prüfprotokoll Empfehlung Verordnung auf welcher Grundlage oder Ermaechtigung schaerfen. Abgrenzung zu gesetzgebungskompetenz-prüfen Kompetenztitel."
+description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen..."
 ---
 
 # Verordnungsermaechtigung Art. 80 GG
@@ -79,4 +79,3 @@ Pruefprotokoll plus Empfehlung:
 ## Anschluss
 
 `normenkartierung` und `referentenentwurf-bauen` (mit korrektem Citatum).
-

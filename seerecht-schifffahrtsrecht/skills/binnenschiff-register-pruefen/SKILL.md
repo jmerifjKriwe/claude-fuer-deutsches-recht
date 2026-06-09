@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-register-pruefen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing o..."
 ---
 
 # Binnenschiff – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

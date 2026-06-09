@@ -158,4 +158,3 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschlossenen Teilzeitarbeitsmarkt zu beachten. Verifizierung in einer amtlichen oder frei zugänglichen Quelle empfohlen; juris nur bei vorhandenem Lizenzzugriff.
-

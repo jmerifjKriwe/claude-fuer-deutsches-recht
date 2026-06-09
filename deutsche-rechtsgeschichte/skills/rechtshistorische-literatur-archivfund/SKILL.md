@@ -65,4 +65,3 @@ Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis für historisc
 - Wieacker 1967: Mit Auflage und Seitenangabe
 - Mugdan 1899: Mit Bandnummer (I-VI) und Seite
 - Kein Blindzitat: immer Autor, Werk, Auflage, Seite
-

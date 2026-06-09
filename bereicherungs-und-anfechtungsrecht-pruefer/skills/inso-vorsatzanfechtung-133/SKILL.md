@@ -1,6 +1,6 @@
 ---
 name: inso-vorsatzanfechtung-133
-description: "Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht."
+description: "Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Revie..."
 ---
 
 # Vorsatzanfechtung — § 133 InsO
@@ -86,4 +86,3 @@ Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlung
 ---
 
 Hinweis: Keine Rechtsberatung. § 133 InsO ist keine reine Mustererkennung; jede KI-Ausgabe muss die Indizien und Gegenindizien sichtbar machen.
-

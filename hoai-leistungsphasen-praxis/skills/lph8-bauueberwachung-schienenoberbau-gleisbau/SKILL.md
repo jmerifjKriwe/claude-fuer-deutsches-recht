@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-schienenoberbau-gleisbau
-description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Pra..."
 ---
 
 # Bauueberwachung Schienenoberbau Gleisbau (LPH 8)
@@ -83,4 +83,3 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 - [DIN EN 13450 Gleisschotter](https://www.gesetze-im-internet.de/)
 - [DIN EN 13674 Schienen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 180/12 Gleisbau Schweissnaht](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+180/12)
-

@@ -1,6 +1,6 @@
 ---
 name: regulierung-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im DSA DMA Digitalregulierung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Dsa Dma Digitalregulierung."
+description: "Einstieg, Schnelltriage und Fallrouting im DSA DMA Digitalregulierung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eige..."
 ---
 
 # DSA DMA und Digitalregulierung EU — Allgemein
@@ -207,4 +207,3 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - DMA (EU) 2022/1925 in der geltenden Fassung
 - P2B-VO (EU) 2019/1150 in der geltenden Fassung
 - DDG in der geltenden Fassung
-

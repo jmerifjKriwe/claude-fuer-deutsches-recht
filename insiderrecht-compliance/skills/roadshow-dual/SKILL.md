@@ -76,4 +76,3 @@ und Prospekt auf Kohärenz prüfen. Bei Abweichungen: Nachtrags-Prospekt erforde
 Weitere Quellen:
 - EU-Prospektverordnung (EU) 2017/1129: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1129
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-

@@ -48,4 +48,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Kostenhinweis RVG:** Grundgebuehr VV 4100; Verfahrensgebuehr VV 4106 ff. je nach Verfahrensstufe; Terminsgebuehr VV 4108 ff.; Pflichtverteidigergebuehren als Verfahrenskosten zu tragen vom Mandant bei Verurteilung.
 - **Notfall-Kontakt** bei U-Haft / Polizeivernehmung Mandant: 24/7-Erreichbarkeit; Vollmacht inklusive § 138 StPO.
 - **Inhaftiert-Korrespondenz:** Verteidigerpost unueberwacht § 148 StPO (Ausnahme: §§ 129a, 129b StGB-Verdacht).
-

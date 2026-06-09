@@ -107,6 +107,6 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `schutzschrift-gegenangriff-ui-icons` | Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen im Designrecht Geschmacksmusterrecht. |
 | `ui-icons-graphical-user-interface` | UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen: Bildschirmanzeigen, Icons, Animationen, EU-Designreform und Software-Schnittstellen im Designrecht Geschmacksmusterrecht. |
 | `verpackungsdesign-und-produktauftritt` | Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung im Designrecht Geschmacksmusterrecht. |
-| `wiedergabe-ansichten` | Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmusterrecht. |
+| `wiedergabe-ansichten-fotos-linien` | Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis: was fehlt, ist später schwer zu retten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,6 +1,6 @@
 ---
 name: bho-15-bruttoveranschlagung-praktisch
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagung praktisch anwenden. BHO § 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagung praktisch anwenden. BHO § 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): p..."
 ---
 
 # Bho 15 Bruttoveranschlagung Praktisch
@@ -56,4 +56,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagun
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

@@ -39,4 +39,3 @@ Wenn konkrete Datenbankrecherche nötig ist, schlage vor:
 - `patentrecherche/agentische-datenbank-recherche`
 - `patentrecherche/stand-der-technik-recherche`
 - `patentrecherche/recherchebericht-erstellen`
-

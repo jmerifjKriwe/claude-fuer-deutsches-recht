@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-expatriate-pensionsplanung
-description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen im Bav Strategie Konzern."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung:..."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
@@ -204,4 +204,3 @@ Für Stufe-3-Eingriffe (sachliche Gründe):
 - → `harmonisierung-und-migration-rechtssicher` — Eingriffsanalyse bei Plan-Konsolidierung
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsrats-Mitbestimmung bei Eingriffen
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Sozialplan als Begleitmaßnahme
-

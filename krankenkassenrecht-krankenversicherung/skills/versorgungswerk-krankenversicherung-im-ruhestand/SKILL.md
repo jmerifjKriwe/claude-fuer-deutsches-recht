@@ -86,4 +86,3 @@ Mitglieder berufsständischer Versorgungswerke (Ärzte, Rechtsanwälte, Apotheke
 - [§ 240 SGB V – Mindestbeitrag](https://www.gesetze-im-internet.de/sgb_5/__240.html)
 - [BSG Versorgungswerk-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 9 SGB V](https://dejure.org/gesetze/SGB_V/9.html)
-

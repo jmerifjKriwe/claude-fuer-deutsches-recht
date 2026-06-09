@@ -34,4 +34,3 @@ Wenn ein Unternehmen ein System nicht als Hochrisiko einstuft, muss diese Entsch
 ## Warnung
 
 Ein Negativvermerk schützt nur, wenn er aktuell gehalten wird. Er ist kein Freibrief für spätere Zweckverschiebung.
-

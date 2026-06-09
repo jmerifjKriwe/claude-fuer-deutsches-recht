@@ -1,6 +1,6 @@
 ---
 name: beteiligung-unternehmen-brh-aufgabe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/L..."
 ---
 
 # Bho 65 Beteiligung Unternehmen Praktis
@@ -56,4 +56,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unterne
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

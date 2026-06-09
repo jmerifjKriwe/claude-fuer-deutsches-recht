@@ -1,6 +1,6 @@
 ---
 name: europarecht-beihilfen-vergaben
-description: "Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell) im Europarecht Kompass."
+description: "Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder..."
 ---
 
 # Beihilfen, Förderungen und Vergabe
@@ -92,4 +92,3 @@ Mandant: [NAME] — Maßnahme: [BESCHREIBUNG]
 6. EMPFOHLENE NAECHSTE SCHRITTE
  [...]
 ```
-

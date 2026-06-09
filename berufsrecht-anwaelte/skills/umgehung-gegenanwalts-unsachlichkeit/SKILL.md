@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - § 12 BORA (Umgehungsverbot gegenüber Gegenanwalt)
 - § 43a BRAO
-

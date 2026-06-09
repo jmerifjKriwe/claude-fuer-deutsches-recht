@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Erstwahl: oft Art. 20 DSA (internes Beschwerdeverfahren) + Art. 21 DSA (ADR) — schnell und kostengünstig. Klage erst, wenn ADR scheitert oder Frist Art. 20 läuft. Bei eilbedürftigen Fällen (Account-Sperrung mit Geschäftsschaden) ggf. einstweilige Verfügung zum ZG parallel zum ADR-Verfahren.
-

@@ -43,4 +43,3 @@ description: "Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung,
 - **Verfahrensanmeldungen:** Reine Verfahren sind nach § 2 Nr. 3 GebrMG NICHT gebrauchsmusterfähig — nur Patent.
 - **Strategie:** Doppelschutz (Patent + Gebrauchsmuster) durch Abzweigung (§ 5 GebrMG) bis 10 Jahre nach Patentanmeldung möglich.
 - Falle: Vor Anmeldung öffentliche Vorführung — bei Patent neuheitsschädlich, bei Gebrauchsmuster nur, wenn vom Anmelder/Rechtsvorgänger ausgehend und älter als 6 Monate.
-

@@ -1,6 +1,6 @@
 ---
 name: signing-closing
-description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills im Mittelstand Corporate Ma."
+description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-P..."
 ---
 
 # StaRUG und Insolvenzplan
@@ -205,4 +205,3 @@ GESTALTENDER TEIL
 Massnahme: Eintrag geloescht (bei Zweifel loeschen).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.2020&Aktenzeichen=IX+ZR+18%2F19
 -->
-

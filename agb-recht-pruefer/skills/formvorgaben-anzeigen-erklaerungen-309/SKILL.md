@@ -35,4 +35,3 @@ description: "Norm- und Dogmatik-Skill für Formvorgaben Anzeigen Erklärungen 3
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -125,4 +125,3 @@ Stand: 05/2026.
 - BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->
-

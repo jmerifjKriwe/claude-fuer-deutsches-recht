@@ -1,6 +1,6 @@
 ---
 name: ressort-bmz
-description: "Heranfuehrung Ressort BMZ (Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf Spezialfelder: entwicklungszusammenarbeit-und-bilaterale-abkommen; humanitaere-hilfe-und-krisenpraevention; internationale-klimafinanzierung; menschenrechte-in-lieferketten-lksg; multilaterale-zusammenarbeit-und-eu. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmz und legw-bmz-Themenslug."
+description: "Heranfuehrung Ressort BMZ (Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf S..."
 ---
 
 # Ressort-Heranfuehrung BMZ
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

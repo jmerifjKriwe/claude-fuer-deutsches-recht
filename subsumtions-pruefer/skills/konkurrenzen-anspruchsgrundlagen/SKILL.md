@@ -86,4 +86,3 @@ Das System erstellt eine Konkurrenz-Tabelle:
 - Verhältnis zueinander (Konkurrenz / Spezialität / Subsidiarität)
 - Empfohlene Prüfungsreihenfolge
 - Hinweis auf verbleibende Kumulation oder Ausschluss
-

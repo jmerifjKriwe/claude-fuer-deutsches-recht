@@ -87,4 +87,3 @@ Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse
 - [BSG B 1 KR 37/04 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [ORPHANET Seltene Erkrankungen](https://www.orpha.net)
 - [dejure.org § 2 SGB V](https://dejure.org/gesetze/SGB_V/2.html)
-

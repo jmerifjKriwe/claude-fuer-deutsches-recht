@@ -66,4 +66,3 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Quellen
 
 Gesetzestext GrEStG und aktuelle BFH-Entscheidungen live prüfen. Finanzverwaltungsauffassung zu Share Deals als solche kennzeichnen, nicht als zwingende Rechtsprechung.
-

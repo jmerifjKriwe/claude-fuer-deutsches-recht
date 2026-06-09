@@ -41,4 +41,3 @@ VVG § 14; BGB §§ 286, 288; ZPO; AVB; Sachverständigenverfahren.
 
 - sachverstaendigenverfahren-versicherung
 - betriebsunterbrechung-sachschaden-trigger
-

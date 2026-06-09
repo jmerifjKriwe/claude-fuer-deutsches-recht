@@ -75,4 +75,3 @@ Eine Patentfamilie existiert oder läuft.
 - BGH X ZR 75/02
 - BGH X ZR 19/06
 - BGH X ZR 137/15
-

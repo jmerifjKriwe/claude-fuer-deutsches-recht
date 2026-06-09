@@ -148,6 +148,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `zwv-pfaendung-konto-vollstreckungsschutz` | Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner im Zwangsvollstreckung. |
 | `zwv-vollstreckungsschutz-billigkeit-spezial` | Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung. |
 | `zwv-vollstreckungstitel-bauleiter` | Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung. |
-| `zwv-zwangsversteigerung` | ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvollstreckung. |
+| `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag: Pruefraster für Gla... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

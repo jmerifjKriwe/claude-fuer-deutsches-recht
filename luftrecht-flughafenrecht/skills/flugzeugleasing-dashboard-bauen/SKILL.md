@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-dashboard-bauen
-description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template im Luftrecht Flughafenrecht."
+description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template im Luftrecht Flughafen..."
 ---
 
 # Flugzeugleasing – Dashboard bauen
@@ -100,4 +100,3 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

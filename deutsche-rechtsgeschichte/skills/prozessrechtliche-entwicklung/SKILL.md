@@ -63,4 +63,3 @@ Die Prozessrechtsgeschichte Deutschlands ist ein Spiegel der Verfassungsgeschich
 - ZPO 1877: RGBl. 1877, 83 via ALEX/OeNB für historische Fassung
 - ZPO-Reform 2002: BGBl. I 2001, 1887
 - BGH zur ZPO: bgh.de
-

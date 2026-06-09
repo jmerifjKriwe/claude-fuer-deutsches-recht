@@ -26,4 +26,3 @@ BStatG; AO/UStG/EStG; SGB IV; VerpackG; KrWG; DSGVO; interne Compliance-Dokument
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

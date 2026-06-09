@@ -1,6 +1,6 @@
 ---
 name: handelsregister
-description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung im Gesellschaftsgruender."
+description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Ab..."
 ---
 
 # Handelsregister-Anmeldung
@@ -144,4 +144,3 @@ Bekanntmachungskosten: ca. 25 EUR
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlungsnachweis für Bankbestätigung
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — nächste Schritte nach HR-Eintragung
 - `gesellschaftsgruender-transparenzregister` — Transparenzregistermeldung nach HR-Eintragung
-

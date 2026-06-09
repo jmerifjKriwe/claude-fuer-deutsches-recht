@@ -68,4 +68,3 @@ description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarische
 - Wesensgehaltsgarantie.
 - BVerfG.
 - Notstandsverfassung mit strikten Limits.
-

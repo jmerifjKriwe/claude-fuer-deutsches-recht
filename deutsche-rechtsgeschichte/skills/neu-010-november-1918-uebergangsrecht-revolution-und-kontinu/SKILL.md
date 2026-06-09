@@ -72,4 +72,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Stinnes-Legien-Abkommen als Grundlage Tarifautonomie (Art. 9 III GG).
 - 8-Stunden-Tag als sozialpolitisches Symbol.
-

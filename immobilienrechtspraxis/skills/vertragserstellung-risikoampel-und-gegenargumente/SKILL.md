@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **MaBV bei Bauträgervertrag:** § 3 MaBV setzt Sicherungsstandards (Erfüllungsbürgschaft 5% oder Vertragserfüllungsbürgschaft); Zahlungsraten nach Baufortschritt aus § 3 Abs. 2 MaBV verbindlich.
 - **Steuern und Nebenkosten:** Grunderwerbsteuer (bundesländerabhängig 3,5-6,5%), Notar- und Gerichtskosten ca. 1,5-2% des Kaufpreises, Maklerprovision (im B2C bei Wohnimmobilien zwingend hälftig zu teilen, § 656c BGB - Gesetz zur Verteilung der Maklerkosten 2020).
 - **Praktiker-Tipp:** Bei Bau- und Modernisierungsverpflichtungen des Verkäufers immer Sicherheit für die Erfüllung vereinbaren (Bankbürgschaft, Sperrkonto). Bei Share Deal: § 1 Abs. 2a/3 GrEStG (Anteilsübertragungen) prüfen - 90%-Schwelle, 10-Jahres-Frist.
-

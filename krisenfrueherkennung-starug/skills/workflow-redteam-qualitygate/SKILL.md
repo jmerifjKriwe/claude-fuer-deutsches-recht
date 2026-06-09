@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Trennung zu § 15a InsO:** § 1 StaRUG ist Pflicht im Vorfeld; § 15a InsO ist Antragspflicht nach Eintritt von Zahlungsunfähigkeit (§ 17) oder Überschuldung (§ 19). Höchstfristen: 3 Wochen / 6 Wochen.
 - **Halluzinationsprüfung:** Keine BGH-Az aus Modellwissen; bei Unklarheit zu IDW S 11 oder IDW S 6 Verifikation gegen die Originaltexte (Live-Check).
 - **Praxis:** Niemals "in der Krise" ohne § 18-Test sagen — der Eröffnungsgrund ist Tatbestand, nicht Lebensgefühl.
-

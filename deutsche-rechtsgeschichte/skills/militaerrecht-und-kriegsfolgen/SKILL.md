@@ -63,4 +63,3 @@ Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Mi
 - WStG und WDO: gesetze-im-internet.de
 - NS-Aufhebungsgesetz 2002: BGBl. I 2002, 2532
 - Bundesarchiv-Militaerarchiv Freiburg: NS-Kriegsgerichtsurteile
-

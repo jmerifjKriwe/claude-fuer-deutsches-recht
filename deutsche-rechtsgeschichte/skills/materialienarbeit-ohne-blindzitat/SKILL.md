@@ -62,4 +62,3 @@ Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer
 - Reichstagsprotokolle: reichstagsprotokolle.de, Datum und Seite
 - BT-Drucksachen: bundestag.de für neuere Gesetze
 - Kein Materialien-Blindzitat: Immer Band, Seite, Kontext
-

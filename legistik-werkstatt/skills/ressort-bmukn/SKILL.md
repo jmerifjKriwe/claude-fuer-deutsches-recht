@@ -1,6 +1,6 @@
 ---
 name: ressort-bmukn
-description: "Heranfuehrung Ressort BMUKN (Bundesministerium für Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spezialfelder: immissionsschutz-und-bimschg; wasser-und-bodenschutzrecht; abfall-und-kreislaufwirtschaftsrecht; naturschutz-und-artenschutzrecht; atom-und-strahlenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmukn und legw-bmukn-Themenslug."
+description: "Heranfuehrung Ressort BMUKN (Bundesministerium für Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spez..."
 ---
 
 # Ressort-Heranfuehrung BMUKN
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

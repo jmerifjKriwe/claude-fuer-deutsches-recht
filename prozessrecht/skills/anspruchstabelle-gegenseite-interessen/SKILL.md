@@ -69,4 +69,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - BGH VI ZR 184/10
 - BGH VI ZR 226/16
 - BGH VI ZR 73/20
-

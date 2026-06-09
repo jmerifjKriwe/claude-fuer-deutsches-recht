@@ -34,4 +34,3 @@ VVG §§ 1, 14, 19, 23–28, 31, 81, 86; BGB §§ 133, 157, 305c, 307; ZPO Darle
 - vvg-obliegenheit-28-quotelung-kausalitaet
 - vvg-gefahrerhoehung-23-27
 - deckungsprozess-zuständigkeit-215-vvg
-

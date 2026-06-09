@@ -72,4 +72,3 @@ description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persön
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__12.html
 - https://www.gesetze-im-internet.de/bgb/__1004.html
-

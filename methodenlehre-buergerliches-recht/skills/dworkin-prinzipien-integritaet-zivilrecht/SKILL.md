@@ -35,4 +35,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Methodischer Streit:** Gesetzespositivistische, prinzipienorientierte, systematische, historische und realistische Lesarten als Alternativen sichtbar machen; keine Methode als Zauberformel ausgeben.
 - **Fehlerbremse:** Keine bloße Berufung auf „objektive Auslegung“, „Ausnahme eng“ oder „Natur der Sache“, ohne zu zeigen, wer dadurch Kompetenz gewinnt und welche Normbindung bleibt.
 - **Output:** Thesenpapier, Schriftsatzargument, Gegenargument-Matrix und Grenze richterlicher Rechtsfortbildung.
-

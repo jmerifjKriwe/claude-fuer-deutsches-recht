@@ -64,4 +64,3 @@ Erzeuge Fragenliste an Praxis, Versicherungsanfrage, Mehrkostencheck und Entsche
 ## Prompts, die dieser Skill stellen soll
 
 - Gesetzlich/privat, Plan genehmigt, Behandlung begonnen, Mehrkosten warum?
-

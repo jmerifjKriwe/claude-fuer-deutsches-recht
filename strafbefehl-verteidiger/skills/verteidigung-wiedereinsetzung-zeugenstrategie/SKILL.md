@@ -56,4 +56,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Strafmilderung** ueber §§ 46a, 49 StGB.
 - **Beweisantraege § 244 StPO** wenn nicht-aussagende Zeugen / Sachverstaendige benoetigt; Hilfsbeweisantraege für Hauptverhandlung vorbereiten.
 - **Verfahrensruegen** bei Verstoss gegen § 136 StPO (Belehrung), § 136a StPO (verbotene Methoden), § 252 StPO (Sperrwirkung Zeugnisverweigerung).
-

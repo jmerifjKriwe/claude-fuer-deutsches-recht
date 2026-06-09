@@ -63,4 +63,3 @@ Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur 
 - Zeitlinie und Ankerpunkte statt abstrakter Epochendefinition
 - Konkrete Beispiele: Ein Erbfall im Sachsenspiegel vs. BGB vs. heute
 - Quellen nennen, aber nicht als Fussnoten, sondern als weiterführende Literatur am Ende
-

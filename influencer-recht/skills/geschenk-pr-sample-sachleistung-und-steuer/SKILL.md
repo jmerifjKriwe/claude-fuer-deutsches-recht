@@ -70,4 +70,3 @@ Zugesendete Produkte ohne Vergütungsvereinbarung sind rechtlich vielschichtig:
 - Steuernotiz: Sachleistungs-Einnahme buchen
 - Kennzeichnungsampel: Muss der Post gelabelt werden?
 - Checkliste: PR-Sample annehmen / ablehnen / zurücksenden
-

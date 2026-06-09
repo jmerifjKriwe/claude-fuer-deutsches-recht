@@ -1,6 +1,6 @@
 ---
 name: selbstaendig-vs-side-letter
-description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung im Handelsvertreterrecht."
+description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statu..."
 ---
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [§ 5 ArbGG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbgg/__5.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
-

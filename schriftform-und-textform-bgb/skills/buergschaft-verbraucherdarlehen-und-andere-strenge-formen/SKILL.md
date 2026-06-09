@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherdarlehen-und-andere-strenge-formen
-description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen) im Schriftform Und Textform Bgb."
+description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BG..."
 ---
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen
@@ -173,4 +173,3 @@ den vorbereiteten Urkundentext zu.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) und falsches Thema (Kaufmannseigenschaft des Buergen / § 350 HGB). Echtes Thema: Zwangsverwaltung (ZVG); Nutzungsentschaedigungsanspruch; Wohnschutz des Schuldners (§ 149 ZVG); kein Bezug zu Buergschaft oder HGB. Quelle: dejure.org/2013,18267. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->
-

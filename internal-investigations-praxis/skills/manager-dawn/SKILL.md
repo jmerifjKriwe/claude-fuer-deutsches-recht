@@ -83,4 +83,3 @@ Dieser Skill strukturiert Interviews mit Führungskräften so, dass die Untersuc
 - **Rollendefinitions-Matrix** (Zeuge / Betroffener / Beschuldigter)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

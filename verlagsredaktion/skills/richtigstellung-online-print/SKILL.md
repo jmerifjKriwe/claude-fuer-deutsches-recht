@@ -150,4 +150,3 @@ Die Erstfassung ist auf Anforderung beim Verlag erhaeltlich.
 - UWG §§ 5, 5a, 8 - Irrefuehrungsverbot und Beseitigung.
 - BVerfG-Rechtsprechung zum Berichtigungsanspruch (Volltexte unter bundesverfassungsgericht.de).
 - Pressekodex (Ziffer 3 und 13) - presserat.de.
-

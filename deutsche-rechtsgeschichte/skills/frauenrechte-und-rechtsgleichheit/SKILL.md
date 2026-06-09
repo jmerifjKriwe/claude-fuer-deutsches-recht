@@ -56,4 +56,3 @@ Das BGB 1900 sicherte Frauen keine Gleichberechtigung: Maennliches Entscheidungs
 - Zeitleiste Frauenrechte: BGB 1900 bis AGG 2006
 - BVerfGE 3, 225 und Gleichberechtigungsgesetz 1957: Zusammenhang
 - GG Art. 3 Abs. 2: Inhalt, Grenzen, BVerfGE-Linie
-

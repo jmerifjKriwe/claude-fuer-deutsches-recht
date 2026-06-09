@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-holzbau
-description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe..."
 ---
 
 # Bauueberwachung Einfamilienhaus Holzbau (LPH 8)
@@ -83,4 +83,3 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 - [DIN 4108-7 Luftdichtheit](https://www.gesetze-im-internet.de/)
 - [VOB/C DIN 18334 Holzbauarbeiten](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 46/06 Bauueberwachung Holzbau](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+46/06)
-

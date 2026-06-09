@@ -92,4 +92,3 @@ Bausteine:
 - One-in-one-out-Beschluss der Bundesregierung (Stand zu pruefen)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

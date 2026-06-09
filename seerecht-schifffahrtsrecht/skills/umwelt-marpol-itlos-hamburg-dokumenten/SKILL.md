@@ -1,6 +1,6 @@
 ---
 name: umwelt-marpol-itlos-hamburg-dokumenten
-description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk u..."
 ---
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung
@@ -83,4 +83,3 @@ Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache 
 - StGB § 324: https://dejure.org/gesetze/StGB/324.html
 - SeeUG: https://www.gesetze-im-internet.de/seeug/
 - BSH Meeresumwelt: https://www.bsh.de/DE/THEMEN/Meeresumwelt/meeresumwelt_node.html
-

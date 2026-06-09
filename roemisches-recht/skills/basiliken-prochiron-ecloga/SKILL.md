@@ -42,4 +42,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Vergleichstabelle: Justinian, Ekloge/Prochiron, Basiliken.
 - Warnhinweise für Zitate und Übersetzungen.
 - Anschluss an Rezeptionsgeschichte.
-

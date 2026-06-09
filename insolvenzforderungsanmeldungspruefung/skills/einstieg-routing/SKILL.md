@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Insolvenzforderungsanmeldung: ordnet Rolle (Gläubiger, Insolvenzverwalter, Schuldner), markiert Frist (Anmeldefrist im Eröffnungsbeschluss), wählt Norm (§§ 174 ff. InsO, InsVV, Tabelle § 175 InsO) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Insolvenzforderungsanmeldung: ordnet Rolle (Gläubiger, Insolvenzverwalter, Schuldner), markiert Frist (Anmeldefrist im Eröffnungsbeschluss), wählt Norm (§§ 174 ff. InsO, InsVV, Tabelle § 175 InsO) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-..."
 ---
 
 # Einstieg und Routing
@@ -19,7 +19,7 @@ Dieser Einstieg routet **Insolvenzforderungsanmeldungspruefung** vom ersten Sach
 - `dubletten-serienforderungen` — Dubletten Serienforderungen
 - `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
 - `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
-- `forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
 - `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
 - `formalpruefung-174` — Formalpruefung 174
 - `grund-betrag-zinsen` — Grund Betrag Zinsen
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Insolvenzforderungsanmeldungspruefung** vom ersten Sach
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

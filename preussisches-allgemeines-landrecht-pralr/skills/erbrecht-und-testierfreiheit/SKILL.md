@@ -44,4 +44,3 @@ ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten So
 - Pflichtteil heute 1/2 des Intestaterbteils (§ 2303 BGB).
 - Fideikommisse: Aufloesungsgesetz 26.01.1938 / Kontrollratsgesetz Nr. 45 Berlin — heute keine neuen Fideikommisse moeglich.
 - ALR-Erbfaelle vor 1900 noch heute relevant für Stammbaum- und Eigentumsstreitigkeiten an alten Gueteen.
-

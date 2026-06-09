@@ -1,6 +1,6 @@
 ---
 name: erstantrag-projektlogik
-description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -79,4 +79,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Lebenslauf 5 Seiten lang - formale Beanstandung.
 - Drittmittelverzeichnis unvollständig - Vertrauensbruch bei späterer Aufdeckung von Doppelförderung; DFG-Kodex-Verstoß möglich.
 - Letter of Intent ohne konkrete Verpflichtungserklärung des Kooperationspartners ("wir würden gerne kooperieren" reicht nicht).
-

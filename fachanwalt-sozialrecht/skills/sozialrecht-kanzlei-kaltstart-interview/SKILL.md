@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-kanzlei-kaltstart-interview
-description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behörde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
+description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) P..."
 ---
 
 # /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview
@@ -118,4 +118,3 @@ Dieses Plugin ist Werkzeug der zugelassenen Anwaltschaft. Mandantenkommunikation
 ## Aktuelle Rechtsprechung — Kanzleibetrieb und beA-Pflichten
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

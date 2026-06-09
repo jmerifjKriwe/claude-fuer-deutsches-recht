@@ -46,4 +46,3 @@ Dieser Skill begleitet die vollständige Geschäftsleiterbestellung bei KWG-Inst
 - Doppelmandat in Konzern: § 25c Abs. 4 Satz 3 KWG Konzernausnahme prüfen; EZB-Genehmigung bei signifikantem Institut
 - Abberufungsverfahren BaFin: § 36 KWG, Anhörung (§ 28 VwVfG), Klagerecht Verwaltungsgericht; aufschiebende Wirkung § 80 VwGO
 - Aufsichtsrat-Mitglied Bank AG: § 25d KWG, Mandatshöchstzahl, kollektiver Sachverstand, EBA/GL/2021/06 Nicht-Exekutiv
-

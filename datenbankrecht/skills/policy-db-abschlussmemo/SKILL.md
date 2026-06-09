@@ -1,6 +1,6 @@
 ---
 name: policy-db-abschlussmemo
-description: "Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT im Datenbankrecht."
+description: "Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-P..."
 ---
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
@@ -68,4 +68,3 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 - [RL 96/9/EG — Datenbankrichtlinie (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [Data Act VO 2023/2854 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
 - [EuGH C-202/12 Innoweb/Wegener — Meta-Suchdienst als Entnahme (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
-

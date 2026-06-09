@@ -115,4 +115,3 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - DATEV Praesentations-Modul.
 - IDW PS 480.
-

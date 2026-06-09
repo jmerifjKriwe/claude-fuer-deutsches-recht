@@ -61,4 +61,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Hinweis
 - Chronologie und Belegmatrix sind tragend in jedem Insolvenzanfechtungsprozess (§§ 129 ff. InsO) und in jedem Haftungsverfahren gegen Geschäftsführer (§ 15a, § 15b InsO).
-

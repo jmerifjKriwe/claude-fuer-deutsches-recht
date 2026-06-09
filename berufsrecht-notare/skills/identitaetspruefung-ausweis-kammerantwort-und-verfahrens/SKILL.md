@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - § 12 BNotO
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

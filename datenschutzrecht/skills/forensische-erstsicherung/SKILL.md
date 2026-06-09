@@ -1,6 +1,6 @@
 ---
 name: forensische-erstsicherung
-description: "Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate; Kommunikation mit Aufsichtsbehörde; Schnittstellen zur Cyberversicherung. Output: Beauftragungsmuster, Briefing für Forensiker und Steuerungsraster. Abgrenzung: keine eigene forensische Tätigkeit; keine technische Anleitung."
+description: "Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate..."
 ---
 
 # Forensische Erstsicherung — Beauftragung und Steuerung
@@ -47,4 +47,3 @@ Schnittstellen: Versicherung; Aufsichtsbehörde; Strafverfolgung.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-

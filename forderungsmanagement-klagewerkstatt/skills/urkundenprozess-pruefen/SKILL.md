@@ -1,6 +1,6 @@
 ---
 name: urkundenprozess-pruefen
-description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung § 595 Abs. 2 ZPO. Vorbehaltsurteil § 599 ZPO mit Nachverfahren § 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckbares Urteil."
+description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung § 595 Abs. 2 ZPO. Vorbehaltsurteil § 599 ZPO mit Nachverfahren § 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckba..."
 ---
 
 # Urkundenprozess

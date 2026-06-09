@@ -1,6 +1,6 @@
 ---
 name: late-delivery-liquidated-damages
-description: "Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen im Internationales Handelsrecht Le..."
 ---
 
 # Lieferverzug und Liquidated Damages
@@ -52,4 +52,3 @@ Liquidated Damages (LD) sind im Voraus vereinbarte Schadensersatzpauschalen für
 ## Quellenregel
 
 CISG Art. 74: uncitral.un.org. BGB §§ 339-345: gesetze-im-internet.de. Cavendish Square Holding v Makdessi [2015] UKSC 67: bailii.org. PICC Art. 7.4.13: unidroit.org. Unsicherheit bleibt sichtbar.
-

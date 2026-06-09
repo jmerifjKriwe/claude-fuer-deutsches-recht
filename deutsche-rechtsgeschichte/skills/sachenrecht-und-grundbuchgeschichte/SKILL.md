@@ -47,4 +47,3 @@ Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (St
 - GBO: gesetze-im-internet.de
 - PreussHypG 1872: ALEX/OeNB für historischen Originaltext
 - BGH-Sachenrechtsentscheidungen: bgh.de (V. Zivilsenat)
-

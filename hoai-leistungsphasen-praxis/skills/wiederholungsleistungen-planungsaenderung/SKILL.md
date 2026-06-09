@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage: Planungsänderung, Wiederholung von Grundleistunge
 3. Prüfen, ob anrechenbare Kosten, Flächen oder Verrechnungseinheiten betroffen sind.
 4. Textformvereinbarung suchen oder nachholen.
 5. Wiederholung wegen Planerfehler von vergütbarer Zusatzleistung trennen.
-

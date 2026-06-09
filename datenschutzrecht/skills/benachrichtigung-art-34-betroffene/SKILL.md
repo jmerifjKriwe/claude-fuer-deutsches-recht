@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-betroffene
-description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene und vorgeschlagene Abhilfemaßnahmen; konkrete Empfehlungen für Betroffene; Hotline; Versandweg E-Mail oder Brief. Output: Anschreiben mit Q&A. Abgrenzung: keine öffentliche Bekanntmachung; keine Behördenmeldung."
+description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche F..."
 ---
 
 # Benachrichtigung der Betroffenen nach Art. 34 DSGVO
@@ -63,4 +63,3 @@ Mit freundlichen Grüßen, [Geschäftsleitung]
 
 - `dsv-benachrichtigung-art-34-schwelle-hohes-risiko` deckt die Schwellenwertentscheidung ab.
 - `dsv-benachrichtigung-art-34-ausnahmen` deckt die Ausnahmen ab.
-

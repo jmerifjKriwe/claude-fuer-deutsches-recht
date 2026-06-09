@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rechtsmissbrauch:** Antrag zur Erzwingung der Zahlung einer streitigen Forderung kann nach § 14 Abs. 1 Satz 2 InsO bzw. § 226 BGB als rechtsmissbräuchlich abgewiesen werden — Forderung nicht ernsthaft bestritten muss aber zwingend dargetan sein.
 - **Sicherheit § 14 Abs. 2 InsO:** Bei zurückgewiesenem Antrag haftet Antragsteller bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung — Schadensersatzrisiko.
 - **Praxis:** Drei-Säulen-Verteidigung: (1) Forderung erschüttern, (2) Eröffnungsgrund bestreiten, (3) Eigenantrag mit Eigenverwaltung als Gegenstrategie (verhindert Fremdverwalter).
-

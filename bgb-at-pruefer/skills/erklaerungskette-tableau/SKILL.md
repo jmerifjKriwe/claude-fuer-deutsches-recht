@@ -75,4 +75,3 @@ als Vertreter oder als bloßer Bote handelt.
 - Vollmacht für jeden Vertreter in der Kette vorhanden?
 - § 166 BGB Wissenszurechnung in der Kette berücksichtigt?
 - Ergebnis der Kette: Wer ist Vertragspartner des Erklärungsempfängers?
-

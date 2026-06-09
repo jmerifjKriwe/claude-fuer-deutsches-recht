@@ -46,4 +46,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - "Best efforts" (US) vs. "reasonable efforts" (UK): in Deutschland am ehesten "im Rahmen des wirtschaftlich Zumutbaren" — Auslegungsoffen, daher Konkretisierung sinnvoll.
 - "Boilerplate" (Severability, Entire Agreement, Counterparts): § 139 BGB Teilnichtigkeit verdrängt einfache Severability; "Entire Agreement"-Klausel beschränkt § 311 Abs. 2 BGB c.i.c.-Schadensersatz nur eingeschränkt.
-

@@ -1,6 +1,6 @@
 ---
 name: konnossement-risiko-memo-schreiben
-description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-..."
 ---
 
 # Konnossement – Risiko-Memo schreiben
@@ -93,4 +93,3 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
-

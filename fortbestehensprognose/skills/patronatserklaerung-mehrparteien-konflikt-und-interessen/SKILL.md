@@ -39,4 +39,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Interessenkonflikt:** Im Konzern stehen Geschäftsführer der Tochter und der Mutter unter Spannung. Bei drohender Insolvenzreife der Mutter wird die Patronatszusage hinfällig; nachschiebende Eigenkapitalstärkung kann selbst anfechtbar werden (§§ 130 ff. InsO).
 - **Beweis-Voraussetzungen:** Bonität des Patrons (Bilanz, Liquidität), Verbindlichkeit der Erklärung (Schriftform empfohlen), Reichweite (Umfang, Befristung, Widerruflichkeit) und Werthaltigkeit für den maßgeblichen Prognosezeitraum.
 - **Trade-off:** Externe Patronatserklärung gibt Gläubigern Sicherheit, bindet den Patron aber unmittelbar; interne Patronatserklärung ist flexibler, hilft aber dem Gläubiger nicht direkt.
-

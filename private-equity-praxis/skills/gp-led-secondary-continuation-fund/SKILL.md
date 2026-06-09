@@ -95,4 +95,3 @@ LP-Status-Letter (Auszug):
 - SEC Private Fund Adviser Rules (vom Anwender mit aktuellem Stand zu prüfen).
 - BMF-Schreiben zu Investment-Veräußerungen und Step-Up (vom Anwender mit aktuellem BMF zu prüfen).
 - § 4k EStG (ATAD); MinStG (Pillar Two seit 01.01.2024).
-

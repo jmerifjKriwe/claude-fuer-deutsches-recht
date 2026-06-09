@@ -53,4 +53,3 @@ Pro Befund: Erfolgskriterium (z. B. WCAG 2.1 SC 1.4.3 Contrast Minimum AA), EN-3
 
 ## Trade-off
 Reine Tool-Audits (Axe, Lighthouse, Wave) decken nur ca. 30-40 % der WCAG-Verstöße ab. Tastatur- und Screenreader-Manualtests bleiben unverzichtbar; nutzungsorientierte Tests mit Betroffenen sind das Gold-Standard.
-

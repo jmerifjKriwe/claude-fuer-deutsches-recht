@@ -80,4 +80,3 @@ Konkret zu prüfen:
 - § 72 UrhG (Lichtbilder)
 - § 23 KUG (Recht am eigenen Bild)
 - Art. 6, 9 DSGVO
-

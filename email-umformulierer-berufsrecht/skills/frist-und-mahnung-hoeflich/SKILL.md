@@ -1,6 +1,6 @@
 ---
 name: frist-und-mahnung-hoeflich
-description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung fehlende Aggression. Output: professioneller Fristbrief oder Mahnung mit erklärtem Prüfergebnis. Abgrenzung: nicht für allgemeine Korrespondenz."
+description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung fehlende Aggression. Output: professioneller Fristbrief oder..."
 ---
 
 # Frist und Mahnung höflich formulieren
@@ -101,4 +101,3 @@ Zulässig: "Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu machen
 
 **Vorher:** "Jetzt reicht es mir mit Ihnen!"
 **Nachher:** "Da trotz mehrfacher Erinnerung keine Reaktion erfolgt ist, sehe ich mich gehalten, formell zu mahnen und eine Frist bis TT.MM.JJJJ zu setzen."
-

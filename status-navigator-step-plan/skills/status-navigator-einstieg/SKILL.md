@@ -1,6 +1,6 @@
 ---
 name: status-navigator-einstieg
-description: "Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten Antworten auf die zwei Kernfragen — was ist eigentlich los und was muss als Naechstes geschehen. Setzt den Rahmen fuer alle Folgeschritte und erzeugt eine erste grobe Bestandsaufnahme."
+description: "Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten Antworten auf die zwei Kernfragen — was ist eigentlich los und was muss als Naechstes geschehen. Setzt den Rahmen fuer alle Folgeschritte und erzeugt eine erste grobe Bestandsa..."
 ---
 
 # Einstieg: Was haben wir und was muss geschehen
@@ -15,4 +15,3 @@ LausitzStorage Erstsichtung 02.06.2026 nach Mandatsannahme: 80 PDFs aus drei Que
 - Erstrunde-Reiter-1 mit grober Verfuegbarkeit
 - Liste der zwei bis drei Sofortmassnahmen
 - Auftrag fuer Folgeskills (Inventur, Dokumententypen, Zustellung)
-

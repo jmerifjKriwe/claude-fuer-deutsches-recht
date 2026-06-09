@@ -94,4 +94,3 @@ Ergänze:
 ### Leitentscheidungen
 
 - BGH XI ZR 56/93
-

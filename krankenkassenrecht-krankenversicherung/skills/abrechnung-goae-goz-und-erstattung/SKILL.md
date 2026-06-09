@@ -114,4 +114,3 @@ PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Dieser Skill p
 - BGH III ZR 17/18
 - BGH IV ZR 194/07
 - BGH IV ZR 62/16
-

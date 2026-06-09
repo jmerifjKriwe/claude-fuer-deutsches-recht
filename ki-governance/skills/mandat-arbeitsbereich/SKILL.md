@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt neues Mandat, Mandat wechseln, Mandate auflisten, Mandat schließen oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet im Ki Governance."
+description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt neues Mandat, Mandat wechsel..."
 ---
 
 # /mandat-arbeitsbereich
@@ -269,4 +269,3 @@ Kernfakten: [KURZBEZEICHNUNG 1-3 SAETZE]
 Naechste Frist: [DATUM — ART DER FRIST]
 Aktiver Skill: [SKILL-NAME]
 ```
-

@@ -1,6 +1,6 @@
 ---
 name: dfg-eigenanteil-und-grundausstattung
-description: "Eigenanteil und Grundausstattung der Hochschule sauber von DFG-Förderung abgrenzen: Was muss die Hochschule stellen (Buero, Standardrechner, Sekretariat, Bibliothek), was darf die DFG finanzieren (projektspezifische Geraete, Personal ueber Stelleninhaber hinaus, Verbrauch). Hochschulleitung-Bestaetigung Grundausstattung als Anlage. Typische Fehler und Korrekturen."
+description: "Eigenanteil und Grundausstattung der Hochschule sauber von DFG-Förderung abgrenzen: Was muss die Hochschule stellen (Buero, Standardrechner, Sekretariat, Bibliothek), was darf die DFG finanzieren (projektspezifische Geraete, Personal ueber Stelleninhaber hinaus, Verbrauch). Hochschulleitung-Besta..."
 ---
 
 # Eigenanteil und Grundausstattung
@@ -55,4 +55,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

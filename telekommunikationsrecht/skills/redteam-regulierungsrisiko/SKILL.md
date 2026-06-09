@@ -20,4 +20,3 @@ TKG; GWB; AEUV; VwGO; TDDDG; DSGVO; NIS2/BSI-Recht; BNetzA-Praxis live prüfen.
 
 - tk-marktanalyse-betraechtliche-marktmacht
 - tk-infrastruktursharing-open-access
-

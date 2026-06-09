@@ -193,4 +193,3 @@ Mit freundlichen Grüßen
 - § 43a Abs. 2 BRAO, § 203 StGB.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Quelle protokollieren.
-

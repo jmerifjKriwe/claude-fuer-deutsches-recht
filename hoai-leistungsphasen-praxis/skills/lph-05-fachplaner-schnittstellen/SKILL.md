@@ -1,6 +1,6 @@
 ---
 name: lph-05-fachplaner-schnittstellen
-description: "HOAI LPH 5 Ausführungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 5 Ausführungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphas..."
 ---
 
 # LPH 5 Ausführungsplanung: Koordiniert architekt
@@ -32,4 +32,3 @@ description: "HOAI LPH 5 Ausführungsplanung: koordiniert Architekt, TGA, Tragwe
 - Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
 - Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

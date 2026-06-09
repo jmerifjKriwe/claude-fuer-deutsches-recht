@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-tagessatzanzahl-bestimmen
-description: "Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe im Strafzumessung."
+description: "Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefe..."
 ---
 
 # Tagessatzanzahl der Geldstrafe — § 40 Abs. 1 StGB
@@ -83,4 +83,3 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 - §§ 40, 41, 47, 53, 54 StGB in der geltenden Fassung.
 - § 407 Abs. 2 StPO Strafbefehl.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

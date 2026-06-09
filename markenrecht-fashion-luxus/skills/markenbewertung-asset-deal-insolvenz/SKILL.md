@@ -45,4 +45,3 @@ description: "Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanz
 ## Warnung
 
 Keine Bewertungszahlen erfinden. Methoden und Eingabedaten offenlegen.
-

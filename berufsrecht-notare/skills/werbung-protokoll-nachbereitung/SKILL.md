@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - § 29 BNotO
 - § 6 BeurkG
-

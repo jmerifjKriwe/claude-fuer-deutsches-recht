@@ -73,4 +73,3 @@ Konkret zu prüfen:
 - § 10 BeurkG (Identitätsfeststellung)
 - § 11 BeurkG
 - § 12 BNotO
-

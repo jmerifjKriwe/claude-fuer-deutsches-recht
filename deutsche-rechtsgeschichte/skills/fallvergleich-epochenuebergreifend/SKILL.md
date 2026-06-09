@@ -47,4 +47,3 @@ Der epochenuebergreifende Fallvergleich ist eine Kerntechnik der Rechtsgeschicht
 - BGB: gesetze-im-internet.de
 - GG Art. 14, BVerfGE: bverfg.de (Grundrechts-Leitsaetze)
 - DDR-ZGB: GBl. I DDR 1975, 465
-

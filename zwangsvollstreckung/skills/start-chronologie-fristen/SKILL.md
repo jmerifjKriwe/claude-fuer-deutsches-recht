@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Zwangsvollstreckung."
+description: "Einstieg, Schnelltriage und Fallrouting im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..."
 ---
 
 # Zwangsvollstreckung — Allgemein
@@ -222,4 +222,3 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110 vom 11.04.2025), gueltig 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): ab 01.01.2026 Amtsgerichts-Zuständigkeit bis 10.000 EUR (§ 23 GVG n.F.), Berufungssumme 1.000 EUR (§ 511 Abs. 2 ZPO n.F.); Uebergangsvorschrift § 47 EGZPO.
 - EuKtPVO (VO 655/2014) unmittelbar anwendbar.
-

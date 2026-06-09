@@ -15,4 +15,3 @@ LausitzStorage: 23 Notes ueber alle Reiter. Wiederholte Notes: `Zustellung unkla
 - Standard-Notes-Vokabular als Vorblatt
 - Anmerkungsspalten in Reiter 2 und 3 konsistent befuellt
 - Bruecke zu Reiter 4 (jede Note erzeugt einen Workflow-Schritt)
-

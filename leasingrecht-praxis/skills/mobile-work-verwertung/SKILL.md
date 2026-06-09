@@ -111,4 +111,3 @@ description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM
 - **Betriebsvereinbarung MDM**: Muster mit DSGVO-konformen Datenschutzvorgaben
 - **Rückgabe-Protokoll Mobiles Gerät**: Zustand, Remote Wipe, Datenlöschungs-Zertifikat
 - **MDM-Datenschutzinformation**: Art. 13 DSGVO für Mitarbeiter
-

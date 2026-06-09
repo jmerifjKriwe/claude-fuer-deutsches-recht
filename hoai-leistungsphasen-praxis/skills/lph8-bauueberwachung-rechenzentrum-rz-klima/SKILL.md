@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterst..."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)
@@ -83,4 +83,3 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 - [DIN EN 50173 Kabelanlagen](https://www.gesetze-im-internet.de/)
 - [ATEX-Richtlinie 2014/34/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0034)
 - [DIN EN ISO 13849 Sicherheit Steuerungen](https://www.gesetze-im-internet.de/)
-

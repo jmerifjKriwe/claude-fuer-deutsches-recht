@@ -1,6 +1,6 @@
 ---
 name: stakeholder-mapping
-description: "Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbehörde; Strafverfolgungsbehörden; Betroffene; Großkunden mit Vertragsklauseln; Presse; Sozialmedien. Output: Stakeholder-Matrix mit Eskalations- und Informationsplan. Abgrenzung: keine konkreten Schreiben."
+description: "Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbeh..."
 ---
 
 # Stakeholder-Mapping nach Datenschutzvorfall
@@ -40,4 +40,3 @@ Stakeholder; Rolle; Pflicht oder freiwillig; Zeitpunkt; Verantwortlicher intern;
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-

@@ -1,6 +1,6 @@
 ---
 name: lohn-krankheit-mandantenaufnahme
-description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1 im Steuerrecht Anwalt Und Berater."
+description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1 im St..."
 ---
 
 # Krankheit — Entgeltfortzahlung § 3 EFZG und eAU
@@ -124,4 +124,3 @@ Stand: 05/2026.
 - SGB IV § 109.
 - SGB V.
 - BMAS eAU-Verfahren.
-

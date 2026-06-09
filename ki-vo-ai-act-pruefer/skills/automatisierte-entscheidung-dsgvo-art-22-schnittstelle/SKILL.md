@@ -39,4 +39,3 @@ Ein KI-System kann nach KI-VO nicht Hochrisiko sein und trotzdem datenschutzrech
 ## Warnung
 
 "Mensch prüft final" reicht nur, wenn der Mensch reale Informationen, Zeit, Kompetenz und Befugnis hat, vom KI-Vorschlag abzuweichen.
-

@@ -107,4 +107,3 @@ description: "Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizie
 - **Tape-Analyse-Vorlage**: Excel-Format für Portfolio-Überblick
 - **Sample-Review-Protokoll**: Einzelvertrag – 20 Prüfpunkte
 - **Bewertungs-Memo**: Par Value, Abzüge, Kaufpreisrange
-

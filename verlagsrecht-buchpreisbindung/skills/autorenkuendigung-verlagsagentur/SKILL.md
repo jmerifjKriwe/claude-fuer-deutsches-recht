@@ -152,4 +152,3 @@ Dieser Skill behandelt zwei eng verwandte Konfliktfelder: Wann und wie kann ein 
 - BGH I ZR 136/20
 - EuGH C-299/23
 - EuGH C-202/12
-

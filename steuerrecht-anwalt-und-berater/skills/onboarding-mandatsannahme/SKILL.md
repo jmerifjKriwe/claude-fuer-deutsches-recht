@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandatsannahme
-description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmachtsvarianten Verfahrens- und Strafverteidigungsvollmacht Honorarvereinbarung RVG/StBVV Vergueterungsabrede und Aufklaerungspflichten. Output strukturierter Erstberatungsbogen Vollmachtsmuster und Triage-Checkliste mit Fristampel. Abgrenzung zu fa-stu-rvg-steuerstreit (Honorar im Detail) und anw-fristenbuch-steuerrecht (laufende Fristverwaltung)."
+description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmacht..."
 ---
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage
@@ -63,4 +63,3 @@ umfassend zur Vertretung, insbesondere zur:
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

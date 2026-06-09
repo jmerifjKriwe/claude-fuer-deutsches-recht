@@ -75,4 +75,3 @@ Finanzamtsanfragen bei Creator richten sich meist auf Nebeneinnahmen und Sachlei
 - Unterlagen-Zusammenstellung-Checkliste
 - Fristverlängerungs-Antrag
 - Selbstanzeige-Prüfschema (mit Steueranwalt-Verweis)
-

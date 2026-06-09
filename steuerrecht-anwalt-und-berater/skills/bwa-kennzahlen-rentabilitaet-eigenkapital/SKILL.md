@@ -129,4 +129,3 @@ Stand: 05/2026.
 - Coenenberg, Jahresabschluss und Jahresabschlussanalyse.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->
-

@@ -1,6 +1,6 @@
 ---
 name: gruppen-schriftsatz-brief-und-memo-bausteine
-description: "Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerkstatt."
+description: "Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwer..."
 ---
 
 # Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Stimmrechtsantrag bei bestrittenen Forderungen: § 77 InsO mit Schätzung und Begründung.
  - Cram-Down-Antrag § 245 InsO / §§ 26 ff. StaRUG: Best-Interest-Test, Priorität-Test.
 - **Praxis:** Gruppenbildung im darstellenden Teil ausführlich begründen — Argumentationskette wird im Bestätigungsverfahren geprüft.
-

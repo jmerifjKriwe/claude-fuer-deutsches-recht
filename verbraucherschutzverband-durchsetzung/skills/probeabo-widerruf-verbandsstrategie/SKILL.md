@@ -55,4 +55,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Red Team
 
 Prüfe die Verteidigung: klare Kostenhinweise, bestätigte Nutzung, Wertersatz, ordnungsgemäße Kündigungsbestätigung, individuelles Vergleichsangebot.
-

@@ -119,4 +119,3 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
-

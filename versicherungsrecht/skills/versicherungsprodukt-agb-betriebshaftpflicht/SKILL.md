@@ -39,4 +39,3 @@ BGB §§ 305–310; VVG; UKlaG; UWG; ZPO.
 ## Anschluss-Skills
 
 - Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
-

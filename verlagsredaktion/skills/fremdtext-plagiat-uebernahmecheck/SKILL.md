@@ -49,4 +49,3 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 ## Praktische Checkliste
 - Stilbruchanalyse je Absatz; semantische Konsistenz; Quellenverzeichnis komplett?
 - Bilder mit Lizenznachweis; URL+Stand für Webquellen; Bibliographie nach `references/zitierweise.md`.
-

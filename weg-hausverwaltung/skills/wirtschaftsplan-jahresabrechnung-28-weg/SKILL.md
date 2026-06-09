@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsplan-jahresabrechnung-28-weg
-description: "Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE), V ZR 236/23 und V ZR 128/23 (Schlüsseländerung)."
+description: "Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE),..."
 ---
 
 # Wirtschaftsplan und Jahresabrechnung
@@ -75,4 +75,3 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` zwingend laden. Rechtsprechungsaussagen nur mit Gericht, Datum, Aktenzeichen und offen prüfbarer Quelle.
-

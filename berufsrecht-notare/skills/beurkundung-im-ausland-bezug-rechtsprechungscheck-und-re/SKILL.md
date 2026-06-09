@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - §§ 6-35 BeurkG
 - § 17 BeurkG (Belehrungspflicht)
-

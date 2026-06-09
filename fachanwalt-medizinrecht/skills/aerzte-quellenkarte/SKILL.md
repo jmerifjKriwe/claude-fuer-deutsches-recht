@@ -11,17 +11,17 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Medizinrecht** tragende Norme
 
 ## Suchraster
 
-- `aerztewerbung-innovative-amnog-millionen`
+- `aerztewerbung-innovative-therapie`
 - `anaesthesie-hochrisiko-approbation-digitales-arzt-anstellung`
 - `apothekenrecht-interessen-aufklaerung-beweislast`
 - `atmp-chain-atmp-classification`
 - `atmp-pharmakovigilanz-aufklaerungsfehler-beweisstrategie`
-- `aufklaerungsfehler-behandlungsfehler`
+- `aufklaerungsfehler`
 - `berufsrecht-bgb-einwilligung-sonderfall-fachanwalt`
-- `beweislast-hightech-biobank-consent`
+- `beweislast-hightech-medizin`
 - `cannabis-medizinisch-combined-atmp-companion-diagnostic`
-- `car-t-diga-hersteller`
-- `crispr-base-cybersecurity-medizinprodukt`
+- `car-t-haftung-klinik`
+- `crispr-base-editing-einwilligung`
 - `dokumentationsaudit-630f-einwilligungsunfaehigkeit-ablehnung`
 
 ## Prüfroute
@@ -58,4 +58,3 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Medizinrecht** tragende Norme
 ### Leitentscheidungen
 
 - BGH VI ZR 323/04
-

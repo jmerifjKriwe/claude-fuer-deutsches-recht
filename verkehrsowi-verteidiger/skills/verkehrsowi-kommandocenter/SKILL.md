@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-kommandocenter
-description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy im Verkehrsowi Verteidiger."
+description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi..."
 ---
 
 # VerkehrsOWi-Verteidiger — Kommandocenter
@@ -80,4 +80,3 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 - Frist immer zuerst sichern — kein Schritt vor Einspruch.
 - Rohmessdaten grundsaetzlich anfordern.
 - Anwaltliche Endkontrolle bei allen Fristen und Antraegen.
-

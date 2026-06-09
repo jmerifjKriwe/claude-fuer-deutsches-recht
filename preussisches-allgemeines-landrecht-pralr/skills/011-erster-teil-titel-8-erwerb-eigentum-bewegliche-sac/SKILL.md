@@ -45,4 +45,3 @@ A kauft Pferd von B.
 1. Traditio erfolgt?
 2. Iustus titulus?
 3. Eigenes Eigentum des Veraeusserers?
-

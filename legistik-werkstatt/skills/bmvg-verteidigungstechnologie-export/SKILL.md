@@ -1,6 +1,6 @@
 ---
 name: bmvg-verteidigungstechnologie-export
-description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung)."
+description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Au..."
 ---
 
 # Verteidigungstechnologie und Exportkontrolle (BMVg)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

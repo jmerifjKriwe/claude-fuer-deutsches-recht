@@ -1,6 +1,6 @@
 ---
 name: bmf-finanzmarktaufsicht-bafin-kwg-wpig
-description: "Sachbereich Finanzmarktaufsicht (BaFin; KWG; WpIG) im Geschaeftsbereich BMF: Normbestand (KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.); Akteure (BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.); EU-Bezug (CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
+description: "Sachbereich Finanzmarktaufsicht (BaFin; KWG; WpIG) im Geschaeftsbereich BMF: Normbestand (KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.); Akteure (BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.); EU-Bezug (CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.); typisch..."
 ---
 
 # Finanzmarktaufsicht (BaFin; KWG; WpIG) (BMF)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

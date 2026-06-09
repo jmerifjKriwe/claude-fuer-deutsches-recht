@@ -52,4 +52,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Handelsform?
 2. Roemische Wurzel?
 3. Moderne Aequivalenz?
-

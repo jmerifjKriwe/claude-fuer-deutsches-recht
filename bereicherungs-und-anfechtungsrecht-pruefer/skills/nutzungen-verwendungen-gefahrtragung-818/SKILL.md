@@ -116,4 +116,3 @@ Bei Rückabwicklung gegenseitiger Verträge nie isoliert nur die Verwendungen ei
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

@@ -1,6 +1,6 @@
 ---
 name: single-source-risk
-description: "Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen im Festlandchina Wirtschaftsverkehr."
+description: "Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikoberic..."
 ---
 
 # Single-Source-Risiko China: Bewertung und Notfallplanung
@@ -86,4 +86,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [BGB Volltext §§ 275 und 313](https://www.gesetze-im-internet.de/bgb/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
 - [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-

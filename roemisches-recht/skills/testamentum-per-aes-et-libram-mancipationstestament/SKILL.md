@@ -47,4 +47,3 @@ description: "Testamentum per aes et libram: das mancipationstestament als klass
 1. Mancipationsritual eingehalten?
 2. Heredis institutio?
 3. Zeugen?
-

@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-betreuer-erster-monat
-description: "Ehrenamtlicher Betreuer: erster Monat im Plugin Betreuungsrecht: Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer überhaupt, und wann wird Hilfe geholt?"
+description: "Ehrenamtlicher Betreuer: erster Monat im Plugin Betreuungsrecht: Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer..."
 ---
 
 # Ehrenamtlicher Betreuer: erster Monat
@@ -59,4 +59,3 @@ Baue eine Akte mit diesen Fächern:
 - Vertretung nur nutzen, soweit sie erforderlich ist (§ 1821 Abs. 1 BGB).
 - Bei Grundstück, Erbe, Wohnungsaufgabe, riskanten Geldgeschäften, freiheitsentziehenden Maßnahmen oder Zwangsbehandlung immer Genehmigungspflicht prüfen.
 - Keine Rechtsprechung aus Modellwissen zitieren; nur nach Live-Prüfung.
-

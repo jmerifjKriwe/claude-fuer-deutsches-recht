@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - § 200 StPO (Anklageumgrenzung)
 - § 244 Abs. 2 StPO (Aufklärungspflicht)
 - Nr. 110, 138 RiStBV
-

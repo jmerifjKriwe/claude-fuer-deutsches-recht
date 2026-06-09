@@ -51,4 +51,3 @@ Wenn der Wesensgehalt verletzt ist, scheitert die Massnahme an dieser Stelle. De
 - BVerfGE 120, 274 (Online-Durchsuchung, Kernbereichsschutz)
 - BVerfGE 125, 175 (Hartz IV, Existenzminimum)
 - BVerfGE 141, 220 (BKAG-Urteil, Kernbereich Online-Aufklaerung)
-

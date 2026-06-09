@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-catch-all-pruefung
-description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meld..."
 ---
 
 # Catch-All-Pruefung: Genehmigungspflicht für nicht-gelistete Gueter
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Catch-All](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

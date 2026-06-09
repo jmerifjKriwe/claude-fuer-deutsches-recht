@@ -88,4 +88,3 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 - PatientendatenSchutzG (PDSG) zur ePA.
 - BfDI- und Landesdatenschutzaufsicht-Hinweise (Live-Check bfdi.bund.de).
 - BGH, staend. Rspr. zur aerztlichen Schweigepflicht.
-

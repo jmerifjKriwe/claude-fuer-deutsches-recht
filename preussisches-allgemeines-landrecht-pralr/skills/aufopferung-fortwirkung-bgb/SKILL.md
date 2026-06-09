@@ -44,4 +44,3 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 3. Spezialgesetz greift?
 4. Aufopferung subsidiaer?
 5. Sonderopfer-Schwelle?
-

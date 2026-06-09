@@ -98,4 +98,3 @@ UBO-Erklärung (KYC Form):
 - Dual-Use-VO (EU) 2021/821.
 - AWG/AWV (deutsche Außenwirtschaftsregeln); HinSchG (Hinweisgeberschutzgesetz).
 - BaFin/FIU-Hinweise zur Auslegung des GwG (vom Anwender mit aktuellem Stand zu prüfen).
-

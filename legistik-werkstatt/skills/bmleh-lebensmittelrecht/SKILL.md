@@ -1,6 +1,6 @@
 ---
 name: bmleh-lebensmittelrecht
-description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
+description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-V..."
 ---
 
 # Lebensmittel- und Futtermittelrecht (BMLEH)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

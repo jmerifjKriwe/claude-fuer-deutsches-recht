@@ -1,6 +1,6 @@
 ---
 name: alleinvertreter-alters-krankheitskuendigung
-description: "Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede im Handelsvertreterrecht."
+description: "Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede im H..."
 ---
 
 # Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
@@ -104,4 +104,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - EuGH C-465/04
 - EuGH C-381/19
 - EuGH C-217/05
-

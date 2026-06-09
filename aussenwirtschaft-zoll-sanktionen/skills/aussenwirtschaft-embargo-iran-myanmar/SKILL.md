@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-iran-myanmar
-description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. O..."
 ---
 
 # Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken
@@ -77,4 +77,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU Sanctions Map Iran](https://www.sanctionsmap.eu/#/main/details/7)
 - [BAFA Embargo Iran](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

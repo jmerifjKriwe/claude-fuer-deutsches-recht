@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-anwendbares-api-nutzung
-description: "Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken im Datenbankrecht."
+description: "Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klage..."
 ---
 
 # Gerichtsstand und anwendbares Recht im Datenbankrecht
@@ -67,4 +67,3 @@ Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständig
 - [EuGH C-170/12 Pinckney — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-170/12)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 25 EuGVVO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
-

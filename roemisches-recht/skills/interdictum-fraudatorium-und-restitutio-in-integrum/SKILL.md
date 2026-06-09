@@ -43,4 +43,3 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 1. Welches Instrument einschlaegig?
 2. Schutzbedarf wegen Vermoegensentzug?
 3. Beweislage hinreichend?
-

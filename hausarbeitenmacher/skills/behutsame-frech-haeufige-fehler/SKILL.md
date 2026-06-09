@@ -1,6 +1,6 @@
 ---
 name: behutsame-frech-haeufige-fehler
-description: "Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt) im Hausarbeitenmacher."
+description: "Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhal..."
 ---
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung
@@ -257,4 +257,3 @@ Das Plugin ist primär ein **sokratischer Lern-Begleiter**, gentle, ermutigend, 
 - `hausarbeit-workflow-start` — Master-Workflow
 - `aufgabenstellung-erfassen` — Sokratisch zerlegen
 - `subsumtion-schritt-für-schritt` — Hier passt der Stil gelegentlich
-

@@ -89,4 +89,3 @@ Dieser Skill bearbeitet **GKV-Psychotherapieleistungen**: Anspruch auf Richtlini
 - [BVerfG 1 BvR 673/17](https://www.bverfg.de/entscheidungen.html)
 - [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
 - [Kassenärztliche Bundesvereinigung PT](https://www.kbv.de/html/psychotherapie.php)
-

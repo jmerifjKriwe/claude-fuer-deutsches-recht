@@ -115,4 +115,3 @@ description: "Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — U
 - **Preisbindungscheck für Bibliothekskäufe**
 - **Vergriffene-Werke-Opt-Out-Erklärung**
 - **§ 52b-Compliance-Protokoll**
-

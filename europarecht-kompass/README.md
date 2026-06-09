@@ -121,7 +121,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `europarecht-vertragsverletzung-durchsetzung` | Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhi... |
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung... |
 | `europarecht-wettbewerb-kartell` | Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellun... |
-| `europarecht-wirkung-behoerden-gericht-registerweg` | Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Europarecht Kompass. |
 | `gegen-grundfreiheiten-livecheck-sonderfall` | Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin europarecht kompass im Europarecht Kompass. |
 | `grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung im Plugin europarecht kompass im Europarecht Kompass. |
@@ -140,6 +139,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass im Europarecht Kompass. |
 | `vorrang-unmittelbare-wettbewerb-kartell` | Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare W... |
 | `vorrang-unmittelbare-wirkung-effet-utile` | Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Europarecht Kompass. |
+| `wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Europarecht Kompass. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Europarecht Kompass. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Europarecht Kompass. |

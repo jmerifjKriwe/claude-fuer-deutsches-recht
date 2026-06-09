@@ -45,4 +45,3 @@ description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Not
 ## Qualitätsgate
 
 DSA und Plattformregeln live prüfen; keine Plattformformulare aus Gedächtnis behaupten.
-

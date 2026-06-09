@@ -69,4 +69,3 @@ die Ad-hoc-Entscheidung sowie die Koordination mit Nachhaltigkeits- und Kommunik
 - PDMRs, die vom ESG-Ereignis wissen: Handelsverbot
 - Sustainability-Manager: Falls sie Zugang zu kursrelevanten ESG-Informationen haben,
  müssen sie auf der Insiderliste stehen
-

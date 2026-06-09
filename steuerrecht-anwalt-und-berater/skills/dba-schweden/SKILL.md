@@ -151,4 +151,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Schw
 Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Aenderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

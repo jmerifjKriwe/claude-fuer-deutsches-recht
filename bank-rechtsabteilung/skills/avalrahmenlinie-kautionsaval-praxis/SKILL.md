@@ -120,4 +120,3 @@ Liefere eine **Avalfreigabe-Notiz**:
 ### Leitentscheidungen
 
 - BGH XI ZR 56/93
-

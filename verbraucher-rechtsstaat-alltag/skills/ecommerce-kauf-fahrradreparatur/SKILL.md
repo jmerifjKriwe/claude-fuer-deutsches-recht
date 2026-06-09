@@ -1,6 +1,6 @@
 ---
 name: ecommerce-kauf-fahrradreparatur
-description: "E-Commerce Kauf und Widerruf: erklärt Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "E-Commerce Kauf und Widerruf: erklärt Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Al..."
 ---
 
 # E-Commerce Kauf und Widerruf
@@ -50,4 +50,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

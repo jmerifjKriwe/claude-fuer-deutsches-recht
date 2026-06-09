@@ -89,4 +89,3 @@ Founder Vesting (EN/DE):
 - INVEST-Förderrichtlinie des BMWK (Stand vom Anwender zu prüfen).
 - § 19a EStG (Zukunftsfinanzierungsgesetz, Stand 2024); § 8c, § 8d KStG.
 - Wachstumschancengesetz 2024.
-

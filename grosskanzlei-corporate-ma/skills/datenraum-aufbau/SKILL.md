@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau
-description: "Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial."
+description: "Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstru..."
 ---
 
 # Datenraum-Aufbau
@@ -164,4 +164,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Sensibler Wettbewerber-Datenraum ohne Clean Room: Kartellrechtsverstoss (Art. 7 FKVO)
 - Datenraumzugang ohne NDA: Geschaeftsgeheimnisschutz verletzt (GeschGehG)
 - Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
-

@@ -64,4 +64,3 @@ Erzeuge Fristentabelle, Sofortmaßnahmenplan, Kalendertext und Wiedereinsetzungs
 ## Prompts, die dieser Skill stellen soll
 
 - Zustellart, Datum auf Umschlag, Datum im Schreiben, Bundesland?
-

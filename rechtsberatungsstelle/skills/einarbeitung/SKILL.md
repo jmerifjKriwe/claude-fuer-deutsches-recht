@@ -1,6 +1,6 @@
 ---
 name: einarbeitung
-description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater Einarbeitung starten, ich bin neu in der Klinik, Einführung sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte im Rechtsberatungsstelle."
+description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater..."
 ---
 
 # Einarbeitung: Semestereinarbeitung
@@ -154,4 +154,3 @@ Teil 3, Übung 1: Fiktiver Fall "Frau Erdem — Heizung defekt seit November". H
 Übung 3: `/recherche-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
 
 Teil 4: Verifikationsgewohnheiten besprochen. Abschluss: `/einarbeitung --karte` aufgerufen.
-

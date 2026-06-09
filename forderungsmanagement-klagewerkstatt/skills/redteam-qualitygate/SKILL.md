@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflaechen Schwaechen Beweisluecken und Form-Fehlern. Pinpoints ZPO 138 substantiiertes Bestreiten ZPO 296 Verspaetungspraeklusion ZPO 130d beA-Form. Liefert Checkliste mit Gegen-Angriffs-Punkten."
+description: "Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsantrags. Sucht aus Sicht der Gegenseite nach Angriffsflaechen Schwaechen Beweisluecken und Form-Fehlern. Pinpoints ZPO 138 substantiiertes Bestreiten ZPO 296 Verspaetungspraeklusion ZPO 130d beA-Form. Liefert Checkliste mit Gegen-Angr..."
 ---
 
 # Redteam Qualitygate

@@ -108,4 +108,3 @@ Dieser Skill bearbeitet **Mondvertrag: Ressourcen-Governance und politische Akze
 - US SPACE Act 2015: https://www.congress.gov/bill/114th-congress/house-bill/2262
 - Luxemburger Space Resources Law: https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2017/07-juillet/14-loi-espace.html
 - UNOOSA Ratifikationsstatus: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
-

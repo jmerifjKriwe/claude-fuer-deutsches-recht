@@ -155,6 +155,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Aktenauszug Gerichtsverfahren. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Aktenauszug Gerichtsverfahren. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Aktenauszug Gerichtsverfahren. |
-| `zivilprozess-modus` | Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsverfahren. |
+| `zivilprozess-modus` | Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff: ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

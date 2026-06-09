@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-beschlagnahme-kanzlei-arzt
-description: "Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richterlichen Beschluss, Gefahr im Verzug, Verhältnismäßigkeit und Dokumentation sauber vorbereiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richterlichen Beschluss, Gefahr im Verzug, Verhältnismäßigkeit und Dokumentation sauber vorbereiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltsc..."
 ---
 
 # Durchsuchung und Beschlagnahme
@@ -51,4 +51,3 @@ Konkret zu prüfen:
 - § 97 StPO (Beschlagnahmeverbot)
 - BVerfGE 113, 29 (Kanzleidurchsuchung)
 - Nr. 135 RiStBV
-

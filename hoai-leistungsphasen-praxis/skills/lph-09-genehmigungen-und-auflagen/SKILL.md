@@ -32,4 +32,3 @@ description: "HOAI LPH 9 Objektbetreuung: ordnet öffentlich-rechtliche Auflagen
 - Praktischer Kern: Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung
 - Bewertungsanker Gebäude/Innenräume: 2 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

@@ -1,6 +1,6 @@
 ---
 name: enforcement-award-china
-description: "Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan im Festlandchina Wirtschaftsverkehr."
+description: "Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durch..."
 ---
 
 # Vollstreckung in China: Schiedssprüche und ausländische Urteile
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

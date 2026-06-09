@@ -1,6 +1,6 @@
 ---
 name: crm-daten-und-gemeinsame-verantwortlichkeit
-description: "Fachmodul Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht."
+description: "Fachmodul Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorla..."
 ---
 
 # Franchise: CRM-Daten und gemeinsame Verantwortlichkeit
@@ -46,4 +46,3 @@ Joint-Controller-Matrix mit Betroffenenanfragen, TOMs und Haftungspfaden.
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-

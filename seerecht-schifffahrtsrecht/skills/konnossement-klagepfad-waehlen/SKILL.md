@@ -1,6 +1,6 @@
 ---
 name: konnossement-klagepfad-waehlen
-description: "Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffah..."
 ---
 
 # Konnossement – Klagepfad wählen
@@ -91,4 +91,3 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BGH Zwangsversteigerung Schiff: https://www.bgh.de
-

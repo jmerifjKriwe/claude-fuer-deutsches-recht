@@ -42,4 +42,3 @@ description: "PrALR: Normkarte Polizeirecht ohne Anachronismus im Preußisches A
 1. ALR-Polizeibegriff oder modern?
 2. Welche Aufgabe?
 3. Heute polizeilich oder verwaltungsrechtlich?
-

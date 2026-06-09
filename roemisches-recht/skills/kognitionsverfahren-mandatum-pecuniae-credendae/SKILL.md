@@ -66,4 +66,3 @@ Die cognitio extra ordinem ist das kaiserliche/amtliche Gerichtsverfahren, das s
 - C. 7.62-70; Nov. 82
 - Kaser/Hackl Zivilprozessrecht §§ 80-105
 - Marotta Multa de iure sanxit - kaiserliche Rechtsgebung
-

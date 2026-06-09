@@ -1,6 +1,6 @@
 ---
 name: agb-im-arbeitsvertrag-310-abs-4-vertieft
-description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff. BGB auf vorformulierte Arbeitsvertragsklauseln Sonderregeln für Tarifvertraege und Betriebsvereinbarungen. Behandelt typische problematische Klauseln Versetzungsvorbehalt Verfallklausel Rueckzahlungsklausel für Aus- und Fortbildung. Liefert Pruefraster und Klauselentwurf."
+description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff. BGB auf vorformulierte Arbeitsvertragsklauseln Sonderregeln für Tarifvertraege und Betriebsvereinbarungen. Behandelt typische problematische Klauseln Versetzungsvorbehalt Verf..."
 ---
 
 # Agb Im Arbeitsvertrag 310 Abs 4 Vertieft
@@ -44,4 +44,3 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
 3. § 310 Abs. 4 Satz 2 BGB: arbeitsrechtliche Besonderheit relevant?
 4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB erfuellt?
 5. Konkrete BAG-Linie konsultieren.
-

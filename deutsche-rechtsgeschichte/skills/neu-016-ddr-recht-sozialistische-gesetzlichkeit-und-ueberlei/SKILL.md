@@ -77,4 +77,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Sachenrechtsbereinigungsgesetz 1994 — Bodenreform-Eigentum.
 - Vermoegensrechtliche Streitigkeiten bis heute.
 - DDR-Strafurteile: Rehabilitierungsgesetz 1992.
-

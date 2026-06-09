@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft Antidumping-Risiko bei Stahlimport aus China. Output: Antidumping-Belastungsuebersicht und Erlaeuterungsschreiben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft A..."
 ---
 
 # Antidumping-Ausgleich: TARIC-Massnahmen und Herstellerzuordnung
@@ -99,4 +99,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

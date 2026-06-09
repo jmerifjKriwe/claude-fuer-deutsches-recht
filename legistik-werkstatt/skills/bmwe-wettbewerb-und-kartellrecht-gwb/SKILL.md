@@ -1,6 +1,6 @@
 ---
 name: bmwe-wettbewerb-und-kartellrecht-gwb
-description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung)."
+description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Ac..."
 ---
 
 # Wettbewerbsrecht und Kartellrecht (GWB) (BMWE)
@@ -93,4 +93,3 @@ Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur) im Mittelstand Corporate Ma."
+description: "Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigra..."
 ---
 
 # Deal-Team und Staffing
@@ -171,4 +171,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
 - Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß
-

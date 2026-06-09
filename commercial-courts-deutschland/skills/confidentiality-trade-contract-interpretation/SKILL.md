@@ -78,4 +78,3 @@ Punkt 3 ist häufiger Streitpunkt: ohne dokumentierte Schutzmaßnahmen kein Gesc
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

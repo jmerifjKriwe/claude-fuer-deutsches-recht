@@ -1,6 +1,6 @@
 ---
 name: quellenkarte
-description: "Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-Recht und Praxis-Literatur. Pinpoints ZPO BGB GVG GKG RVG InsO und EU-Verordnungen Brüssel Ia EuMVVO EuVTVO EuGFVO. Liefert Linkliste auf gesetze-im-internet.de bundesgerichtshof.de eur-lex.europa.eu."
+description: "Kuratierte Quellenkarte für Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-Recht und Praxis-Literatur. Pinpoints ZPO BGB GVG GKG RVG InsO und EU-Verordnungen Brüssel Ia EuMVVO EuVTVO EuGFVO. Liefert Linkliste auf gesetze-im-internet.de bundesgerichtshof..."
 ---
 
 # Quellenkarte

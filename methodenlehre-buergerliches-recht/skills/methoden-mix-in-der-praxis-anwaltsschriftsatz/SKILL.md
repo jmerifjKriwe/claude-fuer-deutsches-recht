@@ -1,6 +1,6 @@
 ---
 name: methoden-mix-in-der-praxis-anwaltsschriftsatz
-description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins."
+description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene..."
 ---
 
 # Methoden-Mix in der Praxis (Anwaltsschriftsatz)
@@ -160,4 +160,3 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - §§ 133, 138, 157, 242, 280, 311, 433, 437, 823, 826, 985, 1004, 1626 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

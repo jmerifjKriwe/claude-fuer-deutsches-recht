@@ -1,6 +1,6 @@
 ---
 name: rare-earths-and-critical-raw-materials
-description: "Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan im Festlandchina Wirtschaftsverkehr."
+description: "Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertraglich..."
 ---
 
 # Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

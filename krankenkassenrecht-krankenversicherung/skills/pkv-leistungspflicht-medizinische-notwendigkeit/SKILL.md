@@ -86,4 +86,3 @@ In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Hei
 - [GOÄ – Ärztliche Gebührenordnung](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/GOAe_20130901.pdf)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [PKV-Verband Leistungspflicht](https://www.pkv.de)
-

@@ -28,4 +28,3 @@ TKG Kundenschutz; BGB Leistungsstörung; ZPO Beweis; BNetzA-Breitbandmessungsvor
 
 - tk-stoerung-minderung-ausfallentschaedigung
 - tk-sla-business-kunden-ausfall
-

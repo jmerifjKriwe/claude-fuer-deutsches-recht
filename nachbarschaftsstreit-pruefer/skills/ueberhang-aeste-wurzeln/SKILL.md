@@ -46,4 +46,3 @@ Ein Schreiben soll enthalten:
 ## Warnung
 
 Selbsthilfe ist kein Freibrief. Unzulässiger Rückschnitt kann Schadensersatz, Besitzschutz, Naturschutz- oder Baumschutzprobleme auslösen.
-

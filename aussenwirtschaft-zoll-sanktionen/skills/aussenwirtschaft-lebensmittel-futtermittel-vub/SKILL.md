@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lebensmittel-futtermittel-vub
-description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Ei..."
 ---
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [RASFF-Datenbank EU-Kommission](https://webgate.ec.europa.eu/rasff-window/screen/search)
 - [Zoll.de Lebensmittel](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Lebensmittel-Futtermittel/lebensmittel-futtermittel_node.html)
 - [BVL Lebensmitteleinfuhr](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucherinnen_und_Verbraucher/lebensmittel_node.html)
-

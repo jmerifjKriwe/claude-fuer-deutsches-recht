@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-outsourcing
-description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfa..."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
@@ -51,4 +51,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schnelle Freigabe vs. berufsrechtliche Absicherung: bei knapper Zeit konservativ "vorläufig nicht freigeben" und parallel Detailprüfung, statt überstürzte Freigabe mit späterem Rückruf. § 203 StGB und § 43e BRAO sind strict liability — Vorsatz ist nicht erforderlich.
-

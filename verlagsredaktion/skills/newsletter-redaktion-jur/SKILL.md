@@ -159,4 +159,3 @@ Vertiefend im Verlag: [Buchempfehlung mit ISBN]
 - TDDDG / TTDSG § 25 - Einwilligung für Tracking.
 - MStV § 18 - journalistische Sorgfalt.
 - BGH 10.02.2011 - I ZR 164/09 - Double opt-in (Volltext unter bundesgerichtshof.de und dejure.org).
-

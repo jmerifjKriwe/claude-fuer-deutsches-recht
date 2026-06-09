@@ -32,4 +32,3 @@ Rechtsvergleich USA
 - Wichtigster Unterschied zu Art. 5 GG:
 - Strategischer Nutzen:
 ```
-

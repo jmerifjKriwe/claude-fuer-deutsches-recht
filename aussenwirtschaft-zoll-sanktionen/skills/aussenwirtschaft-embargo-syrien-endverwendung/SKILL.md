@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-syrien-endverwendung
-description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach Syrien. Output: Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach S..."
 ---
 
 # Embargo Syrien: Sanktionsregime und Post-Assad-Lockerungen
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU Sanctions Map Syrien](https://www.sanctionsmap.eu/#/main/details/41)
 - [BAFA Syrien-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

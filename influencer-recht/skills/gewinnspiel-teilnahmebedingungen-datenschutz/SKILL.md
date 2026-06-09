@@ -77,4 +77,3 @@ Gewinnspiele sind ein rechtlich komplexes Feld mit mehreren Schutzregimen:
 - DSGVO-Datenschutztext für Gewinnspiel
 - Plattform-Compliance-Checkliste
 - Gewinnübergabe-Protokoll
-

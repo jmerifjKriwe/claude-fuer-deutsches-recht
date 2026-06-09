@@ -1,6 +1,6 @@
 ---
 name: lph-08-mandantenbericht
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphase..."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
@@ -32,4 +32,3 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 - Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
 - Bewertungsanker Gebäude/Innenräume: 32 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

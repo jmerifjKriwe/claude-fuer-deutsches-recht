@@ -1,6 +1,6 @@
 ---
 name: humor-coach-interpretation-precedent-common
-description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton) im Common Law Kompass."
+description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung..."
 ---
 
 # Low-Key Late-Night Coach
@@ -84,4 +84,3 @@ Deutsche Entsprechung:
 
 Einsatz-Empfehlung: [Beginn Praesentation / Auflockerung Schriftsatz-Review]
 ```
-

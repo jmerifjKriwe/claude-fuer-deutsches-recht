@@ -1,6 +1,6 @@
 ---
 name: machinery-import-and-factory-equipment
-description: "Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen im Festlandchina Wirtschaftsverkehr."
+description: "Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Ch..."
 ---
 
 # Maschinenbau-Import China: CE, Dual-Use und Lieferkette
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

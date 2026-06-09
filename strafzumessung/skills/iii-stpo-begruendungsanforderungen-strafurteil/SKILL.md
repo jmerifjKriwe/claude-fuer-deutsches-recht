@@ -1,6 +1,6 @@
 ---
 name: iii-stpo-begruendungsanforderungen-strafurteil
-description: "Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld im Strafzumessung."
+description: "Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsve..."
 ---
 
 # Begruendung der Strafzumessung im Urteil — § 267 Abs. 3 StPO
@@ -166,4 +166,3 @@ III. Strafzumessung
 - §§ 257c, 273 Abs. 1a, 337 StPO.
 - Art. 6 EMRK.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

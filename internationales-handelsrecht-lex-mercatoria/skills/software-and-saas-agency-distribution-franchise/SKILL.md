@@ -48,4 +48,3 @@ Software-as-a-Service (SaaS) und Softwarelizenzen haben grenzüberschreitend spe
 - Escrow: Drei-Parteien-Escrow-Vertrag (Anbieter, Nutzer, Escrow-Agent)
 - Data Act Compliance: Export-API und Portabilitäts-Dokumentation in SaaS integrieren
 - EAR-Kryptographie: BIS-Notifizierung für Mass-Market-Software (740.17 EAR)
-

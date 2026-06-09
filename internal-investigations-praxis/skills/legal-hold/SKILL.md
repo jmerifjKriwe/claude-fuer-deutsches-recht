@@ -81,4 +81,3 @@ Dieser Skill stellt sicher, dass relevante Daten und Dokumente ab dem Moment des
 - **IT-Anweisungsliste** für Systemadministratoren
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

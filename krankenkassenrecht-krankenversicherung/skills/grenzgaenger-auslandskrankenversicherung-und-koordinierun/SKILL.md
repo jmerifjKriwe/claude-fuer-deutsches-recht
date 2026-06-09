@@ -90,4 +90,3 @@ Dieser Skill bearbeitet **komplexe grenzüberschreitende Krankenversicherungssit
 - [Europäische Kommission Koordinierung](https://ec.europa.eu/social/main.jsp?catId=849)
 - [Deutsche Verbindungsstelle Krankenversicherung – Ausland (DVKA)](https://www.dvka.de)
 - [dejure.org SGB IV § 4](https://dejure.org/gesetze/SGB_IV/4.html)
-

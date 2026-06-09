@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit-begleitet
-description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung) im Wandeldarlehen Lebenszyklus."
+description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzu..."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung
@@ -110,4 +110,3 @@ Stand: 05/2026.
 - § 272 II Nr. 4 HGB (Kapitalruecklage): https://www.gesetze-im-internet.de/hgb/__272.html
 - IDW S 1 / IDW RS HFA 42 (Werthaltigkeit von Forderungen): https://www.idw.de/idw/idw-verlautbarungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

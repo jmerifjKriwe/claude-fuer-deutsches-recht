@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für B2C B2B B2B2C Rollencheck: sort
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

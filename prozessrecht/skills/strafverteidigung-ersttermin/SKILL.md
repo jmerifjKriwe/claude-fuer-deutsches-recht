@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-ersttermin
-description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht) im Prozessrecht."
+description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilr..."
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte
@@ -179,4 +179,3 @@ Beweisverwertungsverboten ist nach `references/zitierweise.md` zu belegen. BVerf
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kommentare mit Bearbeiter, Werk, Aufl. bzw. Ed. (Stand), §, Rn. Mindermeinungen bei
 umstrittenen Heilungsfällen § 136 StPO ausdrücklich benennen.
-

@@ -62,4 +62,3 @@ description: "Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergab
 - kaufrecht-nacherfuellung-ruecktritt-minderung
 - kaufrecht-beweislast-verjaehrung-digitale-elemente
 - verbrauchsgueterkauf-digitales
-

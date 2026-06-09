@@ -104,4 +104,3 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
-

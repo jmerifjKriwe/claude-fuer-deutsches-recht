@@ -11,15 +11,15 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Gewerblicher Rechtsschutz** t
 
 ## Suchraster
 
-- `abmahnung-bezuege-designg`
-- `fa-gewerblicher-rs-gr-abmahnung-portfolio`
+- `abmahnung-formular-portal-und-einreichung`
+- `einstieg-schnelltriage-fallrouting`
 - `designverletzung-marken-widerspruch-markenanmeldung`
-- `dpma-interessen-einstweilige-euipo`
+- `dpma-mehrparteien-konflikt-und-interessen`
 - `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`
-- `fachanwalt-fao-gebrmg`
+- `erstpruefung-und-mandatsziel`
 - `faevvollzug-gegnerische-faevvollzug-grenzueberschreitende`
 - `faevvollzug-parteibetrieb-gerichtsvollzieher-bea-elektronischer`
-- `gewerblichen-markenanmeldung-markeng`
+- `gewerblichen-tatbestand-beweis-und-belege`
 - `gewrechts-geschgehg-gewrechts-ki-faevvollzug-ev`
 - `gr-einfuehrung-gr-mitbewerberabmahnung-gr-uebersetzung`
 - `influencer-marketing-ki-trainingsdaten-schriftsatzkern`

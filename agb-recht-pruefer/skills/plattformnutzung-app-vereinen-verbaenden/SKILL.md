@@ -1,6 +1,6 @@
 ---
 name: plattformnutzung-app-vereinen-verbaenden
-description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster im AGB-Recht."
+description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefrast..."
 ---
 
 # Agb Bei Plattformnutzung App Stores
@@ -55,4 +55,3 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 2. Gatekeeper-Status?
 3. AGB-Klausel in Konflikt mit P2B/DMA?
 4. § 307 BGB Generalklausel anwendbar?
-

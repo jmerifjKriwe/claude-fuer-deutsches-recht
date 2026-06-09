@@ -1,6 +1,6 @@
 ---
 name: verkehrsplanung-verkehrswende
-description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende im Verkehr Infrastrukturrecht."
+description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster:..."
 ---
 
 # Verkehrsplanung und Projektstrategie
@@ -123,4 +123,3 @@ Wir beantragen:
 - Abwaegungsgebot (§ 1 VII BauGB, § 74 VwVfG) muss alle Belange erfassen
 - Keine Trassenfestlegung ohne Variantenvergleich
 - Naturschutzrechtliche Eingriffsregelung (§§ 14 ff. BNatSchG) beachten
-

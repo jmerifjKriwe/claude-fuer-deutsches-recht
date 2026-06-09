@@ -1,6 +1,6 @@
 ---
 name: europarecht-mandantenmemo-quality-gate
-description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills im Europarecht Kompass."
+description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte...."
 ---
 
 # Europarecht-Kommandocenter
@@ -76,4 +76,3 @@ Datum: [DATUM] — Mandant: [NAME]
 5. Rechtsmittel: [Klage / Vorlageanregung / Beschwerde Kommission / Staatshaftung]
 6. Naechste Schritte: [...]
 ```
-

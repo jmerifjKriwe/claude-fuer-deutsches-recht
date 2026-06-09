@@ -52,4 +52,3 @@ Bei Insolvenz des ausländischen Käufers stellen sich Fragen zur anzuwendenden 
 ## Quellenregel
 
 EuInsVO (EU) 2015/848: eur-lex.europa.eu. InsO §§ 343 ff.: gesetze-im-internet.de. UNCITRAL Model Law: uncitral.un.org. CISG Art. 71-72: uncitral.un.org. Unsicherheit bleibt sichtbar.
-

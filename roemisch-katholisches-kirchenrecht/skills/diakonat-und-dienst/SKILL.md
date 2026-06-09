@@ -1,6 +1,6 @@
 ---
 name: diakonat-und-dienst
-description: "Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rec..."
 ---
 
 # Diakonat und Dienst
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

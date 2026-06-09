@@ -36,4 +36,3 @@ Nicht als Garantie, aber als Verteidigungslinie:
 - Toolinventar und Schulung
 - menschliche Endkontrolle
 - Incident-Plan
-

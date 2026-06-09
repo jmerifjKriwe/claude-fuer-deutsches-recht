@@ -131,4 +131,3 @@ Literaturagenturen sind in der deutschsprachigen Verlagsbranche wichtige Mittler
 - **Treuhandkonto-Klausel**: Muster für Agenturvertrag
 - **Vollmachts-Vorlage**: Für spezifische Vertragsabschlüsse
 - **HGB-Status-Check**: Handelsvertreter oder Auftragnehmer?
-

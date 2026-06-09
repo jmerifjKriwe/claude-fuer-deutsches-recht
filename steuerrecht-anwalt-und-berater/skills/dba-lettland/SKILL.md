@@ -147,4 +147,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lett
 Stand: 05/2026. DBA-Lettland 21.02.1997, BGBl. 1997 II S. 1382, in Kraft 24.12.1997. Dividenden max. 15%, Zinsen max. 10% (gem. BZST-Tabelle 2025). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: BGBl. 1997 II S. 1382 bestaetigt (BMF-Webseite); Quellensteuer 15%/10% bestaetigt (BZST-Tabelle 2025); MLI allgemein gefasst (kein gesicherter Nachweis als gedecktes Abkommen); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Quellen-Marker gestrichen -->
-

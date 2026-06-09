@@ -119,4 +119,3 @@ Stand: 05/2026.
 - Hinweis: E-Bilanz-Taxonomie jaehrlich anpassen; Version 6.9 für WJ 2026 massgeblich (esteuer.de).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 bestaetigt (§ 7g 40% stabil, IAB 50% stabil, E-Bilanz Taxonomie 6.9 recherchiert) -->
-

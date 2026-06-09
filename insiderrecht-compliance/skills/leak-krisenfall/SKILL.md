@@ -69,4 +69,3 @@ Sofortmaßnahme: Compliance-Officer, CFO und General Counsel unverzüglich infor
 - Insiderliste: Wer hatte Zugang zur Information?
 - Befragung der Wissensträger (durch externe Kanzlei, um Vertraulichkeit zu wahren)
 - Ergebnis der Untersuchung dokumentieren
-

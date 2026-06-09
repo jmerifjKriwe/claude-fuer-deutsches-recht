@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Klausel Checkliste Self Service: mac
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

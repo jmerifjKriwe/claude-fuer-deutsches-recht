@@ -1,6 +1,6 @@
 ---
 name: produktdaten-pim-datenkatalog-hersteller
-description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken im Datenbankrecht."
+description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei..."
 ---
 
 # Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §�
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

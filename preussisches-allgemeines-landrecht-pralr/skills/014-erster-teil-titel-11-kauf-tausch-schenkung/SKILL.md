@@ -45,4 +45,3 @@ Pferd nach Kauf lahmt; Mangel vor Kauf bestand.
 1. Vertragstyp?
 2. Mangel?
 3. Frist?
-

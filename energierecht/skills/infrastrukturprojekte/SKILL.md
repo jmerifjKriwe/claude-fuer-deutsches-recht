@@ -1,6 +1,6 @@
 ---
 name: infrastrukturprojekte
-description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung. Normen: §§ 43 ff. EnWG, NABEG, BImSchG, BauGB. Prüfraster: Genehmigungsverfahren, Einwendungen, Planfeststellungsbeschluss, Enteignungsrecht. Output: Genehmigungsverfahrens-Roadmap Energieinfrastruktur. Abgrenzung: nicht Netz- oder Speicherzulassung im Energierecht."
+description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung. Normen: §§ 43 ff. EnWG, NABEG, BImSchG, BauGB. Prüfraster: Genehmigungsverfahren, Einwendungen, Planfeststellungsbeschluss, Enteignungsrecht. Output: Genehmigungsverfahrens-Roadmap Energieinfras..."
 ---
 
 # Infrastrukturprojekte und Planfeststellung
@@ -273,4 +273,3 @@ description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmig
 - BNetzA-Genehmigungs-Beschlüsse
 - BSH-Beschlüsse Offshore
 - RED III delegierter Akt
-

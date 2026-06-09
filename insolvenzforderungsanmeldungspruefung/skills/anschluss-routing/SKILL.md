@@ -19,7 +19,7 @@ Dieses Anschluss-Routing für **Insolvenzforderungsanmeldungspruefung** wählt n
 - `dubletten-serienforderungen` — Dubletten Serienforderungen
 - `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
 - `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
-- `forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
 - `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
 - `formalpruefung-174` — Formalpruefung 174
 - `grund-betrag-zinsen` — Grund Betrag Zinsen
@@ -54,4 +54,3 @@ Dieses Anschluss-Routing für **Insolvenzforderungsanmeldungspruefung** wählt n
 - BGH IX ZR 114/23
 - BGH IX ZR 127/24
 - BGH IX ZR 239/22
-

@@ -70,4 +70,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welcher Buergerstatus?
 2. Welche Rechte?
 3. Welches Verfahren?
-

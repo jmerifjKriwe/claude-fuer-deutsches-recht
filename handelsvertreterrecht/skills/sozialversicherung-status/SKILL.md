@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-status
-description: "Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI im Handelsvertreterrecht."
+description: "Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherung..."
 ---
 
 # Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 2 SGB VI auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_6/__2.html)
 - [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
 - [Dejure § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)
-

@@ -36,4 +36,3 @@ description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit
 ## Warnung
 
 Nicht jede KI-Nähe ist Markenverletzung. Entscheidend bleibt konkrete kennzeichenmäßige Ausnutzung oder Irreführung.
-

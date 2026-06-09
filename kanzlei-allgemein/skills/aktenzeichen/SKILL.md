@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen
-description: "Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht § 253 Abs. 2 Nr. 1 ZPO § 130a ZPO. Prüfraster Typen (eigenes gerichtliches behoerdliches gegnerisches) Normalisierung Varianten Kollisionen Kontext. Output Verknuepfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rückfragen bei Unsicherheit. Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake im Kanzlei Allgemein."
+description: "Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht § 253 Abs. 2 Nr. 1 ZPO § 130a ZPO. Prüfraster Typen (eigenes gerichtliches behoerdl..."
 ---
 
 # Aktenzeichen und Verknüpfungen
@@ -65,4 +65,3 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 ## Sicherheitsregel
 
 Wenn zwei Akten plausibel sind, nicht automatisch ablegen. Immer nachfragen.
-

@@ -1,6 +1,6 @@
 ---
 name: aktenintake-zivil
-description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Prüfliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailprüfung Zulässigkeit siehe zulässigkeit-prüfen; Relationserstattung siehe relation-zivil."
+description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag..."
 ---
 
 # Aktenintake Zivilprozess
@@ -174,4 +174,3 @@ Als Berichterstatter:
 - BGH VII ZR 213/10
 - BGH VI ZR 39/20
 - BGH VI ZR 40/20
-

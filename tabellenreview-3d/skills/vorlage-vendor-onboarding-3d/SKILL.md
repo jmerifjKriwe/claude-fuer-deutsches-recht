@@ -97,4 +97,3 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 ## Ausgabe
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
-

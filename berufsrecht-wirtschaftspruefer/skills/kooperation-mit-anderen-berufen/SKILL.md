@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-anderen-berufen
-description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Kooperation mit anderen Berufen im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Kooperation mit anderen Berufen im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspr..."
 ---
 
 # Kooperation mit anderen Berufen
@@ -33,4 +33,3 @@ description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill fü
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

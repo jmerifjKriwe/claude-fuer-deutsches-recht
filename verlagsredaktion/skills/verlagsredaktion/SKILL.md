@@ -40,4 +40,3 @@ description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Ma
 - `[LUECKE]` muss ergänzt werden.
 - `[RECHTE]` Nutzung noch nicht geklärt.
 - `[QUELLE]` Fundstelle noch zu prüfen.
-

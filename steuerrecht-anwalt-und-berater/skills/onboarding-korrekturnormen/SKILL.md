@@ -1,6 +1,6 @@
 ---
 name: onboarding-korrekturnormen
-description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen."
+description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder..."
 ---
 
 # Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick
@@ -45,4 +45,3 @@ description: "Systematischer Vergleich der Korrekturnormen — wann ist welche V
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

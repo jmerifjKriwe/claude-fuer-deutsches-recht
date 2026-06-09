@@ -1,6 +1,6 @@
 ---
 name: incoterms-exportkontrolle-internal
-description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung für Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung für Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Ver..."
 ---
 
 # Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [BAFA Ausfuhrkontrolle allgemein](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
-

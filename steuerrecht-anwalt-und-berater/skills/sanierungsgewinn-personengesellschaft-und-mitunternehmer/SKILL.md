@@ -169,4 +169,3 @@ A trägt allein:
 - § 180 Abs. 1 Nr. 2 AO.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

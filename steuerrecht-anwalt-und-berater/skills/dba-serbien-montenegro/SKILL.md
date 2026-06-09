@@ -154,4 +154,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Jugo
 Stand: 05/2026. DBA-Jugoslawien 26.03.1987, BGBl. 1988 II S. 744, in Kraft 01.01.1989. Fortgeltung für Serbien: BGBl. 1997 II S. 961; für Montenegro: BGBl. 2011 II S. 745. Dividenden (Art. 11) 15%, Zinsen (Art. 12) 0%, Lizenzen (Art. 13) 10%. MLI: nicht anwendbar (keine Unterzeichner).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1988 II S. 744 bestaetigt (BMF-DBA-Stand 01.01.2026, NWB); Notenwechsel Serbien BGBl. 1997 II S. 961 und Montenegro BGBl. 2011 II S. 745 bestaetigt (BMF); BFH I R 81/13 gestrichen (Urteil betrifft anderes DBA); BMF Nachfolge allgemein gefasst; Quellensteuer Art. 11/12/13 bestaetigt (doppelbesteuerung.eu); MLI-Ausschluss bestaetigt (BMF-DBA-Stand) -->
-

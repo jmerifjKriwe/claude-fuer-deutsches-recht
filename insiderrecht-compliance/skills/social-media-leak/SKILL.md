@@ -80,4 +80,3 @@ Unternehmensinformationen zu posten. Verstöße können arbeitsrechtliche Konseq
 Weitere Quellen:
 - Art. 17 Abs. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-

@@ -86,4 +86,3 @@ Standard-Kaufvertrag sieht vor: Kaufpreis fällig nach Vorliegen der normalen Vo
 - **Mandantenmail** (Altlasten/Mietrisiken erläutern)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

@@ -1,6 +1,6 @@
 ---
 name: dark-patterns-internes-beschwerdesystem
-description: "Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen im Dsa Dma Digitalregulierung."
+description: "Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für Plattformen mit konkreten Aenderungsvorschlaegen im Dsa Dma..."
 ---
 
 # DSA: Dark Patterns Audit
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

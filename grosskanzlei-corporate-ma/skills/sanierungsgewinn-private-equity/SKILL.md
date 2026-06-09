@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-private-equity
-description: "Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von § 8c KStG auf die Verlustvorträge nach Investoren-Einstieg. Liefert Strukturraster, MEP-Klauseln und SPA-Mustertexte. Adressat ist das PE-Team der Großkanzlei. Quellen Stand 06/2026."
+description: "Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von § 8c KStG auf..."
 ---
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung
@@ -127,4 +127,3 @@ Drei Beobachtungen aus dem Distressed-PE:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - BFH zur Managementbeteiligung (Abgrenzung § 17 / § 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
-

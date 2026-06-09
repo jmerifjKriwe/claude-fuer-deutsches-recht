@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Rügeobliegenheit: prüft, redlined und ent
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

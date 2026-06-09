@@ -102,4 +102,3 @@ description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (An
 - Indien: Digital Personal Data Protection Act 2023; IT Act 2000 § 69.
 - Brasilien: LGPD Lei nº 13.709/2018; ANPD-Regelungen.
 - EDPB Empfehlung 01/2020 Final 18.06.2021.
-

@@ -45,4 +45,3 @@ description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rec
 5. Orderprozess und App-Oberfläche identisch mit Klausellogik?
 6. Haftungsbegrenzung bei Systemausfall, Marktdatenfehler oder Handelsstopp wirksam?
 7. Produktfreigabe/Zielmarkt für komplexe Produkte dokumentiert?
-

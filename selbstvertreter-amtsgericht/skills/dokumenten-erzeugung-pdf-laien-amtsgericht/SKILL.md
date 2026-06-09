@@ -142,4 +142,3 @@ Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hi
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
-

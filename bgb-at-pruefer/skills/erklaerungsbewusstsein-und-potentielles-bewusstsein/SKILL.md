@@ -85,4 +85,3 @@ nach § 122 BGB, wenn er anficht.
 - Potentielles Bewusstsein: Hätte Erklärende bei Sorgfalt erkennen können?
 - Rechtsfolge: Willenserklärung wirksam — Anfechtung nach § 119 Abs. 1 BGB möglich?
 - § 122 BGB-Haftung bei Anfechtung wegen fehlendem Erklärungsbewusstsein?
-

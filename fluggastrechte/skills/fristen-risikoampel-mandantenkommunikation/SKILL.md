@@ -37,4 +37,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Schlichtung söp e. V. (Schlichtungsstelle für den öffentlichen Personenverkehr) bzw. BAF-Schlichtung vs. Direktklage: Schlichtung kostenlos für Verbraucher, hemmt Verjährung nach § 204 BGB, aber Airline kann Teilnahme ablehnen.
 - Klage AG Erfüllungsort Abflug/Ankunft (Art. 7 Nr. 1 lit. b EuGVVO; EuGH C-204/08 Rehder): wahlweise Gerichtsstand am Abflug- oder Ankunftsflughafen.
-

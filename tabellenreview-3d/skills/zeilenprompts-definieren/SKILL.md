@@ -1,9 +1,10 @@
 ---
 name: zeilenprompts-definieren
-description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenreview 3d."
+description: "Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren: Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Outp..."
 ---
 
-# Zeilenprompts Definieren
+# Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren
+
 
 ## Arbeitsweg
 
@@ -12,10 +13,6 @@ description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenre
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachliche Module
-
-## 1. `zeilenprompts-definieren`
 
 **Fokus:** Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren. Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Output: Zeilenprompts-Dokument. Abgrenzung: nicht Spaltenprompts.
 
@@ -90,4 +87,3 @@ Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinwe
 <!-- AUDIT 27.05.2026 -->
 - Geprüft: 27.05.2026 (Halluzinations-Reparatur, Task 234)
 - Frontmatter unveraendert. Keine Komma-Zahlen eingefuehrt. Kein Kyrillisch vorhanden.
-

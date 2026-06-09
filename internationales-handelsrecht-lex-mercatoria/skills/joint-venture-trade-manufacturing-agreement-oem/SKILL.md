@@ -48,4 +48,3 @@ Joint Ventures (JV) im internationalen Handel dienen Markteintritt, Technologiet
 - Fusionskontrolle: Vollfunktions-Test vor Gründung; EU-Umsatzschwellen prüfen
 - Governance: Deadlock-Klausel aushandeln; Mehrheits- vs. Einstimmigkeits-Entscheidungen
 - IP: Background IP vs. Foreground IP — klare Eigentumsverteilung in JV-Vertrag
-

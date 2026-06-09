@@ -1,6 +1,6 @@
 ---
 name: sekretariats-tagesbrief
-description: "Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behördentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat im Kanzlei Allgemein."
+description: "Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behördentermine Wiedervorlagen G..."
 ---
 
 # Sekretariats-Tagesbrief
@@ -139,4 +139,3 @@ Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
 - `tagesbrief-<datum>.md` und PDF.
 - Einträge für Erinnerungen im Kalendersystem.
 - Tagesbrief-Archiv unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/tagesbriefe/`.
-

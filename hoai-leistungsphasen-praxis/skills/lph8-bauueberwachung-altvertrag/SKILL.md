@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-altvertrag
-description: "Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 für kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 für kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrol..."
 ---
 
 # Bauueberwachung Windpark Fundament und Turmschaft
@@ -87,4 +87,3 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 - [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
 - [BGB § 634 Maengelansprueche Werkvertrag](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [DIN EN 1997-1 Geotechnik Eurocode 7](https://www.gesetze-im-internet.de/vob/)
-

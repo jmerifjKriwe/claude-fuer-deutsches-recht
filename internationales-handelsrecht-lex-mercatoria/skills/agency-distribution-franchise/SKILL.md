@@ -73,4 +73,3 @@ Handelsvertreter (HV), Alleinvertriebshändler und Franchisegeber haben untersch
 - BGH VIII ZR 274/98
 - BGH VIII ZR 304/00
 - EuGH C-311/18
-

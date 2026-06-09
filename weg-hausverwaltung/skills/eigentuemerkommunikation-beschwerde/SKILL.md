@@ -1,6 +1,6 @@
 ---
 name: eigentuemerkommunikation-beschwerde
-description: "Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentümer)."
+description: "Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentüm..."
 ---
 
 # Eigentümerkommunikation und Beschwerden
@@ -78,4 +78,3 @@ Antworten, die freundlich, verbindlich und beweissicher sind, ohne falsche Recht
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtliche Aussagen nur mit offen prüfbarer Quelle und Stand-Hinweis.
-

@@ -1,6 +1,6 @@
 ---
 name: gesellschaften-tatbestand-beweis-und-belege
-description: "Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaft..."
 ---
 
 # Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -39,4 +39,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Beweisfragen:** Wer trägt was vor? Bei GbR-Streit: Gesellschaftsvertrag (schriftlich oder konkludent), Beitragsleistung, gemeinsamer Zweck, Gewinnverteilung, Auftreten nach außen. Bei Personenhandelsgesellschaft zusätzlich Handelsregister-Eintragung (deklaratorisch außer KG-Kommanditist konstitutiv § 162 HGB).
 4. **Belegmatrix erstellen:** Gesellschaftsvertrag, Anmeldung Register, Notarurkunde, Bankunterlagen Kapitalkonto, Geschäftsführerbestellung, wirtschaftlich Berechtigte Transparenzregister, IHK/HwK-Mitteilungen, Finanzamt-Anmeldung, Mietverträge Geschäftsräume, Versicherungsnachweise.
 5. **Anschluss:** Bei Lücken Aufforderung zur Nachreichung; bei Streit über konkludente Gesellschaft Stufenklage § 254 ZPO (Auskunft + Rechnungslegung + Zahlung).
-

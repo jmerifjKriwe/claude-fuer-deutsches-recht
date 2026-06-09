@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vergleich-mit-finanzamt-und-stundung
-description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag im Insolvenzrecht."
+description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermo..."
 ---
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung
@@ -172,4 +172,3 @@ Wir schlagen vor, die Werthaltigkeit einvernehmlich auf [Y %] festzulegen.
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

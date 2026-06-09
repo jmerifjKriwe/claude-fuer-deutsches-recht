@@ -46,4 +46,3 @@ Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen
 - Thibaut und Savigny 1814: Erstausgaben (Heidelberg)
 - BGB-Materialien: Mugdan Bd. I zum Einfluss des CC
 - Rheinisches Recht: Sekundaerliteratur Hattenhauer, Europaeische Rechtsgeschichte (1999)
-

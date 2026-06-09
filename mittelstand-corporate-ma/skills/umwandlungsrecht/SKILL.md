@@ -195,4 +195,3 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 
 - assets/templates/umwandlungsrecht-checkliste.md
 - assets/templates/verschmelzung-spaltung-formwechsel-plan.md
-

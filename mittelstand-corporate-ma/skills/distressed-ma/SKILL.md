@@ -210,4 +210,3 @@ OFFENE PUNKTE: [TODO Owner Datum]
 - assets/templates/distressed-ma-liquiditaetsampel.md
 - assets/templates/insolvenzplan-ma-checklist.md
 - assets/templates/cash-bridge-13-wochen.md
-

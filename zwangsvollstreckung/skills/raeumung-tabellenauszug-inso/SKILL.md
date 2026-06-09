@@ -1,6 +1,6 @@
 ---
 name: raeumung-tabellenauszug-inso
-description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar) im Zwangsvollstreckung."
+description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftra..."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO
@@ -98,4 +98,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals Härtefall ignorieren (§ 765a ZPO Antrag möglich).
 - Bei minderjährigen Kindern: Jugendamt-Beteiligung mitdenken.
 - Schlüsseldienst, Vorschuss, Versicherung der Habe sicherstellen.
-

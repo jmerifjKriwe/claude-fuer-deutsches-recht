@@ -84,4 +84,3 @@ Dieser Skill strukturiert die Überprüfung von Drittparteien auf Korruptionsris
 - **Kündigungsschreiben** bei Compliance-Verstoß (Muster)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

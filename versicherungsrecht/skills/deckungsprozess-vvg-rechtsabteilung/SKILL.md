@@ -28,4 +28,3 @@ VVG §§ 1, 14, 215; ZPO §§ 253, 256, 29; BGB; spartenspezifische Normen/AVB.
 
 - vers-deckungsablehnung-redteam
 - sachverstaendigenverfahren-versicherung
-

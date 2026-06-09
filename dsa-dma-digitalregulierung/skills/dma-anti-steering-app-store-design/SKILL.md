@@ -1,6 +1,6 @@
 ---
 name: dma-anti-steering-app-store-design
-description: "Anti-Steering Pflichten Art. 5 Abs. 4 DMA für App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste für Gatekeeper und Entwicklerschriftsatz bei Verstoss im Dsa Dma Digitalregulierung."
+description: "Anti-Steering Pflichten Art. 5 Abs. 4 DMA für App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste für Gatekeep..."
 ---
 
 # DMA: Anti-Steering App-Store
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

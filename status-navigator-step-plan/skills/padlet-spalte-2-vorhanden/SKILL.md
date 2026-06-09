@@ -58,4 +58,3 @@ LausitzStorage-Akte, Spalte 2 enthaelt 16 Karten:
 Spalte 2 ist Lieferquelle fuer die Querkommunikation zwischen Padlet-Karten
 und Excel-Reitern. Wer hier sauber Type-Tags vergibt, kann spaeter
 filtern (zum Beispiel `nur Beschluesse anzeigen`).
-

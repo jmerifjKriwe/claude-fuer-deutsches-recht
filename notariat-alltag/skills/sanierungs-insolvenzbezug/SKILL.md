@@ -104,4 +104,3 @@ In größeren Insolvenzverfahren kann ein Gläubigerausschuss (§ 68 InsO) oder 
 - Zustimmung Gläubigerausschuss nach § 160 InsO prüfen
 - Insolvenzvermerk Abt. II des Grundbuchs verifizieren
 - Vollzugssperre beachten: keine Eintragung ohne Freigabe durch Verwalter
-

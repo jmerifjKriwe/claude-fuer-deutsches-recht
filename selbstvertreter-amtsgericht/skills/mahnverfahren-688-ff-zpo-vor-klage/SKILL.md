@@ -109,4 +109,3 @@ Wenn Sie wissen, dass der Schuldner widersprechen wird (z. B. weil er die Forder
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 688 ff. ZPO unveraendert. Online-Mahnantrag-Portal stabil. Vorschuss-Hoehen ueber GKG-Tabelle.
-

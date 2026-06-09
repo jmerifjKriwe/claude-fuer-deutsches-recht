@@ -1,6 +1,6 @@
 ---
 name: lph-08-outputpaket
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Lei..."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Liefert alle dokumente
@@ -32,4 +32,3 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 - Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
 - Bewertungsanker Gebäude/Innenräume: 32 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

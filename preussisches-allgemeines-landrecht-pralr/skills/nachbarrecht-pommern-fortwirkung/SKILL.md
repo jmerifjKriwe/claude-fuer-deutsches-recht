@@ -48,4 +48,3 @@ ALR-Loesung: ALR I 23 §§ 35-50 — Beurteilung nach Ortsueblichkeit; bei "uebe
 - § 912 BGB Ueberbau.
 - § 917 BGB Notweg.
 - Landesnachbarrechtsgesetze (NachbG NRW, Bdb, MV, ST).
-

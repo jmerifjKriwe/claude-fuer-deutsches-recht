@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreig
 3. Ursache bestimmen: Bauherrnänderung, Fachplanung, Markt, Auflage, Planungsfehler.
 4. Warnpflicht und Freigabe dokumentieren.
 5. Entscheidungsvorlage bauen: reduzieren, umplanen, Förderantrag ändern, Projekt stoppen.
-

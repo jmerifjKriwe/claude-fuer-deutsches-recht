@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung
@@ -79,4 +79,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Anderweitige Förderung im FZulG-Antrag nicht angegeben - Verstoß gegen § 9 FZulG, Rückforderungsrisiko.
 - AGVO-Höchstintensität konzernweit nicht aggregiert; bei Tochter-Förderung Mutter-Förderung übersehen.
 - "De-minimis" mit AGVO-Förderung verwechselt; FZulG fällt grundsätzlich nicht unter De-minimis.
-

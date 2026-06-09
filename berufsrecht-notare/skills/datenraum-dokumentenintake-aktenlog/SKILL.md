@@ -72,4 +72,3 @@ Konkret zu prüfen:
 - § 14 BNotO (Amtspflichten)
 - § 17 BeurkG (Belehrungspflicht)
 - § 95 BNotO (Disziplinarmaßnahmen)
-

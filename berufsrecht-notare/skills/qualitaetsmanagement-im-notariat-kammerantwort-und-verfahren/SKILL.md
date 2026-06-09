@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - DONot §§ 5-7
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

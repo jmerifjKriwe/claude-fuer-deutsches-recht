@@ -62,4 +62,3 @@ description: "Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Ski
 5. Marken-/Domain-/Social-Media-Fortnutzung?
 6. Kundendaten und DSGVO-Rollen nach Exit geklärt?
 7. Eilantrag nötig oder reicht Übergabeplan?
-

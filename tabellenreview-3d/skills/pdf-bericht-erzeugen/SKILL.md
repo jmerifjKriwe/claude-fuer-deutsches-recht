@@ -83,4 +83,3 @@ Alle zitierten Quellen mit:
 ## Grenzen
 
 Bei sehr großen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.
-

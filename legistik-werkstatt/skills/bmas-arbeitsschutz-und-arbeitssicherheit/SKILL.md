@@ -1,6 +1,6 @@
 ---
 name: bmas-arbeitsschutz-und-arbeitssicherheit
-description: "Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung)."
+description: "Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/39..."
 ---
 
 # Arbeitsschutz und Arbeitssicherheit (BMAS)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

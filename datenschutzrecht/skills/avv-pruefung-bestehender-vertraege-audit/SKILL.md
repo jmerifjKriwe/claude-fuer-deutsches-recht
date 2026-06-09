@@ -120,4 +120,3 @@ Frist: [DATUM]
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021).
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
-

@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 3 Abs. 1 BeurkG (Mitwirkungsverbote)
 - § 6 BeurkG
 - § 16 BeurkG
-

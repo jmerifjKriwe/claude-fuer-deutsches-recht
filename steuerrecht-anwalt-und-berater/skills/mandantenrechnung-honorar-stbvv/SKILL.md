@@ -144,4 +144,3 @@ Stand: 05/2026.
 - StBVV §§ 4, 9a, 13, 14, 24, 33, 35.
 - BStBK Honorartabellen.
 - UStG.
-

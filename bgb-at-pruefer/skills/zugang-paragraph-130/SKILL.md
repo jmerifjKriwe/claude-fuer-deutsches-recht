@@ -77,4 +77,3 @@ BGB ist der Zugang beim zuständigen Bediensteten oder in der Poststelle maßgeb
 - Widerruf nach § 130 Abs. 1 S. 2 BGB: Gleichzeitig oder vor der Erklärung zugegangen?
 - Zugangsvereitelung: Aktives Verhindern des Zugangs — § 242 BGB?
 - Tod des Erklärenden nach Abgabe: § 130 Abs. 2 BGB — Wirksamkeit bleibt?
-

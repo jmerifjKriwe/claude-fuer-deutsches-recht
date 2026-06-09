@@ -1,6 +1,6 @@
 ---
 name: 011-erster-titel-8-erwerb-eigentum
-description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
 ---
 
 # PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen
@@ -48,4 +48,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 352 FamFG` — Erbscheinsverfahren.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

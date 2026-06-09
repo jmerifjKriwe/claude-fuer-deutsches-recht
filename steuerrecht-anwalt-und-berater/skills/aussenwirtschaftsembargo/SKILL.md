@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaftsembargo
-description: "Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an gelistete Personen. Behandelt Genehmigungspflichten Catch-all-Klausel und das deutsche Strafrecht § 17 § 18 AWG. Output Pruefraster und Strategie bei Ermittlungsverfahren. Abgrenzung zu fa-stu-zollwert-unionszollkodex."
+description: "Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an..."
 ---
 
 # Aussenwirtschaftsrecht — AWG und Sanktionen
@@ -71,4 +71,3 @@ description: "Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenst
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-

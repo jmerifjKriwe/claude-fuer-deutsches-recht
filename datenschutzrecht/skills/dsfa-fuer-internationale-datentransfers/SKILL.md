@@ -124,4 +124,3 @@ Unterschrift DSB: ____________________
 - EDSA Empfehlungen 01/2020 zu ergaenzenden Massnahmen (Aktualitaet pruefen)
 - Rechtsprechung: weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

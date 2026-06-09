@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - §§ 24-25 GVG (Amtsgericht)
 - § 74 GVG (Strafkammern)
 - §§ 142, 143 GVG (StA-Zuständigkeit)
-

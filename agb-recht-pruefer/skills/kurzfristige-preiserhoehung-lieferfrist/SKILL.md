@@ -33,4 +33,3 @@ description: "Norm- und Dogmatik-Skill für Kurzfristige Preiserhöhung 309: pr�
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

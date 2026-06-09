@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions."
+description: "Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalatio..."
 ---
 
 # Deal-Team-Staffing
@@ -192,4 +192,3 @@ Strategische Fragen → [Fuehrender Partner NAME]
 - §§ 43a, 45 BRAO; § 3 BORA; Art. 18 MAR; §§ 666, 675 BGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-

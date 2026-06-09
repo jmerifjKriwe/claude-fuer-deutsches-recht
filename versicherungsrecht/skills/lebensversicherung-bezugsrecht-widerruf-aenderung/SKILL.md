@@ -41,4 +41,3 @@ VVG §§ 150–171, besonders §§ 159, 160; BGB Erbrecht/Abtretung; InsO; FamFG
 
 - lebensversicherung-rueckkaufswert-abschlusskosten-widerspruch
 - subrogation-regress-86-vvg
-

@@ -174,4 +174,3 @@ Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Pr
 ### Leitentscheidungen
 
 - BGH VI ZR 67/15
-

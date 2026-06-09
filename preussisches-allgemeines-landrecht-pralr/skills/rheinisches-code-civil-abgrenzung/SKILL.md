@@ -66,4 +66,3 @@ Sachverhalt: Vergleich Ehegueterrecht.
 ### Methodisch wichtig
 - Lokales Recht im 19. Jh. immer pruefen.
 - ALR vs. Code civil vs. Gemeines Recht (Sachsen, sueddeutsche Staaten) je nach Ortsrecht.
-

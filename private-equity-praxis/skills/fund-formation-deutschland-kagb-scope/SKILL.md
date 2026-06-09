@@ -89,4 +89,3 @@ Discretionary Mandate (Single-Investor-Carve-out):
 - EuVECA-VO 345/2013; ELTIF-VO 2015/760 i.d.F. (EU) 2023/606.
 - BaFin-Auslegungshinweise zum Anwendungsbereich des KAGB (vom Anwender mit aktuellem Stand zu prüfen).
 - BMF-Schreiben zur Besteuerung von Investmentvermögen (aktuelle Fassung vom Anwender mit aktuellem BMF zu prüfen).
-

@@ -1,6 +1,6 @@
 ---
 name: einwilligung-hinweis-datenschutz
-description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung im Mandantenanfragen Assistent."
+description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Ein..."
 ---
 
 # Einwilligung-Hinweis-Datenschutz
@@ -120,4 +120,3 @@ Ohne Bestätigung: keine Aufnahme. Kein Einverständnis — kein Transkript.
 - `transkriptionsdienst-erklaerung` — bettet diese Klausel ein
 - `mandatsverhaeltnis-hinweis` — ergänzender Disclaimer
 - `erstantwort-generator` — Kurzform in der Antwortmail
-

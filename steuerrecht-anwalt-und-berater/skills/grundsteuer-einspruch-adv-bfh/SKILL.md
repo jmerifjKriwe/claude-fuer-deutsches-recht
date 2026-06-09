@@ -67,4 +67,3 @@ Nur wenn FA ablehnt oder nicht rechtzeitig entscheidet. Dann Ablehnung, Einspruc
 ## Abschluss
 
 Gib immer eine "nächste 7 Tage"-Liste: Frist, Beleg, Antrag, Zahlung, Rückfrage an Gemeinde/Finanzamt.
-

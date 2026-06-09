@@ -44,4 +44,3 @@ ALR-Loesung: ALR II 20 §§ 19-22 — schuldhaft selbst herbeigefuehrte Trunkenh
 - Reichsstrafgesetzbuch 1871 — heutige Fassung StGB.
 - § 20 StGB Schuldunfaehigkeit ist Erbe der ALR-Regelung.
 - Actio libera in causa als Doktrin im modernen Strafrecht — Erbe ALR-Tradition.
-

@@ -55,4 +55,3 @@ Zinsen (`usurae`) sind nicht selbstverständlich Teil des `mutuum`. Sie werden t
 2. Zinsen formwirksam separat versprochen?
 3. Zinsobergrenzen oder Sonderregeln einschlägig?
 4. Sondertyp `fenus nauticum` mit Risikoverlagerung auf den Darlehensgeber?
-

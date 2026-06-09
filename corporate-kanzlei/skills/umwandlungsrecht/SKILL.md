@@ -150,4 +150,3 @@ Minderheitsgesellschafter koennen im Spruchverfahren (§§ 2, 34 ff. SpruchG) ei
 - §§ 2-304 UmwG; §§ 11-25 UmwStG; § 613a BGB; SpruchG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-

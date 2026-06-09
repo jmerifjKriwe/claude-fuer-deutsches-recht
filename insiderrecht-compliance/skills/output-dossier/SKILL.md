@@ -70,4 +70,3 @@ Checkliste je Abschnitt:
 - Zugriff auf Compliance-Dossier: nur Compliance, CFO, General Counsel
 - Unveränderbare Archivierung (kein Überschreiben, kein Löschen)
 - IT-Datensicherung und Off-Site-Backup
-

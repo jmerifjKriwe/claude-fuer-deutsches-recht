@@ -42,4 +42,3 @@ Dieser Fehlerkatalog prüft im Bereich **Legistik Werkstatt** Ergebnisse vor Abg
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

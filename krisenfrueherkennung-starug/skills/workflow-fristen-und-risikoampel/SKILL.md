@@ -48,4 +48,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Trade-off
 - Frühwarnung verlangt Datentiefe → Kostenfaktor, IT-Aufwand. Mindeststandard: 13-Wochen-Liquidität, 24-Monats-Cashflow, Quartals-GuV, Kovenanten-Monitor.
-

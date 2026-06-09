@@ -41,4 +41,3 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 110 StPO
 - RL 2016/680/EU Art. 25
-

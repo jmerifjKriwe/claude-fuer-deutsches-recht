@@ -127,4 +127,3 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
-

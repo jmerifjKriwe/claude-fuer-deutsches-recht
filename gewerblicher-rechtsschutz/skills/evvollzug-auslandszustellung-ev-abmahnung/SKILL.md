@@ -123,4 +123,3 @@ Mandatsbezug: Deutsches Gericht erlässt EV gegen englischen Online-Händler ode
 - `evvollzug-neu-001` – Vollziehungsfrist Überblick
 - `evvollzug-neu-003` – GV-Zustellung im Inland
 - `spezial-reaktion-internationaler-bezug-und-schnittstellen` – Internationale Bezüge im GewRS
-

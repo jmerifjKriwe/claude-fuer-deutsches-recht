@@ -62,4 +62,3 @@ description: "Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft di
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

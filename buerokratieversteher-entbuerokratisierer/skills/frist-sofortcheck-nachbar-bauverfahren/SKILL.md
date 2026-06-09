@@ -78,4 +78,3 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 - SGG § 66; AO § 356.
 - BGB §§ 187, 188.
 - BVerwG, staend. Rspr. zu Rechtsbehelfsbelehrung und Wiedereinsetzung.
-

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-due-diligence
-description: "Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026."
+description: "Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für §..."
 ---
 
 # Sanierungsgewinn – Tax Due Diligence im Distressed M&A
@@ -105,4 +105,3 @@ Wer als Senior diese beiden Tabellen sauber bekommt, hat sechzig Prozent des DD-
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - IDW S 6, IDW S 11 – Verifizierung über idw.de.
-

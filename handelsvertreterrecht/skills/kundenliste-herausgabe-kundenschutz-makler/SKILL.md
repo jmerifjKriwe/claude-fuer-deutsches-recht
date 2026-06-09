@@ -1,6 +1,6 @@
 ---
 name: kundenliste-herausgabe-kundenschutz-makler
-description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch im Handelsvertreterrecht."
+description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmis..."
 ---
 
 # Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 273 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__273.html)
 - [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
-

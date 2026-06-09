@@ -166,4 +166,3 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - § 7b GewStG.
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

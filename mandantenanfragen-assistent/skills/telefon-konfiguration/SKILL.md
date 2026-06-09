@@ -1,6 +1,6 @@
 ---
 name: telefon-konfiguration
-description: "Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort im Mandantenanfragen Assistent."
+description: "Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Template..."
 ---
 
 # Telefon-Konfiguration
@@ -133,4 +133,3 @@ Für jeden Standort eine separate `kanzlei-[standort].json` anlegen und beim Abr
 - `erstantwort-generator` — Hauptabnehmer der Konfigurationsdaten
 - `transkriptionsdienst-erklaerung` — benötigt `telefon_transkription`
 - `muster-erstantwort` — Platzhalter werden durch diesen Skill befüllt
-

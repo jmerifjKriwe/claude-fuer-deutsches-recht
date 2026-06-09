@@ -293,7 +293,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Hausarbeitenmacher. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Hausarbeitenmacher. |
 | `zitierweise-jura-fundstellen` | Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student... |
-| `zivilrecht-anspruchsgrundlagen` | Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausarbeitenmacher. |
+| `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung: Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag... |
 | `zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -12,7 +12,7 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Insolvenz Sanierungsrecht** t
 ## Suchraster
 
 - `eroeffnung-fachanwalt-fao-glaeubigerantrag-inso`
-- `fa-schuldschein`
+- `fa-insolvenz-schuldschein-und-lma`
 - `glaeubigerantrag-insolvenzanfechtung-orientierung`
 - `glaeubigerverhandlung-sanierung-idw-s6-krypto-verwertung`
 - `inso-insanw-eigenverwaltung-konzerninsolvenz-koordination`

@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verteilung freistehende Objekte Risiken. Output Routing-Übersicht mit Statusampel zu allen laufenden Zwangsverwaltungen und Tagesaufgaben. Abgrenzung zu zvg-quality-gate (Qualitaetsprüfung vor Abschluss) und zvg-simulation-training im Zwangsverwaltung Zvg."
+description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu allen ZVG-Skills. Anwendungsfall Zwangsverwalter oeffnet Plugin und will schnell den richtigen starten. Normen §§ 146-161 ZVG Kernvorschriften. Prüfraster Bestellung Beschlagnahme Besitz Mietverwaltung Konto Bericht Rechnungslegung Verte..."
 ---
 
 # Zwangsverwaltungs-Kommandocenter
@@ -80,4 +80,3 @@ description: "Kommandocenter für Zwangsverwaltung — Triage und Routing zu all
 | Versicherungsprämien gezahlt | Fälligkeitsdatum | [ ] |
 | Grundsteuer-Vorauszahlung | 15.02./15.05./15.08./15.11. | [ ] |
 | Hausgeldabrechnung WEG (falls EWZ) | Gem. WEG-Plan | [ ] |
-

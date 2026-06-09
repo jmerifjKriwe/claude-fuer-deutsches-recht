@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-uebersetzer
-description: "Verguetung für gerichtliche Dolmetscher und Übersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Prüfraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Übersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Übersetzer. Abgrenzung: nicht Sachverständigenverguetung im Jveg Kostenpruefer."
+description: "Verguetung für gerichtliche Dolmetscher und Übersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Prüfraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Übersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Übersetzer. Abgrenzung: nicht Sachverständige..."
 ---
 
 # JVEG-Dolmetscher-Uebersetzer
@@ -59,4 +59,3 @@ Positionsgenaues Prüfergebnis mit anerkanntem Betrag und Kürzungsbegründung.
 ## Leitplanken
 - Wartezeiten ohne Dolmetschleistung nicht vergütungsfähig.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

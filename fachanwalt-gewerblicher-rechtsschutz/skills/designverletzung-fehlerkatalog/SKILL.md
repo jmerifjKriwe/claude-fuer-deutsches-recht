@@ -11,18 +11,17 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Gewerblicher Rechtsschutz** 
 
 ## Fachspezifische Fehlerachsen
 
-- `abmahnung-bezuege-designg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `fa-gewerblicher-rs-gr-abmahnung-portfolio`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `abmahnung-formular-portal-und-einreichung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `einstieg-schnelltriage-fallrouting`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `designverletzung-marken-widerspruch-markenanmeldung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dpma-interessen-einstweilige-euipo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dpma-mehrparteien-konflikt-und-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `fachanwalt-fao-gebrmg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `erstpruefung-und-mandatsziel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `faevvollzug-gegnerische-faevvollzug-grenzueberschreitende`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `faevvollzug-parteibetrieb-gerichtsvollzieher-bea-elektronischer`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gewerblichen-markenanmeldung-markeng`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `gewerblichen-tatbestand-beweis-und-belege`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `gewrechts-geschgehg-gewrechts-ki-faevvollzug-ev`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

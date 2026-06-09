@@ -1,6 +1,6 @@
 ---
 name: ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster
-description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg im Steuerrecht Anwalt Und Berater."
+description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wege..."
 ---
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG
@@ -52,4 +52,3 @@ description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — P
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

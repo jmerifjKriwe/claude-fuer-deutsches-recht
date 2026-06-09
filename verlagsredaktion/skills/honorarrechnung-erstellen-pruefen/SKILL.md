@@ -130,4 +130,3 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 - KSVG - Kuenstlersozialabgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
 - BMF-Schreiben zu § 14 UStG; aktuelle Anwendungserlasse pruefen.
 - Verlagsgesetz (VerlG) §§ 14, 22 - Honorarpflicht und Faelligkeit.
-

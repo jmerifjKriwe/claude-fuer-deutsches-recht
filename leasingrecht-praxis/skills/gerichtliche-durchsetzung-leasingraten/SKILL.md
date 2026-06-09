@@ -109,4 +109,3 @@ Nach rechtskräftigem Urteil oder Vollstreckungsbescheid:
 - **eV-Antrag-Vorlage**: Herausgabe Leasingobjekt nach Kündigung
 - **Prozess-Checkliste**: Akten, Beweise, Gerichtsstand, Kostenrisiko
 - **Vollstreckungsablauf**: Titel → Klausel → Zustellung → Pfändung
-

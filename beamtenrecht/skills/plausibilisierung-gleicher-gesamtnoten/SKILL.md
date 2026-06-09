@@ -1,6 +1,6 @@
 ---
 name: plausibilisierung-gleicher-gesamtnoten
-description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet im Beamtenrecht."
+description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und..."
 ---
 
 # Plausibilisierung gleicher Gesamtnoten
@@ -65,4 +65,3 @@ Skill für Konstellationen, in denen mehrere Bewerber dieselbe Gesamtnote in der
 ## 7. Beispiel (Kurzfassung)
 
 Beide Bewerber Note "uebertrifft die Anforderungen". Auswahlvermerk: "Aufgrund des Auswahlgespraechs wurde Bewerberin B vorgezogen." Skill liefert Argument: Ueberspringen der Stufen Binnendifferenzierung Einzelmerkmale Vorbeurteilung; Auswahl rechtswidrig, Anordnungsanspruch begruendet.
-

@@ -46,4 +46,3 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 - WHG: gesetze-im-internet.de
 - GG Art. 20a: gesetze-im-internet.de; BVerfGE 157, 30: bverfg.de
 - EU-WRRL: eur-lex.europa.eu
-

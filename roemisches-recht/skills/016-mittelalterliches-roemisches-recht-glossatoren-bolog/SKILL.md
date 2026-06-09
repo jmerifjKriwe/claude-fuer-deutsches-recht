@@ -58,4 +58,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Schule?
 2. Welcher Vertreter?
 3. Welcher Text?
-

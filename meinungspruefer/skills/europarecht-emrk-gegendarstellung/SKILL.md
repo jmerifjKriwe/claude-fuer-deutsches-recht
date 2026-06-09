@@ -50,4 +50,3 @@ Die europäische Ebene ist keine Dekoration. Sie soll prüfen, ob die deutsche L
 | Plattform, Suchmaschine, DSGVO, DSA oder Uploadfilter | `eugh-grch-art-11-rechtsprechung` |
 | Deutsche Instanzpraxis, Verbotstenor oder Eilverfahren | `olg-kg-praxis-rechtsprechung` |
 | Internationaler Vergleich mit USA | `rechtsvergleich-usa-supreme-court` |
-

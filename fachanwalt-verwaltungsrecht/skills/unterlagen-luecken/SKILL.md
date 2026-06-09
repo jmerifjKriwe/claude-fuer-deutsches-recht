@@ -12,16 +12,16 @@ Diese Unterlagenprüfung für **Fachanwalt Verwaltungsrecht** benennt fehlende D
 ## Fachlandkarte dieses Plugins
 
 - `amtshaftung-paragraf-839-bgb-art-34-gg` — Amtshaftung Paragraf 839 BGB ART 34 GG
-- `anfechtungs-eilrechtsschutz-abs` — Anfechtungs Eilrechtsschutz ABS
+- `anfechtungs-risikoampel-und-gegenargumente` — Anfechtungs Eilrechtsschutz ABS
 - `anhoerung-paragraf-28-vwvfg` — Anhoerung Paragraf 28 Vwvfg
 - `anordnung-quellenkarte` — Anordnung Quellenkarte
-- `drittanfechtung` — Drittanfechtung
+- `drittanfechtung-umwelt` — Drittanfechtung
 - `eilrechtsschutz-paragraf-80-vwgo` — Eilrechtsschutz Paragraf 80 Vwgo
-- `einstweilige-fachanwalt-kanzlei` — Einstweilige Fachanwalt Kanzlei
+- `einstweilige-verhandlung-vergleich-und-eskalation` — Einstweilige Fachanwalt Kanzlei
 - `ermessen-paragraf-40-vwvfg` — Ermessen Paragraf 40 Vwvfg
-- `erstgespraech-mandatsannahme-fa-vwgo` — Erstgespraech Mandatsannahme FA Vwgo
-- `fa-verwaltungsrecht-mandant-redteam-gate` — FA Verwaltungsrecht Mandant Redteam Gate
-- `fa-verwaltungsrecht-start-chronologie-fristen` — FA Verwaltungsrecht Start Chronologie Fristen
+- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme FA Vwgo
+- `workflow-mandantenkommunikation` — FA Verwaltungsrecht Mandant Redteam Gate
+- `einstieg-schnelltriage-fallrouting` — FA Verwaltungsrecht Start Chronologie Fristen
 - `klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19` — Klagefrist Paragraf 58 Vwgo Bverwg 4 C 1 19
 - `kommunalrecht-paragraf-2-go` — Kommunalrecht Paragraf 2 GO
 - `anschluss-routing` — Anschluss Routing
@@ -40,4 +40,3 @@ Diese Unterlagenprüfung für **Fachanwalt Verwaltungsrecht** benennt fehlende D
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

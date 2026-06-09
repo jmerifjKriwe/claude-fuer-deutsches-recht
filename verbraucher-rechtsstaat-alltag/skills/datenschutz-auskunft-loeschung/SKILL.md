@@ -64,4 +64,3 @@ Erzeuge Auskunftsantrag, Löschungsverlangen, Beschwerdeentwurf und Fristenkontr
 ## Prompts, die dieser Skill stellen soll
 
 - Wer verarbeitet, welche Daten, welches Ziel: Auskunft, Löschung, Widerspruch?
-

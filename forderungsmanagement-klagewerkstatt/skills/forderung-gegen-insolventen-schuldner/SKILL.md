@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-insolventen-schuldner
-description: "Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe. Aussonderung § 47 InsO. Absonderungsrecht §§ 49-52 InsO. Massenforderung § 55 InsO. Nachrangige § 39 InsO. Vollstreckungsverbot § 89 InsO. Output: Forderungsanmeldung formgerecht."
+description: "Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe. Aussonderung § 47 InsO. Absonderungsrecht §§ 49-52 InsO. Massenforderung § 55 InsO. Nachrangige § 39 InsO. Vollstreckungsverbot § 89 InsO. Output: Forderungsanmeldung formgere..."
 ---
 
 # Forderung gegen insolventen Schuldner

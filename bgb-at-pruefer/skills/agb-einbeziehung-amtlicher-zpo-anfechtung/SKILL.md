@@ -110,4 +110,3 @@ Klauselverwendung genügt. Allerdings bleibt die Inhaltskontrolle nach § 307 BG
 - BGH NJW 2004/1320
 - BGH NJW 2011/2643
 - BGH NJW 2005/53
-

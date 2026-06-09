@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Vermeiden Sie die Botschaft "barrierefrei" oder "nicht barrierefrei". Korrekt ist immer: "konform zu WCAG 2.1 AA, geprüft am [Datum] auf [Geltungsbereich]". Die Differenz zwischen Stichprobe und Generalaussage ist haftungsrelevant.
-

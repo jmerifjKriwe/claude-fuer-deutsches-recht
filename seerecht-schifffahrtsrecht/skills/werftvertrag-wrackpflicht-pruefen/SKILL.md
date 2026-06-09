@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-wrackpflicht-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; Sc..."
 ---
 
 # Werftvertrag – Wrackbeseitigungspflicht prüfen
@@ -96,4 +96,3 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 - WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
 - BSH: https://www.bsh.de
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
-

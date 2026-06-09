@@ -1,6 +1,6 @@
 ---
 name: insolvenz-eines-franchisenehmers-im-filialnetz
-description: "Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht."
+description: "Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage f..."
 ---
 
 # Franchise: Insolvenz eines Franchisenehmers im Filialnetz
@@ -46,4 +46,3 @@ InsO §§ 103, 108, 112, 119, 129 ff.; MarkenG § 30; BGB §§ 314, 323; Liefer-
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-

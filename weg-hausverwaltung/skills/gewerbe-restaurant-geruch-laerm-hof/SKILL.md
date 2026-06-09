@@ -48,4 +48,3 @@ Die Verwaltung wird beauftragt, die durch den Betrieb der Gewerbeeinheit Nr. [..
 - Gewerbemieter wird direkt in Anspruch genommen, obwohl zunächst der Teileigentümer Ansprechpartner ist.
 - Ordnungsrecht, Brandschutz und WEG-Recht werden vermischt.
 - Geruchsbeschwerden ohne Protokoll und Belege werden sofort eskaliert.
-

@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Frist klar kommunizieren:** § 2 Abs. 1 JVEG drei Monate ab Auftragsbeendigung — Mandant/Sachverständiger informieren, sonst Anspruchsverlust.
 - **Vorschuss-Antrag:** § 12 JVEG erleichtert bei wirtschaftlich schwacher Lage des Sachverständigen; Antrag mit Zeitschätzung und Aufgabenbeschreibung.
 - Falle: Stundensatz aus Privatauftrag wird gegenüber Mandant als JVEG-Honorar dargestellt — Differenz zwischen Privat- und Gerichts-Sachverständigem ist erstattungsrechtlich nicht erstattbar.
-

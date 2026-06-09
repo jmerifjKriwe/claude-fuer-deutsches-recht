@@ -1,6 +1,6 @@
 ---
 name: konnossement-hypothek-bestellen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde..."
 ---
 
 # Konnossement – Schiffshypothek bestellen
@@ -84,4 +84,3 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
-

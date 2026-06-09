@@ -28,4 +28,3 @@ EU-Verordnung 2015/2120; TKG; BEREC-Leitlinien live prüfen; UWG/GWB-Schnittstel
 
 - tk-eu-eecc-router
 - tk-missbrauchsaufsicht-sonderkartellrecht
-

@@ -1,6 +1,6 @@
 ---
 name: gun-jumping-global
-description: "Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Markt..."
 ---
 
 # Gun Jumping und Closing Control
@@ -33,4 +33,3 @@ description: "Gun Jumping und Closing Control: Fachmodul für großes Kartellrec
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

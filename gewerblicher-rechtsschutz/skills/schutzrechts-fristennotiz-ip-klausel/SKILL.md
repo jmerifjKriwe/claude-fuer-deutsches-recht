@@ -184,4 +184,3 @@ Bis wann: 15.04.2025 (Puffer von 2 Wochen vor Fristende)
 - `workflow-fristen-und-risikoampel` – Fristen
 - `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Mandanteninfo
 - `workflow-dokumentenintake` – Dokumentenerfassung
-

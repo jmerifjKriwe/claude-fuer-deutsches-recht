@@ -78,4 +78,3 @@ Sachverhalt: A kauft 500 Liter Wein, der noch abgemessen werden muss.
 - **Roemisch**: streng "periculum est emptoris" ab perfectio.
 - **BGB**: streng "Gefahr geht mit Uebergabe ueber" § 446 BGB.
 - Die roemische Linie ist in Italien und Frankreich (Code civil) erhalten geblieben; BGB hat die strengere deutsche Lehre.
-

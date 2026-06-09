@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-pruefen
-description: "Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie im Seerecht Schifffahrtsrecht."
+description: "Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Outpu..."
 ---
 
 # Schiffshypothek prüfen
@@ -86,4 +86,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - InsO § 49: https://www.gesetze-im-internet.de/inso/__49.html
 - ZPO §§ 864 ff.: https://dejure.org/gesetze/ZPO/864.html
 - BGH Schiffshypothek: https://www.bgh.de
-

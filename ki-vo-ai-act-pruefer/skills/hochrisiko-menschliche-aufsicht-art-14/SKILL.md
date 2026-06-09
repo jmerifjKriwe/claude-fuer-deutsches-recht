@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-menschliche-aufsicht-art-14
-description: "Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der Systemfähigkeiten und Grenzen Überwachungspflichten Stop-Button-Konzept Nicht-Blinding-Schutz Kompetenzanforderungen Aufsichtspersonen Dokumentation. Output: Aufsichtskonzept und Muster-Schulungsplan für Betreiber. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Betreiber-Gesamtpflichten) und hochrisiko-technische-dokumentation-art-11-und-anhang-iv."
+description: "Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der Systemfähigkeiten und Grenzen Überwachungspflichten Stop-Button-Konzept Nicht-Blinding-..."
 ---
 
 # Menschliche Aufsicht — Art. 14 KI-VO
@@ -103,4 +103,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

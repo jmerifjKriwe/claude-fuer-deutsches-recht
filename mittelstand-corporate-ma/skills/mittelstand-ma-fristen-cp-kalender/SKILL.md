@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-fristen-cp-kalender
-description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan) im Mittelstand Corporate Ma."
+description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. O..."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender
@@ -169,4 +169,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Frist versaeumt ohne Wiedervorlage: Haftung nach § 280 BGB
 - Longstop Date uebersehen: automatisches Ruecktrittsrecht entsteht
 - Gesellschafterliste nicht fristgerecht: Stimmrechte fraglich
-

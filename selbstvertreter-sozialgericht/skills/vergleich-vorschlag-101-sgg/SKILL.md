@@ -114,4 +114,3 @@ Im Vergleich wird die Kostenregel geregelt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 101 SGG aktuell.
-

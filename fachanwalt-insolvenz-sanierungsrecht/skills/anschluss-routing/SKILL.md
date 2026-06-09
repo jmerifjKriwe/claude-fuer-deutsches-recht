@@ -14,14 +14,14 @@ Dieses Anschluss-Routing für **Fachanwalt Insolvenz Sanierungsrecht** wählt na
 - `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
 - `anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16` — Anfechtung Vorsatz Paragraf 133 Inso BGH IX ZR 65 16
 - `eigenverwaltung-schutzschirm-paragraf-270b-inso` — Eigenverwaltung Schutzschirm Paragraf 270b Inso
-- `eroeffnung-fachanwalt-fao-glaeubigerantrag` — Eroeffnung Fachanwalt FAO Glaeubigerantrag
+- `eroeffnung-behoerden-gericht-und-registerweg` — Eroeffnung Fachanwalt FAO Glaeubigerantrag
 - `fa-inso-sanierung-quellen-edge-case` — FA Inso Sanierung Quellen Edge Case
-- `fa-schuldschein` — FA Schuldschein
-- `glaeubigerantrag-insolvenzanfechtung` — Glaeubigerantrag Insolvenzanfechtung
-- `glaeubigerverhandlung-sanierung-idw-s6-krypto` — Glaeubigerverhandlung Sanierung IDW S6 Krypto
-- `insanw-eigenverwaltung-konzerninsolvenz` — Insanw Eigenverwaltung Konzerninsolvenz
-- `insanw-fortbestehensprognose` — Insanw Fortbestehensprognose
-- `insolvenz-insolvenzanfechtung-insolvenzrecht` — Insolvenz Insolvenzanfechtung Insolvenzrecht
+- `fa-insolvenz-schuldschein-und-lma` — FA Schuldschein
+- `glaeubigerantrag` — Glaeubigerantrag Insolvenzanfechtung
+- `insolvenz-glaeubigerverhandlung-sanierung` — Glaeubigerverhandlung Sanierung IDW S6 Krypto
+- `insanw-eigenverwaltung-schutzschirm-spezial` — Insanw Eigenverwaltung Konzerninsolvenz
+- `einstieg-schnelltriage-fallrouting` — Insanw Fortbestehensprognose
+- `insolvenz-tatbestand-beweis-und-belege` — Insolvenz Insolvenzanfechtung Insolvenzrecht
 - `insolvenzgeld-paragraf-165-sgb-iii` — Insolvenzgeld Paragraf 165 SGB III
 - `insolvenzplan-paragraf-217-inso-bgh-ix-zb-66-19` — Insolvenzplan Paragraf 217 Inso BGH IX ZB 66 19
 - `dokumente-intake` — Dokumente Intake
@@ -65,4 +65,3 @@ Dieses Anschluss-Routing für **Fachanwalt Insolvenz Sanierungsrecht** wählt na
 - BGH IX ZR 239/22
 - BGH IX ZR 127/24
 - BGH II ZR 206/22
-

@@ -64,4 +64,3 @@ Das Naturrecht des 17./18. Jh. war die intellektuelle Grundlage der Kodifikation
 - Pufendorf De iure naturae: historische Edition (1672 ff.)
 - Kant Metaphysik der Sitten: Akademie-Ausgabe Bd. VI (1907)
 - ALR: ALEX/OeNB; Savigny Vom Beruf (1814): Erstausgabe Heidelberg
-

@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **mbB-Voraussetzungen:** § 8 Abs. 4 PartGG Haftungsbeschränkung nur bei Berufshaftpflichtversicherung mit ausreichender Deckung; Versicherung muss laufend bestehen, bei Wegfall Wiederaufleben der unbeschränkten Haftung. Vorteil gegenüber GmbH: keine Bilanzpublizität, transparente Besteuerung; Nachteil: Haftungsbegrenzung greift nur für Berufsfehler, nicht für sonstige Verbindlichkeiten.
 4. **MoPeG-Hinweis:** PartG nicht von Auflösung GbR-Reform betroffen, aber Anwendung HGB-Grundsätze über § 1 Abs. 4 PartGG i.V.m. §§ 105 ff. HGB n.F. (Personenhandelsgesellschaftsrecht).
 5. **Anschluss:** Lückenliste mit Versicherungsnachweis, Berufszulassungen, Notartermin Partnerschaftsregister, Anmeldung Transparenzregister. Folge-Skill `gesellschaftsgruender-transparenzregister`.
-

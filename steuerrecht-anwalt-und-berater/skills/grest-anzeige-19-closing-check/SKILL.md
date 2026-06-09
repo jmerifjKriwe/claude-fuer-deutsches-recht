@@ -75,4 +75,3 @@ Anzeigen nicht nur dem Notar überlassen, wenn Share-Deal-Tatbestände, ausländ
 
 - Notar zeigt nach § 18 an, Käufer verlässt sich darauf und unterlässt die § 19-Anzeige. § 18 und § 19 sind aber kumulativ; bei reinem Share Deal hat der Notar oft gar keine Anzeigepflicht.
 - Anzeige ohne Grundstücksliste; das Finanzamt kann den Vorgang nicht zuordnen, Festsetzungsverjährung läuft nicht an.
-

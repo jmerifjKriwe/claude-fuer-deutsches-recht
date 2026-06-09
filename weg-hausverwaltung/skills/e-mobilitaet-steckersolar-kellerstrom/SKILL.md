@@ -48,4 +48,3 @@ Die Gemeinschaft stellt klar, dass provisorische Stromführungen aus Kellerabtei
 - Netzkapazität und Brandschutz werden nicht geprüft.
 - Kosten- und Rückbaupflicht fehlen.
 - Gemeinschaftliches Dach wird für Einzel-PV ohne Beschluss genutzt.
-

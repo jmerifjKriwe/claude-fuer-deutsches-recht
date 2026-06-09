@@ -45,4 +45,3 @@ Für Transparenzpflichten immer das konkrete Szenario prüfen:
 - Veröffentlichung gegenüber Dritten
 - redaktionelle Kontrolle durch Menschen
 - gesetzliche Ausnahmen oder Sonderpflichten
-

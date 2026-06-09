@@ -1,6 +1,6 @@
 ---
 name: retention-and-setoff
-description: "Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung im Internationales Handelsrecht Lex Merc..."
 ---
 
 # Zurückbehaltungsrecht und Aufrechnung International
@@ -56,4 +56,3 @@ Das Zurückbehaltungsrecht (CISG Art. 58 Abs. 1: Käufer zahlt gegen Übergabe; 
 ## Quellenregel
 
 BGB §§ 273, 387-396: gesetze-im-internet.de. CISG Art. 58: uncitral.un.org. PICC Art. 8.1: unidroit.org. InsO § 94: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
-

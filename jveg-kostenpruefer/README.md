@@ -133,6 +133,6 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Jveg Kostenpruefer. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Jveg Kostenpruefer. |
 | `zeugenentschaedigung` | Checkliste Zeugenentschaedigung JVEG: Verdienstausfall, Fahrtkosten, Aufwandsentschaedigung, Kinderbetreuung. Pruefraster für Zeuge und Geschaeftsstelle im Jveg Kostenpruefer. |
-| `zeugenentschaedigung-antrag` | Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer. |
+| `zeugenentschaedigung-dokumentenmatrix-und-lueckenliste` | Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

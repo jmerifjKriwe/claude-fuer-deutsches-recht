@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-senioren-pflegevorbeugungsrecht
-description: "Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung)."
+description: "Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Prue..."
 ---
 
 # Seniorenrecht und Pflegevorbeugung (BMBFSFJ)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

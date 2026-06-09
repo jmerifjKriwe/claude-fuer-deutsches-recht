@@ -1,6 +1,6 @@
 ---
 name: mechanik-erstpruefung-rollenklaerung-mandatsziel
-description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im EU KI-VO (AI Act): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im EU KI-VO (AI Act): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
 ---
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
@@ -66,4 +66,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Frühe Klassifizierung als "kein KI-System" oder "minimales Risiko" spart Aufwand, kann aber bei späterer Aufsichtsfeststellung doppelte Kosten und Marktausschluss verursachen. Empfehlung: konservative Klassifizierung mit dokumentierter Begründung statt einer Selbsteinschätzung "nicht erfasst".
-

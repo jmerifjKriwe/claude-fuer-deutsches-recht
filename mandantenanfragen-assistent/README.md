@@ -189,7 +189,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `transkriptionsdienst-erklaerung` | Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. O... |
 | `uebernimmt-telefon-konfiguration` | Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Mandantenanfragen-Assistent: trennt fehlende Tatsachen von fehlenden Belegen (Mandantenmail, Kanzleiprofil, Honorarinfo), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersat... |
-| `vertraulichkeit-erinnerung` | Vertraulichkeit Erinnerung im Mandantenanfragen-Triage im Mandantenanfragen Assistent. |
+| `vertraulichkeit-erinnerung` | Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt: § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Überg... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Mandantenanfragen Assistent. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Mandantenanfragen Assistent. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Mandantenanfragen Assistent. |

@@ -56,4 +56,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 DSA-Pflichten gestaffelt — Kleinst-/Kleinunternehmen profitieren von Erleichterungen Art. 19, 24, 29 DSA. Aber: Wenn die Plattform schnell wächst, ist die VLOP-Schwelle (45 Mio.) oft schnell erreicht; dann gilt Art. 34 (Risikobewertung), Art. 37 (Audit), Art. 41 (Compliance-Officer). Frühzeitig planen, nicht erst nach Benennung.
-

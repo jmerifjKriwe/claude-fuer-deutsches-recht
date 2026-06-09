@@ -64,4 +64,3 @@ Erzeuge Kautionsaufforderung, Schadensmatrix, Zinscheck und Klage-/Mahnbescheidr
 ## Prompts, die dieser Skill stellen soll
 
 - Auszugsdatum, Übergabeprotokoll, letzte Abrechnung, behauptete Schäden?
-

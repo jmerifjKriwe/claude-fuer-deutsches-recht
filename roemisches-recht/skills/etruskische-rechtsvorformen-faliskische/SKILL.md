@@ -58,4 +58,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Quelle?
 2. Direkt etruskisch oder roemisch-mediiert?
 3. Sicherheit?
-

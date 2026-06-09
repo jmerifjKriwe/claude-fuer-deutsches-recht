@@ -1,6 +1,6 @@
 ---
 name: hinterbliebenenversorgung-witwen-waisen
-description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente in der gesetzlichen Rentenversicherung sowie Mindestehedauer und Versorgungsabschlag. Behandelt eingetragene Lebenspartnerschaften und gleichgeschlechtliche Ehen. Liefert Pruefraster und Antragsbausteine im Beamtenrecht."
+description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente i..."
 ---
 
 # Hinterbliebenenversorgung Witwen Witwer Waisen
@@ -67,4 +67,3 @@ Skill für Hinterbliebene eines verstorbenen Beamten oder Ruhestandsbeamten. Kla
 ## 7. Beispiel (Kurzfassung)
 
 Witwer 70 Jahre, Verbeamteter Ehemann starb sechs Monate nach Heirat. Skill liefert Argumentation zur Widerlegung der Versorgungsehe-Vermutung und Berechnung des Witwerges.
-

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG drohende Zahlungsunfähigkeit. Prüfraster Zahlungsunfähigkeitstest Liquiditaetsstatus, Überschuldungsbilanz Fortführungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin."
+description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG dro..."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck
@@ -245,4 +245,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 1 StaRUG (Pflicht zur Krisenfrueherkennung seit 01.01.2021): https://www.gesetze-im-internet.de/starug/__1.html
 - IDW S 11 (Beurteilung Insolvenzeroeffnungsgruende): https://www.idw.de/idw/idw-verlautbarungen
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

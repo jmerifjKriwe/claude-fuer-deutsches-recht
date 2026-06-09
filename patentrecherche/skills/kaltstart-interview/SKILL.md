@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher Recherchezweck (Stand der Technik vor Anmeldung Einspruch Nichtigkeit Freedom to Operate Konkurrenten-Monitoring Prüfungsbescheid-Antwort) welcher Rechtsraum (DPMA EPA WIPO USPTO weltweit) und mit welchen Datenbankzugaengen (kostenfrei Espacenet Google Patents oder Bezahl-Zugaenge wie PatBase STN Orbit Questel). Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md. Disclaimer Vorrecherche ersetzt keine amtliche Recherche und keine Eigenprüfung der Patentanwaeltin."
+description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher..."
 ---
 
 # kaltstart-interview
@@ -151,4 +151,3 @@ Bevor das Interview begonnen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Richtlinien für die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
-

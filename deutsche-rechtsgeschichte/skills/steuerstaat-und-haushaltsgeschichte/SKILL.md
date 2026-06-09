@@ -46,4 +46,3 @@ Der moderne deutsche Steuerstaat entstand schrittweise. Das Kaiserreich finanzie
 - RAO 1919 und AO 1977: gesetze-im-internet.de
 - GG Art. 105-108: gesetze-im-internet.de
 - BVerfGE zum Finanzausgleich: bverfg.de
-

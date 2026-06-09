@@ -87,4 +87,3 @@ Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird üb
 - [§ 76 SGB IV – Stundung](https://www.gesetze-im-internet.de/sgb_4/__76.html)
 - [BSG B 12 KR 14/07 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
-

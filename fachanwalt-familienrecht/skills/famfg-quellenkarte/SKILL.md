@@ -14,14 +14,14 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Familienrecht** tragende Norm
 - `allgemein-famr-trennungsfolgen-vermoegensauseinandersetzung`
 - `anpassung-wegen-anwartschaft-dynamisch-ausgleich-nach`
 - `anrechte-dokumentenintake`
-- `beamtenrechtliche-kuerzung-beamtenversorgung`
+- `beamtenrechtliche-kuerzung-und-rueckausnahme`
 - `erstgespraech-mandatsannahme-eu-auslandsrenten-excel-pruefmatrix`
 - `fachanwalt-familienrecht-kindeswohlgefaehrdung-mediation-famfg`
 - `fachanwalt-familienrecht-unterhaltsberechnung-zugewinnausgleich`
 - `familiengericht-familienrecht-lebenspartnerschaft-beweislast`
 - `famr-mandantenaufnahme-regenbogenfamilien-versorgungsausgleich`
 - `geringfuegigkeit-versausglg-gesetzliche-rentenversicherung`
-- `kanzlei-fristennotiz-orientierung-ehevertrag`
+- `kanzlei-fristennotiz-und-naechster-schritt`
 - `kapitalwert-korrespondierender-kindeswohl-hochkonflikt`
 
 ## Prüfroute

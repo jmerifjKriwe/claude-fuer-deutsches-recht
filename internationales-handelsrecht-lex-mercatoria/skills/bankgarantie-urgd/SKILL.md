@@ -48,4 +48,3 @@ URDG 758 (Uniform Rules for Demand Guarantees, ICC 2010) ist das wichtigste Rege
 - URDG 758 einbeziehen: "subject to URDG 758" in Garantietext
 - Abrufbedingungen: so einfach wie möglich (Erklärung + ggf. Dokument)
 - Fraud-Ausnahme: nationales Recht prüfen (England, Deutschland: Injunction möglich)
-

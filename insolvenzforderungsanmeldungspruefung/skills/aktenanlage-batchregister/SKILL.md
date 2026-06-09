@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-batchregister
-description: "Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubigerstamm, Prüfnummern, Status je Forderung, Wiedervorlagen, Audit-Trail, Fristen. Output Batchregister mit Eingangsprotokoll, Statusuebersicht und Fristenliste. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Kommandocenter im Insolvenzforderungsanmeldungspruefung."
+description: "Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Glä..."
 ---
 
 # Aktenanlage und Batchregister
@@ -84,4 +84,3 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 - BGH IX ZR 114/23
 - BGH IX ZR 127/24
 - BGH IX ZR 239/22
-

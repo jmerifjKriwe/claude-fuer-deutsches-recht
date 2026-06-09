@@ -1,6 +1,6 @@
 ---
 name: dba-betriebsstaette-art-5-musterabkommen
-description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette Ausnahmen Vorbereitungs- und Hilfstätigkeiten. Anti-Fragmentierung. Output Betriebsstaetten-Memo Gewinnabgrenzung Verweis auf § 12 AO und MLI-Adjusted DBA-Text."
+description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette A..."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)
@@ -190,4 +190,3 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 2 belegt (Fundstelle/Datum bestaetigt), 8 ersetzt (Az nicht belegbar, Saetze neu formuliert) -->
-

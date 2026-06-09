@@ -12,7 +12,7 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Bau Architektenrecht** tragen
 ## Suchraster
 
 - `allgemein-bau-abnahme-nachtrag-workflow-chronologie`
-- `bauordnungsrecht-einfuehrung-fachanwalt-hoai`
+- `bauordnungsrecht-behoerden-gericht-und-registerweg`
 - `bautraeger-abnahme-formgerecht-abnahmefiktion-clause-anlagen`
 - `bautraeger-belehrungspflicht-bautraeger-bonitaetspruefung`
 - `bautraeger-gemeinschaftliche-maengelverfolgung-insolvenz`
@@ -62,4 +62,3 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Bau Architektenrecht** tragen
 - BGH VII ZR 46/17
 - BGH VII ZR 301/13
 - BGH VII ZR 49/15
-

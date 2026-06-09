@@ -43,4 +43,3 @@ description: "CRR-Juristenmatrix für Bank-Legal: Art.-4-Begriffe, Eigenmittel, 
 5. Gibt es Konzentrationsrisiken, große Risikopositionen oder Organkreditnähe?
 6. Hat der Vertrag Kündigungs-, MAC-, Rating-, Margin- oder Cross-Default-Folgen, die Liquidität beeinflussen?
 7. Muss der Vorgang in Vorstand, Risikoausschuss, Aufsichtsrat oder Disclosure einfließen?
-

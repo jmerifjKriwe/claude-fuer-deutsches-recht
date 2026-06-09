@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-datenschutz-personenbezogene-datensaet
-description: "Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber im Datenbankrecht."
+description: "Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtlich..."
 ---
 
 # Datenbankrecht und DSGVO — Personenbezogene Datenbanken
@@ -67,4 +67,3 @@ Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und 
 - [Art. 25 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/25.html)
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

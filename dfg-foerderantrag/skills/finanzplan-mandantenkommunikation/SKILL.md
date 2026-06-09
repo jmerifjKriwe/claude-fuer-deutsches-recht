@@ -1,6 +1,6 @@
 ---
 name: finanzplan-mandantenkommunikation
-description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage
@@ -83,4 +83,3 @@ Empfehlung: Vom Projektprofil abhängig - methodisch anspruchsvolle Pilotprojekt
 - Personalmittel zu konkret beziffert ("Postdoc Frau X, TV-L E 13"), statt die DFG-Pauschalen zu nutzen - bei Mitarbeiter-Wechsel Anpassungsbedarf.
 - Geräteanschaffung ohne Verfügbarkeitsprüfung vorhandener Geräte; Reviewer schlagen "Mitnutzung" vor und kürzen.
 - Programmpauschale fehlt oder ist falsch berechnet.
-

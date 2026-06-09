@@ -48,4 +48,3 @@ Drei internationale Transportrechtsregime konkurrieren im Seetransport: (1) Haag
 - Haftungslimit-Berechnung: Kollo-Regel (Container = ein Kollo? — str.) vs. kg-Regel
 - Konnossement-Klauseln auf Paramountklausel (HVR-Verweis) prüfen
 - Rotterdamer Regeln: für zukünftige Vertragsgestaltung im Blick halten
-

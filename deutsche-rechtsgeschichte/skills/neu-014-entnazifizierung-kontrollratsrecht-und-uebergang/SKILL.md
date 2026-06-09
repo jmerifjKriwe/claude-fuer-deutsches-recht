@@ -67,4 +67,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BEG (Bundesentschaedigungsgesetz) 1953.
 - BRueG (Bundesrueckerstattungsgesetz) 1957.
 - Stiftung "Erinnerung Verantwortung Zukunft" 2000 (NS-Zwangsarbeiter).
-

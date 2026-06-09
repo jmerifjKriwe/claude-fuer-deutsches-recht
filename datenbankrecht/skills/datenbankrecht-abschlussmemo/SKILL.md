@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-abschlussmemo
-description: "Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen im Datenbankrecht."
+description: "Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahm..."
 ---
 
 # Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken
@@ -67,4 +67,3 @@ Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrec
 - [RL 96/9/EG — Datenbankrichtlinie Art. 7 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [EuGH C-203/02 BHB/William Hill — Investitionsbegriff (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Datenextraktion (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
-

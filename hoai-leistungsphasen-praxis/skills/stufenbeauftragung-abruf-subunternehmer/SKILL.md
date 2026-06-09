@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weite
 
 - §§ 631, 648, 650p bis 650r BGB.
 - HOAI nur für Honorarorientierung und Leistungsabgrenzung, nicht als automatischer Abruf.
-

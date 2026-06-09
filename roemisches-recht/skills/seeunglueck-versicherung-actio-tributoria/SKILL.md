@@ -62,4 +62,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welches Risiko realisiert?
 3. Welche Befreiungsgruende?
 4. Welche Schadenshoehe?
-

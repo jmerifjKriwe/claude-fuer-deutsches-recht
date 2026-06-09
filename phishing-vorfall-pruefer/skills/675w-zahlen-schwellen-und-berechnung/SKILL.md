@@ -64,4 +64,3 @@ Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" 
 ### Leitentscheidungen
 
 - BGH XI ZR 91/14
-

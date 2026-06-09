@@ -99,4 +99,3 @@ Eingaben:
 - BfArM-Bekanntmachungen zur Cannabisversorgung.
 - BSG, staend. Rspr. zur Cannabis-Erstattung.
 - DAV-Handlungsempfehlungen zur Cannabis-Abgabe (vom Anwender zu verifizieren).
-

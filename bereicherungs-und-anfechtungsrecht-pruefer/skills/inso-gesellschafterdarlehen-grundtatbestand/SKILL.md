@@ -1,6 +1,6 @@
 ---
 name: inso-gesellschafterdarlehen-grundtatbestand
-description: "Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rüc..."
 ---
 
 # Gesellschafterdarlehen — § 135 InsO
@@ -88,4 +88,3 @@ Wenn diese Punkte streitig sind, wird der Vorgang als Human Review markiert.
 ---
 
 Hinweis: Keine Rechtsberatung. § 135 InsO ist besonders anfällig für Rollen- und Konzernfehler; wirtschaftliche Gleichstellung nie ohne belastbare Tatsachen annehmen.
-

@@ -1,6 +1,6 @@
 ---
 name: subsumtion-schritt-verfassungsrecht
-description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung) im Hausarbeitenmacher."
+description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung..."
 ---
 
 # Subsumtion Schritt für Schritt
@@ -228,4 +228,3 @@ Z.B. "Sache", "Person":
 ## Sanft, ermutigend, fördernd
 
 Das Plugin steht an Deiner Seite. Wenn etwas schiefgeht: Atme durch, lies die Norm nochmal, frag das Plugin nach einer anderen Sichtweise. Subsumtion ist eine Übungs-Sache. Du wirst Schritt für Schritt sicherer.
-

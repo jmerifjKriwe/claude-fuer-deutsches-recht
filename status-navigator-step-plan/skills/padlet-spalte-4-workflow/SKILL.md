@@ -68,4 +68,3 @@ Spalte 4 schliesst den Step-Plan ab. Optional erweiterbar um eine
 Spalte 5 (Fristen) und Spalte 6 (Beteiligte) – siehe Skills
 erweiterung-rangfolge-reiter und excel-reiter-fristen-optional, die
 analog als Padlet-Spalten ausspielbar sind.
-

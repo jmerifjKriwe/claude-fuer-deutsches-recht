@@ -40,4 +40,3 @@ ALR-Loesung: ALR II 17 — Gefahrenabwehr; rechtmaessig; aber Aufopferungsanspru
 - Polizeirechtliche Generalklausel: heute § 8 ASOG Berlin; § 8 PolG NRW; § 1 BPolG (Bundespolizei).
 - Eng-faktische Gefahrenbegriff seit Kreuzberg-Urteil 1882.
 - Trennung Sicherheits- und Wohlfahrtspolizei = klassisches Erbe des Rechtsstaats.
-

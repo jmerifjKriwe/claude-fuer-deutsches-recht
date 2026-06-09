@@ -1,6 +1,6 @@
 ---
 name: sportdaten-live-immobiliendaten-portal
-description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern im Datenbankrecht."
+description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Re..."
 ---
 
 # Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport
@@ -63,4 +63,3 @@ description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/W
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

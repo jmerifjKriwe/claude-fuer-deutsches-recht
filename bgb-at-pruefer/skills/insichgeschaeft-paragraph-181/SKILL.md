@@ -74,4 +74,3 @@ Person für zwei Vertragsparteien gleichzeitig verhandelt. § 181 BGB erfasst be
 - Ausdrückliche Gestattung: In Vollmacht, Satzung oder Gesellschaftsvertrag vorhanden?
 - Schwebende Unwirksamkeit und Genehmigung nach § 177 BGB als Folge?
 - GmbH-Besonderheit: § 35 Abs. 3 GmbHG als Befreiungsmöglichkeit?
-

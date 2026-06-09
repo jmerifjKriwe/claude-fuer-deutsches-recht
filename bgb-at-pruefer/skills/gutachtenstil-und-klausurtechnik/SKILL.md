@@ -76,4 +76,3 @@ Ergebnis: Abschließendes Urteil — „Das Tatbestandsmerkmal ist erfüllt/nich
 - Subsumtion für jedes Merkmal auf den Sachverhalt bezogen?
 - Zwischenergebnis und Endergebnis klar formuliert?
 - Gutachtenstil durchgehalten oder Urteilsstil eingeschlichen?
-

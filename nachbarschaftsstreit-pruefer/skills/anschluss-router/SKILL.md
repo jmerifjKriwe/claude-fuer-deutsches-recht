@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor im Nachbarschaftsstreit Pruefer."
+description: "Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweis..."
 ---
 
 # Nachbarschaftsstreit-Prüfer — Allgemein
@@ -89,4 +89,3 @@ Stand: 05/2026. Kernnormen: §§ 903, 906-923, 823, 862, 1004 BGB; Landesnachbar
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

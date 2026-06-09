@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Berufsrechts-E-Mail."
+description: "Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill..."
 ---
 
 # E-Mail-Umformulierer Berufsrecht — Allgemein
@@ -215,4 +215,3 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - Stand: 05/2026
 - BRAO und BORA in aktuell geltender Fassung
 - BNotO und BNotK-Richtlinien; StBerG in aktuell geltender Fassung
-

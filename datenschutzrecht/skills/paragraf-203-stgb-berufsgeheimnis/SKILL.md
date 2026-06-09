@@ -1,6 +1,6 @@
 ---
 name: paragraf-203-stgb-berufsgeheimnis
-description: "Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige."
+description: "Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DS..."
 ---
 
 # § 203 StGB Berufsgeheimnis im Datenschutzvorfall
@@ -49,4 +49,3 @@ Berufsrecht: zusätzliche Meldung an Kammer; Disziplinarverfahren möglich.
 
 - `dsv-art-9-besondere-kategorien` deckt sensible Daten ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
-

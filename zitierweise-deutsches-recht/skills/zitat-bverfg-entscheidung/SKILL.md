@@ -1,6 +1,6 @@
 ---
 name: zitat-bverfg-entscheidung
-description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. BVerfGE-Band und Seitenzahl nur übernehmen, wenn sie amtlich oder frei verifizierbar sind; andernfalls mit Gericht, Entscheidungsform, Datum und Aktenzeichen zitieren. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend."
+description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. BVerfGE-Band und Seitenzahl nur übernehmen, wenn sie amtlich oder frei verifizierbar sind; andernfalls mit Gericht, Entscheidungsform, Datum und Aktenzeichen zitieren. Kammerentscheidung BVerfG (K), Be..."
 ---
 
 # BVerfG-Entscheidung zitieren
@@ -54,4 +54,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

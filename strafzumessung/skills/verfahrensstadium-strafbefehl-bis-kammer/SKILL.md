@@ -60,4 +60,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - Trunkenheit § 316 StGB: idR Geldstrafe + Fahrerlaubnisentzug § 69 StGB.
  - Koerperverletzung § 223 StGB: Geldstrafe; § 224 (gefaehrlich) regelmaessig Freiheitsstrafe diskutiert.
 - **Verstaendigung § 257c StPO** in allen Stadien moeglich; Korridor verbindlich.
-

@@ -41,4 +41,3 @@ VVG §§ 14, 15, 28, 31, 215; BGB §§ 195, 199, 203, 204; ZPO; spartenspezifisc
 
 - deckungsprozess-zuständigkeit-215-vvg
 - unfallversicherung-invaliditaet-fristen-gliedertaxe
-

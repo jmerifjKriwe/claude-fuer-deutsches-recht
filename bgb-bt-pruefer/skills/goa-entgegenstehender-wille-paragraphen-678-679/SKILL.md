@@ -71,4 +71,3 @@ description: "Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 B
 - https://www.gesetze-im-internet.de/bgb/__678.html
 - https://www.gesetze-im-internet.de/bgb/__679.html
 - https://www.gesetze-im-internet.de/bgb/__677.html
-

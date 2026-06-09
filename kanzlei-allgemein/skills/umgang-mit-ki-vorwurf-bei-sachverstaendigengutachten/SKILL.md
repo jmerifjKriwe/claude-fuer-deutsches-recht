@@ -1,6 +1,6 @@
 ---
 name: umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten
-description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise im Kanzlei Allgemein."
+description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2,..."
 ---
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten
@@ -190,4 +190,3 @@ oder Hilfskräfte beteiligt waren.
 - **Frist für Befangenheitsantrag** (§ 406 Abs. 2 ZPO) im Auge behalten — zwei Wochen ab Kenntnis vom Ablehnungsgrund.
 - **JVEG-Festsetzung 0 Euro** ist die schärfste Folge; nur bei objektiver Unverwertbarkeit und/oder echter Identitäts-Unklarheit erreichbar.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionen-embargos
-description: "Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewertung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewer..."
 ---
 
 # EU-Sanktionen und Embargos: Triage und Sanktionslage-Uebersicht
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
 - [VO (EU) 267/2012 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0267)
 - [BAFA Finanzsanktionen](https://www.bafa.de/DE/Aussenwirtschaft/Finanzsanktionen/finanzsanktionen_node.html)
-

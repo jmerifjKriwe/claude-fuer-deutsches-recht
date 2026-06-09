@@ -46,4 +46,3 @@ Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschi
 - GG Art. 72 und 74: gesetze-im-internet.de
 - HoefeO: gesetze-im-internet.de
 - ABGB: oesterreichisches Bundesrecht bis 1900 (Einfluss sueddeutsches Recht)
-

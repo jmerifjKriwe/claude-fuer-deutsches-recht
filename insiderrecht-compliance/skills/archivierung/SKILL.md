@@ -74,4 +74,3 @@ Folgende Dokumente sind aufzubewahren (Mindestfristen):
 - Automatisches Lösch-Flag: 5 Jahre + 1 Monat nach letztem Eintrag
 - Löschbestätigung dokumentieren
 - Ausnahme: Laufende BaFin-Ermittlung oder gerichtliches Verfahren → Einfrierung der Löschung
-

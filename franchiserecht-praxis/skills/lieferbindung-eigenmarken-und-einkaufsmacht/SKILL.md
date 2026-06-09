@@ -1,6 +1,6 @@
 ---
 name: lieferbindung-eigenmarken-und-einkaufsmacht
-description: "Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht."
+description: "Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechts..."
 ---
 
 # Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht
@@ -46,4 +46,3 @@ Supplier-Risk-Map mit Kickback-Offenlegung und zulässiger Systemstandardisierun
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-

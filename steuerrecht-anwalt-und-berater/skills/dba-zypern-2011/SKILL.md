@@ -148,4 +148,3 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 Stand: 05/2026. DBA-Zypern 18.02.2011, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069). Aenderungsprotokoll in Kraft 08.12.2021 (BGBl. 2022 II S. 4). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 2 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

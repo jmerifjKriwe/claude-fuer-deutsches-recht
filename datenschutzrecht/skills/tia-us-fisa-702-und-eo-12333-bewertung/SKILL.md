@@ -1,6 +1,6 @@
 ---
 name: tia-us-fisa-702-und-eo-12333-bewertung
-description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap."
+description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 E..."
 ---
 
 # US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
@@ -94,4 +94,3 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Empfehlung 02/2020 vom 10.11.2020 (EEG).
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
-

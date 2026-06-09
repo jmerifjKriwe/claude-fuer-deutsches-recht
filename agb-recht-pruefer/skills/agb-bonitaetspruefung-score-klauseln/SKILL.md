@@ -54,4 +54,3 @@ description: "Klausel-Fachmodul für Bonitätsprüfung: prüft, redlined und ent
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

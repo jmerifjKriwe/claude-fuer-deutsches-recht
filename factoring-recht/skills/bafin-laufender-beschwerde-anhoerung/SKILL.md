@@ -127,4 +127,3 @@ Fragen zum Einstieg:
 - Gesetzesbegründung zum Jahressteuergesetz 2009 (Einführung des Factoring-Tatbestands).
 - BaFin-Veröffentlichungen zur Praxis der Erlaubnisverfahren.
 - BVerwG zu Untersagungsverfügungen bei erlaubnislosem Betrieb (jeweils prüfen).
-

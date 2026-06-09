@@ -128,4 +128,3 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Fluggastrechte VO 261/2004 nach EuGH C-402/07 Sturgeon: 3-Stunden-Schwelle = Ausgleichsanspruch.
 - Planfeststellung § 8 LuftVG nach BVerwG 4 A 5.08 mit FFH-Vertraeglichkeit und Laermschutz.
 - Ausnahmegruende VO 261/2004 Art. 5 Abs. 3 eng auslegen; EuGH C-432/20 zu wilden Streiks.
-

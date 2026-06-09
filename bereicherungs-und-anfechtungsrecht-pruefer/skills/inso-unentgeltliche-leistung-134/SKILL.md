@@ -1,6 +1,6 @@
 ---
 name: inso-unentgeltliche-leistung-134
-description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO prüfen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Prüfraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende Personen, Fristberechnung. Output: Prüfergebnis Anfechtbarkeit unentgeltliche Leistung. Abgrenzung: nicht § 133 InsO (Vorsatzanfechtung zehn Jahre)."
+description: "Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO prüfen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Prüfraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende Personen, Fristberechnung. Output: Prüfergebnis Anfechtbarkeit unentgeltliche Leist..."
 ---
 
 # Unentgeltliche Leistung — § 134 InsO
@@ -82,4 +82,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exporteur-ausfuehrer-anmelder-rollen
-description: "Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr. 19 und DA Art. 1 Nr. 18 sowie AWG: Haftungsverteilung, Vollmachtserteilung an Zollagenten (direkte/indirekte Vertretung), Verantwortung bei Genehmigungspflichten. Output: Rollenmatrix und Vollmachtsvorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr. 19 und DA Art. 1 Nr. 18 sowie AWG: Haftungsverteilung, Vollmachtserteilung an Zollagenten (direkte/indirekte Vertretung), Verantwortung bei Genehmigungspflichten. Output: Rollenmatrix und Vollmachtsvorlage im Außenwi..."
 ---
 
 # Exporteur, Ausfuehrer, Anmelder: Rollen und Haftungsverteilung im Aussenhandel
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [Zoll.de Zollverfahren Ausfuhr](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren/Ausfuhr/ausfuhr_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

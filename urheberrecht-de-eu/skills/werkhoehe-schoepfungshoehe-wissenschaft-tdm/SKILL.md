@@ -87,4 +87,3 @@ Konkret zu prüfen:
 - § 44b UrhG (Text und Data Mining, Opt-out)
 - § 60d UrhG (wiss. TDM)
 - RL (EU) 2019/790 Art. 3, 4
-

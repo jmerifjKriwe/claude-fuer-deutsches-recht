@@ -1,6 +1,6 @@
 ---
 name: verkauf-versteigerung-schnittstelle
-description: "Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG Aufhebung der Verwaltung §§ 85 ff. ZVG Versteigerungsverfahren. Prüfraster Objektinformationen Besichtigungen Werterhalt Mieterlage Bieterfragen Übergabeprotokoll Aufhebung. Output Übergabebericht für Versteigerungsverfahren mit Objektzustand Mietlage und Schnittstellen-Dokumentation. Abgrenzung zu zvg-rechnungslegung (Abschluss) und zvg-bieterangebot-bewertung im Zwangsverwaltung Zvg."
+description: "Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG Aufhebung der Verwaltung §§ 85 ff. ZVG Versteigerungsverfahren. Prüfraster Objekt..."
 ---
 
 # Schnittstelle zu Verkauf und Zwangsversteigerung
@@ -83,4 +83,3 @@ description: "Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsve
 4. Kontostand an Vollstreckungsgericht melden
 5. Mietverhältnisse und Kautionen an Ersteher übergeben
 6. Abschluss-Bericht an Gericht und Gläubiger
-

@@ -142,4 +142,3 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - BSI C5:2020.
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
-

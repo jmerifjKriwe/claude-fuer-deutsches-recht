@@ -1,6 +1,6 @@
 ---
 name: internationale-harmonisierung-japan-corporate
-description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme) im Bav Strategie Konzern."
+description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Coun..."
 ---
 
 # Internationale Harmonisierung Konzern-BAV
@@ -181,4 +181,3 @@ JP | [X] | [X] | [X]% | Mittel | DC-Reform
 - → `expatriate-pensionsplanung-und-totalization` — Expat-Sonderfragen
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
-

@@ -48,4 +48,3 @@ Digitale Beschaffung und Vertrieb über Online-Plattformen werfen spezifische Re
 - eIDAS-Signatur-Wahl: qualifiziert (höchstes Niveau), fortgeschritten (mittleres Niveau)
 - Plattformbedingungen: DMA/DSA-Compliance check für neue Marktplatzteilnahme
 - CISG auf Online-Handel: Frist- und Zugangsregelungen digital umsetzen
-

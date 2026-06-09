@@ -60,4 +60,3 @@ Anwaltliche Begleitung der Erstellung, Prüfung und Auswertung von DSA-Transpare
 
 ## Qualitätsgate
 Klassifizierung verifiziert? Datenquellen vollständig? Schwellenwerte korrekt berechnet? Format-Konformität (Kommissions-Template) geprüft? Veröffentlichungsstelle und -datum dokumentiert? Audit-Trail für jede Zahl vorhanden?
-

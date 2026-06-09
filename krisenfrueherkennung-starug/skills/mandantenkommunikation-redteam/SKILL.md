@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Konsequenzen bei Pflichtverletzung:** § 43 GmbHG (Innenhaftung), § 826 BGB (Außenhaftung in Ausnahmefällen), strafrechtlich § 15a Abs. 4, 5 InsO bei verspätetem Antrag.
 - **Was an die Mandantin gehört (Pflichtbausteine):** Welche Kennzahlen werden überwacht? Welche Schwellen lösen Alarm aus? Wer berichtet wem in welcher Frequenz? Welche Maßnahmen sind bereits beschlossen?
 - **Honorar:** Bei laufender Begleitung empfiehlt sich Mandatsvereinbarung mit Stunden- oder Monatspauschalhonorar — RVG-Tabelle deckt diese Beratung nicht ab.
-

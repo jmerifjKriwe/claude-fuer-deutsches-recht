@@ -75,4 +75,3 @@ d) Interessenkonflikt: AR-Mitglieder mit Doppelmandaten oder Verbindungen zu Bie
 - Persönliche Haftung von Vorstandsmitgliedern nach § 93 Abs. 2 AktG, wenn MAR-Pflicht
  schuldhaft verletzt
 - Strafbarkeit nach § 119 WpHG: persönlich für handelnde Vorstandsmitglieder
-

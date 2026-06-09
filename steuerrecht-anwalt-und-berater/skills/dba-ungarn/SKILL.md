@@ -152,4 +152,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Unga
 Stand: 05/2026. DBA-Ungarn 28.02.2011, in Kraft 30.12.2011 (BGBl. 2011 II S. 1322). MLI-Anwendung (Covered Tax Agreement). AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG). Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, AStG-Schwelle 15%), 1 ersetzt (BFH I R 42/16 nicht belegbar, durch BFH I R 95/10 zum DBA-Ungarn ersetzt) -->
-

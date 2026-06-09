@@ -64,4 +64,3 @@ Erzeuge Unfallprotokoll, Versicherungsmeldung, Schadensliste und Arzt-/Fristenhi
 ## Prompts, die dieser Skill stellen soll
 
 - Wer war beteiligt, Polizei, Verletzung, Fotos, Kennzeichen, Zeugen?
-

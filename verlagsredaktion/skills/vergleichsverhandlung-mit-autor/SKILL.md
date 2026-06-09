@@ -156,4 +156,3 @@ Verlag Autor
 - UrhG §§ 32, 32a, 79b - Verguetung, Anpassung, Nichtabdingbarkeit.
 - DSGVO Art. 6, 17 - bei Datenloeschung als Vergleichsleistung.
 - BGH-Rechtsprechung zur Reichweite von Abgeltungsklauseln (Volltexte unter bundesgerichtshof.de und dejure.org).
-

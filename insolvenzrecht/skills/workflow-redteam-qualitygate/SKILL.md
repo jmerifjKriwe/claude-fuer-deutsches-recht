@@ -52,4 +52,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Keine erfundenen Az. Falls unsicher: "BGH zu § X InsO, Az. zu verifizieren".
 - Keine erfundenen IDW-Standard-Nummern (S6, S11, EPS 11 sind real; höhere Zahlen prüfen).
 - Keine Verwechslung von § 64 GmbHG a.F. (vor 2021) und § 15b InsO (seit SanInsFoG).
-

@@ -139,4 +139,3 @@ IV. Folge
 - § 8c, § 8d KStG (analog).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

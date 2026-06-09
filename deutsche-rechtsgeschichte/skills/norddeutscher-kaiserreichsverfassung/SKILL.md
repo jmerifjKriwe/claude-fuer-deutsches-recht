@@ -68,4 +68,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - StGB 1871 (basiert auf NB-StGB 1870).
 - Gewerbeordnung 1869 weiter in Geltung (mehrfach reformiert).
-

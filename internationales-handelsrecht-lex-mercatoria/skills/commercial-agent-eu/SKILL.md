@@ -52,4 +52,3 @@ Die EU-Handelsvertreter-Richtlinie 86/653/EWG harmonisiert den HV-Schutz in der 
 ## Quellenregel
 
 HGB §§ 84-92c: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu. BGH-Rspr. zu § 89b: dejure.org. Unsicherheit bleibt sichtbar.
-

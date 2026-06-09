@@ -74,4 +74,3 @@ Konkret zu prüfen:
 - § 4 RVG (Vergütungsvereinbarung)
 - § 14 RVG (Rahmengebühr)
 - BGH NJW 2017, 2336
-

@@ -197,4 +197,3 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - SDM V3.0 (German Standard Data Protection Model) — protection goals
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-

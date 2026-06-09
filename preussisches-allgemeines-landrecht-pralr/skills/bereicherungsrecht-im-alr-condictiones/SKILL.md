@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-im-alr-condictiones
-description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrec..."
 ---
 
 # Pralr Bereicherungsrecht Im Alr Condictiones
@@ -50,4 +50,3 @@ description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemisc
 2. Auf Kosten eines anderen?
 3. Ohne Rechtsgrund?
 4. Wertersatz oder Herausgabe?
-

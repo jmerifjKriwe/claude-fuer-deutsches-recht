@@ -86,4 +86,3 @@ Wenn Krankenkassen fusionieren oder geschlossen werden, entstehen Fragen zu Vers
 - [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
 - [Bundesamt Soziale Sicherung (BAS)](https://www.bundesamtsozialesicherung.de)
 - [dejure.org § 171a SGB V](https://dejure.org/gesetze/SGB_V/171a.html)
-

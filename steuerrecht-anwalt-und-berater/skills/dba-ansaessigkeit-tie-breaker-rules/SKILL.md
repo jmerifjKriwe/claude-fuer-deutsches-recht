@@ -1,6 +1,6 @@
 ---
 name: dba-ansaessigkeit-tie-breaker-rules
-description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitung in unterschiedlichen Staaten. Prüfung ständige Wohnstaette Mittelpunkt der Lebensinteressen gewoehnlicher Aufenthalt Staatsangehoerigkeit Verständigung. MLI-Anpassung Place of Effective Management. Output Ansaessigkeitsmemo Beweismittelliste."
+description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitung in unterschiedlichen Staaten. Prüfung ständige Wohnstaett..."
 ---
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)
@@ -184,4 +184,3 @@ Pruefungskaskade in dieser Reihenfolge:
 Stand: 05/2026. Art. 4 OECD-MA 2017. §§ 8, 9, 10, 11 AO. §§ 1, 1a, 6 EStG. § 1 KStG. § 6 AStG nach ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). MLI Art. 4. Aktuelle BFH-Rechtsprechung zu Art. 4 OECD-MA in freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 1 belegt (Fundstelle/Datum bestaetigt), 6 ersetzt (Az nicht belegbar, Satz neu formuliert) -->
-

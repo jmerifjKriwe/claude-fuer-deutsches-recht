@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-bebauungsplan-angriffspunkte
-description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
 ---
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -33,4 +33,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Normenkontrolle (§ 47 VwGO):** Zuständig OVG/BayVGH (§ 47 Abs. 1 Nr. 1 VwGO). Antragsfrist ein Jahr nach Bekanntmachung. Antragsbefugnis (§ 47 Abs. 2 VwGO): Geltendmachung möglicher Rechtsverletzung in eigenen Rechten ausreichend.
 - **Beachtlichkeit von Fehlern (§ 214 BauGB):** Formelle Fehler nur in engen Grenzen beachtlich; Verfahrensfehler des § 214 Abs. 1 Nr. 1-4 BauGB nur bei innerhalb der Rügefrist gerügten Mängeln. Materielle Fehler (Abwägung) gem. § 214 Abs. 3 BauGB.
 - **Rügefrist (§ 215 BauGB):** Ein Jahr nach Bekanntmachung, schriftlich an die Gemeinde mit konkreter Bezeichnung des Mangels. Versäumung: Mangel wird unbeachtlich.
-

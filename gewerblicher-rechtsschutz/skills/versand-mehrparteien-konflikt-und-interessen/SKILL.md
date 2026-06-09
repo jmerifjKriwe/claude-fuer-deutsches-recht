@@ -136,4 +136,3 @@ Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritt
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsverhandlung
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Mandatsziel
 - `mandat-triage-gewerblicher-rechtsschutz` – Mandatstriage
-

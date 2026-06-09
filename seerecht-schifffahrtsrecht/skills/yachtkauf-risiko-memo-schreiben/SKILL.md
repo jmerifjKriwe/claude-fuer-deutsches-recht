@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-risiko-memo-schreiben
-description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC..."
 ---
 
 # Yachtkauf – Risiko-Memo schreiben
@@ -93,4 +93,3 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
-

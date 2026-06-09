@@ -64,4 +64,3 @@ description: "Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährl
 - https://www.gesetze-im-internet.de/bgb/__506.html
 - https://www.gesetze-im-internet.de/bgb/__535.html
 - https://www.gesetze-im-internet.de/bgb/__358.html
-

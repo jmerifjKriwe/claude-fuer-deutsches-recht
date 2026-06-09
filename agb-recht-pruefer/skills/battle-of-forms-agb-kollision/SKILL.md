@@ -64,4 +64,3 @@ description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüf
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

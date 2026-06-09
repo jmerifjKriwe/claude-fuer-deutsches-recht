@@ -15,4 +15,3 @@ Gesellschafterbeschluss vom 17.10.2025: Zustimmung zum Senior-Darlehensvertrag N
 - Eintrag in Reiter 2 mit Typ-Tag Beschluss
 - Querverweis auf zustimmungspflichtige Vertraege (Reiter 2 Anmerkungsspalte)
 - Hinweisliste an `unterschriftspruefung` und ggf. Reiter 3 wenn Form fragwuerdig
-

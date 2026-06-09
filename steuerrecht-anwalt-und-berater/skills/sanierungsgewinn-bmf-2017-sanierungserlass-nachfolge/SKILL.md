@@ -156,4 +156,3 @@ herangezogen werden.
 - § 7b GewStG.
 - § 89 AO.
 - Rechtsprechung (insb. Großer Senat BFH zum alten Sanierungserlass): keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

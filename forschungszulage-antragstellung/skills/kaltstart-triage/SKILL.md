@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild plus Arbeitsentwurf."
+description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild..."
 ---
 
 # Forschungszulage — Allgemein
@@ -181,4 +181,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zitierweise: `references/zitierweise.md`
 
 Konkrete Beträge, Fristen und KMU-Definition vom Antragsteller vor Einreichung live mit aktueller Gesetzesfassung und BSFZ-Portal abgleichen.
-

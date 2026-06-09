@@ -65,4 +65,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Seedarlehen/Versicherungsersatz: `rom-123-fenus-nauticum-seedarlehen`
 - Erbrecht/Testament/Pflichtteil: `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil`
 - Unklare Anfrage "Vergebung": `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
-

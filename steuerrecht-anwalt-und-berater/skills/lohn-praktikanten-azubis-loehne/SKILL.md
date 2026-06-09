@@ -1,6 +1,6 @@
 ---
 name: lohn-praktikanten-azubis-loehne
-description: "Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs freiwilliges Praktikum Schwellen. Output Lohn-Abrechnung mit korrekter SV-Klassifikation."
+description: "Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs freiwilliges Praktikum Schwellen. Output Lohn-Abrechnung mit korrekter SV-Klass..."
 ---
 
 # Praktikanten und Azubis — lohnrelevante Sonderregeln
@@ -112,4 +112,3 @@ Stand: 05/2026.
 - SvEV-Sachbezugswerte jaehrlich angepasst (Stand 2025: Verpflegung 313 EUR/Monat; ueber BMAS pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mindest-Ausbildungsverguetung 2025 682 EUR eingesetzt), 1 ersetzt (Geringverdienergrenze Pruefhinweis ohne Marker) -->
-

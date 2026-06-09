@@ -90,4 +90,3 @@ Prüfungsschritte: (1) Willenserklärungen abgegeben und zugegangen? (2) Geschä
 - Parteieigenschaft (Verbraucher/Unternehmer/Minderjähriger) festgestellt?
 - Vollmachten und Vertretungssituationen erfasst?
 - Prüfprogramm auf den konkreten Fall zugeschnitten?
-

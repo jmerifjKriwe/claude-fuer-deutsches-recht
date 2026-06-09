@@ -1,6 +1,6 @@
 ---
 name: boesglaeubigkeit-kenntnis-und-819-timing
-description: "Bei der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB."
+description: "Bei der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebra..."
 ---
 
 # Bösgläubigkeit, Kenntnis und § 819 Timing
@@ -88,4 +88,3 @@ Nicht jede Unsicherheit ist Kenntnis. Umgekehrt kann der Empfänger nach klarer 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

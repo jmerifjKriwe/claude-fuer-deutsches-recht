@@ -43,4 +43,3 @@ Bei einer unselbststaendigen Zweigniederlassung ist zuerst der Rechtstraeger zu 
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

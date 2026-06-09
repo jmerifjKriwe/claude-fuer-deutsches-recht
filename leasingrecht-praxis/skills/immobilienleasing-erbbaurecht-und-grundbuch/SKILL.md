@@ -107,4 +107,3 @@ Einschränkung: Wenn Refinanzierer Grundschuld oder Hypothek hat (§§ 1113 ff. 
 - **Grundbuch-Check**: Eigentümer, Lasten, Vormerkung, Grundpfandrechte
 - **IFRS-16-Immobilien**: Erstansatz, RoU, Leasingverbindlichkeit
 - **AfA-Berechnung**: Gebäude vs. Grund/Boden, Aufteilung
-

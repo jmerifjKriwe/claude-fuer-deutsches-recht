@@ -34,4 +34,3 @@ InsO; InsBekV; DSGVO Art. 5, 6, 17; EuGH C-26/22/C-64/22.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

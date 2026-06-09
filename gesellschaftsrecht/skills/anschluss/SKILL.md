@@ -1,6 +1,6 @@
 ---
 name: anschluss
-description: "Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Gesellschaftsrecht."
+description: "Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..."
 ---
 
 # Gesellschaftsrecht — Allgemein
@@ -263,4 +263,3 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 - BGH II ZR 25/82
 - BFH I R 53/08
-

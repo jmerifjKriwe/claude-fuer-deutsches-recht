@@ -74,4 +74,3 @@ Die Unterlassungserklärung ist ein rechtlich bindender Vertrag mit erheblichen 
 - Modifizierter Gegenentwurf
 - Compliance-Protokoll nach Abgabe
 - Vertragsstrafe-Herabsetzungsantrag (Muster)
-

@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-pre-shipment
-description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung im Internationales Handelsrecht Lex Mercat..."
 ---
 
 # Qualitätskontrolle: Pre-Shipment Inspection
@@ -48,4 +48,3 @@ Pre-Shipment Inspection (PSI) ist die Warenprüfung vor Verschiffung durch unabh
 - Haftungskettenanalyse: Verkäufer → Inspektor → Käufer; wer kann von wem fordern?
 - Akkreditiv: PSI-Zertifikat-Format mit Bank vorab abstimmen (UCP 600 Art. 26)
 - Kosten-Risikoanalyse: PSI-Kosten vs. Mangelrisiko nach Transaktionsgröße
-

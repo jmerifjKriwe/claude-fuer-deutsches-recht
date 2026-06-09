@@ -1,6 +1,6 @@
 ---
 name: handelsbilanz-und-abhaengigkeiten
-description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen im Festlandchina Wirtschaftsverkehr."
+description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängig..."
 ---
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung
@@ -86,4 +86,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [EU Foreign Subsidies VO 2022/2560](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2560)
 - [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-

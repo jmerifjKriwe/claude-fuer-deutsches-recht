@@ -111,4 +111,3 @@ Stand: 05/2026.
 - Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (Insolvenzgeld-Umlage 2025 0,06% eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->
-

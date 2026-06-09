@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestung..."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild
@@ -87,4 +87,3 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
-

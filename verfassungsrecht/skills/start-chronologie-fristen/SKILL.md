@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Verfassungsrecht."
+description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig:..."
 ---
 
 # Verfassungsrecht — Allgemein
@@ -215,4 +215,3 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 - BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Quellen-TKÜ für Taten mit niedrigem Strafrahmen teilweise nichtig — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
 - BVerfG, Klimabeschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. — intertemporale Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - BVerfG, Jahresbericht 2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
-

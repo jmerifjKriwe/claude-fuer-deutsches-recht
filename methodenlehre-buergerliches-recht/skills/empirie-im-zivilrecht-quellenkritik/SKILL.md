@@ -1,6 +1,6 @@
 ---
 name: empirie-im-zivilrecht-quellenkritik
-description: "Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit."
+description: "Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwi..."
 ---
 
 # Empirie im Zivilrecht: Quellenkritik und methodischer Umgang
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 199 BGB – Beginn der Verjährungsfrist](https://dejure.org/gesetze/BGB/199.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

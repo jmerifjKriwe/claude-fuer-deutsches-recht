@@ -47,4 +47,3 @@ Das BGB-Schuldrecht 1900 (Buch II, §§ 241-853) war Ausdruck der liberalen Vert
 - AGBG 1976 (historisch): BGBl. I 1976, 3317; ALEX/OeNB für Druckfassung
 - SchuRModG 2002: BGBl. I 2001, 3138; Materialien im Bundestags-Drucksachen (BT-Drs.)
 - BGH-Schuldrechtsprechung: bgh.de (VIII. und X. Zivilsenat)
-

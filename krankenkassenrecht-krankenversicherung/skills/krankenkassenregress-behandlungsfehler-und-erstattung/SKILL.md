@@ -86,4 +86,3 @@ Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse 
 - [BGH VI ZR 91/17](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 116 SGB X](https://dejure.org/gesetze/SGB_X/116.html)
 - [Bundesärztekammer Behandlungsfehler](https://www.bundesaerztekammer.de)
-

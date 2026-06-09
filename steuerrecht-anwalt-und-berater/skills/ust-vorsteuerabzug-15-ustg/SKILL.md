@@ -1,6 +1,6 @@
 ---
 name: ust-vorsteuerabzug-15-ustg
-description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug für das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaengel fehlender Leistungsbeschreibung oder Verdacht auf Karussellgeschaeft. Behandelt § 15 UStG iVm § 14 UStG MwStSystRL und der nationale Ausgleich durch § 14a UStG. Output Pruefraster und Argumentationsmuster. Abgrenzung zu fa-stu-ust-rechnungspflicht-14-ustg."
+description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug für das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaenge..."
 ---
 
 # Vorsteuerabzug — § 15 UStG materielle und formelle Voraussetzungen
@@ -42,4 +42,3 @@ description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unt
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

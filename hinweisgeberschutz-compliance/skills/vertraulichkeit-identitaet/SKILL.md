@@ -54,4 +54,3 @@ Erzeuge bevorzugt: Zugriffs- und Vertraulichkeitskonzept. Wenn der Nutzer nur ei
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

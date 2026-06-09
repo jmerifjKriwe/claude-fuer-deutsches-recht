@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-praxis-corporate
-description: "Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreihenfolge nach § 3a Abs. 3 EStG und die Schnittstellen zu Restrukturierungsdokumenten. Liefert Prüfraster, Mustertexte für Sanierungsabreden und Verhandlungsleitlinien. Quellen Stand 06/2026."
+description: "Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreih..."
 ---
 
 # Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
@@ -114,4 +114,3 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - IDW S 6 (Anforderungen an Sanierungskonzepte); IDW S 11 (Fortbestehensprognose) – Verifizierung über idw.de.
-

@@ -83,4 +83,3 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` und `references/rechtsstand-mai-2026.md` zwingend laden, bevor Rechtsprechungsaussagen ausgegeben werden.
-

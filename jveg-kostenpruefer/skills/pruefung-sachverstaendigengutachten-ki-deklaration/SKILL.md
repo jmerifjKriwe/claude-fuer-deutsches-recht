@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenprüfung im Jveg Kostenpruefer."
+description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht..."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
@@ -235,4 +235,3 @@ Gründe:
 - **Erfahrungswerte aus aktueller Instanzrechtsprechung**: Erhebliche, nicht deklarierte KI-Einsätze können bereits allein die Festsetzung auf 0 Euro tragen, wenn die persönliche Erstellung nicht mehr plausibel ist.
 - **Kollegen einbinden**: Bei grundsätzlicher Bedeutung Anregung an die Kammer oder das Präsidium, Leitlinien zu entwickeln.
 - **Externe Berichterstattung**: Beschlüsse mit 0-Euro-Festsetzung können öffentliche Aufmerksamkeit erzeugen — Vorsicht bei der Anonymisierung.
-

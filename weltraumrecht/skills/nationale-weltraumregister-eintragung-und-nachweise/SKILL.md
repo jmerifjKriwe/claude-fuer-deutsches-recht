@@ -111,4 +111,3 @@ Das Rechtsgebiet berührt folgende Kernthemen: Nationales Weltraumregister, Eint
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
-

@@ -78,4 +78,3 @@ Konkret zu prüfen:
 
 - §§ 1-141 VGG (Verwertungsgesellschaften)
 - § 9 VGG
-

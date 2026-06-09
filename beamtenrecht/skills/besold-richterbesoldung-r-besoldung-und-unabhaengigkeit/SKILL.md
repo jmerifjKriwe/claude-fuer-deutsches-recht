@@ -40,4 +40,3 @@ description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im 
 2. R-Stufe?
 3. Familienstand?
 4. Amtsangemessen?
-

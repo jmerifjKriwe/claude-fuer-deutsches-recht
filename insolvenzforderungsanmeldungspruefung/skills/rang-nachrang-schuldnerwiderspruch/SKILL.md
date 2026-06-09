@@ -1,6 +1,6 @@
 ---
 name: rang-nachrang-schuldnerwiderspruch
-description: "Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungsrecht. Prüfraster einfache Insolvenzforderung vs. Nachrang vs. Absonderung, Glaubhaftmachung Sicherheitsrecht, Ausfallforderung nach Verwertung. Output Rang-Klassifizierungsprotokoll mit Begründung und Tabellenposition. Abgrenzung zu Formalprüfung und zu Prüfentscheidung im Insolvenzforderungsanmeldungspruefung."
+description: "Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungs..."
 ---
 
 # Rang, Nachrang und Sicherungsrechte
@@ -75,4 +75,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 / § 135 InsO?** Nach BGH IX ZR 239/22 vom 18.04.2024 strenge Anforderungen an Anfechtung gesellschafterähnlicher Stellungen; Sanierungsprivileg § 39 Abs. 4 InsO prüfen.
-

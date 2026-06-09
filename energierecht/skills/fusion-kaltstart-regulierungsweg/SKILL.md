@@ -43,4 +43,3 @@ AtG, StrlSchG, BauGB, BImSchG, EU-Recht, Behördenzuständigkeit live prüfen.
 ## Spezielle Vorsicht
 
 Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
-

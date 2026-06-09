@@ -77,4 +77,3 @@ bestimmt (§ 49 HGB). Einschränkungen durch Innenverhältnis sind dem Dritten n
 - Erlöschen: Widerruf oder Beendigung des Grundverhältnisses?
 - Rechtsschein nach §§ 170 bis 172 BGB: Gutgläubiger Dritte geschützt?
 - § 173 BGB: Kannte oder musste Dritte das Erlöschen kennen?
-

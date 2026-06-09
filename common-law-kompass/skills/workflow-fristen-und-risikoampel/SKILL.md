@@ -52,4 +52,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot — Service of Process Ausland:** HZÜ/Haager Zustellungsübereinkommen; ZRHO einhalten; Direktzustellung an deutsche Partei nur über zentrale Behörde (deutsche Vorbehalte zu Art. 10 HZÜ).
 - **Gelb — Brüssel Ia (VO 1215/2012):** Wegen Brexit nicht mehr UK-anwendbar; Hague 2005/Hague 2019 prüfen; UK ist Haager Gerichtsstandsübereinkommen 2005 wieder Vertragspartei.
 - **Praxis-Tipp:** US-Verfahren keine Beratung ohne local counsel; deutsche Rechtsanwälte beraten lediglich zur deutsch-rechtlichen Relevanz (z. B. Anerkennung/Vollstreckung nach §§ 328, 722 f. ZPO).
-

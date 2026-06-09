@@ -1,6 +1,6 @@
 ---
 name: 018-erster-titel-15-buergschaft
-description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welc..."
 ---
 
 # PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten
@@ -46,4 +46,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: "Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren im Immobilienrechtspraxis."
+description: "Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren im Immobilienrechtsp..."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht
@@ -165,4 +165,3 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - Datenschutz: Art. 6 DSGVO, Art. 28 DSGVO (AVV)
 - GwG-Dokumentation: §§ 10 ff. GwG
 - Aufbewahrungspflicht: § 50 StBerG analog, Steuerrecht 10 Jahre
-

@@ -54,4 +54,3 @@ description: "Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer un
 - Berufshaftpflicht § 51 BRAO als Existenzschutz, nicht als Pflichtuebung behandeln; Hoechstsumme an Mandatsstruktur anpassen.
 - RVG-Vergueterungsvereinbarung § 3a BRAO schriftlich; bei Verbrauchern strenge Formvorgaben.
 - Kleinunternehmerregelung § 19 UStG strategisch waehlen; Vorsteuerverzicht beim Praxisstart oft nachteilig.
-

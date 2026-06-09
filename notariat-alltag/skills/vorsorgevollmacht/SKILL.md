@@ -98,4 +98,3 @@ Seit 1.1.2023 gilt das neue Betreuungsrecht (§§ 1814 ff. BGB n.F.). Wesentlich
 - **Checkliste** (Form, Inhalt, Registrierung, Aufbewahrung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

@@ -134,4 +134,3 @@ Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen g
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
-

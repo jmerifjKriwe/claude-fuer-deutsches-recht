@@ -63,4 +63,3 @@ Das Bundesverfassungsgericht (BVerfG) wurde am 7. September 1951 in Karlsruhe er
 - BVerfGG: gesetze-im-internet.de
 - Sekundaerliteratur: Uwe Wesel, Geschichte des Rechts (1. und 2. Teil)
 - Leibholz Strukturprobleme der modernen Demokratie (1958): historische Ausgabe
-

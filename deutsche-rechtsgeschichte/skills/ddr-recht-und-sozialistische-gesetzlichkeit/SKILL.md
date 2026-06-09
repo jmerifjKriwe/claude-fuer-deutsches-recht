@@ -63,4 +63,3 @@ Die DDR (1949-1990) entwickelte ein eigenstaendiges Rechtssystem auf sozialistis
 - DDR-ZGB 1975: GBl. I DDR 1975, 465 via ALEX/OeNB
 - BGH zu Mauerschuetzen: bgh.de
 - BVerfG zu DDR-Recht-Aufarbeitung: bverfg.de
-

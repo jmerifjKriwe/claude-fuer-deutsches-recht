@@ -102,4 +102,3 @@ Inhalt:
 - **Gerichtsstandsklausel-Muster B2B**: Ausschließlicher Gerichtsstand
 - **VSBG-Informationstext**: Pflichthinweis für LG-Website und AGB
 - **Mediationsklausel**: Stufenklausel (erst Mediation, dann Schiedsgericht)
-

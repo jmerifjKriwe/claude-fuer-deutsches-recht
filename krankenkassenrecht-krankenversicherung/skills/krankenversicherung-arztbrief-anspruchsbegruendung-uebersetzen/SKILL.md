@@ -86,4 +86,3 @@ Arztbriefe enthalten die entscheidenden medizinischen Argumente für GKV-/PKV-An
 - [BSG Off-Label-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [§ 192 VVG – PKV-Notwendigkeit](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [dejure.org § 27 SGB V](https://dejure.org/gesetze/SGB_V/27.html)
-

@@ -26,4 +26,3 @@ VerpackG §§ 7, 9, 10; Stiftung Zentrale Stelle Verpackungsregister.
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

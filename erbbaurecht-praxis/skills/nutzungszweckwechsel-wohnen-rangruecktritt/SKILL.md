@@ -53,4 +53,3 @@ Typisch: Kita wird Co-Working, Gewerbe wird Wohnen, Verein wird Betreiber-GmbH. 
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

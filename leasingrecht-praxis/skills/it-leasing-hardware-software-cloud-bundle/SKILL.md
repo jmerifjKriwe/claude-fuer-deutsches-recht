@@ -99,4 +99,3 @@ description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lize
 - **Datenlöschungs-Klausel**: Musterformulierung für Rückgabeprotokoll
 - **EOL-Risikomatrix**: Nutzungsdauer, Supportende, Leasinglaufzeit
 - **AVV-Check**: Auftragsverarbeitung DSGVO-konform?
-

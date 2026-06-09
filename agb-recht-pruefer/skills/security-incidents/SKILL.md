@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Security Incidents: prüft, redlined und en
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

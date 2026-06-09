@@ -48,4 +48,3 @@ Sanktionsklauseln erlauben die Vertragsbeendigung oder Zahlungsverweigerung wenn
 - Wind-Down: OFAC-Lizenz-Prozess parallel starten wenn Sanktionseinführung droht
 - Blocking Statute: Bericht an Bundesministerium für Wirtschaft + Geschäftsführungsverpflichtung
 - Screening: SDN-Screening-Klausel als Vertragsbestandteil; Frequenz definieren
-

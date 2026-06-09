@@ -131,4 +131,3 @@ Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-an
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-

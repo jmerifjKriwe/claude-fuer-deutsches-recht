@@ -64,4 +64,3 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 - Thibaut 1814: Ueber die Notwendigkeit (Heidelberg 1814)
 - Radbruch 1946: SJZ 1946, 105 (Sueddeutsche Juristen-Zeitung)
 - Stolleis, Geschichte des öffentlichen Rechts: Bandangabe + Seite
-

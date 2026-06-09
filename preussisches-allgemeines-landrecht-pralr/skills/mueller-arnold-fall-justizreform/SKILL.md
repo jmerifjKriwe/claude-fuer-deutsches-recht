@@ -42,4 +42,3 @@ Der Mueller-Arnold-Fall war der unmittelbare Anlass für die Justizreform unter 
 1. Quellenarbeit: Akten in PrGS oder Akten des Geheimen Staatsarchivs Preussischer Kulturbesitz.
 2. Trennung von Historiographie und Dogmengeschichte: Fall ist primaer politisches Symbol, dogmatisch wenig ertragreich, aber als Lehrfall zur Richterunabhaengigkeit unschlagbar.
 3. Heute Bezug zu Richter-Disziplinarrecht (§ 26 DRiG) und Geschaeftsverteilung (§ 21e GVG).
-

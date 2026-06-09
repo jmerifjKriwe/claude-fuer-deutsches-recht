@@ -1,6 +1,6 @@
 ---
 name: ggmbh-risikoampel-und-gegenargumente
-description: "Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgrue..."
 ---
 
 # Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -60,4 +60,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **gGmbH versus e.V.:** e.V. günstiger zu führen, aber bei wirtschaftlicher Aktivität droht § 22 BGB / Idealverein-Verlust. gGmbH erlaubt klar Mischbetrieb.
 - **Risiko-Hebel "wirtschaftlicher Geschäftsbetrieb":** ab Bruttoeinnahmen 45.000 EUR (§ 64 Abs. 3 AO) Pflicht zur Aufteilung; oberhalb voller Körperschaftsteuer- und Gewerbesteuerpflicht.
 - **Praktiker-Tipp:** Vor jeder Satzungsänderung Vorlage beim Finanzamt zur unverbindlichen Vorabprüfung; Schreiben des Finanzamts zur Gemeinnützigkeit (Freistellungsbescheid, Anlage Anlage zur Steuererklärung KSt 1 F) ist Lebensnerv.
-

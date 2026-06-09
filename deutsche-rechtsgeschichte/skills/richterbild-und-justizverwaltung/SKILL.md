@@ -46,4 +46,3 @@ Das Richterbild hat sich im Laufe der deutschen Rechtsgeschichte gewandelt. Im g
 - DRiG: gesetze-im-internet.de
 - GG Art. 97: gesetze-im-internet.de; BVerfGE zur richterlichen Unabhaengigkeit: bverfg.de
 - NS-Richterbriefe: Bundesarchiv Berlin (Bestand R 3001, Reichsjustizministerium)
-

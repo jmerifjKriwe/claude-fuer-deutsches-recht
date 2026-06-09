@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-gartenhaus-carport
-description: "Bauueberwachung gemaess HOAI LPH 8 für Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung gemaess HOAI LPH 8 für Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Ma..."
 ---
 
 # Bauueberwachung Gartenhaus und Carport (LPH 8)
@@ -84,4 +84,3 @@ Gartenhaeuser und Carports gelten baurechtlich je nach Landesbauordnung als gene
 - [BGH VII ZR 46/06 Bauueberwachungspflicht](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+46/06)
 - [DIN 1054 Baugrund](https://www.gesetze-im-internet.de/)
 - [DIN 68800 Holzschutz](https://www.gesetze-im-internet.de/)
-

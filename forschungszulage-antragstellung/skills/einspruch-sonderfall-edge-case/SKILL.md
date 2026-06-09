@@ -1,6 +1,6 @@
 ---
 name: einspruch-sonderfall-edge-case
-description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
 ---
 
 # Einspruch: Sonderfall und Edge-Case-Prüfung
@@ -75,4 +75,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Widerspruch gegen BSFZ-Bescheid ans Finanzamt geschickt - falsche Zuständigkeit, kein Fristwirkung.
 - Klage gegen Festsetzungsbescheid beim Verwaltungsgericht erhoben - Rechtsweg verfehlt, FGO einschlägig.
 - AdV-Antrag vergessen, obwohl Liquiditätsdruck besteht.
-

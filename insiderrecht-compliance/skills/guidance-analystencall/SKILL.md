@@ -70,4 +70,3 @@ wird, und steuert die Ad-hoc-Veröffentlichung oder deren Koordination mit dem Q
 - Personenkreis, der die neue interne Prognose kennt: In Insiderliste aufnehmen
 - PDMR-Eigengeschäfte in der Phase bis zur Ad-hoc: Prüfung auf Art. 14 MAR-Verletzung
 - Nach Ad-hoc: Insiderliste schließen (Austrittsdaten)
-

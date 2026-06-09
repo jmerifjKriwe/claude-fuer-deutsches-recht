@@ -191,4 +191,3 @@ beachtet; parallel § 7b GewStG-Antrag.
 ### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse zur Behandlung stehen gelassener Verbindlichkeiten in der Liquidation.
-

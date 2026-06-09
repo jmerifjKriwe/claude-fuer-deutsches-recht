@@ -32,4 +32,3 @@ Kennzeichnung soll informieren, nicht stigmatisieren. Der Hinweis muss dort steh
 - **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
 - **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
 - **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.
-

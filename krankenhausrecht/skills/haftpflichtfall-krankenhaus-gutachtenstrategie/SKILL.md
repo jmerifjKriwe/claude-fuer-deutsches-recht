@@ -83,4 +83,3 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - HeilberG Länder (Live-Check Landesaerztekammern).
 - BGH, staend. Rspr. zu Behandlungsfehler, Aufklaerung, Beweislast.
 - ZPO §§ 142, 411a, 412.
-

@@ -130,4 +130,3 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 278 ZPO unveraendert.
-

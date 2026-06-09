@@ -37,4 +37,3 @@ EU-Beihilferecht, Haushaltsrecht, IP-Recht, Exportkontrolle, Forschungskooperati
 ## Spezielle Vorsicht
 
 Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
-

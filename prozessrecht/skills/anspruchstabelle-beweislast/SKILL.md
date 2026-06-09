@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle-beweislast
-description: "Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Grundlage für Klageschrift oder Erwiderung. Abgrenzung: nicht Streitwertberechnung."
+description: "Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Grundlage für Klageschrift oder Erwiderung. Abgrenzung: nicht S..."
 ---
 
 # Anspruchstabelle
@@ -102,4 +102,3 @@ Patent:
 - BGH VI ZR 184/10
 - BGH VI ZR 226/16
 - BGH VI ZR 73/20
-

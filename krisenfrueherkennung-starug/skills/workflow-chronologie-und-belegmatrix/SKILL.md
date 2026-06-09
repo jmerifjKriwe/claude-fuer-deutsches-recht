@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Beweismittel:** E-Mails, Sitzungsprotokolle, Bankunterlagen, Steuerbescheide — möglichst mit Eingangsstempel / Zeitstempel.
 - **Trade-off:** Eine vollständige Chronologie kostet Zeit, ist aber im Haftungsprozess (§ 43 GmbHG) Voraussetzung für eine wirksame Verteidigung.
 - **Praxis:** Belege chronologisch sortiert in einem Datenraum mit Audit-Log halten; Versionierung von Sanierungsplänen ist Pflicht.
-

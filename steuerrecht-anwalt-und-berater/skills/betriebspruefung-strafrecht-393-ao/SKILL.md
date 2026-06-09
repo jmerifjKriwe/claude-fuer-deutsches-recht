@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strafrecht-393-ao
-description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen. Behandelt Belehrungspflicht § 393 Abs. 1 S. 4 AO Verwertungsverbot § 393 Abs. 2 AO und das Verhaeltnis zu § 30 AO Steuergeheimnis. Output Verteidigungsraster für parallele Verfahren und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao."
+description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen..."
 ---
 
 # Aussenpruefung und Strafverfahren — § 393 AO nemo tenetur
@@ -71,4 +71,3 @@ description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstr
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-

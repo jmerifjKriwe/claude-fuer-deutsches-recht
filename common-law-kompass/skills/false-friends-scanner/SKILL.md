@@ -1,6 +1,6 @@
 ---
 name: false-friends-scanner
-description: "Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich) im Common Law Kompass."
+description: "Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sic..."
 ---
 
 # False-Friends-Scanner
@@ -95,4 +95,3 @@ No. | Term Found | Location | Risk | Recommended Change
 2 | [good faith] | Clause 8 | HIGH — unenforceable English law | Remove or replace with specific obligations
 3 | [condition] | Clause 3 | MEDIUM — correct usage but confirm | Confirm classification intended
 ```
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrollklauseln-vertrag
-description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und Vertragspruefbericht im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und..."
 ---
 
 # Exportkontrollklauseln im Vertrag: Gestaltung und Pruefung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU-Kommission No-Russia-Clause Muster](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/sanctions-policy-and-legal-framework_en)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [BAFA Exportkontrolle allgemein](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
-

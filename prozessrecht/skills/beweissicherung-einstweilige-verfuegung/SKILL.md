@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-einstweilige-verfuegung
-description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbständiges Beweisverfahren. Abgrenzung: nicht einstweilige Verfuegung im Prozessrecht."
+description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbständiges Beweisverfahren. Abgrenzung..."
 ---
 
 # Aufbewahrungspflicht und Beweissicherung
@@ -124,4 +124,3 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 
 <!-- AUDIT 27.05.2026 bundle_040
 -->
-

@@ -51,4 +51,3 @@ Empfehlung: Erst Einzelfall prüfen, dann ggf. zusätzlich verfassungsrechtlich 
 
 - Mandant hat Immobilien in BY und BW, Einspruch wird mit BFH-Linie zum Bundesmodell begründet; das geht in beiden Ländern fehl.
 - "Hauptfeststellungszeitpunkt 01.01.2022" wird auch auf Bayern übertragen; dort gilt der Stichtag der Erklärung (Flächenmodell hat keine Hauptfeststellung im klassischen Sinn).
-

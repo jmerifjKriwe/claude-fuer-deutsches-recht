@@ -56,4 +56,3 @@ description: "Franchise: Mindestumsatzklauseln und Territorialschutz. Skill beha
 5. Gibt es Ramp-up, Standortreife, saisonale Schwankung und lokale Behördenschließung?
 6. Ist die Sanktion abgestuft: Coaching, Nachfrist, Gebietsanpassung, Kündigung, Vertragsstrafe?
 7. Dürfen Online-/Passivverkäufe rechtmäßig stattfinden?
-

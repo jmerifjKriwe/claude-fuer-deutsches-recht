@@ -87,4 +87,3 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 - BFSG.
 - NIST AI Risk Management Framework; ISO/IEC TR 24027 Bias.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BAuA, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

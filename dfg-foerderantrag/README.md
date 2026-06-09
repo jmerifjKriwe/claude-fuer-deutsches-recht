@@ -64,7 +64,7 @@ Typische Startpunkte:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -146,7 +146,6 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `start-chronologie-fristen` | Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeit... |
 | `strategien-internationaler-bezug` | Strategien: Internationaler Bezug und Schnittstellen im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
 | `strategien-internationaler-bezug-und-schnittstellen` | Strategien: Internationaler Bezug und Schnittstellen im Plugin dfg foerderantrag im DFG-Förderantrag. |
-| `team-sonderfall` | Team Sonderfall im DFG-Förderantragstellung im DFG-Förderantrag. |
 | `team-sonderfall-edge-case` | Team: Sonderfall und Edge-Case-Prüfung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahl... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für DFG-Förderantrag: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, Finanzierungsplan, Lebenslauf), nennt pro Lücke Beweisthema, Beschaffungsweg (Deutsche Forschungsgemeinschaft), Fri... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im DFG-Förderantrag. |

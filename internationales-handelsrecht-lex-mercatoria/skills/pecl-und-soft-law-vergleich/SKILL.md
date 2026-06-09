@@ -48,4 +48,3 @@ Neben UNIDROIT PICC existieren europäische Soft-Law-Instrumente: die Principles
 - Schiedsgerichtspraxis: CENTRAL trans-lex.org für Zitationshäufigkeit
 - Europarechtlicher Kontext: DCFR als Auslegungsmaterial für EU-Richtlinien
 - Für praktische Vertragsgestaltung: PICC bevorzugen (mehr Schiedspraxis)
-

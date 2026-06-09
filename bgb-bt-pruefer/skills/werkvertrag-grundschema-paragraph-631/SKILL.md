@@ -62,4 +62,3 @@ description: "Werkvertrag § 631 BGB: Grundschema, Vergütung, Abnahme, Mängelr
 - werkvertrag-maengelrechte
 - werk-dienst-abgrenzung-erfolg
 - bauvertrag-und-verbraucherbauvertrag
-

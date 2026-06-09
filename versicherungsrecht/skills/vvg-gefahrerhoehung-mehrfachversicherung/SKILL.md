@@ -41,4 +41,3 @@ VVG §§ 23–27, 81; BGB §§ 133, 157; AVB.
 
 - wohngebaeude-leitungswasser-sturm-hagel-brand
 - kfz-kasko-grobe-fahrlaessigkeit-entwendung
-

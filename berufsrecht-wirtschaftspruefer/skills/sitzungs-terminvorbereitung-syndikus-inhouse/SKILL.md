@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-syndikus-inhouse
-description: "Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht W..."
 ---
 
 # Sitzungs- und Terminvorbereitung
@@ -33,4 +33,3 @@ description: "Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill f�
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

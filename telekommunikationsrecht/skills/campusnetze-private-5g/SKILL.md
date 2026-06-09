@@ -33,4 +33,3 @@ description: "Campusnetze/private 5G: lokale Frequenzen, Betreiberrolle, Sicherh
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

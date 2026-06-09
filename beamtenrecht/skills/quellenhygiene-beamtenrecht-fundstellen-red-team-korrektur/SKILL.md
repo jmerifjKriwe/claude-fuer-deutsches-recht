@@ -28,4 +28,3 @@ description: "Quellenhygiene-Red-Team für Beamten- und Richterrecht: erkennt ve
 ## Harte Regel
 
 Wenn Gericht, Datum und Aktenzeichen nicht zusammenpassen, wird nicht geraten. Der Skill formuliert dann: „Diese Fundstelle ist nicht belastbar; vor Verwendung amtlich oder frei verifizieren."
-

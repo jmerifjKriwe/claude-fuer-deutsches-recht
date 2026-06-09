@@ -41,4 +41,3 @@ description: "Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

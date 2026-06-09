@@ -50,4 +50,3 @@ Reiter 4 ist der Action-Plan. Wenn Reiter 1 bis 3 sauber sind, schreibt
 Reiter 4 sich fast von selbst. Optional ergaenzbar durch Reiter 5
 (Fristen), Reiter 6 (Beteiligte), Reiter 7 (Rangfolge) und Reiter 8
 (Sicherheiten).
-

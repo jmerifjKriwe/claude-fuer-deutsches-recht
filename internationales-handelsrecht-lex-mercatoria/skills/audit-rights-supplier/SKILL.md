@@ -73,4 +73,3 @@ Audit-Rechte in Lieferverträgen ermöglichen dem Auftraggeber die Überprüfung
 - BGH VIII ZR 274/98
 - BGH VIII ZR 304/00
 - EuGH C-311/18
-

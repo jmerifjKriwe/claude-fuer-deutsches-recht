@@ -133,4 +133,3 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 - EuGH C-249/21
 - EuGH C-208/19
 - EuGH C-186/16
-

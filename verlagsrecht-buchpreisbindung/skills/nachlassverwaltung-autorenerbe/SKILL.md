@@ -117,4 +117,3 @@ Mit dem Tod eines Autors geht das Urheberrecht auf die **Erben** über. Dieser S
 - **Nachlass-Lizenzvertrag-Muster**: Posthumes Werk
 - **Erbengemeinschafts-Zustimmungs-Protokoll**: Für Lizenzerteilungen
 - **Schutzfristen-Kalender**: Für alle Werke eines Autors
-

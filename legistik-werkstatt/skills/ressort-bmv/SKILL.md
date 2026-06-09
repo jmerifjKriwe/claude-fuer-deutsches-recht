@@ -1,6 +1,6 @@
 ---
 name: ressort-bmv
-description: "Heranfuehrung Ressort BMV (Bundesministerium für Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-aeg; luft-und-luftverkehrsrecht; schifffahrts-und-seeverkehrsrecht; mobilitaets-und-fuehrerscheinrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmv und legw-bmv-Themenslug."
+description: "Heranfuehrung Ressort BMV (Bundesministerium für Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-a..."
 ---
 
 # Ressort-Heranfuehrung BMV
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

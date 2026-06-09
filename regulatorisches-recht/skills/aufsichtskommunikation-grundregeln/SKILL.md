@@ -70,4 +70,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 - EuGH C-6/64
 - EuGH C-117/20
-

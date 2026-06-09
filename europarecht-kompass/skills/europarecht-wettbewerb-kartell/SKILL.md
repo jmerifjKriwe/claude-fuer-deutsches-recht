@@ -1,6 +1,6 @@
 ---
 name: europarecht-wettbewerb-kartell
-description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben) im Europarecht Kompass."
+description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrecht..."
 ---
 
 # EU-Wettbewerb und Kartellrecht
@@ -100,4 +100,3 @@ Geschaedigter: [Mandant als Opfer / Mandant als Tater]
 Schadenshoehe: EUR [X] geschaetzt
 Klagefrist: § 33h GWB 5 Jahre (verjährt: [DATUM])
 ```
-

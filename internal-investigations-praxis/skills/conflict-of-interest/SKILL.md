@@ -86,4 +86,3 @@ Dieser Skill identifiziert und untersucht Interessenkonflikte, leitet Remediatio
 - **Schadensersatz-Berechnungsvorlage**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

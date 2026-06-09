@@ -1,6 +1,6 @@
 ---
 name: zwitterrecht-alr-ii-1-19-bis-22
-description: "Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die Aufhebung mit BGB. Liefert Quellenmatrix."
+description: "Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die..."
 ---
 
 # Pralr Zwitterrecht Alr Ii 1 19 Bis 22
@@ -45,4 +45,3 @@ ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des A
 1. Geschichtswissenschaft oder lebendes Recht?
 2. Vergleich zu modernem Personenstandsrecht.
 3. § 22 PStG (Eintrag) heute.
-

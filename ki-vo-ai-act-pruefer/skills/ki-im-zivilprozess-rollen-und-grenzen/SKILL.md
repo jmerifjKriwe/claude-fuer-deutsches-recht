@@ -32,4 +32,3 @@ Die folgende Matrix ordnet jedem Verfahrensbeteiligten den zulässigen KI-Einsat
 - Parteien müssen erheblichen Vortrag erkennen und bestreiten können.
 - Quellen, Datenbasis und Methode müssen bei entscheidungsrelevanter KI nachvollziehbar sein.
 - Bei KI-generierten Schriftsätzen bleibt die Verantwortung beim Einreichenden.
-

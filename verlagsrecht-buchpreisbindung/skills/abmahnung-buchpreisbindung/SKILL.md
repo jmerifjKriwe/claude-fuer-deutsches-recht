@@ -1,6 +1,6 @@
 ---
 name: abmahnung-buchpreisbindung
-description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
 ---
 
 # Verl-041 · Abmahnung Buchpreisbindung
@@ -159,4 +159,3 @@ Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungs
 - BGH I ZR 136/20
 - EuGH C-299/23
 - EuGH C-202/12
-

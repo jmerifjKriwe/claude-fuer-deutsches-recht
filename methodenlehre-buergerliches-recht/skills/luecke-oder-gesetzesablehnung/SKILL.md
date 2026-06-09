@@ -1,6 +1,6 @@
 ---
 name: luecke-oder-gesetzesablehnung
-description: "Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet."
+description: "Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen..."
 ---
 
 # Lücke oder Gesetzesablehnung: Methodische Unterscheidung
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

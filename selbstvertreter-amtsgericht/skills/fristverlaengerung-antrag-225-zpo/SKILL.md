@@ -137,4 +137,3 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 224, 225 ZPO unveraendert.
-

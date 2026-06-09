@@ -120,4 +120,3 @@ Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzun
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `markenrecherche` – Kollisionsrecherche vor Anmeldung
-

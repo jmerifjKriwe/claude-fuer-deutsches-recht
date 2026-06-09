@@ -1,6 +1,6 @@
 ---
 name: forderung-im-ausland-vollstrecken
-description: "Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Drittstaat: Anerkennung nach IPR und bilateralen Abkommen. Output: Verfahrensweg + Formblatt."
+description: "Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Drittstaat: Anerkennung nach IPR und bilateralen Abkommen. Output..."
 ---
 
 # Forderung im Ausland vollstrecken

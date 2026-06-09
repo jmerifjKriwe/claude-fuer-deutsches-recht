@@ -1,6 +1,6 @@
 ---
 name: dba-frankreich-1959
-description: "DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-MA. Output Mandanten-Memo Grenzgaengernachweis BZSt-Hinweise Querverweis stb-dba-grenzgaenger-frankreich-vor-allem-elsass."
+description: "DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-MA. Output Mandanten-Memo Grenzgaengernachweis BZSt-Hinweise..."
 ---
 
 # DBA Deutschland-Frankreich (1959/Protokolle)
@@ -178,4 +178,3 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335), MLI wirksam ab 01.01.2025 (BGBl. 2025 II Nr. 5). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und Quellensteuer-Saetze im aktuellen BMF-Schreiben pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 und BGBl. 2015 II S. 1332/1335 bestaetigt; MLI wirksam ab 01.01.2025 BGBl. 2025 II Nr. 5 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 11 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

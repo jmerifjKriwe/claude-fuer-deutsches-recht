@@ -76,4 +76,3 @@ Strafanzeige, um Schulden einzutreiben.
 - Drohungsvariante: Empfindliches Übel in Aussicht gestellt?
 - Widerrechtlichkeit der Drohung: Mittel oder Zweck rechtswidrig?
 - Dritte-Täuschung (§ 123 Abs. 2 BGB): Empfänger kannte Täuschung?
-

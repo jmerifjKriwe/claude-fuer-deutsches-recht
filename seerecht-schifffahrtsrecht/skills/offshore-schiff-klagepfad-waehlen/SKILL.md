@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-klagepfad-waehlen
-description: "Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose i..."
 ---
 
 # Offshore-Schiff – Klagepfad wählen
@@ -91,4 +91,3 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BGH Zwangsversteigerung Schiff: https://www.bgh.de
-

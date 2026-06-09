@@ -108,4 +108,3 @@ Hier [liegt vor / fehlt es an]: [Sachverhaltsbeschreibung].
 Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
-

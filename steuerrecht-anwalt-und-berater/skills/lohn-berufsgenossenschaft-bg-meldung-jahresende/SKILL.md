@@ -111,4 +111,3 @@ Stand: 05/2026.
 - BG-Spitzenverband Rundschreiben.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BG-Satzungs-Faelligkeit ohne Marker neu formuliert) -->
-

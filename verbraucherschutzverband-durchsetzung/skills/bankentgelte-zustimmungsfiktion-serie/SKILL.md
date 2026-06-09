@@ -62,4 +62,3 @@ Bilde Anspruchsgruppen nicht nach Bauchgefühl, sondern nach:
 ## Red Team
 
 Gefährlich sind zu breite Feststellungsziele, unklare Entgeltpositionen, unerkannte ausdrückliche Zustimmung und ein Vergleich, der kleine Beträge effizient erledigt, aber systematische Rückforderungslinien abschneidet.
-

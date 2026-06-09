@@ -104,4 +104,3 @@ Mit freundlichen Gruessen
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110a SGG. Praxis variiert je SG.
-

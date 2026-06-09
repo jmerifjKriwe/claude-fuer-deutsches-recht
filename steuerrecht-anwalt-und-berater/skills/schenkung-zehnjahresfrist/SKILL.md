@@ -1,6 +1,6 @@
 ---
 name: schenkung-zehnjahresfrist
-description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und dabei Freibetraege optimal ausschoepfen. Behandelt Zusammenrechnung mehrerer Erwerbe von derselben Person Steuerwert versus Verkehrswert und Sonderfaelle mittelbare Schenkung und Schenkung unter Auflage. Output Berechnungsmatrix Schenkungsplan ueber 30 Jahre. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg."
+description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und dabei Freibetraege optimal ausschoepfen. Behandelt Zusammenrec..."
 ---
 
 # Schenkungen und Zehnjahresfrist — § 14 ErbStG Strategie der Generationenfolge
@@ -43,4 +43,3 @@ description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnja
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

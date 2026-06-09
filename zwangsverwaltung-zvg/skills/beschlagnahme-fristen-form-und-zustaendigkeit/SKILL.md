@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Aufhebung (§ 28 ZVG):** Der Schuldner kann durch Antrag die einstweilige Einstellung erreichen, wenn er glaubhaft macht, dass die Versteigerung eine unbillige Härte bedeuten würde (§ 30a ZVG - sechsmonatige Schutzfrist möglich).
 - **Verhältnis zu anderen Vollstreckungen:** Pfändung von Mietzinsen ist nach Beschlagnahme grundsätzlich überholt (§ 21 Abs. 2 ZVG); andere Vollstreckungsmaßnahmen wirken nicht auf die beschlagnahmten Gegenstände.
 - **Praktiker-Tipp:** Zustellung des Anordnungsbeschlusses ist die zentrale Datumsgrenze; alle danach erfolgten Verfügungen sind risikobehaftet. Im Schuldner-Beraterkontext: Anfechtungsverfahren prüfen und Antrag auf einstweilige Einstellung (§ 30a ZVG) frühzeitig stellen.
-

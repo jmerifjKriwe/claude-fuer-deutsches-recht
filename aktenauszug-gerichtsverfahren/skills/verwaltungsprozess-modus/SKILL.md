@@ -1,6 +1,6 @@
 ---
 name: verwaltungsprozess-modus
-description: "Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO) im Aktenauszug Gerichtsverfahren."
+description: "Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Prüfraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgr..."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)
@@ -102,4 +102,3 @@ Berufung bedarf der Zulassung durch das Oberverwaltungsgericht. Zulassungsgründ
 - Verwaltungsakt mit vollständigem Inhalt und Datum erfassen
 - Widerspruchsbescheid als eigenes Dokument in der Sachverhaltschronologie
 - Behördliche Aktenzeichen neben Gerichtsaktenzeichen angeben
-

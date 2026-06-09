@@ -71,4 +71,3 @@ Barter Deals (Ware gegen Content) und grenzüberschreitende Kooperationen stelle
 - Rechnungsvorlage (DE-Brand / EU-Brand / Drittland-Brand)
 - Steuercheck: Reverse Charge ja/nein
 - EÜR-Buchungsnotiz für Barter Deal
-

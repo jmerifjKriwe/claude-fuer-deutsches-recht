@@ -66,4 +66,3 @@ Qualitätsbericht mit Ampelstatus; roter Punkt hält Dokument zurück.
 ## Leitplanken
 - Freigabe erst nach vollständig grünem Prüfbericht.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

@@ -1,6 +1,6 @@
 ---
 name: ressort-aa
-description: "Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG. Fuenf Spezialfelder: voelkerrecht-und-vertragsgesetzgebung; konsular-und-passrecht; ausfuhrkontrolle-und-aussenwirtschaftsdimension; eu-grundlagen-und-ratsverfahren; sanktionsumsetzung-und-internationale-abkommen. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-aa und legw-aa-Themenslug."
+description: "Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG. Fuenf Spezialfelder: voelkerrecht-und-vertragsgesetzgebung;..."
 ---
 
 # Ressort-Heranfuehrung AA
@@ -78,4 +78,3 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

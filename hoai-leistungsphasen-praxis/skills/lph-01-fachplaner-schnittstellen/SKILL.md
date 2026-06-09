@@ -32,4 +32,3 @@ description: "HOAI LPH 1 Grundlagenermittlung: koordiniert Architekt, TGA, Tragw
 - Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren
 - Bewertungsanker Gebäude/Innenräume: 2 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

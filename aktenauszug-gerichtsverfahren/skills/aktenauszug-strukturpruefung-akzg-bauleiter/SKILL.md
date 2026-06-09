@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-strukturpruefung-akzg-bauleiter
-description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check) im Aktenauszug Gerichtsverfahren."
+description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserung..."
 ---
 
 # Aktenauszug — Strukturprüfung
@@ -146,4 +146,3 @@ Adressat: Sachbearbeiter / Kanzleiintern — Tonfall: sachlich-juristisch, präz
 - BGH VI ZR 84/19
 - BGH VI ZR 396/18
 - BGH VII ZR 131/13
-

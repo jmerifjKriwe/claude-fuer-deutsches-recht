@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Gelb — Vertragsverletzungsverfahren Art. 258 AEUV:** Aufforderungsschreiben, begründete Stellungnahme, Klage — Fristen werden von Kommission gesetzt (regelmäßig 2 Monate).
 - **Gelb — Beihilfen:** Anmeldepflicht Art. 108 Abs. 3 AEUV (Stand-Still); Rückforderung 10-Jahres-Frist (Art. 17 VO 2015/1589).
 - **Praxis-Tipp:** Direkte Wirkung und Vorrang sind nicht "Frist", sondern Argumentationsanker — gegen nationale Norm immer unionsrechtskonforme Auslegung zuerst, dann Anwendungsvorrang (EuGH C-6/64 Costa/ENEL).
-

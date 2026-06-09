@@ -47,4 +47,3 @@ Die actio Publiciana ist eine prätorische Fiktionsklage (actio ficticia), die d
 - Gaius Inst. 4.36 zur actio ficticia
 - Lenel Edictum Perpetuum §§ 71-72 (Formelrekonstruktion)
 - Kaser RP I §§ 116, 129; Watson Roman Private Law around 200 BC
-

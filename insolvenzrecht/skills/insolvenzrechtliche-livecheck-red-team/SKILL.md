@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Mandatsziel typisch:** Antragsabwehr → außergerichtliche Sanierung oder StaRUG; Antragspflicht erfüllen → Eigenverwaltung/Schutzschirm; Anfechtungsverteidigung → Bargeschäft § 142 InsO, Kongruenz/Kenntnis; Forderungsrealisierung → Anmeldung und Plan-Mitwirkung.
 - **Erste 72 Stunden:** Liquiditätsstatus, Übersicht Gläubiger (gesichert/ungesichert/nachrangig), Sicherheitenlage, Steuer- und SV-Rückstände (§ 266a StGB-Risiko!), Auftragsbestand, Personalsituation.
 - **Honorarvereinbarung:** Pauschal- oder Stundenhonorar; reine RVG-Abrechnung deckt Sanierungsmandat nicht. Bei drohender Antragspflicht eilig (§ 49b BRAO Belehrungspflicht).
-

@@ -75,4 +75,3 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 - SGB V §§ 108, 109.
 - BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Förderung.
 - BVerwG, staend. Rspr. zur Aufnahmeentscheidung Krankenhausplan.
-

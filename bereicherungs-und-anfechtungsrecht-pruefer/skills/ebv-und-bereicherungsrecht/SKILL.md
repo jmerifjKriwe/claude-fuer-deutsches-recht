@@ -1,6 +1,6 @@
 ---
 name: ebv-und-bereicherungsrecht
-description: "Bei eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz."
+description: "Bei eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Sch..."
 ---
 
 # EBV und Bereicherungsrecht
@@ -90,4 +90,3 @@ Anwendungsfall: eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BG
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

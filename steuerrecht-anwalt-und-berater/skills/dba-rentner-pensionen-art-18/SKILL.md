@@ -1,6 +1,6 @@
 ---
 name: dba-rentner-pensionen-art-18
-description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder auslaendische Rente bei Wohnsitz Deutschland. Wohnsitzstaat vs Kassenstaat Sozialversicherung. Subject-to-Tax. Output Mandanten-Memo Berechnungsbeispiel Anlage R-AUS."
+description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder auslaendische Rente bei Wohnsitz Deutschland. Wohnsitzstaat vs Kassenstaat Sozialversicherung. Subject-to-Tax. Outp..."
 ---
 
 # Rentner und Pensionen (Art. 18 OECD-MA)
@@ -180,4 +180,3 @@ Sachverhalt: Rentner Wohnsitz DE, bezieht 50.000 USD/Jahr aus IRA. DBA-USA 1989/
 Stand: 05/2026. Art. 18, 19 OECD-MA. § 22 Nr. 1 EStG. § 49 Abs. 1 Nr. 7 EStG. § 50d Abs. 8, 9 EStG. Alterseinkuenftegesetz 2005. DBA-spezifische Pensionsklauseln und Schwellenwerte konkret im jeweiligen DBA-Text pruefen. Subject-to-Tax-Anwendungsschreiben des BMF im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

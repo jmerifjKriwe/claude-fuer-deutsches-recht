@@ -304,4 +304,3 @@ beA-Konvention:
 ## Adressat & Tonfall
 
 Adressat: Amtsgericht am gewaehlten Gerichtsstand — Tonfall sachlich-juristisch; Schriftsatz ohne Anwaltszwang trotzdem klar strukturiert nach § 253 ZPO-Mindestinhalt (Parteien, Antrag, Begruendung, Beweisangebote)
-

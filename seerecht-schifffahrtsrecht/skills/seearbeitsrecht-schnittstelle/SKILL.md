@@ -1,6 +1,6 @@
 ---
 name: seearbeitsrecht-schnittstelle
-description: "Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check im Seerecht Schifffahrtsrecht."
+description: "Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compl..."
 ---
 
 # Seearbeitsrecht – Heurvertrag und MLC-Compliance
@@ -78,4 +78,3 @@ Ein philippinischer Kapitän wird während einer Reise erkrankt und repatriiert;
 - BSH Safe Manning: https://www.bsh.de/DE/THEMEN/Schifffahrt/Seefahrer/seefahrer_node.html
 - STCW Convention IMO: https://www.imo.org/en/OurWork/HumanElement/Pages/STCW-Conv.aspx
 - openjur Seearbeitsrecht: https://www.openjur.de
-

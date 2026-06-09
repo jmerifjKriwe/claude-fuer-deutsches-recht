@@ -74,4 +74,3 @@ Punkte.
 - Tatbestandsmerkmale unvollständig oder falsch definiert?
 - § 122 BGB nach Anfechtung übersehen?
 - Gutachtenstil verletzt (Ergebnis vor Begründung)?
-

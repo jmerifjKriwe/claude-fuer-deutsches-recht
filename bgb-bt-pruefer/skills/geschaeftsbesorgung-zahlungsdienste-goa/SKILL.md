@@ -73,4 +73,3 @@ description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, 
 - https://www.gesetze-im-internet.de/bgb/__675.html
 - https://www.gesetze-im-internet.de/bgb/__675c.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2366
-

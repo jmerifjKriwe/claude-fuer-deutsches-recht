@@ -1,6 +1,6 @@
 ---
 name: jgg-jugendstrafe-minder-schwerer
-description: "Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG im Strafzumessung."
+description: "Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre,..."
 ---
 
 # Strafzumessung im Jugendstrafrecht
@@ -151,4 +151,3 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 - Landes-JStVollzGe.
 - BGH zum Heranwachsenden-Recht und zur Schwere der Schuld — Aktenzeichen verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

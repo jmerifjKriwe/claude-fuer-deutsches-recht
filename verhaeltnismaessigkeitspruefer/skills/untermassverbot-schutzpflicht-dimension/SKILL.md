@@ -53,4 +53,3 @@ Siehe `angemessenheit-abwaegung` fuer den klassischen Uebermass-Spiegel. Unterma
 - BVerfGE 77, 170 (C-Waffen-Lagerung, Sicherheitsabstand)
 - BVerfGE 88, 203 (Schwangerschaftsabbruch II, Konkretisierung Schutzpflicht)
 - BVerfGE 157, 30 (Klimaschutz-Beschluss, intertemporale Schutzpflicht)
-

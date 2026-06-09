@@ -1,6 +1,6 @@
 ---
 name: flughafen-sicherheitsauflage-bewerten
-description: "Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster im Luftrecht Flughafenrecht."
+description: "Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster i..."
 ---
 
 # Flughafen – Sicherheitsauflage bewerten
@@ -99,4 +99,3 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

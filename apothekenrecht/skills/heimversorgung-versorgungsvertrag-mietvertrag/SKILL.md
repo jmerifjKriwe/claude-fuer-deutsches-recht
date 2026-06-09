@@ -108,4 +108,3 @@ Eingaben:
 - BGH und OLG, staend. Rspr. zur Heimversorgung.
 - ABDA-Mustervertrag (vom Anwender Aktualität zu verifizieren).
 - DSGVO Art. 9, 28.
-

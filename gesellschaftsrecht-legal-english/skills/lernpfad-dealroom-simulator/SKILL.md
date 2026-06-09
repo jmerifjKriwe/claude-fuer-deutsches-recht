@@ -70,4 +70,3 @@ Jede Uebung hat vier Stufen:
 - Governance: `governance-board-consent-matters`, `protective-provisions-vetorechte`.
 - Exit, SPA, CPs: `exit-spa-closing-cp`, `reps-warranties-indemnities`.
 - Qualitaet: `qualitaetsgate-corporate-legal-english`.
-

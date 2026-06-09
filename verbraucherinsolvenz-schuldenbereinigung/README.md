@@ -101,35 +101,77 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anlagenpaket-antrag-insolvenzgericht-arbeit` | Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme, Jobwechsel und Mehrverdienst. |
-| `ausland-eu-aussergerichtlicher` | Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Auslandsschulden und EU-Bezug, Außergerichtlicher Einigungsversuch, Auto und Arbeitsweg. |
-| `belegchaos-strukturieren-nachtraegliche` | Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Schuldnerberatungsstelle, Verbraucherinsolvenz. |
-| `bescheinigung-inso-datenschutz-schamfreie` | Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. |
-| `buergschaften-mithaftung-strafbefehl-bussgeld` | Buergschaften Mithaftung Strafbefehl Bussgeld im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Bürgschaften und Mithaftung, Strafbefehl, Geldstrafe und Bußgeld, Deliktforderung und § 302 InsO. |
-| `erbschaft-schenkung-familienbudget` | Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Erbschaft, Schenkung, Gewinn, Familienbudget und Haushaltsplan. |
-| `gerichtliche-nachforderung-gerichtlicher` | Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Gläubiger mit Sicherheiten. |
-| `geschaeftsfuehrer-altlasten-steuerschulden` | Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Ehemaliger Geschäftsführer, Steuerschulden, Abschluss und Neustart. |
-| `glaeubigerliste-richtig-hausrat` | Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. |
-| `insolvenzeroeffnung-wirkungen-kommunikation` | Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Eröffnung des Insolvenzverfahrens, Gläubigerkommunikation, Kontosperre und Sozialleistungen. |
+| `abschluss-und-neustart` | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge: Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrec... |
+| `anlagenpaket-fuer-gericht` | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise: Normanker: InsO § 305 Abs... |
+| `antrag-insolvenzgericht` | Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung: Normanker: InsO... |
+| `arbeit-wechsel-und-mehrverdienst` | Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen: Normanker: InsO § 295; ZPO § 850c; li... |
+| `ausland-und-eu-schulden` | Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung: Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete F... |
+| `aussergerichtlicher-einigungsversuch` | Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung: N... |
+| `auto-und-arbeitsweg` | Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf: Normanker: InsO § 36; ZPO Pfändungsschutz... |
+| `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden: Normanker: InsO § 305 Abs... |
+| `buergschaften-und-mithaftung` | Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress: Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkr... |
+| `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe: Normanker: DSGVO Art. 5 und... |
+| `deliktforderung-und-302-inso` | Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut: Normank... |
+| `eigenverwaltung-nicht-verbraucher` | Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad: Normanker: InsO Eig... |
+| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei: Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkre... |
+| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise: Normanker: ZPO Pfändungsfreigrenzen; SGB-Sc... |
+| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag: Normanker: InsO § 305; amtliche Formulare; liefert ko... |
+| `gerichtliche-nachforderung` | Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin: Normanker: InsO § 305; ZPO-Fristen analog über... |
+| `gerichtlicher-schuldenbereinigungsplan` | Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen: Normanker: InsO... |
+| `geschaeftsfuehrer-altlasten` | Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute: Normanker... |
+| `glaeubiger-mit-sicherheiten` | Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto: Normanker: InsO §§ 47 und 49 ff.; BGB Sicherhei... |
+| `glaeubigerliste-richtig-bauen` | Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung: Nor... |
+| `hausrat-und-wertgegenstaende` | Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen: Normanker: ZPO §§ 811 ff.; InsO § 36; l... |
+| `inkasso-und-titulierte-forderungen` | Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr: Normanker: ZPO Titel/Vollstreck... |
+| `insolvenzeroeffnung-wirkungen` | Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen: Normanker: InsO §§ 27 und 35 und... |
 | `kaltstart-schuldenbild-glaeubiger-sofortschutz` | Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; lief... |
-| `krankenversicherung-beitraege-krankheit` | Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Krankenversicherung und Beiträge, Krankheit, Pflege, Behinderung. |
-| `mietkaution-genossenschaftsanteil-muster` | Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Mietkaution und Genossenschaftsanteile, Muster-Schuldenbereinigungsplan, Musterbrief an Gläubiger. |
-| `obliegenheiten-inso-p-konto-planablehnung` | Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Obliegenheiten in der Wohlverhaltensphase, P-Konto-Sofortschutz, Planablehnung. |
-| `privatdarlehen-familie` | Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Privatdarlehen in Familie und Freundeskreis, Restschuldbefreiungsantrag, SCHUFA/Auskunfteien nach Insolvenz. |
+| `kommunikation-mit-glaeubigern` | Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben: Normanker: In... |
+| `konto-sperre-und-sozialleistungen` | Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern: Normanker: ZPO §§ 850k ff.; SGB I, II, XII... |
+| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten: Normanker: SGB V; VVG; InsO... |
+| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen: Normanker: SGB IX/XI/XII; ZPO Pfändungsschu... |
+| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz: Normanker: ZPO §§ 850 ff.; InsO... |
+| `mietkaution-und-genossenschaftsanteil` | Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken: Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; lie... |
+| `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache: Normanker: InsO §§ 305 und 307-309; liefert k... |
+| `musterbrief-glaeubiger` | Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle: Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete... |
+| `neue-schulden-waehrend-verfahren` | Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr: Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; lief... |
+| `obliegenheiten-295-inso` | Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht: . |
+| `p-konto-sofortschutz` | P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung: Normanker: ZPO §§ 850k ff.; Pfändungssc... |
+| `planablehnung-und-naechster-schritt` | Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen: Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Do... |
+| `privatdarlehen-familie` | Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote: Normanker: InsO Forderungsanmeldung; BGB Darleh... |
 | `red-team-antrag` | Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normanker: InsO §§ 305 und 287 und 290 und 302; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbaustein... |
 | `red-team-obliegenheiten` | Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Ve... |
 | `red-team-plan` | Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verb... |
-| `schuldenbereinigungsplan-quote-schuldnerin` | Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Schuldenbereinigungsplan mit Quote, Schuldner mit Immobilie, Beendete Selbstständigkeit. |
-| `schuldnerberatung-schulden-waehrend` | Schuldnerberatung Schulden Waehrend im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret mit Schuldnerberatung, Neue Schulden während des Verfahrens, Verfahrenskostenstundung. |
-| `treuhaender-kommunikation-unterhaltsschulden` | Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Kommunikation mit Treuhänder/Insolvenzverwalter, Unterhaltsschulden, Unternehmerische Restforderungen nach Geschäftsaufgabe. |
-| `treuhaender-rolle-unterhalt-insolvenz` | Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. |
+| `restschuldbefreiungsantrag` | Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler: Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fr... |
+| `schufa-und-auskunfteien` | SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde: Normanker: DSGVO Art. 5 und 6 und... |
+| `schuldenbereinigungsplan-quote` | Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan: Norma... |
+| `schuldnerberatung-workflow` | mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung: Normanker: InsO § 305; Landesanerkennung Bera... |
+| `schuldnerin-mit-immobilie` | Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse: Normanker: InsO §§ 35 und 49; ZVG; BGB... |
+| `selbststaendigkeit-beendet` | Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko: Normanker... |
+| `steuerschulden-und-strafsteuer` | Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen: Nor... |
+| `strafbefehl-bussgeld-und-insolvenz` | Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten: Normanker: InsO § 302; StGB Geldstrafe; OWiG; l... |
+| `treuhaender-kommunikation` | Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten: Normanker: InsO §§ 80 und 292 und 295;... |
+| `unterhaltsschulden` | Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget: Normanker: InsO § 302 Nr. 1;... |
 | `unterlagen-und-schuldeninventar` | Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert k... |
-| `verbraucher-regelinsolvenz-jahres` | Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. |
-| `vollstreckung-stoppen-vorzeitige` | Vollstreckung Stoppen Vorzeitige im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Vollstreckung stoppen, Vorzeitige Restschuldbefreiung, Wohnung, Miete und Energie. |
-| `waehrend-insolvenz-verjaehrung-alttitel` | Waehrend Insolvenz Verjährung Alttitel im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Vergleich während Insolvenz/Wohlverhalten, Verjährung und Alttitel, Versagungsgründe. |
+| `unternehmerische-restforderungen` | Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft: Normanker: InsO § 304;... |
+| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige... |
+| `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktue... |
+| `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung` | Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung... |
+| `verbraucherinsolvenz-belegchaos-strukturieren` | Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Sc... |
+| `verbraucherinsolvenz-nachtraegliche-glaeubiger` | Verbraucherinsolvenz: Nachtraegliche Glaeubiger nach Restschuldbefreiung: Skill klaert ob nicht angemeldete Glaeubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend mac... |
+| `verbraucherinsolvenz-pfaendungsschutzkonto` | Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrun... |
+| `verbraucherinsolvenz-treuhaender-rolle` | Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Koste... |
+| `verbraucherinsolvenz-unterhalt-und-insolvenz` | Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung.... |
+| `verbraucherinsolvenz-versagungsgruende` | Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu... |
+| `verfahrenskostenstundung` | Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung: Normanker: InsO §§ 4a-4d; liefert konkret... |
+| `vergleich-waehrend-insolvenz` | Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende: Normanker: InsO §§ 300 un... |
+| `verjaehrung-und-alttitel` | Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung: Normanker: BGB §§ 195 und 197 und 199 und 212; liefert ko... |
+| `versagung-restschuldbefreiung` | Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten: Normanker: InsO §§ 290... |
+| `vollstreckung-stoppen` | Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung: Normanker: ZPO... |
+| `vorzeitige-restschuldbefreiung` | Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing: Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Te... |
+| `wohnung-miete-energie` | Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung: Normanker: BGB Mietrecht; InsO § 109; SGB II/SG... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

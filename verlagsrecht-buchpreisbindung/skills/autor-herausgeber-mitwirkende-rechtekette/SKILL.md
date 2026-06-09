@@ -164,4 +164,3 @@ Für jede Komponente prüfen:
 - BGH I ZR 136/20
 - EuGH C-299/23
 - EuGH C-202/12
-

@@ -1,6 +1,6 @@
 ---
 name: synopse-erstellen
-description: "Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Aenderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Aenderungen schnell zu erfassen. Pro geaendertem Paragrafen eine Zeile oder Block pro Stammgesetz eigene Synopsen-Tabelle. Spalten gleich breit druckbar A4 quer oder A3. Output Synopsen-Tabelle Markdown plus DOCX-Vorlage. Anschluss lesefassung-konsolidiert. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
+description: "Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Aenderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Aenderungen schnell zu erfassen. Pro geaendertem Paragrafen eine Zeile oder Block pro Stammgesetz eigene Synopse..."
 ---
 
 # Synopse erstellen
@@ -63,4 +63,3 @@ Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach In
 ## Anschluss
 
 `lesefassung-konsolidiert`.
-

@@ -60,4 +60,3 @@ Diese Quellenkarte sichert im Bereich **Subsumtions Prüfer** tragende Normen, R
 - BGH VI ZR 188/17
 - BGH VI ZR 26/21
 - BGH VI ZR 290/18
-

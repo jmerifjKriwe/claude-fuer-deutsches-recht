@@ -123,4 +123,3 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
-

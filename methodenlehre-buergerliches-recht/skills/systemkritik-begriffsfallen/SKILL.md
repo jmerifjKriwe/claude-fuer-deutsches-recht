@@ -1,6 +1,6 @@
 ---
 name: systemkritik-begriffsfallen
-description: "Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz."
+description: "Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik..."
 ---
 
 # Systemkritik und Begriffsfallen in der juristischen Methodik
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

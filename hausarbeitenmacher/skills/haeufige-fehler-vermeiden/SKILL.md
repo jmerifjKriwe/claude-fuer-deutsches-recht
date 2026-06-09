@@ -1,6 +1,6 @@
 ---
 name: haeufige-fehler-vermeiden
-description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil) im Hausarbeitenmacher."
+description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beis..."
 ---
 
 # Häufige Fehler vermeiden — Top-20
@@ -233,4 +233,3 @@ Idealerweise jemand mit juristischer Vorbildung. Selbst Nicht-Juristen finden St
 
 - `selbstkontrolle-vor-abgabe` — Endcheck-Vorgang
 - `gutachtenstil-vs-urteilsstil` — Stil-Übung
-

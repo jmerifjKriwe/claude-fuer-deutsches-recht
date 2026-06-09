@@ -1,6 +1,6 @@
 ---
 name: pressemitteilung-krisenkommunikation
-description: "Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel."
+description: "Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehö..."
 ---
 
 # Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
@@ -52,4 +52,3 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 - `dsv-kommunikationssperre` deckt die internen Sprachregelungen ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die individuelle Benachrichtigung ab.
-

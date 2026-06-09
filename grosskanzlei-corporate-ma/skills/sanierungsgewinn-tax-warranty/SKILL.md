@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-warranty
-description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach § 3a Abs. 3 EStG den Verlustvortrag aufzehrt oder dass die verbindliche Auskunft nicht erteilt wird. Liefert Klauselbausteine, Trade-off-Matrix und Verhandlungstaktik. Adressat ist das SPA-Drafting-Team der Großkanzlei. Quellen Stand 06/2026."
+description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach § 3a Abs...."
 ---
 
 # Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
@@ -106,4 +106,3 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - BGH zu Garantie- und Freistellungsklauseln in SPA – ständige Rspr.; Verifizierung über dejure.org.
-

@@ -1,6 +1,6 @@
 ---
 name: gesetzgeberwille-und-materialien-disziplin
-description: "Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf den Gesetzgeberwillen und unzulässiger Materialbindung liegt. Geeignet für Fälle mit strittiger historischer Auslegung."
+description: "Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf de..."
 ---
 
 # Gesetzgeberwille und Materialien: Methodische Disziplin
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

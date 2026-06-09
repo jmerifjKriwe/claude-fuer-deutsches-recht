@@ -101,4 +101,3 @@ description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragskl
 - **Datenschutzinformation Fahrer**: Art. 13 DSGVO für Flottenleasing
 - **AVV-Telematik**: Muster für LN mit Telematik-Dienstleister
 - **Telematik-KPI-Dashboard**: Excel-Vorlage mit Flottenauswertung
-

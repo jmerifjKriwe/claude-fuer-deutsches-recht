@@ -70,4 +70,3 @@ description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen str
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://openjur.de/
-

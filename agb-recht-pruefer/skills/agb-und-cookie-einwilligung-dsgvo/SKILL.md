@@ -1,6 +1,6 @@
 ---
 name: agb-und-cookie-einwilligung-dsgvo
-description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformkontext. Behandelt EuGH-Linie Planet49 und Folgejudikate. Liefert Pruefraster und Bannerentwurf."
+description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformko..."
 ---
 
 # Agb Und Cookie Einwilligung Dsgvo
@@ -45,4 +45,3 @@ description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill kl
 3. Verhaeltnis zu AGB getrennt geregelt?
 4. Bussgeldrisiko?
 5. Werbliche Folgen?
-

@@ -161,4 +161,3 @@ Datum: _______________ Unterschrift: _______________
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Zieldefinition
 - `workflow-output-waehlen` – Richtiges Outputformat wählen
 - `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung
-

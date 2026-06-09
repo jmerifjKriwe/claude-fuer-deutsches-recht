@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Ant..."
 ---
 
 # Freiheitsstrafe — Strafmass pruefen
@@ -102,4 +102,3 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
 - Art. 6 Abs. 1 EMRK Verfahrensdauer.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

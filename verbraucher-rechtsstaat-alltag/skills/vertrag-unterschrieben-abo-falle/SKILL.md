@@ -64,4 +64,3 @@ Erzeuge Exit-Matrix, Widerruf/Anfechtung/Kündigung als Alternativen und Belegli
 ## Prompts, die dieser Skill stellen soll
 
 - Wo und wie abgeschlossen, Belehrung, Datum, Leistung begonnen?
-

@@ -48,4 +48,3 @@ Wenn der Auftraggeber Werkzeuge, Formen oder Gussformen beim Hersteller hinterl�
 - Chinesisches Recht: lokale Rechtsberatung; ggf. lokale Registrierung der Eigentumsrechte
 - Pfandrecht-Präventivn: Klausel "no lien" des Herstellers auf Auftraggeber-Werkzeuge
 - Amortisationsplan: schriftlich fixiert mit Übergangsmodalitäten
-

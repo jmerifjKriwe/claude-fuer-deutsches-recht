@@ -79,4 +79,3 @@ Mindestpaket für Drittstaatenfälle:
 ## Quellenregel
 
 Tragende Normen live prüfen: InsO §§ 335 ff., 343 ff., § 347, GBO § 29, GmbHG §§ 15, 40, BGB §§ 873, 925, 311b. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-

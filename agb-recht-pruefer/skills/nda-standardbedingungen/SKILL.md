@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für NDA Standardbedingungen: prüft typische A
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

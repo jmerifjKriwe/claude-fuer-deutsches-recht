@@ -146,4 +146,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR
 Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Slowakei per BGBl. 1993 II S. 762. MLI ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen 0 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 8 geprueft und bestaetigt (BGBl-Fundstelle korrigiert; Fortgeltung Bekanntmachung; MLI 01.01.2025; Quellensteuer-Saetze; Slowakei-KSt Staffel 2025; Bauausfuehrung), 0 gestrichen -->
-

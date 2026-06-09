@@ -75,4 +75,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 - "Pensionskasse" und "Pensionsfonds" werden synonym verwendet; sie haben aber unterschiedliche Aufsichtsregime (VAG bzw. § 112 VAG) und steuerliche Behandlung.
 - § 100 EStG-Bundeszuschuss für Geringverdiener wird vergessen; einfache Liquiditätsverbesserung in Branchen mit niedrigen Löhnen.
-

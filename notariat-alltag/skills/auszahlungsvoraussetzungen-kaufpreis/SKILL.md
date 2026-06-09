@@ -97,4 +97,3 @@ Die Fälligkeitsmitteilung ist das förmliche Schreiben, mit dem der Notar dem K
 - **Vier-Augen-Prüfprotokoll** (vor Versand)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung-widersprechen
-description: "Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung. Prüfroutine deckt Textform Wartefrist Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) und Begründungsmittel (Mietspiegel Sachverständigengutachten Vergleichswohnungen) ab. Erzeugt Entwurf mit Disclaimer im Mietrecht."
+description: "Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung. Prüfroutine deckt Textform Wartefrist Kappungsgrenze (zwanzig Prozent oder fuenfzeh..."
 ---
 
 # Mieterhöhung prüfen und widersprechen
@@ -92,4 +92,3 @@ Vor Zitieren weiterer Aktenzeichen Live-Verifikation per dejure.org / bundesgeri
 ## Paragrafenkette
 
 §§ 558, 558a, 558b, 558c, 558d BGB
-

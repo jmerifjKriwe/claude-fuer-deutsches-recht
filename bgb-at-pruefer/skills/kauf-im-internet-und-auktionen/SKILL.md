@@ -76,4 +76,3 @@ nach § 312d BGB. Erlöschen des Widerrufsrechts bei vollständiger Erfüllung d
 - Automatisierte Bestätigung: Annahme oder Eingangsbestätigung — Auslegung?
 - Preisfehler: Anfechtung nach § 119 Abs. 1 BGB unverzüglich erklärt?
 - B2C: Widerrufsrecht nach §§ 312b ff. BGB belehrt und fristgerecht?
-

@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Lieferfrist Teillieferung: prüft, redlined
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

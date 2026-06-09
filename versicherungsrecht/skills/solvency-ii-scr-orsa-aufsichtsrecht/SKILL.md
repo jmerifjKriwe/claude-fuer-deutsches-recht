@@ -41,4 +41,3 @@ VAG; Delegierte Solvency-II-Regeln; EIOPA-Leitlinien; DORA bei IKT; HGB/IFRS nur
 
 - dora-cyber-ikt-versicherer
 - eioPA-grenzueberschreitender-vertrieb
-

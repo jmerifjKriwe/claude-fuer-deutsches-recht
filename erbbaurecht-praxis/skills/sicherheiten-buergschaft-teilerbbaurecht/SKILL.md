@@ -53,4 +53,3 @@ Der Skill erzeugt Vergleichsoptionen, die wirtschaftlich Druck nehmen und trotzd
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

@@ -1,6 +1,6 @@
 ---
 name: abwaegungszustaendigkeit-institutionen
-description: "Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution."
+description: "Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Norm..."
 ---
 
 # Abwägungszuständigkeit: Welche Institution darf abwägen?
@@ -108,4 +108,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-

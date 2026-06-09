@@ -76,4 +76,3 @@ Positionsgenaue Fahrtkostenprüfung mit Kilometersatz, Befund und anerkanntem Be
 ## Leitplanken
 - Zeugen-Kilometersatz (§ 5 Abs. 2 JVEG) niedriger als Sachverständigen-Satz.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

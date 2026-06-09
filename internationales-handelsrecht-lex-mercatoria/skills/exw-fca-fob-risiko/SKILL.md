@@ -47,4 +47,3 @@ EXW (Ex Works), FCA (Free Carrier) und FOB (Free on Board) sind Abgangsklauseln:
 - Containerverkehr: FOB durch FCA ersetzen
 - EXW: Exportkontrolle explizit im Vertrag regeln
 - Konnossement-Abrede: immer in Sales-Contract und Letter of Credit abstimmen
-

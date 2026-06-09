@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Frühe Verpflichtungszusagen reduzieren Bußgeldexposure, binden aber den Geschäftsbetrieb. Aktive Anfechtung der Designation vor dem EuG (Art. 263 AEUV, 2 Monate Frist) ist Standard für betroffene Unternehmen, ohne Aufschiebung der Pflichten ab Designation.
-

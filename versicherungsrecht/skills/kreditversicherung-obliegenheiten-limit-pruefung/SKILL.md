@@ -41,4 +41,3 @@ VVG §§ 28, 31; AVB Kreditversicherung; InsO; BGB/HGB.
 
 - kreditausfallversicherung-warenkredit-forderungsausfall
 - vvg-obliegenheit-28-quotelung-kausalitaet
-

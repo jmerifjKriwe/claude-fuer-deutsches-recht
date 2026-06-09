@@ -1,6 +1,6 @@
 ---
 name: rolle-betreiber-pruefen-art-3-nr-4
-description: "Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener Verantwortung Abgrenzung zu persönlicher nicht beruflicher Nutzung Abgrenzung zu Anbieter. Output: Rollenentscheidung Betreiber ja/nein und Liste der Betreiber-Pflichten. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Detailpflichten) und anbieter-werden-art-25 (Rollenwechsel zu Anbieter)."
+description: "Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener Verantwortung Abgrenzung zu persönlicher nicht beruflicher Nutzung Abgrenzung zu..."
 ---
 
 # Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO
@@ -110,4 +110,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

@@ -73,4 +73,3 @@ Vergleichende Werbung ist in Grenzen erlaubt, Herabsetzung verboten:
 - Abmahnreaktion Herabsetzung
 - Gegendarstellungs-Vorlage
 - Satire-Disclaimer-Text
-

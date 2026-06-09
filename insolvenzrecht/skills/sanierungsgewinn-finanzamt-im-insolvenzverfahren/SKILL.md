@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-finanzamt-im-insolvenzverfahren
-description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte für Kommunikation mit dem Finanzamt im Insolvenzrecht."
+description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschut..."
 ---
 
 # Sanierungsgewinn — Finanzamt im Insolvenzverfahren
@@ -158,4 +158,3 @@ Mit freundlichen Gruessen
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

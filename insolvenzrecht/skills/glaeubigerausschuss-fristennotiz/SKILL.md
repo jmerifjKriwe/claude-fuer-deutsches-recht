@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Mitglieder-Auswahl:** Sicherungsgläubiger (Bank), Großgläubiger (Lieferanten), Kleingläubiger (Mitarbeitervertreter), Fiskus/Steuer, ggf. Pensionssicherungsverein.
 - **Praxis:** Frühzeitige Konstituierung (idealerweise im Eröffnungsverfahren) erleichtert Eigenverwaltung; Strategiethema "M&A im Verfahren" gehört in den Gläubigerausschuss.
 - **Trade-off:** Großer Ausschuss = breite Akzeptanz, aber langsame Beschlussfassung; kleiner Ausschuss = effizient, aber Vorwurf der Unterrepräsentanz droht.
-

@@ -124,4 +124,3 @@ Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung z
 - `evvollzug-neu-003` – GV-Zustellung als verlässliche Alternative
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
 - `evvollzug-neu-006` – Auslandszustellung EV
-

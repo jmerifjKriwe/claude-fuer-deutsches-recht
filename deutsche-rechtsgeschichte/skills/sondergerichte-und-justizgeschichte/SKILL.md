@@ -63,4 +63,3 @@ Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gericht
 - VGH-Urteile: Bundesarchiv Berlin (BArch, Bestand R 3018 Volksgerichtshof)
 - NS-Aufhebungsgesetz 1998: BGBl. I 1998, 2501; gesetze-im-internet.de
 - Mueller Furchtbare Juristen (1987): historische Erstausgabe, Seite angeben
-

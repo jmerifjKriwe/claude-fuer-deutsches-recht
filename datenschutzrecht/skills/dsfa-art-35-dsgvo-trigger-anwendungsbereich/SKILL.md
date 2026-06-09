@@ -101,4 +101,3 @@ Unterschrift DSB: ____________________
 - Landesdatenschutzbehoerden (LfDI BW, LDA Bayern u.a.) — eigene Listen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle oder lizenziertem Live-Zugriff
-

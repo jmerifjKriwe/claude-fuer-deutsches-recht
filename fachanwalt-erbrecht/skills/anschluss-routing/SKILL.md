@@ -11,17 +11,17 @@ Dieses Anschluss-Routing für **Fachanwalt Erbrecht** wählt nach dem ersten Erg
 
 ## Fachlandkarte dieses Plugins
 
-- `berater-interessen-beweislast-darlegungslast` — Berater Interessen Beweislast Darlegungslast
-- `bgb` — BGB
+- `berater-mehrparteien-konflikt-und-interessen` — Berater Interessen Beweislast Darlegungslast
+- `workflow-mandantenkommunikation` — BGB
 - `digitaler-nachlass-facebook-bgh-iii-zr-183-17` — Digitaler Nachlass Facebook BGH III ZR 183 17
 - `ehegattentestament-bindungswirkung` — Ehegattentestament Bindungswirkung
-- `erb-einfuehrung-erbfolge-erstgespraech` — ERB Einfuehrung Erbfolge Erstgespraech
-- `erb-nachlassinventar-pflichtteilsanspruch` — ERB Nachlassinventar Pflichtteilsanspruch
-- `erbengemeinschaft-blockade-erstgespraech` — Erbengemeinschaft Blockade Erstgespraech
-- `erbfall-eu-mandat-triage-pflichtteil-auskunft` — Erbfall EU Mandat Triage Pflichtteil Auskunft
-- `erbfall-intake-erbrecht-erbschein` — Erbfall Intake Erbrecht Erbschein
-- `erbrecht-pflichtteilsergaenzung-schenkung` — Erbrecht Pflichtteilsergaenzung Schenkung
-- `erbschein-antrag-orientierung` — Erbschein Antrag Orientierung
+- `erb-einfuehrung-erbfolge-system` — ERB Einfuehrung Erbfolge Erstgespraech
+- `erb-nachlassinventar-erstellung` — ERB Nachlassinventar Pflichtteilsanspruch
+- `erbengemeinschaft-blockade-auseinandersetzung` — Erbengemeinschaft Blockade Erstgespraech
+- `internationaler-erbfall-eu-erbvo` — Erbfall EU Mandat Triage Pflichtteil Auskunft
+- `erbfall-intake-und-nachlassordnung` — Erbfall Intake Erbrecht Erbschein
+- `pflichtteilsergaenzung-2325` — Erbrecht Pflichtteilsergaenzung Schenkung
+- `erbschein-antrag` — Erbschein Antrag Orientierung
 - `erbschein-einziehung-paragraf-2361-bgb-olg-muenchen-31-wx-275-19` — Erbschein Einziehung Paragraf 2361 BGB OLG Muenchen 31 WX 275 19
 - `erbverzicht-pflichtteilsverzicht` — Erbverzicht Pflichtteilsverzicht
 - `dokumente-intake` — Dokumente Intake
@@ -63,4 +63,3 @@ Dieses Anschluss-Routing für **Fachanwalt Erbrecht** wählt nach dem ersten Erg
 - BGH III ZR 183/17
 - BGH IV ZR 249/15
 - BGH IV ZR 474/15
-

@@ -32,4 +32,3 @@ Konkret zu prüfen:
 - § 266a Abs. 1 StGB (Arbeitnehmeranteile)
 - § 266a Abs. 6 StGB (tätige Reue)
 - BGHSt 47, 318 (Vorsatz und Zahlungsfähigkeit)
-

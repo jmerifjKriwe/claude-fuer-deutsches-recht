@@ -44,4 +44,3 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **§ 50 BRAO Handakte:** Der KI-generierte Output ist Arbeitsergebnis; relevante Zwischenstaende sind aktenfest zu speichern.
 - **BORA und KI-Richtlinie:** Mandantenseitige Aufklaerung bei KI-Einsatz im Mandat erwaegen; Pseudonymisierung von Personendaten vor Promptuebergabe.
 - **Halluzinations-Sperre:** Jede juristische Aussage muss vor Versand verifiziert sein (Rechtsprechung mit Az., Norm in aktueller Fassung). Modell-Wissen ohne Verifizierung ist nicht zitierfaehig.
-

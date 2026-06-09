@@ -73,4 +73,3 @@ Nach Ad-hoc-Veröffentlichung:
 - Alle Sounding-Protokolle, Wall-Crossing-Dokumente und Wall-Down-Bestätigungen:
  5 Jahre aufbewahren (Art. 18 Abs. 5 MAR analog)
 - BaFin-Übermittlung auf Anfrage binnen 24 Stunden
-

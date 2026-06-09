@@ -25,4 +25,3 @@ Dieser Fehlerkatalog prüft im Bereich **Verkehrsowi Verteidiger** Ergebnisse vo
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

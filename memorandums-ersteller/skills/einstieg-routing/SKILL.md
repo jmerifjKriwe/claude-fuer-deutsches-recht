@@ -20,7 +20,7 @@ Dieser Einstieg routet **Memorandums Ersteller** vom ersten Sachverhalt zu Rolle
 - `juristisches-questions-fristennotiz` — Juristisches Questions Fristennotiz
 - `laenge-formate-mandantenfreundliche-fassung` — Laenge Formate Mandantenfreundliche Fassung
 - `mandantenanfrage-schnell` — Mandantenanfrage Schnell
-- `mandantenkommunikation-redteam` — Mandantenkommunikation Redteam
+- `workflow-mandantenkommunikation` — Mandantenkommunikation Redteam
 - `mandantenunterlagen-tatbestand-beweis-und-belege` — Mandantenunterlagen Tatbestand Beweis und Belege
 - `memo-board-pack-besondere-anlaesse-spezial` — Memo Board Pack Besondere Anlaesse Spezial
 - `memo-compliance-vorfall-intern` — Memo Compliance Vorfall Intern
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Memorandums Ersteller** vom ersten Sachverhalt zu Rolle
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

@@ -1,6 +1,6 @@
 ---
 name: tia-eu-us-data-privacy-framework-aktueller
-description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko."
+description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigke..."
 ---
 
 # EU-US Data Privacy Framework – Aktueller Stand für das TIA
@@ -106,4 +106,3 @@ Hinweisbaustein im TIA-Schritt 2:
 - EU-Kommission, Erster Review des EU-US DPF (Sommer 2024) – Verifikation am amtlichen Bericht.
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
-

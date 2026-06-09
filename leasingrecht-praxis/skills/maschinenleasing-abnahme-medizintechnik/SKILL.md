@@ -119,4 +119,3 @@ Empfohlener Inhalt:
 - **Wartungsnachweis-Checkliste**: Halbjährliche Wartungsdokumentation
 - **Stillstands-Memo**: Rechtliche Optionen bei Maschinenausfall
 - **Rückgabe-Checkliste**: Zustand, Betriebsstunden, Zubehör, Demontage
-

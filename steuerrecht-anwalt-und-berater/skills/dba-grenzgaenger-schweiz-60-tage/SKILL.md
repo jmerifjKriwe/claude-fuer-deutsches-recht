@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-schweiz-60-tage
-description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichkeit. Anwendungsfall Arbeitnehmer Wohnsitz Suedbaden Baden-Wuerttemberg Bayern Tätigkeit Schweiz. Arbeitstaegliche Rückkehr maximal 60 Nicht-Rückkehrtage je Kalenderjahr. Schweizer Quellensteuer im DBA Art. 15a normiert in Deutschland nach Paragraph 34c EStG anrechenbar Satz aus DBA-Text uebernehmen. Output Mandanten-Memo Grenzgaengernachweis Reisekalender Berechnungsbeispiel."
+description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichkeit. Anwendungsfall Arbeitnehmer Wohnsitz Suedbaden Baden-Wuerttemberg Bayern Tätigkeit Schweiz. Arbeitstaegliche Rückkehr maximal 60 Nicht-Rückkehrtage je Kalenderjahr. Schweizer Quellensteuer im DBA Art. 15a normiert in Deutschlan..."
 ---
 
 # Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)
@@ -184,4 +184,3 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 Stand: 05/2026. Art. 15a DBA-Schweiz in der Fassung Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68). Konsultationsvereinbarung Home-Office vom 11.06.2020 und Folgevereinbarungen. Konkreten Quellensteuer-Hoechstsatz und 60-Tage-Schaedlichkeitsschwelle im DBA-Text Art. 15a pruefen; aktuelle Home-Office-Konsultationsvereinbarung im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 2 belegt (BGBl. 1972 II S. 1021/1022 bestaetigt; BGBl. 2003 II S. 68 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert; FM-description final ohne Marker) -->
-

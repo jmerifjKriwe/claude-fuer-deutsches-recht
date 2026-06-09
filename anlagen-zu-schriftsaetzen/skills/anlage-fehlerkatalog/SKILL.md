@@ -56,4 +56,3 @@ Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko 
 ### Leitentscheidungen
 
 - BGH X ZR 39/16
-

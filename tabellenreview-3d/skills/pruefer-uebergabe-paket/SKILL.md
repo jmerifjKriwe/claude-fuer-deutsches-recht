@@ -77,4 +77,3 @@ Erst nach dokumentierter Prüfer-Abnahme darf das Paket (oder Auszüge davon) an
 - BRAO Paragraph 43a Absatz 2 — Verschwiegenheit
 - StGB Paragraph 203 — Privatgeheimnisse
 - RDG Paragraph 2 — Rechtsdienstleistung darf nur durch Rechtsanwalt erbracht werden — der Würfel ist Vorbereitung, die Abnahme ist die Rechtsdienstleistung
-

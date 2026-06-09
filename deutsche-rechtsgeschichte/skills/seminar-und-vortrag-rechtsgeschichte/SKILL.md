@@ -47,4 +47,3 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 - Mugdan-Belegkette: Motiv → Protokoll → Text
 - WRV-Dokumente: documentArchiv.de, Reichsgesetzblatt-ALEX
 - NS-Quellen: ALEX/ÖNB für RGBl. I
-

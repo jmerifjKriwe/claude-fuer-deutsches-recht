@@ -158,4 +158,3 @@ Ergebnis.
 ### Leitentscheidungen
 
 - EuGH C-249/21
-

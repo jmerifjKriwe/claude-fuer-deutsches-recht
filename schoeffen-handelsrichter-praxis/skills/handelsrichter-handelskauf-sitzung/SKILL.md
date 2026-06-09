@@ -55,4 +55,3 @@ Konkret zu prüfen:
 
 - § 95 GVG (Kammer für Handelssachen)
 - §§ 105-109 GVG (Handelsrichter)
-

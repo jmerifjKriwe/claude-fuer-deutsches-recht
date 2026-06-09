@@ -113,4 +113,3 @@ Asylsuchende haben eigene Leistungsansprüche nach dem AsylbLG, keine GKV-Mitgli
 - BGH III ZR 17/18
 - BGH IV ZR 194/07
 - BGH IV ZR 62/16
-

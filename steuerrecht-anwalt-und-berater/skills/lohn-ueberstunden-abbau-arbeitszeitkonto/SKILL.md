@@ -103,4 +103,3 @@ Stand: 05/2026.
 - ArbZG.
 - SGB IV § 7c.
 - EStG §§ 19, 34.
-

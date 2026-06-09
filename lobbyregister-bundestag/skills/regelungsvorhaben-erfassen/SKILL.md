@@ -45,4 +45,3 @@ Formuliere Regelungsvorhaben so, dass sie sowohl im Portal als auch spaeter in A
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

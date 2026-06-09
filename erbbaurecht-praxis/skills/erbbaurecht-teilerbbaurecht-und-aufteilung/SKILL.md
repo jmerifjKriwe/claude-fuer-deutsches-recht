@@ -53,4 +53,3 @@ Der Skill achtet darauf, dass Grundstücksgrundbuch, Erbbaugrundbuch und WEG-Unt
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

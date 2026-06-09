@@ -68,4 +68,3 @@ Insiderinformation werden, und steuert die Ad-hoc-Entscheidung.
 - Wesentliche Befunde (z. B. Bilanzfehler, Verluste, Strafanzeige) sind ad-hoc-pflichtig
 - Koordination: Untersuchungsbericht fertig → CFO und Compliance prüfen → Ad-hoc unverzüglich
 - Inhalt: Was wurde festgestellt, welche Maßnahmen werden ergriffen, Ausblick
-

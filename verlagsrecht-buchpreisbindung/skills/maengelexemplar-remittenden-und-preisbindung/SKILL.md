@@ -124,4 +124,3 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 - **Compliance-Check Internethandel**: Marktplatz-Angebote auf korrekte Kennzeichnung
 - **Konditionenklausel für Remittenden-Händler**
 - **Abmahnungs-Risikobewertung** bei laufenden Aktionen
-

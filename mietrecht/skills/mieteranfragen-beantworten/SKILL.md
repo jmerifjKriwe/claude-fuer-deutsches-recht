@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-beantworten
-description: "Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Lösungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang im Mietrecht."
+description: "Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwim..."
 ---
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)
@@ -78,4 +78,3 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

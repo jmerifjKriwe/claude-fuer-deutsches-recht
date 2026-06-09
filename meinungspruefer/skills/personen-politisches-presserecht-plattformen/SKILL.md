@@ -43,4 +43,3 @@ Nicht jede scharfe Kritik an einem Bürgermeister, Ratsmitglied oder Ministerial
 - **Verhältnis Art. 5 GG:** BVerfG ständige Rspr. — Machtkritik im politischen Diskurs hat erhöhten Schutz; pauschale Anwendung § 188 StGB ohne Abwägung verstößt regelmäßig gegen Art. 5 I GG.
 - **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
 - Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kontingente-lizenzen
-description: "Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan im..."
 ---
 
 # Zollkontingente und TRQ: Antragstellung und Lizenzmanagement
@@ -80,4 +80,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [BLE Agrar-TRQ-Lizenzen](https://www.ble.de/DE/Themen/Markt-Absatz/markt-absatz_node.html)
 - [Zoll.de Zollkontingente](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollkontingente/zollkontingente_node.html)
-

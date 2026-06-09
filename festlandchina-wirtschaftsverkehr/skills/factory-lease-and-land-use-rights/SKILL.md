@@ -1,6 +1,6 @@
 ---
 name: factory-lease-and-land-use-rights
-description: "Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen im Festlandchina Wirtschaftsverkehr."
+description: "Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit L..."
 ---
 
 # Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

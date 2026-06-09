@@ -46,4 +46,3 @@ Der Einigungsvertrag vom 31. August 1990 (EV, BGBl. II 1990, 885) regelte den re
 - Zwei-plus-Vier-Vertrag: BGBl. II 1990, 1318
 - BVerfGE: bverfg.de
 - GG Art. 143: gesetze-im-internet.de
-

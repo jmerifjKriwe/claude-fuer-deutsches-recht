@@ -52,4 +52,3 @@ Die Abgrenzung Penalty (unzulässige Strafklausel) und Liquidated Damages (zulä
 ## Quellenregel
 
 Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de. PICC Art. 7.4.13: unidroit.org. Code Civil Art. 1231-5: legifrance.gouv.fr. Unsicherheit bleibt sichtbar.
-

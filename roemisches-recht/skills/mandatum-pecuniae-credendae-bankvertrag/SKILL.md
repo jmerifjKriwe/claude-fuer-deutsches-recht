@@ -45,4 +45,3 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 1. Mandatum oder mutuum?
 2. Aufwendungsersatz?
 3. Garantiezweck?
-

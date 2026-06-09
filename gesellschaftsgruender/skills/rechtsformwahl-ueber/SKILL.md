@@ -52,4 +52,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Registerweg planen:** GmbH/AG: Notar → HRB-Anmeldung Amtsgericht; UG: Musterprotokoll § 2 Abs. 1a GmbHG möglich, beschleunigt aber begrenzt; OHG/KG: HRA; GbR: seit MoPeG eGbR möglich (Voraussetzung für GbR-Erwerb von Grundstücken/GmbH-Anteilen § 707a BGB n.F.).
 4. **Begleitende Behörden:** Gewerbeanmeldung Gewerbeamt (§ 14 GewO), Finanzamt (Steuernummer, USt-ID, Anmeldung Körperschaft-/Gewerbesteuer), Transparenzregister (§ 19 GwG, Eintragung wirtschaftlich Berechtigte), IHK/HwK-Pflichtmitgliedschaft.
 5. **Anschluss:** Anschluss-Skill `spezial-gmbh-fristen-form-und-zuständigkeit` (GmbH-spezifisch), `gesellschaftsgruender-kg-und-gmbhcokg` (Personengesellschaft), `gesellschaftsgruender-transparenzregister` (GwG-Eintragung).
-

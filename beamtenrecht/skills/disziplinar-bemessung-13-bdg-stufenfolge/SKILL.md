@@ -49,4 +49,3 @@ Disziplinarrecht ist keine Strafzumessung mit Uniform. Maßgeblich ist, welche M
 ## Wichtig
 
 Der Skill zitiert keine angeblichen Vergleichsfälle aus privaten Datenbanken. Wenn Vergleichsrechtsprechung genutzt wird, dann nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

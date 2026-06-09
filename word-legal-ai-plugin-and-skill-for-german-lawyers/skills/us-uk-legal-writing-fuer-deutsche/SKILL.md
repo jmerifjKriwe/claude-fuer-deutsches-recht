@@ -1,6 +1,6 @@
 ---
 name: us-uk-legal-writing-fuer-deutsche
-description: "Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel im Word Legal Ai Plugi..."
 ---
 
 # US/UK Legal Writing für Deutsche
@@ -60,4 +60,3 @@ Open points
 | UK solicitor | nüchtern, präzise | Background / Analysis / Recommendation |
 | International client | klar, nicht technisch | Key takeaway / Risk / Next step |
 | German partner auf Englisch | knapp und belastbar | Short answer / Comments / Draft |
-

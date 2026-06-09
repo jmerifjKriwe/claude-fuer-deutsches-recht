@@ -64,4 +64,3 @@ description: "Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahm
 - werkvertrag-abnahme-und-faelligkeit
 - werkvertrag-maengelrechte
 - workflow-fristen-ruecktritt-kuendigung
-

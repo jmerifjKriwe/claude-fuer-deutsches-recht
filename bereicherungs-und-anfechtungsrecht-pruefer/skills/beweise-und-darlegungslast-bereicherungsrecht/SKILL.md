@@ -1,6 +1,6 @@
 ---
 name: beweise-und-darlegungslast-bereicherungsrecht
-description: "Bei darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst."
+description: "Bei darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren..."
 ---
 
 # Beweise und Darlegungslast im Bereicherungsrecht
@@ -98,4 +98,3 @@ Anwendungsfall: darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant w
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

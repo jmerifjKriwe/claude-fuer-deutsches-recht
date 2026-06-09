@@ -128,4 +128,3 @@ III. Anregung: Wir regen an, das Verfahren bei Erfüllung folgender Auflagen ein
 - VwGO §§ 42, 80, 113 zum verwaltungsgerichtlichen Rechtsschutz.
 - BaFin-Veröffentlichungen zur Verwaltungspraxis (aktueller Stand auf bafin.de).
 - BVerwG zur Verhältnismäßigkeit aufsichtsrechtlicher Maßnahmen.
-

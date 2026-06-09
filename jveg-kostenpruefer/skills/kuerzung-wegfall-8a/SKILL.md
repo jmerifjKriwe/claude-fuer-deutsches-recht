@@ -61,4 +61,3 @@ Risikoübersicht mit Kürzungsbeträgen, Normbezug und Begründungsentwurf.
 ## Leitplanken
 - § 8a JVEG ist Ausnahmetatbestand; Kürzungen müssen konkret begründet werden.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

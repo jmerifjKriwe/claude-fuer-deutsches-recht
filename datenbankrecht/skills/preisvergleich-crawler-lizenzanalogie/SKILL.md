@@ -1,6 +1,6 @@
 ---
 name: preisvergleich-crawler-lizenzanalogie
-description: "Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler im Datenbankrecht."
+description: "Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterl..."
 ---
 
 # Preisvergleich-Crawler und Plattformverträge — Datenbankrecht und P2B
@@ -67,4 +67,3 @@ Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

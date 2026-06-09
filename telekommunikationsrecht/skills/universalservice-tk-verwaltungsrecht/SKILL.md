@@ -28,4 +28,3 @@ TKG Universaldienst-/Mindestversorgungsregeln live prüfen; EECC; BNetzA-Verfahr
 
 - tk-beweisplan-messung-stoerung-protokoll
 - tk-bundesnetzagentur-verfahren-akteneinsicht-fristen
-

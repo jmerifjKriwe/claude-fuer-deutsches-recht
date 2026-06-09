@@ -89,4 +89,3 @@ Die betriebliche Krankenversicherung (bKV) ist ein wachsendes Benefit-Instrument
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
 - [PKV-Verband bKV](https://www.pkv.de)
 - [dejure.org § 26 BDSG](https://dejure.org/gesetze/BDSG/26.html)
-

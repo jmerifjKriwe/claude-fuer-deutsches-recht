@@ -1,6 +1,6 @@
 ---
 name: eigentumserwerb
-description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkm..."
 ---
 
 # Pralr Eigentumserwerb Beweglich Traditio
@@ -48,4 +48,3 @@ description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill b
 2. Traditio?
 3. Eigentum des Veraeusserers?
 4. Gutglaeubigkeit?
-

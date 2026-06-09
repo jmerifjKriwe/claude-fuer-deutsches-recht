@@ -1,6 +1,6 @@
 ---
 name: einstellung-153a-hauptverhandlung
-description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA im Strafbefehl Verteidiger."
+description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA im Straf..."
 ---
 
 # Einstellung des Strafbefehlsverfahrens
@@ -117,4 +117,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Auflage-Erfuellungsfrist im Kalender einpflegen.
 - BZR-Konsequenzen erklaeren: bei § 153a und Geldbusse bis 90 Tagessaetze kein Eintrag.
 - Ablehnung der Einstellung ist kein Endpunkt — Antrag in der HV wiederholen.
-

@@ -49,4 +49,3 @@ Dieser Skill prüft den Einsatz von Agenten und die Auslagerung bei ZAG-Institut
 ## Output
 
 Agenten-Registrierungsanzeige-Vorlage § 25 ZAG; Auslagerungsvertrag-Mindestklausel-Checkliste (§ 24 ZAG, DORA Art. 30); DORA-ICT-Drittparteien-Register-Template; AML-Schulungsplan für Agenten; Risikoampel wesentliche vs. nicht-wesentliche Auslagerung.
-

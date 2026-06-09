@@ -74,4 +74,3 @@ Dieser Skill nimmt die gegnerische Perspektive ein: Welche Gegenargumente gibt e
 - **Qualitätssicherungs-Checkliste** für den Abschlussbericht
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -82,4 +82,3 @@ Konkret zu prüfen:
 - RL 2001/29/EG (InfoSoc)
 - RL (EU) 2019/790 (DSM)
 - RL 2014/26/EU
-

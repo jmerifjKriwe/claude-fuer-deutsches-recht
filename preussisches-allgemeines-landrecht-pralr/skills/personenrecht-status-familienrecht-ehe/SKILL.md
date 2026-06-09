@@ -50,4 +50,3 @@ ALR-Loesung: ALR II 9 §§ — Pruefung des Adelsbriefs; Adelsfuehrung nur bei N
 ### Heutige Fortwirkung
 - § 1 BGB hat ALR I 1 § 1 abgeloest — Rechtsfaehigkeit beginnt mit Vollendung der Geburt.
 - BVerfG zur Adelsfuehrung als Namensbestandteil — staendige Rspr., Az im Mandat verifizieren.
-

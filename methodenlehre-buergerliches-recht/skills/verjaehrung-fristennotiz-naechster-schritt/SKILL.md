@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristennotiz-naechster-schritt
-description: "Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsunterbrechungen durch Mahnung, Klage und Verhandlungen dokumentiert werden und wie Anwälte Fristensysteme für eine sichere Mandatsführung aufbauen. Besonderes Gewicht liegt auf der Haftungsvermeidung durch lückenlose Fristenüberwachung."
+description: "Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsu..."
 ---
 
 # Verjährung, Fristennotiz und nächste Schritte
@@ -80,4 +80,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

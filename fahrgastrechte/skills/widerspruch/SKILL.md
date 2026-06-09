@@ -1,6 +1,6 @@
 ---
 name: widerspruch
-description: "Erstellt einen formellen Widerspruchsbrief gegen die Ablehnung eines Fahrgastrechte-Antrags der Deutschen Bahn oder eines anderen Eisenbahnverkehrsunternehmens. Verwende diesen Skill immer wenn der Nutzer ein Ablehnungsschreiben des DB-Servicecenters Fahrgastrechte (oder gleichwertiger EVU-Stelle) zum Thema Verspaetungsentschaedigung erwaehnt einen Widerspruch gegen die Deutsche Bahn formulieren moechte oder Begriffe wie Fahrgastrechte Verspaetungsentschaedigung Servicecenter Fahrgastrechte Entschaedigungsantrag abgelehnt oder DB Ablehnung verwendet. Strukturierter Schriftsatz mit Pinpoint auf konkreten Ablehnungsgrund und Anlagen-YAML."
+description: "Erstellt einen formellen Widerspruchsbrief gegen die Ablehnung eines Fahrgastrechte-Antrags der Deutschen Bahn oder eines anderen Eisenbahnverkehrsunternehmens. Verwende diesen Skill immer wenn der Nutzer ein Ablehnungsschreiben des DB-Servicecenters Fahrgastrechte (oder gleichwertiger EVU-Stelle..."
 ---
 
 # Fahrgastrechte-Widerspruch — Skill
@@ -228,4 +228,3 @@ Nicht alle Informationen auf einmal abfragen, sondern nur das, was wirklich fehl
 - Schlichtungsstelle Reise & Verkehr e.V. — schlichtungsstelle-reise-verkehr.de
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

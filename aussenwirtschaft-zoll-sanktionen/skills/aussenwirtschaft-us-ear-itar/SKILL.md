@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken für EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken für EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu..."
 ---
 
 # US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [DDTC ITAR](https://www.pmddtc.state.gov/ddtc_public/ddtc_public?id=ddtc_public_portal_itar_landing)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [BAFA Dual-Use](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
-

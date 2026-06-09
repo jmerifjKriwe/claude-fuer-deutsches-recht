@@ -73,4 +73,3 @@ Plattform-Monetarisierungsprogramme (TikTok Creator Fund, YouTube AdSense, Meta 
 - ZM-Einreichungs-Anleitung
 - EÜR-Buchungsvorlage (Creator-Fonds)
 - W-8BEN-Ausfüllhilfe für US-Plattformen
-

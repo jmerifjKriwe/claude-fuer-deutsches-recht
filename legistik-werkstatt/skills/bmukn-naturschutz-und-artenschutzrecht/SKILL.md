@@ -1,6 +1,6 @@
 ---
 name: bmukn-naturschutz-und-artenschutzrecht
-description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung)."
+description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Natur..."
 ---
 
 # Naturschutz- und Artenschutzrecht (BMUKN)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

@@ -79,4 +79,3 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - BGH, staend. Rspr. zu Aufklaerung, Behandlungsfehler, Beweislast (§ 630h BGB).
 - MBO-Aerzte, Bundesaerztekammer-Hinweise.
 - StGB §§ 223 ff., § 203.
-

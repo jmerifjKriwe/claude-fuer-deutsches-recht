@@ -91,4 +91,3 @@ Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht*
 - [MB/KK 2009 – PKV-Musterbedingungen](https://www.pkv.de)
 - [dejure.org § 19 VVG](https://dejure.org/gesetze/VVG/19.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
-

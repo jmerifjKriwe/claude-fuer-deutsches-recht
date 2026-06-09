@@ -85,4 +85,3 @@ Baulasten existieren NICHT im Grundbuch. Querverweis mit Baulastenverzeichnis zw
 ## Ausgabe
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
-

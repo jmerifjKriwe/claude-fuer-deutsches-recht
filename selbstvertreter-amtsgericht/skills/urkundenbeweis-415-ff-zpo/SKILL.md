@@ -125,4 +125,3 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
-

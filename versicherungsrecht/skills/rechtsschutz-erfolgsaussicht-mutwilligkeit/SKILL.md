@@ -41,4 +41,3 @@ VVG § 128; ARB; ZPO Prozesskostenlogik analog nur vorsichtig; RVG.
 
 - rechtsschutz-deckungszusage-stichentscheid
 - vergleich-abfindung-entschaedigungsquittung
-

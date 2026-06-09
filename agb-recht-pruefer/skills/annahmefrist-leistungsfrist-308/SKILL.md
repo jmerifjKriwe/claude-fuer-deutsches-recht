@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill f√ºr Annahmefrist Leistungsfrist 308: pr√
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

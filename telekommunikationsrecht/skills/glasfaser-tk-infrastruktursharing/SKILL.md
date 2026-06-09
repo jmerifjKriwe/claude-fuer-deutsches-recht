@@ -28,4 +28,3 @@ TKG Wegerechte/Mitnutzung live prüfen; BGB Sachenrecht; WEG; Bau-/Straßenrecht
 
 - tk-wegerecht-öffentliche-wege
 - tk-infrastruktursharing-open-access
-

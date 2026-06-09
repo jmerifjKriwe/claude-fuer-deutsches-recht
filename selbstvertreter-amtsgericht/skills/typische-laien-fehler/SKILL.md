@@ -112,4 +112,3 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-

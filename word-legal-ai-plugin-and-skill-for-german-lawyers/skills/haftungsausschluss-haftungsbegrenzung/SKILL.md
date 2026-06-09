@@ -1,6 +1,6 @@
 ---
 name: haftungsausschluss-haftungsbegrenzung
-description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Person..."
 ---
 
 # Haftungsausschluss und Haftungsbegrenzung
@@ -152,4 +152,3 @@ gesetzlichen Vorschriften.
 - § 276 Abs. 3 BGB, § 278 BGB, § 307 BGB, § 309 Nr. 7 BGB, § 309 Nr. 8 BGB, § 444 BGB, § 202 BGB. gesetze-im-internet.de.
 - § 11 ProdHaftG. gesetze-im-internet.de/prodhaftg/.
 - BGH-Rspr. zu Kardinalpflichten und summenmäßiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
-

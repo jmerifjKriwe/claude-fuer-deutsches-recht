@@ -60,4 +60,3 @@ Empfehlung: Allgemeine Tax Indemnity für unbekannte Altrisiken + Specific Indem
 
 - "Käufer trägt alle Steuern aus der Transaktion" deckt Alt-GrESt nicht (keine "Transaktionssteuer"). Klare Cut-off-Klausel mit Datum nötig.
 - Grundbesitzliste fehlt oder ist nicht aktuell zum Closing-Datum; spätere Streitigkeiten über Bemessungsgrundlage und Belegenheitsfinanzamt.
-

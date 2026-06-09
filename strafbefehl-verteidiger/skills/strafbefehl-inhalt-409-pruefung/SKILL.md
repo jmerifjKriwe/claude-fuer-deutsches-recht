@@ -104,4 +104,3 @@ Mandantenhinweis: verstaendlich-erklaerend, Fachbegriffe erklaeren.
 - Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung moeglich.
 - Einspruch immer fristgerecht einlegen, unabhaengig von Fehlerruegen.
 - Anwaltliche Endkontrolle vor Versand.
-

@@ -62,4 +62,3 @@ Anwaltliche Begleitung des Anreizsetzungssystems (ASS) für Pünktlichkeit und Z
 
 ## Qualitätsgate
 ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau beziffert? Diskriminierungs-Maßstab vergleichend belegt? Verfahrensstand bei der BNetzA korrekt eingeordnet? Eil-Optionen § 68 ERegG / VG Köln benannt?
-

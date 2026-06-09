@@ -1,6 +1,6 @@
 ---
 name: ausgleich-ma-deal-ausgleichsanmeldung
-description: "Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung im Handelsvertreterrecht."
+description: "Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Recht..."
 ---
 
 # Berechnung des Ausgleichsanspruchs nach § 89b HGB
@@ -85,4 +85,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [EuGH C-381/19 Saint-Gobain auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0381)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
 - [BGH Rechtsprechung Openjur](https://openjur.de/)
-

@@ -1,6 +1,6 @@
 ---
 name: werbung-robe-kanzleimarketing-praevention
-description: "Werbung, Robe und Kanzleimarketing (Präventions- und Organisationspaket): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Werbung, Robe und Kanzleimarketing (Präventions- und Organisationspaket): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren..."
 ---
 
 # Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket
@@ -47,4 +47,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

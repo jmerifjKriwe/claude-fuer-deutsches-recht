@@ -111,4 +111,3 @@ Fragen zum Einstieg:
 - BGH zur Bestimmbarkeit von Globalzessionen (etwa BGH NJW 2000, 276 – Bezeichnungs-/Bestimmbarkeitsanforderungen).
 - BGH zum verlängerten Eigentumsvorbehalt und seinem Verhältnis zur Globalzession.
 - HGB § 354a zur Wirksamkeit der Abtretung im Handelsverkehr.
-

@@ -69,4 +69,3 @@ Drittbeteiligte (Zeugen, Sachverständige) sind nicht an die Sprachwahl gebunden
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

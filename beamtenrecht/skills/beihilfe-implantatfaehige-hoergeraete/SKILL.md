@@ -1,6 +1,6 @@
 ---
 name: beihilfe-implantatfaehige-hoergeraete
-description: "Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen Notwendigkeitsnachweis sowie die Grundsaetze der Wirtschaftlichkeit und Sparsamkeit. Behandelt typische Konstellationen Streit um Hoergeraet ueber Festbetrag Cochlea-Implantat-Nachsorge und elektronische Sehhilfen. Liefert Pruefraster und Klagebausteine im Beamtenrecht."
+description: "Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen..."
 ---
 
 # Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen
@@ -66,4 +66,3 @@ Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 ## 7. Beispiel (Kurzfassung)
 
 Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in grossen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.
-

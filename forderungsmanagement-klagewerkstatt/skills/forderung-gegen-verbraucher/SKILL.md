@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-verbraucher
-description: "Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fernabsatz §§ 312g, 355 BGB, Belehrungspflicht. Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz § 288 Abs. 1 BGB. Streitwert AG (bis 10000 EUR ab 01.01.2026). Gerichtsstand Wohnsitz Verbraucher § 29c ZPO."
+description: "Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fernabsatz §§ 312g, 355 BGB, Belehrungspflicht. Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz § 288 Abs. 1 BGB. Streitwert AG (bis 10000 EUR ab 01.01.2026). Gerichtsstand Wohns..."
 ---
 
 # Forderung gegen Verbraucher

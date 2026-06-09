@@ -81,4 +81,3 @@ Dieser Skill gestaltet das Settlement-Narrativ so, dass es die Kooperationsanfor
 - **Pressemitteilungs-Template** für Settlement-Ankündigung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Strafbefehl Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Strafbefehl Verteidiger."
+description: "Einstieg, Schnelltriage und Fallrouting im Strafbefehl Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenst..."
 ---
 
 # Strafbefehl-Verteidiger — Allgemein
@@ -220,4 +220,3 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - StPO §§ 407-412 in geltender Fassung
 - StGB §§ 40-43 in geltender Fassung
 - § 257c StPO (Verstaendigung) in geltender Fassung
-

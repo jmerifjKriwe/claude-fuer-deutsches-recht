@@ -1,6 +1,6 @@
 ---
 name: bdsg-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -33,4 +33,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Verstoß gegen § 26 BDSG ist die zentrale Beweisfrage immer: "Erforderlich für was genau?" Pauschale Verweise auf "Zwecke des Arbeitsverhältnisses" tragen nicht — der konkrete Anlass und die Geeignetheit der Mittel müssen dokumentierbar sein. BAG 27.07.2017, 2 AZR 681/16 zur Verwertbarkeit von Keylogger-Daten als Leitorientierung.
-

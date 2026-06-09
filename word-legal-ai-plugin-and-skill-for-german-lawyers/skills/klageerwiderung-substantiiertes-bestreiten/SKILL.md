@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-substantiiertes-bestreiten
-description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: E..."
 ---
 
 # Klageerwiderung und substantiiertes Bestreiten
@@ -126,4 +126,3 @@ Rechtsanwalt
 - §§ 320, 273, 387 ff. BGB für Zurückbehaltung und Aufrechnung.
 - BGH-Rechtsprechung zum substantiierten Bestreiten und zur sekundären Darlegungslast: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
-

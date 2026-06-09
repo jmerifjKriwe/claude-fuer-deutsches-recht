@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Unterlassungserklärung Modifizieren
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

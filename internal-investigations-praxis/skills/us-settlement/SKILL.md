@@ -84,4 +84,3 @@ Dieser Skill strukturiert die Koordination zwischen deutschem und US-Counsel so,
 - **DSGVO-/US-Discovery-Konfliktanalyse**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

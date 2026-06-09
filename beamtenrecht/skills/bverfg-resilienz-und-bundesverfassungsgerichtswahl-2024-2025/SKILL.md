@@ -31,4 +31,3 @@ description: "Resilienz des Bundesverfassungsgerichts: Art. 93/94 GG, BVerfGG, W
 ## Formulierungsregel
 
 Der Skill vermeidet Alarmismus. Er beschreibt Institutionenschutz nüchtern: Ziel ist nicht politische Siegerzählung, sondern Funktionsfähigkeit, rechtzeitige Besetzung und gerichtliche Unabhängigkeit.
-

@@ -116,4 +116,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Sachverstaendigen-Antrag nur bei konkreten Angriffspunkten stellen (pauschal genuegt nicht).
 - Toleranzabzug immer selbst nachrechnen.
 - Anwaltliche Endkontrolle bei Sachverstaendigen-Auswahl und Beweisantraegen.
-

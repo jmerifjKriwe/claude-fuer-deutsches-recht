@@ -71,4 +71,3 @@ Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anm
 
 - BGH VI ZR 36/20
 - BGH VIII ZR 78/20
-

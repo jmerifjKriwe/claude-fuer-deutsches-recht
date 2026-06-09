@@ -149,4 +149,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kroa
 Stand: 05/2026. DBA-Kroatien 06.02.2006, in Kraft 22.12.2006 (BGBl. 2006 II S. 1112). EU-Beitritt 01.07.2013, Euro ab 01.01.2023. MLI wirksam ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1112; MLI-Status und Datum; Quellensteuer-Saetze; EU-MTRL Datum), 0 gestrichen -->
-

@@ -84,4 +84,3 @@ Beim **Leasinggeber** bleibt die Unterscheidung erhalten (IAS 17 für LG transfo
 - **BMF-Test**: Checkliste Vollamortisation und Teilamortisation
 - **IFRS-16-Buchung**: Right-of-Use-Asset und Leasingverbindlichkeit (Erstansatz)
 - **Steuer-Memo**: Wirtschaftliches Eigentum und AfA-Berechtigung
-

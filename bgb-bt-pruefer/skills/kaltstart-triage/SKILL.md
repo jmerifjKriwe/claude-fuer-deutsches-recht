@@ -43,4 +43,3 @@ Bei tragenden Normfragen `amtlicher-bgb-bt-normcheck` zuschalten; er nutzt den n
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://dejure.org/gesetze/BGB
-

@@ -59,4 +59,3 @@ Diese Quellenkarte sichert im Bereich **Wandeldarlehen Lebenszyklus** tragende N
 
 - BGH VI ZR 232/09
 - BGH VI ZR 171/18
-

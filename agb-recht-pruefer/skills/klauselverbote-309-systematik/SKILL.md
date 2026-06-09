@@ -42,4 +42,3 @@ description: "Norm- und Dogmatik-Skill für Klauselverbote 309 Systematik: prüf
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

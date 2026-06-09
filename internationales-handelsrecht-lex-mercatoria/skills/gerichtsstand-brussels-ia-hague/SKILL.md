@@ -48,4 +48,3 @@ Die Brüssel Ia-VO (EU) 1215/2012, anwendbar seit 2015, regelt die international
 - Erfüllungsort bei Warenkauf: physischer Lieferort nach Incoterms-Klausel
 - Lis-pendens-Reform: Gerichtsstand-Vereinbarungsgericht hat Priorität (Art. 31 Abs. 2)
 - Schiedsklausel und staatliche Gerichtsstandsklausel immer aufeinander abstimmen
-

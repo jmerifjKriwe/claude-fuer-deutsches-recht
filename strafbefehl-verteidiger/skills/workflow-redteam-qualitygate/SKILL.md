@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Halluzinations-Check:** keine erfundenen Az BGH; "staendige Rspr." statt konkret Az aus Modellwissen.
 - **Vollmachts-Check:** Vertretungsvollmacht für § 411 II StPO Hauptverhandlung? Sonst Versaeumnisurteil moeglich (§ 412 StPO).
 - **Halterauskunft / Fahrtenbuchauflage** Risiko angesprochen bei Verkehrs-Strafbefehl mit nicht ermittelbarem Fahrer?
-

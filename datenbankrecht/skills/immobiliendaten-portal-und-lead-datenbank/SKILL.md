@@ -1,6 +1,6 @@
 ---
 name: immobiliendaten-portal-und-lead-datenbank
-description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen im Datenbankrecht."
+description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-..."
 ---
 
 # Immobiliendaten, Portale und Lead-Datenbanken — Datenbankrecht
@@ -71,4 +71,3 @@ description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 83 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/83.html)
-

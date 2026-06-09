@@ -1,6 +1,6 @@
 ---
 name: lernstrategien-loesungsschemata-methodenlehre
-description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung im Jurastudium."
+description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Re..."
 ---
 
 # Lernstrategien für Jura
@@ -113,4 +113,3 @@ description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln
 - Sie schreibt keinen fertigen Lernplan (das macht `lernplan`).
 - Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studierende wählt.
 - Sie ist keine Motivationsberatung. Wer kein Examen schreiben will, lernt nicht effektiver, weil ein Plugin Ratschläge gibt.
-

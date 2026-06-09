@@ -1,6 +1,6 @@
 ---
 name: mandat-schliessen
-description: "Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output: Abschlussbericht Mandat. Abgrenzung: nicht laufende Mandat-Aktualisierung im Prozessrecht."
+description: "Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output: Abschlussbericht Mandat. Abgrenzung: nicht laufende Mandat-Aktualisierung im Proz..."
 ---
 
 # Mandat schließen
@@ -110,4 +110,3 @@ _log.yaml-Status: archiv
 <!-- AUDIT 27.05.2026
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
 -->
-

@@ -51,4 +51,3 @@ Bei Bewerbung in mehrere Länder Synopse erstellen:
 2. Welches LBesG aktuell?
 3. Vergleich zu anderen Ländern?
 4. Amtsangemessenheit?
-

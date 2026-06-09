@@ -36,4 +36,3 @@ Dorfgemeinschaft hat Hutungsrecht (Weiderecht) auf Adelsgrundstueck.
 1. Welche Dienstbarkeit?
 2. Im Grundbuch eingetragen?
 3. Ablöseweg?
-

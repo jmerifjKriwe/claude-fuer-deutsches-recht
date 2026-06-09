@@ -76,4 +76,3 @@ zudem § 766 BGB (Heilung der Bürgschaft durch Erfüllung).
 - Formmangel: Nichtigkeit nach § 125 S. 1 BGB (gesetzliche Form) oder S. 2 BGB (rechtsgeschäftliche Form)?
 - Heilungsmöglichkeit: § 311b Abs. 1 S. 2 BGB oder andere Heilungstatbestände?
 - Teilnichtigkeit nach § 139 BGB: Bleibt der Rest des Vertrags wirksam?
-

@@ -1,6 +1,6 @@
 ---
 name: bmf-geldwaesche-und-sanktionsrecht
-description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
+description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und..."
 ---
 
 # Geldwaescherecht und Sanktionsrecht (BMF)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

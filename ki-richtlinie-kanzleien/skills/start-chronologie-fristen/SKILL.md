@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im KI Richtlinie Kanzleien-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Ki Richtlinie Kanzleien."
+description: "Einstieg, Schnelltriage und Fallrouting im KI Richtlinie Kanzleien-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenst..."
 ---
 
 # KI-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein
@@ -234,4 +234,3 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - KI-Verordnung (EU) 2024/1689, gueltig seit 2. August 2024; KI-Kompetenz-Pflicht seit 2. Februar 2025
 - BRAK-Hinweise 12/2024
 - DAV-Stellungnahme Nr. 32/2025
-

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Frist (Beschwerde 1 Monat § 63 FamFG), wählt Norm (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) und Zuständigkeit (Betreuungsgericht (AG)), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Frist (Beschwerde 1 Monat § 63 FamFG), wählt Norm (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) und Zuständigkeit (Betreuungsgericht (AG)), leitet zum passende..."
 ---
 
 # Einstieg und Routing
@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

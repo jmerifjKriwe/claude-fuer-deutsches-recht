@@ -1,9 +1,10 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Erbrecht im Fachanwalt Erbrecht."
+description: "Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln: §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten..."
 ---
 
-# Vergleichsverhandlung Strategie
+# Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln
+
 
 ## Arbeitsweg
 
@@ -12,10 +13,6 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Erbrecht im F
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachliche Module
-
-## 1. `vergleichsverhandlung-strategie`
 
 **Fokus:** Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft).
 
@@ -192,4 +189,3 @@ Klassische Stolperfalle in Erb- und Pflichtteilsrecht:
 
 <!-- AUDIT 27.05.2026 bundle_021
 -->
-

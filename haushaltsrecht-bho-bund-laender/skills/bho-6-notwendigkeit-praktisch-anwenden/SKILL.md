@@ -1,6 +1,6 @@
 ---
 name: bho-6-notwendigkeit-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 6 Notwendigkeit praktisch anwenden. BHO § 6 Notwendigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 6 Notwendigkeit praktisch anwenden. BHO § 6 Notwendigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die..."
 ---
 
 # Bho 6 Notwendigkeit Praktisch Anwenden
@@ -27,4 +27,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 6 Notwendigkeit prakti
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-

@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - § 136a StPO
 - § 163a StPO
 - BGHSt 38, 214
-

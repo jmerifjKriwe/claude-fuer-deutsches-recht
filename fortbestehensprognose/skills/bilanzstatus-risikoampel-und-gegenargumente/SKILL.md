@@ -57,4 +57,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Anti-Halluzinations-Hinweise
 - 12-Monats-Horizont (nicht 24!) für § 19 InsO seit SanInsFoG 2021.
 - Pandemie-Sonderregelung (4 Monate temporär) ist ausgelaufen.
-

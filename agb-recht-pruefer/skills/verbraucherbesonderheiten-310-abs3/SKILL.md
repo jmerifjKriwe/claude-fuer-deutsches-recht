@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Verbraucherbesonderheiten 310 Abs. 3
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

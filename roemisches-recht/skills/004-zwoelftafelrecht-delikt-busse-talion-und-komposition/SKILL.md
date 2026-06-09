@@ -45,4 +45,3 @@ A beleidigt B oeffentlich.
 1. Welches Delikt?
 2. Talion oder Komposition?
 3. Heutiges Pendant?
-

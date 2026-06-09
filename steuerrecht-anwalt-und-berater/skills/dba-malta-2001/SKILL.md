@@ -155,4 +155,3 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297). Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

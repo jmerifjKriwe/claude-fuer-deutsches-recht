@@ -72,4 +72,3 @@ description: "Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgsch
 - https://www.gesetze-im-internet.de/bgb/__766.html
 - https://www.gesetze-im-internet.de/bgb/__765.html
 - https://www.gesetze-im-internet.de/bgb/__307.html
-

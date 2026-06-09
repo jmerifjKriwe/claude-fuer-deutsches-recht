@@ -123,4 +123,3 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 310 ZPO unveraendert.
-

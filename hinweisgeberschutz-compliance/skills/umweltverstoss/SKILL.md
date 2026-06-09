@@ -54,4 +54,3 @@ Erzeuge bevorzugt: Umwelt-Hinweis-Memo. Wenn der Nutzer nur eine Kurzantwort mö
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

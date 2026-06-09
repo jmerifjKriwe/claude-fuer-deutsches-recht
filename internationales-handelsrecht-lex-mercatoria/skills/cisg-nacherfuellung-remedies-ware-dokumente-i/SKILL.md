@@ -52,4 +52,3 @@ Das CISG etabliert ein einheitliches Rechtsbehelfssystem für den Käufer. Der K
 - Minderungsberechnung konkret durchrechnen mit Marktwerten
 - Kumulierungsmöglichkeit dokumentieren in Anspruchsschreiben
 - Aufhebungsfrist Art. 49 Abs. 2 nicht versäumen (angemessene Zeit nach Kenntnis)
-

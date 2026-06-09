@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-register-pruefen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS K..."
 ---
 
 # Kreuzfahrtschiff – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

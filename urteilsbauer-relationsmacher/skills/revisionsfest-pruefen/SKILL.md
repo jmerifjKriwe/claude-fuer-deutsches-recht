@@ -1,6 +1,6 @@
 ---
 name: revisionsfest-pruefen
-description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand."
+description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typisch..."
 ---
 
 # Revisionsfestigkeit prüfen
@@ -171,4 +171,3 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 
 - Wenn revisionsfest: `dokumente-rendern-urteil-docx` zum finalen DOCX-/PDF-Export
 - Wenn nicht: zurueck zum mangelhaften Skill (`tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben`, `beweiswuerdigung-mit-richter-input` oder `anspruchsgrundlagen-pruefen`, je nach Mangel)
-

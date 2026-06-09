@@ -1,6 +1,6 @@
 ---
 name: meth-anspruchsgrundlage-pyramide-bauleiter
-description: "Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und Subsidiarität zu ordnen. Geeignet für Mandate im Baurecht, Werkunternehmerhaftung und Projektleiterhaftung."
+description: "Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und..."
 ---
 
 # Anspruchsgrundlagen-Pyramide im Bauleitungsrecht
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 634a BGB – Verjährung der Mängelansprüche](https://www.gesetze-im-internet.de/bgb/__634a.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

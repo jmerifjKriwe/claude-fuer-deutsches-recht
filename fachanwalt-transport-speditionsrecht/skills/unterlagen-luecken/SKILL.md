@@ -11,19 +11,19 @@ Diese Unterlagenprüfung für **Fachanwalt Transport Speditionsrecht** benennt f
 
 ## Fachlandkarte dieses Plugins
 
-- `autonome-lkw-cmr-schadensregulierung` — Autonome LKW CMR Schadensregulierung
+- `transport-autonome-lkw-konvois-haftung-1d-stvg` — Autonome LKW CMR Schadensregulierung
 - `cmr-haftung-art-17-cmr` — CMR Haftung ART 17 CMR
-- `cmr-haftung-ladungsschaden` — CMR Haftung Ladungsschaden
-- `cotif-fachanwalt-haager` — Cotif Fachanwalt Haager
-- `fa-transport-spedition-mandant-redteam` — FA Transport Spedition Mandant Redteam
-- `fa-transport-spedition-start-chronologie-fristen` — FA Transport Spedition Start Chronologie Fristen
+- `cmr-haftung` — CMR Haftung Ladungsschaden
+- `cotif-schriftsatz-brief-und-memo-bausteine` — Cotif Fachanwalt Haager
+- `workflow-mandantenkommunikation` — FA Transport Spedition Mandant Redteam
+- `einstieg-schnelltriage-fallrouting` — FA Transport Spedition Start Chronologie Fristen
 - `frachtfuehrerhaftung-paragraf-425-hgb` — Frachtfuehrerhaftung Paragraf 425 HGB
 - `gefahrgut-adr-paragraf-9-gefstoffvo` — Gefahrgut ADR Paragraf 9 Gefstoffvo
-- `hgb-kabotage-beweislast-kanzlei-red-team-korrektur` — HGB Kabotage Beweislast Kanzlei RED Team Korrektur
+- `hgb-dokumentenmatrix-und-lueckenliste` — HGB Kabotage Beweislast Kanzlei RED Team Korrektur
 - `ladungsschaden-art-23-cmr` — Ladungsschaden ART 23 CMR
-- `lieferverzug-orientierung-mandat-triage` — Lieferverzug Orientierung Mandat Triage
+- `lieferverzug` — Lieferverzug Orientierung Mandat Triage
 - `luftfracht-monteral-uebereinkommen` — Luftfracht Monteral Uebereinkommen
-- `marktzugang-sonderfall-montrealer` — Marktzugang Sonderfall Montrealer
+- `marktzugang-sonderfall-edge-case` — Marktzugang Sonderfall Montrealer
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -40,4 +40,3 @@ Diese Unterlagenprüfung für **Fachanwalt Transport Speditionsrecht** benennt f
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

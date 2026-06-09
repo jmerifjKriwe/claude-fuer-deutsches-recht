@@ -63,4 +63,3 @@ Sachverhalt: A kauft Pferd; nach 3 Wochen lahmt es; bei Kauf bereits krank, aber
 Sachverhalt: A kauft Sklave von B; spaeter klagt C als wahrer Eigentuemer.
 - **Roemisch**: actio auctoritatis (bei mancipatio) bzw. stipulatio duplae (Kaufversprechen mit Stipulation auf doppelten Kaufpreis bei Eviktion). D. 21.2 De evictionibus.
 - **BGB**: § 435 BGB Rechtsmangel; § 437 BGB Mangelrechte; § 311a BGB anfaengliche Unmoeglichkeit.
-

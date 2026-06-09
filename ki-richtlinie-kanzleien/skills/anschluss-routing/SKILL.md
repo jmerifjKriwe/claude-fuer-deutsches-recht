@@ -61,4 +61,3 @@ Dieses Anschluss-Routing für **Ki Richtlinie Kanzleien** wählt nach dem ersten
 ### Leitentscheidungen
 
 - BGH VI ZR 273/16
-

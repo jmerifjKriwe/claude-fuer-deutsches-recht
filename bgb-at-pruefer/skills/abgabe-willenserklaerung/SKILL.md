@@ -98,4 +98,3 @@ Machtbereich-Lehre als vergleichbar mit E-Mail, solange der Absender keinen Rüc
 - BGH NJW 2004/1320
 - BGH NJW 2011/2643
 - BGH NJW 2005/53
-

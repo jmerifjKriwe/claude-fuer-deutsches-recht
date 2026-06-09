@@ -170,4 +170,3 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 ### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse: bei Liquidation Wegfall der Verbindlichkeit mit Erloeschen mangels Steuersubjekt (FG Köln 13 K 3006/11), wodurch der Definitiveffekt sich nicht materialisiert.
-

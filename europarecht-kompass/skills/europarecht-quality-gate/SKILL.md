@@ -1,6 +1,6 @@
 ---
 name: europarecht-quality-gate
-description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills im Europarecht Kompass."
+description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlunge..."
 ---
 
 # Europarecht-Qualitätstor
@@ -67,4 +67,3 @@ Dokument: [BEZEICHNUNG] — Datum: [DATUM]
 
 Ergebnis: [ ] Freigabe [ ] Nacharbeit erforderlich — [Punkt]
 ```
-

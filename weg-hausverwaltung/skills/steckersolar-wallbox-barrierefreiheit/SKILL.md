@@ -87,4 +87,3 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Technische Vorgaben (z. B. Leistungsgrenzen Steckersolar, MaStR-Pflichten, GEG-Anforderungen) zum Versammlungszeitpunkt live verifizieren — siehe https://www.gesetze-im-internet.de/woeigg/__20.html und https://www.gesetze-im-internet.de/bgb/__554.html.
-

@@ -72,4 +72,3 @@ Creator bei Wahlkämpfen haben besondere rechtliche Pflichten:
 - Kennzeichnungstext für bezahlte Wahlkampf-Posts
 - Parteispenden-Quittungsvorlage
 - Straf-Risiko-Einschätzung
-

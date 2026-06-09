@@ -44,4 +44,3 @@ description: "Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Ro
 - **Strategie-Faustregeln:** Kernpatent breit anmelden, Familie auseinanderhalten (DE+EP+US+CN als typisch); Gebrauchsmuster nur für schnellen taktischen Schutz; defensive Veröffentlichung bei Stand-der-Technik-Vorrat.
 - **Investorenkommunikation:** Patent-Status mit Reifegrad (Anmeldung pending vs. erteilt) und geographischer Abdeckung; "Patente angemeldet" ist NICHT identisch mit "erteilt".
 - Falle: 30-Monats-Frist PCT-Übergang in nationale Phase versäumen — Wiedereinsetzung sehr eng (Art. 122 EPÜ unter Voraussetzungen).
-

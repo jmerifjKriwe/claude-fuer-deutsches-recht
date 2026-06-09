@@ -64,4 +64,3 @@ Die europaeische Rechtsgeschichte beginnt für Deutschland mit dem EGKS-Vertrag 
 - EuGH: curia.europa.eu für vollstaendige Urteile
 - BVerfGE: bverfg.de
 - BGBl. II für Zustimmungsgesetze: gesetze-im-internet.de
-

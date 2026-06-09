@@ -81,4 +81,3 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - BMG-Konkretisierung Level Ii (Live-Check bundesgesundheitsministerium.de).
 - G-BA-Beschluesse zu sektorenuebergreifender Versorgung (Live-Check g-ba.de).
 - BSG, staend. Rspr. zum Versorgungsauftrag.
-

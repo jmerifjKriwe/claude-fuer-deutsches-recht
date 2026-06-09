@@ -1,6 +1,6 @@
 ---
 name: lohn-gesellschafter-geschaeftsfuehrer-sv
-description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandanten-Notiz."
+description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandan..."
 ---
 
 # Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung
@@ -120,4 +120,3 @@ Stand: 05/2026.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
-

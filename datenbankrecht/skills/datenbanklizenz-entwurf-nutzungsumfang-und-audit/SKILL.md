@@ -1,6 +1,6 @@
 ---
 name: datenbanklizenz-entwurf-nutzungsumfang-und-audit
-description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider im Datenbankrecht."
+description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrecht..."
 ---
 
 # Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln
@@ -63,4 +63,3 @@ description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG:
 - [§ 31 UrhG Nutzungsrechte — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
 - [Art. 8 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

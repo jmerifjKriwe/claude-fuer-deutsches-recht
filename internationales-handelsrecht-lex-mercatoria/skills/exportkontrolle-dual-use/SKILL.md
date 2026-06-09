@@ -48,4 +48,3 @@ Dual-Use-Güter sind zivil und militärisch nutzbar (z.B. Verschlüsselungssoftw
 - Red-Flag-Screening: Kundenprofil, Endverwendungserklärung, ungewöhnliche Bestellung
 - US-De-minimis-Berechnung: Anteil US-Controlled Content am Gesamtprodukt
 - Compliance-Programm: ICP (Internal Compliance Programme) nach EU und BIS-Richtlinien
-

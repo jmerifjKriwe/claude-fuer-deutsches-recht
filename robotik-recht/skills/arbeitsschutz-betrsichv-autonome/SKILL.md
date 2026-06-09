@@ -122,4 +122,3 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 - ISO 10218-1:2025; ISO 10218-2:2025; ISO/TS 15066:2016.
 - BetrVG § 87.
 - Live-Verifikation auf baua.de, dguv.de, eur-lex.europa.eu; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

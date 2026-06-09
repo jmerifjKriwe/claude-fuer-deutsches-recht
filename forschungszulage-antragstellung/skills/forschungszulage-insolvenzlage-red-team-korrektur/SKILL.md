@@ -74,4 +74,3 @@ Empfehlung: FZulG immer prüfen, weil rechtssicher; nicht alternativ, sondern **
 - Antragsteller hält Routinetätigkeiten (Software-Wartung, marginale Produktverbesserung) für FuE - Bescheinigung wird abgelehnt.
 - Eigenleistung des Einzelunternehmers wird nicht angesetzt, obwohl nach § 3 Abs. 3 FZulG erlaubt (pauschal 70 EUR/Std., maximal 40 Std./Woche, vor Ausgabe verifizieren).
 - Antrag beim Finanzamt ohne vorherige BSFZ-Bescheinigung - das Finanzamt setzt nicht fest, bis die Bescheinigung vorliegt.
-

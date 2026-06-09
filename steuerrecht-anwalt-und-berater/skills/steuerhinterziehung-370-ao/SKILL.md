@@ -1,6 +1,6 @@
 ---
 name: steuerhinterziehung-370-ao
-description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen Steuerhinterziehung. Behandelt Tathandlungen § 370 Abs. 1 Nr. 1-3 AO Schaetzungsproblematik im Strafverfahren und das Verhaeltnis zum Besteuerungsverfahren. Output Verteidigungsstrategie-Raster und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-selbstanzeige-371-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao."
+description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen Steuerhinterziehung. Behandelt Tathandlungen § 370 Abs. 1 Nr...."
 ---
 
 # Steuerhinterziehung — § 370 AO Tatbestand und Verteidigung
@@ -43,4 +43,3 @@ description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerv
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

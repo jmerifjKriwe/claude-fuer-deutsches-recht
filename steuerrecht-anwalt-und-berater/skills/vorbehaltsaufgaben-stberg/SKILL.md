@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgaben-stberg
-description: "Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche Hilfe ohne Berater anbieten. Behandelt Vollberater Lohnsteuerhilfevereine Buchstellen Bilanzbuchhalter und § 5 StBerG Ordnungswidrigkeit. Output Pruefraster und Stellungnahmemuster. Abgrenzung zu fa-stu-stberg-vereinbare-taetigkeit."
+description: "Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche H..."
 ---
 
 # Vorbehaltsaufgaben Steuerberater — § 3 § 4 StBerG
@@ -42,4 +42,3 @@ description: "Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche st
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

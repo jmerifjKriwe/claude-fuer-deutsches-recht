@@ -78,4 +78,3 @@ Sachverhalt: Reicher Vater enterbt seinen Sohn vollstaendig zugunsten eines Skla
 Sachverhalt: Vater verfuegt: "Ich setze meinen Sklaven Marcus als Erben ein. Marcus, ich bitte dich, das gesamte Vermoegen meinem Vater zu geben." — Vater des Erblassers ist nicht erbfaehig (z. B. capitis deminutio).
 - **Roemisch**: Fideikommissum; Marcus ist verpflichtet, das Erbe an den Vater zu uebertragen. SC Trebellianum (56 n. Chr.): Fideikommissar erhaelt eigene Klage.
 - **BGB**: Vor- und Nacherbschaft § 2100 ff. BGB.
-

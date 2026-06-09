@@ -68,4 +68,3 @@ description: ASCII-Pruefungsschema fuer die vierstufige Verhaeltnismaessigkeitsp
 - Anlage zum Schriftsatz, eingerueckt mit Monospace-Schrift.
 - Klausurbeilage bei Fortgeschrittenenpruefung.
 - Mandatsmemo als Quick-Overview.
-

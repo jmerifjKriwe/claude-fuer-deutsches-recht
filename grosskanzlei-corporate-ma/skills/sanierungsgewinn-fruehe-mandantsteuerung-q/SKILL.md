@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-mandantsteuerung-q
-description: "Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026."
+description: "Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adre..."
 ---
 
 # Sanierungsgewinn – Frühe Mandantsteuerung Q-12
@@ -127,4 +127,3 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Linie für die Konstellation Liquidation mit nachrangigem Gesellschafterdarlehen: rechentheoretisch im Löschungszeitpunkt entstehender Gewinn ist mangels Körperschaftsteuersubjekt nicht festsetzbar. Relevant für die strategische Alternative „Sanierung vs. Liquidation".
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 (Sanierungserlass-Beschluss) – prüfbar über bundesfinanzhof.de.
 - Weitere Rspr. sonst als „ständige Rspr." formulieren oder erst nach eigener Verifizierung in offizielle Datenbank aufnehmen.
-

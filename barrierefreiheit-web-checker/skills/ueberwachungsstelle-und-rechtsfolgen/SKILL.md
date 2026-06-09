@@ -1,6 +1,6 @@
 ---
 name: ueberwachungsstelle-und-rechtsfolgen
-description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit Web Checker."
+description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit W..."
 ---
 
 # Ueberwachung und Rechtsfolgen
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

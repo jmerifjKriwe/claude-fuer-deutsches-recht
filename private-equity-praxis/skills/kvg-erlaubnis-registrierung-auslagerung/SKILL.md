@@ -90,4 +90,3 @@ Auslagerungsregister (Pflichtfeld):
 - VO (EU) 231/2013 Art. 76 ff. Auslagerung.
 - DORA (VO (EU) 2022/2554, anwendbar seit 17.01.2025).
 - BaFin-Auslegungshilfe und MaRisk-/MaComp-Rundschreiben (jeweils aktueller Stand vom Anwender zu prüfen).
-

@@ -36,4 +36,3 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche aktuellen USCO-Materialien und laufenden US-Verfahren dürfen nur als Risikoanker, nicht als sichere Rechtslage behandelt werden?
 
 **Mindest-Output:** AI-Copyright-Matrix mit Human-Authorship-Anteil, ausgeschlossenen Elementen, Disclosure und Litigation-Issues.
-

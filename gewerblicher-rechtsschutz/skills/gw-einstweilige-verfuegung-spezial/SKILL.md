@@ -138,4 +138,3 @@ Vor jeder EV-Entscheidung:
 - `evvollzug-neu-001` bis `evvollzug-neu-008` – Vollzugsschritte
 - `evvollzug-neu-008` – Schutzschrift (Gegenseite)
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie
-

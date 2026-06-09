@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft
-description: "Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht für Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort)."
+description: "Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzun..."
 ---
 
 # DSGVO-Auskunftsrecht (Art. 15 DSGVO)
@@ -203,4 +203,3 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 [Unterschrift, Datenschutzbeauftragter]
 [DATUM]
 ```
-

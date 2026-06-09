@@ -1,6 +1,6 @@
 ---
 name: lage-ausstattung-mahnung-zahlungsverzug
-description: "Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als Sondermerkmale bewertet werden (Bodenbelag Fenster Balkon Terrasse Aufzug Stellplatz Energieeffizienz). Erzeugt eine Checkliste und ein strukturiertes Erhebungsprotokoll als Grundlage für ortsuebliche Vergleichsmiete Mieterhoehung Mietsenkungsverlangen oder Klage im Mietrecht."
+description: "Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als Sondermerkmale bewertet werden (Bodenbelag Fenster Balkon Terrasse Aufzug Stellp..."
 ---
 
 # Lage und Ausstattung erheben
@@ -93,4 +93,3 @@ Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (wo
 - Ortsueblliche Vergleichsmiete: § 558 BGB
 - Begruendungsmittel: § 558a BGB
 - Kappungsgrenze: § 558 Abs. 3 BGB
-

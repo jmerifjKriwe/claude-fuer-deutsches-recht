@@ -46,4 +46,3 @@ Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspieg
 - BGB Erbrecht: gesetze-im-internet.de; Mugdan Bd. V (1899)
 - Reichserbhofgesetz 1933: RGBl. I 1933, 685 via ALEX/OeNB
 - HoefeO: gesetze-im-internet.de (Bundesrecht Anerbenrecht)
-

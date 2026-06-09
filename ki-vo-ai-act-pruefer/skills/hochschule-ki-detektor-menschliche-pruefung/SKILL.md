@@ -23,4 +23,3 @@ KI-Detektoren können Hinweise liefern, aber sie sind fehleranfällig. In Prüfu
 ## Schnittstelle KI-VO
 
 Wenn ein System im Bildungsbereich Lern- oder Prüfungsentscheidungen beeinflusst, immer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO prüfen.
-

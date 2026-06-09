@@ -63,4 +63,3 @@ Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung his
 - Quellentest: Tragen die Quellen das Narrativ?
 - Gegenquellen suchen: Was widerspricht dem Narrativ?
 - Nuancierung: Kern des Narrativs beibehalten, Uebertreibungen korrigieren
-

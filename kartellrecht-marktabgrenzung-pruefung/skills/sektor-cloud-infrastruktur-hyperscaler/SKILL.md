@@ -1,6 +1,6 @@
 ---
 name: sektor-cloud-infrastruktur-hyperscaler
-description: "Sektor Cloud-Infrastruktur und Hyperscaler: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Sektor Cloud-Infrastruktur und Hyperscaler: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B..."
 ---
 
 # Sektor Cloud-Infrastruktur und Hyperscaler
@@ -33,4 +33,3 @@ description: "Sektor Cloud-Infrastruktur und Hyperscaler: Sektor-Skill im global
 - **Beweis:** interne Mails, Präsentationen, Pricing, Forecasts, Kundenwechsel, Ausschreibungen und Wettbewerberkontakte getrennt auswerten.
 - **Verteidigung:** Effizienz, objektive Rechtfertigung, failing firm, countervailing buyer power oder Compliance-Remedies nur faktenbasiert einsetzen.
 - **International:** Local-Counsel-Fragen, Filing-Schwellen, Standstill, Dawn-Raid-Befugnisse und Informationsaustausch je Jurisdiktion live prüfen.
-

@@ -113,4 +113,3 @@ Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
-

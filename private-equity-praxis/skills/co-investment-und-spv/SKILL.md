@@ -89,4 +89,3 @@ Drag-Along im Co-Invest-SHA:
 - FSR (VO (EU) 2022/2560).
 - § 8b KStG (Schachtelprivileg, 10 Prozent Mindestbeteiligung für KapErtrSt-Befreiung); MinStG (Pillar Two).
 - ILPA Co-Investment Guidance (Stand vom Anwender zu prüfen).
-

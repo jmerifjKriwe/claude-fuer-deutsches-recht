@@ -113,4 +113,3 @@ Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer.
 - **Kennzeichnungsleitfaden** für Influencer-Kooperationspartner
 - **Rezensionsexemplar-Dokumentationsformular**
 - **Compliance-Check** Social-Media-Posts auf korrekte Kennzeichnung
-

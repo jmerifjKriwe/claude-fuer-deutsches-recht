@@ -92,4 +92,3 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in der Justiz wird mittelfristig abgeschafft. Pruefen Sie bei Ihrem SG aktuell, ob noch verfuegbar.
-

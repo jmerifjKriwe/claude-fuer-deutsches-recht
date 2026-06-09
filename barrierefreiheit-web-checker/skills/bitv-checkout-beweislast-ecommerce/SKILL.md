@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Vor jeder Behördenprüfung (z. B. BFIT-Bund) zuerst die Erklärung zur Barrierefreiheit aktualisieren und prominent platzieren — schon das verbessert die Erstindrücke deutlich. Audit-Bericht erst danach prüfen lassen.
-

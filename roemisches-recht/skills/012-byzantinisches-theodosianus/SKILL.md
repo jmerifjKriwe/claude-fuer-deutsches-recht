@@ -1,6 +1,6 @@
 ---
 name: 012-byzantinisches-theodosianus
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Dieser Skill bearbeitet Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Dieser Skill bearbeitet Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken
@@ -48,4 +48,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

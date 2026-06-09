@@ -61,4 +61,3 @@ Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abges
 - **Echo (Persönlichkeit, Recht am eigenen Bild, allgemeines Persönlichkeitsrecht):** Art. 2 I iVm Art. 1 I GG; abzuwägen gegen Art. 5 I GG.
 - **§ 188 StGB (Personen des politischen Lebens):** ab 22.09.2021 verschärft; Strafrahmen bis 5 Jahre Freiheitsstrafe.
 - Falle: "Schmähkritik" wird vorgerichtlich oder im Schriftsatz als Kürzel verwendet, BVerfG fordert aber detaillierte Subsumtion. Bei Verstoß: Aufhebung durch BVerfG (Verfassungsbeschwerde lohnt regelmäßig).
-

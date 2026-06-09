@@ -1,6 +1,6 @@
 ---
 name: china-environmental-permits-factory-workplace-safety-union-and
-description: "Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping im Festlandchina Wirtschaftsverkehr."
+description: "Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output:..."
 ---
 
 # Umweltgenehmigungen China: EIA/MEE und LkSG-Schnittstelle
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

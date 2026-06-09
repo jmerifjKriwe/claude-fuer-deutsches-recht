@@ -57,4 +57,3 @@ Konkret zu prüfen:
 - § 153a StPO (Einstellung unter Auflagen und Weisungen)
 - Nr. 75-80 RiStBV (Opportunitätsprinzip)
 - BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen § 153a StPO)
-

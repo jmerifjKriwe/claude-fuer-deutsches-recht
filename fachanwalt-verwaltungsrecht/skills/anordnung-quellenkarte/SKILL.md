@@ -13,7 +13,7 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Verwaltungsrecht** tragende N
 
 - `allgemein-workflow-chronologie-workflow-fristen`
 - `anfechtungs-eilrechtsschutz-abs-eilrechtsschutz`
-- `einstweilige-fachanwalt-kanzlei`
+- `einstweilige-verhandlung-vergleich-und-eskalation`
 - `erstgespraech-mandatsannahme-fa-vwgo-anfechtungsklage`
 - `fachanwalt-verwaltungsrecht-drittanfechtung-einstweiliger`
 - `fachanwalt-verwaltungsrecht-verwaltungsakt-rechtsbehelf-vwgo`

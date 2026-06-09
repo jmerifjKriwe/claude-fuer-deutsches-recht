@@ -36,4 +36,3 @@ description: "Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werkti
 ## Quellen
 
 MarkenG live prüfen; Domain- und Plattformregeln konkret nach Registry/Plattform nachziehen.
-

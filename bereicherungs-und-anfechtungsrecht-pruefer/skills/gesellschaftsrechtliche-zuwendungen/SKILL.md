@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrechtliche-zuwendungen
-description: "Bei gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung."
+description: "Bei gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rü..."
 ---
 
 # Gesellschaftsrechtliche Zuwendungen
@@ -63,4 +63,3 @@ Anwendungsfall: gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabge
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

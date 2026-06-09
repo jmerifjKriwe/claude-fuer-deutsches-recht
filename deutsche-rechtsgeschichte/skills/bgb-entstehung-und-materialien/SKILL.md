@@ -63,4 +63,3 @@ Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kom
 - BGB: gesetze-im-internet.de für aktuelle Fassung; historisch RGBl. 1896, 195
 - BVerfGE und BGH zur Auslegungsbedeutung der Materialien: bverfg.de, bgh.de
 - Keine vereinfachten Paraphrasen ohne Quellenangabe aus den Motiven
-

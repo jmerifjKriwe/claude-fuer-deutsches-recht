@@ -75,4 +75,3 @@ Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung
 ### Leitentscheidungen
 
 - BGH XI ZR 91/14
-

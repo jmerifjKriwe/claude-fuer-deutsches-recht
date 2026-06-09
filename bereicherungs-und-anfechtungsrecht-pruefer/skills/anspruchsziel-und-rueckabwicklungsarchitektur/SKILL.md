@@ -1,6 +1,6 @@
 ---
 name: anspruchsziel-und-rueckabwicklungsarchitektur
-description: "Bei das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule)."
+description: "Bei das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäs..."
 ---
 
 # Anspruchsziel und Rückabwicklungsarchitektur
@@ -100,4 +100,3 @@ Anwendungsfall: das praktische Rückabwicklungsziel in eine belastbare Anspruchs
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

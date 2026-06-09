@@ -40,4 +40,3 @@ description: "Norm- und Dogmatik-Skill für Wesentliche Rechte Pflichten 307: pr
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

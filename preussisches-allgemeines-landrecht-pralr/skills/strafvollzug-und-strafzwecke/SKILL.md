@@ -43,4 +43,3 @@ ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger für
 - § 1 StGB Schuldprinzip — Erbe der Aufklaerungs-Tradition Friedrichs.
 - § 46 StGB Strafzumessung — beruecksichtigt Praevention.
 - Art. 102 GG: Todesstrafe abgeschafft.
-

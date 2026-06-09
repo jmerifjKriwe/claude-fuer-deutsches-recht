@@ -36,4 +36,3 @@ Frage oder extrahiere:
 | Reichweite | Je sichtbarer und dauerhafter, desto höher die Ehrbeeinträchtigung |
 | Wiederholung | Anprangerung wiegt schwerer als einmalige spontane Äußerung |
 | Bilder/Tags | Identifizierbarkeit und Prangerwirkung steigen |
-

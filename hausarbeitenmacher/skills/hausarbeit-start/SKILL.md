@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-start
-description: "Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Hausarbeitenmacher."
+description: "Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..."
 ---
 
 # Hausarbeitenmacher — Allgemein
@@ -220,4 +220,3 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - BGB in der zum Stand-Datum geltenden Fassung
 - StGB in der geltenden Fassung
 - GG in der geltenden Fassung
-

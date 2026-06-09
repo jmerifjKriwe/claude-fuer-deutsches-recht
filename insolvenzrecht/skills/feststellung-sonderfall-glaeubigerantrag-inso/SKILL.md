@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Konzerninterne Verbindlichkeiten:** Fällige Konzernforderungen zählen mit, sofern nicht ausdrücklich gestundet oder nachrangig; bei stillschweigend nicht eingeforderten Schulden ggf. faktische Stundung (Indizien nötig).
 - **Edge Case Saisonbetrieb:** Saisonale Zahlungsstockungen können binnen 3 Wochen behebbar sein — sorgfältige Liquiditätsprognose der nächsten 21 Tage entscheidet.
 - **Praxis:** Bei Zweifel im Streit immer Liquiditätsbilanz zum strittigen Stichtag erstellen — sie ist das stärkste Beweismittel für oder gegen § 17 InsO.
-

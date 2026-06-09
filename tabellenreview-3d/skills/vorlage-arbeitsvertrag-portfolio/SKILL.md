@@ -63,4 +63,3 @@ description: "Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-F
 ## Ausgabe
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
-

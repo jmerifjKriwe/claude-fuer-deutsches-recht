@@ -53,4 +53,3 @@ Das CISG regelt Angebot und Annahme in Art. 14-24 autonom. Ein Angebot ist ausre
 - Battle of Forms: Knock-out-Regel herrschende Meinung in Schiedsgerichtsbarkeit
 - Zugang bei E-Mail: Server-Eingang als Zugang (analog Art. 24); elektronische Signatur kein CISG-Thema
 - Immer prüfen ob Art. 9 Handelsbrauch eine abweichende Praxis begründet
-

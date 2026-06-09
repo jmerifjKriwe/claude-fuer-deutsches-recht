@@ -75,4 +75,3 @@ Hintermanns irrelevant — § 164 Abs. 1 BGB nicht direkt anwendbar.
 - Unternehmensbezogenheit: Betrieb/Firma erkennbar?
 - Verdeckte Stellvertretung: Handelnder wird selbst Vertragspartner?
 - Handeln unter fremdem Namen: Identitätsirrtum anfechtungsrelevant?
-

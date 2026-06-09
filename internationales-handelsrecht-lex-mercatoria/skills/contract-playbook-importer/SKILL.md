@@ -48,4 +48,3 @@ Importeure verfolgen eine andere Verhandlungsstrategie als Exporteure: Qualität
 - Rüge-Prozess: Standardprozess für alle Lieferungen dokumentieren (Eingangsinspektion)
 - LkSG-Lieferantenklausel: Code of Conduct + Audit-Recht + Vertragsstrafe bei Verstoß
 - EV-Modifikation: wenn EV unvermeidbar dann zeitlich begrenzen (max. bis Zahlungseingang)
-

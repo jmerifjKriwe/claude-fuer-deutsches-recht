@@ -1,6 +1,6 @@
 ---
 name: formulierungshilfe-bauen
-description: "Formulierungshilfen, Aenderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion will einen laufenden Gesetzentwurf aendern, Oppositionsfraktion baut einen eigenen Antrag oder Entwurf, Landtagsfraktion braucht eine landesspezifische Vorlage. Klaert formalen Initiator, fachlichen Verfasser, Parlament, Bundesland, Drucksache, Ausschuss, Lesung, GO-BT oder Landtags-GO. Output einreichungsfaehiger Antrag mit Normtext, Begruendung, Kurzvermerk, Synopse-Hinweis und Pflichtquercheck."
+description: "Formulierungshilfen, Aenderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion will einen laufenden Gesetzentwurf aendern, Oppositionsfrakt..."
 ---
 
 # Formulierungshilfe und parlamentarische Vorlage bauen
@@ -146,4 +146,3 @@ Art. 76 Abs. 1 GG — GO-BT Vorlagen/Anträge — Art. 70-74 GG — Art. 20 Abs.
 ## Anschluss
 
 `gesetzgebungskompetenz-pruefen`, `verfassungsmaessigkeit-quercheck`, `europarechtskonformitaet`, `synopse-erstellen`, `dokumente-rendern-docx-pdf`.
-

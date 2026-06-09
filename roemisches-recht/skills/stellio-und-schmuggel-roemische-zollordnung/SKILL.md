@@ -50,4 +50,3 @@ description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-,
 1. Welche Ware betroffen?
 2. Welche Zollordnung?
 3. Welche Strafe?
-

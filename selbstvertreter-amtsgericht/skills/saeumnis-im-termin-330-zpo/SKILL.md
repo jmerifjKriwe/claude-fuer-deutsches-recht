@@ -132,4 +132,3 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
-

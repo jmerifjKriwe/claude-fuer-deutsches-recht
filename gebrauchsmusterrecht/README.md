@@ -106,6 +106,6 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `verletzung-anspruchsmerkmale` | Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast im Gebrauchsmusterrecht. |
 | `vernichtung-rueckruf-vorbenutzungsrecht` | Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen im Gebrauchsmusterrecht. |
 | `vorbenutzungsrecht` | Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite im Gebrauchsmusterrecht. |
-| `zoll-plattformdurchsetzung` | Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmusterrecht. |
+| `zoll-und-plattformdurchsetzung` | Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung: Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produkt... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

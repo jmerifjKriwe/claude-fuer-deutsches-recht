@@ -1,6 +1,6 @@
 ---
 name: belegte-compliance-aktenvermerk
-description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Pruefraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Muster."
+description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Pruefraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu..."
 ---
 
 # Belegte Compliance Aktenvermerk
@@ -90,4 +90,3 @@ vom [Datum] Anlage [Nr]. Wiedervorlage
 - EuGH C-377/17
 - BGH VIII ZR 261/06
 - BGH XI ZR 564/15
-

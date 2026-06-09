@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-schwelle-hohes
-description: "Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanzdaten; Gesundheitsdaten; Bewertungsmemo für die Akte. Output: Schwellenentscheidung mit Begründung und Bezug auf EDSA. Abgrenzung: keine konkrete Benachrichtigung; keine Ausnahmenprüfung."
+description: "Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanz..."
 ---
 
 # Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO
@@ -49,4 +49,3 @@ Conclusion: hohes Risiko ab Schwere hoch + Wahrscheinlichkeit mittel; bei Art. 9
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-edsa-leitlinie` und `dsv-risikobewertung-enisa-schweregrad` liefern methodische Tiefe.
-

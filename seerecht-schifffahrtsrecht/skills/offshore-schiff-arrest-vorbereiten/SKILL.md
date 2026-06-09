@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-arrest-vorbereiten
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungs..."
 ---
 
 # Offshore-Schiff – Schiffshypothek bestellen
@@ -84,4 +84,3 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
-

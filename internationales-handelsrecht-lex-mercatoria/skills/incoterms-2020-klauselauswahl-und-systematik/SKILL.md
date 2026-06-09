@@ -48,4 +48,3 @@ Incoterms 2020 (ICC-Publikation 2019, in Kraft 1. Januar 2020) regeln Risikoübe
 - Named Place immer spezifisch (Terminal-Name, nicht nur "Hamburg")
 - Versicherungscheck: CIF Mindestdeckung (Klausel C) oft unzureichend
 - EXW-Risiko für Verkäufer: Exportkontrolle liegt beim Käufer — Compliance-Lücke
-

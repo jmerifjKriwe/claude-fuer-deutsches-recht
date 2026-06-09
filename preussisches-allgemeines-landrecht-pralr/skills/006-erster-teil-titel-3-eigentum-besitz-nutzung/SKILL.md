@@ -66,4 +66,3 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 2. Altrecht im Grundbuch eingetragen? — § 5 GBO und § 184 EGBGB.
 3. Berechtigter und Verpflichteter durch Rechtsnachfolge bis heute belegbar?
 4. Live-Check der Eintragung und der landesrechtlichen Bereinigungsgesetze (z. B. Sachenrechtsbereinigungsgesetz Ostdeutschland 1994).
-

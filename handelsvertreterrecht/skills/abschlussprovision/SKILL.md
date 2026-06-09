@@ -1,6 +1,6 @@
 ---
 name: abschlussprovision
-description: "Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision im Handelsvertreterrecht."
+description: "Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision im H..."
 ---
 
 # Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
@@ -105,4 +105,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - EuGH C-465/04
 - EuGH C-381/19
 - EuGH C-217/05
-

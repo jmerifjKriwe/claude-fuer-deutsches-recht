@@ -1,6 +1,6 @@
 ---
 name: dual-sourcing-und-china-plus-one
-description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst im Festlandchina Wirtschaftsverkehr."
+description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Bu..."
 ---
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung
@@ -86,4 +86,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU Dual-Use VO 2021/821](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
 - [BGB Volltext](https://www.gesetze-im-internet.de/bgb/)
-

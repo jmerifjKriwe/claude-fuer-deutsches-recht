@@ -139,4 +139,3 @@ Mandatsöffnung — Rolleneinordnung:
 - FKVO (Verordnung (EG) 139/2004); FSR (Verordnung (EU) 2022/2560).
 - MinStG (Pillar Two, in Kraft seit 01.01.2024).
 - DSGVO Art. 28; § 43a Abs. 2 BRAO; § 203 StGB für Mandatsgeheimnis.
-

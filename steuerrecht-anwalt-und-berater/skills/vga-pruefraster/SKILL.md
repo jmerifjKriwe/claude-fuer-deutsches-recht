@@ -1,6 +1,6 @@
 ---
 name: vga-pruefraster
-description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Gesellschafterdarlehen als verdeckte Ausschuettung und fordert Hinzurechnung. Behandelt klassische Fallgruppen Geschaeftsfuehrer-Gehaltsexzess Beherrschende-Gesellschafter Klarheits- und Rueckwirkungsverbot sowie Folgen Kapitalertragsteuer Anrechnung. Output Argumentationsraster mit Kompensationspruefung. Abgrenzung zu fa-stu-kst-organschaft-14-kstg."
+description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Ges..."
 ---
 
 # Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Pruefraster
@@ -41,4 +41,3 @@ description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminde
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

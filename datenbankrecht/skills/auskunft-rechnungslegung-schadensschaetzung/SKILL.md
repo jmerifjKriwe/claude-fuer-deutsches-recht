@@ -1,6 +1,6 @@
 ---
 name: auskunft-rechnungslegung-schadensschaetzung
-description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge im Datenbankrecht."
+description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschut..."
 ---
 
 # Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
@@ -71,4 +71,3 @@ description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 888 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/888.html)
 - [§§ 195-199 BGB — dejure.org](https://dejure.org/gesetze/BGB/195.html)
-

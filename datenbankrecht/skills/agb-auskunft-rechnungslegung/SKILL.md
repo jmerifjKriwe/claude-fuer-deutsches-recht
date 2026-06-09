@@ -1,6 +1,6 @@
 ---
 name: agb-auskunft-rechnungslegung
-description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber im Datenbankrecht."
+description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..."
 ---
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
@@ -88,4 +88,3 @@ description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: §
 - EuGH C-545/07
 - EuGH C-338/02
 - EuGH C-170/12
-

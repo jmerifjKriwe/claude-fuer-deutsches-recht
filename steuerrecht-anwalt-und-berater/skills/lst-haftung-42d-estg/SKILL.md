@@ -1,6 +1,6 @@
 ---
 name: lst-haftung-42d-estg
-description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproblemen. Behandelt Haftungstatbestand Auswahl- und Entschliessungsermessen Bruttoabsetzung Pauschalierung § 40 EStG und Anrechnung beim Arbeitnehmer. Output Pruefraster und Erwiderungsmuster. Abgrenzung zu fa-stu-haftungsbescheid-69-191-ao."
+description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproble..."
 ---
 
 # Lohnsteuerhaftung des Arbeitgebers — § 42d EStG
@@ -43,4 +43,3 @@ description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Ar
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

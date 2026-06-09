@@ -11,7 +11,7 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt It Recht** tragende Normen, R
 
 ## Suchraster
 
-- `dma-dsa-dsgvo-fachanwalt-governance`
+- `dma-compliance-dokumentation-und-akte`
 - `dsv-aufnahme-dsv-benachrichtigung-dsv-benachrichtigung-dsv`
 - `dsv-dsfa-update-erstgespraech-vorfallmeldung-eskalationsmatrix`
 - `dsv-kinderdaten-besondere-kommunikationssperre-lead-authority`

@@ -1,6 +1,6 @@
 ---
 name: comfortletter-weich-erzeugen
-description: "Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend zur Berücksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO. Skill erzeugt Dokument plus Warnhinweis dass der Comfortletter die Fortbestehensprognose nicht traegt im Fortbestehensprognose."
+description: "Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend..."
 ---
 
 # Comfortletter (weich)
@@ -107,4 +107,3 @@ Mit freundlichen Grüßen
 2. **Rechtsbindungswillen?** Comfortletter = keine Rechtsbindung; Patronatserklaerung = verbindlich.
 3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") koennen trotzdem Haftung ausloesen.
 4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangruecktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
-

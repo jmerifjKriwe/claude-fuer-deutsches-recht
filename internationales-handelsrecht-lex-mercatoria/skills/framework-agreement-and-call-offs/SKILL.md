@@ -51,4 +51,3 @@ Rahmenverträge schaffen einen Handlungsrahmen ohne sofortige Kaufverpflichtung;
 ## Quellenregel
 
 CISG Art. 14: uncitral.un.org. BGB §§ 311, 433: gesetze-im-internet.de. GWB § 20: gesetze-im-internet.de. EU-RL 2014/24/EU: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.
-

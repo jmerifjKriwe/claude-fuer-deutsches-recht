@@ -1,6 +1,6 @@
 ---
 name: vermittlungsvertreter
-description: "Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB im Handelsvertreterrecht."
+description: "Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b..."
 ---
 
 # Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 91 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__91.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-

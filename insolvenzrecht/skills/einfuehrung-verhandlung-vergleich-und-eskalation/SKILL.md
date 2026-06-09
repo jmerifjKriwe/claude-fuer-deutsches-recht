@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verhandlungslinie Gläubiger:** Vor Antrag Stundung/Vergleich; nach Antrag Forderungsanmeldung und ggf. Plan-Mitwirkung; bei Anfechtung Verteidigungslinien (§ 142 Bargeschäft, fehlende Kenntnis bei § 130, fehlende Inkongruenz bei § 131).
 - **Eskalation Schuldnerin:** Bei Gläubigerantrag § 14 InsO: Forderung erfüllen oder bestreiten, Eröffnungsgrund bestreiten, ggf. Eigenantrag mit Eigenverwaltung; bei Vollstreckungsdruck StaRUG-Stabilisierungsanordnung § 49 StaRUG erwägen.
 - **Praxis:** Verhandlungsspielraum endet mit Eintritt der Antragspflicht (§ 15a InsO) — danach ist Antrag zwingend, Verhandlung allenfalls intra-verfahrensrechtlich möglich.
-

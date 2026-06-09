@@ -1,6 +1,6 @@
 ---
 name: recognition-new-york-convention
-description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handels..."
 ---
 
 # New York Convention 1958: Anerkennung und Vollstreckung
@@ -48,4 +48,3 @@ Die New York Convention (UN-Übereinkommen 1958, 172 Vertragsstaaten) ist das wi
 - Vollstreckungsstrategie: Mehrere Länder parallel wenn Schuldner-Assets verteilt
 - Ordre public Verteidigung: nur bei offensichtlicher, fundamentaler Grundrechts- oder Rechtsverletzung
 - Aufhebungsklage vermeiden: Award-Anfechtung am Schiedsort und parallele Vollstreckung in Drittland möglich
-

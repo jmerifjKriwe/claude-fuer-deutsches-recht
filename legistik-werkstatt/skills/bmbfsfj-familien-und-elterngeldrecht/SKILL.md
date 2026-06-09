@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-familien-und-elterngeldrecht
-description: "Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung)."
+description: "Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgab..."
 ---
 
 # Familien- und Elterngeldrecht (BMBFSFJ)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

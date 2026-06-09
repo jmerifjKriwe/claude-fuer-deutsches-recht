@@ -40,4 +40,3 @@ description: "Beweissicherung im Nachbarrechtsfall planen: Ortstermin, Fotodokum
 - Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich.
 - Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverstaendig geklaert werden muss.
 - Priorisiere befriedende Loesungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
-

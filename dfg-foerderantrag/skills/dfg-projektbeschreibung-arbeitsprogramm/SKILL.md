@@ -205,4 +205,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Leitfaden für die Antragstellung (programmspezifisch): dfg.de
 
 Seitenlimits und Gliederungsempfehlungen variieren nach Programm und Vordruck — am Einreichtag aktuelle Version verifizieren.
-

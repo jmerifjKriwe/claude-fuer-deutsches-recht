@@ -99,4 +99,3 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
-

@@ -72,4 +72,3 @@ Das Recht am eigenen Bild schützt Persönlichkeitsrechte und ist für Creator t
 - Model-Release-Vorlage (deutsch/englisch)
 - KUG-Abmahnung: Reaktionsschreiben
 - Minderjährigen-Einwilligungsformular
-

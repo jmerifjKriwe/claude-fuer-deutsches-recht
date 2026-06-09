@@ -1,6 +1,6 @@
 ---
 name: bwa-soll-ist-vergleich
-description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-mandantenreport-monatlich."
+description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-manda..."
 ---
 
 # Soll-Ist-Vergleich in der BWA
@@ -108,4 +108,3 @@ Stand: 05/2026.
 - Addison Budget-Modul.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SanInsKG-Sonderregelung ausgelaufen 31.12.2023, Standardzeitraum 12 Monate bestaetigt) -->
-

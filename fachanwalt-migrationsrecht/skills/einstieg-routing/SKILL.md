@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsverordnung, EU-Familienzusammenführungs-RL) und Zuständigkeit (Ausländerbehörde), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsverordnung, EU-Familienzusammenführungs-RL) und Zuständigkeit..."
 ---
 
 # Einstieg und Routing
@@ -12,18 +12,18 @@ Dieser Einstieg routet **Fachanwalt Migrationsrecht** vom ersten Sachverhalt zu 
 ## Fachlandkarte dieses Plugins
 
 - `abschiebehaft-paragraf-62-aufenthg` — Abschiebehaft Paragraf 62 Aufenthg
-- `abschiebungsabwehr-sofort-arbeitgeber` — Abschiebungsabwehr Sofort Arbeitgeber
-- `arbeitgeberwechsel-asyl-anhoerung-asylg` — Arbeitgeberwechsel Asyl Anhoerung Asylg
+- `einstieg-schnelltriage-fallrouting` — Abschiebungsabwehr Sofort Arbeitgeber
+- `arbeitgeberwechsel` — Arbeitgeberwechsel Asyl Anhoerung Asylg
 - `asylantrag-folgeverfahren-paragraf-71-asylg` — Asylantrag Folgeverfahren Paragraf 71 Asylg
 - `aufenthalt-paragraf-25a-aufenthg` — Aufenthalt Paragraf 25A Aufenthg
-- `aufenthaltstitel` — Aufenthaltstitel
-- `aufenthaltstitel-ausweisung-start` — Aufenthaltstitel Ausweisung Start
-- `aufenthaltstitel-erstgespraech-mandatsannahme` — Aufenthaltstitel Erstgespraech Mandatsannahme
+- `aufenthaltstitel-antrag` — Aufenthaltstitel
+- `workflow-aufenthaltstitel-router` — Aufenthaltstitel Ausweisung Start
+- `aufenthaltstitel-pruefung` — Aufenthaltstitel Erstgespraech Mandatsannahme
 - `ausweisung-paragrafe-53-55-aufenthg` — Ausweisung Paragrafe 53 55 Aufenthg
-- `ba-zustimmung-beschaeftigungsduldung` — BA Zustimmung Beschaeftigungsduldung
-- `blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
-- `botschaft-visumtermin-dokumentenstapel` — Botschaft Visumtermin Dokumentenstapel
-- `datenschutz-sicherheit-daueraufenthalt-eu` — Datenschutz Sicherheit Daueraufenthalt EU
+- `ba-zustimmung-beschaeftigung` — BA Zustimmung Beschaeftigungsduldung
+- `blaue-karte-eu-mobilitaet` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
+- `workflow-botschaft-visumtermin` — Botschaft Visumtermin Dokumentenstapel
+- `datenschutz-sicherheit-migration` — Datenschutz Sicherheit Daueraufenthalt EU
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Fachanwalt Migrationsrecht** vom ersten Sachverhalt zu 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

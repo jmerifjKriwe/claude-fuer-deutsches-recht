@@ -47,4 +47,3 @@ description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im 
 2. Welche Funktion?
 3. Amtsangemessenheit?
 4. Konkurrentensituation?
-

@@ -73,4 +73,3 @@ nichtig. Dies betrifft Trunkenheit, Drogeneinfluss, Hypnose oder akute psychisch
 - § 105 Abs. 2 BGB: Vorübergehende Störung — Zustand zum Zeitpunkt der Erklärung?
 - Rechtsfolge der Geschäftsunfähigkeit: § 105 Abs. 1 BGB — Nichtigkeit (nicht schwebende Unwirksamkeit)?
 - Beschränkte Geschäftsfähigkeit: Einwilligung, Genehmigung oder Ausnahme nach §§ 107-113 BGB?
-

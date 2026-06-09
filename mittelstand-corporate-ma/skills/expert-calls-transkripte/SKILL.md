@@ -1,6 +1,6 @@
 ---
 name: expert-calls-transkripte
-description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung) im Mittelstand Corporate Ma."
+description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusam..."
 ---
 
 # Expert Calls und Transkripte
@@ -171,4 +171,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Aufzeichnung ohne Einwilligung: § 201 StGB strafbar; Beweismittel unverwertbar
 - Expert Call mit Insider ohne MAR-Protokoll: Aufsichtsrisiko
-

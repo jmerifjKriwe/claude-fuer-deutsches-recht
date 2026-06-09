@@ -83,4 +83,3 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - BfArM-Lieferengpassliste (Live-Check bfarm.de).
 - BSG, staend. Rspr. zu Off-Label-Use und Erstattung.
 - KRINKO/ABS-Empfehlungen RKI (Live-Check rki.de).
-

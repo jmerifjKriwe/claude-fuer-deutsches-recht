@@ -36,4 +36,3 @@ Fordere:
 4. Embeddings und Vektor-Datenbanken mandats- oder mandantengetrennt.
 5. Subunternehmer nur mit Weiterverpflichtung und Änderungsnotice.
 6. Lösch- und Exportpfad bei Vertragsende.
-

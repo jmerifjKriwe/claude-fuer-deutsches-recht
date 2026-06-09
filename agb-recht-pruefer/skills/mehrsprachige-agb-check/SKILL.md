@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Mehrsprachige AGB Check: sortie
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

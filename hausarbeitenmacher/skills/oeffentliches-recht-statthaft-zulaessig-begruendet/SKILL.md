@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-recht-statthaft-zulaessig-begruendet
-description: "Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl) im Hausarbeitenmacher."
+description: "Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öff..."
 ---
 
 # Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit
@@ -262,4 +262,3 @@ B. Begründetheit
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — bei EU-Bezug
 - `gliederung-mit-tiefenstruktur` — Gliederung
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
-

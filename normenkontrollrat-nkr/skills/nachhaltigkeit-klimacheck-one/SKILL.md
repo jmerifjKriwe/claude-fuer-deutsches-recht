@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-klimacheck-one
-description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten im Normenkontrollrat Nkr."
+description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeit..."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
@@ -111,4 +111,3 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bundesregierung.de/nachhaltigkeit](https://www.bundesregierung.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

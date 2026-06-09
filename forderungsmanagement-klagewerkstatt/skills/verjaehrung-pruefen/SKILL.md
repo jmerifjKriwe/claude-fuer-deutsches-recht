@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-pruefen
-description: "Verjährung pruefen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB (10 J. Grundstuecke), § 197 BGB (30 J. titulierte Ansprueche)."
+description: "Verjährung pruefen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB..."
 ---
 
 # Verjährung pruefen

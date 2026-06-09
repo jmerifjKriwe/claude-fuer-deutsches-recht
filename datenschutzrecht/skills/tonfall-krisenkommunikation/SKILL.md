@@ -1,6 +1,6 @@
 ---
 name: tonfall-krisenkommunikation
-description: "Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen; Empathie ohne Anerkenntnis; rechtliche Grenzen (§ 824 BGB; § 4 UWG; Art. 5 Abs. 1 lit. a DSGVO). Output: Sprachregel-Leitfaden mit Beispielsätzen Do/Don't. Abgrenzung: keine Pressemitteilung; keine individuelle Benachrichtigung."
+description: "Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen..."
 ---
 
 # Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall
@@ -49,4 +49,3 @@ Reasoning vor Conclusion: erst Beschreibung der Lage; dann Bewertung; dann Empfe
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die Pressemitteilung ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt das Anschreiben ab.
-

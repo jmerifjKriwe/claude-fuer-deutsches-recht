@@ -90,4 +90,3 @@ description: "Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klau
 - **Gegenentwurf-Formulierungen**: Fertige Redline-Texte
 - **Verhandlungsbrief**: LN fordert Änderungen mit Begründung
 - **Risikoabsicherungsplan**: Welche Versicherungen, welche Klauseln
-

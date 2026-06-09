@@ -1,6 +1,6 @@
 ---
 name: aufsichts-feed-monitor
-description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlungsliste. Abgrenzung: nicht für tiefe Regulierungsanalyse (stellungnahmen)."
+description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlun..."
 ---
 
 # Regulatorischer Feed-Watcher
@@ -185,4 +185,3 @@ Zitierweise Kommentare:
 
 - EuGH C-6/64
 - EuGH C-117/20
-

@@ -63,4 +63,3 @@ Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrum
 - Anachronismus-Test: Haette ein Jurist der betreffenden Epoche die Argumentation verstanden?
 - Lueckentest: Gibt es Epochen ohne Quellenbeleg in der Argumentationskette?
 - Unsicherheitsmarkierung: Worte wie vermutlich, nach bisherigem Forschungsstand usw.
-

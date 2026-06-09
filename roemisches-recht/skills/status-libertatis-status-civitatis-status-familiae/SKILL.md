@@ -71,4 +71,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welcher status civitatis?
 3. Welcher status familiae?
 4. Folgen für das konkrete Geschaeft?
-

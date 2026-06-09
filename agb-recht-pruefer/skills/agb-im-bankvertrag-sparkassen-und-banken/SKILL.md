@@ -1,6 +1,6 @@
 ---
 name: agb-im-bankvertrag-sparkassen-und-banken
-description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschaeftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Aenderungen einseitige Vertragsanpassung BGH-Linie zu Gebührenklauseln. Behandelt aktuelle Themen Negativzinsen Verwahrentgelte Postidentverfahren Direktbanken. Liefert Pruefraster und Klauselentwurf."
+description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschaeftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Aenderungen einseitige Vertragsanpassung BGH-Linie zu Gebührenklauseln. Behandelt aktuelle Themen Negativzinsen Verwahrentgelte P..."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken
@@ -45,4 +45,3 @@ description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Spark
 3. Einseitige Aenderung oder vereinbarte Anpassung?
 4. BGH-Linie XI ZR 26/20 einschlaegig?
 5. Verbraucher- oder Unternehmenskunde?
-

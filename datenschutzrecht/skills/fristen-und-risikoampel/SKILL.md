@@ -30,4 +30,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: 72-Std-Frist (Art. 33) läuft, Bußgeldbescheid zugestellt, behördliche Anordnung, Drittlandstransfer ohne Garantien Art. 44 ff.
 - **Gelb**: DSFA fehlt für ein bekanntes Hochrisiko-Verfahren, AVV unvollständig, Verzeichnis Art. 30 nicht aktuell.
 - **Grün**: Rechtsgrundlage Art. 6/9 dokumentiert, Verzeichnis Art. 30 aktuell, DSFA durchgeführt, AVV + TOM vorhanden.
-

@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-board-memo
-description: "Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht im Internationales Handelsrecht Lex M..."
 ---
 
 # Board-Memo: Internationaler Handelsstreit
@@ -48,4 +48,3 @@ Das Board-Memo fasst einen internationalen Handelsstreit oder ein Vertragsrisiko
 - P×V: realistische Erfolgswahrscheinlichkeit (kein Wunschdenken); außerhalb Anwalts-Opinion validieren
 - Settlement-Threshold: wenn Settlement-Betrag < P×V abzüglich Kosten → ablehnen
 - Zeitplan: Schiedsverfahren dauert 2-3 Jahre; Ressourcen für diese Zeit einplanen
-

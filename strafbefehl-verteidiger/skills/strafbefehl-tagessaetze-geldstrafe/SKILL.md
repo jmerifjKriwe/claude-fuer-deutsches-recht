@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-tagessaetze-geldstrafe
-description: "Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach Schuld. Tagessatzhoehe nach Nettoeinkommen Dreissigstel. Mindest-Tagessatz 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Einkommensnachweise. Ratenzahlungsantrag § 42 StGB. Ersatzfreiheitsstrafe § 43 StGB im Strafbefehl Verteidiger."
+description: "Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach Schuld. Tagessatzhoehe nach Nettoeinkommen Dreissigstel. Mindest-Tagessatz 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Einkommensnachweise. Ratenzahlungsantrag § 42 StGB. Ersatzfreiheitsstrafe § 43 StGB im S..."
 ---
 
 # Tagessaetze und Geldstrafe — §§ 40 bis 43 StGB
@@ -96,4 +96,3 @@ Anlage: Einkommensnachweis / Kontoauszug
 - Ratenzahlungsantrag fruehzeitig stellen — vor Vollstreckungsbeginn.
 - Ersatzfreiheitsstrafe (§ 43 StGB) dem Mandanten klar erklaeren.
 - Anwaltliche Endkontrolle bei Berechnungen.
-

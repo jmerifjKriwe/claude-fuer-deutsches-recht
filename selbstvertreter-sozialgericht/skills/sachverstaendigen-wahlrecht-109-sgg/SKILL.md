@@ -139,4 +139,3 @@ Wenn auch die Beklagte verliert, koennen die Kosten ueber § 193 SGG erstattet w
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis bei Ihrem SG.
-

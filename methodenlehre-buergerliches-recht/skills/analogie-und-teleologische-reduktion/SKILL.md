@@ -1,6 +1,6 @@
 ---
 name: analogie-und-teleologische-reduktion
-description: "Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht."
+description: "Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittsc..."
 ---
 
 # Analogie und teleologische Reduktion (Rechtsfortbildung)
@@ -141,4 +141,3 @@ Stand: Mai 2026.
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-

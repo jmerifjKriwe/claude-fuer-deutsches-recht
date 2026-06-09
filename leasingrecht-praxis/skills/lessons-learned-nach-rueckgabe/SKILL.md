@@ -101,4 +101,3 @@ description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstrei
 - **Klausel-Update-Liste**: Welche Klauseln nach Erfahrung anpassen
 - **Prozess-Verbesserungsplan**: Maßnahmen, Verantwortliche, Fristen
 - **Portfolio-Auswertung**: Minderwertquote, Rückgabeerlöse, Trends
-

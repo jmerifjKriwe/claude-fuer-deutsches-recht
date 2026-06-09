@@ -54,4 +54,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 ## Trade-off in der Richtlinie
 Strenge Schwellenwerte ("Keine Mandantendaten an Cloud-KI") schaffen Klarheit, behindern aber operative Nutzung. Differenziertes Modell mit Tool-Klassen (freigegeben / freigegeben mit Auflagen / verboten) je nach Datenklassifizierung (Ã¶ffentlich / intern / vertraulich / hochsensibel) ist meist praxistauglicher.
-

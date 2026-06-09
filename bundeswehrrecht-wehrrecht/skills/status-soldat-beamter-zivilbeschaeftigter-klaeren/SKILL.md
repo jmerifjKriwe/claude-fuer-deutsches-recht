@@ -94,4 +94,3 @@ Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Recht
 - BPersVG – Volltext gesetze-im-internet.de.
 - TVöD-Bund – aktuelle Fassung beim Bundesinnenministerium.
 - BVerwG zu Statusfragen – ständige Rechtsprechung (Az. nur verifiziert).
-

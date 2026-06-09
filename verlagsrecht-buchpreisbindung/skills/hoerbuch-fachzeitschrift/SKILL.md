@@ -121,4 +121,3 @@ Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheber
 - **GEMA-Lizenz-Checkliste**: Musik-Unterlegung
 - **Plattform-Comparison**: Audible, Spotify, Storytel — Vergütung und Exklusivität
 - **GVL-Meldungsformular**: Hörbuch-Anmeldung
-

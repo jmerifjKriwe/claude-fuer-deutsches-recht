@@ -49,4 +49,3 @@ Viele lateinische Begriffe des röm. Rechts werden im modernen deutschen Recht s
 - BGB: gesetze-im-internet.de (Normvergleich)
 - Liebs Lateinische Rechtsregeln für Terminologie
 - Berger Encyclopedic Dictionary of Roman Law
-

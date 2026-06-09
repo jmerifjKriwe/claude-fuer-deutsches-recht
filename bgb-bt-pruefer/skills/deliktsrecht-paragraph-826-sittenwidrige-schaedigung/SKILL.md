@@ -71,4 +71,3 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 - https://www.gesetze-im-internet.de/bgb/__826.html
 - https://www.gesetze-im-internet.de/bgb/__138.html
 - https://www.gesetze-im-internet.de/bgb/__823.html
-

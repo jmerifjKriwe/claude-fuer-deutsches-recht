@@ -1,6 +1,6 @@
 ---
 name: orientierung-triage-paragraph-stgb-besonders
-description: "Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern im Strafzumessung."
+description: "Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor u..."
 ---
 
 # Strafzumessung — Orientierung und Triage
@@ -87,4 +87,3 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 - StPO §§ 153, 153a, 257c, 267 Abs. 3, 407 ff., 460 StPO.
 - JGG §§ 5 ff., 17, 18, 105.
 - Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; vgl. `references/zitierweise.md`.
-

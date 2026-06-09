@@ -1,6 +1,6 @@
 ---
 name: schulwegsicherheit-sondernutzung-strassenbahn
-description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung im Verkehr Infrastrukturrecht."
+description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegpla..."
 ---
 
 # Schulwegsicherheit
@@ -52,4 +52,3 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 - 30er-Zone-Antrag erfordert Nachweis besonderer Gefaehrdung (§ 45 Abs. 9 StVO).
 - Schadensfall sofort dokumentieren: Fotos, Zeugen, Polizeiprotokoll.
 - Anwaltliche Endkontrolle bei Amtshaftungsklagen.
-

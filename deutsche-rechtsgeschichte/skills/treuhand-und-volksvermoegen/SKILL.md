@@ -46,4 +46,3 @@ Die Treuhandanstalt (THA) wurde mit dem Treuhandgesetz vom 17. Juni 1990 (GBl. I
 - Einigungsvertrag Art. 25: BGBl. II 1990
 - THA-Akten im Bundesarchiv: Bestand DG 1 (THA-Hauptverwaltung), Findmittel via invenio
 - Parlamentarische Kontrolle: Bundestag-Untersuchungsausschuss THA 1992
-

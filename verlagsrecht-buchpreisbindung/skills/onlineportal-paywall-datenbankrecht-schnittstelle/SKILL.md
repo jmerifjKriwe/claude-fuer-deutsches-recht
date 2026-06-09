@@ -123,4 +123,3 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 - **TDM-Opt-Out-Implementierung**: robots.txt-Snippet und AI-Datei
 - **Nutzungsbedingungen-Review**: Scraping-Verbot, erlaubte Nutzungen
 - **Scraping-Nachweis-Protokoll**: Log-Auswertung für Abmahnverfahren
-

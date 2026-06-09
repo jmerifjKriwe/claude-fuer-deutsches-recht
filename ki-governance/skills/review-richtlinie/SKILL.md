@@ -54,4 +54,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei multinationaler KI-Nutzung pro Tool/Anbieter eine Schnittstellenmatrix führen: Welche Datenarten gehen wohin? Welche Rechtsgrundlage je Jurisdiktion? Welche behördliche Aufsicht (BfDI vs. ICO vs. CNIL)? Pauschalkonzepte funktionieren bei US-Cloud nicht — Detailprüfung pro Land.
-

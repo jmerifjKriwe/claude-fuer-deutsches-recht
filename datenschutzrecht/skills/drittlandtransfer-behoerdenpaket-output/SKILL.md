@@ -133,4 +133,3 @@ Wenn der Nutzer "ausdrucken", "vorlegen", "Behörde" oder "Aktenvermerk" sagt, l
 - EU-US Data Privacy Framework-Angemessenheitsbeschluss vom 10.07.2023.
 - Standardvertragsklauseln nach Durchführungsbeschluss (EU) 2021/914.
 - EDSA Recommendations 01/2020.
-

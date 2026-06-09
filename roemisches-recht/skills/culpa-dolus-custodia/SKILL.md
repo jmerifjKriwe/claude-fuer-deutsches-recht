@@ -66,4 +66,3 @@ Sachverhalt: A schickt Lebensmittel-Lieferung; B als Spediteur verliert sie durc
 Sachverhalt: B leiht Pferd; auf der Reise wird er von Feinden ueberfallen; Pferd genommen.
 - **Roemisch**: commodatum; vis maior (feindlicher Angriff); B nicht haftbar (D. 13.6.18).
 - **BGB**: § 598 BGB Leihvertrag; § 604 BGB Rueckgabepflicht; § 280 BGB iVm § 276 BGB Verschuldenshaftung. **Entleiher haftet für jede Fahrlaessigkeit** — bei einfacher Fahrlaessigkeit Wertersatz, bei vis maior (Feindangriff) entfaellt das Verschulden. Hinweis: § 599 BGB privilegiert den **Verleiher** (unentgeltliches Geschaeft) auf Vorsatz und grobe Fahrlaessigkeit; der Entleiher bleibt voll sorgfaltspflichtig.
-

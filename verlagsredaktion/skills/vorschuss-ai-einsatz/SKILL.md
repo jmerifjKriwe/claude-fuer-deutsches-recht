@@ -140,4 +140,3 @@ Mit freundlichen Gruessen
 - UStG §§ 12, 13 - Steuersatz und Entstehung; bei Vorschuss Anzahlungsversteuerung pruefen.
 - KSVG - Abgabepflicht; aktuelle Saetze unter kuenstlersozialkasse.de.
 - EStG § 11 - Zufluss-/Abflussprinzip.
-

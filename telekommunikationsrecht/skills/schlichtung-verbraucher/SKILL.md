@@ -26,4 +26,3 @@ TKG Schlichtung; Verbraucherstreitbeilegungsrecht; BGB/ZPO.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

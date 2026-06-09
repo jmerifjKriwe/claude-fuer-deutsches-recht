@@ -1,6 +1,6 @@
 ---
 name: methodenehrlichkeit-ideologiekritik-check
-description: "Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächliche Überzeugungskraft zu überprüfen. Geeignet für wissenschaftliche Urteilskritik und anwaltliche Gegenargumentation."
+description: "Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächl..."
 ---
 
 # Methodenehrlichkeit und Ideologiekritik: Analyse-Check
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

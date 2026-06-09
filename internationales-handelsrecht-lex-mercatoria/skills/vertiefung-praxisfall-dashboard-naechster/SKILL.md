@@ -48,4 +48,3 @@ Die Praxisfall-Auswertung transferiert die theoretischen Normen auf einen konkre
 - Normhierarchie-Prüfung: Vertrag geht vor, dann CISG, dann IPR-Recht
 - Zahlen eintragen: Kaufpreis, Deckungskaufpreis, Zinsen, Schadensminderung konkret berechnen
 - Ergebnis mit Unsicherheit: "wahrscheinlich... [75% Erfolgswahrscheinlichkeit], aber unsicher wegen..."
-

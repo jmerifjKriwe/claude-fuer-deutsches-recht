@@ -1,6 +1,6 @@
 ---
 name: eigentuemerversammlung-vorbereiten
-description: "Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsseländerung (V ZR 236/23, V ZR 128/23)."
+description: "Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsselän..."
 ---
 
 # Eigentümerversammlung Vorbereiten
@@ -67,4 +67,3 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
-

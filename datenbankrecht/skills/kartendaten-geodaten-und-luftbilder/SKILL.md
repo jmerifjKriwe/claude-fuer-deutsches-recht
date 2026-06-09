@@ -1,6 +1,6 @@
 ---
 name: kartendaten-geodaten-und-luftbilder
-description: "Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e UrhG für topografische Datenbanken, OpenStreetMap-ODbL-Lizenz, BKG-Nutzungsbedingungen, Verhältnis zu § 2 UrhG (Kartenwerke als Werke) und Open-Geodata-Anforderungen nach GeoZG. Bewertet Nutzung von Google Maps-, HERE- und OSM-Daten für kommerzielle Anwendungen im Datenbankrecht."
+description: "Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e UrhG für topografische Datenbanken, OpenStreetMap-ODbL-Lizenz, BKG-Nutzungsbedingungen, Verhältnis zu § 2 UrhG (Kartenwerke als Werke) und Open-Geodata-Anforderungen nach GeoZG. Bewertet Nutzung von Google Maps-, HERE- un..."
 ---
 
 # Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: 
 - [INSPIRE-Richtlinie 2007/2/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007L0002)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [§ 5 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/5.html)
-

@@ -127,4 +127,3 @@ Open Access (OA) und Creative-Commons-Lizenzen (CC) verändern das traditionelle
 - **BuchPrG-Ampel für Hybridwerk**
 - **Vertragsklausel OA**: Muster für Zweitveröffentlichungsrecht und Förderauflage
 - **DEAL-Konformitätsprüfung**
-

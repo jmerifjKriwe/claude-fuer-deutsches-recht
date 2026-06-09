@@ -95,4 +95,3 @@ GmbH-Anteile gehen auf die Erben über (§§ 1922, 15 Abs. 1 GmbHG, sofern kein 
 - **GmbH-Gesellschafterliste** (Erbfolge-Aktualisierung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

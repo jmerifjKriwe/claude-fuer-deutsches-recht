@@ -77,4 +77,3 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 - BGH II ZR 25/82
 - BFH I R 53/08
-

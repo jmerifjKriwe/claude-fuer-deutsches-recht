@@ -125,4 +125,3 @@ Vor Ausgabe prüfen:
 ### Leitentscheidungen
 
 - BGH XI ZR 56/93
-

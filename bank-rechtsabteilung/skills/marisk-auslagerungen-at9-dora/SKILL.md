@@ -121,4 +121,3 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## DORA-Drittparteien-Vertiefung
 
 Bei IKT-Dienstleistern den gesamten Lebenszyklus prüfen: Ex-ante-Risikoanalyse, Due Diligence, Vertragsklauseln, Register-of-Information-Daten, Monitoring, Subdienstleister, Konzentrationsrisiko, Incident-Unterstützung und Exit. Bei Artikel-16-Unternehmen die Erleichterungen dokumentieren, aber Kontrollrechte, Informationsrechte, Krisenfähigkeit und Nachweise nicht wegdefinieren.
-

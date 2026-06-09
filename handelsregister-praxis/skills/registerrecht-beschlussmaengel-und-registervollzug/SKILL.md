@@ -53,4 +53,3 @@ Besonders wichtig bei Gesellschafterstreit: nicht jedes behauptete Beschlussdefi
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

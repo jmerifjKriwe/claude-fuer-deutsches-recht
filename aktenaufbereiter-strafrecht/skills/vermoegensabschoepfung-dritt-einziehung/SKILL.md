@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-dritt-einziehung
-description: "Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung im Strafrechts-Aktenaufbereiter."
+description: "Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine für Aufhebung im Strafrechts-Aktenaufbere..."
 ---
 
 # Strafrecht: Dritt-Arrest
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

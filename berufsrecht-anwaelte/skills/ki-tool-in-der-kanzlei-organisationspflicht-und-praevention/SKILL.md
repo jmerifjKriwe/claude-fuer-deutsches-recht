@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - Art. 6 AI-Act (Hochrisiko-KI Justiz)
 - DSGVO Art. 5, 6
 - § 203 StGB
-

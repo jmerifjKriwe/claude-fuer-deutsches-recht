@@ -45,4 +45,3 @@ Besondere Anker: § 607 ZPO zur Einbeziehung Dritter in englischsprachigen Verfa
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

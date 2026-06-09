@@ -101,4 +101,3 @@ description: "Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikovert
 - **Redline-Vorlage**: LN-Änderungsantrag vs. LG-Gegenvorschlag
 - **AGB-Checkliste**: 20-Punkte-Wirksamkeitscheck
 - **Verhandlungsprotokoll-Muster**: Änderungen dokumentiert
-

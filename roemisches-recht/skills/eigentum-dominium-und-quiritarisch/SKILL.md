@@ -73,4 +73,3 @@ Sachverhalt: A verkauft Sache an B, dann auch an C; C bekommt zuerst Uebergabe.
 - **Roemisch**: D. 19.1.31 — C erlangt Eigentum durch traditio; B hat nur schuldrechtlichen Anspruch.
 - **ALR I 8**: Aehnliches Ergebnis — Eigentum geht mit traditio ueber.
 - **BGB**: § 929 BGB — C wird Eigentuemer; B hat Schadensersatzanspruch gegen A.
-

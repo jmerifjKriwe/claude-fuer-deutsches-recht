@@ -65,4 +65,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - SGB IV-VI als Erbe der Sozialversicherungsgesetze.
 - BSG und SozG als Erbe der Berufsgenossenschaftsgerichte.
 - BVerwG als Erbe der Verwaltungsgerichtsbarkeit.
-

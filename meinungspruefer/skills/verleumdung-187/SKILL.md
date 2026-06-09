@@ -37,4 +37,3 @@ description: "Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenb
 ## Verhältnis zu Art. 5 GG
 
 Bewusst oder erwiesen unwahre Tatsachenbehauptungen genießen keinen Schutz, soweit sie zur Meinungsbildung nichts beitragen können. Der Schutz von Werturteilen bleibt davon zu trennen.
-

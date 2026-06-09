@@ -58,4 +58,3 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

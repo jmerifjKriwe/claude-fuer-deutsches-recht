@@ -61,4 +61,3 @@ description: "Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, I
 - buergschaft-form-und-verbraucherbuerge
 - gesamtschuld-und-regress-bgb-bt
 - workflow-anspruchslandkarte
-

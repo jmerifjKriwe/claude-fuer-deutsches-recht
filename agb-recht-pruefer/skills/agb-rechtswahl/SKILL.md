@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Rechtswahl: prüft, redlined und entwirft d
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -26,4 +26,3 @@ TKG; GWB §§ 18–20; AEUV Art. 102; BNetzA/BKartA-Schnittstelle.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

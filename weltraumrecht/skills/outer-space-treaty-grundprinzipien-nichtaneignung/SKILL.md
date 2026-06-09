@@ -115,4 +115,3 @@ Dieser Skill bearbeitet **Outer Space Treaty: Grundprinzipien, Nichtaneignung un
 - Luxemburger Space Resources Law: https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2017/07-juillet/14-loi-espace.html
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/
 - UNOOSA COPUOS: https://www.unoosa.org/oosa/en/ourwork/copuos/index.html
-

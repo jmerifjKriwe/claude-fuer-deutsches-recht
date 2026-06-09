@@ -34,4 +34,3 @@ Konkret zu prüfen:
 - § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
 - BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
 - BVerfGE 96, 44 (Verhältnismäßigkeit)
-

@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-folgen
-description: "Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen § 692 Abs. 1 Nr. 3 ZPO, Antrag binnen 6 Monaten § 701 ZPO. Vollstreckungstitel § 794 Abs. 1 Nr. 4 ZPO. Verjährung 30 Jahre § 197 Abs. 1 Nr. 4 BGB. Einspruch 2 Wochen § 700 i.V.m. § 338 ZPO. Output: VB-Antrag + Pruefraster Folgewirkungen."
+description: "Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen § 692 Abs. 1 Nr. 3 ZPO, Antrag binnen 6 Monaten § 701 ZPO. Vollstreckungstitel § 794 Abs. 1 Nr. 4 ZPO. Verjährung 30 Jahre § 197 Abs. 1 Nr. 4 BGB. Einspruch 2 Wochen § 700 i.V.m. § 338 ZPO. Output: VB-Ant..."
 ---
 
 # Vollstreckungsbescheid und Folgen

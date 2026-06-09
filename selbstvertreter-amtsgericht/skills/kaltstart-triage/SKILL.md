@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteidigung, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
+description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteid..."
 ---
 
 ## Schnellstart-Workflow
@@ -228,4 +228,3 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 ---
 
 Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Workflow, Fristen, Zuständigkeit, Beweis und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zur Rechtsantragsstelle, Beratungshilfe oder anwaltlichen Prüfung.
-

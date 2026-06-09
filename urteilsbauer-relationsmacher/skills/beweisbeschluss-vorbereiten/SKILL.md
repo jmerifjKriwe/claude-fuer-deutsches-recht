@@ -1,6 +1,6 @@
 ---
 name: beweisbeschluss-vorbereiten
-description: "Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel, Beweislast, Reihenfolge Beweisaufnahme. Output Beweisbeschluss-Entwurf mit Beweisthemen-Tabelle. Abgrenzung: Beweiswürdigung danach siehe beweiswürdigung-mit-richter-input; Beschluss-Bau allgemein siehe beschluss-bauen-zpo."
+description: "Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel..."
 ---
 
 # Beweisbeschluss vorbereiten
@@ -80,4 +80,3 @@ Paragraf 286 ZPO - volle Überzeugung des Gerichts. Wahrscheinlichkeit alleine r
 
 <!-- AUDIT 27.05.2026 -->
 > **Audit-Hinweis (27.05.2026):** BGH VI ZR 255/03, NJW 2005, 354 entfernt. Tatsaechliche Fundstelle NJW 2005, 354 gehoert zu BGH VI ZR 335/03 (Urt. v. 30.11.2004) — Thema: Haftungsprivileg § 828 Abs. 2 BGB bei Kind mit Kickboard gegen parkendes Fahrzeug; kein Bezug zu Anscheinsbeweis im Haftpflichtrecht. Aktenzeichen VI ZR 255/03 existiert unter dejure.org/2004,220 und betrifft Schmerzensgeld bei Persoenlichkeitsrechtsverletzung (Caroline-Tochter). Quelle: dejure.org/2004,220, dejure.org/?Text=NJW+2005,354.
-

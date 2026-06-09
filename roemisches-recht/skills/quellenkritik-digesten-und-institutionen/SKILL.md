@@ -66,4 +66,3 @@ Die Digesten wurden am 16. Dezember 533 durch Const. Tanta promulgiert und entha
 - Handschriftenvergleich: Florentina-Lesarten beachten
 - Interpolationskritik mit Vorsicht: neuere Tendenz zur Zurückhaltung (Honoré, Watson)
 - Papyri-Datenbank: papyri.info
-

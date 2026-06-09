@@ -1,6 +1,6 @@
 ---
 name: emobility-wasserstoff
-description: "Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff prüfen: Ladepunkte, H2-Einspeisung. Normen: § 14a EnWG, EEG, GEG, EU-Verordnung Alternative Kraftstoffe. Prüfraster: Netzintegration, Foerderrecht, Liefervertrag, Regulierungsrahmen. Output: Regulierungsrahmen E-Mobilitaet und Wasserstoff. Abgrenzung: nicht allgemeines Netzrecht im Energierecht."
+description: "Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff prüfen: Ladepunkte, H2-Einspeisung. Normen: § 14a EnWG, EEG, GEG, EU-Verordnung Alternative Kraftstoffe. Prüfraster: Netzintegration, Foerderrecht, Liefervertrag, Regulierungsrahmen. Output: Regulierungsrahmen E-Mobilitaet..."
 ---
 
 # E-Mobilität und Wasserstoff
@@ -266,4 +266,3 @@ description: "Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wa
 - H2-Stammnetz-Beschluss BNetzA
 - UBA THG-Quoten-Verwaltung
 - BVerwG-/EuGH-Linien zu E-Mobilität (begrenzt)
-

@@ -105,7 +105,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `sustainability-reporting-esg` | ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting einordnen: Daten, Lieferkette, Umweltclaims, DPP-Vorbereitung und Governance im Fashion Law Moderecht. |
 | `textilkennzeichnung-eu-upcycling-repair` | Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur im Fashion Law Moderecht. |
 | `upcycling-repair-alteration` | Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim im Fashion Law Moderecht. |
-| `urheberrecht-angewandte` | Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law Moderecht. |
+| `urheberrecht-angewandte-kunst` | Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit: Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Dop... |
 | `zoll-tarif-ursprung-mode` | Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente im Fashion Law Moderecht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

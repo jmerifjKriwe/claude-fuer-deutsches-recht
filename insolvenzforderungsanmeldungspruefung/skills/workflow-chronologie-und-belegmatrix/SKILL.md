@@ -67,4 +67,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Doppelte Anmeldung gleicher Forderung (typisch bei Gesamtschuldnerschaft, Bürgschaft, Abtretung).
 - Anmeldung mit unklarem Rang (einfache § 38 InsO vs. nachrangige § 39 InsO).
 - Nicht angezeigte Sicherheit (Verwalter merkt Absonderung nicht).
-

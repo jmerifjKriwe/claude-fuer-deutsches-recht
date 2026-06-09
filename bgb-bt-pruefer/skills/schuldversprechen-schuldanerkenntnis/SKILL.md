@@ -61,4 +61,3 @@ description: "Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Fo
 - https://www.gesetze-im-internet.de/bgb/__780.html
 - https://www.gesetze-im-internet.de/bgb/__781.html
 - https://www.gesetze-im-internet.de/bgb/__812.html
-

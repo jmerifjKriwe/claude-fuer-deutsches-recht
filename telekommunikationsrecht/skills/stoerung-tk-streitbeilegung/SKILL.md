@@ -28,4 +28,3 @@ TKG Kundenschutz, insbesondere Minderungs-/Entschädigungsregeln live prüfen; B
 
 - tk-beweisplan-messung-stoerung-protokoll
 - tk-schlichtung-verbraucher
-

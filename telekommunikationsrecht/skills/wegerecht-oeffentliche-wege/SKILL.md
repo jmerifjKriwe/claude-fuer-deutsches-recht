@@ -26,4 +26,3 @@ TKG Wegerechte live prüfen; Straßenrecht Bund/Länder; VwVfG/VwGO.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

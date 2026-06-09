@@ -32,4 +32,3 @@ description: "HOAI LPH 2 Vorplanung: sichert spätere Mängel-, Behinderungs- un
 - Praktischer Kern: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage
 - Bewertungsanker Gebäude/Innenräume: 7 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

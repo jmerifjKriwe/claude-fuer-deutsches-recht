@@ -164,7 +164,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `transaktionsmonitoring-international-schnittstellen` | Transaktionsmonitoring: Internationaler Bezug und Schnittstellen im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc. |
 | `transparenzregister-behoerden-gericht-und-registerweg` | Transparenzregister: Behörden-, Gerichts- oder Registerweg im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Geldwäscheprävention AML/KYC: trennt fehlende Tatsachen von fehlenden Belegen (KYC-Akte, Risk Assessment, Compliance-Manual), nennt pro Lücke Beweisthema, Beschaffungsweg (FIU), Frist und Ersatznachweis. |
-| `verdachtsmeldung-interessen` | Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc im Geldwaeschepraevention Aml Kyc. |
+| `verdachtsmeldung-mehrparteien-konflikt-und-interessen` | Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix im Plugin geldwaeschepraevention aml kyc. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Geldwaeschepraevention Aml Kyc. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Geldwaeschepraevention Aml Kyc. |
 

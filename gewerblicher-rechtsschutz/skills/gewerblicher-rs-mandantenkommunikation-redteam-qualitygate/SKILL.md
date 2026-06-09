@@ -189,4 +189,3 @@ Bitte bestätigen Sie die Klageerhebung mit Ihrer Unterschrift.
 - `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Entscheidungsvorlagen
 - `workflow-output-waehlen` – Output-Format wählen
 - `workflow-fristen-und-risikoampel` – Fristencheck
-

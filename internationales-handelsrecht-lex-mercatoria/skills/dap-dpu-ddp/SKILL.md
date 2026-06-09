@@ -47,4 +47,3 @@ DAP (Delivered at Place), DPU (Delivered at Place Unloaded, neu in 2020 statt DA
 - DDP: Vor Wahl prüfen ob Verkäufer USt.-Nummer im Importland hat/braucht
 - Exportkontrolle: Bei sanktionierten Ländern DDP oder DAP nicht wählen
 - Named Place DPU: explizit Terminal-Name + Entladefazilität spezifizieren
-

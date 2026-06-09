@@ -1,6 +1,6 @@
 ---
 name: definitionen-klauseln-stringent
-description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispiel..."
 ---
 
 # Definitionen-Klauseln stringent
@@ -126,4 +126,3 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 
 - § 305c Abs. 2 BGB, § 307 Abs. 1 Satz 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
 - Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei pruefen.
-

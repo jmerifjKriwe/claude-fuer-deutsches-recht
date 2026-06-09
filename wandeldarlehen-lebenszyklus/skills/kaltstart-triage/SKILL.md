@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Wandeldarlehen Lebenszyklus-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Wandeldarlehen Lebenszyklus-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eig..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -246,4 +246,3 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - Stand: 05/2026
 - BGB, GmbHG, InsO, GwG, eIDAS-VO in aktuell geltender Fassung
 - SAFE-Vorlage des Y-Combinators (Post-Money SAFE, aktuelle Version 2018)
-

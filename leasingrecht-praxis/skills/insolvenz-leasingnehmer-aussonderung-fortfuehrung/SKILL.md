@@ -108,4 +108,3 @@ Voraussetzungen:
 - **Forderungsanmeldungs-Vorlage**: § 174 InsO (Raten, Schadensersatz)
 - **Aussonderungsantrag-Muster**: An Insolvenzverwalter
 - **Fortführungs-Analyse**: Masseverbindlichkeit vs. Quote-Forderung
-

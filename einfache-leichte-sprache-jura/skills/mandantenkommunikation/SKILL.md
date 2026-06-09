@@ -25,4 +25,3 @@ Konkret zu prüfen:
 
 - § 11 SGB I
 - § 11 BGG
-

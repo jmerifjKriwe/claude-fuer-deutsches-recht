@@ -33,4 +33,3 @@ description: "Branchen-Fachmodul für KI Service AGB: prüft typische AGB-Risike
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

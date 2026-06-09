@@ -100,4 +100,3 @@ description: "Mietkauf vs. Leasing: Abgrenzung, automatischer Eigentumsübergang
 - **Abgrenzungsmatrix**: Leasing vs. Mietkauf nach 8 Kriterien
 - **Steuer-Memo**: Aktivierung, AfA, Betriebsausgaben im Vergleich
 - **Vertrags-Redline**: Eigentumsübergangsklausel rechtskonform formulieren
-

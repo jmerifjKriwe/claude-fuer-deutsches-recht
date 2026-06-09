@@ -121,4 +121,3 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## CRR-Juristenmatrix
 
 Schalte `crr-kapitalanforderungen-juristenmatrix` zu, wenn Legal eine Entscheidung erklären muss, die Risk/Finance rechnet. Prüfe zuerst Art.-4-Begriffe und die Einheit, dann Eigenmittel, Kreditrisiko, Großkredit/Gruppe verbundener Kunden, Liquidität, Leverage und Offenlegung. Keine Quote, Definition oder Übergangsregel aus Modellwissen behaupten; aktuelle konsolidierte CRR bei EUR-Lex live prüfen.
-

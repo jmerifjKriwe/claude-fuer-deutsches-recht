@@ -1,6 +1,6 @@
 ---
 name: nationales-verfahren-vorlageverfahren-art
-description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht im Europarecht Kompass."
+description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prü..."
 ---
 
 # Nationales Verfahren und Effektivität
@@ -86,4 +86,3 @@ EuGH an. Vorlagefrage: [FORMULIERUNG]
 
 [KANZLEI], [ORT], [DATUM]
 ```
-

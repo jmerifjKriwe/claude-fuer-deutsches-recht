@@ -78,4 +78,3 @@ explizit benennen.
 - Gutachtenstil: Obersatz hypothetisch, Subsumtion vollständig, Ergebnis am Ende?
 - Memo: Kurz, praxisorientiert, mit Risikoampel und Empfehlung?
 - Schriftsatz: Formale Anforderungen nach ZPO eingehalten?
-

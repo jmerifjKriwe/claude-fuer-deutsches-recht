@@ -157,4 +157,3 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 - BVerfG, Lebach (Volltext unter bundesverfassungsgericht.de); aktuelle Anschluss-Rechtsprechung pruefen.
 - EuGH C-131/12 (Google Spain) - Loeschung in Suchindex; nachfolgende Rechtsprechung.
 - BGH-Rechtsprechung zur Online-Archivierung (Volltexte unter bundesgerichtshof.de).
-

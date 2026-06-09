@@ -115,4 +115,3 @@ F-2026-001;D-12345;R-2026-0089;2026-05-15;2026-06-15;10000,00;1900,00;11900,00;2
 - GoBD-Schreiben des BMF in aktueller Fassung.
 - DSGVO Art. 5, 6, 28, 32 zur Datenverarbeitung.
 - UStG § 14 zu Rechnungsanforderungen.
-

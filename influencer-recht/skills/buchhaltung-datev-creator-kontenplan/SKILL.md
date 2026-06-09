@@ -80,4 +80,3 @@ Korrekte Buchführung ist die Grundlage für Steuern und Betriebsprüfungen:
 - Kontenplan SKR 03 für Creator
 - Belegarchivierungs-Checkliste (GoBD)
 - DATEV-Schnittstelle-Anleitung
-

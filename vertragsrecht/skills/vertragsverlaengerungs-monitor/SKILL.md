@@ -1,6 +1,6 @@
 ---
 name: vertragsverlaengerungs-monitor
-description: "'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt 'welche Verträge laufen aus', 'wann muss ich kündigen', 'habe ich eine Frist verpasst', oder bei geplanter Aktualisierung des Registers.'"
+description: "'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt 'welche Verträge laufen aus', 'wann muss ich kündigen', 'habe ich eine..."
 ---
 
 # Verlängerungstracker
@@ -145,4 +145,3 @@ Kommentare:
 - **§ 309 Nr. 9 BGB-Unwirksamkeit nicht geprüft:** Wenn der Vertrag B2C ist und die Verlängerungsklausel gegen § 309 Nr. 9 BGB verstößt, kann die Verlängerung unwirksam sein – aber man muss es wissen.
 - **Bundesland-Feiertage:** Feiertage variieren zwischen Bundesländern; pauschal "Montag bis Freitag" reicht nicht.
 - **Register-Lücken:** Verträge, die vor Plugin-Einrichtung unterzeichnet wurden, sind nicht im Register – einmaliger Erst-Import erforderlich.
-

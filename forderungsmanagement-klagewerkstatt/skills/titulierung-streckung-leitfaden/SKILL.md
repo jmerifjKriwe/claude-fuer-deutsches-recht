@@ -1,6 +1,6 @@
 ---
 name: titulierung-streckung-leitfaden
-description: "Strategie zur Titulierung einer Forderung und Streckung der Vollstreckung durch Ratenzahlungsvereinbarung notarielle Schuldanerkenntnis oder vollstreckbare Urkunde. Pinpoints ZPO 794 Abs. 1 Nr. 1 Vergleich Nr. 5 notarielle Urkunde BGB 781 Schuldanerkenntnis BGB 311 b. Liefert Vertragsmuster und Vor- und Nachteile."
+description: "Strategie zur Titulierung einer Forderung und Streckung der Vollstreckung durch Ratenzahlungsvereinbarung notarielle Schuldanerkenntnis oder vollstreckbare Urkunde. Pinpoints ZPO 794 Abs. 1 Nr. 1 Vergleich Nr. 5 notarielle Urkunde BGB 781 Schuldanerkenntnis BGB 311 b. Liefert Vertragsmuster und V..."
 ---
 
 # Titulierung und Streckung

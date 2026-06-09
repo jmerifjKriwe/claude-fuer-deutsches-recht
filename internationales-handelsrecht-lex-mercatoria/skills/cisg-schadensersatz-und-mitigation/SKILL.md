@@ -56,4 +56,3 @@ Das CISG-Schadensersatzsystem beruht auf dem Grundsatz der vollen Kompensation (
 ## Quellenregel
 
 CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. CISG Advisory Council Opinion No. 6 (Art. 74, 77). Schrifttum: Gotanda in Kröll/Mistelis/Viscasillas (2018) Art. 74. Unsicherheit bleibt sichtbar.
-

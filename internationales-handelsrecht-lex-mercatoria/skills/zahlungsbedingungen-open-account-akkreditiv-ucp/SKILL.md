@@ -48,4 +48,3 @@ Die Wahl der Zahlungsbedingung ist eine Risikozuweisung: Cash in Advance schütz
 - Dokumenteninkasso: URC 522 als AGB in Inkassoauftrag einbeziehen
 - Akkreditiv: UCP 600 als Grundlage, eUCP für elektronische Dokumente
 - Zahlungsverzugs-Monitoring: Fälligkeitsdatum und 30-Tage-Frist dokumentieren
-

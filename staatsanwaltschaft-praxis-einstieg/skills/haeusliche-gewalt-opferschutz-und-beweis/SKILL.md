@@ -38,4 +38,3 @@ Konkret zu prüfen:
 - §§ 397 ff. StPO (Nebenklage)
 - § 68b StPO (Zeugenbeistand)
 - RL 2012/29/EU (Opferschutzrichtlinie)
-

@@ -44,4 +44,3 @@ description: "Klausel-Fachmodul für Eigentumsvorbehalt: prüft, redlined und en
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

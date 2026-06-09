@@ -64,4 +64,3 @@ description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Bewei
 - https://www.gesetze-im-internet.de/bgb/__474.html
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
-

@@ -39,4 +39,3 @@ VVG/VAG Rückversicherung; BGB Vertragsauslegung; InsO; internationales Privatre
 ## Anschluss-Skills
 
 - Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
-

@@ -156,4 +156,3 @@ Mit freundlichen Grüßen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (§ 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
 - **Teilkündigung**: Bei Wohnraummiete grundsätzlich unzulässig.
-

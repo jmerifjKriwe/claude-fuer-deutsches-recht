@@ -1,6 +1,6 @@
 ---
 name: betreiber-checkliste-folgenabschaetzung
-description: "Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 KI-VO Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste Art. 26 mit allen Pflichtpunkten und Muster-Grundrechte-Folgenabschaetzung Art. 27 für öffentliche Stellen und betroffene Privatbetreiber. Strukturierte Formulare mit Prüffragen und Ausfuell-Hinweisen. Output: fertige Word/PDF-Dokumente. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Rechtsprüfung) und hochrisiko-bestätigt-end-to-end-roadmap."
+description: "Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 KI-VO Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste Art. 26 mit allen Pflichtpunkten und Muster-Grundrechte-Folgenabschaetzung Art..."
 ---
 
 # Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
@@ -187,4 +187,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

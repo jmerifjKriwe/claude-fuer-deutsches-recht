@@ -120,4 +120,3 @@ Wissenschaftliche und juristische Fachzeitschriften unterliegen einem eigenen Re
 - **Retraction-Protokoll**: Kriterien, Prozess, Kommunikation
 - **Haftungsdisclaimer-Check**: AGB-Klauseln für Fachinhalte
 - **Gegendarstellungs-Checkliste**: Formal, materiell, Frist
-

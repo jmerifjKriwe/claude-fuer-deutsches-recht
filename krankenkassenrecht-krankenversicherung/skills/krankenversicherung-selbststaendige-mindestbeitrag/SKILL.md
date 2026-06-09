@@ -88,4 +88,3 @@ Selbstständige sind in der GKV freiwillig versichert. Dieser Skill klärt **Bei
 - [§ 236 SGB V – Mindestbeitrag](https://www.gesetze-im-internet.de/sgb_5/__236.html)
 - [BVerfG 1 BvR 209/07](https://www.bverfg.de/entscheidungen.html)
 - [dejure.org § 240 SGB V](https://dejure.org/gesetze/SGB_V/240.html)
-

@@ -164,4 +164,3 @@ Für Schwellen, Fristen, Vordrucke und Antragsberechtigung immer die Referenz `r
 - GEPRIS: gepris.dfg.de
 
 Keine alten 100.000-Euro-Schwellen ungeprüft fortschreiben. Vor Empfehlung Verfahrensordnung des Antragsstichtags konsultieren.
-

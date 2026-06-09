@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-playbook
-description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragsprüfergebnis mit Markierungen. Abgrenzung: nicht Vertragserstellung im Immobilienrechtspraxis."
+description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragsprüfergebnis mit Markierungen. Abgrenzung: nicht Ve..."
 ---
 
 # Vertragsprüfung gegen Playbook
@@ -105,4 +105,3 @@ Der Skill ist so gebaut, dass er in einem Projekt-Ordner mit fixiertem
 Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Vertraege
 auf einem Watch-Ordner reagieren und automatisch die Pruefung anstossen.
 Siehe Skill `projekt-arbeitsweise`.
-

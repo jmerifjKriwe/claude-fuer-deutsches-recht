@@ -111,4 +111,3 @@ Fragen zum Einstieg:
 - IFRS 9 zu Financial Instruments (Risk-and-Reward, Control-Test).
 - IFRS 10 zur Konsolidierung von Zweckgesellschaften.
 - IDW Stellungnahmen und Veröffentlichungen, jeweils in der aktuellen Fassung.
-

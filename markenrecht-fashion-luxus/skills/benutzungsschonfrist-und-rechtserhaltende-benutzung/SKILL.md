@@ -37,4 +37,3 @@ description: "Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernst
 ## Warnung
 
 Keine Umsatz- oder Marktanteilsschwellen erfinden. Bewertung hängt von Branche, Produkt, Gebiet und Verfahren ab.
-

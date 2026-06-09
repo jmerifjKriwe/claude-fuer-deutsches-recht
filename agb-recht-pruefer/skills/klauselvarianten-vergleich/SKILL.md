@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Klauselvarianten Vergleich: macht au
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

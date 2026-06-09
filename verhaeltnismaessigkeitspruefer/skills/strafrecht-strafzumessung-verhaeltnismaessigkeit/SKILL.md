@@ -55,4 +55,3 @@ Nachtatverhalten; Verfahrensdauer Paragraf 46 II StGB.
 - Bei Tater-Opfer-Ausgleich Paragraf 46a StGB obligatorische Strafrahmen-
   verschiebung.
 - Lange Verfahrensdauer als Strafmilderungsgrund.
-

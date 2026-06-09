@@ -1,6 +1,6 @@
 ---
 name: plan-sanierungskonzept-sicherheiten
-description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate im Insolvenzverwaltung."
+description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquidi..."
 ---
 
 # Sanierungskonzept für Insolvenzplan und StaRUG
@@ -135,4 +135,3 @@ Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige
 - `iv-plan-integrierte-planung` — GuV-/Bilanz-/Liquiditätsplanung modellieren.
 - `iv-plan-vergleichsrechnung` — Planfall gegen Liquidationsszenario rechnen.
 - `iv-plan-redteam-qualitygate` — Plan vor Einreichung hart testen.
-

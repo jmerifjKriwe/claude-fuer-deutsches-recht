@@ -97,4 +97,3 @@ Elektronische Akte ist zulässig. Papierurkunden müssen dennoch aufbewahrt werd
 - **Mandantenmail** (Ausfertigung angefordert, Anleitung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

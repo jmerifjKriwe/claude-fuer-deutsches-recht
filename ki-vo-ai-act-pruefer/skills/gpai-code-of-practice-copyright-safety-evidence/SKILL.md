@@ -39,4 +39,3 @@ Der GPAI Code of Practice kann Compliance operationalisieren, ersetzt aber nicht
 ## Vorsicht
 
 Nicht schreiben: "Code erfüllt, damit automatisch rechtssicher." Besser: "Code/Standard wird als Nachweisbaustein genutzt; finale KI-VO-Bewertung bleibt artikelspezifisch."
-

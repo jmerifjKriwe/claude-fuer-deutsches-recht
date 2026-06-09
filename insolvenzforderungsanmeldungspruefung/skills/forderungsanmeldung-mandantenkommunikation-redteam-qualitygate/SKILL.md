@@ -42,4 +42,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Vorsicht bei Massegläubigern:** Wer nach Eröffnung Leistungen erbringt, hat Anspruch gegen die Masse (§ 55 InsO) — direkte Zahlungsklage, keine Anmeldung.
 - **Anfechtungsrisiko nicht unterschätzen:** Zahlungen, die in der Krise oder im Anfechtungszeitraum geleistet wurden (§§ 130, 131, 133 InsO), können vom Verwalter zurückgefordert werden — Mandantin frühzeitig informieren.
 - **Kostenrisiko:** Tabellenklage löst Gerichtskosten und Anwaltskosten aus. Bei kleinen Forderungen oft wirtschaftlich nicht sinnvoll — Mandantin auf Quote/Kosten-Verhältnis hinweisen.
-

@@ -68,4 +68,3 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 2. Eingriffsopfer ist Unbeteiligter bzw. Sonderbetroffener (Sonderopfer)?
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
 4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
-

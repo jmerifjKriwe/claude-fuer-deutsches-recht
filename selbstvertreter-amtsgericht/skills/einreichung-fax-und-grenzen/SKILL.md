@@ -90,4 +90,3 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
-

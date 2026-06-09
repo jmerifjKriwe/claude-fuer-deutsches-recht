@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule im DFG-Förderantrag."
+description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule im DF..."
 ---
 
 # DFG-Förderantrag — Allgemein
@@ -158,4 +158,3 @@ Für Schwellen, Fristen, Vordrucke und Antragsberechtigung immer die Referenz `r
 - GEPRIS: gepris.dfg.de
 
 Keine alten 100.000-Euro-Schwellen ungeprüft fortschreiben. Vor Empfehlung Verfahrensordnung des Antragsstichtags konsultieren.
-

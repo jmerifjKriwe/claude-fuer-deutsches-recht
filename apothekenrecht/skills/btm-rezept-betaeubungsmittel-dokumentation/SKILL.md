@@ -100,4 +100,3 @@ Eingaben:
 - Anlage III BtMG für Höchstmengen.
 - BGH staend. Rspr. zur Apothekerverantwortung bei BtM-Rezeptannahme.
 - Landesaufsicht und Apothekerkammer-Merkblätter zur BtM-Revision (vom Anwender zu verifizieren).
-

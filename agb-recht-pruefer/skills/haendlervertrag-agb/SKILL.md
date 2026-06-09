@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Haendlervertrag AGB: prüft typische AGB-R
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

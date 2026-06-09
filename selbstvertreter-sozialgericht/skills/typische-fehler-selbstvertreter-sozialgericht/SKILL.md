@@ -137,4 +137,3 @@ Die gesamte Skill ist eine Aufzaehlung typischer Fehler — siehe oben Fehler 1 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Erfahrung.
-

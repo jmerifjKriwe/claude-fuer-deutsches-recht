@@ -83,4 +83,3 @@ Dieser Skill analysiert das US-Discovery-Risiko für laufende Internal Investiga
 - **DOJ-Kooperationsstrategie**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

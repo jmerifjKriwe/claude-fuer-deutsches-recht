@@ -136,4 +136,3 @@ IFRS 16 verpflichtet **alle Leasingnehmer** (unabhängig vom Leasingtyp), ein Nu
 - BFH IX R 14/15
 - BGH XII ZR 18/08
 - BGH XI ZR 59/17
-

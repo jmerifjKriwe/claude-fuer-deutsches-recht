@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-halluzinationsschutz
-description: "Bei ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Qualitätsprotokoll mit Markierung erfundener Normen oder Rechtsprechung. Abgrenzung: nicht inhaltliche Anspruchsprüfung."
+description: "Bei ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wert..."
 ---
 
 # Qualitätskontrolle und Halluzinationsschutz
@@ -63,4 +63,3 @@ Anwendungsfall: ein bereicherungsrechtlicher Output auf Scheinsicherheit und Que
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

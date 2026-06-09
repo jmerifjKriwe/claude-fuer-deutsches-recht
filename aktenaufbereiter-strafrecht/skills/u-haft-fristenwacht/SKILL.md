@@ -1,6 +1,6 @@
 ---
 name: u-haft-fristenwacht
-description: "U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin im Strafrechts-Aktenaufbereiter."
+description: "U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fri..."
 ---
 
 # U-Haft-Fristenwacht
@@ -52,4 +52,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

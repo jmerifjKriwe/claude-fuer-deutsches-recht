@@ -70,4 +70,3 @@ Unechte Geschäftsführung ohne Auftrag nach § 687 BGB prüfen: § 687 Abs. 1 (
 - https://www.gesetze-im-internet.de/bgb/__687.html
 - https://www.gesetze-im-internet.de/bgb/__677.html
 - https://www.gesetze-im-internet.de/bgb/__678.html
-

@@ -48,4 +48,3 @@ Das Montrealer Übereinkommen (MÜ 1999, in Kraft 2003) hat das Warschauer Über
 - Haftungsgrenzen-Berechnung: Gesamtgewicht der Sendung × 22 SZR (nicht Stückzahl)
 - Reklamationsfrist strikt einhalten: AWB-Rückseite Fristen lesen
 - Wertdeklaration für teure Güter: explizit im AWB eintragen
-

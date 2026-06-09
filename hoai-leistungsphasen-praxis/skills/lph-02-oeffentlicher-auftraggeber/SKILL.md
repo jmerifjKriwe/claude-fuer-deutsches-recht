@@ -32,4 +32,3 @@ description: "HOAI LPH 2 Vorplanung: ber체cksichtigt Vergabe, Haushaltsrecht, F�
 - Praktischer Kern: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostensch채tzung, Vorverhandlungen und Entscheidungsgrundlage
 - Bewertungsanker Geb채ude/Innenr채ume: 7 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder 체bertragen; erst Leistungsbild und Anlage live bestimmen.
-

@@ -61,4 +61,3 @@ Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (R
 - RKG-Ordnung 1495: historische Edition (Neue und Vollstaendigere Sammlung der Reichsabschluesse)
 - RKG-Kameralakten: Landesarchive (Speyer, Frankfurt); Inventar Smend (1911)
 - Sekundaerliteratur: Bernhard Diestelkamp, Wolfgang Sellert, Klaus Malettke
-

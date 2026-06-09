@@ -47,4 +47,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. Auslagen mit Belegen (Tickets, Hotelrechnungen).
 4. Umsatzsteuer-Status klären.
 5. Summenkontrolle und Antrag (§ 4 Abs. 1 JVEG); Fristnotierung Erinnerung (6 Monate § 4 Abs. 4 JVEG).
-

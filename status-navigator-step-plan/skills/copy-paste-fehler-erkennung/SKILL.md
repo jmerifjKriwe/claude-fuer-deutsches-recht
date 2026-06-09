@@ -15,4 +15,3 @@ Wandeldarlehen NordCap vom 14.03.2026: § 4 verweist auf 'Gesellschafterbeschlus
 - Auffaelligkeitsliste mit Fundstelle, Verdacht, Verweisziel
 - Querliste an Skill `unterschriftspruefung` (Beschluss als Wirksamkeitsbedingung)
 - Reparatur-Vorschlag fuer Nachtragsvereinbarung
-

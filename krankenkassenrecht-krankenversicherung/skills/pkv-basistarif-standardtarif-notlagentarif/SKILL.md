@@ -91,4 +91,3 @@ Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basista
 - [BVerfG 1 BvR 2019/17](https://www.bverfg.de/entscheidungen.html)
 - [PKV-Verband Tarife](https://www.pkv.de)
 - [dejure.org § 152 VAG](https://dejure.org/gesetze/VAG/152.html)
-

@@ -60,4 +60,3 @@ A klagt gegen B um Erbschaft in Konstantinopel.
 1. Welche Instanz?
 2. Welches Verfahren?
 3. Rechtsfortwirkung?
-

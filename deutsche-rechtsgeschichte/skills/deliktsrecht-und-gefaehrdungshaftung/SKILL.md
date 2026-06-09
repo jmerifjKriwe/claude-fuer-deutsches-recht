@@ -46,4 +46,3 @@ Das BGB-Deliktsrecht 1900 (§§ 823-853) basiert auf dem Verschuldensprinzip: We
 - Reichshaftpflichtgesetz 1871: RGBl. 1871, 207 via ALEX/OeNB
 - ProdHaftG: gesetze-im-internet.de
 - BGH-Deliktsrecht: bgh.de (VI. Zivilsenat; Schluesselfaelle z. B. Huehnerpestrohrsaft BGHZ 51, 91)
-

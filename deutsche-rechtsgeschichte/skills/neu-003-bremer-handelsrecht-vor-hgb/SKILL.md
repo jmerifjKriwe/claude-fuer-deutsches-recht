@@ -66,4 +66,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 Schiff mit Bremer Reederei sinkt vor Hamburg.
 - Bremer Recht (vor 1861): Bremer Seerecht; Stadtgerichtsbarkeit.
 - HGB heute: §§ 476 ff. HGB Seehandelsrecht (nach Reform 2013).
-

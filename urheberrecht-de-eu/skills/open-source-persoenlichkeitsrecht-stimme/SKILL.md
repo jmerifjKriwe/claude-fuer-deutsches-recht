@@ -79,4 +79,3 @@ Konkret zu prüfen:
 - GPL/MIT-Lizenzen
 - § 32 UrhG
 - LG München I 7 O 5245/21
-

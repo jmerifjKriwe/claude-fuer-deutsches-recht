@@ -67,4 +67,3 @@ description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsa
 
 - BGB heute mit zahlreichen Reformen (Schuldrechtsreform 2002, Erbrechtsreform 2010, Verbraucherbauvertrag 2018 etc.).
 - Pandektistische Tradition lebt in der Systematik fort.
-

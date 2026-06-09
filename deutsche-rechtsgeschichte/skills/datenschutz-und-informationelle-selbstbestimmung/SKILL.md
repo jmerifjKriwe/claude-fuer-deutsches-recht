@@ -46,4 +46,3 @@ Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genom
 - BVerfGE 65, 1: bverfg.de vollstaendig lesen
 - DSGVO: eur-lex.europa.eu (konsolidierte Fassung)
 - BDSG 2018: gesetze-im-internet.de
-

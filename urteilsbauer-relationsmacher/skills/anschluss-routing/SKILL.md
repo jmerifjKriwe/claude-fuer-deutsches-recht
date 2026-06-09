@@ -65,4 +65,3 @@ Dieses Anschluss-Routing für **Urteilsbauer Relationsmacher** wählt nach dem e
 - BGH VII ZR 213/10
 - BGH VI ZR 39/20
 - BGH VI ZR 40/20
-

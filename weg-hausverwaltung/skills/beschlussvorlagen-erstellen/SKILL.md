@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen-erstellen
-description: "Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe."
+description: "Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verw..."
 ---
 
 # Beschlussvorlagen Erstellen
@@ -85,4 +85,3 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle.
-

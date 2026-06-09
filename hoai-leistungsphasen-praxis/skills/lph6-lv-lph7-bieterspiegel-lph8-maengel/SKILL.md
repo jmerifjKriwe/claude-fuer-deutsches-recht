@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnitt
 3. Sind Schnittstellen zwischen Gewerken eindeutig?
 4. Ist die Leistungsbeschreibung produktneutral oder begründet produktspezifisch?
 5. Gibt es riskante Bedarfs-, Alternativ- oder Eventualpositionen?
-

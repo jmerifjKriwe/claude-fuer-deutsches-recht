@@ -33,4 +33,3 @@ Keine Anspruchsänderung vorschlagen, wenn Stütze in ursprünglicher Anmeldung 
 - **Anschlussstrategie:** Teilanmeldung § 39 PatG / Art. 76 EPÜ bei breitem Schutz; Beschränkung § 64 PatG; PCT-Eintritt § 184c PatG.
 - **Praxisreaktion:** Auch bei argumentativer Erwiderung Hilfsantrag mit beschränktem Anspruch nachreichen (Rückzugsposition).
 - Falle: Stand-der-Technik-Dokumente aus dem PCT-Recherchebericht ignorieren — die kommen im Erteilungsverfahren häufig zurück.
-

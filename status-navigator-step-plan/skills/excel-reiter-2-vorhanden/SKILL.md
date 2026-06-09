@@ -48,4 +48,3 @@ davon haben `fragwuerdig` als Unterschriftsstatus:
 Reiter 2 ist die Lieferquelle fuer die Skills unterschriftspruefung,
 copy-paste-fehler-erkennung, diskrepanzen-aufdecken. Sauber gebauter
 Reiter 2 spart Stunden in den Folgeschritten.
-

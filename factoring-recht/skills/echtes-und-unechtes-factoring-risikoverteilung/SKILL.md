@@ -114,4 +114,3 @@ Fragen zum Einstieg:
 - UStG § 4 Nr. 8c zur Umsatzsteuerbefreiung des Forderungskaufs.
 - HGB § 246 zur bilanziellen Zurechnung.
 - InsO §§ 47, 51 zu Aussonderungs- und Absonderungsrechten.
-

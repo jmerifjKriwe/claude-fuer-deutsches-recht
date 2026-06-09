@@ -1,6 +1,6 @@
 ---
 name: design-start-chronologie
-description: "Einstieg, Schnelltriage und Fallrouting im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Bav Strategie Konzern."
+description: "Einstieg, Schnelltriage und Fallrouting im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstän..."
 ---
 
 # Betriebliche Altersversorgung Strategie Konzern — Allgemein
@@ -219,4 +219,3 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
-

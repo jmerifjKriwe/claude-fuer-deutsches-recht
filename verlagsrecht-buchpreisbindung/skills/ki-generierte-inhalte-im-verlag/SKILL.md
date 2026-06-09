@@ -124,4 +124,3 @@ KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Ver
 - **Kennzeichnungsvorschlag** für Impressum und Bildnachweis
 - **TDM-Opt-Out-Erklärung** für Website (robots.txt-Snippet)
 - **Risikoampel**: KI-Risiken für das konkrete Werk
-

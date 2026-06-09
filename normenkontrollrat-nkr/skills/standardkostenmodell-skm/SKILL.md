@@ -1,6 +1,6 @@
 ---
 name: standardkostenmodell-skm
-description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste für die NKR-Methodenpruefung."
+description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste für die NKR-M..."
 ---
 
 # NKR-Standardkostenmodell (SKM)
@@ -102,4 +102,3 @@ Pflicht: jaehrlicher Bericht im Umfang von ca. 4 Stunden.
 - EU Better Regulation Toolbox Tool 24
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

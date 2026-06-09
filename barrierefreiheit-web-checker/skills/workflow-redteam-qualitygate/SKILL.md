@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Verbreiteter Fehler: ein Software-Anbieter wird beraten, "Sie müssen WCAG erfüllen", ohne dass die konkrete Subsumtion unter den BFSG-Katalog § 1 Abs. 2/3 BFSG geleistet wurde. Auch ein B2B-Produkt fällt regelmäßig nicht unter BFSG, was eine bedeutsame Risikoabschätzung verändert.
-

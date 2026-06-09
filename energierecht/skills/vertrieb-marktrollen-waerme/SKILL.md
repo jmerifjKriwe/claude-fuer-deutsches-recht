@@ -1,6 +1,6 @@
 ---
 name: vertrieb-marktrollen-waerme
-description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Prüfraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag (eigener Skill) im Energierecht."
+description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Prüfraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag..."
 ---
 
 # Vertrieb und Marktrollen
@@ -256,4 +256,3 @@ description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: L
 - BNetzA-Marktmonitoring-Berichte
 - UBA HKN-Register
 - Schiedsstelle Energie
-

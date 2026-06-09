@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eu-beihilfe-und-altmark
-description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-Marker und Strategie für notifizierungspflichtige Sanierungen. Adressat ist das Großkanzlei-Team in Sanierungsmandaten mit öffentlich-rechtlichem Einschlag oder staatlicher Beteiligung. Quellen Stand 06/2026."
+description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-M..."
 ---
 
 # Sanierungsgewinn – EU-Beihilfe und Altmark
@@ -130,4 +130,3 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 - § 8c Abs. 1a KStG; § 3a EStG; § 7b GewStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
-

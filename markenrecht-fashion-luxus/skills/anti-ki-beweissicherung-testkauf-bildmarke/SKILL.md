@@ -1,6 +1,6 @@
 ---
 name: anti-ki-beweissicherung-testkauf-bildmarke
-description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill im Markenrecht Fashion Luxus."
+description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit..."
 ---
 
 # Anti-KI-Marken und Authentizitätskennzeichen
@@ -151,4 +151,3 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 - **EUIPO-Praxis zu KI-bezogenen Marken:** EUIPO hat 2024/2025 verstaerkt Anmeldungen mit "AI"/"KI"-Bezug zurueckgewiesen, sofern beschreibend oder freihaltebeduerftig. Live-Recherche im EUIPO eSearch plus erforderlich.
 - **DPMA-Praxis "Human Made" / Authentizitaetsmarken:** Aktuelle DPMA-/BPatG-Entscheidungen zu Authentizitaets- und Negativ-Marken ("AI Free", "ohne KI") live ueber dpma.de und bpatg.bund.de pruefen.
 - **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live ueber dejure.org pruefen.
-

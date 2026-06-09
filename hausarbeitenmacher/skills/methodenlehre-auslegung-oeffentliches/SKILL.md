@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung-oeffentliches
-description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-für-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation) im Hausarbeitenmacher."
+description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestim..."
 ---
 
 # Methodenlehre und Auslegung
@@ -217,4 +217,3 @@ geschützt.
 - `verfassungsrecht-grundrechtspruefung` — bei Grundrechts-Auswirkungen
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — bei EU-Bezug
 - `rechtstheorie-rechtsphilosophie-anbindung` — bei tiefer methodischer Reflexion
-

@@ -1,6 +1,6 @@
 ---
 name: asset-protection-and-cash-repatriation
-description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick im Festlandchina Wirtschaftsverkehr."
+description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10..."
 ---
 
 # Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern
@@ -113,4 +113,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

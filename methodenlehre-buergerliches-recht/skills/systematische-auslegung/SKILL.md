@@ -1,6 +1,6 @@
 ---
 name: systematische-auslegung
-description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster für das System-Element."
+description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrech..."
 ---
 
 # Systematische Auslegung
@@ -80,4 +80,3 @@ Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das Syste
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-

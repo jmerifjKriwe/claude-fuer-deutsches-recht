@@ -80,4 +80,3 @@ Konkret zu prüfen:
 - § 44b UrhG
 - Art. 4 RL 2019/790
 - Art. 53 AI-Act (Trainingsdaten)
-

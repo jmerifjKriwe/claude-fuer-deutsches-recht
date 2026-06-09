@@ -63,4 +63,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Wird `ius gentium` als modernes öffentliches Völkerrecht missverstanden?
 - Wird das Trennungsproblem Kaufvertrag/Eigentumsübertragung übersehen?
 - Wird eine prätorische Einrede als materieller Anspruch verwechselt?
-

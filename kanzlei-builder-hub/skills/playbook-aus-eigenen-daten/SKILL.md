@@ -186,4 +186,3 @@ Mandatsworkspace ein Eintrag mit Spielbuch-Version und Treffer-Score.
 Rechtsprechung und Kommentarstellen aus dem Spielbuch werden im
 neuen Mandat auf Aktualität gegengeprüft (mindestens BGH/BAG/BFH der
 letzten 24 Monate).
-

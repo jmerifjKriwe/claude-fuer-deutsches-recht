@@ -26,4 +26,3 @@ NIS2; BSI-Gesetz/Umsetzung live prüfen; DSGVO Art. 33/34.
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-china-geschaeft-sortieren
-description: "'Erstaufnahme eines China-Geschaeftsmandats: Rollenklärung (Importeur/Exporteur/Investor), Unterlagencheck, Routing zu Fachmodule. Prüft AWG-Meldepflichten, De-risking-Bedarf, FDI-Screening-Relevanz gem. EU-VO 2019/452 und BAFA-Zuständigkeit. Output: strukturierter Mandats-Kaltstart mit Risiko-Ampel und Skill-Routing.'"
+description: "'Erstaufnahme eines China-Geschaeftsmandats: Rollenklärung (Importeur/Exporteur/Investor), Unterlagencheck, Routing zu Fachmodule. Prüft AWG-Meldepflichten, De-risking-Bedarf, FDI-Screening-Relevanz gem. EU-VO 2019/452 und BAFA-Zuständigkeit. Output: strukturierter Mandats-Kaltstart mit Risiko-Am..."
 ---
 
 # Kaltstart China-Mandat: Erstaufnahme und Routing
@@ -93,4 +93,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

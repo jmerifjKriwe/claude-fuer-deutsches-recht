@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrierung
-description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Pruefung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspruch. Liefert Checkliste je Stufe und Wiedervorlage-Trigger."
+description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Pruefung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspru..."
 ---
 
 # Workflow-Orchestrierung

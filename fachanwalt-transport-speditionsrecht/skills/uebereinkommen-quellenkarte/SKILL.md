@@ -14,11 +14,11 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Transport Speditionsrecht** t
 - `allgemein-workflow-chronologie-workflow-fristen`
 - `autonome-lkw-cmr-schadensregulierung-speditionshaftung-hgb`
 - `cmr-haftung-ladungsschaden-frachtfuehrerhaftung`
-- `cotif-fachanwalt-haager`
+- `cotif-schriftsatz-brief-und-memo-bausteine`
 - `hgb-kabotage-beweislast-kanzlei-red`
-- `lieferverzug-orientierung-mandat-triage`
+- `lieferverzug`
 - `marktzugang-sonderfall-montrealer-spezial-pruefen`
-- `regeln-interessen-schnittstelle-spedition`
+- `regeln-mehrparteien-konflikt-und-interessen`
 - `reklamationsschreiben-cmr-schriftsatzkern-substantiierung-adsp`
 - `speditionsrecht-tio-schiedsgericht-frachtvertrag`
 - `trans-cmr-frachtbrief-hgb-spedition-kabotage-marktzugang`

@@ -91,4 +91,3 @@ Die Digitalisierung verändert das Krankenversicherungsrecht. Dieser Skill klär
 - [BfDI – Datenschutz Gesundheit](https://www.bfdi.bund.de)
 - [dejure.org § 291a SGB V](https://dejure.org/gesetze/SGB_V/291a.html)
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
-

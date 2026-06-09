@@ -37,4 +37,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: laufende Frist < 72h, Aufsichtsbehörde involviert, mögliche Verbotene-Praktik-Lage (Art. 5 KI-VO), § 203 StGB-Berührung.
 - **Gelb**: Klassifizierung offen (Hochrisiko vs. Begrenzt), AVV/Drittlandstransfer ungeklärt, Dokumentationslücken.
 - **Grün**: gesicherte Klassifizierung, Doku vollständig, Schulung erfolgt, AVV/SCC vorhanden.
-

@@ -1,6 +1,6 @@
 ---
 name: data-localization-and-crossborder-data
-description: "Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster im Festlandchina Wirtschaftsverkehr."
+description: "Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Complian..."
 ---
 
 # Datenlokalisierung China: Cybersecurity Law/DSL/PIPL
@@ -94,4 +94,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

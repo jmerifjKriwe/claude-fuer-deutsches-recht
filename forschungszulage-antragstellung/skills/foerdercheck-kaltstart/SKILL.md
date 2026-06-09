@@ -1,6 +1,6 @@
 ---
 name: foerdercheck-kaltstart
-description: "Schneller Fördercheck Forschungszulage in zehn Minuten: Anspruchsberechtigung, FuE-Kategorie nach Frascati, KMU-Status, Personalkosten-Schwelle, Projektjahre, Kostenarten, BSFZ-/Finanzamt-Status, Kumulierung, Ausschlussrisiken und realistische Sofortpotenzialschätzung. Liefert Ampelschema und Empfehlung Antrag jetzt oder Quartal warten."
+description: "Schneller Fördercheck Forschungszulage in zehn Minuten: Anspruchsberechtigung, FuE-Kategorie nach Frascati, KMU-Status, Personalkosten-Schwelle, Projektjahre, Kostenarten, BSFZ-/Finanzamt-Status, Kumulierung, Ausschlussrisiken und realistische Sofortpotenzialschätzung. Liefert Ampelschema und Emp..."
 ---
 
 # Fördercheck Kaltstart
@@ -144,4 +144,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BSFZ Antragsverfahren: https://www.bescheinigung-forschungszulage.de/antragsverfahren/ueber-das-antragsverfahren
 - KMU-Definition Empfehlung 2003/361/EG (vom Antragsteller live zu prüfen)
 - `references/forschungszulage-quellen-und-zahlen.md`
-

@@ -77,4 +77,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Radbruch'sche Formel zur Unrechtsgesetzgebung.
 - BVerfG 2 BvR 1488/56 (Suedweststaat / NS-Recht) und Folgejudikate.
 - Rehabilitierungsgesetz § 1 WiedergutG.
-

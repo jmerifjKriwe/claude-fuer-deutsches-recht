@@ -89,4 +89,3 @@ Apportionment of Distributions / Capital Calls (Secondary SPA):
 - AnlV (für Versicherer); FKAustG (CRS); FATCA-Abkommen DE-USA.
 - ILPA Secondary Market Guidance (jeweils aktuelle Fassung vom Anwender zu prüfen).
 - Coller Capital Global Private Equity Barometer (Stand vom Anwender zu prüfen).
-

@@ -29,4 +29,3 @@ Vor Einkauf eines KI-Tools muss klar sein, welche Pflichten beim Anbieter liegen
 - Model Change Notice.
 - Incident Reporting Annex.
 - Acceptable Use und Off-label-Prohibition.
-

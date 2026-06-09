@@ -36,4 +36,3 @@ description: "Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturi
 ## Qualitätsgate
 
 Registerstand und Amtsgebühren live prüfen. Rechtsprechung nur verifiziert zitieren.
-

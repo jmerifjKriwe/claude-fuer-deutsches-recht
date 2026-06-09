@@ -45,4 +45,3 @@ description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mi
 1. Tabulae-Form?
 2. 7 Zeugen gesiegelt?
 3. Praetorische Bestaetigung erteilt?
-

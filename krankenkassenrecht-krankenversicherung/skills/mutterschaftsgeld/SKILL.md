@@ -91,4 +91,3 @@ Dieser Skill klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: 
 - [Mutterschaftsrichtlinien G-BA](https://www.g-ba.de/richtlinien/19/)
 - [BSG Mutterschaftsgeld](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 24i SGB V](https://dejure.org/gesetze/SGB_V/24i.html)
-

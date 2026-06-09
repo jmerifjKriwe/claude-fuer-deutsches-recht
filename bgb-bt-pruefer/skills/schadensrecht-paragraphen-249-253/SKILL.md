@@ -60,4 +60,3 @@ description: "Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberech
 - gesamtschuld-und-regress-bgb-bt
 - werkvertrag-maengelrechte
 - mietrecht-mangel-minderung
-

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-fundstellencheck-zitate-links
-description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Skills vereinheitlichen. Setzt die Zitierweise v4.1 durch: keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff."
+description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Skills vereinheitlichen. Setzt die Zitierweise v4.1 durch: keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; Literatur nur mit Nutzerquelle oder lizenzier..."
 ---
 
 # Fundstellenglattzieher / Zitatenkorrektor
@@ -48,4 +48,3 @@ description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Ski
 ## Kurzregel
 
 Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur mit echter Quelle. Keine schönen Blindzitate.
-

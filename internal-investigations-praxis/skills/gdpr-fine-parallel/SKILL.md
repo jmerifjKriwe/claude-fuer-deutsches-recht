@@ -92,4 +92,3 @@ Dieser Skill koordiniert die parallele Führung von Internal Investigation und D
 - **Art.-15-Anfragen-Antwortprotokoll**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

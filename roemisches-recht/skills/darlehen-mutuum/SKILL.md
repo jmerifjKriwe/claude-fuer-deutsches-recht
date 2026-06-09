@@ -80,4 +80,3 @@ Sachverhalt: A leiht 100 an B; vereinbart 24 Prozent Zinsen.
 - D. 14.6: Senatusconsultum Macedonianum — Darlehen an filius familias (Hausunterworfenen) ist unklagbar.
 - Schutz vor verschuldetem Eltern-Vermoegen.
 - Modern: kein direktes Pendant; allenfalls Verbraucherdarlehensschutz §§ 491 ff. BGB.
-

@@ -1,6 +1,6 @@
 ---
 name: antrag-zahlen-schwellenwerte
-description: "Antrag: Zahlen, Schwellenwerte und Berechnung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Antrag: Zahlen, Schwellenwerte und Berechnung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisc..."
 ---
 
 # Antrag: Zahlen, Schwellenwerte und Berechnung
@@ -69,4 +69,3 @@ KMU im Sinne des FZulG nach AGVO (EU) 651/2014 Anhang I:
 - KMU-Status nicht geprüft - bei Konzernzugehörigkeit unter 250 Mitarbeiter, aber Mutter > 250: kein KMU.
 - Personalzuordnung pauschal - bei Außenprüfung Kürzung.
 - Eigenleistung Einzelunternehmer ohne Stundennachweis - Pauschale wird gekürzt.
-

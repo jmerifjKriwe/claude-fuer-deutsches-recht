@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rangordnung (§ 879 BGB):** Eintragungsdatum entscheidet über Rang; Rangänderung nur durch Einigung und Eintragung (§ 880 BGB). Bei Zwangsversteigerung folgen die Verteilungen dem Rang (§§ 10 ff. ZVG).
 - **Löschungsbewilligung:** Eingetragene Belastungen löschen nur mit Bewilligung des Berechtigten (§ 19 GBO) und in notariell beglaubigter Form. Briefgrundschuld erfordert zusätzlich Briefvorlage.
 - **Praktiker-Tipp:** Grundbuchauszug muss in Beurkundungssachen aktuell sein (in der Praxis nicht älter als 14 Tage); ältere Auszüge bergen Risiko übersehener Zwischeneintragungen. Im Insolvenzfall des Verkäufers blockiert die Vormerkung den Insolvenzverwalter.
-

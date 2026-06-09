@@ -96,4 +96,3 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (Auslegungsmethoden).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-

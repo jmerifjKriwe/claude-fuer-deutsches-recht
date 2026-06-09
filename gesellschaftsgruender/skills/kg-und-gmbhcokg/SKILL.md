@@ -1,6 +1,6 @@
 ---
 name: kg-und-gmbhcokg
-description: "KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung im Gesellschaftsgruender."
+description: "KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine G..."
 ---
 
 # KG und GmbH & Co. KG
@@ -121,4 +121,3 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH
 - `gesellschaftsgruender-handelsregister-anmeldung` — KG-Eintragung
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte der KG
-

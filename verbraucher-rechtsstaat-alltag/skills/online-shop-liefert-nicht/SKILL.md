@@ -65,4 +65,3 @@ Erzeuge eine Reklamationsmail, Fristenblatt, Belegliste, Zahlungsdienstleister-R
 
 - Wann bestellt, wie gezahlt, welche Lieferzusage, welche Sendungsnummer?
 - Will die Person Ware, Geld zurück oder Druck aufbauen?
-

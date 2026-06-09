@@ -64,4 +64,3 @@ description: "Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondikt
 - https://www.gesetze-im-internet.de/bgb/__812.html
 - https://www.gesetze-im-internet.de/bgb/__816.html
 - https://www.gesetze-im-internet.de/bgb/__823.html
-

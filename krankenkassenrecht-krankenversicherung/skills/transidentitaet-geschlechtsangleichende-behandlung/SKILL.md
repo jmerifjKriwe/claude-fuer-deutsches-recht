@@ -91,4 +91,3 @@ Dieser Skill bearbeitet **GKV-Leistungsansprüche für transidente Personen**: H
 - [dejure.org § 27 SGB V](https://dejure.org/gesetze/SGB_V/27.html)
 - [G-BA Richtlinien](https://www.g-ba.de/richtlinien/)
 - [ICD-11 WHO](https://icd.who.int/browse11)
-

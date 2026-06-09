@@ -1,6 +1,6 @@
 ---
 name: ropa-en-controller-template
-description: "Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with international clients."
+description: "Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with intern..."
 ---
 
 # Records of Processing Activities (RoPA) – Controller Template (English)
@@ -98,4 +98,3 @@ Version 1.1 – [change] – [date, author]
 - HGB Sec. 257; AO Sec. 147.
 - DSK Short Paper No. 1 "Records of Processing Activities" (Status 17 December 2018).
 - EDPB Position Paper on Article 30(5) GDPR (19 April 2018).
-

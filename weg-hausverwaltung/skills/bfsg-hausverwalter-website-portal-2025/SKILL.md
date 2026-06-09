@@ -47,4 +47,3 @@ Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-S
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. BFSG-Text über https://www.gesetze-im-internet.de/bfsg/ und EU-Richtlinie 2019/882 über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882 live verifizieren. Bundesfachstelle Barrierefreiheit (bundesfachstelle-barrierefreiheit.de) für aktuelle WCAG-Leitfäden konsultieren.
-

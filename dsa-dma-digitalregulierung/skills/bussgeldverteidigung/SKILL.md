@@ -1,6 +1,6 @@
 ---
 name: bussgeldverteidigung
-description: "Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhörung, Settlements. Beweislast, Verhaeltnismaessigkeit, Wiederholungsfaktor. Strategiememo und Schriftsatzbausteine im Dsa Dma Digitalregulierung."
+description: "Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhörung, Settlements. Beweislast, Verhaeltnismaessigkeit, Wiederholungsfaktor. Strategiememo und Schrif..."
 ---
 
 # DSA und DMA: Bussgeldverteidigung
@@ -71,4 +71,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

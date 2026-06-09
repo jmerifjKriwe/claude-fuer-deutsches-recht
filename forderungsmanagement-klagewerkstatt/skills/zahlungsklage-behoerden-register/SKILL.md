@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-behoerden-register
-description: "Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klaegervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 für fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routing und Schriftsatzhinweise."
+description: "Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klaegervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 für fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routin..."
 ---
 
 # Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts

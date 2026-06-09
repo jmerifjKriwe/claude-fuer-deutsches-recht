@@ -116,4 +116,3 @@ Das Verlegerrecht ist historisch und aktuell umstritten. Dieser Skill klärt die
 - **Leistungsschutzrecht-Anmeldung**: Bei VG Media für Pressepublikationen
 - **Autoren-Beteiligungsklausel** (§ 87h UrhG)
 - **Opt-Out-Erklärung** für robots.txt bei Leistungsschutzrecht-Verweigerung
-

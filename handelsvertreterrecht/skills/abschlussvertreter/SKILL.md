@@ -104,4 +104,3 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - EuGH C-465/04
 - EuGH C-381/19
 - EuGH C-217/05
-

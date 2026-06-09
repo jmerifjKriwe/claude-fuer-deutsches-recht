@@ -115,7 +115,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Nachbarschaftsstreit: trennt fehlende Tatsachen von fehlenden Belegen (Schiedsamtsprotokoll, Lärmaufzeichnung, Lichtbilder Grenzbau), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht), Frist und... |
 | `vergleich-mediation-nachbarschaftsfrieden` | Vergleich und Befriedung im Nachbarschaftsstreit entwerfen: Rückschnittplan, Bau-/Grenzregelung, Kostenquote, Betretensrechte, Lärmzeiten, Pflegepflichten, Vertragsstrafe, Dokumentation und Vollzug im Nachbarschaftsstreit Pruefer. |
 | `vergleich-sonderfall-und-edge-case` | Vergleich: Sonderfall und Edge-Case-Prüfung im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer. |
-| `vertiefung-baugrube` | Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstreit Pruefer. |
+| `vertiefung-baugrube-stuetzverlust` | Vertiefung und Baugrube nach § 909 BGB prüfen: Verlust der Bodenstütze, Unterfangung, Risse, Setzung, Sicherungsmaßnahmen, Baustopp, Beweise, Sachverständige und Eilrechtsschutz: Vertiefung und Baugrube nach § 909 BGB prüfen: Verlust der... |
 | `vertiefung-interessen-wurzeln-zaun` | Vertiefung: Mehrparteienkonflikt und Interessenmatrix im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Nachbarschaftsstreit Pruefer. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Nachbarschaftsstreit Pruefer. |

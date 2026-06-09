@@ -48,4 +48,3 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 - HRefG 1998: BGBl. I 1998, 1474
 - Goldschmidt Handbuch des Handelsrechts (Bd. I, 1864): historische Sekundaerquelle
 - BGH-Handelsrechts-Rspr.: bgh.de
-

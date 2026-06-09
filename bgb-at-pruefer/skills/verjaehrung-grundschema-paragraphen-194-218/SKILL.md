@@ -75,4 +75,3 @@ verweigern, auch wenn er noch Eigentum haben würde.
 - Hemmung: §§ 203 bis 213 BGB — welche Tatbestände greifen wie lange?
 - Neubeginn: § 212 BGB — Anerkenntnis oder Vollstreckungshandlung?
 - Einrede nach § 214 BGB: Erhoben und gerichtlich berücksichtigt?
-

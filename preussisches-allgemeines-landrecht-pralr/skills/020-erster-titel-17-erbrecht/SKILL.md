@@ -1,6 +1,6 @@
 ---
 name: 020-erster-titel-17-erbrecht
-description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: W..."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge
@@ -52,4 +52,3 @@ ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtt
 1. Vor 1900 Erbfall? Dann ALR-Erbrecht.
 2. Nach 1900? BGB.
 3. Familienfideikommiss? — Aufloesungsfrist und Sondervermoegen pruefen.
-

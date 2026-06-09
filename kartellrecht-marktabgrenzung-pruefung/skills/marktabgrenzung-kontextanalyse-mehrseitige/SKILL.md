@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzung-kontextanalyse-mehrseitige
-description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35 GWB. Prüfraster ergebnisgetriebene Argumentation Parteistellung methodische Vorentscheidungen prozessualer Kontext. Output Kontext-Analysememo mit Verfahrensart Parteiposition und Routing-Empfehlung für Folge-Skills. Abgrenzung: gesamtbewertung-tragfähigkeit für Gesamturteil nach der Analyse im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35..."
 ---
 
 # Marktabgrenzung — Kontextanalyse
@@ -63,4 +63,3 @@ Der Output dieser Kontextanalyse fließt in alle nachfolgenden Prüfungsschritte
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 10-30 — Kontextfaktoren: Regulierung, Substitution, Technologie, Verhalten.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

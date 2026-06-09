@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-zertifikate-kosten
-description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Beschaffungsplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Bes..."
 ---
 
 # CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU ETS Informationsseite](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en)
 - [EU-Kommission CBAM-Zertifikate](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
 - [Zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Steuern/Einfuhrumsatzsteuer/cbam/cbam_node.html)
-

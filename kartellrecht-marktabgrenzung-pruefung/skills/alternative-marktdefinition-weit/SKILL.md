@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-weit
-description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behörden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Prüfraster einzuschließende Produkte Regionen Supply-Side-Faktoren Nachfragesubstitution. Auswirkung auf Marktanteil und Widerlegung Marktbeherrschungsvermutung. Output Argumentationsmemo mit Begründung und Angreifbarkeits-Analyse. Abgrenzung: alternative-marktdefinition-eng für engere Abgrenzung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behörden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Prüfrast..."
 ---
 
 # Alternative Marktdefinition — Weiter
@@ -108,4 +108,3 @@ Wenn nationale Marktdefinition angegriffen werden soll:
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.
-

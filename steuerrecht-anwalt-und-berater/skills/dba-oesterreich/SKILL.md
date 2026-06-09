@@ -1,6 +1,6 @@
 ---
 name: dba-oesterreich
-description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-oesterreich-rückkehr."
+description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output..."
 ---
 
 # DBA Deutschland-Oesterreich
@@ -176,4 +176,3 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 Stand: 05/2026. DBA-Oesterreich vom 24.08.2000 (BGBl. 2002 II S. 734), Aenderungsprotokoll 29.12.2010 (BGBl. 2011 II S. 1209, in Kraft 01.03.2012), Zweites Protokoll 21.08.2023 (BGBl. 2023 II S. 335, anwendbar ab 01.01.2024). MLI wirksam ab 01.01.2022. Quellensteuer: Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Grenzgaenger-Grenzzone: 30 km Luftlinie; schaedliche Tage ausserhalb Grenzzone max. 45 Arbeitstage. Aktuelle Konsultationsvereinbarungen und DBA-Text im konsolidierten BMF-DBA-Verzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 12 Marker aufgeloest: 8 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

@@ -73,4 +73,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - BFH II R 19/01
 - BGH IV ZR 66/25
 - BGH II ZR 206/22
-

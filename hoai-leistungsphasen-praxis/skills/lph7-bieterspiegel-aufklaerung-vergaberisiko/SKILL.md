@@ -29,4 +29,3 @@ description: "HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung
 5. Dokumentieren, welche Entscheidung beim Auftraggeber bleibt.
 6. Nachtragsrisiken aus unvollständigen LV-Positionen, funktionalen Lücken und auffälligen Einheitspreisen markieren.
 7. Fördermittel-/Compliance-Risiko gesondert ausweisen, wenn Vergabeakte später geprüft wird.
-

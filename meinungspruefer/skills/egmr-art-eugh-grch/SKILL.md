@@ -45,4 +45,3 @@ description: "Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK: öffen
 ## Grenzen
 
 Keine automatische Übertragung amerikanischer free-speech-Standards. Der EGMR erlaubt Ehrschutz und Reputationsschutz stärker als die US-Linie, verlangt aber eine echte, kontextbezogene Verhältnismäßigkeitsprüfung.
-

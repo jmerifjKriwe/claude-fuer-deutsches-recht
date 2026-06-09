@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-konzern-und-cross-border
-description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026."
+description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert S..."
 ---
 
 # Sanierungsgewinn – Konzern und Cross-Border
@@ -107,4 +107,3 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
-

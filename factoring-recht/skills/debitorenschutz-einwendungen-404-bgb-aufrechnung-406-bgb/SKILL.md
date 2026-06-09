@@ -112,4 +112,3 @@ Fragen zum Einstieg:
 - HGB § 377 zur Rügepflicht.
 - BGH zur Reichweite des § 406 BGB (st. Rspr., amtliche Sammlung).
 - BGB § 309 Nr. 3 zum Aufrechnungsverbot in AGB (B2C-Klauselverbot, im B2B Indizwirkung).
-

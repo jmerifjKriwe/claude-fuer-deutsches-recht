@@ -1,6 +1,6 @@
 ---
 name: sanierungsmoderation-94-starug
-description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht für StaRUG-Restrukturierungsplan (ips-starug-plan-architektur) im Insolvenzplan Starug Planwerkstatt."
+description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht..."
 ---
 
 # Sanierungsmoderation § 94 StaRUG
@@ -294,4 +294,3 @@ description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführe
 ## Weitere Leitentscheidungen StaRUG-Moderation
 
 - Konkrete Restrukturierungsgerichts-Entscheidungen zur Sanierungsmoderation (§§ 94–100 StaRUG), insbesondere zur Bestellung des Moderators und zur Bestätigung des Sanierungsvergleichs (§ 97 StaRUG), vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
-

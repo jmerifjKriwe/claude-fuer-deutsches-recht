@@ -140,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Common Law Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Pleadings, Discovery requests, Affidavits), nennt pro Lücke Beweisthema, Beschaffungsweg (UK Supreme Court, US Supreme Court), Frist u... |
 | `us-vs-uk-drafting` | Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Kon... |
 | `vertragsbegriffe-risikoampel-und-gegenargumente` | Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin common law kompass im Common Law Kompass. |
-| `wirtschaftsjuristen-terms` | Wirtschaftsjuristen Terms im Common Law (Orientierung) im Common Law Kompass. |
+| `wirtschaftsjuristen-tatbestand-beweis-und-belege` | Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Common Law Kompass. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Common Law Kompass. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Common Law Kompass. |

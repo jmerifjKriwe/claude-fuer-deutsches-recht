@@ -177,4 +177,3 @@ Abmahnakte [Mandant] ./. [Gegner] – [Datum]
 - BGH I ZR 82/99
 - BGH I ZR 20/07
 - BGH X ZR 171/12
-

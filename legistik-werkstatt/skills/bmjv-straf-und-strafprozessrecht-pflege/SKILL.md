@@ -1,6 +1,6 @@
 ---
 name: bmjv-straf-und-strafprozessrecht-pflege
-description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
+description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Leg..."
 ---
 
 # Straf- und Strafprozessrecht-Pflege (BMJV)
@@ -73,4 +73,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

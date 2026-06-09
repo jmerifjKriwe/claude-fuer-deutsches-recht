@@ -143,4 +143,3 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
-

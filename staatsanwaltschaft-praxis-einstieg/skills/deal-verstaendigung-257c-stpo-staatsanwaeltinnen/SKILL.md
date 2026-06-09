@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - §§ 226 ff. StPO (Hauptverhandlung)
 - § 244 Abs. 2 StPO (Aufklärungspflicht)
 - BVerfGE 133, 168 (Verständigungsurteil)
-

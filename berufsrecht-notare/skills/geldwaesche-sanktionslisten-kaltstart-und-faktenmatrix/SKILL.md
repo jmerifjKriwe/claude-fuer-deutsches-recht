@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 43 GwG (Meldepflicht)
 - § 95 BNotO
 - § 43 GwG
-

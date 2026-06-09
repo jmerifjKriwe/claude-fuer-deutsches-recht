@@ -148,4 +148,3 @@ Jede IP-Verletzung folgt demselben Grundschema:
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
 - `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Schriftsatz-Bausteine
-

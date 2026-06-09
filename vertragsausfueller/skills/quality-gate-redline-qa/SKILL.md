@@ -1,6 +1,6 @@
 ---
 name: quality-gate-redline-qa
-description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output im Vertragsausfueller."
+description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfra..."
 ---
 
 # Quality Gate — Vertragsausfueller
@@ -194,4 +194,3 @@ Empfehlung: Go / Go mit Warnungen / No-go
 - `vaf-redline-qa` — Review von Track-Changes-Fassungen
 - `vaf-clean-output` — finaler Clean-Entwurf nach GRUEN-Ampel
 - `vaf-track-changes-nur-nach-frage` — Track Changes nur nach Bestätigung
-

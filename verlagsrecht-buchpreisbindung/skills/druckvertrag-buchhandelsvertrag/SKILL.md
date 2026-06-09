@@ -126,4 +126,3 @@ Ein Druckvertrag sollte enthalten:
 - **Preisgleitklausel-Bewertung**: Index, Formel, Risiko
 - **Mängelrüge-Entwurf** an Druckerei
 - **Notfallplan Druck**: Backup-Optionen bei Ausfällen
-

@@ -97,4 +97,3 @@ Varianten:
 - **Eigentums-Checkliste**: Wer besitzt was bei Franchisekündigung?
 - **Kartellrechtliche Einschätzung**: Kopplungsklausel zulässig?
 - **Koordinationsplan**: FG und LG bei Franchisebeendigung
-

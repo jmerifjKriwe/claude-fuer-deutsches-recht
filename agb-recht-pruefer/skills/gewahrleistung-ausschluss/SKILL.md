@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Gewährleistung Ausschluss: prüft, redline
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

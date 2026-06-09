@@ -1,6 +1,6 @@
 ---
 name: rmap-grundlagen
-description: "Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Förderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfen; Bruecke zwischen Gesetz und Verwaltungsvollzug. Output: Grundbegriffsglossar und Methoden-Steckbrief. Anschluss legw-rmap-norm-zu-rulemap für das konkrete Vorgehen. Abgrenzung zur klassischen Begruendung und Folgenabschaetzung."
+description: "Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Förderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfe..."
 ---
 
 # Rulemapping - Grundlagen und Begriffe
@@ -45,4 +45,3 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
-

@@ -88,4 +88,3 @@ Sterbende Menschen und ihre Familien haben Anspruch auf umfassende palliative Ve
 - [BSG B 1 KR 2/22 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Deutsche Gesellschaft für Palliativmedizin](https://www.dgpalliativmedizin.de)
 - [dejure.org § 37b SGB V](https://dejure.org/gesetze/SGB_V/37b.html)
-

@@ -45,4 +45,3 @@ Besondere Anker: § 184a GVG und §§ 606 ff. ZPO. Übersetzungslogik gehört in
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

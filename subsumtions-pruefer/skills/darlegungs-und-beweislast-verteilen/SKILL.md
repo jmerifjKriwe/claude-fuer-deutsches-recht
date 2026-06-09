@@ -114,4 +114,3 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - BGH VI ZR 188/17
 - BGH VI ZR 26/21
 - BGH VI ZR 290/18
-

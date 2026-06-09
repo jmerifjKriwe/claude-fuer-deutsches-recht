@@ -46,4 +46,3 @@ Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Haupt
 - HGB: gesetze-im-internet.de
 - BGH zu Handelsbräuchen: bgh.de (Handelsrecht-Entscheidungen)
 - Historische Handelsbräuche: HGB-Kommentare mit historischen Annotationen
-

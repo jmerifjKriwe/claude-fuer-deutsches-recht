@@ -87,4 +87,3 @@ Dieser Skill strukturiert die forensische Untersuchung von Kickback-Verdachtsmom
 - **Präventionsmaßnahmen-Katalog** (Beschaffungsrichtlinie, Supplier Code of Conduct)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -54,4 +54,3 @@ Beamtenrecht wirkt einheitlich, ist es aber nicht. Seit der Föderalismusreform 
 - BBesG für Landesbeamte nach 2006 ungeprüft verwenden.
 - Landesrichter mit Bundesrichtern gleichsetzen.
 - Kommunalbeamte ohne Landeskommunalrecht prüfen.
-

@@ -50,4 +50,3 @@ Das Verhaeltnis von Staat und Kirche in Deutschland ist historisch gewachsen und
 ## Quellenregel
 
 WRV Art. 136-141: documentArchiv.de. GG Art. 140 und 7: gesetze-im-internet.de. BVerfGE: bverfg.de. Kulturkampf-Gesetze: ALEX/OeNB.
-

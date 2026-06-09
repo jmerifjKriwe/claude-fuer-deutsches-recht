@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-belarus
-description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Pruefung von Handelsbeziehungen mit belarussischen Parteien. Output: Embargo-Pruefungsvermerk und Screeningprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Pruefung von H..."
 ---
 
 # Embargo Belarus: Sanktionsregime und Umgehungsrisiken
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU Sanctions Map Belarus](https://www.sanctionsmap.eu/#/main/details/4)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [BAFA Belarus-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
-

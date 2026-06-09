@@ -1,6 +1,6 @@
 ---
 name: politische-betaetigung-maessigung-neutralitaet
-description: "Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesweh..."
 ---
 
 # Politische Betätigung – Mäßigungsgebot und Neutralität
@@ -100,4 +100,3 @@ description: "Politische Betätigung Mäßigung Neutralität: prüft die einschl
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zu § 15 SG und Social Media (Az. nach Verifikation).
 - Wehrbeauftragter – Jahresberichte zu Extremismusfällen (bundestag.de/wehrbeauftragter).
 - ZDv A-2630/1 (innere Führung) – nur nach Vorlage.
-

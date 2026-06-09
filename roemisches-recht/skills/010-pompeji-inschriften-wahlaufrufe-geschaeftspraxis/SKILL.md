@@ -59,4 +59,3 @@ Auktion von Pferd 50 n. Chr.
 1. Welche Inschrift?
 2. Welcher Rechtsbereich?
 3. Tagliche Praxis vs. Theorie?
-

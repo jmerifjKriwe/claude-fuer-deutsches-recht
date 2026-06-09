@@ -82,4 +82,3 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - BVerwG, staend. Rspr. zu Bedarfsplanung und Ermessensgrenzen.
 - BSG, staend. Rspr. zu Versorgungsauftrag (§ 109 SGB V).
 - VwGO §§ 42, 80, 113.
-

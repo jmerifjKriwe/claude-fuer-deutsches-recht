@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bueroneubau-dachdeckung
-description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BI..."
 ---
 
 # Bauueberwachung Bueroneubau Curtain Wall (LPH 8)
@@ -83,4 +83,3 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 - [ETAG 002 Strukturelle Verglasung](https://www.gesetze-im-internet.de/)
 - [VDI 3804 Raumlufttechnik Buero](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 212/04 Fassadenmangel](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+212/04)
-

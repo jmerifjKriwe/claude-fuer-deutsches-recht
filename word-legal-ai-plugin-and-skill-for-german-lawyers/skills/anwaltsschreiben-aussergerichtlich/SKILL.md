@@ -1,6 +1,6 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz..."
 ---
 
 # Anwaltsschreiben aussergerichtlich
@@ -186,4 +186,3 @@ Rechtsanwältin
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

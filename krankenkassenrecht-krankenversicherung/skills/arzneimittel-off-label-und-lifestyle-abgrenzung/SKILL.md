@@ -112,4 +112,3 @@ Dieser Skill klärt, wann die GKV Arzneimittelkosten übernimmt – und wann nic
 - BGH III ZR 17/18
 - BGH IV ZR 194/07
 - BGH IV ZR 62/16
-

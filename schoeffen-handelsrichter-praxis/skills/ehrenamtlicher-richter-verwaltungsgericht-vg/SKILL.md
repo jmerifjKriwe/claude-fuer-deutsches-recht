@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-verwaltungsgericht-vg
-description: "Ehrenamtlicher Richter am Verwaltungsgericht: erklärt Rolle in Tatsachen- und Rechtsfragen, Aktenstudium und Beratung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Ehrenamtlicher Richter am Verwaltungsgericht: erklärt Rolle in Tatsachen- und Rechtsfragen, Aktenstudium und Beratung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsri..."
 ---
 
 # Ehrenamtlicher Richter am Verwaltungsgericht
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-

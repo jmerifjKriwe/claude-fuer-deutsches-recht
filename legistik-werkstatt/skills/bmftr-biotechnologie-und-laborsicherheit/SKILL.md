@@ -1,6 +1,6 @@
 ---
 name: bmftr-biotechnologie-und-laborsicherheit
-description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
+description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; gep..."
 ---
 
 # Biotechnologie und Laborsicherheit (BMFTR)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

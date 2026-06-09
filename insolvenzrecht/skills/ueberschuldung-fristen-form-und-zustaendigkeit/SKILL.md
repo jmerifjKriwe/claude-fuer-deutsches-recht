@@ -72,4 +72,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Frist **6 Wochen** (nicht 3!) bei Überschuldung seit SanInsFoG.
 - Prognosezeitraum **12 Monate** (nicht 24 — das ist § 18 InsO drohende ZU).
 - Pandemie-Sonderregelungen sind ausgelaufen.
-

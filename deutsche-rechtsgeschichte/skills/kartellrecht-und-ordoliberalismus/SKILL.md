@@ -53,4 +53,3 @@ Das Kartellrecht in Deutschland begann mit einem liberalen Verstaendnis: Das Rei
 - Zeitleiste Kartellrecht: RG 1897 bis GWB 2021
 - GWB § 1 und Art. 101 AEUV: Gemeinsamkeiten und Unterschiede
 - GWB § 19a (2021): Digitale Marktmacht-Regulierung
-

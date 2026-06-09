@@ -21,7 +21,7 @@ Diese Quellenkarte sichert im Bereich **Weg Hausverwaltung** tragende Normen, Re
 - `bauliche-veraenderungen-beirat-controlling-beschlussanfechtung`
 - `beirat-controlling-verwalter`
 - `beschlussanfechtung-risiko`
-- `beschlusssammlung-betriebskosten-interessen`
+- `beschlusssammlung-schriftsatz-brief-und-memo-bausteine`
 - `beschlusssammlung-protokoll`
 
 ## Prüfroute

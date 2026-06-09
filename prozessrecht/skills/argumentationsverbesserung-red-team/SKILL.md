@@ -50,4 +50,3 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **Richterperspektive:** Wuerde ein neutraler Richter die These nachvollziehen koennen? Spruchreife herstellen.
 - **Gegenargumente vorwegnehmen:** "Eingewendet werden koennte ... Dem ist jedoch entgegenzuhalten ..." schwaecht die Gegenseite vor.
 - Falle: Klageantrag unbestimmt — § 139 ZPO Hinweispflicht greift, aber zur eigenen Sicherheit den Antrag praeszise antragen.
-

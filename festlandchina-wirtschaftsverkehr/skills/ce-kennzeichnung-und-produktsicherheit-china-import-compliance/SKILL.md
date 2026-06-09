@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-und-produktsicherheit-china-import-compliance
-description: "CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix im Festlandchina Wirtschaftsverkehr."
+description: "CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-..."
 ---
 
 # CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

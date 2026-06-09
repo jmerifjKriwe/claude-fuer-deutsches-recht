@@ -49,4 +49,3 @@ Das römische Bereicherungsrecht basiert auf dem System der condictiones: Rückf
 - Iust. Inst. 3.27.6
 - Kaser RP I §§ 260-275; Zimmermann Law of Obligations Kap. 27
 - Vergleich BGB §§ 812-822
-

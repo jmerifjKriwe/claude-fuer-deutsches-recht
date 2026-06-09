@@ -190,4 +190,3 @@ CLEAN TEAM: [ ] eingerichtet — Information Barriers aktiv
 
 - assets/templates/freigabe-landkarte-multijurisdiction.md
 - assets/templates/gun-jumping-protokoll.md
-

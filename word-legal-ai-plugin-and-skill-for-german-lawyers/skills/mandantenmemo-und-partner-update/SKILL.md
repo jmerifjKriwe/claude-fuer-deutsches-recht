@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-und-partner-update
-description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleis..."
 ---
 
 # Mandantenmemo und Partner-Update
@@ -39,4 +39,3 @@ description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus 
 - Keine langen Fußnotenketten.
 - Bei unsicherer Rechtslage: Unsicherheit benennen, nicht verstecken.
 - Für Nichtjuristen: "Das bedeutet praktisch ..." ergänzen.
-

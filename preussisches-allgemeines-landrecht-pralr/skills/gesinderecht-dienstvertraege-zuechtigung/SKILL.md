@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-dienstvertraege-zuechtigung
-description: "Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege für das Gesinde. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege für das Gesinde. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die ein..."
 ---
 
 # Pralr Gesinderecht Dienstvertraege Zuechtigung
@@ -60,4 +60,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welcher Tatbestand?
 2. Klagebefugnis des Gesindes?
 3. Patrimonialgericht oder öffentliches Gericht?
-

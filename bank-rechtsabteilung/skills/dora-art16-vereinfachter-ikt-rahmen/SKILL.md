@@ -58,4 +58,3 @@ Prüfe mindestens:
 ## Anschluss
 
 Bei Bankauslagerungen `marisk-auslagerungen-at9-dora` zuschalten. Bei Cyber-Gesamtcompliance `nis2-cybersecurity-compliance:dora-finanzsektor-abgrenzung` oder `nis2-cybersecurity-compliance:dora-art16-finanzunternehmen-simplified-framework` verwenden.
-

@@ -42,4 +42,3 @@ description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Bea
 2. Widerspruch eingelegt?
 3. Klage erhoben?
 4. Verjährung beachtet?
-

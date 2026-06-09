@@ -105,4 +105,3 @@ Verbraucherleasing über Internet/Telefon zusätzlich: §§ 312a ff. BGB (Fernab
 - **Widerrufsinformation-Muster**: Aktuelle Anlage 7 EGBGB
 - **Fehlerfolgen-Tabelle**: Fehlende Angabe – Rechtsfolge – Heilung möglich?
 - **Widerrufserklärung-Muster**: Für Verbraucher
-

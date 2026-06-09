@@ -34,4 +34,3 @@ DSGVO Art. 77–82; ZPO; InsO; EuGH C-26/22/C-64/22, C-634/21.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

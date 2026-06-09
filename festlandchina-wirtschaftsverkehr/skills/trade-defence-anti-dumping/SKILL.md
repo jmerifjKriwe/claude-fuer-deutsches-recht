@@ -1,6 +1,6 @@
 ---
 name: trade-defence-anti-dumping
-description: "EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe im Festlandchina Wirtschaftsverkehr."
+description: "EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Ka..."
 ---
 
 # EU Anti-Dumping China: Verfahren und laufende Maßnahmen
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

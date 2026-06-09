@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Paulskirche als Symbol des gescheiterten Liberalismus.
 - 1989/90 als historisches Vorbild bei DDR-Verfassungsdiskussion.
-

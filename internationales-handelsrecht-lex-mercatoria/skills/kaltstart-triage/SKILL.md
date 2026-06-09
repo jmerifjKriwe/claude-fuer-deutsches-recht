@@ -33,4 +33,3 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
 - UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
 - Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
-

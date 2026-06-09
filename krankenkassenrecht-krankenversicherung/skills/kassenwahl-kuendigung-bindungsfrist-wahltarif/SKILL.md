@@ -88,4 +88,3 @@ Dieser Skill regelt das **Kassenwahlrecht in der GKV**: Wie kann man die Kasse w
 - [BSG Kassenwechsel-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 175 SGB V](https://dejure.org/gesetze/SGB_V/175.html)
 - [GKV-Spitzenverband Kassenwahl](https://www.gkv-spitzenverband.de)
-

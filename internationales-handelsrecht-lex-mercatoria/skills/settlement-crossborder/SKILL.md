@@ -48,4 +48,3 @@ Vergleiche in internationalen Streitigkeiten können als privatrechtlicher Vertr
 - Full Release: präzise formulieren (alle Ansprüche aus Sachverhalt X; kein catch-all)
 - Steuerberater einbeziehen: Quellensteuerrisiko bei grenzüberschreitender Vergleichszahlung
 - Ratenzahlung: Vollstreckungsverzicht nur für pünktliche Raten; bei Verzug sofortige Vollstreckung
-

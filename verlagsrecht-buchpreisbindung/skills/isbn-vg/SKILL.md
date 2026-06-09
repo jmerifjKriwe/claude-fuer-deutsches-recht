@@ -132,4 +132,3 @@ ISBN, Metadaten und VLB-Einträge sind das **operative Rückgrat** des deutschen
 - **Pflichtablieferungs-Checkliste**: DNB + Landesbibliotheken pro Titel
 - **ONIX-Qualitätsprüfbericht**: Fehlende und fehlerhafte Felder
 - **ISBN-Vergabe-Register**: Alle vergebenen ISBNs mit Zuordnung
-

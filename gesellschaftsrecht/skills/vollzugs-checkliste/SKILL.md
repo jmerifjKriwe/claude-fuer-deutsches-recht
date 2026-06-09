@@ -1,6 +1,6 @@
 ---
 name: vollzugs-checkliste
-description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: Vollzugscheckliste, Closing-Checkliste, was fehlt noch zum Closing, Checklisten-Status, zur Checkliste hinzufügen im Gesellschaftsrecht."
+description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: Vollzugscheckliste, Closing-Checkliste, was fehlt noch zum Closing,..."
 ---
 
 # Vollzugscheckliste M&A
@@ -484,4 +484,3 @@ Eskalation an: [PERSON / GREMIUM]
 - Er holt keine Zustimmungen ein, stellt keine Anträge, erstellt keine Dokumente. Er verfolgt, dass dies geschehen muss.
 - Er entscheidet nicht, was blockiert — das SPA entscheidet das. Dieser Skill liest das SPA.
 - Er vollzieht den Deal nicht. Er sagt, wann vollzogen werden kann.
-

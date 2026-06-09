@@ -57,4 +57,3 @@ Sachverhalt: A besitzt Toga; B stiehlt sie; C kauft sie redlich vom B.
 Sachverhalt: A laesst seine Sache bei B verwahren; B behauptet, die Sache gehoert ihm.
 - **Roemisch**: D. 41.5.2 — Aenderung der Besitzcausa (interversio possessionis) ist nicht moeglich; B bleibt possessio naturalis, kein possessio civilis.
 - **BGB**: § 856 BGB Besitzaufgabe; B veraendert nur seinen Willen — keine Wirkung; A bleibt mittelbarer Besitzer, kann § 985 BGB Vindikation klagen.
-

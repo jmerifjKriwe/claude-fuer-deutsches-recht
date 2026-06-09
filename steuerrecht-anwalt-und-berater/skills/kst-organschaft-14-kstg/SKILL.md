@@ -1,6 +1,6 @@
 ---
 name: kst-organschaft-14-kstg
-description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehende Organschaft wegen mangelhafter Durchfuehrung. Behandelt finanzielle Eingliederung Gewinnabfuehrungsvertrag § 291 AktG Mindestlaufzeit Verlustuebernahmeklausel § 302 AktG und steuerliche Folgen einer verungluckten Organschaft. Output Pruefraster Organschaftsvoraussetzungen und Auditmuster für GAV. Abgrenzung zu fa-stu-vga-pruefraster und fa-stu-anteilstausch-21-umwstg."
+description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehend..."
 ---
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag
@@ -42,4 +42,3 @@ description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

@@ -82,4 +82,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Lückenliste priorisieren:** Rot/Gelb/Grün je nach Beweislastlage und Beweisstärke.
 4. **Nachforderung formulieren:** Präzise Liste mit Deadlines und Alternativbelegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
-

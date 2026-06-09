@@ -43,4 +43,3 @@ Boilerplate-Klauseln in internationalen Kaufverträgen werden oft gedankenlos ü
 ## Quellenregel
 
 CISG Art. 74: uncitral.un.org. BGB §§ 307-309: gesetze-im-internet.de. PICC Art. 2.1.20: unidroit.org. Schrifttum: Raeschke-Kessler, Internationale Vertragsgestaltung (2018). Unsicherheit bleibt sichtbar.
-

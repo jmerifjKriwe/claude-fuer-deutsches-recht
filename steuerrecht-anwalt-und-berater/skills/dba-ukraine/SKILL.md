@@ -153,4 +153,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ukra
 Stand: 05/2026. DBA-Ukraine 03.07.1995, BGBl. 1996 II S. 498, in Kraft 03.10.1996. Dividenden 5/10%, Zinsen 2%, Lizenzen: DBA-Text pruefen (Neuentwurf 5% einheitlich). EU-Beitrittskandidat seit 23.06.2022. MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: BGBl. 1996 II S. 498 und Inkrafttreten 03.10.1996 bestaetigt (BMF-Webseite); Art. 10 5%/10% bestaetigt (NWB); Art. 11 2% bestaetigt (GTAI); Art. 12 allgemein (neuer DBA-Entwurf 5% per GTAI); BMF Ukraine allgemein gefasst; MLI allgemein gefasst; Quellen-Marker gestrichen -->
-

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-mietrecht-und-wohnungspolitik
-description: "Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung)."
+description: "Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben..."
 ---
 
 # Mietrecht und Wohnungspolitik (BMWSB)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

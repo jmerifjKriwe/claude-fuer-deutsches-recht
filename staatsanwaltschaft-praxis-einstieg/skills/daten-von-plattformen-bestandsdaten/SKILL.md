@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - § 100j StPO (Bestandsdatenauskunft)
 - § 113 TKG
 - BVerfGE 154, 152
-

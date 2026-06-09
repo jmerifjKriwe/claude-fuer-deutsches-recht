@@ -34,4 +34,3 @@ description: "Leistungskette Zielleistung keine Aufspaltung: pr체ft die einschl�
 
 ## Qualit채tsgate
 Am Ende kurz pr체fen: Sind Fristen, Zust채ndigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gew체nschter Output vollst채ndig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-

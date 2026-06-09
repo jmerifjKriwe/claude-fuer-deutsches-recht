@@ -184,4 +184,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DSGVO und BDSG: gesetze-im-internet.de
 
 KI-Leitlinien und DMP-Anforderungen ändern sich — vor Einreichung aktuelle DFG-Position prüfen.
-

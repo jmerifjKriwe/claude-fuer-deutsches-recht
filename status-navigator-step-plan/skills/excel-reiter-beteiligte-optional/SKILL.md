@@ -15,4 +15,3 @@ LausitzStorage Beteiligten-Reiter: 4 Gesellschafter (Bauernfeind privat, NordCap
 - Beteiligten-Reiter mit Gesellschafter- und Vertragspartner-Teil
 - Vertretungsspalte mit HR-Bezug oder Vollmachts-Datum
 - Zustellbevollmaechtigten-Liste fuer den Skill `zugang-zustellung-pruefung`
-

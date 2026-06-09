@@ -59,4 +59,3 @@ Erzeuge je nach Lage:
 - Keine medizinische Beratung ersetzen.
 - Keine freiheitsentziehenden Maßnahmen ohne Genehmigungsprüfung.
 - Keine größeren Vermögensentscheidungen ohne Beleglage, Wunschermittlung und gerichtlichen Genehmigungscheck.
-

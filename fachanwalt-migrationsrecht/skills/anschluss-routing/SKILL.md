@@ -12,18 +12,18 @@ Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ers
 ## Fachlandkarte dieses Plugins
 
 - `abschiebehaft-paragraf-62-aufenthg` — Abschiebehaft Paragraf 62 Aufenthg
-- `abschiebungsabwehr-sofort-arbeitgeber` — Abschiebungsabwehr Sofort Arbeitgeber
-- `arbeitgeberwechsel-asyl-anhoerung-asylg` — Arbeitgeberwechsel Asyl Anhoerung Asylg
+- `einstieg-schnelltriage-fallrouting` — Abschiebungsabwehr Sofort Arbeitgeber
+- `arbeitgeberwechsel` — Arbeitgeberwechsel Asyl Anhoerung Asylg
 - `asylantrag-folgeverfahren-paragraf-71-asylg` — Asylantrag Folgeverfahren Paragraf 71 Asylg
 - `aufenthalt-paragraf-25a-aufenthg` — Aufenthalt Paragraf 25A Aufenthg
-- `aufenthaltstitel` — Aufenthaltstitel
-- `aufenthaltstitel-ausweisung-start` — Aufenthaltstitel Ausweisung Start
-- `aufenthaltstitel-erstgespraech-mandatsannahme` — Aufenthaltstitel Erstgespraech Mandatsannahme
+- `aufenthaltstitel-antrag` — Aufenthaltstitel
+- `workflow-aufenthaltstitel-router` — Aufenthaltstitel Ausweisung Start
+- `aufenthaltstitel-pruefung` — Aufenthaltstitel Erstgespraech Mandatsannahme
 - `ausweisung-paragrafe-53-55-aufenthg` — Ausweisung Paragrafe 53 55 Aufenthg
-- `ba-zustimmung-beschaeftigungsduldung` — BA Zustimmung Beschaeftigungsduldung
-- `blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
-- `botschaft-visumtermin-dokumentenstapel` — Botschaft Visumtermin Dokumentenstapel
-- `datenschutz-sicherheit-daueraufenthalt-eu` — Datenschutz Sicherheit Daueraufenthalt EU
+- `ba-zustimmung-beschaeftigung` — BA Zustimmung Beschaeftigungsduldung
+- `blaue-karte-eu-mobilitaet` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
+- `workflow-botschaft-visumtermin` — Botschaft Visumtermin Dokumentenstapel
+- `datenschutz-sicherheit-migration` — Datenschutz Sicherheit Daueraufenthalt EU
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -62,4 +62,3 @@ Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ers
 
 - EuGH C-490/16
 - EuGH C-247/20
-

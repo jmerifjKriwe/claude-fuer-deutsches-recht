@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-371-ao
-description: "Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend Unrichtigkeiten in Steuererklaerungen und moechte vor Bekanntwerden Strafbefreiung erlangen. Behandelt Anforderungen an Vollstaendigkeit Sperrwirkung durch Pruefungsanordnung und § 398a AO ab 25 000 Euro Hinterziehungsbetrag. Output Pruefraster und Selbstanzeigemuster. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao."
+description: "Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend Unrichtigkeiten in Steuererklaerungen und moechte vor Bekannt..."
 ---
 
 # Selbstanzeige — § 371 AO Wirksamkeit Sperrgruende und Strafmilderung
@@ -70,4 +70,3 @@ Es wird gebeten von der Einleitung eines Strafverfahrens abzusehen.
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

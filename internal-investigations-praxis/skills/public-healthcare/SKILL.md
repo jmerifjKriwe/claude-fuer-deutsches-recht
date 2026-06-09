@@ -84,4 +84,3 @@ Dieser Skill untersucht Manipulationen in öffentlichen Vergabeverfahren und lei
 - **Strafanzeige** §§ 298, 333 StGB
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -1,6 +1,6 @@
 ---
 name: tatbestand-beweis-belege
-description: "Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verlangt zeitliche Reihenfolge konkrete Tatsachen mit Beweismitteln Anlagenverweis. Pinpoints ZPO 138 Wahrheitspflicht ZPO 137 Verhandlungsgrundsatz ZPO 138 Abs. 2 substantiiertes Bestreiten. Liefert Tatbestandsmuster und Lex-fori-Regeln."
+description: "Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verlangt zeitliche Reihenfolge konkrete Tatsachen mit Beweismitteln Anlagenverweis. Pinpoints ZPO 138 Wahrheitspflicht ZPO 137 Verhandlungsgrundsatz ZPO 138 Abs. 2 substantiiertes Be..."
 ---
 
 # Tatbestand Beweis Belege

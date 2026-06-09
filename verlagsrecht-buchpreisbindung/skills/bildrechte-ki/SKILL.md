@@ -120,4 +120,3 @@ Für jede Abbildung im Buch führen:
 - **Risikoampel**: Fehlende oder abgelaufene Lizenzen
 - **Freistellungsklausel** für Autorenvertrag
 - **Verwaiste-Werke-Suchprotokoll**
-

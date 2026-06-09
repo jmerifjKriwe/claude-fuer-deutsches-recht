@@ -1,6 +1,6 @@
 ---
 name: usability-test-mit-betroffenen
-description: "Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen im Barrierefreiheit Web Checker."
+description: "Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Massnahmen im Barriere..."
 ---
 
 # Usability-Test mit Betroffenen
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

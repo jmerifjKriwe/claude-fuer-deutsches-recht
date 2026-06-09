@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-berufsgericht-praevention
-description: "Rechtsmittel im Berufsgericht (Präventions- und Organisationspaket): steuert Berufung, Antrag auf Zulassung, sofortige Beschwerde, Frist und Begründungsdichte mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Rechtsmittel im Berufsgericht (Präventions- und Organisationspaket): steuert Berufung, Antrag auf Zulassung, sofortige Beschwerde, Frist und Begründungsdichte mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie..."
 ---
 
 # Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket
@@ -47,4 +47,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

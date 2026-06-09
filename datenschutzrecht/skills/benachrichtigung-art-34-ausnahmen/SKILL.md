@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-ausnahmen
-description: "Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung."
+description: "Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßi..."
 ---
 
 # Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO
@@ -48,4 +48,3 @@ Beweislast: liegt beim Verantwortlichen — schriftlich dokumentieren mit Datum 
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die öffentliche Bekanntmachung ab.
-

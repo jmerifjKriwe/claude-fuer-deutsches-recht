@@ -13,16 +13,16 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Handels Gesellschaftsrecht** 
 
 - `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr`
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `fachanwalt-fao-gesellschafterstreit`
+- `erstpruefung-und-mandatsziel`
 - `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash`
 - `gesellschafterstreit-handelsvertreterausgleich-ma-due`
 - `gesellschaftervertrag-geschaeftsfuehrerhaftung-hgr`
-- `gmbh-beirat-vergleichsverhandlung-strategie`
+- `gmbh-beirat-vetorechte-und-organnaehe`
 - `gmbhg-handels-handelsvertreterausgleich-international`
-- `hgb-kanzlei-beweislast-mopeg`
+- `hgb-risikoampel-und-gegenargumente`
 - `hgesr-einfuehrung-hgr-due-erstgespraech-mandatsannahme`
 - `hgesr-handelsvertreterausgleich-hgesr-mbg-registerrecht`
-- `hgr-dis-gesellschaftsrecht-token-fristennotiz`
+- `hgr-dis-schiedsverfahren-streit`
 
 ## Prüfroute
 

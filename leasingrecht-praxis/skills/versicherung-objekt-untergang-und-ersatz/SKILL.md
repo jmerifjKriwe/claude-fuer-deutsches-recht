@@ -99,4 +99,3 @@ Versicherungsleistung (Schaden-Entschädigung)
 - **Totalschaden-Abrechnungsvorlage**: Versicherungsleistung vs. ausstehende Raten
 - **Obliegenheits-Protokoll**: Schadenmeldung, Aufklärungspflicht, Fristen
 - **GAP-Analyse**: Wertentwicklung vs. Ratenprofil – Deckungslücke
-

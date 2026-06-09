@@ -1,6 +1,6 @@
 ---
 name: anlagenpaket
-description: "Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften Versionierung. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (ips-datenraum-register) im Insolvenzplan Starug Planwerkstatt."
+description: "Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften Versionierung. Output: Anlagencheckliste Dateinamensschema..."
 ---
 
 # Anlagenpaket
@@ -97,4 +97,3 @@ Bevor losgelegt wird, klaere:
 - BGH IX ZR 122/23
 - BGH II ZR 206/22
 - BGH IX ZR 129/22
-

@@ -48,4 +48,3 @@ Importeure in die EU tragen produktrechtliche Pflichten: CE-Kennzeichnung sicher
 - REACH-SVHC-Screening: Materialdatenblätter von Herstellern; ECHA-Kandidatenliste prüfen
 - RAPEX-Meldefluss dokumentieren: interne Eskalationskette festlegen
 - EU-Bevollmächtigter: EU-ansässige Kontaktperson im Importvertrag festlegen
-

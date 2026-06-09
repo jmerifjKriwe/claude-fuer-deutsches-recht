@@ -1,6 +1,6 @@
 ---
 name: nachtraegliche-gesamtstrafenbildung-55-stgb
-description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium im Strafzumessung."
+description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits..."
 ---
 
 # Nachtraegliche Gesamtstrafenbildung — § 55 StGB
@@ -129,4 +129,3 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 - §§ 460, 462, 462a StPO.
 - BGH-staendige Linie zu Zaesurwirkung, Einbeziehung und Schutzzweck — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

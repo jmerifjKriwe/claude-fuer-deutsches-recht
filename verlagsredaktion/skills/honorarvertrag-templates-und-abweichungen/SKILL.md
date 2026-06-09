@@ -147,4 +147,3 @@ Justiziariat einbinden? [ja/nein]
 - BGB §§ 305 ff. - AGB-Kontrolle.
 - Gemeinsame Verguetungsregeln (z. B. Boersenverein, Verband deutscher Schriftsteller); aktuelle Fassungen unter den Verbandsseiten.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte unter bundesgerichtshof.de).
-

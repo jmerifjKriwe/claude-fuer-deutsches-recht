@@ -1,6 +1,6 @@
 ---
 name: gesellschafts-compliance
-description: "Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen fällig ist. Trigger: Gesellschafts-Compliance, Einreichungsfristen, Bilanzpublizität, Transparenzregister, Jahresabschluss einreichen, was ist fällig im Gesellschaftsrecht."
+description: "Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen f..."
 ---
 
 # Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)
@@ -567,4 +567,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Er ruft keine Registerauszüge ab; er verfolgt, wann sie zuletzt bestätigt wurden.
 - Er bestimmt nicht, ob eine Konzernabschluss-Pflicht besteht — das erfordert eine Analyse der tatsächlichen Konzernverhältnisse.
 - Er ersetzt keine Steuerberatung (§ 316 HGB-Prüfung = Steuerberater/Wirtschaftsprüfer).
-

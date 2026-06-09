@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-gwg
-description: "Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise im Kanzlei Allgemein."
+description: "Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Manda..."
 ---
 
 # Mandatsannahme und Geldwäscheprüfung
@@ -104,4 +104,3 @@ Erhöhte Aufmerksamkeit bei:
 - `assets/templates/mandatsvereinbarung-ki-datenschutz-hinweis.md`
 
 Danach an `kanzlei-allgemein-akte`, `kanzlei-allgemein-aktenzeichen`, `kanzlei-allgemein-mandatsvereinbarung`, `kanzlei-allgemein-fristen-monitor`, `kanzlei-allgemein-rechnung` und bei Unternehmensmandanten an `kanzlei-allgemein-handelsregisterabruf` übergeben.
-

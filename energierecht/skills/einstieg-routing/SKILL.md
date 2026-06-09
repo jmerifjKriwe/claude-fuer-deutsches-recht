@@ -12,7 +12,7 @@ Dieser Einstieg routet **Energierecht** vom ersten Sachverhalt zu Rollen, Friste
 ## Fachlandkarte dieses Plugins
 
 - `anfrage-mehrparteien-konflikt-und-interessen` — Anfrage Mehrparteien Konflikt und Interessen
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `bess-abfall-recycling-rueckbau` — Bess Abfall Recycling Rueckbau
 - `bess-abstandsflaechen-baurecht-brandenburg` — Bess Abstandsflaechen Baurecht Brandenburg
 - `bess-baurecht-brandenburg` — Bess Baurecht Brandenburg
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Energierecht** vom ersten Sachverhalt zu Rollen, Friste
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

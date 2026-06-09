@@ -58,4 +58,3 @@ Mängelrügen, Schadensersatzforderungen und Vertragsaufhebungserklärungen unte
 - Mängelrüge-Schreiben-Muster (Art. 39 CISG-konform)
 - Schadensersatz-Forderungsschreiben-Muster (Art. 74-77 CISG)
 - Aufhebungserklärung-Muster (Art. 26 CISG)
-

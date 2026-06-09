@@ -103,4 +103,3 @@ Eingaben:
 - BGH staend. Rspr. zum Apothekenversand und Wettbewerbsrecht.
 - EuGH staend. Rspr. zur Grenzüberschreitung (DocMorris).
 - ABDA-Hinweise zum Versandhandel (vom Anwender zu verifizieren).
-

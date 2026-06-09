@@ -1,6 +1,6 @@
 ---
 name: werbeaussagen-pruefung
-description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer Werbetext prüfen, Marketingaussagen freigeben, UWG-Prüfung, Health Claims, klimaneutral prüfen oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt im Produktrecht."
+description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer Werbetext prüfen, Marketingaussagen freigeben, UWG-Prüfung, Health Claims, klimaneutral prüfen oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt im Prod..."
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)
@@ -227,4 +227,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 <!-- AUDIT 27.05.2026 bundle_040
 -->
-

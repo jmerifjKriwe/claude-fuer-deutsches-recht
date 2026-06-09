@@ -1,6 +1,6 @@
 ---
 name: plan-redteam-qualitygate
-description: "Insolvenzplan, StaRUG-Plan oder Sanierungskonzept vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger, Gericht, Bank und Gläubigerausschuss. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit, Sanierungsfähigkeit, Krisenursachen, Leitbild, integrierte Planung, Bewertungswiderspruch, Gruppenbildung, fehlende Anlagen, unbestimmte Klauseln, Bestätigungsrisiken. Output: Red-Team-Bericht, Fehlerliste, Heilungsliste, Go/No-go-Vermerk."
+description: "Insolvenzplan, StaRUG-Plan oder Sanierungskonzept vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger, Gericht, Bank und Gläubigerausschuss. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit, Sanierungsfähigkeit, Krisenursachen, Leitbild, integrierte Planung,..."
 ---
 
 # IV-integrierte Red Team und Quality Gate
@@ -104,4 +104,3 @@ Bevor losgelegt wird, klaere:
 ## IV-Einordnung
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Glaeubigerausschuss sowie Planvollzugsfaehigkeit.
-

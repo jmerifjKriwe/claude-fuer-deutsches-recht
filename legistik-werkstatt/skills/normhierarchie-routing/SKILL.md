@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Richtige Startbahn und Normebene für ein legistisches Vorhaben bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschliessungsantrag. Anwendungsfall politische Vorgabe liegt vor und unklar ist, ob Bundesministerium, Bundestag, Landesministerium, Landtag oder sonstiger Normgeber handeln soll. Prüfkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG, Landeskompetenz, Verordnungsermaechtigung Art. 80 GG, Satzungskompetenz Art. 28 Abs. 2 GG, Wesentlichkeitstheorie, Vorbehalt des Gesetzes, GO-BT/Landtags-GO. Output Startbahn- und Normebenentscheidung mit Begründung und nächstem Skill."
+description: "Richtige Startbahn und Normebene für ein legistisches Vorhaben bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschliessungsantrag. Anwendungsfall politische Vorgabe liegt vor und unklar ist, ob Bundesministerium, Bundestag,..."
 ---
 
 # Normhierarchie-Routing
@@ -102,4 +102,3 @@ Art. 70-74 GG — Art. 76-78 GG — Art. 80 GG — Art. 28 Abs. 2 GG — Art. 31
 - Goldplating durch Wahl der falschen Ebene (Bund regelt, was Land regeln duerfte): prüfen unter `goldplating-vermeiden`
 - Wesentlichkeitstheorie wird oft übersehen, wenn das Ministerium "schnell per VO" regeln will
 - Subsidiaritaetsprinzip EU bei Kompetenzfragen mitdenken
-

@@ -1,6 +1,6 @@
 ---
 name: goldplating-vermeiden
-description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht."
+description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differe..."
 ---
 
 # Goldplating vermeiden
@@ -64,4 +64,3 @@ Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
 ## Anschluss
 
 `verfassungsmaessigkeit-quercheck`.
-

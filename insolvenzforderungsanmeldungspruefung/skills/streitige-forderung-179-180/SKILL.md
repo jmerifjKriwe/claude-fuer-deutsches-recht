@@ -1,6 +1,6 @@
 ---
 name: streitige-forderung-179-180
-description: "Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Prüfraster Bestreitungsprotokoll, Klagefrist, Zuständiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll für bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189 im Insolvenzforderungsanmeldungspruefung."
+description: "Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch..."
 ---
 
 # Streitige Forderung und Feststellungsklage
@@ -73,4 +73,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Bestreitung substantiiert?** Wer bestreitet, muss konkret begründen (Grund, Höhe, Rang). Bei Vorsatz-Forderungen § 184 InsO Schuldnerwiderspruch eigenständig prüfen.
-

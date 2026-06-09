@@ -1,6 +1,6 @@
 ---
 name: normenkontrollrat-kmu-check
-description: "Vorlage an Nationalen Normenkontrollrat NKR vorbereiten und KMU-Check durchführen. Anwendungsfall Referentenentwurf muss vor Kabinettsbefassung dem NKR vorgelegt werden. Standard-Kostenmodell SKK Buerokratiekosten. KMU-Aspekt mittelstandsrelevante Vorschriften. One-in-one-out-Regel Entlastungsnachweis. Statistik-Pflichten. Output NKR-Vorlage-Datei Anschreiben Erfuellungsaufwand-Tabelle KMU-Test One-in-one-out-Nachweis. Anschluss gesetzesentwurf-kabinett. Abgrenzung zu folgenabschaetzung-erfuellungsaufwand Methodik-Skill."
+description: "Vorlage an Nationalen Normenkontrollrat NKR vorbereiten und KMU-Check durchführen. Anwendungsfall Referentenentwurf muss vor Kabinettsbefassung dem NKR vorgelegt werden. Standard-Kostenmodell SKK Buerokratiekosten. KMU-Aspekt mittelstandsrelevante Vorschriften. One-in-one-out-Regel Entlastungsnac..."
 ---
 
 # Normenkontrollrat / KMU-Check
@@ -69,4 +69,3 @@ Seit 2015 Bundesregierungsregel: Jeder neue Bürokratieaufwand für die Wirtscha
 ## Anschluss
 
 `gesetzesentwurf-kabinett`.
-

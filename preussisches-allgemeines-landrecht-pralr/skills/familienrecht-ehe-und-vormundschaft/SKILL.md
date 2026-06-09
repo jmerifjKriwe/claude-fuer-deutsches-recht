@@ -44,4 +44,3 @@ ALR-Loesung: ALR II 18 — Vormund bestellt durch das Vormundschaftsgericht; Pfl
 - BGB §§ 1297-1588 haben das ALR-Eherecht abgeloest.
 - Reichsehegesetz 1875 fuehrte staatliche Eheschliessung ein — wirkt bis heute (§ 1310 BGB Zivilehe).
 - §§ 1773 ff. BGB Vormundschaft als Nachfolger ALR II 18.
-

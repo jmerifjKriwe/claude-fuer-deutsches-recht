@@ -112,4 +112,3 @@ Stand: 05/2026.
 - UStG § 18.
 - StBerG § 33.
 - EStG § 37.
-

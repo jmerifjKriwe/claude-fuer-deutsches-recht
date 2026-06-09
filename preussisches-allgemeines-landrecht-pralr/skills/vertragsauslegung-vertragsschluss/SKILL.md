@@ -40,4 +40,3 @@ description: "Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das
 1. Vertragsauslegung erforderlich?
 2. Bona fides als Massstab?
 3. Heutige Aequivalenz?
-

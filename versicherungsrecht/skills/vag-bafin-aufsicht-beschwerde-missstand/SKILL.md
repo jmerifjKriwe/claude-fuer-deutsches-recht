@@ -41,4 +41,3 @@ VAG; BaFin-Aufsichtsrecht; VVG §§ 214 ff.; EU Solvency II/IDD; VwVfG/VwGO nur 
 
 - vers-ombudsmann-bafin-beschwerde-klageweg
 - idd-vertrieb-beratung-dokumentation
-

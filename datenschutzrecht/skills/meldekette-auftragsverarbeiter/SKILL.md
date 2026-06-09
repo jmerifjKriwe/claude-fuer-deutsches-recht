@@ -1,6 +1,6 @@
 ---
 name: meldekette-auftragsverarbeiter
-description: "Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter."
+description: "Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftra..."
 ---
 
 # Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO
@@ -55,4 +55,3 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung des Verantwortlichen ab.
-

@@ -75,4 +75,3 @@ Prüfung unter alternativen Annahmen. Erfundene Tatsachen ohne Sachverhaltsgrund
 - Lücken identifiziert und als Rückfragen formuliert?
 - Rechtlich relevante Tatsachen von irrelevanten Hintergrundinformationen getrennt?
 - Fallfrage genau beantwortet — nicht an ihr vorbeigegangen?
-

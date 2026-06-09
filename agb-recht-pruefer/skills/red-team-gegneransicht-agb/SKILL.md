@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Red Team Gegneransicht AGB: sor
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

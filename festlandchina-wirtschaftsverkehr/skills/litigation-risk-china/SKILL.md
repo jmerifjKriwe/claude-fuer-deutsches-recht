@@ -1,6 +1,6 @@
 ---
 name: litigation-risk-china
-description: "Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie im Festlandchina Wirtschaftsverkehr."
+description: "Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren..."
 ---
 
 # Prozessrisiken China: Gerichte/Beweis/Vollstreckung
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

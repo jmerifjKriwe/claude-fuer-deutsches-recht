@@ -1,6 +1,6 @@
 ---
 name: diozesanbischof-visitation-und-leitung
-description: "Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale,..."
 ---
 
 # Diözesanbischof, Visitation und Leitung
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

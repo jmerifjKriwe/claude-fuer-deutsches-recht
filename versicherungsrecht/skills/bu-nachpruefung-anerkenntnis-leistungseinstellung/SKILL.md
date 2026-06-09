@@ -41,4 +41,3 @@ VVG §§ 172 ff.; AVB BU; BGB; ZPO.
 
 - bu-berufsbild-50-prozent-substantiierung
 - datenschutz-schweigepflicht-gesundheitsdaten
-

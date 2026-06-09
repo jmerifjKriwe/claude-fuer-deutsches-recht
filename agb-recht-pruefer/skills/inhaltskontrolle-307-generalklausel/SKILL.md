@@ -40,4 +40,3 @@ description: "Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel:
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -126,4 +126,3 @@ Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettb
 - `verletzungs-triage` – Erstentscheidung
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
-

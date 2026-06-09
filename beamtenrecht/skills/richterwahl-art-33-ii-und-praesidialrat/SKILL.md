@@ -37,4 +37,3 @@ Bei Bundesrichtern wirken Richterwahlausschuss und zuständiger Bundesminister z
 ## Rechtsprechungsanker
 
 BVerfG 20.09.2016 - 2 BvR 2453/15 zur Bundesrichterwahl. Bei Konkurrentenstreit zusätzlich einschlägige verwaltungsgerichtliche Rechtsprechung live prüfen.
-

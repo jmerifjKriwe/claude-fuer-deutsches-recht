@@ -88,4 +88,3 @@ Dieser Skill klärt die **Krankenversicherung von Bürgergeld-Beziehenden und Re
 - [Deutsche Rentenversicherung KVdR](https://www.deutsche-rentenversicherung.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
 - [GKV-Spitzenverband Beitragsbemessung](https://www.gkv-spitzenverband.de)
-

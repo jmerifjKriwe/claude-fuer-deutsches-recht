@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleichung-methodisch-sauber
-description: "Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen."
+description: "Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie di..."
 ---
 
 # Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

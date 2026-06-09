@@ -60,4 +60,3 @@ ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtt
 1. Vor 1900 Erbfall? Dann ALR-Erbrecht.
 2. Nach 1900? BGB.
 3. Familienfideikommiss? — Aufloesungsfrist und Sondervermoegen pruefen.
-

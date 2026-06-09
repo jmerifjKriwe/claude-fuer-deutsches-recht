@@ -173,4 +173,3 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 - **Tarifbindung übersehen.** Nachwirkung (§ 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (§ 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
 - **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (§ 1 BetrVG). Auf § 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
 - **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; § 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
-

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-im-plan
-description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte für die Plan-Gestaltung im Insolvenzrecht."
+description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zu..."
 ---
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan
@@ -164,4 +164,3 @@ Plan-Bestaetigung ersetzt.
 - Paragraph 56 GmbHG, `gesetze-im-internet.de/gmbhg/__56.html`.
 - Paragraph 7 StaRUG, `gesetze-im-internet.de/starug/__7.html`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

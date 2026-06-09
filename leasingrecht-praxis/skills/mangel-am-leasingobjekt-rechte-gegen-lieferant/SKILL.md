@@ -105,4 +105,3 @@ description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche 
 - **Anspruchsübersicht**: § 437 BGB – alle vier Ansprüche mit Voraussetzungen
 - **Verjährungskalender**: Frist, Beginn, Unterbrechungsmöglichkeit
 - **Beweissicherungs-Checkliste**: Fotos, Gutachten, Rügeprotokoll
-

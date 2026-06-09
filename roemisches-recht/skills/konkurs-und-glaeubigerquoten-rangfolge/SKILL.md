@@ -50,4 +50,3 @@ description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt 
 2. Sicherungsrecht vorhanden?
 3. Privilegium personae anwendbar?
 4. Quote zu berechnen?
-

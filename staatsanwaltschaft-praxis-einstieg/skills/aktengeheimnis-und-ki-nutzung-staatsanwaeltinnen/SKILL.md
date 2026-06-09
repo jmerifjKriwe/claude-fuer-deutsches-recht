@@ -39,4 +39,3 @@ Konkret zu prüfen:
 - § 37 BeamtStG, § 67 BBG
 - § 500 StPO (Datenverarbeitung StA)
 - Nr. 4-5 RiStBV
-

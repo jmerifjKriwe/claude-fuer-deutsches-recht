@@ -44,4 +44,3 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **Berufsrecht § 43a BRAO:** keine Mandantengeheimnisverletzung, keine unsachliche Aeusserung?
 - **KI-Halluzinationen suchen:** jede zitierte Rspr. live verifiziert?
 - Falle: Vorgaben des Mandanten ignoriert (z. B. Vergleichsangebot nicht erwaehnt) — Mandantenwillen explizit zu Aktennotiz nehmen.
-

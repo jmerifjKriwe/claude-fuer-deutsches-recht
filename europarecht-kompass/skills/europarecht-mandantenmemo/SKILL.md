@@ -1,6 +1,6 @@
 ---
 name: europarecht-mandantenmemo
-description: "Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze im Europarecht Kompass."
+description: "Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne..."
 ---
 
 # Mandantenmemo und Executive Briefing
@@ -79,4 +79,3 @@ V. NAECHSTE SCHRITTE
 1. [Schritt — Owner — Frist]
 2. [Schritt]
 ```
-

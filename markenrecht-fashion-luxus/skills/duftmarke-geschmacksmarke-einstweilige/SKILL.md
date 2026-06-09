@@ -143,4 +143,3 @@ Bevor die Duftmarke eingereicht wird, klaere:
 Ersatz: BGH I ZR 149/14 (Pippi-Langstrumpf-Kostuem II, 19.11.2015) — verifiziert auf dejure.org (GRUR 2016, 725).
 Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum Kontext.
 -->
-

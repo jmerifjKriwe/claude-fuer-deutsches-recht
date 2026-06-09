@@ -49,4 +49,3 @@ description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamt
 1. Welcher Beihilfeanspruch?
 2. PKV-Vertrag passend?
 3. Restkosten gedeckt?
-

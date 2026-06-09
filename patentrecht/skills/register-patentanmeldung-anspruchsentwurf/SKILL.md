@@ -51,4 +51,3 @@ Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist. Imme
 
 ## Quellen live
 - `register.dpma.de`, `register.epo.org`, `worldwide.espacenet.com`, `unifiedpatentcourt.org`, `wipo.int/portal/en/index.html` (PatentScope für PCT).
-

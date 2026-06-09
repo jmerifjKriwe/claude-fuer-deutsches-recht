@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Kartellrecht-Marktabgrenzung: ordnet Rolle (Anmelder, Wettbewerber, Kunden/Lieferanten), markiert Frist (FKVO 25 Arbeitstage Phase I), wählt Norm (§§ 18-19 GWB Marktbeherrschung, §§ 35 ff. GWB Fusionskontrolle, Art. 101/102 AEUV) und Zuständigkeit (BKartA), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Kartellrecht-Marktabgrenzung: ordnet Rolle (Anmelder, Wettbewerber, Kunden/Lieferanten), markiert Frist (FKVO 25 Arbeitstage Phase I), wählt Norm (§§ 18-19 GWB Marktbeherrschung, §§ 35 ff. GWB Fusionskontrolle, Art. 101/102 AEUV) und Zuständigkeit (BKartA), leitet..."
 ---
 
 # Einstieg und Routing
@@ -21,7 +21,7 @@ Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sach
 - `alternative-marktdefinition-weit` — Alternative Marktdefinition Weit
 - `angebotsumstellung-evidenz-flags-red-team-korrektur` — Angebotsumstellung Evidenz Flags RED Team Korrektur
 - `anmeldepflicht-joint-venture` — Anmeldepflicht Joint Venture
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `art-101-aeuv-kooperationspruefung-einstieg` — ART 101 Aeuv Kooperationspruefung Einstieg
 - `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` — ART 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha
 - `dokumente-intake` — Dokumente Intake
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sach
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

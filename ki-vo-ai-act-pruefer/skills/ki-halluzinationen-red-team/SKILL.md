@@ -19,4 +19,3 @@ description: "Schriftsatz-Red-Team gegen KI-Halluzinationen: erfundene Rechtspre
 ## Verbot
 
 Keine erfundenen "BeckRS", "juris" oder sonstigen Datenbankangaben. Wenn eine Entscheidung nicht überprüfbar ist, wird sie nicht zitiert.
-

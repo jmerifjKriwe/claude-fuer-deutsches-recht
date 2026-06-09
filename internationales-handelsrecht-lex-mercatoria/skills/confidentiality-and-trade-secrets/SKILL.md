@@ -48,4 +48,3 @@ Das Gesetz zum Schutz von Geschäftsgeheimnissen (HGeschGehG, 2019) setzt die EU
 - Dokumentation: welche Informationen sind Geheimnisse (Information Asset Register)
 - NDA-Gestaltung: klar definierter Geheimhaltungsgegenstand; Laufzeit 5 Jahre realistisch
 - Grenzüberschreitend: Rechtswahl und Gerichtsstand im NDA für Vollstreckbarkeit
-

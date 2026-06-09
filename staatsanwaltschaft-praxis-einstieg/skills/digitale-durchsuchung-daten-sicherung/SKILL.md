@@ -38,4 +38,3 @@ Konkret zu prüfen:
 - § 100a StPO (Quellen-TKÜ)
 - § 100b StPO (Online-Durchsuchung)
 - BVerfGE 120, 274 (IT-Grundrecht)
-

@@ -1,6 +1,6 @@
 ---
 name: long-covid-gutachten-red-team
-description: "Red-Team Long-Covid-Gutachten: Standardfehler in MD/DRV/BG-Gutachten, fehlende PEM-Prüfung, Momentaufnahme und falsche Simulationsthese.; Normanker: SGG §§ 103 und 106; SGB X §§ 20 und 21; sozialmedizinische Begutachtung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab."
+description: "Red-Team Long-Covid-Gutachten: Standardfehler in MD/DRV/BG-Gutachten, fehlende PEM-Prüfung, Momentaufnahme und falsche Simulationsthese.; Normanker: SGG §§ 103 und 106; SGB X §§ 20 und 21; sozialmedizinische Begutachtung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozia..."
 ---
 
 # Red-Team Long-Covid-Gutachten: Standardfehler in MD/DRV/BG-Gutachten, fehlende PEM-Prüfung, Momentaufnahme und falsche Simulationsthese.
@@ -24,4 +24,3 @@ SGG §§ 103, 106; SGB X §§ 20, 21; sozialmedizinische Begutachtung. Medizinis
 ## Ausgabe
 
 Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen Widerspruchsbaustein, eine Klagebegründung oder eine laienverständliche Unterlagenliste.
-

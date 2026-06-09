@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Leistungsänderung Produktupdate: prüft, r
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

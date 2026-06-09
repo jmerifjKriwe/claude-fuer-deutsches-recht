@@ -91,4 +91,3 @@ Empfehlung: Vom Projektprofil abhängig - methodisch anspruchsvolle Pilotprojekt
 - Personalmittel zu konkret beziffert ("Postdoc Frau X, TV-L E 13"), statt die DFG-Pauschalen zu nutzen - bei Mitarbeiter-Wechsel Anpassungsbedarf.
 - Geräteanschaffung ohne Verfügbarkeitsprüfung vorhandener Geräte; Reviewer schlagen "Mitnutzung" vor und kürzen.
 - Programmpauschale fehlt oder ist falsch berechnet.
-

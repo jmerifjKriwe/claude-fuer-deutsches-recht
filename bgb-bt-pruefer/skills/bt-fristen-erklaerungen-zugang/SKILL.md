@@ -61,4 +61,3 @@ description: "Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktr
 - mietrecht-mangel-minderung
 - workflow-fristen-ruecktritt-kuendigung
 - kaufrecht-nacherfuellung-ruecktritt-minderung
-

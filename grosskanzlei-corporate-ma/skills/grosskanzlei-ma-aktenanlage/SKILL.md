@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter."
+description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfrast..."
 ---
 
 # Freistehende M&A-Aktenanlage
@@ -232,4 +232,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
-

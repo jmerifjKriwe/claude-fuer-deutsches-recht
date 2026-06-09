@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 43c BRAO
 - §§ 2-15 FAO
 - § 5 FAO (Fallzahlen)
-

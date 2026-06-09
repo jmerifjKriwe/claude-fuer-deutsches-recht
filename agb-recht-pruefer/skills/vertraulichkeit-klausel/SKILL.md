@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Vertraulichkeit Klausel: prüft, redlined u
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

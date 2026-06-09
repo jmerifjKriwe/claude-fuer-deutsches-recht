@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 95 GVG
 - §§ 105-109 GVG
 - § 96 GVG (Antrag auf Verweisung)
-

@@ -133,7 +133,7 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `tracked-fristennotiz-naechster-schritt` | Tracked: Fristennotiz und nächster Schritt im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, San... |
 | `tracked-fristennotiz-und-naechster-schritt` | Tracked: Fristennotiz und nächster Schritt im Plugin nda abgleich im NDA-Abgleich. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für NDA-Abgleich: trennt fehlende Tatsachen von fehlenden Belegen (NDA-Entwurf, Mustervorlage, Vorvertrags-Korrespondenz), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatzna... |
-| `word` | Word im NDA-Abgleich im NDA-Abgleich. |
+| `word-zahlen-schwellen-und-berechnung` | Word: Zahlen, Schwellenwerte und Berechnung: Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich. |
 | `word-zahlen-schwellenwerte-berechnung` | Word: Zahlen, Schwellenwerte und Berechnung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im NDA-Abgleich. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im NDA-Abgleich. |

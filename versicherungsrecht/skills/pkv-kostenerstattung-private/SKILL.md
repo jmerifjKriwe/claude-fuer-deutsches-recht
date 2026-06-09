@@ -41,4 +41,3 @@ VVG §§ 192, 193, 194, 203; MB/KK; GOÄ/GOZ; BGB; ZPO medizinischer Sachverstä
 
 - datenschutz-schweigepflicht-gesundheitsdaten
 - krankentagegeld-berufsunfaehigkeit-abgrenzung
-

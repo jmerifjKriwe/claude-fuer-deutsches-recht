@@ -43,4 +43,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tabelle: Thema, tradierte Regel, Unsicherheit, spätere Fortbildung.
 - Warnhinweise gegen anachronistische Deutung.
 - Anschluss-Skills: Prozess, Familie/Erbe/Nachbarschaft, Delikte oder byzantinische Weiterentwicklung.
-

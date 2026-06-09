@@ -1,6 +1,6 @@
 ---
 name: digital-anschlussfaehigkeit-tauglich
-description: "Pruefskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER beA) Once-Only-Prinzip Schnittstellen Datenformate. Mustertexte zur Stellungnahme."
+description: "Pruefskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER beA) Once-Only-Prinzip Schnittstellen D..."
 ---
 
 # NKR-Digitaltauglichkeit / Digital-Anschlussfaehigkeit
@@ -131,4 +131,3 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 - Standards XOEV, FIM, ELSTER, beA — Spezifikationen jeweils aktueller Stand
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

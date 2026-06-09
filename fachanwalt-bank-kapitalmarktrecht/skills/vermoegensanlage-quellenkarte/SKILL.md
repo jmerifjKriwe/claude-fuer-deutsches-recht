@@ -11,17 +11,17 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Bank Kapitalmarktrecht** trag
 
 ## Suchraster
 
-- `fa-bank-kapitalmarkt-bk-bafin-chronologie`
+- `einstieg-schnelltriage-fallrouting`
 - `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`
 - `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`
 - `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`
 - `bankrecht-buergschaft-aval-garantieabruf-eilrechtsschutz`
 - `bankrecht-privatbuergschaft-bankrecht-regress-bk-aufsicht`
-- `beratungshaftung-haftung-beweislast-bk-cum`
+- `beratungshaftung-zahlen-schwellen-und-berechnung`
 - `bk-bankenfehlberatung-bk-einfuehrung-bk-mandantenrouting`
-- `bk-mifid-bk-prip-erstgespraech-mandatsannahme`
+- `bk-mifid-suitability-spezial`
 - `fehlerhaft-fristennotiz-kapitalmarktrecht-bk-emissionsprospekt`
-- `gesellschaftsrecht-interessen-micar-mifid`
+- `gesellschaftsrecht-mehrparteien-konflikt-und-interessen`
 - `kreditkuendigung-bgb-mica-stablecoin-ombudsmann-bafin`
 
 ## Prüfroute

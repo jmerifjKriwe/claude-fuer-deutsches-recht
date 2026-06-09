@@ -71,4 +71,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Anti-Halluzinations-Hinweis
 - **24 Monate** für § 18 InsO drohende ZU — nicht zu verwechseln mit 12 Monaten für § 19 InsO Überschuldungs-Fortbestehensprognose.
 - Pandemie-Sonderregelungen sind ausgelaufen — kein Bezug mehr auf 4 Monate.
-

@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "BRKI: Rollout-Trainings im Plugin Berufsrecht Ki Vertragspruefung: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termine, Fristen, eilbeduerftige Schritte? 4. Unterlagen: Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor? 5."
+description: "BRKI: Rollout-Trainings im Plugin Berufsrecht Ki Vertragspruefung: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termi..."
 ---
 
 # BRKI: Rollout-Trainings
@@ -40,4 +40,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

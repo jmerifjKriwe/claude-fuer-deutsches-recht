@@ -60,4 +60,3 @@ Wenn Wertgrenze nicht erreicht und keine laufenden Leistungen über mehr als ein
 
 - SG und LSG: Bürger dürfen sich selbst vertreten.
 - BSG: Vertretungszwang nach § 73 Abs. 4 SGG. Rechtzeitig Anwalt, Sozialverband oder zugelassene Vertretung prüfen.
-

@@ -32,4 +32,3 @@ description: "HOAI LPH 3 Entwurfsplanung: erstellt ein Qualitygate, bevor die n�
 - Praktischer Kern: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung
 - Bewertungsanker Gebäude/Innenräume: 15 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

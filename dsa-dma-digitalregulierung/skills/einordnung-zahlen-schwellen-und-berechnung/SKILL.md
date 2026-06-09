@@ -50,4 +50,3 @@ Gegenbeweis: Art. 3 Abs. 5 DMA — Marktbedingungen widerlegen die Gatekeeper-St
 
 ## Trade-off
 Schwellen sind Brutto-Größen — gerichtliche Überprüfung der Methodik (Definition aktiver Nutzer, Konsolidierungsgrenze) ist offen; Designated-Beschlüsse der Kommission werden vor dem EuG angegriffen. Die Marktkapitalisierungs-Schwelle macht auch wachstumsstarke Anbieter ohne hohen Umsatz erfassbar.
-

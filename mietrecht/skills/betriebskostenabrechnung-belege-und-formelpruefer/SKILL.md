@@ -23,4 +23,3 @@ description: "Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu fo
 2. Je Kostenart prüfen: umlagefähig, belegt, Zeitraum korrekt, Umlageschlüssel vereinbart/gesetzlich, Vorwegabzug, Leerstand, Nutzerwechsel.
 3. Heiz-/Warmwasserkosten gesondert nach HeizkostenV prüfen.
 4. Formelle Fehler von materiellen Fehlern trennen; nur das richtige Angriffsziel wählen.
-

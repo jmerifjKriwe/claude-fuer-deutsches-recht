@@ -47,4 +47,3 @@ Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freihei
 - Schriftleitergesetz 1933: RGBl. I 1933, 713 via ALEX/OeNB
 - GG Art. 5: gesetze-im-internet.de; BVerfGE: bverfg.de
 - BVerfGE 7, 198 und 20, 162: bverfg.de
-

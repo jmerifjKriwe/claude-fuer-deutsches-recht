@@ -77,4 +77,3 @@ Wenn ein Minderjährigenfall falsch gelöst wurde: (1) Richtige Norm identifizie
 - § 107 BGB (rechtlich vorteilhaft) oder § 110 BGB (Taschengeldparagraph) zutreffend?
 - Einwilligung oder Genehmigung — Zeitpunkt der Zustimmung beachtet?
 - § 111 BGB: Einseitige Rechtsgeschäfte ohne Einwilligung unwirksam?
-

@@ -64,4 +64,3 @@ Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Guts
 - VermG § 1 Abs. 8: gesetze-im-internet.de für Wortlaut
 - EGMR Jahn v. Germany (2005): ECHR-Datenbank (hudoc.echr.coe.int)
 - Bodenreform-Dokumente: SMAD-Befehl Nr. 209 im Bundesarchiv (Bestand DY 30)
-

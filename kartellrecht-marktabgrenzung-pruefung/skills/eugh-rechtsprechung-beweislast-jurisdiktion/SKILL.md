@@ -76,4 +76,3 @@ Alle Entscheidungen müssen mit dem konkreten Sachverhalt abgeglichen werden. An
 ## Kerneintscheidungen EuGH Wettbewerbsrecht (Chronologisch)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

@@ -83,4 +83,3 @@ Dieser Skill strukturiert die forensische Untersuchung von Spesenbetrug: von der
 - **Remediation-Maßnahmenplan** (Kontrolllücken schließen)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

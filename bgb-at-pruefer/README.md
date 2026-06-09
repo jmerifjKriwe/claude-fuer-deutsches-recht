@@ -73,7 +73,7 @@ Nutze für die Auswahl die automatisch gepflegte Übersicht unten. Die Skills si
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -159,7 +159,6 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `willenserklaerung-wucher-ausbeutung-zugang` | Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116... |
 | `wucher-und-ausbeutung-paragraph-138-2` | Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrig... |
 | `zugang-paragraph-130` | Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich des Empfängers, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf vor oder gleichzeitig mit Zugang, Empfangsbote, digitale Postfächer und Zugangsvere... |
-| `zugangsvereitelung-annahmeverweigerung` | Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im BGB AT. |
 | `zugangsvereitelung-und-annahmeverweigerung` | Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

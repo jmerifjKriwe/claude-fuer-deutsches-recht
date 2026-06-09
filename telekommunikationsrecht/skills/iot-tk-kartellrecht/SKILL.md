@@ -26,4 +26,3 @@ TKG; Cyber-/NIS2-Recht; DSGVO; Produktsicherheitsrecht.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

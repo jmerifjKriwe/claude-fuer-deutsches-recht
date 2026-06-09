@@ -33,4 +33,3 @@ Konkret zu prüfen:
 - § 31 StPO (Schöffen)
 - § 338 Nr. 3 StPO (absoluter Revisionsgrund)
 - BGHSt 21, 334 (objektiver Maßstab)
-

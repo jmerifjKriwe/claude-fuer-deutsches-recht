@@ -47,4 +47,3 @@ Kodifikation ist die planmäßige Zusammenfassung eines Rechtsgebiets in einem G
 - DDR-ZGB: GBl. I DDR 1975, 465
 - BGB aktuell: gesetze-im-internet.de
 - SchuRModG 2002: BGBl. I 2001, 3138
-

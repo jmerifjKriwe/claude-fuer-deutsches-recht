@@ -81,4 +81,3 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 - BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
 - BSG, staend. Rspr. zur Budget- und Verguetungsfestsetzung.
 - VwGO §§ 42, 80, 113.
-

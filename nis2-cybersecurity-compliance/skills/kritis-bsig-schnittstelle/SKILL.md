@@ -54,4 +54,3 @@ Erzeuge bevorzugt: KRITIS/NIS-2-Doppelspur-Matrix. Wenn der Nutzer nur eine Kurz
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

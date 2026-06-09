@@ -1,6 +1,6 @@
 ---
 name: waerme-quartier
-description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Prüfraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege im Energierecht."
+description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Prüfraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energie..."
 ---
 
 # Wärme, Quartier und Fernwärme
@@ -294,4 +294,3 @@ f) Wasserstoff-Heizung (eingeschränkt)
 - KfW-BEW-Förderrichtlinie 442
 - BMWK-Hinweise Wärmeplanung
 - Bayerische, NRW, Hessische GO-Vorschriften zu AuB-Satzung
-

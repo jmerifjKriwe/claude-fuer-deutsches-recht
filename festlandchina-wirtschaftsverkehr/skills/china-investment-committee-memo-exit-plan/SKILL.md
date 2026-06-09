@@ -1,6 +1,6 @@
 ---
 name: china-investment-committee-memo-exit-plan
-description: "Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix im Festlandchina Wirtschaftsverkehr."
+description: "Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlag..."
 ---
 
 # Investment-Committee-Memo China: Struktur und Anforderungen
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

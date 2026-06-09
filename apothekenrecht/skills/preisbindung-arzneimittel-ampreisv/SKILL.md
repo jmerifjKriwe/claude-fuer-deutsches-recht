@@ -100,4 +100,3 @@ Eingaben:
 - BGH, staend. Rspr. zur Preisbindung und Bonusaktionen; aktuelle Bestätigung zu Skonti-Vorschriften vom Anwender zu verifizieren.
 - ABDA-Stellungnahmen zur Apothekenhonorarreform (vom Anwender zu verifizieren).
 - BMG-Mitteilungen zur Apothekenreform.
-

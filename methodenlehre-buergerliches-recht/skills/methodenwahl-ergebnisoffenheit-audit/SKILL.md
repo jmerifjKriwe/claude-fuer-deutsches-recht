@@ -1,6 +1,6 @@
 ---
 name: methodenwahl-ergebnisoffenheit-audit
-description: "Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärkt die Integrität juristischer Argumentation."
+description: "Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärk..."
 ---
 
 # Methodenwahl-Audit: Ergebnisoffenheit prüfen
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 3 GG – Gleichheitssatz](https://dejure.org/gesetze/GG/3.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

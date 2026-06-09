@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-risiko
-description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Re..."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben
@@ -93,4 +93,3 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
-

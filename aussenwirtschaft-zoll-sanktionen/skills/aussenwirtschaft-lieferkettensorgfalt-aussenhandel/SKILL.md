@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lieferkettensorgfalt-aussenhandel
-description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Import-Lieferkette im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Im..."
 ---
 
 # Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU-CSDDD auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1760)
 - [VO (EU) 2017/821 Konfliktmineralien](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R0821)
 - [BAFA LkSG](https://www.bafa.de/DE/Lieferketten/lieferketten_node.html)
-

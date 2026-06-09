@@ -64,4 +64,3 @@ description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkei
 - https://www.gesetze-im-internet.de/bgb/__516.html
 - https://www.gesetze-im-internet.de/bgb/__518.html
 - https://www.gesetze-im-internet.de/bgb/__530.html
-

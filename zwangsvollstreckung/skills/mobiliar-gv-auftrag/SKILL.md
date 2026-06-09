@@ -1,6 +1,6 @@
 ---
 name: mobiliar-gv-auftrag
-description: "Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung) im Zwangsvollstreckung."
+description: "Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 Z..."
 ---
 
 # Mobiliar-Pfändung durch den Gerichtsvollzieher
@@ -71,4 +71,3 @@ Die häufigsten Fehlbewertungen:
 - Niemals Durchsuchung ohne § 758a ZPO Anordnung, wenn Schuldner Einlass verweigert.
 - Niemals Verwertung von Hochzeitsringen oder Tieren.
 - Bei Selbstständigen: Berufsausübungsschutz bedenken, sonst Existenzgefährdung mit § 765a-Risiko.
-

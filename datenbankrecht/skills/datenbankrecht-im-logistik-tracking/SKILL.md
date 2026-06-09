@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-im-logistik-tracking
-description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister im Datenbankrecht."
+description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und L..."
 ---
 
 # Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e Ur
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
-

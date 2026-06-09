@@ -46,4 +46,3 @@ description: "DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung,
 ## Qualitätsgate
 
 Fristen, Gebühren und Zuständigkeit live bei DPMA/BPatG prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugänglicher Quelle zitieren.
-

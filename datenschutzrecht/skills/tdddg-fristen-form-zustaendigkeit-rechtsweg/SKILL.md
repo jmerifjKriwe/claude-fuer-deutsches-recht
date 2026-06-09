@@ -1,6 +1,6 @@
 ---
 name: tdddg-fristen-form-zustaendigkeit-rechtsweg
-description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..."
 ---
 
 # Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -32,4 +32,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praxis-Trade-off
 - Cookie-Banner mit "Alle ablehnen" auf erster Ebene wird von DSK und mehreren Aufsichtsbehörden gefordert; rein "Akzeptieren / Einstellungen" ist angreifbar.
 - Nudging (Farbgebung, vorausgewählte Häkchen) hebelt die Freiwilligkeit aus — siehe EuGH "Planet49" (Urteil vom 01.10.2019, C-673/17).
-

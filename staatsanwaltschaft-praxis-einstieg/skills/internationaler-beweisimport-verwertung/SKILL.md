@@ -32,4 +32,3 @@ Konkret zu prüfen:
 - §§ 73-77 IRG (Übernahme ausländischer Beweise)
 - RL 2014/41/EU (EEA)
 - EuGH C-670/22
-

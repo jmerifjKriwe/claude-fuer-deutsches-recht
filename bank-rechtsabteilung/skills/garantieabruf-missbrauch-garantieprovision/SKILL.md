@@ -96,4 +96,3 @@ Erzeuge je nach Auftrag:
 - `sanktionsscreening-embargo-bank`
 - `kreditsicherheiten-bestellung-verwertung`
 - `externe-anwaelte-steuerung`
-

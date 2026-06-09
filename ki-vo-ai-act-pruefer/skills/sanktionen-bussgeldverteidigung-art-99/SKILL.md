@@ -37,4 +37,3 @@ Erstelle eine aktuelle Matrix aus dem Verordnungstext:
 - nachweisbares Compliance-System;
 - schnelle Abhilfe;
 - unklare Leitlinienlage.
-

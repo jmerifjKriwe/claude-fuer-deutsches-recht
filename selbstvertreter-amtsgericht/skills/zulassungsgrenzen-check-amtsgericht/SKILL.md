@@ -63,4 +63,3 @@ Nach Urteil:
 | über 1.000 EUR | Berufung grundsätzlich statthaft |
 | bis 1.000 EUR und Berufung zugelassen | Berufung statthaft |
 | bis 1.000 EUR und nicht zugelassen | Berufung grundsätzlich nicht statthaft |
-

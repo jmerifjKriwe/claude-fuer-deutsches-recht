@@ -86,4 +86,3 @@ Dieser Skill entwickelt eine maßgeschneiderte Behördenstrategie, die Kooperati
 - **BaFin-Gesprächsvorbereitung**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

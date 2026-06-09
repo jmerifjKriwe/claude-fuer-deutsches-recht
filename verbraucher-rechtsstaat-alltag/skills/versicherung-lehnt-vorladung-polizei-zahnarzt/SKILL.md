@@ -64,4 +64,3 @@ Erzeuge Ablehnungsanalyse, Nachforderungsbrief, Ombudsmann-Plan und Beweisübers
 ## Prompts, die dieser Skill stellen soll
 
 - Versicherungstyp, Schaden, Meldung, Ablehnung, Bedingungen vorhanden?
-

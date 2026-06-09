@@ -125,4 +125,3 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 Abs. 2 SGG aktuell.
-

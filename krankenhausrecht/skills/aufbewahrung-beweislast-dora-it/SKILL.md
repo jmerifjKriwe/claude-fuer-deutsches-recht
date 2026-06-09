@@ -85,4 +85,3 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - MBO-Aerzte § 10.
 - BGH, staend. Rspr. zur Aufbewahrungsdauer (Haftungsverjaehrung).
 - GoBD, DSGVO Art. 5, 17, 18.
-

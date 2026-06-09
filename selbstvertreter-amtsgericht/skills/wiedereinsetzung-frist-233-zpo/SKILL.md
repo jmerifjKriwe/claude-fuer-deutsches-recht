@@ -158,4 +158,3 @@ Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstre
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 233 ff. ZPO unveraendert. BGH-Linie zur Eigenverantwortung stabil.
-

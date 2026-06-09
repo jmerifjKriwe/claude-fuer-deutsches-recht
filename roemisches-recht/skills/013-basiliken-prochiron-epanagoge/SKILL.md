@@ -51,4 +51,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welches Werk?
 2. Welche Zeit?
 3. Welche Wirkung?
-

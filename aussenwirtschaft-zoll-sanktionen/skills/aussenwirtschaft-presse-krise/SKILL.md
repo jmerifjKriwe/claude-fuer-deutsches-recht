@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-presse-krise
-description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung un..."
 ---
 
 # Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Exportkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
 - [OWiG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/index.html)
 - [DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679)
-

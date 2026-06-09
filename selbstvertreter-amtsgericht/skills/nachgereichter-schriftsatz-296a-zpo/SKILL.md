@@ -121,4 +121,3 @@ Wenn im Termin neuer Vortrag der Gegenseite kommt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
-

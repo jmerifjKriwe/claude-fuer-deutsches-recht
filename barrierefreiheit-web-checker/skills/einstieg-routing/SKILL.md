@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zuständigkeit (BFA (Bundesfachstelle Barrierefreiheit)), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zuständigkeit (BFA (Bundesfachstelle Barrierefreiheit)), leitet..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt z
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

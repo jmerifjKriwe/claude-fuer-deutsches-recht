@@ -1,6 +1,6 @@
 ---
 name: kommunikationssperre
-description: "Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR."
+description: "Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarb..."
 ---
 
 # Kommunikationssperre nach Datenschutzvorfall
@@ -39,4 +39,3 @@ Wir prüfen derzeit einen Vorfall im Bereich [Bezeichnung]. Datenschutz und Sich
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-

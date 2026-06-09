@@ -35,4 +35,3 @@ description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet
 ## Warnung
 
 Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis, zur Verdachtsbegründung oder zur Einsatzentscheidung mutieren.
-

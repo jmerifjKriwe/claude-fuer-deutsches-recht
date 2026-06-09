@@ -57,4 +57,3 @@ Hat sich der Beklagte rügelos auf eine andere Kammer eingelassen (§ 39 ZPO), w
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

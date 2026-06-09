@@ -95,4 +95,3 @@ Wenn LG oder Telematik-Dienstleister Daten im Auftrag des LN verarbeitet:
 - **Betriebsvereinbarungs-Muster**: Telematik-Nutzung Fahrzeuge
 - **Informationsschreiben**: Art. 13 DSGVO für Fahrer
 - **AVV-Klausel-Muster**: LN mit Telematik-Dienstleister
-

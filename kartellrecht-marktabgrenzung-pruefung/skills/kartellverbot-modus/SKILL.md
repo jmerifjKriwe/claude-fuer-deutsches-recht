@@ -74,4 +74,3 @@ GVO anwendbar?: [ja → VO-Nummer / nein]
 Art. 101 Abs. 3 Freistellung: [prüfen / nicht relevant]
 Ergebnis: [verboten / freigestellt / zweifelhaft]
 ```
-

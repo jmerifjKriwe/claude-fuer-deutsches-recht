@@ -32,4 +32,3 @@ Das Bundesverfassungsgericht beanstandet regelmäßig, wenn Gerichte eine Äuße
 - Der Betroffene versteht die Äußerung subjektiv schlimmer als das Publikum.
 - Ironie wird wörtlich genommen.
 - Ein früherer Streit wird ignoriert, obwohl er für alle Rezipienten erkennbar war.
-

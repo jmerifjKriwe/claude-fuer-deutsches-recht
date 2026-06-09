@@ -1,6 +1,6 @@
 ---
 name: schriftsaetzen
-description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nummerieren und als PDF-Konvolut aufbereiten. Anlagemanagement gerichtliche Schriftsaetze. Prüfraster: Schriftsatz lesen Beweisstuecke erkennen sortieren beA-konforme Benennung (Anlage K1 B1 A1) PDF-Konvertierung Stempel oben rechts Arial 12. Modi Auto-Benennung Schriftsatz folgt Prüfmodus. Output: nummeriertes Anlagenpaket in beA-Konvention. Abgrenzung zu anlagen-erstellen im Sozialrecht (K/W/A-Konvention) und normenkontrollantrag-schriftsatz."
+description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nummerieren und als PDF-Konvolut aufbereiten. Anlagemanagement gerichtliche Schriftsaetze. Prüfraster: Schriftsatz lesen Beweisstuecke erkennen sortieren beA-konforme Benennung (Anlage K1 B1 A1) PDF-Konvertierung Stempel oben rechts..."
 ---
 
 # Zuordnung von Anlagen zu gerichtlichen Schriftsätzen
@@ -128,4 +128,3 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 ---
 
 Hinweis: Die Letztverantwortung für Vollständigkeit, Tatsachenvortrag, Verschwiegenheit (§ 43a BRAO, § 203 StGB), Datenschutz und Versand liegt beim Anwalt.
-

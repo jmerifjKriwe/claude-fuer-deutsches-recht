@@ -26,4 +26,3 @@ OWiG; Fachgesetz-Bußgeldnorm; VwVfG; Compliance-Dokumentation.
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

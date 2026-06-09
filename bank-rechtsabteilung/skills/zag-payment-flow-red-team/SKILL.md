@@ -60,4 +60,3 @@ Behandle Ausnahmen als Verteidigungslinie, nicht als Ausgangspunkt.
 ## Quellenanker
 
 Nutze `references/zag-dora-inhkontrolle-crr-arbeitskern.md` und prüfe vor tragenden Aussagen die aktuelle ZAG-Fassung bei Gesetze im Internet sowie das aktuelle BaFin-Merkblatt zu ZAG und Zahlungsdiensten.
-

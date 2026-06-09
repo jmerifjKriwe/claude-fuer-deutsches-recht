@@ -104,4 +104,3 @@ Tragende Normen live prüfen: InsO §§ 335, 343, 346 bis 348, GBO § 29, GmbHG 
 - BFH II R 19/01
 - BGH IV ZR 66/25
 - BGH II ZR 206/22
-

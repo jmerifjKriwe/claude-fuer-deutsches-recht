@@ -1,6 +1,6 @@
 ---
 name: dpa-en-tom-annex-template
-description: "English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001 SOC 2 and BSI C5 alignment."
+description: "English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001..."
 ---
 
 # TOM Annex – English Template (Article 32 GDPR)
@@ -136,4 +136,3 @@ ________________________________ ____________________________
 - SOC 2 Trust Services Criteria (AICPA, 2017, as amended).
 - Citation rules: `../../../references/zitierweise.md`.
 ```
-

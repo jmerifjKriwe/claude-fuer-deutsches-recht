@@ -48,4 +48,3 @@ Eine strukturierte Quellenmatrix systematisiert die relevanten Quellen für inte
 - Verifikation: jede Norm mit Fundstelle und Datum der Abrufung belegen
 - Schiedssprüche: immer ICC-Award-Nummer und Jahr angeben; nicht nur Beschreibung
 - Soft Law: explizit als nicht verbindlich kennzeichnen; Einbeziehungsnachweis prüfen
-

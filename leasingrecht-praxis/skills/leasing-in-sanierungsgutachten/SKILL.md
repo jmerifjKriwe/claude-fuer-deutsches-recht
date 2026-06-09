@@ -107,4 +107,3 @@ Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswi
 - **Cashflow-Leasing**: Zahlungsplan alle Verträge (Rate, Restwert, Fälligkeit)
 - **Sanierungsmaßnahmen-Matrix**: Option – Effekt – Kosten – Zeitplan
 - **IFRS-16-vs-HGB-Vergleich**: Bilanzielle Darstellung im Plan
-

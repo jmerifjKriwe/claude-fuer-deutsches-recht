@@ -25,4 +25,3 @@ Dieser Fehlerkatalog prüft im Bereich **Jveg Kostenpruefer** Ergebnisse vor Abg
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

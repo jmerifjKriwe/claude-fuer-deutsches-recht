@@ -58,4 +58,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - § 263 III StGB Betrug: insbesondere gewerbsmaessig / Vermoegensverlust grosseren Ausmasses (regelmaessig ab 50.000 EUR; BGH-Linie).
  - § 244 I Nr. 2 StGB: bandenmäßiger Diebstahl.
 - **Verbundene Verfahren** § 4 StPO: gemeinsame Tat, gemeinsame Verhandlung; Trennung § 4 II StPO bei Interessenkollision.
-

@@ -48,4 +48,3 @@ Ein Hinweis "KI-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzuläs
 
 - BGH VI ZR 36/20
 - BGH VIII ZR 78/20
-

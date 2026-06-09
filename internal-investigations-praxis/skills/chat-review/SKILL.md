@@ -83,4 +83,3 @@ Dieser Skill sichert alle relevanten Chat-Kommunikationen rechtssicher, wertet s
 - **Regulatorische Archivierungsliste** (MiFID II, BaFin)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

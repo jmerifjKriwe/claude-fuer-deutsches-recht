@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Hauseigentümerwechsel (§ 566 BGB):** "Kauf bricht nicht Miete." Erwerber tritt automatisch in laufendes Mietverhältnis ein. Antwortrahmen: Mitteilung des neuen Eigentümers, Zahlung bis Mitteilung an Voreigentümer schuldbefreiend (§ 408 BGB).
 - **Kautionsrückforderung (§ 551 BGB):** Anspruch auf Rückzahlung nach Mietende und Abrechnung. Vermieter darf "angemessene" Zeit (Rspr.: bis sechs Monate) zur Prüfung von Forderungen behalten; konkret bestrittene Schadensersatzansprüche dürfen länger zurückbehalten werden.
 - **Datenschutz (Art. 15 DSGVO):** Mieter hat Auskunftsanspruch über gespeicherte personenbezogene Daten; Vermieter muss innerhalb eines Monats antworten. Bei Hausverwaltung: Vermieter bleibt Verantwortlicher, Verwaltung ist Auftragsverarbeiter (AVV erforderlich).
-

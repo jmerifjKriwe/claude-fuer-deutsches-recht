@@ -41,4 +41,3 @@ VAG; IDD; Solvency II; EIOPA-Veröffentlichungen live prüfen; Rom-I/Brüssel-Ia
 
 - vag-bafin-aufsicht-beschwerde-missstand
 - deckungsprozess-zuständigkeit-215-vvg
-

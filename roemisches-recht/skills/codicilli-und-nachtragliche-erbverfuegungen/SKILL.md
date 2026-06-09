@@ -47,4 +47,3 @@ description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen 
 1. Codicilli vorhanden?
 2. Bezug zum Testament?
 3. Inhalt zulaessig?
-

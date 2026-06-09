@@ -33,4 +33,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Vorgehen: 1) Anspruchsschreiben an Airline mit kurzer Frist (2-3 Wochen), 2) bei Ablehnung Schlichtung söp/BAF oder Klage AG Abflug/Ankunft, 3) Aufrechnung mit Erstattung Flugticket möglich.
 - Kostenrisiko: AG-Klage bis 5.000 EUR ohne Anwaltszwang; ab 5.000 EUR LG. RA-Gebühren auf Mandantenseite oft niedriger als Inkasso-Provision (15-30 %).
 - Kein Anspruch bei außergewöhnlichen Umständen (Art. 5 Abs. 3 VO 261/2004): aber eng auszulegen — technische Defekte sind grds. kein außergewöhnlicher Umstand (EuGH Wallentin-Hermann).
-

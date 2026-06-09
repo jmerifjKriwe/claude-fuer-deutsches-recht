@@ -196,4 +196,3 @@ Offene Punkte: [TODO Owner Datum]
 
 - assets/templates/transaktionsstruktur-options.md
 - assets/templates/carve-out-structure-plan.md
-

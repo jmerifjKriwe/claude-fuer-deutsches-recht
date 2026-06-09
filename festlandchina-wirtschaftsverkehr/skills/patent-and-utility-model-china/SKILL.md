@@ -1,6 +1,6 @@
 ---
 name: patent-and-utility-model-china
-description: "Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan im Festlandchina Wirtschaftsverkehr."
+description: "Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie C..."
 ---
 
 # Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

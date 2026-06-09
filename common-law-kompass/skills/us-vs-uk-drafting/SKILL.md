@@ -1,6 +1,6 @@
 ---
 name: us-vs-uk-drafting
-description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass."
+description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinwe..."
 ---
 
 # UK vs US Drafting
@@ -121,4 +121,3 @@ JURISDICTION-SPEZIFISCHE CHECKLISTE
 
 LOCAL-COUNSEL-EMPFEHLUNG: [Ja / Nein / Fuer Teilbereiche]
 ```
-

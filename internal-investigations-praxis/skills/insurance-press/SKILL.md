@@ -83,4 +83,3 @@ Dieser Skill stellt sicher, dass alle relevanten Versicherungsmeldungen rechtzei
 - **Deckungsstreit-Eskalationsplan**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

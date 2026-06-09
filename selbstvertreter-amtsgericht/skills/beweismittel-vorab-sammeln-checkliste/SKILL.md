@@ -143,4 +143,3 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
-

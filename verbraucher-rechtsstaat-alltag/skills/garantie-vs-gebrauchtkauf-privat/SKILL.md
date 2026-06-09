@@ -64,4 +64,3 @@ Erzeuge Vergleichstabelle Garantie/Gewährleistung, Händlerbrief und Hersteller
 ## Prompts, die dieser Skill stellen soll
 
 - Kaufdatum, Mangel, Garantieheft, Händler, Herstellerreaktion?
-

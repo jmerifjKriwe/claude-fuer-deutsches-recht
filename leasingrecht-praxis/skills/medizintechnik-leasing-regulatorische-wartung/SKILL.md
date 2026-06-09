@@ -103,4 +103,3 @@ Der **Betreiber** ist gemäß MPBetreibV diejenige Person oder Organisation, die
 - **Wartungsplan-Vorlage**: STK/MTK-Kalender für Medizintechnik
 - **Vorkommnis-Meldungsschema**: MPDG §§ 85 ff.
 - **Leasingvertrag-Check**: Wartungsklausel, Rückgabe, Minderwert
-

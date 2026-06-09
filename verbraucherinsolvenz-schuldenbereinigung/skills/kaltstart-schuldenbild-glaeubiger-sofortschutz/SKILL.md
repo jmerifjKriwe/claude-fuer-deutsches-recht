@@ -1,6 +1,6 @@
 ---
 name: kaltstart-schuldenbild-glaeubiger-sofortschutz
-description: "Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung."
+description: "Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und..."
 ---
 
 # Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
@@ -17,4 +17,3 @@ Dieser Skill arbeitet im Plugin **Verbraucherinsolvenz und Schuldenbereinigung**
 ## Norm- und Praxisanker
 
 InsO §§ 304-314, 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-

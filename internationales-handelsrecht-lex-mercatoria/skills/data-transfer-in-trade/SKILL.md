@@ -48,4 +48,3 @@ Internationale Handelsverträge beinhalten häufig Datenaustausch (Kundendaten, 
 - SCC-Modul-Wahl: C2C (beide Verantwortliche), C2P (Verantwortlicher → Auftragsverarbeiter)
 - TIA-Dokumentation: Rechtslage des Empfängerlandes (Geheimdienste, Zugriff) bewerten
 - Handelsvertrag: DPA nach Art. 28 DSGVO als Anhang einbinden
-

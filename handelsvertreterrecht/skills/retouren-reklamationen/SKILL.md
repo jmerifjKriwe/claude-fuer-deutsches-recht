@@ -1,6 +1,6 @@
 ---
 name: retouren-reklamationen
-description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer im Handelsvertreterrecht."
+description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unter..."
 ---
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 312 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312.html)
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-royalties-assists
-description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherhebung. Output: Zollwert-Analyse mit Royalty-Pruefpfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherheb..."
 ---
 
 # Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK-DA Art. 136 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
 - [Zoll.de Zollwert](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollwert/zollwert_node.html)
 - [WTO Valuation Agreement](https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm)
-

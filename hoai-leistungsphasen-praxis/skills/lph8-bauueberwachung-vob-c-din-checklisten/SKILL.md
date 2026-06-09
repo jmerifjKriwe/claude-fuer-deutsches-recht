@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle im Hoai Leistungsphasen Praxis."
+description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRada..."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
@@ -87,4 +87,3 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
-

@@ -64,4 +64,3 @@ Erzeuge Anspruchsroute Verkäufer/Paketdienst, Nachbarprotokoll, Reklamation und
 ## Prompts, die dieser Skill stellen soll
 
 - Abstellort erlaubt, Foto, Zustellscan, Nachbar, Händlerreaktion?
-

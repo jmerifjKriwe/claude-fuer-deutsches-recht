@@ -1,6 +1,6 @@
 ---
 name: aenderungsmodus-compliance-dokumentation
-description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
 ---
 
 # Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk
@@ -59,4 +59,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Leitentscheidungen
 
 - EuGH C-435/22
-

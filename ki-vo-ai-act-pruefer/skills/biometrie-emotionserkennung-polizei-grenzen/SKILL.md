@@ -29,4 +29,3 @@ Dieser Skill trennt biometrische Identifizierung, biometrische Kategorisierung, 
 ## Warnung
 
 Bei biometrischen Systemen reicht ein allgemeiner "Security"-Zweck nie. Der konkrete Ort, Zweck, Personenkreis und Entscheidungsbezug müssen sauber feststehen.
-

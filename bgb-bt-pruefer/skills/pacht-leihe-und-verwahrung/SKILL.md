@@ -67,4 +67,3 @@ Pachtverhältnisse (§§ 581 ff. BGB), Leihe (§§ 598 ff. BGB) und Verwahrung (
 - https://www.gesetze-im-internet.de/bgb/__581.html
 - https://www.gesetze-im-internet.de/bgb/__598.html
 - https://www.gesetze-im-internet.de/bgb/__688.html
-

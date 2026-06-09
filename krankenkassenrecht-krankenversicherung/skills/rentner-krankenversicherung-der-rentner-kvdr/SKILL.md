@@ -87,4 +87,3 @@ Die Krankenversicherung der Rentner (KVdR) regelt die GKV-Pflichtmitgliedschaft 
 - [BSG B 12 KR 10/17 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de)
 - [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)
-

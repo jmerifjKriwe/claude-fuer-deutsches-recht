@@ -113,4 +113,3 @@ Stand: 05/2026.
 - StGB § 203.
 - Schrems II-Urteil EuGH.
 - DSK-Beschluesse.
-

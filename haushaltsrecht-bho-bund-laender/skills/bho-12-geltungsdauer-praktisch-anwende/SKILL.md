@@ -1,6 +1,6 @@
 ---
 name: bho-12-geltungsdauer-praktisch-anwende
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer praktisch anwenden. BHO § 12 Geltungsdauer praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer praktisch anwenden. BHO § 12 Geltungsdauer praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret d..."
 ---
 
 # Bho 12 Geltungsdauer Praktisch Anwende
@@ -56,4 +56,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer prakt
 - Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung pruefen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-

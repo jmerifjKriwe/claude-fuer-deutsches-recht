@@ -11,18 +11,18 @@ Dieses Anschluss-Routing für **Fachanwalt Urheber Medienrecht** wählt nach dem
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `erstgespraech-mandatsannahme-fachanwalt` — Erstgespraech Mandatsannahme Fachanwalt
-- `fa-urheber-medien-mandant-redteam-gate` — FA Urheber Medien Mandant Redteam Gate
-- `fa-urheber-medien-start-chronologie-fristen` — FA Urheber Medien Start Chronologie Fristen
-- `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
+- `abmahnung-sonderfall-edge-case` — Abmahnung Sonderfall Bild Eigenen
+- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Fachanwalt
+- `workflow-mandantenkommunikation` — FA Urheber Medien Mandant Redteam Gate
+- `einstieg-schnelltriage-fallrouting` — FA Urheber Medien Start Chronologie Fristen
+- `erstpruefung-und-mandatsziel` — Fachanwalt Gewerblicher Kanzlei
 - `filesharing-stoererhaftung` — Filesharing Stoererhaftung
 - `filmrecht-paragraf-89-urhg` — Filmrecht Paragraf 89 Urhg
 - `gegendarstellung-fehlerkatalog` — Gegendarstellung Fehlerkatalog
-- `gegendarstellung-presse-mandat-triage` — Gegendarstellung Presse Mandat Triage
-- `gegendarstellung-presse-mod-erklaerung` — Gegendarstellung Presse MOD Erklaerung
+- `gegendarstellung-presse` — Gegendarstellung Presse Mandat Triage
+- `gegendarstellung-presse` — Gegendarstellung Presse MOD Erklaerung
 - `link-haftung-paragraf-7-tmg` — Link Haftung Paragraf 7 TMG
-- `medienrecht-lizenzvertrag-urhmr` — Medienrecht Lizenzvertrag Urhmr
+- `medienrecht-fristen-form-und-zustaendigkeit` — Medienrecht Lizenzvertrag Urhmr
 - `medienstaatsvertrag-quellenkarte` — Medienstaatsvertrag Quellenkarte
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
@@ -61,4 +61,3 @@ Dieses Anschluss-Routing für **Fachanwalt Urheber Medienrecht** wählt nach dem
 ### Leitentscheidungen
 
 - EuGH C-682/18
-

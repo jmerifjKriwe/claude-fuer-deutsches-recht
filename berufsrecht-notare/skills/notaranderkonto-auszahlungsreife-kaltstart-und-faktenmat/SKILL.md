@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - DONot § 11
 - § 23 BNotO
 - DONot § 12
-

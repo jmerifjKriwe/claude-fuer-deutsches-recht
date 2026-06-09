@@ -76,4 +76,3 @@ Bei Veränderung von Versorgungszusagen sind drei Eingriffsklassen zu unterschei
 
 - Pauschale Schließung des Versorgungswerks ohne saubere Stichtagsregelung; Folge: Streit über Stichtag und einzelne Übergangsregelung.
 - "Künftiger Zuwachs" wird als Stufe 3 behandelt, obwohl er dienstzeitabhängig ist (Stufe 2).
-

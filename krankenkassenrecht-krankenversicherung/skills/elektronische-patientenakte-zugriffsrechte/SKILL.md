@@ -91,4 +91,3 @@ Die elektronische Patientenakte (ePA) wird ab 2025 für alle GKV-Versicherten an
 - [BfDI ePA-Stellungnahmen](https://www.bfdi.bund.de)
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
 - [dejure.org § 341 SGB V](https://dejure.org/gesetze/SGB_V/341.html)
-

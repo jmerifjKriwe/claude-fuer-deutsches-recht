@@ -1,6 +1,6 @@
 ---
 name: richtlinienkonforme-auslegung-grenzen
-description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung."
+description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen..."
 ---
 
 # Richtlinienkonforme Auslegung und ihre Grenzen
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

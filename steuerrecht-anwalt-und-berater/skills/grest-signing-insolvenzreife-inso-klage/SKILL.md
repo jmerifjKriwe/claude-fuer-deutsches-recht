@@ -1,6 +1,6 @@
 ---
 name: grest-signing-insolvenzreife-inso-klage
-description: "GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung im Steuerrecht Anwalt Und Berater."
+description: "GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung im Steuerrecht Anwalt Und B..."
 ---
 
 # GrESt: Signing, Closing und Doppelfestsetzung
@@ -52,4 +52,3 @@ Nicht blind "keine GrESt" schreiben. Besser:
 ## No-Go
 
 Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der aktuelle Stand ist differenziert und verfahrensabhängig.
-

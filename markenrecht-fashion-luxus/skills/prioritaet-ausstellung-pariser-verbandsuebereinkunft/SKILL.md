@@ -36,4 +36,3 @@ description: "Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanme
 ## Qualitätsgate
 
 Fristen und Formalia live bei DPMA, EUIPO, WIPO oder nationalem Amt prüfen.
-

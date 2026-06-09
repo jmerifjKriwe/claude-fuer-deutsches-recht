@@ -76,4 +76,3 @@ vertraut hätte. Deckelung auf das positive Interesse (§ 122 Abs. 1 a.E. BGB) v
 - Rückabwicklung nach § 812 BGB bei vollzogenen Leistungen?
 - § 122 BGB: Schadensersatz nur bei gutgläubigem Empfänger?
 - Kein Schadensersatz, wenn Empfänger den Anfechtungsgrund kannte (§ 122 Abs. 2 BGB)?
-

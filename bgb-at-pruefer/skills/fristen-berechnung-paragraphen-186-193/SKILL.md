@@ -77,4 +77,3 @@ Der Tag des Ereignisses (Beendigungsdatum) zählt nicht, die Frist zählt rückw
 - Feiertags- und Wochenendregelung nach § 193 BGB beachtet?
 - Anfechtungsfristen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr) — Fristbeginn?
 - Verjährungsfristen: § 199 Abs. 1 BGB — Entstehung und Kenntnis als Doppelerfordernis?
-

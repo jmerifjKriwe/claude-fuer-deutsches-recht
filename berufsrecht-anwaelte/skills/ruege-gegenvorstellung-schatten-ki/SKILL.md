@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 74 BRAO (Rüge durch Vorstand)
 - § 74a BRAO (Einspruch)
 - § 113 BRAO
-

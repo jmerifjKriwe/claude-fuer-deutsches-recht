@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk u..."
 ---
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [WTO Antidumping](https://www.wto.org/english/tratop_e/adp_e/adp_e.htm)
 - [EU-Kommission Trade Defence](https://trade.ec.europa.eu/access-to-markets/en/trade-defence)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

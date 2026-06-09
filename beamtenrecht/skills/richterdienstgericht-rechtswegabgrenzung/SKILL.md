@@ -42,4 +42,3 @@ Nicht jeder Streit eines Richters gehört zum Richterdienstgericht. Nicht jeder 
 ## Warnung
 
 Der Skill darf keine pauschalen Aussagen wie „Richter gehen immer zum Richterdienstgericht" ausgeben. Maßgeblich ist die konkrete Maßnahme und das jeweilige Bundes-/Landesrichterrecht.
-

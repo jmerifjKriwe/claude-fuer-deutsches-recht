@@ -85,4 +85,3 @@ Liefere:
 ## Quellenregel
 
 Tragende Normen live prüfen: InsO §§ 335 ff., 343, 346 bis 348, EuInsVO, GBO § 29, GmbHG §§ 15, 40, BGB §§ 873, 925, 311b. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

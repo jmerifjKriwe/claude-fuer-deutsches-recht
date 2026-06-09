@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-wrackpflicht-versicherung
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651..."
 ---
 
 # Schiffbauwerk – Wrackbeseitigungspflicht prüfen
@@ -96,4 +96,3 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 - WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
 - BSH: https://www.bsh.de
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
-

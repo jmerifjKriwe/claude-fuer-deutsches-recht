@@ -220,4 +220,3 @@ Datum: [DATUM]
 - § 15b InsO (Zahlungsverbot bei Insolvenzreife seit 01.01.2021; rechtsformneutral): https://www.gesetze-im-internet.de/inso/__15b.html
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-

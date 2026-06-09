@@ -1,6 +1,6 @@
 ---
 name: organrollen-vorstand-aufsichtsrat-versammlungsleiter
-description: "Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspre..."
 ---
 
 # Organrollen Vorstand Aufsichtsrat Versammlungsleiter
@@ -40,4 +40,3 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
 4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
 5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
-

@@ -138,4 +138,3 @@ Anmerkungen: [Besonderheiten]
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `workflow-fristen-und-risikoampel` – Fristenworkflow
 - `evvollzug-neu-001` – EV-Vollziehungsfrist
-

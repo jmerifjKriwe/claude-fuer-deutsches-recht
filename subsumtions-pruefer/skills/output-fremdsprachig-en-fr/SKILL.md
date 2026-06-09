@@ -76,4 +76,3 @@ Für Sachverhalte mit Bezug zu EU-Institutionen (EuGH, Kommission, Rat) empfiehl
 - Schiedsverfahren: Sprachregelung in der Schiedsklausel beachten (§ 1045 ZPO; ICC-Regeln; DIS-Regeln)
 - Gerichtsstand und Zustellungsfragen: EuGVVO (VO 1215/2012), HZÜ, EuZVO — live prüfen
 - Ausländisches Recht wird nicht angewendet; bei Kollisionsrechtsfragen Verweis auf IPR (EGBGB, Rom I-VO, Rom II-VO)
-

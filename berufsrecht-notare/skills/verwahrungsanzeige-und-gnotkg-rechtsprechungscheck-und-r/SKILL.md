@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - §§ 19, 23, 127 GNotKG
 - Anlage 1 KV-GNotKG
-

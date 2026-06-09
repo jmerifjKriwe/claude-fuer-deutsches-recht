@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Kündigungsfiktion und Nachfrist 308
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

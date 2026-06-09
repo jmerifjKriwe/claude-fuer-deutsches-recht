@@ -43,4 +43,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Kaiserrecht einordnen:** Gesetzgebung als Verbindung von Reichsordnung und christlicher Normativität.
 4. **Soziale Realität beachten:** Status, Geschlecht, Familie, Vermögen und Herrschaftsstruktur nicht glätten.
 5. **Vergleich sauber halten:** klassisch, justinianisch, byzantinisch und modern getrennt ausgeben.
-

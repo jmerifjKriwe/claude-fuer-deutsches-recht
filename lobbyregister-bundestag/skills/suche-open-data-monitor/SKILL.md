@@ -57,4 +57,3 @@ Bei Zweigniederlassungen ist zwingend ein Suchlauf auf Rechtstraegername, Nieder
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - API-Ausgaben werden nicht als Portal-Einreichung oder automatische Registeraenderung dargestellt.
-

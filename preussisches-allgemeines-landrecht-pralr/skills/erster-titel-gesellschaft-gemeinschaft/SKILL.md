@@ -42,4 +42,3 @@ A leiht Sense von B; verschwindet im Heuschober.
 1. Welcher Realvertrag?
 2. Haftungsgrad?
 3. Aufwendungsersatz?
-

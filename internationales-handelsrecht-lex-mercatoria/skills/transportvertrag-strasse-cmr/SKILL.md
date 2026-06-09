@@ -49,4 +49,3 @@ Das CMR-Übereinkommen (Convention relative au contrat de transport internationa
 - Haftungsgrenze-Kalkulation: 8,33 SZR × Bruttogewicht; bei wertvoller Ware: Art. 24 Wertdeklaration
 - Reklamationsfristen: sofort bei sichtbaren Schäden; 7 Tage für verdeckte; im CMR-Frachtbrief notieren
 - Verjährung: 1 Jahr ab Ablieferung oder erwarteter Ablieferung
-

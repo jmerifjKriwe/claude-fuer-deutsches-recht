@@ -58,4 +58,3 @@ Fuer jedes Feld angeben:
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - Die API wird nur als spaetere Kontrollquelle beschrieben, nicht als Einreichungsweg.
-

@@ -42,4 +42,3 @@ Dieser Fehlerkatalog prüft im Bereich **Methodenlehre Buergerliches Recht** Erg
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

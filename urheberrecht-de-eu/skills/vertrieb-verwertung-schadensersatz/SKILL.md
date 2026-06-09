@@ -78,4 +78,3 @@ Konkret zu prüfen:
 
 - § 97 Abs. 2 UrhG (Schadensersatz)
 - Lizenzanalogie/dreifache Schadensberechnung
-

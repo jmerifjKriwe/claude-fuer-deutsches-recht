@@ -11,7 +11,7 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt It Recht** Ergebnisse vor Ab
 
 ## Fachspezifische Fehlerachsen
 
-- `dma-dsa-dsgvo-fachanwalt-governance`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `dma-compliance-dokumentation-und-akte`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `dsv-aufnahme-dsv-benachrichtigung-dsv-benachrichtigung-dsv`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `dsv-dsfa-update-erstgespraech-vorfallmeldung-eskalationsmatrix`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `dsv-kinderdaten-besondere-kommunikationssperre-lead-authority`: für dieses Thema typischen Fehler aktiv gegenprüfen.
@@ -25,4 +25,3 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt It Recht** Ergebnisse vor Ab
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

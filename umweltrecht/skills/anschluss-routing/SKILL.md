@@ -63,4 +63,3 @@ Dieses Anschluss-Routing für **Umweltrecht** wählt nach dem ersten Ergebnis di
 - EuGH C-243/15
 - BGH I ZR 98/23
 - BGH I ZR 142/23
-

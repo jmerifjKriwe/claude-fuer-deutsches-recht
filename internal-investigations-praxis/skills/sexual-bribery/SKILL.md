@@ -86,4 +86,3 @@ Dieser Skill stellt sicher, dass Untersuchungen bei sexueller Belästigung opfer
 - **Betriebsratsanhörung** nach § 102 BetrVG
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

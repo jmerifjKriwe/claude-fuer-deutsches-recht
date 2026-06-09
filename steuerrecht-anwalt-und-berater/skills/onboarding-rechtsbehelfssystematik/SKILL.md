@@ -1,6 +1,6 @@
 ---
 name: onboarding-rechtsbehelfssystematik
-description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zuständig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erfolgsaussicht sie haben. Behandelt Einspruch Klage Revision Nichtzulassungsbeschwerde Anhörungsruege Verfassungsbeschwerde Vorlage an EuGH AdV einstweiliger Rechtsschutz. Output Entscheidungsbaum mit Wegweiser. Abgrenzung zu anw-einspruch-finanzamt fa-stu-finanzgerichtsklage-78-fgo und anw-aussetzung-vollziehung."
+description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zuständig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erf..."
 ---
 
 # Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde
@@ -44,4 +44,3 @@ description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

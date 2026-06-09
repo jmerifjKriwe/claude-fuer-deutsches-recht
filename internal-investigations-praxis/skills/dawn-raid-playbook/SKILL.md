@@ -88,4 +88,3 @@ Dieser Skill liefert ein sofort einsetzbares Playbook für den Fall eines Dawn R
 - **Widerspruchs-Formulierung** für privilegierte Unterlagen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

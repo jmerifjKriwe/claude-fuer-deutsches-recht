@@ -74,4 +74,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - ROT: keine Frühwarnung, eingetretene Krise → § 15a InsO greift, Haftung droht.
 - GELB: Frühwarnsystem rudimentär, Reaktionspflicht steigt.
 - GRÜN: Frühwarnsystem dokumentiert, regelmäßig aktualisiert, Reaktionsfähigkeit gegeben.
-

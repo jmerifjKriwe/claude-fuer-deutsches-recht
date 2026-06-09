@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-quality-gate
-description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter für laufende Mandats-Steuerung im Strafbefehl Verteidiger."
+description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output..."
 ---
 
 # Quality Gate — Strafbefehl-Mandat
@@ -74,4 +74,3 @@ AMPEL: GRUEN wenn zufriedenstellend / GELB wenn Rechtsmittel moeglich / ROT wenn
 - ROT-Punkte immer dokumentieren und ansprechen.
 - Mandant ueber jeden Schritt informieren und Entscheidungen schriftlich bestaetigen.
 - Anwaltliche Endkontrolle bei jedem Gate zwingend.
-

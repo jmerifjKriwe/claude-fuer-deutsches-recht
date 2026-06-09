@@ -105,4 +105,3 @@ description: "Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht
 - **Totalschaden-Abrechnung**: Formel mit GAP-Versicherung
 - **Obliegenheits-Checkliste**: Was muss LN nach Schaden tun?
 - **Gegengutachten-Antrag**: Muster für Widerspruch gegen Versicherungsgutachten
-

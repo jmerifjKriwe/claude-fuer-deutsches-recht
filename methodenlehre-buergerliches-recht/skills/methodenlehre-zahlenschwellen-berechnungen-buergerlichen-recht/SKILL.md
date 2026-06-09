@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zahlenschwellen-berechnungen-buergerlichen-recht
-description: "Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden."
+description: "Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbetr..."
 ---
 
 # Zahlenschwellen und Berechnungen im bürgerlichen Recht
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

@@ -65,4 +65,3 @@ description: "Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mänge
 - https://www.gesetze-im-internet.de/bgb/__651a.html
 - https://www.gesetze-im-internet.de/bgb/__651f.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2302
-

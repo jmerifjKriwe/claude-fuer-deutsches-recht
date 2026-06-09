@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-227-ao
-description: "Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persönliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO Stundung § 226 AO Aufrechnung § 227 AO Erlass und Billigkeitsmassnahmen im Festsetzungs- und Erhebungsverfahren. Output Antragsmuster mit Liquiditaetsanlage. Abgrenzung zu fa-stu-onboarding-verzinsung und anw-aussetzung-vollziehung."
+description: "Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persönliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO S..."
 ---
 
 # Stundung Niederschlagung Erlass — §§ 222 226 227 AO
@@ -42,4 +42,3 @@ description: "Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

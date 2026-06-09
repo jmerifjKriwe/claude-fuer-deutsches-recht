@@ -105,4 +105,3 @@ description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepu
 - **EEG-Compliance-Vorlage**: Betreiberanmeldung, Netzanschluss, Marktstammdaten
 - **Rückbauklausel-Muster**: Im Leasingvertrag für PV/Wärmepumpe
 - **ESG-Leasingklausel**: Green-Lease-Anforderungen
-

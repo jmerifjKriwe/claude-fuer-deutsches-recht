@@ -1,6 +1,6 @@
 ---
 name: verteilung-bestrittene-189
-description: "Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, § 188 InsO Abschlagsverteilung. Prüfraster Nachweiserbringung Gläubiger, Rückbehalt-Berechnung, Nichtberücksichtigung bei fehlendem Nachweis. Output Verteilungsprotokoll für bestrittene Forderungen mit Rückbehalt-Berechnung. Abgrenzung zu Tabellenauszug-178 und zu Streitige-Forderung-179-180 im Insolvenzforderungsanmeldungspruefung."
+description: "Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, §..."
 ---
 
 # Verteilung bei bestrittenen Forderungen
@@ -71,4 +71,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

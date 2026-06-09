@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-risiko
-description: "Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung (V ZR 102/23) und Erkundigungsobliegenheit (V ZR 17/24)."
+description: "Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung..."
 ---
 
 # Beschlussanfechtung Risiko
@@ -64,4 +64,3 @@ Vor oder nach einer Versammlung erkennen, ob ein Beschluss gefährdet ist und wi
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle (dejure.org, openjur.de, bundesgerichtshof.de).
-

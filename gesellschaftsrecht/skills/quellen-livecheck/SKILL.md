@@ -14,7 +14,7 @@ Dieser Quellen-Livecheck für **Gesellschaftsrecht** trennt amtliche Normfassung
 - `agio-und-kapitalruecklage` — Agio und Kapitalruecklage
 - `anmeldungen-verhandlung-vergleich-und-eskalation` — Anmeldungen Verhandlung Vergleich und Eskalation
 - `anpassen` — Anpassen
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
 - `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
 - `beirat-abgrenzung-aufsichtsrat` — Beirat Abgrenzung Aufsichtsrat
@@ -40,4 +40,3 @@ Dieser Quellen-Livecheck für **Gesellschaftsrecht** trennt amtliche Normfassung
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

@@ -135,4 +135,3 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
-

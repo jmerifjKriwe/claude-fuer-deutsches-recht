@@ -1,6 +1,6 @@
 ---
 name: ressort-bmi
-description: "Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpunkt: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst. Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG. Fuenf Spezialfelder: sicherheits-und-polizeirecht; auslaender-und-staatsangehoerigkeitsrecht; verwaltungsverfahren-und-bundesverwaltung; bevoelkerungsschutz-und-katastrophenrecht; öffentlicher-dienst-und-beamtenrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmi und legw-bmi-Themenslug."
+description: "Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpunkt: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst. Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG. Fuenf Spezialfelder: sicherheits-und-polizeirecht; auslaende..."
 ---
 
 # Ressort-Heranfuehrung BMI
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

@@ -1,6 +1,6 @@
 ---
 name: mandatsvereinbarung-postlauf
-description: "Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiegenheit. Prüfraster Mandatsumfang RVG vs. Stundensatz Haftungsbegrenzung Vorschuss Rechtsschutzversicherer KI-Hinweis berufsrechtliche Punkte. Output Mandatsvereinbarungsentwurf Vollmacht Datenschutzhinweis Honorarblatt mit Markierung offener Prüfpunkte. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte im Kanzlei Allgemein."
+description: "Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiege..."
 ---
 
 # Mandatsvereinbarung und Honorarstart
@@ -71,4 +71,3 @@ Wenn das Mandat GwG-relevant ist, in Mandatsvereinbarung oder Begleitschreiben a
 - KI- und Datenschutzbaustein aus `assets/templates/mandatsvereinbarung-ki-datenschutz-hinweis.md`.
 - Honorarblatt.
 - Liste offener Entscheidungen.
-

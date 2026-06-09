@@ -145,4 +145,3 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 Stand: 05/2026. DBA-Oesterreich Art. 15 Abs. 6 (Grenzgaengerregelung). Grenzzone: 30 km Luftlinie. Schaedlichkeitsschwelle: max. 45 Arbeitstage ausserhalb der Grenzzone. Homeoffice ab 01.01.2024 nicht schaedlich (Protokoll 2023, Konsultationsvereinbarung 20.12.2023). Aktuelle Gemeindelisten und DBA-Text im BMF-DBA-Verzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 2 ersetzt (Az nicht belegbar/falsch zugeordnet, Satz neu formuliert) -->
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ma-sanctions-export-dd
-description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht..."
 ---
 
 # M und A Exportkontroll- und Sanktions-Due-Diligence
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
 - [BAFA Ausfuhrkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
 - [UmwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/umwg_1994/index.html)
-

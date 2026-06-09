@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ausfuhrverantwortlicher-organisation
-description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funktion ein. Output: Stellenbeschreibung und Organisationsvermerk im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funkti..."
 ---
 
 # Ausfuhrverantwortlicher: Funktion, Haftung und Organisation
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Exportkontrolle Interne Compliance](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Interne_Compliance/interne_compliance_node.html)
 - [VO (EU) 2021/821 Art. 9 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [OWiG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/index.html)
-

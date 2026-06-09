@@ -191,4 +191,3 @@ Offene Fragen an Steuerteam: [TODO Owner Datum]
 
 - assets/templates/steuerliche-strukturmatrix.md
 - assets/templates/umwandlungssteuer-checkliste.md
-

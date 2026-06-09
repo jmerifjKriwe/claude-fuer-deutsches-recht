@@ -1,6 +1,6 @@
 ---
 name: dsfa-beweislast-darlegungslast
-description: "Dsfa: Beweislast, Darlegungslast und Substantiierung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Dsfa: Beweislast, Darlegungslast und Substantiierung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..."
 ---
 
 # Dsfa: Beweislast, Darlegungslast und Substantiierung
@@ -54,4 +54,3 @@ Der Verantwortliche ist für die Einhaltung der Grundsätze nach Art. 5 Abs. 1 v
 
 ## Trade-off
 Schlanke DSFA-Templates beschleunigen die Erstellung, lassen aber bei Hochrisiko-Use-Cases Lücken offen. Vollständige DSFA mit Bedrohungsmodellierung (z. B. nach LINDDUN, ENISA-Methodik) ist robust für Aufsichtsverfahren, kostet aber Personal. Empfehlung: gestufte Tiefe je Risiko (Light/Standard/Deep) mit dokumentierter Begründung der gewählten Stufe.
-

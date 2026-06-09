@@ -70,4 +70,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - ROT: Anmeldung ohne Substantiierung — Verwalter wird bestreiten, Feststellungsklage erforderlich (§ 180 InsO).
 - GELB: Rang unklar gesetzt (Vermischung von § 38 und § 39 InsO) — Korrekturzeit bis zum Prüfungstermin.
 - GRÜN: Form, Substantiierung, Rangkennzeichnung, Beleg vollständig.
-

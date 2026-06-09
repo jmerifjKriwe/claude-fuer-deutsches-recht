@@ -60,4 +60,3 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 5. Rundfunkbeitragsbefreiung beantragt?
 6. Stimmen die zugrunde gelegten Funktionsbeeinträchtigungen mit den Befundberichten überein?
 7. Ist ein Änderungsantrag sinnvoll oder riskant, weil der Gesamt-GdB insgesamt neu geprüft werden kann?
-

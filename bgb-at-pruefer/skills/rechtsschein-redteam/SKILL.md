@@ -75,4 +75,3 @@ Setzende den Schein tatsächlich veranlasst oder konnte er ihn hätte erkennen u
 - Zurechenbarkeit des Rechtsscheins an den Betroffenen?
 - Kausalität: Vertrauen des Dritten auf den Rechtsschein ursächlich für das Rechtsgeschäft?
 - Gegenargumente (Red-Team): Warum könnte der Rechtsschutz nicht greifen?
-

@@ -78,4 +78,3 @@ Dieser Skill schreibt fehlerhafte oder lückenhafte Subsumtionen in sauberen jur
 ## Ausgabe
 
 Vollständige Rewrite-Passage je TBM; davor kurzer Fehlerhinweis ("Fehler: Sprung-Subsumtion → jetzt korrigiert"). Rechtsprechung nur mit live verifizierbarem Aktenzeichen.
-

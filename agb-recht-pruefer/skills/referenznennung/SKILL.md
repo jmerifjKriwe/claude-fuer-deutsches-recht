@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Referenznennung: prüft, redlined und entwi
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

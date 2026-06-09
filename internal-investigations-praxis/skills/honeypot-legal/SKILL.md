@@ -79,4 +79,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 - Kommunikation über die Untersuchung in unverschlüsselten E-Mails oder Messaging-Diensten ist zu vermeiden; alle internen Kommunikationen sollten über sichere Kanäle erfolgen.
 - Wenn ein Journalist gezielt nach der Untersuchung fragt, deutet das oft darauf hin, dass ein Insider Informationen geleakt hat; interne Forensik (Zugriffsprotokoll des VDR) sollte sofort prüfen, wer wann Zugriff hatte.
 - Der Honeypot-Risikocheck wird mindestens einmal in der Woche durch den verantwortlichen Anwalt aktualisiert, sobald neue Dokumente produziert oder neue Personen informiert wurden.
-

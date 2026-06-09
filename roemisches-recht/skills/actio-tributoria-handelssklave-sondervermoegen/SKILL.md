@@ -62,4 +62,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Wissen des dominus?
 3. Welche Aktion?
 4. Quote berechnen.
-

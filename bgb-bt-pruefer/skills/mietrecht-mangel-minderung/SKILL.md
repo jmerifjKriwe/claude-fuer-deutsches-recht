@@ -64,4 +64,3 @@ description: "Mietrechtliche Mängel und Minderung §§ 536 ff. BGB: Anzeigepfli
 - https://www.gesetze-im-internet.de/bgb/__536.html
 - https://www.gesetze-im-internet.de/bgb/__536a.html
 - https://www.gesetze-im-internet.de/bgb/__543.html
-

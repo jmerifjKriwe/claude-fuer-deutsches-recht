@@ -1,6 +1,6 @@
 ---
 name: bmftr-hochschul-und-wissenschaftsrecht
-description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
+description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische L..."
 ---
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

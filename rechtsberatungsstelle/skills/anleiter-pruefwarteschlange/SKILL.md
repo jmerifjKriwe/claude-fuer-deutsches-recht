@@ -1,6 +1,6 @@
 ---
 name: anleiter-pruefwarteschlange
-description: "'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell 'formelle Prüfwarteschlange' gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder mit einem Hinweis zurückschickt.'"
+description: "'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell 'formelle Prüfwarteschlange' gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, w..."
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)
@@ -138,4 +138,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

@@ -189,4 +189,3 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 - **Mischformen**: Wenn ein Vertrag teilweise eigenhändig (Arbeitgeber) und teilweise qES (Arbeitnehmer) unterzeichnet wurde, ist die Lage unklar. § 126a Abs. 2 BGB verlangt grundsätzlich elektronische Form für beide Seiten. Saubere Lösung: einheitliche Form.
 - **Kündigung nicht direkt elektronisch**: § 623 BGB schließt die elektronische Form ausdrücklich aus. qES-DocuSign-Kündigungen, E-Mails und beA-Nachrichten außerhalb einer gesetzlichen Formfiktion sind kein sicherer Kündigungsweg.
 - **§ 46h ArbGG separat prüfen**: Bei arbeitsgerichtlichen Schriftsätzen kann die neue Formfiktion tragen; sie ersetzt aber nicht Zustellung, Vollmacht, Klarerkennbarkeit und § 174 BGB.
-

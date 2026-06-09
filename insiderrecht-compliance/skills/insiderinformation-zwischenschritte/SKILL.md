@@ -89,4 +89,3 @@ zu verneinen. Ergebnis ist immer ein schriftlicher Insidervermerk mit Quellennac
 - Wurde die Abgrenzung zu Art. 17 MAR (Veröffentlichungspflicht) sauber gezogen?
 - Ist ein Aufschub nach Art. 17 Abs. 4 MAR möglich und wurden dessen Voraussetzungen geprüft?
 - Wurden Insiderliste (Art. 18 MAR) und Handelsverbote (Art. 14 MAR) zeitgleich ausgelöst?
-

@@ -1,6 +1,6 @@
 ---
 name: einsatzunfall-wehrdienstbeschaedigung
-description: "Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht..."
 ---
 
 # Einsatzunfall und Wehrdienstbeschädigung
@@ -95,4 +95,3 @@ Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädig
 - Bundestagsmandate – Drucksachen des Deutschen Bundestages, einsehbar bei bundestag.de.
 - Versorgungsmedizinische Grundsätze – BMAS.
 - BSG/BVerwG zu § 81a SVG – ständige Rechtsprechung; Az. nach Verifikation.
-

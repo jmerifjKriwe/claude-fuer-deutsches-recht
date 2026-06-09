@@ -63,4 +63,3 @@ Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbe
 - BetrVG 1972: gesetze-im-internet.de
 - Sinzheimer: Arbeitsrechtliche Aufsaetze und Lehrbuecher (historische Ausgaben)
 - BAG-Rspr.: Bundesarbeitsgericht.de (JURIS-Zugang oder Printsammlungen)
-

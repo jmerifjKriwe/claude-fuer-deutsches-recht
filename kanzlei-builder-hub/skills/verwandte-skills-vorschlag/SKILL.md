@@ -130,4 +130,3 @@ Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
 - Laufende Aufgaben unterbrechen. Empfehlungen erscheinen am *Ende* einer Aufgabe, nicht mittendrin.
 - Nerven. Ein Hinweis pro Skill, nie.
 - Benachrichtigungen anzeigen, wenn die Einstellung auf `keine` steht.
-

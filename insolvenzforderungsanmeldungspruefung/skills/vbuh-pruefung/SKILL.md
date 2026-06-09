@@ -1,6 +1,6 @@
 ---
 name: vbuh-pruefung
-description: "Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO vbuH, § 850f Abs. 2 ZPO, §§ 174 InsO. Prüfraster Tatsachengrundlage vbuH prüfen, Streitigkeit vorbereiten, Restschuldbefreiungsrelevanz einordnen, Schuldnerwiderspruch antizipieren. Output vbuH-Prüfungsprotokoll mit Begründungsanforderungen. Abgrenzung zu Rang-Nachrang und zu Prüfentscheidung im Insolvenzforderungsanmeldungspruefung."
+description: "Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO..."
 ---
 
 # vbuH, Unterhalt und Steuerstraftat prüfen
@@ -71,4 +71,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

@@ -98,4 +98,3 @@ Rechtsgrundlagen: § 12 HGB (HR-Einreichung), GBO §§ 13–15 (Grundbuchantrag)
 - **Genehmigungsantrag-Begleitschreiben** (Familiengericht)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

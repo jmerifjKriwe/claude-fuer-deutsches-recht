@@ -85,4 +85,3 @@ Dieser Skill stellt den technisch und rechtlich korrekten Aufbau und Betrieb ein
 - **Herausgabe-Protokoll** für Behörden
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

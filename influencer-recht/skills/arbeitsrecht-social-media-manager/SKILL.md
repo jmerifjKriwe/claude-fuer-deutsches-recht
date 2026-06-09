@@ -99,4 +99,3 @@ Die Einstellung eines Social-Media-Managers beim Creator löst Arbeitsrecht aus:
 - BGH I ZR 9/22
 - BGH III ZR 183/21
 - BFH XI R 14/09
-

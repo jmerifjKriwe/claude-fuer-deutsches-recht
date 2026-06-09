@@ -1,6 +1,6 @@
 ---
 name: zahlung-fremde-schuld-putativschuldner
-description: "Bei jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden."
+description: "Bei jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehu..."
 ---
 
 # Zahlung auf fremde Schuld und Putativschuldner
@@ -63,4 +63,3 @@ Anwendungsfall: jemand irrtümlich als vermeintlicher Schuldner oder auf fremde 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

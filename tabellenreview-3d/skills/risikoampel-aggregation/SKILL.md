@@ -58,4 +58,3 @@ Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skil
 ## Hinweis zur Prüfer-Abnahme
 
 Vor Mandatsabnahme müssen ALLE Zellen mit `prüfer-flag` durch den Prüfer abgehakt sein. Ohne Prüfer-Abnahme darf das Aggregat nicht an Mandanten gehen.
-

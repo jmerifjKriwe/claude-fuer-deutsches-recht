@@ -90,4 +90,3 @@ Dieser Skill bearbeitet Streitigkeiten rund um **Krankenhausabrechnungen**: DRG-
 - [BSG Krankenhausrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 39 SGB V](https://dejure.org/gesetze/SGB_V/39.html)
 - [G-BA Richtlinien Krankenhaus](https://www.g-ba.de/richtlinien/)
-

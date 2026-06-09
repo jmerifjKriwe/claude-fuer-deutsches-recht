@@ -48,4 +48,3 @@ Das LkSG (Lieferkettensorgfaltspflichtengesetz, seit 1. Januar 2023) verpflichte
 - Supplier Code of Conduct: LkSG-Anforderungen als vertragliche Pflichten einbinden
 - Audit-Programme: Drittparteien-Audits für Risikolieferanten
 - CSDDD-Readiness: Frühzeitig CSDDD-Anforderungen antizipieren (Umsetzung bis 2027)
-

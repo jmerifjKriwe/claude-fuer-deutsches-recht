@@ -79,4 +79,3 @@ description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung:
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__280.html
 - https://www.gesetze-im-internet.de/bgb/__241.html
-

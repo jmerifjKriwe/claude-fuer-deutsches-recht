@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - § 14 BNotO
 - DONot §§ 5-7
-

@@ -69,4 +69,3 @@ Nie empfehlen, eine vorformulierte Unterlassungserklärung ungeprüft zu untersc
 ### Leitentscheidungen
 
 - BGH X ZR 168/00
-

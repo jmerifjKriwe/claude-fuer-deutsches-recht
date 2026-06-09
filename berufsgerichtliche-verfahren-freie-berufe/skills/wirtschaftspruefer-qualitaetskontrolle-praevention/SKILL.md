@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-qualitaetskontrolle-praevention
-description: "Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Fre..."
 ---
 
 # Wirtschaftsprüfer Qualitätskontrolle: Präventions- und Organisationspaket
@@ -47,4 +47,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

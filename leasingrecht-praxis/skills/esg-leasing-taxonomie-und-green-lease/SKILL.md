@@ -99,4 +99,3 @@ Wenn LG Green Bonds emittiert: Leasingobjekte müssen Taxonomie-Kriterien erfül
 - **Taxonomie-Check**: Leasingobjekt taxonomiefähig ja/nein mit Begründung
 - **CO2-Reporting-Vorlage**: Jährliches Monitoring-Formular für LN
 - **SFDR-Disclosure-Muster**: Art. 3/7 SFDR für Leasinggesellschaft
-

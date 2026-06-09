@@ -119,4 +119,3 @@ Fragen zum Einstieg:
 - UN-Convention on the Assignment of Receivables in International Trade (New York 2001).
 - General Rules for International Factoring (GRIF/GFI) der FCI – Factors Chain International.
 - AWG/AWV in der jeweils gültigen Fassung; EU-Sanktionsverordnungen.
-

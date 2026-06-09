@@ -1,6 +1,6 @@
 ---
 name: preisbindungsstreit-verlegerrecht
-description: "Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
 ---
 
 # Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft
@@ -142,4 +142,3 @@ Dieser Skill führt durch das **gerichtliche Verfahren** bei Preisbindungsstreit
 - **Auskunftsklage-Stufenplan**: Stufe 1–3 mit Antragsformulierungen
 - **Widerspruchs-Schriftsatz** (für Beklagten)
 - **Monitoring-Protokoll** nach Verfügungserlass
-

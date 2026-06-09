@@ -1,6 +1,6 @@
 ---
 name: anti-coercion-instrument-eu
-description: "EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad im Festlandchina Wirtschaftsverkehr."
+description: "EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen..."
 ---
 
 # EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
@@ -113,4 +113,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision)
 - § 113 ff. BRAO (anwaltsgerichtliches Verfahren)
 - §§ 1-30 BORA (Berufsordnung)
-

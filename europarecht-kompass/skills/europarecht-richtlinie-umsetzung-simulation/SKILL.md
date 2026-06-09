@@ -1,6 +1,6 @@
 ---
 name: europarecht-richtlinie-umsetzung-simulation
-description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law) im Europarecht Kompass."
+description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Ha..."
 ---
 
 # Richtlinie und Umsetzung
@@ -89,4 +89,3 @@ E. VORLAGE EuGH (falls Auslegungsfrage)
 Fragebeschreibung: [...]
 Zustaendiges Gericht für Vorlage: [...]
 ```
-

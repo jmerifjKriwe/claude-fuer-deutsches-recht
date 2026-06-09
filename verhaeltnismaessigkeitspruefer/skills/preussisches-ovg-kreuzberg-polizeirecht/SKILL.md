@@ -24,4 +24,3 @@ Dieser Skill eignet sich fuer polizeirechtliche, bauordnungsrechtliche und verwa
 3. **Ermaechtigungsgrundlage trennen:** Allgemeines Polizeirecht genuegt nur fuer Gefahrenabwehr; Baugestaltung, Denkmalschutz, Stadtbildpflege, Gewerbeordnung oder Soziallenkung brauchen eigenstaendige gesetzliche Grundlagen.
 4. **Verhaeltnismaessigkeit nachschalten:** Erst wenn Zweck und Ermaechtigungsgrundlage tragen, beginnt die moderne BVerfG-Pruefung von Geeignetheit, Erforderlichkeit und Angemessenheit.
 5. **Fehlerbremse:** Nicht aus dem historischen Urteil eine heutige BVerfG-Leitentscheidung machen. Es ist ein Strukturanker fuer Gesetzesbindung und Zweckkontrolle, kein Ersatz fuer Art. 20 Abs. 3 GG und die Grundrechtsdogmatik.
-

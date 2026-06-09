@@ -54,4 +54,3 @@ Erzeuge bevorzugt: Risiko-Register als Tabelle. Wenn der Nutzer nur eine Kurzant
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

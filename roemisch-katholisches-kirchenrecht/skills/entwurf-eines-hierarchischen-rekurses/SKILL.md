@@ -1,6 +1,6 @@
 ---
 name: entwurf-eines-hierarchischen-rekurses
-description: "Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fri..."
 ---
 
 # Entwurf eines hierarchischen Rekurses
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

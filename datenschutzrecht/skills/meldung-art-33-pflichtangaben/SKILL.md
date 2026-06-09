@@ -1,6 +1,6 @@
 ---
 name: meldung-art-33-pflichtangaben
-description: "Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34."
+description: "Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschut..."
 ---
 
 # Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
@@ -96,4 +96,3 @@ Output ist Text, kein Code, kein JSON.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - Behördenspezifische Eingabewege und Adressen siehe dsv-meldung-bfdi / dsv-meldung-baylda / dsv-meldung-ldi-nrw etc.
-

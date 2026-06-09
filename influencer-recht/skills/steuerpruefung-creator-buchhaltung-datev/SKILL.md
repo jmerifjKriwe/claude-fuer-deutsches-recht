@@ -75,4 +75,3 @@ Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 - Sachleistungs-Nacherfassungsprotokoll
 - Steuerberater-Vollmacht-Hinweis
 - Reaktion auf Prüfungsfeststellung (Muster)
-

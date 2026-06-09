@@ -82,4 +82,3 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - InEK-Datenlieferungsvereinbarungen (Live-Check g-drg.de).
 - BSG, staend. Rspr. zu Pflegebudget und Pflegeentgeltwert.
 - KHG § 18a (Schiedsstelle).
-

@@ -41,4 +41,3 @@ VVG §§ 125–129, besonders § 128; ARB; RVG; ZPO.
 
 - rechtsschutz-vorvertraglichkeit-schadenereignis
 - rechtsschutz-erfolgsaussicht-mutwilligkeit
-

@@ -25,4 +25,3 @@ description: "Solo-Selbstst채ndige: pr체ft Zoll, Incoterms, Versandrisiko und R�
 - Pr체fe aktuelle Betr채ge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur f체r Arbeit und BMWK-Existenzgr체ndungsportal.
 - Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben gesch채tzt sind und welche Belege fehlen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zug채nglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-

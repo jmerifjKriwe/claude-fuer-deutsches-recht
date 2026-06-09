@@ -78,4 +78,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ### Leitentscheidungen
 
 - BGH XII ZB 174/18
-

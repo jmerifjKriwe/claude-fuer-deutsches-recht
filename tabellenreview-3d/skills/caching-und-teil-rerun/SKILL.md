@@ -59,4 +59,3 @@ Prüfer kann Rerun beauftragen / ablehnen / nur Stichprobe rechnen lassen.
 ## Grenzen
 
 Caching ist ein Effizienzwerkzeug nicht ein Beweismittel. Wer auf gerichtsfeste Reproduzierbarkeit angewiesen ist (z. B. Verfahrenseingabe) sollte einen kompletten Lauf ohne Cache machen und das Ergebnis hashen.
-

@@ -119,4 +119,3 @@ LG insolvent; LN will widerrufen.
 - **Widerrufsinformation-Muster**: Aktuelle Anlage 7 EGBGB
 - **Fehlerfolgen-Tabelle**: Fehlende Angabe → Rechtsfolge § 494 BGB
 - **Widerrufserklärung**: Muster für Verbraucher (Textform)
-

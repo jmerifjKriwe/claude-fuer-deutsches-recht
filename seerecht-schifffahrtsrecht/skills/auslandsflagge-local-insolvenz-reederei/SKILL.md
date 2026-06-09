@@ -1,6 +1,6 @@
 ---
 name: auslandsflagge-local-insolvenz-reederei
-description: "Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-C..."
 ---
 
 # Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
@@ -113,4 +113,3 @@ Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

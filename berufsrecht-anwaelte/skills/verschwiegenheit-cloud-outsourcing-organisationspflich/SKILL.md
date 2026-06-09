@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - § 203 Abs. 1 Nr. 3 StGB
 - § 53 Abs. 1 Nr. 3 StPO
 - BVerfGE 113, 29
-

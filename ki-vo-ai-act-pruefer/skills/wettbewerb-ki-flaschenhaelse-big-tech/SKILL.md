@@ -30,4 +30,3 @@ Der Skill hilft, KI-Geschäftsmodelle kartellrechtlich zu lesen: Wer kontrollier
 ## Schnittstelle
 
 Kartellrecht ist nicht Teil der KI-VO, aber in KI-Projekten häufig das härtere wirtschaftliche Problem.
-

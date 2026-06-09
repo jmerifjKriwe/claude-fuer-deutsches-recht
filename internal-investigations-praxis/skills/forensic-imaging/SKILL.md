@@ -83,4 +83,3 @@ Dieser Skill stellt sicher, dass forensische Sicherungsmaßnahmen technisch korr
 - **Expert Witness Report** (Vorlage für US-Discovery)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

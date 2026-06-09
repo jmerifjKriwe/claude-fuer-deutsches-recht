@@ -46,4 +46,3 @@ description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete 
 ## Warnung
 
 Keine fiktiven Lizenzsätze als Tatsache ausgeben. Annahmen offen kennzeichnen.
-

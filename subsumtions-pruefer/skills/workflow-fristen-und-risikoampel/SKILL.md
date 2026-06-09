@@ -75,4 +75,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
-

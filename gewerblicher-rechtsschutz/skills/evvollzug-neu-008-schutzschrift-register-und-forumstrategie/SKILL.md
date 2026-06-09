@@ -127,4 +127,3 @@ Pflichtinhalt einer Schutzschrift:
 - `unterlassungsverlangen` – Unterlassungserklärung als Alternative
 - `evvollzug-neu-001` – Vollziehungsfrist (Antragstellerperspektive)
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
-

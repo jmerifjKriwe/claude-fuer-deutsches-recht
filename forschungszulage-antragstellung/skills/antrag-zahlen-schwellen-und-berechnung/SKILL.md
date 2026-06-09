@@ -77,4 +77,3 @@ KMU im Sinne des FZulG nach AGVO (EU) 651/2014 Anhang I:
 - KMU-Status nicht geprüft - bei Konzernzugehörigkeit unter 250 Mitarbeiter, aber Mutter > 250: kein KMU.
 - Personalzuordnung pauschal - bei Außenprüfung Kürzung.
 - Eigenleistung Einzelunternehmer ohne Stundennachweis - Pauschale wird gekürzt.
-

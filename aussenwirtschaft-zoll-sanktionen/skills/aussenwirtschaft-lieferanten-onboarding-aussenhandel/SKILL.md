@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lieferanten-onboarding-aussenhandel
-description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung im..."
 ---
 
 # Lieferanten-Onboarding: Aussenwirtschaftliche Compliance und Sanktionspruefung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [LkSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/lksg/index.html)
 - [GwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/index.html)
 - [Zoll.de Ursprungserklaerungen](https://www.zoll.de/DE/Fachthemen/Zoelle/Praeferenzrecht/praeferenzrecht_node.html)
-

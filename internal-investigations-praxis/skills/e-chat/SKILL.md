@@ -84,4 +84,3 @@ Dieser Skill steuert den E-Mail-Review von der Planung bis zur Produktion: Keywo
 - **Hot-Documents-Zusammenfassung**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

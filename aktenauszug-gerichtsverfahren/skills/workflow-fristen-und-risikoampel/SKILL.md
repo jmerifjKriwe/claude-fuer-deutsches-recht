@@ -40,4 +40,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Akteneinsicht (§ 299 ZPO) Beteiligte vs. Dritte: Beteiligte ohne Einschränkung, Dritte nur bei berechtigtem Interesse und Anhörung.
 - E-Akte vs. Papierakte: bei Einsichtnahme über beA effizient, aber technische Fehlerquellen.
-

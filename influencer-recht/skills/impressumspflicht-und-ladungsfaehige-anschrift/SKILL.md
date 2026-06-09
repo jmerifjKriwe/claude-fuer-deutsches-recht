@@ -74,4 +74,3 @@ Jeder Creator mit geschäftsmäßig genutztem Account benötigt ein Impressum:
 - Checkliste: Impressum auf allen Plattformen prüfen
 - Abmahnreaktions-Schreiben (Impressumsmangel)
 - Postadress-Alternativen (Datenschutz-konform)
-

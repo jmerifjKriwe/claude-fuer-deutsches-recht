@@ -1,6 +1,6 @@
 ---
 name: verfassungs-unionsrechtskonforme-auslegung
-description: "Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster."
+description: "Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen A..."
 ---
 
 # Verfassungs- und unionsrechtskonforme Auslegung
@@ -93,4 +93,3 @@ Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfer
 - §§ 138, 242, 305 ff., 312 ff., 327 ff., 651a ff., 823, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026. Rechtsprechungslinien laufen weiter; vor Verwendung live verifizieren.
-

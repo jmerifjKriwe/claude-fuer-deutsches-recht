@@ -37,4 +37,3 @@ description: "Verfassungsrechtlicher Grundsteuer-Check nach der Reform: BVerfG 1
 - BFH-AdV-Beschlüsse sind keine Hauptsacheentscheidung, aber sehr wichtig für Aussetzung und Belegstrategie.
 - Landesmodelle nicht mit dem Bundesmodell vermischen.
 - Hebesatzkritik gehört in die kommunale Ebene; Bewertungsfehler gehören zum Finanzamt.
-

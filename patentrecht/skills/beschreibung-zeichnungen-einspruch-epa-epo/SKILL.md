@@ -62,4 +62,3 @@ description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführu
 ### Leitentscheidungen
 
 - BGH X ZR 168/00
-

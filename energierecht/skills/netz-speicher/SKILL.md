@@ -1,6 +1,6 @@
 ---
 name: netz-speicher
-description: "Navigationszentrum für alle Energierecht-Skills: Weiterleitung je Rechtsthema und Anfrageart. Normen: EnWG, EEG, KWKG, GEG. Prüfraster: Themenfeld Erzeugung/Netz/Vertrieb, Kundentyp, einschlaegige Norm. Output: Skillauswahl-Empfehlung Energierecht. Abgrenzung: kein inhaltlicher Prüf-Skill im Energierecht."
+description: "Navigationszentrum für alle Energierecht-Skills: Weiterleitung je Rechtsthema und Anfrageart. Normen: EnWG, EEG, KWKG, GEG. Prüfraster: Themenfeld Erzeugung/Netz/Vertrieb, Kundentyp, einschlaegige Norm. Output: Skillauswahl-Empfehlung Energierecht. Abgrenzung: kein inhaltlicher Prüf-Skill im Ener..."
 ---
 
 # Energierecht — Kommandocenter (Eingangs-Routing)
@@ -176,4 +176,3 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 - EnLAG / BBPlG / WindBG / SolarBG
 - BNetzA-Beschlüsse (Festlegungs- und Genehmigungs-Verfahren)
 - BVerwG- und EuGH-Linien zu Energierecht
-

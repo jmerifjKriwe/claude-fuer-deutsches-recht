@@ -64,4 +64,3 @@ description: "Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 
 - https://www.gesetze-im-internet.de/bgb/__833.html
 - https://www.gesetze-im-internet.de/bgb/__836.html
 - https://www.gesetze-im-internet.de/bgb/__837.html
-

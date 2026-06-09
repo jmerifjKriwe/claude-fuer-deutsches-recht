@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-belehrung-pruefen
-description: "Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters nach § 203 Absatz vier Satz zwei Nummer eins StGB."
+description: "Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters..."
 ---
 
 # Strafrechtliche Belehrung prüfen
@@ -121,4 +121,3 @@ Ampel strafrechtliche Belehrung: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
 Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE AN ANBIETER]
 ```
-

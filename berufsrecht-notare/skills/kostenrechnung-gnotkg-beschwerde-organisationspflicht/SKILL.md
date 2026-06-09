@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - Anlage 1 KV-GNotKG
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

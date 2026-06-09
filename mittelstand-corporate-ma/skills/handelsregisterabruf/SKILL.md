@@ -175,4 +175,3 @@ OFFENE PUNKTE: [TODO Owner Datum]
 ## Vorlagen
 
 - assets/templates/registerabruf-protokoll.md
-

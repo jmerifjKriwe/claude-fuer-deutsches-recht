@@ -53,4 +53,3 @@ Dieser Skill prüft, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflich
 ## Output
 
 Erlaubnis-Subsumtions-Vermerk § 1 Abs. 1a Satz 2 Nr. 9 KWG; Erlaubnisantrags-Checkliste § 32 KWG für Factoring-Institut; Konzernprivileg-Prüfungsschema; Zivilrechtliche Abtretungscheck-Liste (BGB/HGB); GwG-Pflichten-Übersicht für Factoring-Institute.
-

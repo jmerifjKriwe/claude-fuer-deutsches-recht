@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-insolvenzreife
-description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk für die Bilanz im Insolvenzrecht."
+description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stil..."
 ---
 
 # Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung
@@ -159,4 +159,3 @@ Buchung erfolgt auf Basis Plan, WP-Gutachten und StB-Pruefung. Aktenstand:
 - Paragraph 7b GewStG.
 - Paragraphen 55, 60, 225a InsO.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

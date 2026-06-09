@@ -84,4 +84,3 @@ Im Verbraucherbereich sind solche Klauseln regelmäßig unwirksam (§ 308 Nr. 5 
 - Kfm. BS: Beide Kaufleute, vorangegangene Verhandlungen, zeitnah?
 - Vertraglich vereinbarter Erklärungswert: AGB-Kontrolle nach § 307 BGB?
 - Verbraucher: § 241a BGB schließt Zahlungspflicht bei unbestellter Ware aus?
-

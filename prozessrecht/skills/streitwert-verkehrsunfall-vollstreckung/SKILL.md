@@ -1,6 +1,6 @@
 ---
 name: streitwert-verkehrsunfall-vollstreckung
-description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprüche) im Prozessrecht."
+description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhal..."
 ---
 
 # Streitwertfestsetzung – GKG / RVG
@@ -163,4 +163,3 @@ Kommentar. Bei streitiger Streitwertbemessung (z. B. Feststellungsabschlag)
 h. M. und Gegenauffassung kenntlich machen. Tabellenwerte (GKG Anlage 2, RVG
 Anlage 2) stets auf Aktualität prüfen – Gesetzesänderungen fließen nicht
 automatisch ein.
-

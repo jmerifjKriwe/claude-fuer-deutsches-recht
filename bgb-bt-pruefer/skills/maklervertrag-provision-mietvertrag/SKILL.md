@@ -72,4 +72,3 @@ description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, D
 - https://www.gesetze-im-internet.de/bgb/__652.html
 - https://www.gesetze-im-internet.de/bgb/__654.html
 - https://www.gesetze-im-internet.de/wovermg/
-

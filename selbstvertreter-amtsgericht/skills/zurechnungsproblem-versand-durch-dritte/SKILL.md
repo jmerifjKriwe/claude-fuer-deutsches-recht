@@ -112,4 +112,3 @@ Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wied
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BVerfG-Selbstverantwortungslinie und BGH-Wiedereinsetzungs-Rechtsprechung stabil. Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken verifizieren.
-

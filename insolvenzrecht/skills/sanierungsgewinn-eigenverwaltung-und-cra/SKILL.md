@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eigenverwaltung-und-cra
-description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte für interne Steuerung der Eigenverwaltung im Insolvenzrecht."
+description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter..."
 ---
 
 # Sanierungsgewinn — Eigenverwaltung und CRO
@@ -165,4 +165,3 @@ einbezogen; Versicherungsumfang und -summe siehe Police vom [Datum].
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

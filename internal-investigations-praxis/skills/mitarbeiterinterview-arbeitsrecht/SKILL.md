@@ -82,4 +82,3 @@ Dieser Skill strukturiert die Vorbereitung, Durchführung und Nachbereitung von 
 - **Beweisverwertungsanalyse** für vorliegende Protokolle
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

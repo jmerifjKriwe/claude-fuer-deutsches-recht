@@ -165,4 +165,3 @@ OFFENE KLÄRUNGSPUNKTE:
 - `spezial-schutzrechts-fristennotiz-und-naechster-schritt` – Sofort-Fristennotiz
 - `workflow-dokumentenintake` – Frist-Auslöser aus Dokumenten
 - `evvollzug-neu-001` – EV-Vollziehungsfrist im Detail
-

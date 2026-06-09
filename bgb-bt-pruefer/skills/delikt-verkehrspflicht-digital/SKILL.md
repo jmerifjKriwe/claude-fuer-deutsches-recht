@@ -64,4 +64,3 @@ description: "Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaf
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/tmg/
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065
-

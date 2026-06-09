@@ -41,4 +41,3 @@ VVG § 86; BGB Abtretung/Gesamtschuld; SGB X § 116 bei Sozialversicherung; ZPO.
 
 - vvg-mehrfachversicherung-78
 - direktanspruch-pflichtversicherung-115-vvg
-

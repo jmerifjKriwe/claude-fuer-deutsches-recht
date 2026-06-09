@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-schwellen-und-kernplattformdienste
-description: "Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten im Dsa Dma Digitalregulierung."
+description: "Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraste..."
 ---
 
 # DMA — Gatekeeper-Schwellen und Kernplattformdienste
@@ -136,4 +136,3 @@ Designation bereits erfolgt: ja (Beschluss vom [DATUM]) / nein / beantragt
 Anwendbare Pflichten: Art. 5–7 DMA [LISTE EINSCHLAEGIGER PFLICHTEN]
 Empfehlung: [BERATUNGSEMPFEHLUNG]
 ```
-

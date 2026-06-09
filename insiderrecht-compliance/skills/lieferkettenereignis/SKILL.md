@@ -79,4 +79,3 @@ verknüpfen, damit LkSG-Feststellungen automatisch auf Insiderinformations-Quali
 Weitere Quellen:
 - LkSG: https://www.gesetze-im-internet.de/lksg/
 - Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-

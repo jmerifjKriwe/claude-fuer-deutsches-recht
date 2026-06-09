@@ -97,4 +97,3 @@ Vor Ausgabe prüfen:
 - Gibt es eine konkrete Unterlagenliste?
 - Ist die Bankentscheidung dokumentationsfest?
 - Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
-

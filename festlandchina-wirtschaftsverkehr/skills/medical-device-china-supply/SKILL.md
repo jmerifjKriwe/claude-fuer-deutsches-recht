@@ -1,6 +1,6 @@
 ---
 name: medical-device-china-supply
-description: "Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung im Festlandchina Wirtschaftsverkehr."
+description: "Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Complianc..."
 ---
 
 # Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

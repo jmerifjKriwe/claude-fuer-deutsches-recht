@@ -125,4 +125,3 @@ Die **VG Wort** (Verwertungsgesellschaft Wort) nimmt Vergütungsansprüche für 
 - **Verleger-Beteiligungscheck**: Vertragsklausel vorhanden / fehlt / reformbedürftig
 - **METIS-Melde-Entwurf**: Strukturiertes Formular für Online-Texte
 - **Jahresabschluss-Auswertung**: Tatsächliche Ausschüttungen vs. Erwartungen
-

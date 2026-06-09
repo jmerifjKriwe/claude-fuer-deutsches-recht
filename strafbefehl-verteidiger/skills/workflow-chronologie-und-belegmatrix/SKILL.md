@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Widerspruchspruefung:** Anzeige vs. Beschuldigtenaussage; mehrere Zeugenaussagen untereinander; objektive Beweise (Gutachten, Atemalkohol, Toxikologie) vs. Aussage; Tatzeit-Lichtbild vs. Anzeige.
 - **Strategieanker** je Verfahrensstand: vor Erlass Strafbefehl (Anhörung / Akteneinsicht); nach Zustellung Strafbefehl (Einspruch ja/nein); nach Einspruch (Hauptverhandlung / Beschraenkung / Rücknahme); nach Urteil (Berufung § 314 StPO 1 Woche / Revision §§ 341, 345 StPO).
 - **Konsequenzen-Spalte** in Chronologie immer mitfuehren: BZRG-Eintragspflicht, FAER, berufliche Auswirkungen.
-

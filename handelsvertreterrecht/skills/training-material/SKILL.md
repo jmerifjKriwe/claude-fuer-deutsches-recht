@@ -1,6 +1,6 @@
 ---
 name: training-material
-description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsvertreterrecht."
+description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsver..."
 ---
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure HGB](https://dejure.org/gesetze/HGB)
-

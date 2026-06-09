@@ -33,4 +33,3 @@ description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG un
 4. **Kennzeichnungskraft:** Originär, gesteigert durch Benutzung, schwach wegen beschreibender Anklänge oder dichtem Registerumfeld.
 5. **Wechselwirkung:** Hohe Warenähnlichkeit kann geringere Zeichenähnlichkeit ausgleichen und umgekehrt.
 6. **Sonderlagen:** Serienzeichen, bekannte Marke, unlautere Ausnutzung, Verwässerung, Rufbeeinträchtigung, bösgläubige Anmeldung.
-

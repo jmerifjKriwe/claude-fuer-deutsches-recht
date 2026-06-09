@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonder
 3. Baustellenberichte, Protokolle, Mängelanzeigen und Planstände auswerten.
 4. Unternehmerverantwortung und Planerüberwachung trennen.
 5. Schaden, Kausalität und Beweisproblem abbilden.
-

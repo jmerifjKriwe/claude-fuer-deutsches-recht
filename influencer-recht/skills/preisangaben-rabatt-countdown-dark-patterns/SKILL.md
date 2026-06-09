@@ -73,4 +73,3 @@ Falsche Preisangaben und manipulative Designpraktiken sind abmahnträchtig:
 - 30-Tage-Preis-Dokumentationsprotokoll
 - Abmahnantwort (Preisangaben)
 - Korrektur-Guide für Countdown und Knappheits-Signale
-

@@ -1,6 +1,6 @@
 ---
 name: datenbankwerk-schoepferische
-description: "Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche im Datenbankrecht."
+description: "Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten..."
 ---
 
 # Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)
@@ -67,4 +67,3 @@ Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtli
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [§ 43 UrhG Arbeitnehmerurheberrecht — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
 - [§ 8 UrhG Miturheberschaft — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
-

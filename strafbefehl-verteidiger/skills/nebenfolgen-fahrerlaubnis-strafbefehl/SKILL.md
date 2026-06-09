@@ -77,4 +77,3 @@ Im Strafbefehl: Fahrverbot § 44 StGB?
 - MPU-Anforderung durch Behörde ist eigenstaendiger Verwaltungsrechtsweg.
 - Haertefall-Argument bei § 69 StGB selten erfolgreich — Mandant realistisch informieren.
 - Sperrfrist-Antrag nach § 69a Abs. 7 StGB erst nach halber Mindestlaufzeit.
-

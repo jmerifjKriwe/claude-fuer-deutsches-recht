@@ -146,4 +146,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Slow
 Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091). Dividenden 5/25% Schachtel, sonst 15 Prozent; Zinsen 5 Prozent, Lizenzen 5 Prozent. MLI-Anwendung ab VZ 2021. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1091; Inkrafttreten 19.12.2006; MLI-Status; Quellensteuer-Saetze), 0 gestrichen -->
-

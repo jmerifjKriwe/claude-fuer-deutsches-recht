@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen für Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz im Beamtenrecht."
+description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendie..."
 ---
 
 # Vorlaeufige Dienstenthebung § 38 BDG
@@ -69,4 +69,3 @@ Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf.
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Polizeihauptkommissar, in Untersuchungshaft wegen Verdachts der Bestechlichkeit (§ 332 StGB). Dienstherr enthebt vom Dienst und behaelt 50 v. H. der Bezuege ein. Skill liefert Antrag § 63 BDG mit Hinweis auf Unterhaltspflichten und Pruefung der Prognose.
-

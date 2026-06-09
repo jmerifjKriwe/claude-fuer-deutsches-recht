@@ -156,4 +156,3 @@ Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto
 Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. Konkrete Quellensteuer-Saetze nach § 50a EStG, Bagatellklauseln in einzelnen DBA und aktuelle BMF-Schreiben zur Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

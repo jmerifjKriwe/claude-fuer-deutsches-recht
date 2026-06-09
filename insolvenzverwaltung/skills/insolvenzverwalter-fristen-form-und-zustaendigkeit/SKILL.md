@@ -61,4 +61,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Berichte und Anträge zum Insolvenzgericht: schriftlich (Schriftsatz) oder beA-Übermittlung; Anlagen elektronisch oder in Papier.
 - Verwaltervergütungsantrag § 63 InsO i.V.m. InsVV § 8 ff. — mit Begründung der Zu- und Abschläge.
 - Schlussbericht und Schlussrechnung § 197 InsO — beim Insolvenzgericht einzureichen.
-

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Me..."
 ---
 
 # AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [Bundesbank AWV-Formulare](https://www.bundesbank.de/de/aufgaben/aussenwirtschaft/meldepflichten)
 - [AEUV Art. 63 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E063)
-

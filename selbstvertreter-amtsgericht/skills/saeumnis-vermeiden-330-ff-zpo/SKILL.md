@@ -134,4 +134,3 @@ Skill `terminvorbereitung-checkliste`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
-

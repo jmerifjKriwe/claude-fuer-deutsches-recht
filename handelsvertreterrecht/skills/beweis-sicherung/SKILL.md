@@ -1,6 +1,6 @@
 ---
 name: beweis-sicherung
-description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht im Handelsvertreterrecht."
+description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht im Ha..."
 ---
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [Dejure § 485 ZPO](https://dejure.org/gesetze/ZPO/485.html)
 - [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)
-

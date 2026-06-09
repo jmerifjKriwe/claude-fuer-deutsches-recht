@@ -96,4 +96,3 @@ Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Reform 2023. Bei Unsicherheit fragen Sie beim oertlichen Sozialamt oder VdK.
-

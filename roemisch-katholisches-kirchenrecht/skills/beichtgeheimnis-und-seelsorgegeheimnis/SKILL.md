@@ -1,6 +1,6 @@
 ---
 name: beichtgeheimnis-und-seelsorgegeheimnis
-description: "Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsm..."
 ---
 
 # Beichtgeheimnis und Seelsorgegeheimnis
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

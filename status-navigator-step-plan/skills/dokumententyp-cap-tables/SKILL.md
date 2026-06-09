@@ -15,4 +15,3 @@ LausitzStorage: drei Cap-Table-Versionen liegen vor. v1 (31.12.2025, von Mandant
 - Versionsregister mit Stichdatum, Quelle, Status
 - Normalisierte Cap-Table als Vorlage fuer den Konsistenzvergleich
 - Querliste an `szenario-cap-table-bereinigung` wenn Abweichungen materiell
-

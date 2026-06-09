@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Logistik Spedition AGB: prüft typische AG
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

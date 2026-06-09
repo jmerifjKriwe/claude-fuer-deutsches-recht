@@ -57,4 +57,3 @@ ist, ist das Mittel nicht erforderlich.
 - BVerfGE 120, 224 (Geschwister-Inzest) (Geschwister-Inzest): Strafnorm war
   nach Mehrheit erforderlich, abweichende Meinung Hassemer verneinte
   dies.
-

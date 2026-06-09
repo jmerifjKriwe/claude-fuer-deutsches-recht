@@ -74,4 +74,3 @@ Creator können für Kommentare unter ihren Posts haften, wenn sie nicht moderie
 - Strafanzeige-Muster (Hassrede)
 - Community-Guidelines-Template
 - Abmahnreaktion (Kommentar-Haftung)
-

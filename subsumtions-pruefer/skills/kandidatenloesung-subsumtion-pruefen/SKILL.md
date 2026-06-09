@@ -83,4 +83,3 @@ Dieser Skill prüft abgegebene Klausur- oder Kandidatenlösungen auf methodische
 ## Ausgabe
 
 Korrekturvermerk mit Abschnittsmarkierungen (Rot/Gelb/Grün), Randbemerkungen, Punkteindikation und verbesserter Musterpassage für die schwächste Subsumtionspassage. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle; keine Blindzitate.
-

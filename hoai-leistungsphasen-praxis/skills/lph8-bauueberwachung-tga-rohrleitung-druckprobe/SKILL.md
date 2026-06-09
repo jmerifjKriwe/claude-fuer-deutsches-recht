@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-tga-rohrleitung-druckprobe
-description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spu..."
 ---
 
 # Bauueberwachung TGA Rohrleitungen und Druckpruefung
@@ -87,4 +87,3 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 823 Schadensersatz](https://www.gesetze-im-internet.de/bgb/__823.html)
-

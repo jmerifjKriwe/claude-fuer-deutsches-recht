@@ -82,4 +82,3 @@ den internationalen BGB-AT-Vergleich.
 - Annahmefrist nach § 147 BGB berechnet?
 - Annahme innerhalb der Frist zugegangen?
 - Verspätete Annahme (§ 149 BGB) oder abgeänderte Annahme (§ 150 Abs. 2 BGB) als neues Angebot?
-

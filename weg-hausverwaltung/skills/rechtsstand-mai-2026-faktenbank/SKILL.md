@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Quellen-Gate für WEG und Hausverwaltung mit Stand 05/2026. Enthält Normanker zu WEG, BGB, BetrKV, HeizkostenV, GEG und CO2KostAufG sowie frei verifizierte BGH-Rechtsprechung des V. Zivilsenats 2024 bis 2026 zu Kostenverteilung, baulichen Veränderungen, Jahresabrechnung, Vorschüssen, Verwalterhaftung, Störerhaftung und Verfahrensfristen."
+description: "Quellen-Gate für WEG und Hausverwaltung mit Stand 05/2026. Enthält Normanker zu WEG, BGB, BetrKV, HeizkostenV, GEG und CO2KostAufG sowie frei verifizierte BGH-Rechtsprechung des V. Zivilsenats 2024 bis 2026 zu Kostenverteilung, baulichen Veränderungen, Jahresabrechnung, Vorschüssen, Verwalterhaft..."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung

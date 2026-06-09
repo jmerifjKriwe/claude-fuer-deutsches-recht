@@ -41,4 +41,3 @@ VVG §§ 1, 28, 81, 82; BGB; VGB/AVB; Sachverständigenverfahren.
 
 - sachverstaendigenverfahren-versicherung
 - elementarschaden-starkregen-ueberschwemmung
-

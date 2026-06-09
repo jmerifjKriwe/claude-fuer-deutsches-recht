@@ -48,4 +48,3 @@ description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Tea
 1. Beförderungssequenz auffaellig?
 2. Beurteilungen konsistent?
 3. Klage moeglich?
-

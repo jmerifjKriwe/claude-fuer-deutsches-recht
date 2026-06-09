@@ -51,4 +51,3 @@ ALR-Loesung: ALR I 5 §§ — Untergang ohne Verschulden = Befreiung von Leistun
 - §§ 275, 280-281 BGB Pflichtverletzungen.
 - §§ 286-288 BGB Verzug.
 - § 313 BGB Stoerung der Geschaeftsgrundlage (BGH-Linie aus ALR-Tradition gespeist).
-

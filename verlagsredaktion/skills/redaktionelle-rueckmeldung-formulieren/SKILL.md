@@ -114,4 +114,3 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 - BRAO § 43a Abs. 2 (bei Mandantenfreigabe).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

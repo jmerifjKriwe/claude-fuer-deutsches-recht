@@ -73,4 +73,3 @@ Art. 90 MiCA: Verpflichtung zur Veröffentlichung von Insiderinformationen für
 - MiCA-Whitepaper und Pflichten des Token-Emittenten umsetzen
 - Compliance-Policy für Trading in eigenen Token durch Mitarbeiter und Insider
 - BaFin-Guidance zu Krypto-Assets regelmäßig verfolgen
-

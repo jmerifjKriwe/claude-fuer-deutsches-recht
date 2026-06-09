@@ -47,4 +47,3 @@ Die Praesidialkabinette 1930-1933 regierten Deutschland faktisch per Notverordnu
 - Ermächtigungsgesetz 1933: RGBl. I 1933, 141 via ALEX/OeNB; documentArchiv.de
 - Schmitt Politische Theologie (1922): historische Erstausgabe, Seite angeben
 - Reichstagsprotokolle 1930-1933: reichstagsprotokolle.de
-

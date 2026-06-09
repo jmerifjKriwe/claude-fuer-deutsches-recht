@@ -119,4 +119,3 @@ Vor Auszahlung/Aktivierung:
 - **Verhandlungsprotokoll**: Änderungen im Term Sheet dokumentiert
 - **Conditions-Precedent-Checkliste**: Alle Bedingungen vor Aktivierung
 - **Due-Diligence-Liste**: LN-Unterlagen für LG
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Anfänger- oder First-Year-Associate-Bedarf routet der Skill in den Anfänger-Modus."
+description: "Einstieg, Schnelltriage und Fallrouting im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Anfänger- oder First-Year-Associate-Beda..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -320,4 +320,3 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - Stand: 05/2026
 - BGB, GmbHG, AktG, UmwG, UmwStG, WpUeG, StaRUG, InsO, GWB, FKVO, AWG in aktuell geltender Fassung
 - GoBD-Schreiben BMF (Stand 2019; aktuell keine Neufassung)
-

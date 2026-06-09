@@ -1,6 +1,6 @@
 ---
 name: encrochat-anom-sky
-description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem S..."
 ---
 
 # EncroChat, ANOM, Sky ECC und Kryptodienste
@@ -47,4 +47,3 @@ Konkret zu prüfen:
 - § 110 Abs. 3 StPO (Netzwerkdurchsicht)
 - §§ 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152
-

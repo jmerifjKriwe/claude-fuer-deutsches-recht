@@ -107,4 +107,3 @@ Stand: 05/2026.
 - EStG §§ 5 Abs. 4a, 6, 6a.
 - IDW PS 480; IDW RH HFA 1.009.
 - BFH-Rechtsprechung.
-

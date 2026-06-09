@@ -37,4 +37,3 @@ description: "Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil
 - Baugenehmigung ersetzt nicht privatrechtliche Berechtigung.
 - "Schon lange so" heißt nicht automatisch rechtmäßig; Verjährung/Duldung getrennt prüfen.
 - Grenzüberragende Äste sind kein Überbau.
-

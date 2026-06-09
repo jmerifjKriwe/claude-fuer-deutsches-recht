@@ -1,6 +1,6 @@
 ---
 name: starug-tatbestand-beweis-und-belege
-description: "StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerkstatt."
+description: "StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug..."
 ---
 
 # StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -73,4 +73,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - StaRUG ist jung (in Kraft seit 1.1.2021) — wenig BGH-Rechtsprechung, vorrangig AG-/LG-Entscheidungen (Frankfurt am Main, Köln, Hamburg). Az. zu verifizieren.
 - StaRUG ist **kein Insolvenzverfahren**; öffentliche Bekanntmachung nicht obligatorisch, Vertraulichkeit erhalten.
 - Pandemie-Sonderregelungen § 4 StaRUG-COVInsAG sind ausgelaufen.
-

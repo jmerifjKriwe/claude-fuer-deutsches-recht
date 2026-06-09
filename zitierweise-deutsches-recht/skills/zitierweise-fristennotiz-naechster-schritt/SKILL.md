@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fristennotiz-naechster-schritt
-description: "Zitierweise: Fristennotiz und n채chster Schritt im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerausz체ge, Bescheide, Vertr채ge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Zitierweise: Fristennotiz und n채chster Schritt im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisc..."
 ---
 
 # Zitierweise: Fristennotiz und n채chster Schritt
@@ -45,4 +45,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zul채ssig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
 - **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
 - **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
-

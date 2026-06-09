@@ -64,4 +64,3 @@ Erzeuge Reparaturverlangen, Kostenmatrix, Update-/Ersatzteilcheck und Nachhaltig
 ## Prompts, die dieser Skill stellen soll
 
 - Produkt, Kaufdatum, Defekt, Ersatzteil verfügbar, Updateproblem?
-

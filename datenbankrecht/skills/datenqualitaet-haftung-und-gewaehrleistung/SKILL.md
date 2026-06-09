@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-haftung-und-gewaehrleistung
-description: "Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln im Datenbankrecht."
+description: "Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschaus..."
 ---
 
 # Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
@@ -67,4 +67,3 @@ Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmänge
 - [Art. 82 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/82.html)
 - [§ 309 BGB — dejure.org](https://dejure.org/gesetze/BGB/309.html)
 - [§ 254 BGB Mitverschulden — dejure.org](https://dejure.org/gesetze/BGB/254.html)
-

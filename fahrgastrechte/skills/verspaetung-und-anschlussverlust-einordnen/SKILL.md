@@ -1,6 +1,6 @@
 ---
 name: verspaetung-und-anschlussverlust-einordnen
-description: "Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 VO 2021/782 bei mindestens 60 Min Endziel), Zugausfall (Art. 18), verpasster Anschluss unter Durchgangsfahrkarte (Art. 12 Abs. 3) oder Vorverlegung. Differenzierung Fernverkehr vs SPNV (mit § 11 EVO 20 Min Schwelle). Behandelt Mehrfach-PNRs versus Einheits-PNR. Pinpoint auf Norm und Folgerechte (Wahlrecht Erstattung/Weiterreise/Entschaedigung)."
+description: "Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 VO 2021/782 bei mindestens 60 Min Endziel), Zugausfall (Art. 18), verpasster Anschluss unter Durchgangsfahrkarte (Art. 12 Abs. 3) oder Vorverlegung. Differenzierung Fernverkehr vs SPNV (mit § 11 EVO 20 Min Schwelle). Behandelt Mehrf..."
 ---
 
 # Verspätung, Zugausfall oder Anschlussverlust einordnen
@@ -126,4 +126,3 @@ Nächster Skill: entschaedigung-berechnen (exakte Berechnung)
 ## Leitentscheidungen Einordnung
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

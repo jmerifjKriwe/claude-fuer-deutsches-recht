@@ -44,4 +44,3 @@ LausitzStorage-Akte: Reiter 3 enthaelt 12 Positionen, sortiert nach Frist:
 ## Plugin-Kontext
 Reiter 3 ist die Voraussetzung fuer Reiter 4. Ohne saubere Liste der
 fehlenden Stuecke kann kein Workflow gebaut werden.
-

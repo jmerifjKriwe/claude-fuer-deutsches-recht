@@ -99,4 +99,3 @@ Eingaben:
 - BSG, staend. Rspr. zur Kostenübernahme nicht zugelassener Arzneimittel.
 - ABDA-Hinweise zum Einzelimport (vom Anwender zu verifizieren).
 - Zollvorschriften für Drittstaaten-Import (BfArM-Merkblatt).
-

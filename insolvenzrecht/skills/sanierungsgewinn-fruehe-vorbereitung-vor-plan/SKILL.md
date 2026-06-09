@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-vorbereitung-vor-plan
-description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan im Insolvenzrecht."
+description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster na..."
 ---
 
 # Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige
@@ -150,4 +150,3 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
 - FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle für den Pfad Liquidation statt Plan.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

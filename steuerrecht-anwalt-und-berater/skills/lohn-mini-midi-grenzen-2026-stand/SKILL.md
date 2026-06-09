@@ -1,6 +1,6 @@
 ---
 name: lohn-mini-midi-grenzen-2026-stand
-description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-Hinweis."
+description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-..."
 ---
 
 # Mini- und Midi-Grenzen — Stand 2026
@@ -113,4 +113,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: MiLo 13,90 (2026) / 14,60 (2027); Minijob-Grenze 603 (2026) / voraussichtlich 633 (2027) ergaenzt -->
-

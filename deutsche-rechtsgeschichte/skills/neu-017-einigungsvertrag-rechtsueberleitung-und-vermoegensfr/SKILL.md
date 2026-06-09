@@ -75,4 +75,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Bodenreform-Streitigkeiten vor BGH und VG.
 - Wiedergutmachungsfaelle vor BVerwG.
-

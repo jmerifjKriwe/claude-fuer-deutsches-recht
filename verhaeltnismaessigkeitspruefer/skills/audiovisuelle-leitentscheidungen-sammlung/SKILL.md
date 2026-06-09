@@ -1,6 +1,6 @@
 ---
 name: audiovisuelle-leitentscheidungen-sammlung
-description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidungen des Bundesverfassungsgerichts zur Verhaeltnismaessigkeitsdogmatik. Erschliesst Urteilsverkuendungen muendliche Verhandlungen Pressekonferenzen und Hochschul-Vorlesungen als Lehrmaterial mit Aktenzeichen Fundstelle Zeitstempel und Verortung im Pruefungsschema.
+description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidungen des Bundesverfassungsgerichts zur Verhaeltnismaessigkeitsdogmatik. Erschliesst Urteilsverkuendungen muendliche Verhandlungen Pressekonferenzen und Hochschul-Vorlesungen als Lehrmaterial mit Aktenzeichen Fundstelle Zeitstempel un...
 ---
 
 # Audiovisuelle Leitentscheidungen Sammlung
@@ -79,4 +79,3 @@ Jeder Eintrag erhaelt:
 - Bei akademischen Vortraegen Lizenz pruefen (CC BY, CC BY-SA oder Open Access).
 - Verkuendungsmaterial des BVerfG ist gemeinfrei, jedoch Persoenlichkeitsrechte der Beteiligten beachten.
 - Pressekonferenzen koennen Urheberrechte der Sender enthalten; Zitatrecht nach § 51 UrhG pruefen.
-

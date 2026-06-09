@@ -1,6 +1,6 @@
 ---
 name: actio-pauliana-glaeubigeranfechtung
-description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 BGB und §§ 129 ff. InsO sowie AnfG. Liefert Quellenmatrix und Pruefraster."
+description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 B..."
 ---
 
 # Rom 115 Actio Pauliana Glaeubigeranfechtung
@@ -66,4 +66,3 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 4. Klageberechtigung?
 5. Annus utilis nicht abgelaufen?
 6. Quellenmatrix D. 42.8 erstellen.
-

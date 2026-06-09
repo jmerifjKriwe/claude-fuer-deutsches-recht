@@ -172,4 +172,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - BaFin-Merkblaetter MAR/Ad-hoc: https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Marktmissbrauch/marktmissbrauch_node.html
 - Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel pruefen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

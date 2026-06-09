@@ -106,4 +106,3 @@ Konzentrationsmaß: Summe der quadrierten Marktanteile.
 - **Stresstest-Modell**: Szenarien und Verlustberechnung
 - **IFRS-9-Stage-Migration-Tracker**: Monatliche Überprüfung
 - **Regulatorisches Reporting**: CRR-Meldung Leasingforderungen
-

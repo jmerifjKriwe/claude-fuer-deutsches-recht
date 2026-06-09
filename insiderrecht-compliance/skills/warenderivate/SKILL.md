@@ -69,4 +69,3 @@ entwickelt die Compliance-Strategie für Commodity-Trader und Energieunternehmen
  Derivate-Handelsabteilung (Chinese Walls)
 - REMIT-Compliance-Programm: Meldewege, Schulungen, Handelssystem-Monitoring
 - Regelmäßiges Review: ACER-Guidance und REMIT II-Umsetzung verfolgen
-

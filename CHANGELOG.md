@@ -844,7 +844,7 @@ Großer Fachplugin-Ausbau mit sieben neuen Rechtsgebieten und vertieften bestehe
 - Neue Plugins: `factoring-recht`, `krankenhausrecht`, `goae-gebuehrenordnung-aerzte`, `apothekenrecht`, `ecommerce-recht`, `bundeswehrrecht-wehrrecht` und `bundesnetzagentur-verfahren`.
 - `bundesnetzagentur-verfahren` mit 220 Skills für Energie, Telekommunikation, Post, Eisenbahn, Digital Services Act/DDG und allgemeine BNetzA-Verfahren.
 - `kartellrecht-marktabgrenzung-pruefung` über die reine Marktabgrenzung hinaus ausgebaut: Art. 101/102 AEUV, GWB, Vertikal-/Horizontal-GVO, Fusionskontrolle, Private Enforcement, Dawn Raid und Compliance.
-- `fachanwalt-familienrecht` stark um Versorgungsausgleich erweitert: interne/externe Teilung, Anrechte, Versorgungsträger, Vereinbarungen, Anpassung, Abänderung, Beschwerde und Mandantenkommunikation.
+- `kindeswohlgefaehrdung-eilantrag` stark um Versorgungsausgleich erweitert: interne/externe Teilung, Anrechte, Versorgungsträger, Vereinbarungen, Anpassung, Abänderung, Beschwerde und Mandantenkommunikation.
 - Marketplace, Plugin-READMEs, Skill-Gesamtübersicht, Haupt-README und Asset-Index auf 128 Plugins, 8696 Skills und 132 Testakten synchronisiert.
 
 ## Checks

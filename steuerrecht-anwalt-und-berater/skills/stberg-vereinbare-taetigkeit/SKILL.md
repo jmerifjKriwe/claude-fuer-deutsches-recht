@@ -1,6 +1,6 @@
 ---
 name: stberg-vereinbare-taetigkeit
-description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligung an Beratungsgesellschaft oder Tax-Tech-Start-up und prueft Zulaessigkeit. Behandelt § 57 Abs. 3 StBerG Negativkatalog § 57 Abs. 4 StBerG und Werberecht § 57a StBerG. Output Pruefraster und Aktenvermerkmuster. Abgrenzung zu fa-stu-vorbehaltsaufgaben-stberg und fa-stu-rvg-steuerstreit."
+description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligung an Beratungsgesellschaft oder Tax-Tech-Start-up und pruef..."
 ---
 
 # Vereinbare Taetigkeiten Steuerberater — § 57 Abs. 3 StBerG
@@ -41,4 +41,3 @@ description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausu
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

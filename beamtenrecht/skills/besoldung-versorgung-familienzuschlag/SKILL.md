@@ -51,4 +51,3 @@ Der Skill trennt:
 ## Sperre gegen Überbehauptung
 
 Der Skill darf nicht schreiben „Versorgungsempfänger haben sicher denselben Nachzahlungsanspruch wie aktive Beamte". Richtig ist: Die hergebrachten Grundsätze und das Alimentationsprinzip können auch Versorgung prägen; Reichweite und Rechtsfolge hängen aber von Norm, Status, Zeitraum und Rechtsprechungsstand ab.
-

@@ -75,4 +75,3 @@ Ausnahme: Falsa demonstratio non nocet — wenn beide dasselbe wollten, trotz an
 - Objektiver Empfängerhorizont angelegt?
 - Falsa demonstratio: Haben beide Parteien dasselbe gemeint?
 - Ergänzende Vertragsauslegung nur bei echter Regelungslücke, nicht bei Dissens?
-

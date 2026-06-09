@@ -1,6 +1,6 @@
 ---
 name: auslandsrechte-rezensionsexemplar
-description: "Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege..."
 ---
 
 # Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
@@ -149,4 +149,3 @@ Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrech
 - BGH I ZR 136/20
 - EuGH C-299/23
 - EuGH C-202/12
-

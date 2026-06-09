@@ -64,4 +64,3 @@ Erzeuge Chancen-/Risiken-Tabelle, Änderungsvorschläge, Gegenangebot und Unters
 ## Prompts, die dieser Skill stellen soll
 
 - Wer bietet was an, welche Ansprüche werden erledigt, Kosten, Löschung, Frist?
-

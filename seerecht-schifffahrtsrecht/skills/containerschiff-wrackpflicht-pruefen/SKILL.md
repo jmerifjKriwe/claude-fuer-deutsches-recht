@@ -1,6 +1,6 @@
 ---
 name: containerschiff-wrackpflicht-pruefen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Containerlinienfrachtschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Containerlinienfrachtschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 481-526 Stueckgutfracht; SchRG..."
 ---
 
 # Containerschiff – Wrackbeseitigungspflicht prüfen
@@ -96,4 +96,3 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 - WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
 - BSH: https://www.bsh.de
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
-

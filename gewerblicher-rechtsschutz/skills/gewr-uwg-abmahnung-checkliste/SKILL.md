@@ -140,4 +140,3 @@ Mandatsbezug: Online-Händler erhält Abmahnung wegen fehlendem Impressum oder i
 - `verletzungs-triage` – Erstentscheidung
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweisfragen
-

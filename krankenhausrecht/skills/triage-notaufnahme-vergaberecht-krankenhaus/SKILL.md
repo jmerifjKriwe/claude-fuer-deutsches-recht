@@ -100,4 +100,3 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 Konkret zu prüfen:
 
 - GWB §§ 97 ff.
-

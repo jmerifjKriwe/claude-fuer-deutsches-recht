@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-produktsicherheit-vub-schnittstelle
-description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix für Produktkategorien im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix f..."
 ---
 
 # Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 2019/1020 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R1020)
 - [Zoll.de Produktsicherheit](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Produktsicherheit/produktsicherheit_node.html)
 - [ProdSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/prodsg_2011/index.html)
-

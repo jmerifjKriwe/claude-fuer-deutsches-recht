@@ -114,7 +114,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `stundung-red-team-und-qualitaetskontrolle` | Stundung: Red-Team und Qualitätskontrolle im Fortbestehensprognose. |
 | `stundungsanfrage-glaeubiger` | Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheit... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fortbestehensprognose StaRUG/InsO: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan 24 Monate, Erfolgsplan, Bilanz), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht), Frist... |
-| `wenn-prognose` | Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprognose. |
+| `wenn-prognose-negativ-naechste-schritte` | Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter: Antragspflicht § 15a InsO sechs Woche... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Fortbestehensprognose. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Fortbestehensprognose. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Fortbestehensprognose. |

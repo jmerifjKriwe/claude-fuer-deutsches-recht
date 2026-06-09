@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Bank AGB: prüft typische AGB-Risiken des 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: bmi-bevoelkerungsschutz
-description: "Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung)."
+description: "Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Au..."
 ---
 
 # Bevoelkerungsschutz und Katastrophenrecht (BMI)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

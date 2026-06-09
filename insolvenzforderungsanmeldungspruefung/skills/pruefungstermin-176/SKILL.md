@@ -1,6 +1,6 @@
 ---
 name: pruefungstermin-176
-description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180 im Insolvenzforderungsanmeldungspruefung."
+description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifi..."
 ---
 
 # Prüfungstermin vorbereiten
@@ -72,4 +72,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Sonderfälle?** Abgetretene Forderungen — eigener Prüfungstermin Pflicht (BGH IX ZR 114/23 vom 19.12.2024). Aktionärs-Schadensersatz — Nachrang (BGH IX ZR 127/24 vom 13.11.2025).
-

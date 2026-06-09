@@ -321,4 +321,3 @@ description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Bele
 - ISO 14064 14067
 - GHG-Protocol
 - SBTi
-

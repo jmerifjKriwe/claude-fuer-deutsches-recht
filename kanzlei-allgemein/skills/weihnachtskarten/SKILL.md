@@ -1,6 +1,6 @@
 ---
 name: weihnachtskarten
-description: "Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschrift E-Mail Versandart (postalisch / digital) Anredeform Bezug zur Kanzlei. Texte für formell-zurückhaltend warm und persoenlich. Druckliste für Postversand inkl Adressetiketten und Frankierhinweis. Versandzeitraum (vor Weihnachten) und Erinnerungen. Datenschutz Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Mandantenpflege; Widerspruchsrecht im Kanzlei Allgemein."
+description: "Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschrift E-Mail Versandart (postalisch / digital) Anredeform Bezug zur Kanzlei. Texte für formell-zurückhaltend warm und persoenlich. Druckliste für Postversand inkl Adressetiketten und Frankierhinweis. Versandzeitraum (vor..."
 ---
 
 # Weihnachtskarten Mandantenpflege
@@ -121,4 +121,3 @@ CSV mit Spalten: Name Anschrift Stadt PLZ Land Ansprache.
 - Druckliste (CSV).
 - E-Mail-Entwuerfe zur Freigabe.
 - Audit mit Versanddatum pro Empfänger.
-

@@ -85,4 +85,3 @@ SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
 - Sachverstaendigenantrag mit Beweisthema und Sachverstaendigenbezeichnung formulieren.
 - Rohmessdaten-Anforderung immer schriftlich dokumentieren.
 - Anwaltliche Endkontrolle bei Sachverstaendigenauswahl.
-

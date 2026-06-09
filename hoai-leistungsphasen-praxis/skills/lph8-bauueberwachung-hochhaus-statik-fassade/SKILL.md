@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-hochhaus-statik-fassade
-description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordina..."
 ---
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)
@@ -83,4 +83,3 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 - [DIN EN 13830 Vorhangfassaden](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 7/94 Bauueberwachung Hochbau](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+7/94)
 - [DIN EN 1991-1-4 Windlasten](https://www.gesetze-im-internet.de/)
-

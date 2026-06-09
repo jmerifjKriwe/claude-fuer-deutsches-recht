@@ -136,4 +136,3 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 - Offizielle DPF-Liste: Data Privacy Framework Program, Participant Search.
 - EU-Kommission: Standardvertragsklauseln nach Durchführungsbeschluss (EU) 2021/914.
 - EDSA: Recommendations 01/2020 zu ergänzenden Maßnahmen, Final Version 18.06.2021.
-

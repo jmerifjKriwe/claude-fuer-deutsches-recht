@@ -26,4 +26,3 @@ VwGO §§ 80, 80a, 123; TKG; VwVfG.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

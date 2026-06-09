@@ -59,4 +59,3 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 - BGH II ZR 76/12
 - BFH X R 7/16
-

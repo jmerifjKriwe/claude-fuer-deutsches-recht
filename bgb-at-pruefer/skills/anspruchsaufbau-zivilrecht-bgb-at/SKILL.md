@@ -76,4 +76,3 @@ Der Dreiklang jeder Anspruchsprüfung:
 - Tatbestandsmerkmale vollständig definiert und subsumiert?
 - Erlöschensgründe geprüft (Erfüllung § 362, Aufrechnung § 387, Verjährung §§ 194 ff. BGB)?
 - Durchsetzbarkeit: Einreden und Einwendungen geprüft?
-

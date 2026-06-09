@@ -88,4 +88,3 @@ Dieser Skill strukturiert die unmittelbare Incident-Response, die forensische Be
 - **Kommunikationsplan** (intern, Kunden, Presse)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

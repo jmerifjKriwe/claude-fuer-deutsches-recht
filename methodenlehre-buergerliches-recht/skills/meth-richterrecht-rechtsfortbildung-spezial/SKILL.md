@@ -1,6 +1,6 @@
 ---
 name: meth-richterrecht-rechtsfortbildung-spezial
-description: "Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann richterrechtliche Regeln durch distinguishing oder overruling überwunden werden dürfen."
+description: "Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann ric..."
 ---
 
 # Richterrecht und Rechtsfortbildung: Spezialanalyse
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 823 BGB bei dejure](https://dejure.org/gesetze/BGB/823.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

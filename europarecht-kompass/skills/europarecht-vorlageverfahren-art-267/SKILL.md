@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorlageverfahren-art-267
-description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh) im Europarecht Kompass."
+description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vo..."
 ---
 
 # Vorlageverfahren Art. 267 AEUV
@@ -104,4 +104,3 @@ klaert die Frage nicht vollstaendig für den vorliegenden Sachverhalt.
 [GERICHT], [ORT], [DATUM]
 [RICHTER-NAME]
 ```
-

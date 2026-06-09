@@ -121,4 +121,3 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - DSGVO; BDSG.
 - ProdSG; ProdHaftG; BGB §§ 823, 831.
 - Live-Verifikation in eur-lex.europa.eu, BfJ, BSI, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Legal Note Redline Output: sort
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

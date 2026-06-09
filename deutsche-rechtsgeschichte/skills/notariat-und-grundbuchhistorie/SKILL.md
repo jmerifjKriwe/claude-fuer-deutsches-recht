@@ -46,4 +46,3 @@ Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notar
 - BNotO: gesetze-im-internet.de
 - BGB § 311b: gesetze-im-internet.de; historisch Mugdan Bd. III
 - Historische Notariatsakten: Landesarchive (Bestaende der Notariatsprotokolle)
-

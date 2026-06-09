@@ -141,4 +141,3 @@ Entscheidung bitte bis [Datum, Uhrzeit].
 - BGB §§ 280, 286, 288, 314, 323 - Verzug, Ruecktritt, Kuendigung aus wichtigem Grund.
 - BGB § 271 - Leistungszeit.
 - Schricker/Loewenheim, Urheberrecht, aktuelle Auflage (vom Nutzer beizubringen) zu Verlagsverhaeltnissen.
-

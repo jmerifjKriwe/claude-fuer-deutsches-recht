@@ -106,4 +106,3 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG aktuell. Praxis-erprobt.
-

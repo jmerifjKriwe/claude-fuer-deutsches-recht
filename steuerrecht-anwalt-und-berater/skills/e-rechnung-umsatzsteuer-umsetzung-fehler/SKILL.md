@@ -20,4 +20,3 @@ description: "Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/B
 - **Steuerlicher Prüfpfad:** Bei `E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung` Steuerart, Zeitraum, Unternehmer-/Verbraucherrolle, Übergangsrecht, Rechnungskette und Verfahrensstand getrennt prüfen.
 - **BMF-/EU-Linie:** Verwaltungsauffassung nur mit Datum, Titel und offizieller Quelle verwenden; Gesetz, UStAE/BMF-Schreiben und BFH-Rechtsprechung nicht vermischen.
 - **Output:** Mandanten-To-do, Rechnungsmuster-Prüfung, Fehlerliste, Einspruchs- oder Berichtigungsbaustein und Fristenkontrolle.
-

@@ -88,4 +88,3 @@ Der PKV-Ombudsmann ist eine kostenlose außergerichtliche Streitschlichtungsstel
 - [§ 204 BGB – Verjährungshemmung](https://www.gesetze-im-internet.de/bgb/__204.html)
 - [PKV-Verband](https://www.pkv.de)
 - [dejure.org § 214 VVG](https://dejure.org/gesetze/VVG/214.html)
-

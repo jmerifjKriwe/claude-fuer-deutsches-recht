@@ -15,11 +15,11 @@ Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Arbeitsrecht** Ergebnisse vo
 - `ar-aufhebungsvertrag-konkurrenzklausel-fachanwalt-arbeitsrecht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `ar-betriebsuebergang-ar-einfuehrung-ar-leiharbeit`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `arbeitsgericht-abrechnung-vergleichsverhandlung-strategie-zugang`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `befristung-fao-unwirksam-fristennotiz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `befristung-compliance-dokumentation-und-akte`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `befristung-tzbfg-bem-verfahren-fazugang-kuendigungsfrist`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `beteiligung-betriebsrat-erstgespraech-mandatsannahme-fachanwalt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betriebsrat-betrvg-datum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `entgtranspg-fachanwalt-kschg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `betriebsrat-zahlen-schwellen-und-berechnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+- `entgtranspg-verhandlung-vergleich-und-eskalation`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `fachanwalt-arbeitsrecht-bag-betriebsratsanhoerung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
 ## Heilung
@@ -47,4 +47,3 @@ Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko 
 
 - EuGH C-134/24
 - EuGH C-518/20
-

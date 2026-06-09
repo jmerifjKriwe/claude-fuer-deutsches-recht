@@ -60,4 +60,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Laienklartext
 
 "Nicht trainiert" ist nicht dasselbe wie "Studio konnte nicht leisten". Genau diese Unterscheidung entscheidet den Fall.
-

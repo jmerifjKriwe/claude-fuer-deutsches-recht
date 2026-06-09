@@ -1,6 +1,6 @@
 ---
 name: 026-zweiter-strafrecht-20-titel
-description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Strafrecht 20 Titel quellenkritisch im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Strafrecht 20 Titel quellenkritisch im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
@@ -56,4 +56,3 @@ ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des
 1. Strafrechtsgeschichtliche Frage? — ALR II 20 als historische Quelle.
 2. Heute Strafrecht? — direkt StGB.
 3. Aktuelle Aktenbestaende mit Strafurteilen vor 1871? — fortgesetzt als historisches Material, ohne fortwirkende Vollstreckbarkeit.
-

@@ -1,6 +1,6 @@
 ---
 name: paulianische-anfechtung-fortwirkung-anfg-inso
-description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster im Römisches Recht."
+description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistung..."
 ---
 
 # Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso
@@ -52,4 +52,3 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 3. Beweislage?
 4. Rechtsfolge Restitution?
 5. Quellenmatrix.
-

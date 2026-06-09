@@ -1,6 +1,6 @@
 ---
 name: erfuellungsaufwand-grundbegriff
-description: "Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodische Praezisierungen aus dem Leitfaden."
+description: "Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodisc..."
 ---
 
 # NKR-Erfuellungsaufwand — Grundbegriff
@@ -99,4 +99,3 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Handbuch der Rechtsfoermlichkeit Teil C
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
-

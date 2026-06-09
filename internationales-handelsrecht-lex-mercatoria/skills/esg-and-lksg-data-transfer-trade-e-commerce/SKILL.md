@@ -48,4 +48,3 @@ ESG (Environmental, Social, Governance) hat erhebliche Rechtsrelevanz: LkSG verp
 - Lieferkettenklausel: ESG-Mindeststandards + Audit-Recht + Vertragsstrafe
 - Taxonomie-Check: Wirtschaftsaktivitäten der Lieferanten gegen 6 Umweltziele screenen
 - Greenwashing-Risiko: Marketingaussagen rechtlich prüfen vor Veröffentlichung
-

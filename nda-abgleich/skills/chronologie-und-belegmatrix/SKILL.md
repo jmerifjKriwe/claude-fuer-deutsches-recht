@@ -25,4 +25,3 @@ Konkret zu prüfen:
 
 - § 17 GeschGehG
 - Due-Diligence-Standards (M&A-Spezifika)
-

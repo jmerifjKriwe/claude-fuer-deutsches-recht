@@ -32,4 +32,3 @@ description: "HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die n�
 - Praktischer Kern: M채ngelverfolgung, Gew채hrleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung
 - Bewertungsanker Geb채ude/Innenr채ume: 2 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder 체bertragen; erst Leistungsbild und Anlage live bestimmen.
-

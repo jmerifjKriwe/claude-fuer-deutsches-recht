@@ -1,6 +1,6 @@
 ---
 name: urlaub-krankheit
-description: "Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall im Handelsvertreterrecht."
+description: "Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinb..."
 ---
 
 # Urlaub und Krankheit im Handelsvertreterverhältnis — Rechte und Pflichten
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
 - [§ 2 BUrlG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/burlg/__2.html)
 - [Dejure § 89 HGB](https://dejure.org/gesetze/HGB/89.html)
-

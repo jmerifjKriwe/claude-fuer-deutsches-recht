@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 DORA und NIS2 überschneiden sich für Finanzunternehmen — DORA ist lex specialis (Art. 1 Abs. 2 DORA). Wer DORA-konform ist, erfüllt regelmäßig auch NIS2 in den überschneidenden Bereichen, aber nicht automatisch alle NIS2-Pflichten. Komplianztabelle empfehlen.
-

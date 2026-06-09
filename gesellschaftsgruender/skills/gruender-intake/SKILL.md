@@ -1,6 +1,6 @@
 ---
 name: gruender-intake
-description: "Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill) im Gesellschaftsgruender."
+description: "Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Ski..."
 ---
 
 # Gründer-Intake
@@ -198,4 +198,3 @@ OFFENE PUNKTE / STOPPSCHILDER
 - `gesellschaftsgruender-firmenname-pruefung` — Firmencheck
 - `gesellschaftsgruender-rechtsformwahl` — falls Rechtsform noch offen
 - `gesellschaftsgruender-share-classes-a-b-c` — bei Class-Shares
-

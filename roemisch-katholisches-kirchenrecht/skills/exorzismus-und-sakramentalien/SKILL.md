@@ -1,6 +1,6 @@
 ---
 name: exorzismus-und-sakramentalien
-description: "Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fri..."
 ---
 
 # Exorzismus und Sakramentalien
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

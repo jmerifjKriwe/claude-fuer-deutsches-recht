@@ -45,4 +45,3 @@ description: "Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-U
 - Zeigen Reparatur-/Werkstattdaten, Tickets oder Social Media ein Feldproblem?
 - Ist ein Repair-by-design-Problem entstanden, etwa Pairing oder Ersatzteilsperre?
 - Muss die Maßnahme Warnung, Update, Rückruf, Reparaturprogramm oder Vertriebsstopp sein?
-

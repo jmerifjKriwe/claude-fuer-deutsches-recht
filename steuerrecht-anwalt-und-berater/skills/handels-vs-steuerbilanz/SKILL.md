@@ -1,6 +1,6 @@
 ---
 name: handels-vs-steuerbilanz
-description: "Pruefung der Massgeblichkeit der Handelsbilanz für die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und materielle Massgeblichkeit Bewertungsvorbehalte § 5 Abs. 6 EStG und Verzeichnis nach § 5 Abs. 1 S. 3 EStG. Output Pruefraster und Differenzliste. Abgrenzung zu fa-stu-bilanzberichtigung-4-abs-2-estg."
+description: "Pruefung der Massgeblichkeit der Handelsbilanz für die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und ma..."
 ---
 
 # Massgeblichkeit Handelsbilanz zur Steuerbilanz — § 5 EStG und Abweichungen
@@ -42,4 +42,3 @@ description: "Pruefung der Massgeblichkeit der Handelsbilanz für die Steuerbila
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

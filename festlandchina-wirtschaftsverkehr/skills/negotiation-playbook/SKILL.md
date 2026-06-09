@@ -1,6 +1,6 @@
 ---
 name: negotiation-playbook
-description: "Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien im Festlandchina Wirtschaftsverkehr."
+description: "Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlung..."
 ---
 
 # Verhandlungs-Playbook China: Kultur/Taktik/BATNA
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

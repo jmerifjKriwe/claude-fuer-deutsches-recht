@@ -87,4 +87,3 @@ Dieser Skill definiert für alle relevanten Dokumentenkategorien klare Aufbewahr
 - **Aufbewahrungskonzept** für Untersuchungsunterlagen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

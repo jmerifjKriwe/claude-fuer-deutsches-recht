@@ -97,4 +97,3 @@ H.M.: § 108 InsO gilt nur für Immobilien; bei beweglichen Sachen § 103 InsO �
 - **Refinanzierungsstruktur-Diagramm**: LG, LN, Refinanzierer, Eigentum, Forderungen
 - **Forderungsanmeldungs-Vorlage**: LN gegen InsO-Masse des LG
 - **Checkliste**: § 566 BGB-Analogie – gilt Nutzungsrecht fort?
-

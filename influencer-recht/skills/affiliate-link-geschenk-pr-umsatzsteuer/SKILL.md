@@ -98,4 +98,3 @@ Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch we
 - BGH I ZR 9/22
 - BGH III ZR 183/21
 - BFH XI R 14/09
-

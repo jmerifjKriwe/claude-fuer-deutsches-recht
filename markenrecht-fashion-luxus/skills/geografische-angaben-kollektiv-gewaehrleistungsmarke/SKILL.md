@@ -36,4 +36,3 @@ description: "Geografische Angaben, Kollektivmarken und Gewährleistungsmarken p
 ## Quellen
 
 MarkenG, UMV und einschlägige EU-Herkunftsschutzquellen live prüfen.
-

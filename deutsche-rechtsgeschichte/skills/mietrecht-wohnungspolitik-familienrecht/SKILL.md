@@ -63,4 +63,3 @@ Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrech
 - Mieterschutzverordnung 1917: RGBl. 1917, 659 via ALEX/OeNB
 - BGB Mietrecht aktuell: gesetze-im-internet.de
 - BGH-Mietrechtsprechung: bgh.de (VIII. Zivilsenat)
-

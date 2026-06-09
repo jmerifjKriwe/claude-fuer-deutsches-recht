@@ -1,6 +1,6 @@
 ---
 name: klauselkatalog-bilingual
-description: "Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag im Gesellschaftsgruender."
+description: "Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaft..."
 ---
 
 # Klauselkatalog bilingual DE/EN
@@ -510,4 +510,3 @@ OFFENE PUNKTE:
 
 FREIGABE: [NAME / DATUM]
 ```
-

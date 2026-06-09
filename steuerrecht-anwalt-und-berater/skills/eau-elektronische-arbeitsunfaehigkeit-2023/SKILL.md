@@ -114,4 +114,3 @@ Stand: 05/2026.
 - GKV-Spitzenverband Rundschreiben.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (generischer Programmpfad-Hinweis, nicht versionsspezifisch belegbar, Verweis auf Onlinehilfe) -->
-

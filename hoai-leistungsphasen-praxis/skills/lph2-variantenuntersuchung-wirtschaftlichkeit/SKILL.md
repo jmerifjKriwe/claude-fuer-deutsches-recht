@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsve
 3. Ist die Kostenschätzung belastbar genug für die nächste Entscheidung?
 4. Wurde eine Variante dokumentiert freigegeben?
 5. Sind Fördermittelbedingungen in der Auswahl abgebildet?
-

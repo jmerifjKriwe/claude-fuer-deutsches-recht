@@ -61,4 +61,3 @@ Offenbaren ist jede Form der Kenntnisverschaffung Dritter. Bei KI-Tools relevant
 
 ## Trade-off
 Strafrechtliches Risiko ist meist durch saubere Verpflichtung und Sorgfaltsdokumentation beherrschbar; das berufsrechtliche Risiko (Sanktion durch Anwaltskammer) bleibt nach Maßgabe der Standesrechtsorganisation auch bei rechtmäßiger Lage relevant — frühzeitige Abstimmung mit der Kammer in Grenzfällen empfehlenswert.
-

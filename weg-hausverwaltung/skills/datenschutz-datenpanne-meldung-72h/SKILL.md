@@ -60,4 +60,3 @@ Norm § 303b StGB: https://www.gesetze-im-internet.de/stgb/__303b.html
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Art. 33 und 34 DSGVO über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679 und aktuelle Melde-Formulare der Landesaufsichtsbehörden live abrufen — Portaladressen und Formularversionen ändern sich.
-

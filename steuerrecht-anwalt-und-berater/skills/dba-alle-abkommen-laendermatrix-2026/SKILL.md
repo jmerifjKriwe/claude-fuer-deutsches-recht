@@ -104,4 +104,3 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 4. **Regionenrouter-Skill** als Pfad B nutzen.
 5. **All-Country-Memo-Generator** für das Memo selbst.
 6. **Querverweis auf relevante Querschnitts-Skills** (Methodenartikel, Quellensteuer, MAP).
-

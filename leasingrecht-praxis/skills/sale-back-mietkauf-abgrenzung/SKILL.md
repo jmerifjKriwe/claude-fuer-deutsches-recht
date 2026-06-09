@@ -104,4 +104,3 @@ IFRS 16 §§ 98–103 regeln SLB gesondert:
 - **Anfechtungsrisiko-Matrix**: Zeitpunkt – Anfechtungsgrund – Frist – Schutzmaßnahme
 - **IFRS-16-Buchung**: Echte vs. unechte SLB-Transaktion
 - **Steuer-Memo**: Veräußerungsgewinn, AfA, Leasingraten-Abzug
-

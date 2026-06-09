@@ -41,4 +41,3 @@ description: "Geführter Rechtsprechungschat für Selbstvertreter im Sozialgeric
 | EM-Rente | Leistungsvermögen, qualitativer/quantitativer Maßstab, Arbeitsmarkt |
 | GdB | Funktionsbeeinträchtigung statt bloßer Diagnose |
 | Berufung | § 144 SGG Wertgrenze, laufende Leistungen, Zulassungsgründe |
-

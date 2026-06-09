@@ -1,6 +1,6 @@
 ---
 name: fachgebiet-routing-zivil-oeffentlich-straf
-description: "Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu öffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema) im Hausarbeitenmacher."
+description: "Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ...."
 ---
 
 # Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht
@@ -160,4 +160,3 @@ B. Strafrechtliche Verantwortlichkeit
 - Strafrecht-Schwerpunkt: `strafrecht-tatbestand-rechtswidrigkeit-schuld`
 - EU-Bezug: `europarecht-anwendbarkeit-vorrang-vorabentscheidung`
 - Rechtstheorie / -philosophie: `rechtstheorie-rechtsphilosophie-anbindung`
-

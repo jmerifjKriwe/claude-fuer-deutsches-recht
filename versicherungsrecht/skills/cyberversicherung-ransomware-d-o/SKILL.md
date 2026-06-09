@@ -41,4 +41,3 @@ VVG §§ 1, 28, 81, 82; DSGVO Art. 33, 34; DORA; NIS2/BSI-Recht; EU-Sanktionsrec
 
 - dora-cyber-ikt-versicherer
 - datenschutz-schweigepflicht-gesundheitsdaten
-

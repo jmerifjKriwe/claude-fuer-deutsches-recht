@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-als-wertungsprodukt
-description: "Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen, rechtlich relevante Tatsachen von irrelevanten zu trennen und den Sachverhalt so zu strukturieren, dass er die methodisch korrekte Subsumtion ermöglicht. Dabei werden Perspektiven von Mandant und Gericht methodisch gegenübergestellt und Selektionsfehler systematisch vermieden."
+description: "Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen, rechtlich relevante Tatsachen von irrelevanten zu trennen un..."
 ---
 
 # Sachverhalt als Wertungsprodukt
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

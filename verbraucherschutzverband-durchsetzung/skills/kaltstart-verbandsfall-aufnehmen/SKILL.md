@@ -56,4 +56,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Probeabo:** Nach EuGH C-565/22 Widerruf, Kosteninformation, Kündigungsbutton und automatische Verlängerung getrennt prüfen.
 - **SCHUFA:** Nach EuGH C-634/21 sowie C-26/22/C-64/22 Scorewirkung, Negativeintrag und Restschuldbefreiung datenrechtlich sauber clustern.
 - **Diesel-Serien:** Nach EuGH C-100/21 und BGH VIa ZR 335/21 Fahrzeugdaten so granular erfassen, dass echte Serienfähigkeit erkennbar wird.
-

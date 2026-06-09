@@ -1,6 +1,6 @@
 ---
 name: notar-unparteilichkeit-familiengesellschaft-praevention
-description: "Notar Unparteilichkeit Familiengesellschaft (Präventions- und Organisationspaket): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Notar Unparteilichkeit Familiengesellschaft (Präventions- und Organisationspaket): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgeri..."
 ---
 
 # Notar Unparteilichkeit Familiengesellschaft: Präventions- und Organisationspaket
@@ -47,4 +47,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

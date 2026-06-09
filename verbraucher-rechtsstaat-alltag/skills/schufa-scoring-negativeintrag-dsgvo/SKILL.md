@@ -47,4 +47,3 @@ description: "SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15
 ## Nicht tun
 
 Keine pauschalen Löschungsversprechen. Bei titulierten Forderungen, laufenden Insolvenz-/Restschuldbefreiungsthemen und Identitätsdiebstahl sauber in Fachpfade routen.
-

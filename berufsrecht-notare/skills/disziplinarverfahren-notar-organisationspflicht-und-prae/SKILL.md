@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - § 92 BNotO (Aufsicht)
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

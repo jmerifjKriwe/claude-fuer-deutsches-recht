@@ -12,7 +12,7 @@ Dieser Quellen-Livecheck für **Insolvenzrecht** trennt amtliche Normfassung, fr
 ## Fachlandkarte dieses Plugins
 
 - `anfechtungsrechte-antragspflicht-15a` — Anfechtungsrechte Antragspflicht 15A
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
 - `antragspflicht-15a-inso` — Antragspflicht 15A Inso
 - `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Auslaendischer Insolvenzverwalter Register und Grundbuch
@@ -40,4 +40,3 @@ Dieser Quellen-Livecheck für **Insolvenzrecht** trennt amtliche Normfassung, fr
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

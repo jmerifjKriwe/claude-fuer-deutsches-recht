@@ -77,4 +77,3 @@ Ein Agenturwechsel ist oft rechtlich komplex – besonders bei Exklusivverträge
 - WBV-Prüfung und Unwirksamkeits-Einwand
 - Account-Zugang-Rückforderungs-Protokoll
 - Übergabeprotokoll laufende Brand-Deals
-

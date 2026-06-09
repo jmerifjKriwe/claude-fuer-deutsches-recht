@@ -59,4 +59,3 @@ description: "Red-Team-Analyse: Gegenseiten-Perspektive für BGB-BT-Mandate einn
 - https://www.gesetze-im-internet.de/bgb/__254.html
 - https://www.gesetze-im-internet.de/bgb/__242.html
 - https://www.gesetze-im-internet.de/bgb/__195.html
-

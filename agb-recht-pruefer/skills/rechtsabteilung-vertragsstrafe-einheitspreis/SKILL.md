@@ -30,4 +30,3 @@ BGH, Urteil vom 15.02.2024 - VII ZR 42/22; §§ 307, 309 Nr. 6 BGB; § 339 BGB
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

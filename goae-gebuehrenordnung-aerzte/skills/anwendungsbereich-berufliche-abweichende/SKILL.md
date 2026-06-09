@@ -1,6 +1,6 @@
 ---
 name: anwendungsbereich-berufliche-abweichende
-description: "GOÄ § 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "GOÄ § 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aer..."
 ---
 
 # GOÄ § 1 Anwendungsbereich berufliche Leistungen
@@ -113,4 +113,3 @@ Eingaben:
 - Berufsordnung Ärztekammer (MBO-Ä § 12).
 - BGH staend. Rspr. zur GOÄ-Anwendung.
 - PKV-Verband — Erstattungsleitlinien (informativ, nicht verbindlich).
-

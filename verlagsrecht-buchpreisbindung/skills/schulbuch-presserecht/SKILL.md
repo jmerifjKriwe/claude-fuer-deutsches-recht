@@ -114,4 +114,3 @@ Der Schulbuchmarkt unterliegt neben dem allgemeinen Verlagsrecht zusätzlichen *
 - **Vergaberechts-Check**: Ausschreibungsangebot auf Preisbindungs-Compliance geprüft
 - **Lehrplan-Übereinstimmungs-Matrix**: Fach, Klasse, Bundesland
 - **Digitales-Schulbuch-Checkliste**: DSGVO, Barrierefreiheit, Plattformzertifizierung
-

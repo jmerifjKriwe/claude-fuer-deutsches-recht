@@ -126,4 +126,3 @@ Wie bei anderen Sozialleistungen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregelungen pruefen. BSG-Linien noch im Aufbau. Bei diesem neuen Recht besonders sorgfaeltig pruefen — Verifikation in juris empfohlen.
-

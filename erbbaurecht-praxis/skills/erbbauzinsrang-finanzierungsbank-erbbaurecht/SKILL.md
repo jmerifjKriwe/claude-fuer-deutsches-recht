@@ -53,4 +53,3 @@ Ziel ist eine bankfähige, aber eigentümerverträgliche Ranglösung mit klarer 
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

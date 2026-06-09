@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - §§ 226 ff. StPO (Hauptverhandlung)
 - § 258 StPO (Schlussvorträge)
 - Nr. 126-138 RiStBV
-

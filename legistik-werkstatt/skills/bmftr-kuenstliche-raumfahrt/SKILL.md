@@ -1,6 +1,6 @@
 ---
 name: bmftr-kuenstliche-raumfahrt
-description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung) im Legistik."
+description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.);..."
 ---
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)
@@ -86,4 +86,3 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

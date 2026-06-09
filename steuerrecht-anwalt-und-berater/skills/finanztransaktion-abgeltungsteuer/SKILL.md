@@ -1,6 +1,6 @@
 ---
 name: finanztransaktion-abgeltungsteuer
-description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligungsanteilen ueber 1 Prozent moechte Veranlagung optimieren. Behandelt Antrag auf Guenstigerpruefung Antrag auf Veranlagung Werbungskostenabzugsverbot und das Optionsrecht zum Teileinkuenfteverfahren § 32d Abs. 2 Nr. 3 EStG. Output Entscheidungsbaum mit Berechnung. Abgrenzung zu fa-stu-investmentsteuer-invstg."
+description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligungsanteilen ueber 1 Prozent moechte Veranlagung optimieren. Be..."
 ---
 
 # Abgeltungsteuer und Kapitaleinkuenfte — § 32d EStG und Teileinkuenfteverfahren
@@ -42,4 +42,3 @@ description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 2
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

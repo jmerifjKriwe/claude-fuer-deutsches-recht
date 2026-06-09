@@ -117,4 +117,3 @@ Nach erfolgreicher Zustellung:
 - `evvollzug-neu-003` – Zustellung durch Gerichtsvollzieher im IP-Verfahren
 - `evvollzug-neu-004` – beA-Zustellung bei einstweiligem Rechtsschutz
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
-

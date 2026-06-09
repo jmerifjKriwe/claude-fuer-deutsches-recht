@@ -79,4 +79,3 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 - IfSG §§ 23, 36.
 - BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhaeltnismaessigkeit.
 - VwGO §§ 42, 80, 113.
-

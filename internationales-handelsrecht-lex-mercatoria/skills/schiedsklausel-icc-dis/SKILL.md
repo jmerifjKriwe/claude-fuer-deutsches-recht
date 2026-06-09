@@ -48,4 +48,3 @@ Die Schiedsklausel ist die prozessuale Grundlage internationaler Streitbeilegung
 - Schiedsort nach: Neutralität, Vollstreckungsfreundlichkeit, lex arbitri-Qualität
 - Schnellverfahren: opt-out ausdrücklich in Klausel, wenn nicht gewünscht
 - Pathologische Klauseln: Test vor Unterzeichnung — ist Institution eindeutig identifiziert?
-

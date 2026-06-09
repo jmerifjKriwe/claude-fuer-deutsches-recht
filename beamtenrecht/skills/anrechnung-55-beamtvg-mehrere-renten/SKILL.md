@@ -1,6 +1,6 @@
 ---
 name: anrechnung-55-beamtvg-mehrere-renten
-description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Hoechstgrenzenmodell die Behandlung von Kindererziehungszeiten und die unionsrechtlich gebotene Beruecksichtigung von EU-Renten. Liefert Berechnungstabelle und Antragsbausteine im Beamtenrecht."
+description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Ho..."
 ---
 
 # Anrechnung Renten nach § 55 BeamtVG
@@ -93,4 +93,3 @@ Pensionierter Studiendirektor erhaelt Altersrente aus zehn Jahren Lehrertaetigke
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
-

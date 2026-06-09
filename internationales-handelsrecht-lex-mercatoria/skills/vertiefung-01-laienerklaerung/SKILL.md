@@ -47,4 +47,3 @@ Nicht-Juristen (Geschäftsführer, Einkäufer, Logistiker) brauchen verständlic
 - Keine Fachbegriffe ohne Erklärung: CISG immer in Klammern "UN-Kaufrecht" erklären
 - Konsequenz-Fokus: was bedeutet das für meine Entscheidung heute?
 - Grafiken empfehlen: Incoterms 2020 Risk-Transfer-Grafik der ICC
-

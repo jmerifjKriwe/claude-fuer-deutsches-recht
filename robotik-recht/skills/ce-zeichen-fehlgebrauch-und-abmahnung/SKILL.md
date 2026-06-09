@@ -91,4 +91,3 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - UWG §§ 3, 3a, 5, 8, 8c, 13.
 - NANDO-Datenbank der EU-Kommission.
 - Live-Verifikation auf eur-lex.europa.eu, BAuA, ec.europa.eu/growth (NANDO); lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

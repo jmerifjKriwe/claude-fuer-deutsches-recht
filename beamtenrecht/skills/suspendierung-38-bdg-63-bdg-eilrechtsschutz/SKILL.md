@@ -60,4 +60,3 @@ Der Skill markiert:
 - Bezügeeinbehalt darf nicht schematisch auf Höchstmaß gesetzt werden.
 - Persönliche Härten dürfen nicht pauschal als irrelevant abgetan werden.
 - Landesdisziplinarrecht kann abweichen.
-

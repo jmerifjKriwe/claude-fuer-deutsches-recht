@@ -142,4 +142,3 @@ Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als M
 - `gewr-markenanmeldung-bauleiter` – Anmeldeprozess
 - `unterlassungsverlangen` – Reaktion auf Abmahnung
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Widerspruch
-

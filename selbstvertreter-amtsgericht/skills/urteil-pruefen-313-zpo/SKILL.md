@@ -149,4 +149,3 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
-

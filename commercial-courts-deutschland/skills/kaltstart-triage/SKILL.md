@@ -67,4 +67,3 @@ Beginne mit Orientierung, nicht mit Lehrbuch. Prüfe zuerst, ob der Fall überha
 | Skill | Why now | Deliverable |
 | --- | --- | --- |
 | `...` | [...] | [...] |
-

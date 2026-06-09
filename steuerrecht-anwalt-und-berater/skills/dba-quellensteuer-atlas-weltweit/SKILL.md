@@ -109,4 +109,3 @@ description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden
 | PPT (MLI) | DBA | [Hauptzweck Vorteil?] | [Vorteil zu versagen / nicht] |
 | LOB (US-DBA, ggf. andere) | DBA Art. [...] | [Qualified Person?] | [ja / nein] |
 | § 4j EStG Lizenzschranke | EStG | [schaedliche IP-Box im Quellenstaat?] | [Abzug eingeschraenkt / nicht] |
-

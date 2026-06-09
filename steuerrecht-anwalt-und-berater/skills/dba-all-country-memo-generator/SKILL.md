@@ -101,4 +101,3 @@ Bei jeder Variante folgendes Schema durcharbeiten:
 | Methode | [...] | Art. 23 + § 34c EStG | [Freistellung/Anrechnung] | [Methode] | Methodenartikel |
 | Treaty Override | [...] | § 50d Abs. 3/8/9 EStG | [Substanz/Subject-to-Tax] | [greift/greift nicht] | BMF-Schreiben |
 | Verfahren | [...] | § 50a, § 50c EStG | [Vorab/Nachher] | [Antragsweg] | BOP |
-

@@ -28,4 +28,3 @@ Richtlinie (EU) 2018/1972 (EECC); TKG 2021; BEREC/EU-Dokumente live prüfen; TDD
 
 - tk-marktanalyse-betraechtliche-marktmacht
 - tk-netzneutralitaet-zero-rating-throttling
-

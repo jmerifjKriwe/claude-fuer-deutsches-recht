@@ -99,4 +99,3 @@ die Gewährleistungsrechte nicht vollständig, aber das Verhältnis ist klausurr
 - BGH NJW 2004/1320
 - BGH NJW 2011/2643
 - BGH NJW 2005/53
-

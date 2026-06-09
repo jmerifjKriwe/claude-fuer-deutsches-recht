@@ -90,4 +90,3 @@ Nach erfolglosem Widerspruch folgt die Klage beim Sozialgericht. Dieser Skill be
 - [BSG Prozessrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Sozialgericht Anleitungen](https://www.sozialgerichtsbarkeit.de)
 - [dejure.org SGG § 87](https://dejure.org/gesetze/SGG/87.html)
-

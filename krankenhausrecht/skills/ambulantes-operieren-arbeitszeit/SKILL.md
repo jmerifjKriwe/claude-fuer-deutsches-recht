@@ -100,4 +100,3 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 ### Leitentscheidungen
 
 - EuGH C-280/00
-

@@ -108,4 +108,3 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 - UWG §§ 3a, 5a; UKlaG – Volltexte gesetze-im-internet.de.
 - Verbraucherzentrale Bundesverband (VZBV) – Abmahnpraxis und Musterklagen.
 - Verbraucherrechte-RL 2011/83/EU – EUR-Lex.
-

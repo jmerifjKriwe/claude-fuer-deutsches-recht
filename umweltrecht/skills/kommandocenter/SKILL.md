@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing) im Umweltrecht."
+description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung N..."
 ---
 
 # Umweltrecht-Kommandocenter
@@ -107,4 +107,3 @@ OFFENE FRAGEN / BENOETIGT:
 - `energietrassen-planfeststellung-rechtsschutz` — Energie-Planfeststellung
 - `esg-greenwashing-csrd` — Nachhaltigkeitsberichte
 - `klimaklagen-verbandsklage-umwrg` — Klimaklagen
-

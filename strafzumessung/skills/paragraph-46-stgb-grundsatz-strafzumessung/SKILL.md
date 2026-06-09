@@ -1,6 +1,6 @@
 ---
 name: paragraph-46-stgb-grundsatz-strafzumessung
-description: "Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO im Strafzumessung."
+description: "Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revis..."
 ---
 
 # § 46 StGB — Grundsatz der Strafzumessung
@@ -94,4 +94,3 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - § 46 StGB in der seit 01.08.2015 geltenden Fassung (Erweiterung um geschlechtsspezifische, gegen sexuelle Orientierung gerichtete Beweggruende).
 - BGH GS BGHSt 7, 28 (Spielraumtheorie) — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: Kommentar-/Aufsatzfundstellen nur auf Nutzerquellenbasis oder lizenzierten Live-Zugriff; vgl. `references/zitierweise.md`.
-

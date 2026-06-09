@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Rechtsfolgen Rückabwicklung AGB: pr
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: insolvenzplan-intake-klassen
-description: "Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerkstatt."
+description: "Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Staru..."
 ---
 
 # Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel
@@ -68,4 +68,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Realistische Mehrheiten?** Klassenbildung und Best-Interest-Test mental durchgespielt; bei knappen Mehrheiten Cross-Class Cram-Down (§ 245 InsO bzw. §§ 26–28 StaRUG) prüfen.
 - **Mandatsziel:** Plan-Entwurf, Beratung Gläubigergruppe, Verteidigungslinie gegen Plan, Vollzug nach Bestätigung.
 - **Praxis:** Plan-Architektur frühzeitig festlegen — spätere Umbauten kosten Zeit und Vertrauen aller Beteiligten.
-

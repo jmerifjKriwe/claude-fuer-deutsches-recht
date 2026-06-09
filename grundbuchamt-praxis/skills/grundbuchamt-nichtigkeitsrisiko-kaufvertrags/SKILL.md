@@ -53,4 +53,3 @@ Der Skill trennt Grundbuchformalismus von materieller Wirksamkeit und verhindert
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

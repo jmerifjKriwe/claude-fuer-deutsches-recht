@@ -82,4 +82,3 @@ Wenn der Nutzer nur Dateien hochlädt:
 | Skill | Warum jetzt? | Ergebnis |
 | --- | --- | --- |
 | `...` | [...] | [...] |
-

@@ -45,4 +45,3 @@ Die BFH-AdV-Beschlüsse vom 27.05.2024 ermöglichen im Eilverfahren eine Argumen
 - Maklerbewertung ohne Datumsangabe und ohne Marktbezug einreichen; das Finanzamt verlangt nachvollziehbare Vergleichsobjekte.
 - Kaufpreis aus 2020 für den Stichtag 01.01.2022 ohne Zeitanpassung verwenden.
 - AdV-Antrag ohne ausdrücklichen Hilfsantrag auf Sicherheitsleistung; bei hohen Beträgen riskant.
-

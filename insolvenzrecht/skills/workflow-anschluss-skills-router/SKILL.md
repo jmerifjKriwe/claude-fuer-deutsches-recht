@@ -60,4 +60,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Faustregel
 - Immer zuerst Antragspflicht klären (§ 15a InsO), dann Verfahrenswahl, dann operative Skills.
-

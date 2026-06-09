@@ -122,4 +122,3 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
-

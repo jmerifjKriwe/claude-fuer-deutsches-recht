@@ -1,6 +1,6 @@
 ---
 name: auslandsdienstbezuege-bbesg
-description: "Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine im Beamtenrecht."
+description: "Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die B..."
 ---
 
 # Auslandsdienstbezuege nach BBesG
@@ -71,4 +71,3 @@ Skill für Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolize
 ## 7. Beispiel (Kurzfassung)
 
 Mandant ist Referent Botschaft Tokio, verheiratet, zwei Kinder. Auslandszuschlag Stufe falsch berechnet, Mietzuschuss nicht voll bemessen. Skill liefert Korrekturantrag mit Berechnung.
-

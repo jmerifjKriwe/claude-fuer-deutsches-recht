@@ -1,6 +1,6 @@
 ---
 name: gestaendnis-und-strafmilderung
-description: "Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit Verstaendigung vermeiden. Schweigen darf nicht schaerfend gewertet werden im Strafzumessung."
+description: "Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit..."
 ---
 
 # Gestaendnis und Strafmilderung
@@ -127,4 +127,3 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 - §§ 136, 243 Abs. 5, 257c StPO.
 - BGH zur Bewertung des Schweigens — Aktenzeichen verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

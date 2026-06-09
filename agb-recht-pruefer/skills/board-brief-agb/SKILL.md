@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Board Brief AGB: macht aus der AGB-P
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

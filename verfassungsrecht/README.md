@@ -125,7 +125,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `vfgr-bundestreue-foederalismus` | Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Pruefraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht. |
 | `vfgr-grundrechtspruefung-bauleiter` | Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht. |
 | `vfgr-organstreit-leitfaden` | Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster für Bundestagsfraktionen und Abgeordnete im Verfassungsrecht. |
-| `vfgr-verfassungsbeschwerde` | Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht im Verfassungsrecht. |
+| `vfgr-verfassungsbeschwerde-substantiierung-spezial` | Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung: Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis,... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verfassungsrecht. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verfassungsrecht. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Verfassungsrecht. |

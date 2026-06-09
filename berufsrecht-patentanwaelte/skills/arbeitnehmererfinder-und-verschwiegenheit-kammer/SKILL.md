@@ -64,4 +64,3 @@ description: "Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammer
 - Vertretungsbefugnis vor BPatG/UPC nach § 134 PatG und Art. 48 UPCA klar abgrenzen.
 - Verschwiegenheit nach § 39a PAO im UPC-Verfahren mit Art. 53 UPCA harmonisieren.
 - Werbung § 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich.
-

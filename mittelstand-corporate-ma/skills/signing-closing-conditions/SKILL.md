@@ -193,4 +193,3 @@ AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 
 - assets/templates/cp-tracker-signing-closing.md
 - assets/templates/closing-deliverables-register.md
-

@@ -1,6 +1,6 @@
 ---
 name: preisangaben
-description: "Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe im Produktrecht."
+description: "Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe im Pro..."
 ---
 
 # Preisangaben (PAngV 2022)
@@ -132,4 +132,3 @@ Halluzinations-Reparatur task_198 (3 Probleme):
  Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
  kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->
-

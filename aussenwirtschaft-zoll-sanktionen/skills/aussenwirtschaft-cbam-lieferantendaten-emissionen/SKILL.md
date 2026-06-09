@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-lieferantendaten-emissionen
-description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten für Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten für Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenari..."
 ---
 
 # CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten
@@ -75,4 +75,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 2023/956 Anhang IV auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
 - [VO (EU) 2023/1773 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1773)
 - [EU-Kommission CBAM-Leitlinien](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
-

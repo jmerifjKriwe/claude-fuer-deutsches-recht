@@ -28,4 +28,3 @@ VVG §§ 100 ff.; GmbHG § 43; AktG §§ 93, 116; InsO § 15a; AVB D&O.
 
 - cyberversicherung-ransomware-sanktionsrecht
 - deckungsprozess-zuständigkeit-215-vvg
-

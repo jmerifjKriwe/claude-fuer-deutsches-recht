@@ -1,6 +1,6 @@
 ---
 name: anteilstausch-21-umwstg
-description: "Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kapitalgesellschaft. Behandelt qualifizierter Anteilstausch Wertansatzwahl Sperrfristen § 22 Abs. 2 UmwStG sieben Jahre und Folge einer schaedlichen Veraeusserung. Output Pruefraster und Vereinbarungsmuster. Abgrenzung zu fa-stu-umwandlung-formwechsel-umwstg."
+description: "Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kap..."
 ---
 
 # Anteilstausch — § 21 UmwStG Voraussetzungen und Sperrfrist
@@ -70,4 +70,3 @@ description: "Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualif
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-

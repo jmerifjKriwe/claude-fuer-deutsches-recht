@@ -30,4 +30,3 @@ HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instan
 3. Wertansatz klären: Zeitpunkt, Bewertungsgrundlage, Fotos, Gutachten, Kostenschätzung.
 4. Textformvereinbarung suchen oder Entwurf vorbereiten.
 5. Honorarfolge von Haftungsfolge trennen: Bestand kann Honorar erhöhen und zugleich Risiken verschärfen.
-

@@ -61,4 +61,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Frauenintercessio?
 2. Wirksame exceptio?
 3. Bestaetigung erfolgt?
-

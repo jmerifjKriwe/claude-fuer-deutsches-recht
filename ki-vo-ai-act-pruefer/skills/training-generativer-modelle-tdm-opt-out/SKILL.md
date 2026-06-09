@@ -23,4 +23,3 @@ description: "Training generativer Modelle mit Text, Bild, Musik, Code und Daten
 | Opt-out | maschinenlesbarer Vorbehalt | Crawler-Regel und Sperrprotokoll |
 | Memorization | Output kopiert Passagen | Filter, Red-Team, Logging |
 | Datenbankrecht | massenhafter Datenbankauszug | Rechteprüfung, Mengenanalyse |
-

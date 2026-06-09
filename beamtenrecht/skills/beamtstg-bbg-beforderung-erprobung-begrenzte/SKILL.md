@@ -63,4 +63,3 @@ Wenn der Nutzer ein Aktenzeichen, eine Behördennorm oder eine Verwaltungsvorsch
 - Gibt es eine amtliche Quelle?
 - Ist das Zitat nur aus einer privaten Datenbank?
 - Wird eine Verwaltungsvorschrift fälschlich wie ein Gesetz behandelt?
-

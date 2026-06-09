@@ -44,4 +44,3 @@ description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck im Preuß
 1. Welches Bundesland?
 2. Welche Nachbarrechtsregelung?
 3. ALR als Hintergrund relevant?
-

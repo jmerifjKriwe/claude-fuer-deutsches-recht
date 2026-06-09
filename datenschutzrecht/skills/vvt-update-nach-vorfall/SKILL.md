@@ -1,6 +1,6 @@
 ---
 name: vvt-update-nach-vorfall
-description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Update; Aufbewahrungsfristen; Verknüpfung mit Vorfallregister Art. 33 Abs. 5. Output: Update-Checkliste mit Pflichtfeldern. Abgrenzung: kein neues VVT; keine DSFA."
+description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Up..."
 ---
 
 # Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
@@ -53,4 +53,3 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 - `dsv-dsfa-update-nach-vorfall` deckt die Datenschutz-Folgenabschätzung ab.
 - `dsv-interne-dokumentation-art-33-abs-5` deckt das Vorfallregister ab.
-

@@ -158,4 +158,3 @@ Mit freundlichen Gruessen
 - VLB-Hinweise und Codelisten - vlb.de (Boersenverein).
 - BVA-Verlagsdienstleister - mvb-online.de.
 - GND - Gemeinsame Normdatei der Deutschen Nationalbibliothek (dnb.de).
-

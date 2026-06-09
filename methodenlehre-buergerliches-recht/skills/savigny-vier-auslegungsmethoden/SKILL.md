@@ -1,6 +1,6 @@
 ---
 name: savigny-vier-auslegungsmethoden
-description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest für jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills für Wortlaut, System, Historie und Telos."
+description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert..."
 ---
 
 # Savigny und der Vierer-Kanon der Auslegung
@@ -81,4 +81,3 @@ Kritische Stimmen aus der Methodenlehre: Theodor Viehweg ("Topik und Jurispruden
 - Quellenpflicht und Zitierweise: `references/zitierweise.md`.
 
 Stand: Mai 2026. Vor jeder Schriftsatz- oder Memo-Verwendung Rechtsprechungslinien live verifizieren.
-

@@ -150,4 +150,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Finn
 Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

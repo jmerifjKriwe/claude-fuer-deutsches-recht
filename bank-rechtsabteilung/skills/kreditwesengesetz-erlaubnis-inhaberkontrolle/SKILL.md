@@ -45,4 +45,3 @@ Dieser Skill analysiert, ob ein Geschäftsmodell einer KWG-Erlaubnis bedarf, wel
 - Erweiterung Erlaubnis (neues Kreditgeschäft): § 32 KWG Erweiterungsantrag, § 33 Nr. 4 (Geschäftsplan), BaFin-Abstimmung
 - Abberufungsverlangen BaFin: § 36 KWG, vorherige Anhörung, aufschiebende Wirkung nur bei Antrag
 - Unterschreiten 10 %-Schwelle: § 24 Abs. 1 Nr. 12 KWG Anzeige nachträglich, AnzV § 18
-

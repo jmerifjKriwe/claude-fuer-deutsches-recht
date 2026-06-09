@@ -61,4 +61,3 @@ description: "Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertr
 - vertragstypen-mischvertrag-router
 - kaufvertrag-grundschema-paragraph-433
 - bt-fristen-erklaerungen-zugang
-

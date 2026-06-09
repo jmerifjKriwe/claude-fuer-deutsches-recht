@@ -48,4 +48,3 @@ Einstweilige Maßnahmen sichern den Rechtsschutz während des laufenden Schiedsv
 - Mareva UK: USA-Vermögen + UK-Schiedsklausel → UK-Gericht für Worldwide Freezing Order
 - Anti-Suit: nur in Ländern mit anti-suit-freundlicher Rechtsprechung (UK, Singapur, Schweiz)
 - Vollstreckung: Schiedsort-Recht für staatliche Unterstützungsklage (§ 1025 ff. ZPO in D)
-

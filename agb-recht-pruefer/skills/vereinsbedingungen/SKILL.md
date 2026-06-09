@@ -33,4 +33,3 @@ description: "Branchen-Fachmodul für Vereinsbedingungen: prüft typische AGB-Ri
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

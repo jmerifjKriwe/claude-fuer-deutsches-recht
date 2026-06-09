@@ -87,4 +87,3 @@ Dieser Skill untersucht Healthcare-spezifische Korruptionsszenarien, klärt die 
 - **Compliance-SOP-Template** für HCP-Interaktionen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -43,4 +43,3 @@ Konkret zu prüfen:
 - § 98 Abs. 1 StPO (Richtervorbehalt)
 - § 97 StPO (Beschlagnahmeverbote)
 - BVerfGE 113, 29 (Anwaltskanzleien)
-

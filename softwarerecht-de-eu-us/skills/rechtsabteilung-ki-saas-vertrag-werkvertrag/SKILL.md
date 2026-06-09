@@ -46,4 +46,3 @@ AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene gerege
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

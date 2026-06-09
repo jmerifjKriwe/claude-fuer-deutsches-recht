@@ -172,4 +172,3 @@ Fortbildung anerkannt.
 - TDDDG § 25 - Einwilligung bei Cookies.
 - UWG § 7 - Werbe-E-Mails.
 - BRAK-Hinweise zur Fortbildung (brak.de).
-

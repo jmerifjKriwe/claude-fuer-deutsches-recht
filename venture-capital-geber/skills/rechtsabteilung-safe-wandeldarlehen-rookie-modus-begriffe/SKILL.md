@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe
-description: "Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale,..."
 ---
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
@@ -42,4 +42,3 @@ VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen.
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

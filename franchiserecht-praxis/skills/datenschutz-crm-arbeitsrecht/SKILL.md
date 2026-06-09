@@ -74,4 +74,3 @@ Im Franchisekontext ist besonders kritisch, wer die Entscheidung über den Einsa
 - Kundendaten-Eigentum im Franchisevertrag klar regeln: Wessen Daten sind es nach Vertragsende?
 - Löschfristen für Kundendaten in einem Verarbeitungsverzeichnis nach Art. 30 DSGVO dokumentieren.
 - Datenschutz-Audits in das Franchise-Audit-Programm integrieren.
-

@@ -39,4 +39,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: 13-Monats-Frist § 676b BGB läuft ab, Bank verweigert Erstattung, Strafanzeige eilig (Geldverbergung), grobe Datenpanne, NIS2 oder Art. 33 DSGVO unmittelbar offen.
 - **Gelb**: Mitverschulden des Kunden möglich (§ 675v BGB), Beweissicherung unvollständig (E-Mail-Header, IP, Screenshots), Versicherung nicht informiert.
 - **Grün**: Anzeige bei Bank rechtzeitig, Strafanzeige bei Polizei mit Aktenzeichen, Beweise gesichert, ggf. Cyberversicherung informiert.
-

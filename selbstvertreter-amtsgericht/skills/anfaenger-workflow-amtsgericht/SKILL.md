@@ -94,4 +94,3 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 ### Leitentscheidungen
 
 - BGH VI ZR 67/15
-

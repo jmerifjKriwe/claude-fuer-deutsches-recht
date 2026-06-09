@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordinati
 3. Schnittstellen TGA/Tragwerk/Brandschutz/Ausbau abgleichen.
 4. Werkstattplanung des Unternehmers von Ausführungsplanung des Planers trennen.
 5. Fehlerfolge: Nachtrag, Bauzeit, Mangel, Haftung, Umplanung.
-

@@ -48,4 +48,3 @@ Commodity-Handel (Rohstoffe, Agrarprodukte, Energie) hat eigene Vertragstandardi
 - CISG-Ausschluss: in GAFTA/FOSFA oft durch englisches Recht-Klausel erledigt
 - Hedging-Strategie: Long-Hedge für Käufer, Short-Hedge für Verkäufer
 - String Trading: Dokumente-Kette lückenlos halten (BL-Indossament)
-

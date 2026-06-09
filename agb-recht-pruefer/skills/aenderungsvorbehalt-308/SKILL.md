@@ -92,4 +92,3 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

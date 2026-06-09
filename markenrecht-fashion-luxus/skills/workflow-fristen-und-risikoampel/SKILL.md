@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Einstweilige Verfügung im Verletzungsfall:** Dringlichkeit binnen 1 Monat (str., je OLG; OLG-spezifisch verifizieren, z. B. OLG Hamburg 1 Monat, OLG Düsseldorf 6 Wochen, OLG Köln 6 Wochen).
 - **Anmeldegebühr DPMA:** 290 EUR Grundgebühr (online), bis 3 Klassen 290 EUR, jede weitere Klasse 100 EUR. Verlängerung alle 10 Jahre 750 EUR plus Klassengebühren.
 - Falle: Selektiver Vertriebsvertrag ohne FRAND-konforme Auswahl → Kartellverbot Art. 101 AEUV / § 1 GWB greift; bei Plattformverbot Coty-Linie beachten.
-

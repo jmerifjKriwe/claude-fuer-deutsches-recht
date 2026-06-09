@@ -74,4 +74,3 @@ kann Annahme sein — hier kommt es auf die konkrete Formulierung an.
 - Massengeschäft ohne Mengenbegrenzung typischerweise invitatio?
 - Automatisierte Bestellbestätigung: Annahme oder nur Eingangsbestätigung?
 - Preisfehler: Anfechtung nach § 119 Abs. 1 BGB — unverzüglich nach § 121 BGB?
-

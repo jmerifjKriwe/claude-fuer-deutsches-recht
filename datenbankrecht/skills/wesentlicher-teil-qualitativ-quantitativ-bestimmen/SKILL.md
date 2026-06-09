@@ -1,6 +1,6 @@
 ---
 name: wesentlicher-teil-qualitativ-quantitativ-bestimmen
-description: "Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer im Datenbankrecht."
+description: "Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweisl..."
 ---
 
 # Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen
@@ -67,4 +67,3 @@ Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer D
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [§ 97 UrhG Schadensersatz — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
-

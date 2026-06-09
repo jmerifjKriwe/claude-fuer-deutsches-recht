@@ -41,4 +41,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Keine Gleichsetzung mit moderner ZPO.
 - Keine ungesicherte wörtliche Tafelübersetzung ohne Nutzerquelle.
 - Keine Beschönigung archaischer Zwangsmittel.
-

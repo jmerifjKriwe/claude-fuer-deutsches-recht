@@ -1,6 +1,6 @@
 ---
 name: offboarding-account-sperre-datenuebergabe
-description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen für Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation Hold bei drohender Kuendigungsschutzklage oder Strafanzeige, bedient Geheimnisschutz nach GeschGehG und erfasst BAG-Linie zur Auswertung dienstlicher E-Mail-Postfaecher. Liefert priorisierte Schritt-für-Schritt-Checkliste mit Verantwortlichen, Fristen, Norm-Pinpoints und Risikoampel."
+description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen für Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation Hold bei drohender Kuendigungsschutzklage oder Strafanzeige,..."
 ---
 
 # Offboarding — Account-Sperre und Datenuebergabe
@@ -124,4 +124,3 @@ Quellen für Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-le
 - **Sofort eskalieren** an Geschaeftsfuehrung und Anwalt bei: fristloser Kuendigung mit Strafvorwurf, GeschGehG-Verdachtsfall mit laufendem Datenabfluss, HinSchG-Meldung mit Repressalienvorwurf, AGG-Beschwerde, Datenschutzpanne nach Art. 33 DSGVO.
 - **DSB einbeziehen** bei: Auswertung dienstlicher E-Mails in Variante B, BYOD-Wipe mit privaten Daten, Konfliktfall um Daten-Eigentum, Litigation Hold ueber sechs Monate.
 - **Betriebsrat beteiligen**, wenn vorhanden, ueber § 87 Abs. 1 Nr. 6 BetrVG (technische Ueberwachungseinrichtungen), § 102 BetrVG (Kuendigungsanhoerung).
-

@@ -1,6 +1,6 @@
 ---
 name: dba-tuerkei-2011
-description: "DBA Deutschland Tuerkei Neufassung 2011 in Kraft seit 1.8.2012 anwendbar ab 2012. Anwendungsfall Familienbande Deutschland-Tuerkei Arbeitseinkuenfte Pensionen Beteiligungen Bauausführung in der Tuerkei Holding. Quellensteuer differenziert. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Tuerkei Neufassung 2011 in Kraft seit 1.8.2012 anwendbar ab 2012. Anwendungsfall Familienbande Deutschland-Tuerkei Arbeitseinkuenfte Pensionen Beteiligungen Bauausführung in der Tuerkei Holding. Quellensteuer differenziert. Methodenartikel Anrechnung. Output Mandanten-Memo Berechn..."
 ---
 
 # DBA Deutschland-Tuerkei (2011)
@@ -148,4 +148,3 @@ Bei Pensionsempfaenger Wohnsitz TR mit DRV: TR besteuert, DE freistellt; Lebensb
 Stand: 05/2026. DBA-Tuerkei 19.09.2011, in Kraft 01.08.2012 (BGBl. 2012 II S. 526; BStBl. 2013 I S. 373). Anwendbar rueckwirkend ab VZ 2011. Kein MLI (Tuerkei hat MLI nicht ratifiziert, Stand 05/2026).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

@@ -1,6 +1,6 @@
 ---
 name: schlichtung-reise-verkehr-anrufen
-description: "Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) nach erfolgloser Reklamation beim Eisenbahnverkehrsunternehmen. Kostenfrei für Verbraucher nach VSBG. Voraussetzung Vorgerichtliche Geltendmachung beim EVU mindestens vier Wochen ohne befriedigende Antwort oder Ablehnung. Antrag enthaelt Sachverhalt Verspaetungsangaben Anspruchsberechnung gewuenschte Loesung und Beilagen. Sitz Fasanenstrasse 81 in 10623 Berlin."
+description: "Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) nach erfolgloser Reklamation beim Eisenbahnverkehrsunternehmen. Kostenfrei für Verbraucher nach VSBG. Voraussetzung Vorgerichtliche Geltendmachung beim EVU mindestens vier Wochen ohne befriedigende Antwort oder Ableh..."
 ---
 
 # Schlichtungsstelle Reise & Verkehr e.V. anrufen
@@ -169,4 +169,3 @@ Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr.
 - `schlichtungsantrag-<datum>.md` und PDF mit allen Belegen verlinkt.
 - Übergabe an `fahrgastrechte-anlagen-bauen` für Anlagen-Bundle.
 - Hinweis auf Verjährungshemmung mit Stichdatum.
-

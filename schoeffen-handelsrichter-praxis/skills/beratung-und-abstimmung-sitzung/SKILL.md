@@ -56,4 +56,3 @@ Konkret zu prüfen:
 - § 263 StPO (Geheimhaltung)
 - § 43 DRiG (Eid)
 - § 45 DRiG
-

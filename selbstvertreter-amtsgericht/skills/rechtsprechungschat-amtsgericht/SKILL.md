@@ -54,4 +54,3 @@ Nicht schreiben:
 ```text
 Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 ```
-

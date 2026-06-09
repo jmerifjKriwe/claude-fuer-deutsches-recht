@@ -100,4 +100,3 @@ In den 1990er–2000er Jahren haben viele Kommunen US-amerikanische Cross-Border
 - **Vergabe-Checkliste**: EU-Schwellenwert, CPV-Codes, Vergabevermerk
 - **Genehmigungsantrag-Muster**: An Rechtsaufsichtsbehörde
 - **Cross-Border-Leasing-Analyse**: Bestandsaufnahme historischer Risiken
-

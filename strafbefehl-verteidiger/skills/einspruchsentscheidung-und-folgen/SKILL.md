@@ -46,4 +46,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Wiedereinsetzung § 44 StPO bei verspaetetem Einspruch:** unverschuldete Versaeumung; 1 Woche ab Wegfall Hindernis; restriktive BGH-Linie.
 - **Einspruchsruecknahme § 411 III StPO:** bis Urteilsverkuendung moeglich; Strafbefehl wird rechtskraeftig.
 - **Praxis-Tipp:** Bei beschraenktem Einspruch im Antrag prazise formulieren (z. B. "Der Einspruch beschraenkt sich auf den Rechtsfolgenausspruch, insbesondere die Hoehe der Tagessaetze und das Fahrverbot"); Akteneinsicht vor Festlegung Strategie zwingend.
-

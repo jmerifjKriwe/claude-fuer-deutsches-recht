@@ -47,4 +47,3 @@ description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Ba
 2. Eigeninteresse?
 3. Tilgungsfaehigkeit?
 4. Sittenwidrigkeit?
-

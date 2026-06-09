@@ -95,4 +95,3 @@ Fazit (500-1.000 Z)
 - Pressekodex Ziff. 2 (Sorgfalt), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

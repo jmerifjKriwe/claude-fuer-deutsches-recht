@@ -1,6 +1,6 @@
 ---
 name: antikorruption-crm-datenschutz-cross-selling
-description: "Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen im Handelsvertreterrecht."
+description: "Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtenge..."
 ---
 
 # Compliance und Antikorruption im Handelsvertretervertrieb
@@ -104,4 +104,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - EuGH C-465/04
 - EuGH C-381/19
 - EuGH C-217/05
-

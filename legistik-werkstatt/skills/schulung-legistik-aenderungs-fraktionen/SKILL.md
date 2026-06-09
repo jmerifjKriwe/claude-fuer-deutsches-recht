@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik-aenderungs-fraktionen
-description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Erwartungshorizont. Output Trainerleitfaden Aufgabenhefte Erwartungshorizonten je Station. Kompatibel mit der Arbeitsakte legistik-pflichtpostfach im Legistik."
+description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing..."
 ---
 
 # Trainerleitfaden Schulung Legistik
@@ -122,4 +122,3 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 38-42 GGO (Legistik-Grundregeln, Schulungspflicht für Referenten) — §§ 1-5 HdR (Handbuch der Rechtsförmlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualität) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
-

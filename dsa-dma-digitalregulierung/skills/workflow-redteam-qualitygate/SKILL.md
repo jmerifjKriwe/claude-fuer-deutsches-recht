@@ -39,4 +39,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Häufiger Fehler: DSA und DMA werden vermischt. Die Pflichtenwirkung ist eine andere — DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon, DMA nur für ausdrücklich benannte Gatekeeper. Bei Beratung stets zuerst klären: "Ist Ihr Mandant von der EU-Kommission als Gatekeeper benannt?" Wenn nein: kein DMA-Argument.
-

@@ -1,6 +1,6 @@
 ---
 name: klage-drafting-mandantenmemo-partner
-description: "Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder t..."
 ---
 
 # Klage-Drafting nach § 253 ZPO
@@ -140,4 +140,3 @@ Rechtsanwältin
 - § 286 BGB für Verzugszinsen; § 288 BGB für Verzugszinssatz.
 - Rechtsprechung des BGH zur Bestimmtheit von Anträgen: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
-

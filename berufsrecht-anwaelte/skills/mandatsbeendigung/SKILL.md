@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 627 BGB
 - § 14 BORA (Anzeige der Niederlegung)
 - § 50 BRAO (Akteneinsichtsrecht)
-

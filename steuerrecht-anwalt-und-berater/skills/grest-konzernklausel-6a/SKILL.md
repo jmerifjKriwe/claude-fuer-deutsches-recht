@@ -61,4 +61,3 @@ Empfehlung: Bei Werten über 5 Mio. EUR Bemessungsgrundlage immer verbindliche A
 - Zwischenholding wird kurz vor der Umstrukturierung eingeschoben; Vorbehaltensfrist startet neu.
 - Nachbehaltensplanung in Folge-M&A vergessen; Verkauf der Tochter binnen fünf Jahren hebt Begünstigung auf.
 - Drittbeteiligungen unter 5 % werden ignoriert, obwohl Optionsrechte oder Stimmrechtsabreden die 95-%-Schwelle wirtschaftlich reißen.
-

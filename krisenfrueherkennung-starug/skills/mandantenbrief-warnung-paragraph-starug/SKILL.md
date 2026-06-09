@@ -301,4 +301,3 @@ _______________________________ _______________________________
 - **BGH IX ZR 285/14 vom 26.01.2017** — Hinweis- und Warnpflicht des Steuerberaters bei Krisensignalen.
 - **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung zugunsten faktischer Geschäftsführer.
 - Aktuelle Urteile zur Berater-Haftung (Steuerberater, WP, RA) vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
-

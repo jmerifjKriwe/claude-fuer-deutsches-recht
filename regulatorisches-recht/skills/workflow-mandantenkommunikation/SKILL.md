@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Reputation und Veröffentlichung:** Sanktionsbescheide werden regelmäßig veröffentlicht (z. B. BaFin §§ 60a, 60b KWG; BfDI im Tätigkeitsbericht). Kommunikationsstrategie mit PR/Investor Relations koordinieren.
 - **Verfahrensrechte sichern:** Anhörung, Akteneinsicht (§ 29 VwVfG), Rechtsmittel (§§ 68 ff., 80 ff. VwGO bzw. § 71 GWB für Kartellbescheide); Rechtsbehelfsbelehrungen genau prüfen.
 - **Sie-Form, sachlich; keine spekulativen Garantien:** Pflicht zur Information über Risiken (§ 49b BRAO, § 11 BORA); RVG-Hinweis Pflicht.
-

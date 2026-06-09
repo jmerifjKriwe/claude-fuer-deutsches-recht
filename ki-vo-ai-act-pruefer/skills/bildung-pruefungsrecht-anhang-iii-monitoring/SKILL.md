@@ -41,4 +41,3 @@ Erzeuge:
 - Betreiberpflichtenliste nach Art. 26 KI-VO.
 - Grundrechte- und Datenschutz-Check.
 - Entscheidungsbausteine für Prüfungsamt oder Rechtsbehelf.
-

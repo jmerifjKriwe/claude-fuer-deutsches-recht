@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule vor und führt durch Widerspruch, Klage, Eilantrag, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
+description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule vor und führt durch Widerspruch, Klage, Eilantrag, Beweis, Termin, Sanity-Check,..."
 ---
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
@@ -230,4 +230,3 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 ---
 
 Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Fristen, Bescheidkette, Belege, Eilbedarf, Kosten und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zu Sozialverband, Beratungshilfe, PKH oder anwaltlicher Prüfung.
-

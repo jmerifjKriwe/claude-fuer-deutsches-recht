@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Sicherungsrechte: prüft, redlined und entw
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

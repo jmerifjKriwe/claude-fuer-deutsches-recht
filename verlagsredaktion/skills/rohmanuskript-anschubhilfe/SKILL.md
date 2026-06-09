@@ -46,4 +46,3 @@ Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autor:innente
 - Ist der Text für den konkreten Kanal verwendbar?
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
-

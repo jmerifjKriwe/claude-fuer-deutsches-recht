@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-closing-planen
-description: "Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffah..."
 ---
 
 # Kreuzfahrtschiff – Closing planen
@@ -93,4 +93,3 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 - FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

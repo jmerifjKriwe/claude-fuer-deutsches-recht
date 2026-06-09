@@ -72,4 +72,3 @@ Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulieru
  von PDMRs getätigt? → Prüfung auf Art. 14/19 MAR-Verstoß
 - § 97-WpHG-Haftungsrisiko einschätzen: Wie lange zwischen Entstehung und Veröffentlichung?
 - Compliance-Akte: Entstehungszeitpunkt der Insiderinformation belegen
-

@@ -94,4 +94,3 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschaeftsstelle anrufen.
-

@@ -1,6 +1,6 @@
 ---
 name: bilanzberichtigung-4-abs-2-estg
-description: "Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerrecht — Korrektur unrichtiger Bilanzansatzfehler und Wahlrechtsausuebung in Folgejahren. Anwendungsfall Aussenpruefung deckt Bilanzansatzfehler auf oder Steuerpflichtiger will ein Wahlrecht (z. B. § 6b EStG Ruecklage) nachtraeglich anders ausueben. Behandelt Bilanzzusammenhang fortgefuehrte Werte und das Verhaeltnis zur Verfahrensaenderung § 173 AO. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-handels-vs-steuerbilanz."
+description: "Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerrecht — Korrektur unrichtiger Bilanzansatzfehler und Wahlrechtsausuebung in Folgejahren. Anwendungsfall Aussenpruefung deckt Bilanzansatzfehler auf oder Steuerpflichtiger will ein Wahlrecht (z. B. § 6b EStG Ruecklage) nachtraeglich..."
 ---
 
 # Bilanzberichtigung und Bilanzaenderung — § 4 Abs. 2 EStG
@@ -71,4 +71,3 @@ description: "Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerr
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-

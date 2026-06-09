@@ -62,4 +62,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 - EuGH C-543/16
 - EuGH C-275/05
-

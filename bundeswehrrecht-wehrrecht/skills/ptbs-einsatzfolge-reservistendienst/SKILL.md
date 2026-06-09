@@ -1,6 +1,6 @@
 ---
 name: ptbs-einsatzfolge-reservistendienst
-description: "PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehr..."
 ---
 
 # PTBS als Einsatzfolge – Beweisführung
@@ -95,4 +95,3 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 - BSG zu Kausalität psychischer Schäden – ständige Rechtsprechung.
 - BAPersBw – Verwaltungspraxis.
 - Bundeswehrkrankenhäuser – Standorte und Fachabteilungen (bundeswehr.de).
-

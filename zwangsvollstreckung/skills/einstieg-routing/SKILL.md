@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zuständigkeit (Vollstreckungsgericht), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zuständigkeit (Vollstreckungsgericht), leitet zum passenden Sp..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Zwangsvollstreckung** vom ersten Sachverhalt zu Rollen,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

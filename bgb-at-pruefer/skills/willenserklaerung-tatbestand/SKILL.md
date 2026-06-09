@@ -74,4 +74,3 @@ Fehlt der Geschäftswille: Anfechtungsrecht nach § 119 Abs. 1 BGB (Inhaltsirrtu
 - Geschäftswille: Wollte Erklärende genau dieses Rechtsgeschäft?
 - Empfangsbedürftigkeit: Bedarf die WE des Zugangs beim Empfänger?
 - Objektiver Empfängerhorizont: Wie musste der Empfänger die Erklärung verstehen?
-

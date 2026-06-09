@@ -52,4 +52,3 @@ Die Rom I-Verordnung (EG) 593/2008 bestimmt in EU-Mitgliedstaaten das auf Schuld
 - Eingriffsnormen-Risiko beim Erfüllungsort gesondert prüfen
 - Bei Zweifel: CISG als überlagernde lex specialis prüfen
 - Nicht-staatliches Recht nur als Vertragsinhaltsklausel, nicht als Statut
-

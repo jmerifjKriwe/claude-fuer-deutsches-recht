@@ -29,4 +29,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Anlagenvolumen: Vollständigkeit (Substantiierung) vs. Übersichtlichkeit (Gericht-Lesbarkeit). Anlagenverzeichnis mit Stichwort-Bezeichnung wesentlich.
 - Beglaubigte Abschrift (§ 169 ZPO) vs. einfache Abschrift: bei Zustellungen beachten; bei Urteilen amtsgerichtlicher Ausfertigung nötig.
-

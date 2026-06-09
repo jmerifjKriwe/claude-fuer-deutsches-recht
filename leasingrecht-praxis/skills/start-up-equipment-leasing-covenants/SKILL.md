@@ -114,4 +114,3 @@ Bei Verletzung: Kündigungsrecht des LG oder Sonderkündigungsrecht.
 - **Bürgschafts-Vorlage**: Selbstschuldnerische Bürgschaft mit Höchstbetrag
 - **Reporting-Pflichten-Anlage**: Quartalsbericht-Format
 - **Verhandlungsmatrix**: LG-Anforderungen vs. Start-up-Gegenvorschläge
-

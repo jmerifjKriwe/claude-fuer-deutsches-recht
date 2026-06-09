@@ -65,4 +65,3 @@ Die Sozialgerichtsbarkeit hat ihre Wurzeln in den Schiedsgerichten der Bismarcks
 - SGG: gesetze-im-internet.de
 - BSG-Rechtsprechung: bsg.bund.de (frei zugaengliche Entscheidungen)
 - Sekundaerliteratur: Ritter, Sozialversicherung in Deutschland und England (1983)
-

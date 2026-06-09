@@ -47,4 +47,3 @@ Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart.
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

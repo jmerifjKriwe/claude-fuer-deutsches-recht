@@ -1,6 +1,6 @@
 ---
 name: onboarding-festsetzungsverjaehrung
-description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjährungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjährungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung."
+description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjährungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noc..."
 ---
 
 # Festsetzungsverjaehrung — §§ 169 bis 171 AO in der Praxis
@@ -42,4 +42,3 @@ description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaer
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

@@ -36,4 +36,3 @@ description: "Klausel-Fachmodul für Kündigung Ordentlich: prüft, redlined und
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

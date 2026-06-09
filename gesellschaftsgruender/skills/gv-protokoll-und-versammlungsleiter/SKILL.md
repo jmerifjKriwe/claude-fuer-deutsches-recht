@@ -131,4 +131,3 @@ Schriftfuehrer: ___________ [NAME]
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit ueber Beschluesse
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung-Protokoll
 - `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Stimmrechts-Berechnung
-

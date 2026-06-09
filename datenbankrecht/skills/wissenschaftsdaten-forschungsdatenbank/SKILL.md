@@ -1,6 +1,6 @@
 ---
 name: wissenschaftsdaten-forschungsdatenbank
-description: "Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept im Datenbankrecht."
+description: "Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC..."
 ---
 
 # Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke
@@ -67,4 +67,3 @@ Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (T
 - [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [Art. 3 DSM-RL — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
-

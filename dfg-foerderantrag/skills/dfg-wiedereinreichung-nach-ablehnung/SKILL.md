@@ -190,4 +190,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Verfahrensordnung (Sperrfristen, Wiedereinreichungsregeln): dfg.de — am Tag des Bescheids und vor Wiedereinreichung live prüfen.
 
 Sperrfristen und Verfahrensregeln zur Wiedereinreichung sind programmabhängig und ändern sich — vor Wiedereinreichung in der aktuellen Verfahrensordnung verifizieren.
-

@@ -1,6 +1,6 @@
 ---
 name: miet-und-pachtrechtliche-rueckabwicklung
-description: "Bei miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Nutzungswertersatz und Kautionsausgleich. Abgrenzung: nicht reguläre Mietzinsforderung bei wirksamem Vertrag."
+description: "Bei miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schaden..."
 ---
 
 # Miet- und pachtrechtliche Rückabwicklung
@@ -63,4 +63,3 @@ Anwendungsfall: miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewicke
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

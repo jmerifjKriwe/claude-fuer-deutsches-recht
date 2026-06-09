@@ -1,6 +1,6 @@
 ---
 name: lph-04-bauherrnfreigabe
-description: "HOAI LPH 4 Genehmigungsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 4 Genehmigungsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen..."
 ---
 
 # LPH 4 Genehmigungsplanung: Strukturiert freigabeentscheidung
@@ -32,4 +32,3 @@ description: "HOAI LPH 4 Genehmigungsplanung: strukturiert Freigabeentscheidung,
 - Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
 - Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

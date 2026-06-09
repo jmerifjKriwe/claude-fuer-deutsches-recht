@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung
-description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung im Immobilienrechtspraxis."
+description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung i..."
 ---
 
 # Sachverhaltsermittlung
@@ -97,4 +97,3 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 - Mangelanzeige/Mietminderung: §§ 536, 536a, 543 BGB
 - Kuendigung: §§ 543, 569, 573 BGB
 - Betriebskosten: § 556 Abs. 3 BGB, BetrKV
-

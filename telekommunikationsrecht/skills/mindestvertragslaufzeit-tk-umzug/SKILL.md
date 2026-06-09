@@ -28,4 +28,3 @@ TKG Kundenschutz; BGB §§ 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht.
 
 - tk-umzug-vertragsanpassung
 - tk-output-beschwerde-antrag-klage
-

@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket-betriebspruefung
-description: "Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Projektakte mit BSFZ-Antrag und Bescheid, Stundenaufzeichnung je Mitarbeiter Tag Vorhaben, Personalkostenbeleg aus Lohnabrechnung, Auftragsforschungsbeleg mit Vertrag und Rechnung, GoBD-Logik. Mit Spaltenstruktur, 10-Jahres-Aufbewahrung und Stichprobenstrategie für die Außenprüfung."
+description: "Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Projektakte mit BSFZ-Antrag und Bescheid, Stundenaufzeichnung je Mitarbeiter Tag Vorhaben, Personalkostenbeleg aus Lohnabrechnung, Auftragsforschungsbeleg mit Vertrag und Rechnung, GoBD-Logik. Mit Spaltenstruktur, 10-Jahres-Aufbewahrung..."
 ---
 
 # Dokumentationspaket für Außenprüfung
@@ -165,4 +165,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - GoBD-Grundsätze (BMF-Schreiben, vom Antragsteller mit aktueller Fassung zu prüfen).
 - FZulG (Belegpflichten).
 - `references/forschungszulage-quellen-und-zahlen.md`.
-

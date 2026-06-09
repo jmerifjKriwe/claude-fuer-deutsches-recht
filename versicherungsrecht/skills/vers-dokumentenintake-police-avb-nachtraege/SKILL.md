@@ -47,4 +47,3 @@ VVG §§ 1, 3, 6, 7, 8, 59 ff.; BGB §§ 133, 157, 305 ff.; DSGVO Art. 5, 6, 15.
 
 - vvg-arglist-taeuschung-anfechtung
 - idd-vertrieb-beratung-dokumentation
-

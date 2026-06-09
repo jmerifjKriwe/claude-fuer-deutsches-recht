@@ -73,4 +73,3 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 - Kennzeichnungskonzept (Werbung + KI-Label)
 - Urheberrechts-Vertrag mit Designer-Vorlage
 - Markenanmeldungs-Checkliste
-

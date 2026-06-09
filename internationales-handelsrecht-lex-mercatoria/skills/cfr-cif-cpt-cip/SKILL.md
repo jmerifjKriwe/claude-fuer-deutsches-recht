@@ -48,4 +48,3 @@ Die C-Klauseln (CFR, CIF, CPT, CIP) sind Hybrid-Klauseln: Gefahrübergang am Abg
 - CIF vs. CIP Entscheidung: Transportmodus (See vs. multimodal) und Versicherungsbedarf
 - Versicherungszeugnis für Akkreditiv: UCP 600 Art. 28 Anforderungen vor Vertragsabschluss abstimmen
 - Named Destination: Terminal-Level-Spezifizierung für Frachtkostentransparenz
-

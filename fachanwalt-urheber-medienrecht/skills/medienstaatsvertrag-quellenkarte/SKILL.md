@@ -11,17 +11,17 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Urheber Medienrecht** tragend
 
 ## Suchraster
 
-- `abmahnung-sonderfall-bild-eigenen`
+- `abmahnung-sonderfall-edge-case`
 - `allgemein-workflow-chronologie-workflow-fristen`
 - `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht`
-- `fachanwalt-gewerblicher-kanzlei`
+- `erstpruefung-und-mandatsziel`
 - `gegendarstellung-presse-mandat-triage-schriftsatzkern`
 - `gegendarstellung-presse-mod-erklaerung-orientierung`
 - `medienrecht-lizenzvertrag-urhmr-urhebervertrag`
 - `medienverfuegung-beweislast-persoenlichkeitsrecht`
 - `presse-gegendarstellung-schiedsstelle-dpma-tdm-44b`
-- `presse-presserecht-rechtsschutz-interessen`
-- `urhmr-einfuehrung-rechtsfelder-ki-generierter`
+- `presse-mandantenkommunikation-entscheidungsvorlage`
+- `urhmr-einfuehrung-rechtsfelder`
 - `urhmr-presserecht-gegendarstellung-presserechtsbrief-leitfaden`
 
 ## Prüfroute

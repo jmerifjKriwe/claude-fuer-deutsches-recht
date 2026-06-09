@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Verwertbarkeitspruefung:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Zeugnisverweigerung; Belehrungsmaengel und qualifizierte Belehrung nach staendiger Rspr.
 - **Belegmatrix-Spalten:** Datum, Aktenseite, Inhalt, Beweismittel-Typ (Urkunde § 249 StPO / Zeuge § 48 StPO / Sachverstaendiger § 73 StPO / Augenschein § 86 StPO), Verwendung, Bewertung.
 - Wahrunterstellung und Selbstleseverfahren § 249 II StPO sauber trennen.
-

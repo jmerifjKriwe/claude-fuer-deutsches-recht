@@ -1,6 +1,6 @@
 ---
 name: stakeholder-zusammenfassung
-description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer Zusammenfassung für Geschäftsführung, für den Vorstand aufbereiten, Managementzusammenfassung, für Einkauf erklären oder nicht-juristische Zusammenfassung sagt im Vertragsrecht."
+description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer Zusammenfassung für Geschäftsführung, für den Vorstand aufbereiten, Managementzusammenfassung, für Einkau..."
 ---
 
 # Mandantenzusammenfassung Vertragsrecht
@@ -209,4 +209,3 @@ ist für Nicht-Juristen):
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

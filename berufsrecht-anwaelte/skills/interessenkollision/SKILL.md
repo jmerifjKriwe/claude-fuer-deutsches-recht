@@ -59,4 +59,3 @@ Konkret zu prüfen:
 - § 3 BORA
 - § 356 StGB (Parteiverrat)
 - BGH NJW 2008, 1591
-

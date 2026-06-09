@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Social Media AGB: prüft typische AGB-Risi
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

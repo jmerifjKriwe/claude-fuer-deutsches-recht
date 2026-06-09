@@ -164,4 +164,3 @@ Löschen Sie die Datei NICHT, bevor wir sie geprüft haben.
 - **WhatsApp ohne Cloud-Backup**: WhatsApp-Dateien sind nach Geräteverlust oder App-Löschung weg. Mieter sollten Auto-Backup aktivieren oder Dateien separat sichern.
 - **Fehlende qES erkannt**: Wenn das PDF keine prüfbare qES enthält, ist die Schriftform nicht gewahrt — Kündigung formunwirksam. Diesen Einwand unverzüglich gegenüber dem Vermieter erheben.
 - **Frist versäumt durch Ignorieren der E-Mail**: Selbst wenn der Mieter die E-Mail nicht gelesen hat, beginnt die Frist für ggf. erforderliche Handlungen ab Zugang zu laufen.
-

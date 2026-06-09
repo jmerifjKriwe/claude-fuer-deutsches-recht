@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation
-description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko für Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafrechtliche Risiken aufwirft und muss dies dokumentieren. Behandelt Hinweispflicht auf Risiken Steuergefahren Vorteilhaftigkeitsvergleich Aufklaerung ueber Vergleichswege und Dokumentation in der Akte. Output Aufklaerungsbogen und Bestaetigungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme und fa-stu-rvg-steuerstreit."
+description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko für Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafre..."
 ---
 
 # Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht
@@ -68,4 +68,3 @@ Der Mandant entscheidet sich für Option [...].
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

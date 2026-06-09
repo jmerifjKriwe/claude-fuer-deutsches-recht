@@ -27,4 +27,3 @@ Der Skill hilft Notariaten, KI- und Cloudwerkzeuge so zu strukturieren, dass Ent
 ## Red Flag
 
 Wenn ein externer Dienst faktisch die einzige Stelle ist, an der aktenrelevante Informationen vollständig vorhanden sind, ist das kein harmloses Hilfsmittel mehr.
-

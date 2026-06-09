@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Plain Language Politur: macht aus de
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

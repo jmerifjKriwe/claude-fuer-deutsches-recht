@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesverfassung, Landes-Geschäftsordnung, HdR- oder Landesstil. Format Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- oder Landes-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen."
+description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesve..."
 ---
 
 # Referentenentwurf bauen
@@ -129,4 +129,3 @@ Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-
 - `synopse-erstellen`
 - `xml-paralleldarstellung`
 - `dokumente-rendern-docx-pdf` (am Ende, erzeugt lieferfertiges DOCX und PDF im offiziellen HdR-Layout)
-

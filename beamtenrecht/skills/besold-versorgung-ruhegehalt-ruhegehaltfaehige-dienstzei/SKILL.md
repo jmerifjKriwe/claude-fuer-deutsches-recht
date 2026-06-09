@@ -47,4 +47,3 @@ description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit i
 2. Welche Dienstzeit?
 3. Hoehe?
 4. Abschlag?
-

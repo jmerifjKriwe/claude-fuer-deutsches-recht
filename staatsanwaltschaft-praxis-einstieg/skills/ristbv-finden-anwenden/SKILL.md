@@ -1,6 +1,6 @@
 ---
 name: ristbv-finden-anwenden
-description: "RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und näc..."
 ---
 
 # RiStBV finden und anwenden
@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
-

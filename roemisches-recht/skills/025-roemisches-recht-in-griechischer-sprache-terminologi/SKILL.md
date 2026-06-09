@@ -46,4 +46,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welcher griechische Begriff?
 2. Lateinisches Aequivalent?
 3. Wirkung?
-

@@ -94,4 +94,3 @@ Empfehlung: Reinhart Koselleck nur, wenn die Person bereits 2-3 erfolgreiche Sac
 - Koselleck-Antrag von Nachwuchsforschenden ohne nachgewiesenes Risikoforschungsprofil - keine Chance.
 - "Risiko" wird als methodisches Risiko (Pilotcharakter, Rohdaten) dargestellt statt als inhaltliches Hypothesenrisiko.
 - Kooperationen werden nicht klar abgegrenzt; DFG vermutet Doppelförderung.
-

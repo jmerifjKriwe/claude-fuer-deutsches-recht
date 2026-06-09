@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-endverwendung-endverwender-euc
-description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen und Zwischenhaendlern. Output: EUC-Pruefprotokoll und Vervollstaendigungsanforderung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen un..."
 ---
 
 # Endverwender-Pruefung und EUC: Authentizitaet und Risikoeinschaetzung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Endverwendung und EUC](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

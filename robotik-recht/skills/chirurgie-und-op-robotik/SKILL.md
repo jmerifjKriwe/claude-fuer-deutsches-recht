@@ -87,4 +87,3 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - DSGVO Art. 9; BDSG § 22.
 - Live-Verifikation auf eur-lex.europa.eu, bfarm.de, dimdi/bfarm; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

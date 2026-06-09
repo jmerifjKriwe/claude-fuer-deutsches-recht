@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Vertragsausfueller-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Vertragsausfueller."
+description: "Einstieg, Schnelltriage und Fallrouting im Vertragsausfueller-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..."
 ---
 
 # Vertragsausfueller — Allgemein
@@ -227,4 +227,3 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - BGB §§ 125 ff. und §§ 305 bis 310 in der geltenden Fassung
 - NachwG § 2 in der geltenden Fassung
 - UStG § 9 in der geltenden Fassung
-

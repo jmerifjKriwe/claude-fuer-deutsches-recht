@@ -150,4 +150,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Verfahrensordnung — Antragsvoraussetzungen am Einreichtag live prüfen.
 
 Bei Koselleck-Anträgen ist das vorbereitende Telefonat mit der DFG-Fachgebietsleitung besonders wichtig — sie geben offen Auskunft, ob das Vorhaben programmtauglich aussieht.
-

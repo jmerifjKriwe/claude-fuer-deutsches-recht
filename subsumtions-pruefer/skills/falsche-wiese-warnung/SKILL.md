@@ -84,4 +84,3 @@ Das System gibt strukturierten Hinweis:
 - Frage an den Nutzer: Möchten Sie die alternative Norm prüfen?
 
 Das System setzt die Prüfung der ursprünglich gewählten Norm nur auf ausdrücklichen Nutzerwunsch fort.
-

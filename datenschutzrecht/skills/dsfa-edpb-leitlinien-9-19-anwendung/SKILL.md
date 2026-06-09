@@ -111,4 +111,3 @@ Unterschrift DSB: ____________________
 - BfDI- und Landeslisten (live pruefen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

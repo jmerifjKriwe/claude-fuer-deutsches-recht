@@ -63,4 +63,3 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 - https://www.gesetze-im-internet.de/bgb/__434.html
 - https://www.gesetze-im-internet.de/bgb/__437.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-

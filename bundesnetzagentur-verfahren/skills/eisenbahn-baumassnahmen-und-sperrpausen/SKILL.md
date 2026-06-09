@@ -63,4 +63,3 @@ Anwaltliche Begleitung bei Streitigkeiten über Baumaßnahmen, Sperrpausen, Bauu
 
 ## Qualitätsgate
 TCR-Anmeldung fristgemäß? Vorrangkriterien § 51 ERegG bewertet? Eilbedürftigkeit dargelegt? Kompensationsangebote dokumentiert? Schadensersatzweg getrennt geprüft? Parallelverfahren EBA-Eisenbahnaufsicht reflektiert?
-

@@ -60,4 +60,3 @@ description: "Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 7
 - buergschaft-form-und-verbraucherbuerge
 - gesamtschuld-und-regress-bgb-bt
 - workflow-anspruchslandkarte
-

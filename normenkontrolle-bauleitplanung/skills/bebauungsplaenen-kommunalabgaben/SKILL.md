@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Normenkontrolle (§ 47 VwGO):** Zuständig OVG/BayVGH (§ 47 Abs. 1 Nr. 1 VwGO). Antragsfrist ein Jahr nach Bekanntmachung. Antragsbefugnis (§ 47 Abs. 2 VwGO): Geltendmachung möglicher Rechtsverletzung in eigenen Rechten ausreichend.
 - **Beachtlichkeit von Fehlern (§ 214 BauGB):** Formelle Fehler nur in engen Grenzen beachtlich; Verfahrensfehler des § 214 Abs. 1 Nr. 1-4 BauGB nur bei innerhalb der Rügefrist gerügten Mängeln. Materielle Fehler (Abwägung) gem. § 214 Abs. 3 BauGB.
 - **Rügefrist (§ 215 BauGB):** Ein Jahr nach Bekanntmachung, schriftlich an die Gemeinde mit konkreter Bezeichnung des Mangels. Versäumung: Mangel wird unbeachtlich.
-

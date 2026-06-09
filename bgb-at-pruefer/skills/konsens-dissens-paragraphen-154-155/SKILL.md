@@ -75,4 +75,3 @@ möglich (§ 155 BGB), der Rest ist offen.
 - Beurkundungsvorbehalt § 154 Abs. 2 BGB: Vereinbart und noch nicht beurkundet?
 - Versteckter Dissens § 155 BGB: Parteien haben trotz Unterschiede geglaubt, einig zu sein?
 - Ergänzende Auslegung: Kann Lücke nach §§ 133 und 157 BGB geschlossen werden?
-

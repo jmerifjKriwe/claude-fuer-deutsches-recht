@@ -75,4 +75,3 @@ vor allem den Vertragsschluss und die Anwendbarkeit von AGB-Klauseln auf digital
 - Verbraucher-Schutz: Widerrufsrecht nach §§ 356d und 312b BGB?
 - Aktualisierungspflicht: §§ 327f und 475b BGB — Umfang und Dauer?
 - Abgrenzung: Dienstvertrag, Werkvertrag oder Kaufvertrag mit digitalen Elementen?
-

@@ -1,6 +1,6 @@
 ---
 name: examens-prognose
-description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan im Jurastudium."
+description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. P..."
 ---
 
 # Examensprognose / JPA-Statistik
@@ -111,4 +111,3 @@ BGB-Reform 2022 (VerbrRRL): Neuer § 434 BGB – subjektiver, objektiver und mon
 - **Aktualitätslücken:** BGH-Entscheidungen der letzten 12 Monate sind im Modell möglicherweise nicht vollständig. Vor dem Examen: NJW und JuS der letzten zwei Hefte prüfen.
 - **Nur Priorität-A-Themen lernen:** Examsklausuren enthalten bewusst seltene Normen als Differenzierungspunkte. Priorität-C-Themen nicht weglassen.
 - **BMJV-Statistik fehlinterpretieren:** Bestehensquoten sagen nichts über Themenverteilung aus. Nur Klausuranalyse ergibt Themengewichtung.
-

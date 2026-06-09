@@ -137,4 +137,3 @@ Erscheinungsphasen:
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

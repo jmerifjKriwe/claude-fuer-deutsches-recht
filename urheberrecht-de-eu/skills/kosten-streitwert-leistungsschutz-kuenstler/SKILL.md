@@ -78,4 +78,3 @@ Konkret zu prüfen:
 
 - §§ 70-87h UrhG
 - § 87f UrhG (Presseverleger)
-

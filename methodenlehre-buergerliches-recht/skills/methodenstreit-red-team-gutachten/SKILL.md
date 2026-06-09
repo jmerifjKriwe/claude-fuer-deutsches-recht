@@ -1,6 +1,6 @@
 ---
 name: methodenstreit-red-team-gutachten
-description: "Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen nach methodischen Kriterien. Geeignet für strategische Prozessplanung und wissenschaftliche Methodendebatte."
+description: "Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen n..."
 ---
 
 # Methodenstreit Red-Team-Gutachten
@@ -82,4 +82,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya zu methodischen Grenzen](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

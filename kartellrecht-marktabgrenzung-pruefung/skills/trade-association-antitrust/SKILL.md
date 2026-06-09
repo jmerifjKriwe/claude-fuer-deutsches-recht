@@ -1,6 +1,6 @@
 ---
 name: trade-association-antitrust
-description: "Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzu..."
 ---
 
 # Verbände und Kartellrecht
@@ -33,4 +33,3 @@ description: "Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mi
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

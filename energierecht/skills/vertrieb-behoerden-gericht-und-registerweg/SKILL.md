@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schlichtungsstelle Energie:** Außergerichtliche Streitbeilegung bei der Schlichtungsstelle Energie e.V. (§ 111b EnWG). Entscheidungen sind für den Lieferanten nicht bindend, aber werden in der Regel umgesetzt.
 - **Sperrung (§§ 19, 24 StromGVV, GasGVV):** Versorgungssperre nur nach vorheriger Mahnung mit zwei-wöchiger Sperrandrohung; kein Sperrgrund bei sozialer Härte. Vor Sperrung neue Energiesozialberatung im EnWG-Reform-Kontext beachten.
 - **BNetzA-Tätigkeit:** Marktüberwachung (z. B. unlautere Praktiken), Festlegungsverfahren zu Standardpreisinformationen, Eingriffsbefugnisse bei wettbewerbswidrigem Verhalten (§ 30 EnWG).
-

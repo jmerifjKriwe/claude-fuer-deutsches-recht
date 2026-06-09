@@ -1,6 +1,6 @@
 ---
 name: currency-risk-cny-eur-usd
-description: "Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie im Festlandchina Wirtschaftsverkehr."
+description: "Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse u..."
 ---
 
 # Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

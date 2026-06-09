@@ -1,6 +1,6 @@
 ---
 name: litigation-discovery-ma-commercial-quality
-description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl) im Common Law Kompass."
+description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common..."
 ---
 
 # Litigation, Discovery und Evidence
@@ -113,4 +113,3 @@ Jurisdiction: [England/Wales CPR / US FRCP]
  [ ] Privilege log by [DATE]
  [ ] Disclosure list CPR / FRCP 26 disclosures by [DATE]
 ```
-

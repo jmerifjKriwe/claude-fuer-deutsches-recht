@@ -1,6 +1,6 @@
 ---
 name: bestreiten-interessen-betrag
-description: "Belege: Dokumentenmatrix, L체ckenliste und Nachforderung im Forderungspr체fung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Belege: Dokumentenmatrix, L체ckenliste und Nachforderung im Forderungspr체fung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldu..."
 ---
 
 # Belege: Dokumentenmatrix, L체ckenliste und Nachforderung
@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - BGH IX ZR 114/23
 - BGH IX ZR 127/24
 - BGH IX ZR 239/22
-

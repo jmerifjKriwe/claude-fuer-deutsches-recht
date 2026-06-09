@@ -13,17 +13,17 @@ Dieses Anschluss-Routing für **Methodenlehre Buergerliches Recht** wählt nach 
 
 - `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
-- `abwaegung-material-abwaegungslast-non` — Abwaegung Material Abwaegungslast NON
+- `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
 - `abwaegungslast-non-liquet` — Abwaegungslast NON Liquet
-- `abwaegungszustaendigkeit` — Abwaegungszustaendigkeit
+- `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit
 - `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit Institutionen
 - `analogie-und-teleologische-reduktion` — Analogie und Teleologische Reduktion
-- `anspruchsgrundlagen-anwaltsperspektive` — Anspruchsgrundlagen Anwaltsperspektive
+- `anspruchsgrundlagen-behoerden-gericht-und-registerweg` — Anspruchsgrundlagen Anwaltsperspektive
 - `argumentum-figuren-e-contrario-a-maiore-a` — Argumentum Figuren E Contrario A Maiore A
 - `auslegung-rechtsfortbildung-grenzprotokoll` — Auslegung Rechtsfortbildung Grenzprotokoll
 - `begruendung-anhoerung-adressatenfaehigkeit` — Begruendung Anhoerung Adressatenfaehigkeit
-- `bverfg-grenzen-diskurstheorie-habermas` — Bverfg Grenzen Diskurstheorie Habermas
+- `bverfg-grenzen-richterlicher-rechtsfortbildung` — Bverfg Grenzen Diskurstheorie Habermas
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -86,4 +86,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-

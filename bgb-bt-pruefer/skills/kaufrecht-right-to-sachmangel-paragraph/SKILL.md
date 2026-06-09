@@ -71,4 +71,3 @@ description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB u
 - https://www.gesetze-im-internet.de/bgb/__439.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1799
 - https://www.gesetze-im-internet.de/bgb/__434.html
-

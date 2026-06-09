@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-einziehung
-description: "Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO) im Strafrechts-Aktenaufbereiter."
+description: "Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO) im Strafrechts-Akten..."
 ---
 
 # Vermoegensabschoepfung/Einziehung
@@ -52,4 +52,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

@@ -184,4 +184,3 @@ Mit freundlichen Grüßen
 - → `drei-stufen-theorie-eingriffsanalyse` — Rechtfertigungsanalyse je Maßnahme
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsverfahren
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Begleitmaßnahmen Sozialplan
-

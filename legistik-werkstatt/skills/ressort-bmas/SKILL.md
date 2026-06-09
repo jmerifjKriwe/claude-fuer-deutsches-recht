@@ -1,6 +1,6 @@
 ---
 name: ressort-bmas
-description: "Heranfuehrung Ressort BMAS (Bundesministerium für Arbeit und Soziales). Schwerpunkt: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe. Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG. Fuenf Spezialfelder: arbeitsrecht-und-arbeitsschutz; sozialversicherungsrecht-sgb; rente-und-altersvorsorgerecht; arbeitsschutz-und-arbeitssicherheit; teilhabe-und-schwerbehindertenrecht-sgb-ix. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmas und legw-bmas-Themenslug."
+description: "Heranfuehrung Ressort BMAS (Bundesministerium für Arbeit und Soziales). Schwerpunkt: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe. Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG. Fuenf Spezialfelder: arbeitsrecht-und-arbeitsschutz; sozialversich..."
 ---
 
 # Ressort-Heranfuehrung BMAS
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

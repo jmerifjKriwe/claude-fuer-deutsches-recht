@@ -171,4 +171,3 @@ Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bring
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 214, 320, 387, 273 BGB unveraendert. Aufrechnungs-Erklaerung kann im AGB ausgeschlossen sein — verifizieren.
-

@@ -86,4 +86,3 @@ Konkret zu prüfen:
 - § 17b KHG
 - InEK-DRG-Katalog
 - KHEntgG
-

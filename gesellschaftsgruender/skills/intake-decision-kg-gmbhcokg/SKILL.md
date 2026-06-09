@@ -561,4 +561,3 @@ NAECHSTE SCHRITTE:
 FRISTEN-EXPORT: [iCal / Outlook generiert: JA / NEIN]
 NOTAR-PAKET: [ZIP erstellt: JA / NEIN]
 ```
-

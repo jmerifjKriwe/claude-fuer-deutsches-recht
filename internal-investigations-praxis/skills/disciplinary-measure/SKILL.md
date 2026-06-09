@@ -90,4 +90,3 @@ Dieser Skill wählt die proportionale Disziplinarmaßnahme auf Grundlage der Unt
 - **Organhaftungs-Schadensersatz-Memo**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

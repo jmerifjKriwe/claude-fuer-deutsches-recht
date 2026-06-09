@@ -91,4 +91,3 @@ die Compliance für Emittenten und Arrangeure.
 - EuGH C-19/11
 - EuGH C-628/13
 - BGH II ZB 26/12
-

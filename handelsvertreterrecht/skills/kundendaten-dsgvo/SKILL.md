@@ -1,6 +1,6 @@
 ---
 name: kundendaten-dsgvo
-description: "Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen im Handelsvertreterrecht."
+description: "Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzver..."
 ---
 
 # Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [Art. 28 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Art. 83 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
-

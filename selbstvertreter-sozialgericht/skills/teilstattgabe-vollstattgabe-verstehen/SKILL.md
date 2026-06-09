@@ -112,4 +112,3 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
-

@@ -47,4 +47,3 @@ Deutschland kennt kein eigenes Anerkennungsverfahren nach Art eines US Chapter 1
 - BFH II R 19/01
 - BGH IV ZR 66/25
 - BGH II ZR 206/22
-

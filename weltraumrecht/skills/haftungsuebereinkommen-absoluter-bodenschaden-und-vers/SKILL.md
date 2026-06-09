@@ -113,4 +113,3 @@ Dieser Skill bearbeitet **Haftungsübereinkommen: Absoluter Bodenschaden und Ver
 - UNOOSA Vertragsstaaten: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
 - ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
 - BMWK Weltraumgesetz: https://www.bmwk.de/
-

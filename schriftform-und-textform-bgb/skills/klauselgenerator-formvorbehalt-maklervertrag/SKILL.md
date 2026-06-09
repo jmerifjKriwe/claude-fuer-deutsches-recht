@@ -149,4 +149,3 @@ benennen.
 - **§ 305b BGB Vorrang Individualabrede**: Auch die beste doppelte Schriftformklausel in AGB schützt nicht vollständig vor mündlichen individuellen Abweichungen. Beweis der mündlichen Abrede bleibt beim Behauptenden — die Klausel schafft aber ein erhebliches Beweisindiz.
 - **Schriftformklausel selbst in AGB**: Eine Schriftformklausel ist selbst AGB-pflichtig (§ 307 BGB). Sie darf nicht so formuliert sein, dass Verbraucher benachteiligt werden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

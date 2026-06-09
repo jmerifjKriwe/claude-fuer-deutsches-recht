@@ -84,4 +84,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Pr체fpunkte abarbeiten:** Welche Betr채ge sind gesichert? Welche m체ssen live gepr체ft werden?
 4. **Risiko bewerten:** Gr체n/Gelb/Rot mit Begr체ndung, Annahmen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
-

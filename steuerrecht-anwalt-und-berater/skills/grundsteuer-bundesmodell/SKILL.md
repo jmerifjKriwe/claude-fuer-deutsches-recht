@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-bundesmodell
-description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg."
+description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder feh..."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle
@@ -42,4 +42,3 @@ description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem refor
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

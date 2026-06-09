@@ -36,4 +36,3 @@ description: "Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, b
 ## Quellen
 
 UWG, EU-Verbraucherrecht und aktuelle Green-Claims-Regeln live prüfen.
-

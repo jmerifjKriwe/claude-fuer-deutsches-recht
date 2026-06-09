@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Stummer Upload AGB Dokumente: s
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

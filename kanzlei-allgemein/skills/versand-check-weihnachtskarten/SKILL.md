@@ -1,6 +1,6 @@
 ---
 name: versand-check-weihnachtskarten
-description: "Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behörde / Mandant? richtige Adresse beA-SAFE-ID EGVP-Adresse?) Anlagen (vollständig? im Inhaltsverzeichnis aufgeführt? Sigel richtig?) Versandweg (Post / beA / EGVP / E-Mail / De-Mail). Versandquittung sichern. Audit-Eintrag. Bei Mangel Versand sperren im Kanzlei Allgemein."
+description: "Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behörde / Mandant? richtige A..."
 ---
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)
@@ -136,4 +136,3 @@ quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
 - Versand-Audit-Eintrag in `versand-audit.jsonl` (append-only).
 - Quittungs-PDF unter Mandatsakte.
 - Bestätigung an Anwalt und Sekretariat.
-

@@ -1,6 +1,6 @@
 ---
 name: ust-innergemeinschaftlich-6a-ustg
-description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg."
+description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbes..."
 ---
 
 # Innergemeinschaftliche Lieferung — § 6a UStG und Beleg- und Buchnachweis
@@ -43,4 +43,3 @@ description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lie
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

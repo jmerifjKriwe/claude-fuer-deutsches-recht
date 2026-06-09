@@ -62,4 +62,3 @@ description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingli
 - https://www.gesetze-im-internet.de/bgb/__435.html
 - https://www.gesetze-im-internet.de/bgb/__437.html
 - https://www.gesetze-im-internet.de/bgb/__433.html
-

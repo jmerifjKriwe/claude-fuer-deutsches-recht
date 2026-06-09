@@ -1,6 +1,6 @@
 ---
 name: satzungskompetenz-pruefen
-description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IHK-Gesetz HwO Hochschulen Hochschulgesetz Sozialversicherungstraeger § 33 SGB IV. Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33/125 Ermaechtigungsgrundlage Inhalt Zweck Ausmass Genehmigungsvorbehalt Aufsichtsbehoerde Bekanntmachung richtiges Publikationsorgan. Output Empfehlung Satzung auf welcher Grundlage erlassbar."
+description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IH..."
 ---
 
 # Satzungskompetenz prüfen
@@ -83,4 +83,3 @@ Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeind
 ## Anschluss
 
 `normenkartierung` und entweder `referentenentwurf-bauen` (wenn Satzung Volltext kommt) oder direkt Ausgabe-Format Satzung.
-

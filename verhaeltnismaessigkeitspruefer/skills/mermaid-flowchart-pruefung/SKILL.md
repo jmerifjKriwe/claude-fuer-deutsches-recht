@@ -51,4 +51,3 @@ flowchart TD
 - Bei Klausur als Skizze auf Papier reproduzierbar.
 - Knoten mit Fallnummern beschriften fuer den jeweils zu pruefenden
   Sachverhalt.
-

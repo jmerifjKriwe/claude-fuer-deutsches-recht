@@ -119,4 +119,3 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 | Switch-Over bei passiver Niedrigsteuer-BS? | § 20 Abs. 2 AStG | bei passiver BS Pruefung |
 | MAP DE-B oder DE-C? | DBA Art. 25 | bilateral |
 | Verstaendigung trilateral nicht moeglich | — | nur zwei DBA-Verfahren parallel |
-

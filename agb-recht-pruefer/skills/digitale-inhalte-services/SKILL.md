@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Digitale Inhalte Services: prüft typische
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

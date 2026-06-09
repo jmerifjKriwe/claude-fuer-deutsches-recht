@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-informationsaustausch-im-branchenverband
-description: "Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konk..."
 ---
 
 # Rechtsabteilung: Informationsaustausch im Branchenverband
@@ -47,4 +47,3 @@ Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten un
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

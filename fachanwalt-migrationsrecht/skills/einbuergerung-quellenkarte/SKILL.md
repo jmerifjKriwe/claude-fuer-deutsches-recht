@@ -15,14 +15,14 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Migrationsrecht** tragende No
 - `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung`
 - `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue`
 - `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl`
-- `ba-zustimmung-beschaeftigungsduldung`
+- `ba-zustimmung-beschaeftigung`
 - `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt`
 - `botschaft-visumtermin-workflow-chronologie-dokumentenstapel`
 - `datenschutz-sicherheit-daueraufenthalt-eu-digitalbeweise-flucht`
-- `dublin-ueberstellung`
+- `dublin-fristen-ueberstellung`
 - `einbuergerung-lebensunterhalt-mehrstaatigkeit-strafen-einreise`
 - `einbuergerung-start-fachkraefte-start`
-- `eurodac-treffer-fachanwalt`
+- `eurodac-treffer`
 
 ## Prüfroute
 

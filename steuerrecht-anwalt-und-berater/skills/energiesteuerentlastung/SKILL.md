@@ -1,6 +1,6 @@
 ---
 name: energiesteuerentlastung
-description: "Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastung; Hauptzollamt versagt sie wegen Fristversaeumnis oder Fehlerhaftigkeit. Behandelt Antragsfristen Nachweispflicht und Energiemanagementsystem ISO 50001. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-zollwert-unionszollkodex."
+description: "Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastung; Hauptzollamt versagt sie wegen Fristversaeumnis oder Fehl..."
 ---
 
 # Energie- und Stromsteuerentlastung — EnergieStG und StromStG
@@ -42,4 +42,3 @@ description: "Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

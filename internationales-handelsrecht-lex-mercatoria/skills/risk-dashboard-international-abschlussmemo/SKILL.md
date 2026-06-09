@@ -48,4 +48,3 @@ Ein systematisches Risiko-Dashboard für internationale Handelsgeschäfte aggreg
 - Ampelsystem: Rot (kein Geschäft ohne besondere Maßnahmen), Gelb (Monitoring), Grün (Standard)
 - Datenquellen: OECD, OFAC, TI CPI, Euler Hermes, World Bank Doing Business-Nachfolger
 - Aktualisierung: Quartalsweise oder bei kritischen Ereignissen (Wahlen, Sanktionen, Insolvenz)
-

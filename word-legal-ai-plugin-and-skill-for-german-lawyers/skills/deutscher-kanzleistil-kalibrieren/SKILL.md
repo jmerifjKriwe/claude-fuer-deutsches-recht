@@ -1,6 +1,6 @@
 ---
 name: deutscher-kanzleistil-kalibrieren
-description: "Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassage..."
 ---
 
 # Deutscher Kanzleistil Kalibrieren
@@ -54,4 +54,3 @@ Stilprofil:
 - Inhouse: keine Empfehlung ohne Entscheidungspunkt.
 - Gericht: keine Pointe, kein Marketington, keine unnötigen Adjektive.
 - US/UK: keine wörtliche Übersetzung deutscher Schachtelsätze.
-

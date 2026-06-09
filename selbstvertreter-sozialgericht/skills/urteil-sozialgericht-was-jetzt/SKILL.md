@@ -110,4 +110,3 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell.
-

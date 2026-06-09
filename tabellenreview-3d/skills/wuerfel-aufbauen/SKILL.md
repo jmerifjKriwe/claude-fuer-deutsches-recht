@@ -61,4 +61,3 @@ Würfel für M&A-DD bei Erwerb einer SaaS-GmbH:
 ## Grenzen
 
 Das Schema ist nur die Architektur. Der eigentliche Reviewlauf erfolgt im Skill `review-durchfuehren`. Wer das Schema nachträglich ändert nachdem schon ein Lauf erfolgt ist muss `prompt-versionierung` und `caching-und-teil-rerun` beachten.
-

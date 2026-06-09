@@ -67,4 +67,3 @@ description: "PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Que
 - Hattenhauer (Hg.): Allgemeines Landrecht für die Preussischen Staaten von 1794, Frankfurt am Main 1996.
 - Wieacker: Privatrechtsgeschichte der Neuzeit.
 - Wesel: Geschichte des Rechts.
-

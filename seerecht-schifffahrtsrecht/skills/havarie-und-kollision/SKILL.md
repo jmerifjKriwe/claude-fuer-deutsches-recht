@@ -1,6 +1,6 @@
 ---
 name: havarie-und-kollision
-description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie im Seerecht Schifffahrtsrecht."
+description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestr..."
 ---
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung
@@ -81,4 +81,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - BSU Seeunfalluntersuchung: https://www.bsu-bund.de
 - SeeUG: https://www.gesetze-im-internet.de/seeug/
 - YAR 2016 BIMCO: https://www.bimco.org
-

@@ -72,4 +72,3 @@ Satire und Memes bewegen sich an der Grenze zwischen Kunstfreiheit und Rechtsver
 - Meme-Prüf-Checkliste vor Veröffentlichung
 - Verteidigungsschreiben bei Abmahnung (Satire-Einwand)
 - Umgestaltungsvorschlag für riskante Aussagen
-

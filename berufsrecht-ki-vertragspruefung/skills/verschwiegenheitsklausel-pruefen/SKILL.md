@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklausel-pruefen
-description: "Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken."
+description: "Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnis..."
 ---
 
 # Verschwiegenheitsklausel prüfen
@@ -123,4 +123,3 @@ Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
 -->
-

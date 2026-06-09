@@ -66,4 +66,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
  - Fuehrungspositionen Wirtschaft: Reputation.
 - **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv pruefen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
 - **Anschluss-Skills:** Strafbefehl-Dokumentenmatrix; Einspruchsentscheidung; Verteidigerstrategie.
-

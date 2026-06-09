@@ -39,4 +39,3 @@ Konkret zu prüfen:
 - § 110 Abs. 3 StPO (Netzwerkdurchsicht)
 - §§ 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152
-

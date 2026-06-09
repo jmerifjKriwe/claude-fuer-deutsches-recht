@@ -115,4 +115,3 @@ Typischer Inhalt der Abschlussvereinbarung:
 - `unterlassungsverlangen` – Unterlassungserklärung und Vertragsstrafe
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
-

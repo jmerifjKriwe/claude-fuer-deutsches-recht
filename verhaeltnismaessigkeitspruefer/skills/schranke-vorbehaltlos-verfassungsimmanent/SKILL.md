@@ -50,4 +50,3 @@ Verfassungsimmanente Schranken werden ueber die **praktische Konkordanz** aufgel
 - BVerfGE 93, 1 (Kruzifix-Beschluss, praktische Konkordanz)
 - BVerfGE 108, 282 (Kopftuch I, Religionsfreiheit Lehrerin)
 - BVerfGE 138, 296 (Kopftuch II, bundesweite Pauschalverbote)
-

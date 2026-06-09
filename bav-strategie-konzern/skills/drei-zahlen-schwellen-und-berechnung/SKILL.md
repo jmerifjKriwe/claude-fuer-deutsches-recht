@@ -60,4 +60,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - BBG mit Beitragsbemessungsgrenze Krankenversicherung vermischt.
 - "1.752 EUR § 40b EStG" auf Neuzusagen angewandt (gilt nur für Zusagen vor 01.01.2005).
 - Nachholungsbetrag berechnet, obwohl Arbeitnehmer in einem der sieben Vorjahre eine geförderte Direktversicherung hatte; Anspruch entfällt.
-

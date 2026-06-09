@@ -52,4 +52,3 @@ Die Vertragsaufhebung nach CISG (Art. 26, 49, 64) setzt wesentliche Verletzung o
 ## Quellenregel
 
 CISG Art. 26, 49, 64, 81-84: uncitral.un.org. PICC Art. 7.3.1: unidroit.org. Schrifttum: Schlechtriem/Schwenzer (2019) Art. 81-84. Unsicherheit bleibt sichtbar.
-

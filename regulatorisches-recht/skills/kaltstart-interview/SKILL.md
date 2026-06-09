@@ -198,4 +198,3 @@ Praxisprofil wurde gespeichert. Zusammenfassung:
 **Kernnormen:** §§ 611-630 BGB — §§ 48-49 VwVfG — Art. 288 AEUV
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-

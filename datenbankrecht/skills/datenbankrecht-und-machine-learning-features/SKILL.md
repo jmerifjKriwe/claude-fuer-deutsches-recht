@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-machine-learning-features
-description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams im Datenbankrecht."
+description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-..."
 ---
 
 # Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten
@@ -63,4 +63,3 @@ description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [DSGVO Art. 22 — dejure.org](https://dejure.org/gesetze/DSGVO/22.html)
 - [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
-

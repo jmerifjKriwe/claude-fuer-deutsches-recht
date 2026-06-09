@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skil..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -222,4 +222,3 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 - Stand: 05/2026
 - AWG, AWV, UZK, Dual-Use-VO (EU) 2021/821, CBAM-VO (EU) 2023/956, GwG in aktuell geltender Fassung
 - BAFA-Merkblaetter und TARIC-Datenbank (Stand 05/2026)
-

@@ -130,4 +130,3 @@ Stand: 05/2026.
 - SvEV-Sachbezugswerte 2025: Verpflegung 313 EUR/Monat, Unterkunft 278 EUR/Monat (jaehrlich durch BMAS angepasst).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->
-

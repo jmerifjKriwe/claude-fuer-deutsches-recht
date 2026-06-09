@@ -1,6 +1,6 @@
 ---
 name: erstellung-sonderfall-edge-case
-description: "Erstellung: Sonderfall und Edge-Case-Prüfung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Erstellung: Sonderfall und Edge-Case-Prüfung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dok..."
 ---
 
 # Erstellung: Sonderfall und Edge-Case-Prüfung
@@ -40,4 +40,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entspricht, lieber eine kurze DSFA-Eingangsbewertung dokumentieren (3-Punkte-Test: Risiko-Trigger, Schutzmaßnahmen, Restrisiko) als nichts zu dokumentieren. Im Audit zählt sichtbare Begründung.
-

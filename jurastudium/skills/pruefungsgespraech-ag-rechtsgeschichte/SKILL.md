@@ -1,6 +1,6 @@
 ---
 name: pruefungsgespraech-ag-rechtsgeschichte
-description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen im Jurastudium."
+description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung So..."
 ---
 
 # Prüfungsgespräch nach AG-Tradition
@@ -114,4 +114,3 @@ Falls der Studierende § 812 nennt, aber nicht die Alternative spezifiziert: "§
 Kontrollantworten, die dieser Skill intern verwendet, um Antworten des Studierenden zu beurteilen, basieren auf gefestigter Literatur und Rechtsprechung (s. Rechtlicher Rahmen). Wenn ein Themengebiet nicht sicher abgedeckt werden kann, wird nur die Struktur (Frage / Nachfrage) angeboten — kein inhaltlicher Pushback aus unsicherer Quelle.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

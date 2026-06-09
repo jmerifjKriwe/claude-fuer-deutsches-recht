@@ -1,6 +1,6 @@
 ---
 name: pfaendung-und-arrest-schiff
-description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie im Seerecht Schifffahrtsrecht."
+description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-B..."
 ---
 
 # Pfändung und Arrest am Schiff
@@ -81,4 +81,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - openjur LG Hamburg Arrest: https://www.openjur.de
-

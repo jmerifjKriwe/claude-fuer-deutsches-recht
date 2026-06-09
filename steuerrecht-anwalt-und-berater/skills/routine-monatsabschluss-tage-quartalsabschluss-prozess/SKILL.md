@@ -139,4 +139,3 @@ Stand: 05/2026.
 - EStG § 41a.
 - SGB IV § 23.
 - DStV-Praxisleitfaden Kanzleiorganisation.
-

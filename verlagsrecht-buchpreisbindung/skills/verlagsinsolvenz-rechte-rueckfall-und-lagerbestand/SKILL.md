@@ -121,4 +121,3 @@ Die **Insolvenz eines Verlags** ist für Autoren ein Worst-Case-Szenario: Honora
 - **Rückruf-Ankündigung** nach § 41 UrhG
 - **Nutzungsrecht-Rückfall-Erklärung** (für neuen Verlag)
 - **Neuen-Verlagsvertrag-Briefing**: Was braucht der neue Verlag an Unterlagen
-

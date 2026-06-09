@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Übergabe (§ 91 ZVG):** Mit Rechtskraft des Zuschlags wird der Ersteher Eigentümer. Auflassung und Auflassungsvormerkung werden gegenstandslos.
 - **Mieter im Versteigerungsobjekt:** Mietverhältnisse bestehen fort (§ 57 ZVG i.V.m. § 566 BGB - "Kauf bricht nicht Miete"). Sonderkündigungsrecht des Erstehers in den ersten 3 Monaten nach Zuschlag, soweit eigener Bedarf besteht (§ 57a ZVG).
 - **Praktiker-Tipp:** ZVG-Portal www.zvg-portal.de für aktuelle Verfahren; Wertgutachten und Grundbuchauszug einsehen vor Bietverhalten. Bietsicherheit (10% Verkehrswert, § 68 ZVG) zwingend vor Gebotsabgabe.
-

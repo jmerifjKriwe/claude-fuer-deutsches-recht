@@ -1,6 +1,6 @@
 ---
 name: lizenzanalogie-und-unterlassungsvertrag
-description: "Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell im Datenbankrecht."
+description: "Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu t..."
 ---
 
 # Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
@@ -67,4 +67,3 @@ Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 890 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/890.html)
 - [§ 340 BGB — dejure.org](https://dejure.org/gesetze/BGB/340.html)
-

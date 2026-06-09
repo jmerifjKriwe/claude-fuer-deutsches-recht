@@ -30,4 +30,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Bei Betroffenenanfragen die Mandantschaft frühzeitig über die Antwortpflicht aufklären — der häufigste Fehler ist Ablehnung "wir geben keine Daten heraus" ohne Rechtsgrundlage. Das löst regelmäßig Beschwerde bei der Aufsichtsbehörde und Bußgeldverfahren aus. Antwortverweigerung nur nach Art. 12 Abs. 5 (Missbrauch) oder § 34 BDSG (gesetzliche Ausnahme).
-

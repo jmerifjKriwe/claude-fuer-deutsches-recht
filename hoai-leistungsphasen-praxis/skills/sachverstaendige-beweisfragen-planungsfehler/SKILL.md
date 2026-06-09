@@ -35,4 +35,3 @@ description: "HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauübe
 - "Welche konkreten planerischen Angaben fehlten in der Ausführungsplanung zur Abdichtung des Sockelanschlusses, und waren diese Angaben für eine mangelfreie Ausführung erforderlich?"
 - "War der festgestellte Feuchteschaden nach Lage, Verlauf und Materialbild eher auf eine fehlerhafte Detailplanung, eine Ausführungsabweichung oder spätere Nutzung/Wartung zurückzuführen?"
 - "Welche Kosten wären bei ursprünglich mangelfreier Planung ohnehin angefallen, und welche Mehrkosten beruhen erst auf der nachträglichen Sanierung?"
-

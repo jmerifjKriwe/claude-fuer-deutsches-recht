@@ -52,4 +52,3 @@ Battle of Forms entsteht wenn Käufer und Verkäufer widersprüchliche AGB einbe
 ## Quellenregel
 
 CISG Art. 19: uncitral.un.org. PICC Art. 2.1.22: unidroit.org. UCC § 2-207: uniform.law.cornell.edu. BGB §§ 305-310: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
-

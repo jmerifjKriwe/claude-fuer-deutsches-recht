@@ -73,4 +73,3 @@ Konkret zu prüfen:
 - § 43a Abs. 2 BRAO
 - Art. 5, 6, 32 DSGVO
 - § 203 StGB
-

@@ -60,4 +60,3 @@ Konkret zu prüfen:
 - § 4 BORA
 - § 14 BNotO (entspr.)
 - BGH StV 2017, 800
-

@@ -117,4 +117,3 @@ Stand: 05/2026.
 - PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI; Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 bestaetigt (Fundstelle/Datum), 2 ersetzt (neu formuliert ohne Marker) -->
-

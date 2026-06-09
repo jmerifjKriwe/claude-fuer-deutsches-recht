@@ -1,6 +1,6 @@
 ---
 name: beihilfe-chronische-krankheit
-description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt im Beamtenrecht."
+description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt..."
 ---
 
 # Beihilfe bei chronischer Krankheit
@@ -63,4 +63,3 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin Multiple Sklerose, monatliche Immunmodulatoren, Krankengymnastik, Hilfsmittel. Skill liefert Antrag auf Befreiung von Eigenbehalten und Pruefung der Beihilfefaehigkeit des Spezialmedikaments.
-

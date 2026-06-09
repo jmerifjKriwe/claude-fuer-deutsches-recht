@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-nichtbefoerderung
-description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage im Beamtenrecht."
+description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Be..."
 ---
 
 # Schadensersatz wegen Nichtbefoerderung
@@ -72,4 +72,3 @@ Skill für Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 ## 7. Beispiel (Kurzfassung)
 
 Konkurrent wurde 2024 zum A15 ernannt; Anlassbeurteilung des Mandanten war wegen unterlassenen Beurteilungsbeitrags rechtswidrig. Mandant hatte zuvor erfolgreich Eilantrag gestellt, der unterlag nur wegen unzureichender Glaubhaftmachung. Skill liefert Anspruchsschreiben und Schadensberechnung A14 zu A15-Differenz für zwoelf Monate plus Auswirkung auf Versorgung.
-

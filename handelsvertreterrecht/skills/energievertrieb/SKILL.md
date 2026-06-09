@@ -1,6 +1,6 @@
 ---
 name: energievertrieb
-description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG im Handelsvertreterrecht."
+description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt so..."
 ---
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 66c EnWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/enwg_2005/__66c.html)
 - [§ 312 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312.html)
 - [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)
-

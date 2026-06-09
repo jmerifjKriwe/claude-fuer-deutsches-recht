@@ -86,4 +86,3 @@ Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Ge
 - [§ 92 SGB V – G-BA](https://www.gesetze-im-internet.de/sgb_5/__92.html)
 - [BSG Heilmittelrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 32 SGB V](https://dejure.org/gesetze/SGB_V/32.html)
-

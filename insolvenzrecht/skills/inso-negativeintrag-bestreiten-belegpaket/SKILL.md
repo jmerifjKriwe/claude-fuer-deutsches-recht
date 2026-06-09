@@ -37,4 +37,3 @@ description: "Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Regist
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

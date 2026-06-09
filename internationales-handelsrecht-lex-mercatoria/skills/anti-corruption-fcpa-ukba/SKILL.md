@@ -1,6 +1,6 @@
 ---
 name: anti-corruption-fcpa-ukba
-description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements im Internationales Handelsrecht Lex..."
 ---
 
 # Anti-Korruption: FCPA und UK Bribery Act
@@ -73,4 +73,3 @@ Der FCPA (Foreign Corrupt Practices Act, 1977) verbietet Bestechung ausländisch
 - BGH VIII ZR 274/98
 - BGH VIII ZR 304/00
 - EuGH C-311/18
-

@@ -192,4 +192,3 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 ZPO unveraendert.
-

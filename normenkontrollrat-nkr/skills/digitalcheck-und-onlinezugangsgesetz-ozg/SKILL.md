@@ -1,6 +1,6 @@
 ---
 name: digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG für Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen für die Stellungnahme."
+description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG für Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER b..."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
@@ -132,4 +132,3 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 - § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4 Abs. 3 (Digitalcheck) i.V.m. § 9 (Anwendbarkeit ab 1. Januar 2023)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

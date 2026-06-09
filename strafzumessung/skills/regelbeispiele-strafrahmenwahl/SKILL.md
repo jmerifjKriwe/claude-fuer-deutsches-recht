@@ -45,4 +45,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
  - Verfahren wegen anderer Taten anhaengig?
 - **Tagessatz-Hoehe § 40 II StGB:** monatliches Nettoeinkommen (Lohnabrechnungen 3 Monate); Schaetzung § 40 III StGB nur subsidiaer; Unterhaltslasten.
 - **Konsequenzen-Matrix:** Geldstrafe ueber 90 TS -> BZRG-Eintrag; Freiheitsstrafe -> ggf. Verlust Beamtenstatus § 24 BeamtStG; Eintragung im FZR / BZR.
-

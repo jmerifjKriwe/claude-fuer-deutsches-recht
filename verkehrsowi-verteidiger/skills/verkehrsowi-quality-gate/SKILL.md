@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-quality-gate
-description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter im Verkehrsowi Verteidiger."
+description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüf..."
 ---
 
 # Quality Gate — OWi-Mandat
@@ -68,4 +68,3 @@ AMPEL: GRUEN zufriedenstellend / GELB Rechtsbeschwerde moeglich / ROT Fehler
 - ROT-Punkte muessen unverzueglich adressiert werden.
 - Mandant ueber jeden Gate-Status informieren.
 - Anwaltliche Endkontrolle bei jedem Gate zwingend.
-

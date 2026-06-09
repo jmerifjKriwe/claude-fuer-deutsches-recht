@@ -165,7 +165,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` | Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studieren... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Strafzumessung: trennt fehlende Tatsachen von fehlenden Belegen (Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), nennt pro Lücke Beweisthema, Beschaffungsweg (Strafgericht (Amts-/Landgericht)), F... |
 | `verfahrensstadium-strafbefehl-bis-kammer` | Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafzumessung. |
-| `verstaendigung-257c` | Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung. |
+| `verstaendigung-257c-stpo-strafzumessung` | Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung: Strafrahmen statt Strafmass; Bindungswirkung bei vollstaendiger Belehrung; Belehrungspflicht Abs. 4 und 5. BVerfG 2 BvR 2628/10... |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Strafzumessung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

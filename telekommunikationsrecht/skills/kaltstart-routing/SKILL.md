@@ -34,4 +34,3 @@ TKG 2021; TDDDG; DSGVO; VwVfG/VwGO; BGB; GWB/AEUV; EU-Richtlinie 2018/1972 (EECC
 
 - tk-zuständigkeits-router-bnetza-vg-lg
 - tk-bundesnetzagentur-verfahren-akteneinsicht-fristen
-

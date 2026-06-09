@@ -87,4 +87,3 @@ Jeder Wechsel des Erwerbsstatus hat unmittelbare krankenversicherungsrechtliche 
 - [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-

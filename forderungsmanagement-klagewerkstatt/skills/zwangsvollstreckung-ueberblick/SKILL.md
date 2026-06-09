@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-ueberblick
-description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung §§ 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung §§ 866 ff. ZPO und ZVG, Vermoegensauskunft § 802c ZPO. Voraussetzung: Vollstreckungstitel § 794 ZPO mit Klausel § 724 ZPO und Zustellung § 750 ZPO. Output: Vollstreckungsstrategie nach Schuldnertyp."
+description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung §§ 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung §§ 866 ff. ZPO und ZVG, Vermoegensauskunft § 802c ZPO. Voraussetzung: Vollstreckungstitel § 794 ZPO mit Klausel § 724 ZPO und Zustellu..."
 ---
 
 # Zwangsvollstreckung Ueberblick

@@ -59,4 +59,3 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 ## Qualitaetsgate
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-

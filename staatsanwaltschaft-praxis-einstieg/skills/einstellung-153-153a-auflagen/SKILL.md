@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
 - § 170 Abs. 1 StPO (Anklageerhebung)
 - Nr. 88 ff. RiStBV
-

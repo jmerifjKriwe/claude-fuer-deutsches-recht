@@ -73,4 +73,3 @@ Creator können für empfohlene Produkte haftbar werden:
 - Produktrückruf-Reaktionsplan
 - Haftungs-Check vor Produktempfehlung
 - Versicherungsbedarf-Checkliste
-

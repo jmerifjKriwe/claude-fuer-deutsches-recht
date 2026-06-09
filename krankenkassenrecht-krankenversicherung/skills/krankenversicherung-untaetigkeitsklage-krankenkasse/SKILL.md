@@ -90,4 +90,3 @@ Krankenkassen entscheiden manchmal nicht oder zu spät. Dieser Skill nutzt die *
 - [BSG Untätigkeitsklage](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 88 SGG](https://dejure.org/gesetze/SGG/88.html)
 - [Sozialgericht Klageanleitung](https://www.sozialgerichtsbarkeit.de)
-

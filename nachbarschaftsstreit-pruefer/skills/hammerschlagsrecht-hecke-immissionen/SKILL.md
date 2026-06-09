@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Anspruch des Nachbarn auf Sicherheitsleistung:** In vielen Landesnachbarrechten möglich - Sicherheitsleistung für drohende Schäden vor Baubeginn.
 - **Klagebefugnis / Gerichtszuständigkeit:** AG am Belegenheitsort, Streitwert nach Interesse an Durchführung der Maßnahme. Bei Eilbedarf: einstweilige Verfügung (§ 935 ZPO) möglich.
 - **Praktiker-Tipp:** Vor jedem Bauvorhaben das Bundesland-spezifische NRG prüfen - Berlin/Hamburg/Bremen sind teils restriktiver; Bayern und Baden-Württemberg etwas großzügiger. Frühzeitige Kommunikation mit Nachbarn vermeidet meist Gerichtsverfahren.
-

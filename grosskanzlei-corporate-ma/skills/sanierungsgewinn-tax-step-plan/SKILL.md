@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-step-plan
-description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026."
+description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und §..."
 ---
 
 # Sanierungsgewinn – Tax Step Plan in der Restrukturierung
@@ -128,4 +128,3 @@ In einem Tax Step Plan einer Großkanzlei sieht ein Senior Counsel auf drei Feld
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – bundesfinanzhof.de.
-

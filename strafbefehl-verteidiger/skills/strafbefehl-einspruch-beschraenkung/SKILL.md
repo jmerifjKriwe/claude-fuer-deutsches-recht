@@ -107,4 +107,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Schriftliche Aufklaerung ueber Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
 - Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.
-

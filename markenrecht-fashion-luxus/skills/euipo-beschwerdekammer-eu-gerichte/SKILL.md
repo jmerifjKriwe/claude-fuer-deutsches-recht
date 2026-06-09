@@ -37,4 +37,3 @@ description: "EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Be
 ## Quellen
 
 UMV, Verfahrensordnung, EUIPO Guidelines und konkrete Entscheidung live prüfen.
-

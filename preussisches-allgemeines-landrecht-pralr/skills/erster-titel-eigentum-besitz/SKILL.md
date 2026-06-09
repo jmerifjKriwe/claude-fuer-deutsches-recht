@@ -39,4 +39,3 @@ A verkauft B seine Forderung gegen C.
 1. Sache oder Recht?
 2. Beweglich oder unbeweglich?
 3. Bestandteile?
-

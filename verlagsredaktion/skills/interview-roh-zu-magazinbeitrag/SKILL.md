@@ -90,4 +90,3 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 - DSGVO Art. 6 bei personenbezogenen Daten.
 - Pressekodex Ziff. 2 (Sorgfalt), Ziff. 3 (Richtigstellung), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
-

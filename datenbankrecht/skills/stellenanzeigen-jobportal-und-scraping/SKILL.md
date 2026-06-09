@@ -1,6 +1,6 @@
 ---
 name: stellenanzeigen-jobportal-und-scraping
-description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale im Datenbankrecht."
+description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstel..."
 ---
 
 # Stellenanzeigen, Jobportale und Scraping — Datenbankrecht nach Innoweb
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nac
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Fachmodule zu Beleidigung, Tatsachenbehauptung, Art 5 GG, Europarecht, OLG-Praxis, US-Vergleich, Zivilrecht, Plattformen, Schule, Arbeit und kommunaler Machtkritik vor."
+description: "Einstieg, Schnelltriage und Fallrouting im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Fachmodule zu Beleidigung, Tatsachenbehauptung, Art 5 GG, Europarecht, OLG-Praxis..."
 ---
 
 # Meinungsprüfer - Allgemein
@@ -100,4 +100,3 @@ Wenn der Nutzer nur Screenshots, Mails oder Chatverläufe hochlädt, arbeite sof
 ## Quellen
 
 Stand: 05/2026. Kernnormen: Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, §§ 185-188, 193, 194 StGB, §§ 823, 824, 1004 BGB analog. Leitentscheidungen im Skill `rechtsprechungsbank-verifiziert`.
-

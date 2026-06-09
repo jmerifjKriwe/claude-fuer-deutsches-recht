@@ -70,4 +70,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - BGB / HGB / StGB als direkte Erben.
 - Sozialversicherung 1883-1889 als Grundlage des modernen Systems.
-

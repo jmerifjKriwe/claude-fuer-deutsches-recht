@@ -24,4 +24,3 @@ description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Min
 3. Unternehmerrisiko: eigene Betriebsmittel, Personal, Marktauftritt, Vergütungsrisiko, Haftung, Vertretung.
 4. Rechtsmacht bei GmbH: Beteiligung, Sperrminorität, Muttergesellschaft, Stimmbindung, Abberufbarkeit.
 5. Verfahren: § 7a SGB IV, Betriebsprüfung, Säumniszuschläge, Vertrauensschutz/Übergänge, Dokumentation.
-

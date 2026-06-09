@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form
-description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -72,4 +72,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Einspruch gegen BSFZ-Bescheid wird ans Finanzamt geschickt - Zuständigkeit verfehlt, Frist tickt weiter.
 - Festsetzungsantrag ohne BSFZ-Bescheinigung - Bearbeitung ruht.
 - Eigenleistung Einzelunternehmer nicht aufgeschlüsselt (Std., Wochen, Begründung); pauschale Beantragung wird gekürzt.
-

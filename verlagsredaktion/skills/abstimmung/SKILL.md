@@ -47,4 +47,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

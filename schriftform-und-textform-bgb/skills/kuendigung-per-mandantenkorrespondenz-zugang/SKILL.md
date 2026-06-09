@@ -1,6 +1,6 @@
 ---
 name: kuendigung-per-mandantenkorrespondenz-zugang
-description: "Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung im Schriftform Und Textform Bgb."
+description: "Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung..."
 ---
 
 # Kündigung per Schriftsatz — Zustellung und Formfragen
@@ -168,4 +168,3 @@ Vollmachtsurkunde im Original vorgelegt wurde (§ 174 Satz 1 BGB).
 - **beA ohne qES**: Eine einfache Signatur plus beA kann § 130a ZPO erfüllen, aber nicht automatisch § 126a BGB. Erst § 130e ZPO oder § 46h ArbGG kann die materielle Formfrage über eine gesetzliche Fiktion lösen.
 - **§ 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - **Andere Prozessordnungen**: VwGO, SGG, FGO, FamFG und StPO haben eigene ERV-Regeln. Eine Formfiktion wie § 130e ZPO nur anwenden, wenn die jeweilige Prozessordnung sie ausdrücklich enthält oder eindeutig verweist.
-

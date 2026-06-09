@@ -44,4 +44,3 @@ Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet 
 - **Spezialfälle:** Hochschulerfindungen § 42 ArbEG (Hochschullehrer); Universitäten haben 30 % Vergütungsanteil; Veröffentlichungsfreiheit zu wahren.
 - **Vergütung Routinearbeit:** § 9 ArbEG-Logik nicht auf "freie" Erfindungen anwendbar — Trennung sauber ziehen.
 - Falle: Bei Konzernlizenzen IP-Inhaberschaft live im DPMA-Register prüfen; "wirtschaftliche" Zuordnung reicht nicht; Diensterfinderbenennung darf nicht zur Familienangelegenheit werden — § 8 PatG Vindikationsanspruch droht.
-

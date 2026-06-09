@@ -95,4 +95,3 @@ Detailliert beim separaten Substitutionsagenten.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
-

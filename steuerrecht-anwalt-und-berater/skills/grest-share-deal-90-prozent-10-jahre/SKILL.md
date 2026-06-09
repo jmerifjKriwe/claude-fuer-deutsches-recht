@@ -35,4 +35,3 @@ Erstelle immer eine Tabelle:
 | mehrstufige Holding | mittelbare Quote und Paralleltransaktionen |
 | Forward Deal | Signing/Closing, Grundstückserwerb der Zielgesellschaft während Dealphase |
 | Konzernumstrukturierung | § 6a GrEStG gesondert |
-

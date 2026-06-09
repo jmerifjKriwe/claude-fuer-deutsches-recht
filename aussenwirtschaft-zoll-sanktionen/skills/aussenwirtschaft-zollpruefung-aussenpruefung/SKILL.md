@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollpruefung-aussenpruefung
-description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvorbereitungs-Checkliste und Risikobewertungsmatrix im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvo..."
 ---
 
 # Zollaußenpruefung: Vorbereitung Prueferempfang und Risikobegrenzung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK Art. 48 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de Zollpruefung](https://www.zoll.de/DE/Fachthemen/Zoelle/zoll_node.html)
 - [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)
-

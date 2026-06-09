@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-rechtsphilosophie-seminararbeit
-description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte) im Hausarbeitenmacher."
+description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechts..."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung
@@ -219,4 +219,3 @@ Bevor Du eine rechtstheoretische Anbindung schreibst:
 - `meinungsstreit-darstellen` — Streit-Stände
 - `verfassungsrecht-grundrechtspruefung` — Verfassungsmäßigkeit
 - `selbstkontrolle-vor-abgabe` — Endcheck
-

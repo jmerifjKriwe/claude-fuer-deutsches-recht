@@ -62,4 +62,3 @@ Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) 
 - Gemeines Recht: Dernburg Pandekten (6. Aufl. 1884-1887) als Schluessellehrbuch
 - EGBGB: gesetze-im-internet.de für aktuell geltende Uebergangsvorschriften
 - Coing Handbuch (1973-88): Europaeische Kontextualisierung des gemeinen Rechts
-

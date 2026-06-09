@@ -127,4 +127,3 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

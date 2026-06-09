@@ -98,4 +98,3 @@ Beitragsrückstände können den Versicherungsschutz suspendieren. Dieser Skill 
 - [§ 24 SGB IV – Säumniszuschlag](https://www.gesetze-im-internet.de/sgb_4/__24.html)
 - [§ 16 SGB V – Ruhen der Leistung](https://www.gesetze-im-internet.de/sgb_5/__16.html)
 - [§ 256a SGB V – Beiträge aus Versorgungsbezügen](https://www.gesetze-im-internet.de/sgb_5/__256a.html)
-

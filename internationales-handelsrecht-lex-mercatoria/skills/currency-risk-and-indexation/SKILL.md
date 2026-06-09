@@ -52,4 +52,3 @@ Wechselkursrisiken können den wirtschaftlichen Vertragswert erheblich verschieb
 ## Quellenregel
 
 CISG Art. 54, 74, 78: uncitral.un.org. PICC Art. 6.1.9: unidroit.org. Rom I Art. 12: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.
-

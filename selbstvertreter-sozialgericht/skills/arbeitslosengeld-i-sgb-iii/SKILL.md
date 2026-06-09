@@ -117,4 +117,3 @@ Bei abweisendem Widerspruchsbescheid.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pruefen in juris.
-

@@ -50,4 +50,3 @@ Berufshaftpflicht wird typischerweise nach Sozietätsgröße und Schadensvolumen
 
 ## Bußgeldrahmen DSGVO (parallel anwendbar)
 Bei DSGVO-Verstoß durch KI-Einsatz: bis **20 Mio. EUR oder 4 % weltweiter Konzernumsatz** (Art. 83 Abs. 5). KI-VO addiert bei verbotenen Praktiken bis **35 Mio. EUR oder 7 % weltweiter Konzernumsatz** (Art. 99 Abs. 3 KI-VO).
-

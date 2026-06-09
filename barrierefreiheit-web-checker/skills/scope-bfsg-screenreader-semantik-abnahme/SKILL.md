@@ -68,4 +68,3 @@ Nicht jede Website fällt automatisch unter das BFSG. Aber wenn eine Website Tei
 ## Marktüberwachung und Sanktionen
 - Zuständige Marktüberwachungsbehörde nach § 19 BFSG ist je nach Bundesland geregelt; bundesweit koordinierend ist die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für Produkte; für Dienstleistungen das Eisenbahn-Bundesamt bzw. die Landesbehörden.
 - Bußgeld nach § 37 BFSG bis 100.000 EUR; bei Verstößen gegen Kennzeichnungspflichten bis 10.000 EUR.
-

@@ -88,4 +88,3 @@ NAV-Frequenz (Anlagebedingungen):
 - IPEV Valuation Guidelines (Stand 2022 oder aktueller, vom Anwender zu prüfen).
 - DORA (VO (EU) 2022/2554, seit 17.01.2025).
 - ILPA Standardized Reporting Templates 2.1 (jeweils aktueller Stand vom Anwender zu prüfen).
-

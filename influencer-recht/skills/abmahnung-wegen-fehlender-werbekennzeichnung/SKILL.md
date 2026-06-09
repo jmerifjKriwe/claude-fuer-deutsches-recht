@@ -98,4 +98,3 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 - BGH I ZR 9/22
 - BGH III ZR 183/21
 - BFH XI R 14/09
-

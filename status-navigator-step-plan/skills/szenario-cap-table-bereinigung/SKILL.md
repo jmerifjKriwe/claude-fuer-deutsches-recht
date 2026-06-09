@@ -15,4 +15,3 @@ LausitzStorage Cap-Table-Bereinigung: drei Versionen (siehe `diskrepanzen-aufdec
 - Soll-Cap-Table mit Quellnachweis je Zeile
 - Abweichungs-Memo zu den abweichenden Versionen
 - Querverweis an Skill `dokumententyp-beschluesse` bei vermuteter Wandlung
-

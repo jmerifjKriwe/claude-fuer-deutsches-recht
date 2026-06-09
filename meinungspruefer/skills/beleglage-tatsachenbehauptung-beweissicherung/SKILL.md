@@ -34,4 +34,3 @@ description: "Erstellt eine Belegmatrix für Tatsachenbehauptungen, Verdachtsäu
 - Berufliche Pflichtverletzungen: "fälscht", "kassiert doppelt", "arbeitet bewusst gegen Kunden".
 - Gesundheits-, Schul- oder Arbeitsplatzvorwürfe mit identifizierbaren Personen.
 - Unternehmensbezogene Aussagen, die Kredit, Erwerb oder Fortkommen gefährden können.
-

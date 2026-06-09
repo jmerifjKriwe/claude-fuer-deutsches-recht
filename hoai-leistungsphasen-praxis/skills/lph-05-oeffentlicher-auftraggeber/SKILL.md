@@ -1,6 +1,6 @@
 ---
 name: lph-05-oeffentlicher-auftraggeber
-description: "HOAI LPH 5 Ausführungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 5 Ausführungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsph..."
 ---
 
 # LPH 5 Ausführungsplanung: Berücksichtigt vergabe
@@ -32,4 +32,3 @@ description: "HOAI LPH 5 Ausführungsplanung: berücksichtigt Vergabe, Haushalts
 - Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
 - Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

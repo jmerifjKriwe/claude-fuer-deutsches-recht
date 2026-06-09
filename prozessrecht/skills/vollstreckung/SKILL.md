@@ -1,6 +1,6 @@
 ---
 name: vollstreckung
-description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung im Prozessrecht."
+description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nic..."
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis
@@ -159,4 +159,3 @@ Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das U
 Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
 Halluzinierte Referenz geloescht. Keine Ersatzquelle für § 771 ZPO-Leitentscheidung ergaenzt.
 -->
-

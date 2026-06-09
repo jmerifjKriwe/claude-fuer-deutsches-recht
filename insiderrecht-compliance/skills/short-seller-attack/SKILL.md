@@ -80,4 +80,3 @@ mit einer auf Kapitalmarktrecht spezialisierten Kanzlei zu analysieren.
 Weitere Quellen:
 - Art. 20 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
-

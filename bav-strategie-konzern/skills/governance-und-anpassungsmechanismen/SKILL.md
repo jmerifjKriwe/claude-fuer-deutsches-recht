@@ -1,6 +1,6 @@
 ---
 name: governance-und-anpassungsmechanismen
-description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill) im Bav Strategie Konzern."
+description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigen..."
 ---
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
@@ -234,4 +234,3 @@ c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
 - → `cta-contractual-trust-arrangement-strukturierung` — Treuhand und Trustee-Board
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Anpassungsklauseln in VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei Anpassungsentscheidungen
-

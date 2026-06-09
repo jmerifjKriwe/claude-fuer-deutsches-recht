@@ -1,6 +1,6 @@
 ---
 name: legistik-normenkartierung-aenderungsbefehle
-description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen."
+description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech..."
 ---
 
 # Normenkartierung
@@ -82,4 +82,3 @@ Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlich
 ## Anschluss
 
 `terminologie-konsistenz`, `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
-

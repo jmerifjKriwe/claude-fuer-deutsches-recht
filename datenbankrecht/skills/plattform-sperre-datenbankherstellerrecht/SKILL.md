@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-datenbankherstellerrecht
-description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag im Datenbankrecht."
+description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren..."
 ---
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz
@@ -71,4 +71,3 @@ description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: B
 - [Art. 102 AEUV — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12012E102)
 - [§ 19 GWB — dejure.org](https://dejure.org/gesetze/GWB/19.html)
 - [DMA-Verordnung 2022/1925 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R1925)
-

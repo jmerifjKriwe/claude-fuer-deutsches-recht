@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich) im Bav Strategie Konzern."
+description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich..."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
@@ -240,4 +240,3 @@ IAS 19 — plan asset:
 - → `governance-und-anpassungsmechanismen` — Treuhandausschuss/Pension Committee Charter
 - → `pension-buyout-strukturierung-und-de-risking` — CTA als Vorstufe zu Buy-in/Buy-out
 - → `historisch-gewachsene-altsysteme-due-diligence` — CTA-Audit bei M&A
-

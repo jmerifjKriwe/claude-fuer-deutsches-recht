@@ -1,6 +1,6 @@
 ---
 name: ist-ki-act-marktueberwachung-kommunikation
-description: "Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt ist das ein Problem, kurze Frage, können wir X machen, brauche ich rechtliche Prüfung für, Plausibilitätsprüfung, oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse im Produktrecht."
+description: "Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt ist das ein Problem, kurze Frage, können wir X machen, brauche ich rechtliche Prüfung für, Plausibilitätsprüfung, oder eine PM-Frage einfügt die eine Gleich-..."
 ---
 
 # /ist-das-ein-problem – Schnellprüfung
@@ -154,4 +154,3 @@ Typische Schnellzitate für häufige Konstellationen:
 
 <!-- AUDIT 27.05.2026 -->
 <!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte für AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->
-

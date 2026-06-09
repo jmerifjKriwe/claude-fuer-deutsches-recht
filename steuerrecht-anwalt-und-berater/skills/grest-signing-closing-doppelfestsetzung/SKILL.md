@@ -38,4 +38,3 @@ Nicht blind "keine GrESt" schreiben. Besser:
 ## No-Go
 
 Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der aktuelle Stand ist differenziert und verfahrensabhängig.
-

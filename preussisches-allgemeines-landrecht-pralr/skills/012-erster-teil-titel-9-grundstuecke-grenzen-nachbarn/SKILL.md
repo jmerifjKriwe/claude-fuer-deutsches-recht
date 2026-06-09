@@ -64,4 +64,3 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 1. Wo liegt das Grundstueck (rechtsrheinisch / linksrheinisch)? Linksrheinisch galt Code civil, nicht ALR.
 2. Eintragungen im Grundbuch (Altrecht ja/nein)?
 3. Heute Landesnachbarrecht und § 906 BGB anwenden, ALR nur als historischer Bezug.
-

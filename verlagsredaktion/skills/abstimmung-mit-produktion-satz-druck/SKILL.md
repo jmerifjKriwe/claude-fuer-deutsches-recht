@@ -140,4 +140,3 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

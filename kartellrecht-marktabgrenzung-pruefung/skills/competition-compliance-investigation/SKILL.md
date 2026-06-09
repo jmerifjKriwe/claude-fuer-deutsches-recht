@@ -1,6 +1,6 @@
 ---
 name: competition-compliance-investigation
-description: "Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgren..."
 ---
 
 # Interne Kartelluntersuchung
@@ -33,4 +33,3 @@ description: "Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht m
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

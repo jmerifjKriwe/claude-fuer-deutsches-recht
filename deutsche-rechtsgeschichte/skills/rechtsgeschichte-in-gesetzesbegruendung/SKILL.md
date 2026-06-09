@@ -45,4 +45,3 @@ Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen)
 - Mugdan: historische Ausgabe als Qualitaetsmassstab
 - GGO: bundesregierung.de für formale Anforderungen
 - BVerfGE: bverfg.de für Nutzung der Gesetzesbegründung
-

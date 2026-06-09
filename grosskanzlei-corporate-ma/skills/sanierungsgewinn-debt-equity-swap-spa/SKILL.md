@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-spa
-description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026."
+description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (..."
 ---
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
@@ -106,4 +106,3 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
-

@@ -66,4 +66,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Widersprüche markieren
 - StaRUG-Anzeige trotz bereits eingetretener ZU — Hinderungsgrund § 33 Abs. 2 Nr. 1 StaRUG.
 - Klassenbildung ändert sich während des Verfahrens — Plan muss konsistent bleiben.
-

@@ -81,4 +81,3 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 - InEK G-DRG- und PEPP-Kataloge 2026 (Live-Check: g-drg.de).
 - BSG, staend. Rspr. zu Budgetverhandlung und Schiedsstellenentscheidungen.
 - BMG-FAQ zur Konvergenzphase (Live-Check: bundesgesundheitsministerium.de).
-

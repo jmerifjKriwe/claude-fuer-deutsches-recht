@@ -48,4 +48,3 @@ Die zollrechtliche Einreihung (HS-Code / KN-Code) bestimmt den Zollsatz und Rege
 - Ursprung: Produktionsprozess dokumentieren; wesentliche Be- und Verarbeitung nachweisen
 - BTI beantragen: Bindende Zolltarifauskunft beim Hauptzollamt / EU-Datenbank EBTI
 - Antidumping-Verdacht: EuG-Rspr. zu Umgehungsfällen (curia.europa.eu)
-

@@ -54,4 +54,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Startset geprüfter Verbraucher-Rechtsprechung
 
 Nutze zuerst `references/rechtsprechung-verbraucher.md`, wenn es um Button-Lösung, Bankentgelte, Inkasso, SCHUFA, Probeabo, Fitnessstudio oder Diesel-/Serienfälle geht. Die dort genannten Entscheidungen sind nur Arbeitsanker: Vor tragender Ausgabe immer den Link öffnen oder eine gleichwertige amtliche/frei zugängliche Quelle live prüfen.
-

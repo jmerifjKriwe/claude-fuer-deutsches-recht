@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Substantiierung:** Bereits der Schriftsatz muss die Grundrechtsverletzung schlüssig darlegen; Beweis im engeren Sinne wird nicht erhoben (Aktenverfahren).
 - **Kostenrisiko:** Keine Kostenerstattung im Erfolgsfall regelmäßig (§ 34a BVerfGG nur ausnahmsweise). RVG-Hinweis und Honorarvereinbarung sind Pflicht (§ 49b BRAO).
 - **Sie-Form, nüchterner Ton:** Keine Kampagnenrhetorik. Verfassungsgerichtliche Sprache ist sachlich, dogmatisch begründet, ohne Polemik.
-

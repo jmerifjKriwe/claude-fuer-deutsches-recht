@@ -79,4 +79,3 @@ Konkret zu prüfen:
 - § 1 UrhDaG (Verantwortlichkeit Diensteanbieter)
 - §§ 4-12 UrhDaG
 - Art. 17 RL 2019/790
-

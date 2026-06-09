@@ -36,4 +36,3 @@ description: "Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im
 1. Welche Stufe (W 1 / W 2 / W 3)?
 2. Welche Leistungsbezuege?
 3. BVerfG-Verstoss?
-

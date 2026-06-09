@@ -199,4 +199,3 @@ BINDUNGSBESTAETIGUNG FRIST: bis [DATUM]
 
 - assets/templates/wi-versicherung-checkliste.md
 - assets/templates/wi-underwriting-disclosure.md
-

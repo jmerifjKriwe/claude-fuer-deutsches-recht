@@ -1,6 +1,6 @@
 ---
 name: disclosure
-description: "Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbarungen, General Disclosure vs. Specific Disclosure, Knowledge-Qualifikation, Materiality-Schwellen, Datenraumverweis-Tauglichkeit. Output Disclosure-Matrix mit Guarantee-zu-Schedule-Mapping und Luecken-Ampel. Abgrenzung zu SPA/APA-Entwurf und zu Vertragsmarkup-Key-Issues."
+description: "Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbaru..."
 ---
 
 # Disclosure Schedules
@@ -190,4 +190,3 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 - assets/templates/disclosure-letter-gliederung.md
 - assets/templates/disclosure-schedule-index.md
-

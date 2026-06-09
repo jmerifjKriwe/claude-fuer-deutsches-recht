@@ -75,4 +75,3 @@ Sachverhalt: A gibt sein Geld waehrend eines Brandes bei B in Verwahrung; B unte
 ### Receptum nautarum cauponum stabulariorum
 - D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger für eingebrachte Sachen (custodia-Haftung).
 - Modern: §§ 701-704 BGB Gastwirtshaftung.
-

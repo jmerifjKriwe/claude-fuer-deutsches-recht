@@ -71,4 +71,3 @@ Enge Kooperationen zwischen Creator und Management/Brand können zur Scheinselbs
 - DRV-Anfrage-Muster (§ 7a SGB IV)
 - Vertragsneugestaltungs-Empfehlung
 - Haftungskalkulationstabelle (Nachzahlung)
-

@@ -1,6 +1,6 @@
 ---
 name: forderungsaufnahme
-description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjährungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für Mahnverfahren oder Klage."
+description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjährungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für..."
 ---
 
 # Forderungsaufnahme

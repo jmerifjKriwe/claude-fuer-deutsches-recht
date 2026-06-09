@@ -54,4 +54,3 @@ Voraussetzungen für eine wirksame Meldung:
 
 ## Trade-off
 Schnelle Entfernung mindert Haftungsrisiko, kann aber gegen Art. 17 (Begründungspflicht, ne bis in idem) und Art. 14 (AGB-Transparenz) verstoßen. Übermoderation steht unter unionsgrundrechtlicher Beobachtung (Art. 11 GRCh Meinungsfreiheit).
-

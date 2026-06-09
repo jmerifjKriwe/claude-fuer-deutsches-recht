@@ -1,6 +1,6 @@
 ---
 name: est-werbungskosten-systematik
-description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Abzugsfaehigkeit das Finanzamt bestreitet. Behandelt § 9 EStG § 4 Abs. 4 EStG § 12 EStG und einschlaegige Rechtsprechung des BFH zum Aufteilungsmassstab. Output Pruefraster mit beispielhaftem Berechnungsteil. Abgrenzung zu fa-stu-onboarding-beratungsstruktur."
+description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Ab..."
 ---
 
 # Werbungskosten und Betriebsausgaben — § 9 EStG § 4 Abs. 4 EStG
@@ -42,4 +42,3 @@ description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — v
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

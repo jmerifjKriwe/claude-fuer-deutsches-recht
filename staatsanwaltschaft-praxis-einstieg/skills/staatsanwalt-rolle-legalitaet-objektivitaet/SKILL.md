@@ -1,6 +1,6 @@
 ---
 name: staatsanwalt-rolle-legalitaet-objektivitaet
-description: "Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvo..."
 ---
 
 # Rolle der Staatsanwaltschaft: Legalität und Objektivität
@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
-

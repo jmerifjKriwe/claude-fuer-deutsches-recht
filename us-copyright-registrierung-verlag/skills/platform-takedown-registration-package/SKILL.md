@@ -37,4 +37,3 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Eskalation droht: restoration, subpoena, repeat-infringer issue, lawsuit hold oder platform suspension?
 
 **Mindest-Output:** DMCA-mit Notice-Check, Safe-Harbor-Gap, Counter-Notice-Risiko und Evidence Hold.
-

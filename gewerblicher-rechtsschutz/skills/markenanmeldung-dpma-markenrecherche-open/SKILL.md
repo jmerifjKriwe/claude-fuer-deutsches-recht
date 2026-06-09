@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-dpma-markenrecherche-open
-description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung) im Gewerblicher Rechtsschutz."
+description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG...."
 ---
 
 # Markenanmeldung beim DPMA
@@ -202,4 +202,3 @@ Problem: Konkrete Leitentscheidungen duerfen nur nach Live-Verifikation mit Geri
  Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
  Verifiziert via dejure.org.
 -->
-

@@ -1,6 +1,6 @@
 ---
 name: ticket-und-reisedaten-erfassen
-description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis sowie tatsaechliche Ist-Zeiten und das Stoerungsereignis (Verspaetung Zugausfall verpasster Anschluss). Erzeugt strukturierte Fallakte."
+description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis..."
 ---
 
 # Ticket- und Reisedaten erfassen
@@ -149,4 +149,3 @@ Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen s
 ## Leitentscheidungen Datenerfassung
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

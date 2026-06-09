@@ -81,4 +81,3 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 340 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__340.html)
 - [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)
-

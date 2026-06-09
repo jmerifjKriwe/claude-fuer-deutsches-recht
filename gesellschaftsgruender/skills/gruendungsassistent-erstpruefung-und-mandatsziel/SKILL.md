@@ -1,6 +1,6 @@
 ---
 name: gruendungsassistent-erstpruefung-und-mandatsziel
-description: "Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaft..."
 ---
 
 # Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel
@@ -74,4 +74,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **GmbH vs. GmbH & Co. KG:** KG ermöglicht steuerliche Verlustverrechnung beim Kommanditisten, aber komplexere Struktur und höhere laufende Kosten (zwei Jahresabschlüsse).
 - **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (§ 8 Abs. 4 PartGG i.V.m. § 51a BRAO bei Anwälten).
 - **DiRUG-Online-Gründung:** seit 01.08.2022 § 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.
-

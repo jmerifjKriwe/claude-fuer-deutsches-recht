@@ -63,4 +63,3 @@ Der Strafprozess hat sich von der Inquisition (Ex-officio-Prozess, Folter, Gehei
 - StPO 1877: RGBl. 1877, 253 via ALEX/OeNB
 - StPO aktuell: gesetze-im-internet.de
 - BVerfGE zum Strafprozessrecht: bverfg.de
-

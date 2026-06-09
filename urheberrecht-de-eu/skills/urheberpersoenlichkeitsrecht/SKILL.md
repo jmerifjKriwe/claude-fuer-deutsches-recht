@@ -81,4 +81,3 @@ Konkret zu prüfen:
 - §§ 15-24 UrhG (Verwertungsrechte)
 - § 97 UrhG (Unterlassung, Schadensersatz)
 - RL (EU) 2019/790 (DSM-RL)
-

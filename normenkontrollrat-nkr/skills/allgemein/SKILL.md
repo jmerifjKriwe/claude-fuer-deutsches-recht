@@ -40,4 +40,3 @@ Dieses Plugin unterstützt Ressorts, Verbände, Bundesländer und Wissenschaft b
 4. **Tragenden Spezial-Skill auswählen** und dort die Detail-Routine vollständig abarbeiten.
 5. **Mehrere Spezial-Skills nur kombinieren,** wenn das Vorhaben tatsächlich mehrere NKR-Prüfdimensionen berührt.
 6. **Output formulieren.** Stellungnahme an den NKR, Memo ans Ressort, Fragenkatalog an die Verbände, oder Berechnungs-Datenblatt.
-

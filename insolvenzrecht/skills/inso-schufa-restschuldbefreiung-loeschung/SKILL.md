@@ -34,4 +34,3 @@ InsO §§ 286 ff., 300, 301; InsBekV live prüfen; DSGVO Art. 17; EuGH 07.12.202
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

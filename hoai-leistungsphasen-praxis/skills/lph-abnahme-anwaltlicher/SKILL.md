@@ -35,4 +35,3 @@ Wenn der Fall nicht nur nach einer Leistungsphase, sondern nach einem typischen 
 - HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
-

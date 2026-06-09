@@ -128,4 +128,3 @@ Plagiate in Verlagswerken können zum **Vertragsrücktritt, Haftungsansprüchen,
 - **Rücktrittsschreiben** (bei erheblichem Plagiat)
 - **Titelrückruf-Protokoll**: Rückrufverfahren, Händleranschreiben
 - **Freistellungs-Rechnung** an Autor nach Plagiatshaftung
-

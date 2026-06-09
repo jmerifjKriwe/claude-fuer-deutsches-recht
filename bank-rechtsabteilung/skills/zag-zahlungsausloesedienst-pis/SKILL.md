@@ -45,4 +45,3 @@ Dieser Skill prüft Zahlungsauslösedienste (Payment Initiation Services, PIS) n
 - SCA-Ausnahme für Dauerauftrag: RTS-SCA Art. 14 (wiederkehrende Transaktionen gleicher Betrag/Empfänger); Erstauslösung mit SCA
 - Unbefugter Zahlungsvorgang über PIS: § 27 ZAG Haftung PIS; § 675u BGB Erstattungsanspruch Zahler gegen Kontoführer; Regress
 - Cross-Border-Betrieb (Deutschland + Frankreich): § 38 ZAG Notifizierung; RTS-SCA einheitlich anwendbar im EWR
-

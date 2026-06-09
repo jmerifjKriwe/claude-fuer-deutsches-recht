@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-hypothek-bestellen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mit..."
 ---
 
 # Schiffbauwerk – Schiffshypothek bestellen
@@ -84,4 +84,3 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
-

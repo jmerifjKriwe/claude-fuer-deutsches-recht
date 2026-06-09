@@ -79,4 +79,3 @@ description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigke
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__249.html
 - https://www.gesetze-im-internet.de/bgb/__253.html
-

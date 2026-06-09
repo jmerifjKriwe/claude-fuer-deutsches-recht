@@ -71,4 +71,3 @@ Grenzüberschreitende Kooperationen innerhalb der EU haben besondere USt-Regeln:
 - VIES-Verifikations-Protokoll
 - ZM-Einreichungs-Anleitung
 - Barter-Deal-EU-Steuerkalkulation
-

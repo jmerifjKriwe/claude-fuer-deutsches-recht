@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punk
 3. Bewertungsmerkmale einzeln mit Tatsachen füllen: Integration, Konstruktion, technische Ausrüstung, Gestaltung, Ausbau, Umfeld.
 4. Punktbewertung plausibilisieren.
 5. Gegenposition formulieren: Warum nicht eine Zone niedriger/höher?
-

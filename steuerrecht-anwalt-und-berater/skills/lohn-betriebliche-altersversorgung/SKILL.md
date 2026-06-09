@@ -117,4 +117,3 @@ Stand: 05/2026.
 - BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Werte 2025 eingesetzt), 1 ersetzt (Rentner-Freibetrag Pruefhinweis ohne Marker) -->
-

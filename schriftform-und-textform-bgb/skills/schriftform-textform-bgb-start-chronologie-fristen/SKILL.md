@@ -1,6 +1,6 @@
 ---
 name: schriftform-textform-bgb-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Schriftform Und Textform Bgb."
+description: "Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill ei..."
 ---
 
 # Schriftform und Textform im BGB — Allgemein
@@ -232,4 +232,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
  - BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 und Az. I ZR 138/24 — Halbteilungsgrundsatz § 656c und § 656d BGB beim Maklervertrag.
  - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — eingescannte Unterschrift wahrt § 14 Abs. 4 TzBfG nicht.
  - ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — DocuSign-qES wahrt § 14 Abs. 4 TzBfG.
-

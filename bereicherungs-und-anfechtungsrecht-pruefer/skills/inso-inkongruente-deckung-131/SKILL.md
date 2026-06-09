@@ -1,6 +1,6 @@
 ---
 name: inso-inkongruente-deckung-131
-description: "Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter Monat; Zahlungsunfähigkeit oder Kenntnis der Gläubigerbenachteiligung. Output: Normmatrix mit Abgrenzung zu § 130, § 133 und § 142."
+description: "Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter Monat; Zahlungsunfähigkeit oder Kenntnis der Gläubigerbenachteiligung. Output: Nor..."
 ---
 
 # Inkongruente Deckung — § 131 InsO
@@ -73,4 +73,3 @@ Inkongruenz kann ein starkes Indiz für § 133 InsO sein. Sie ersetzt aber nicht
 ---
 
 Hinweis: Keine Rechtsberatung. Bei § 131 InsO ist die exakte Kongruenzprüfung oft entscheidender als die Krisenkenntnis.
-

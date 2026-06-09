@@ -1,6 +1,6 @@
 ---
 name: anliegergebrauch-abgrenzen
-description: "Straßenrecht und Infrastruktur: Anliegergebrauch abgrenzen. Anliegergebrauch abgrenzen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Straßenrecht und Infrastruktur: Anliegergebrauch abgrenzen. Anliegergebrauch abgrenzen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale..."
 ---
 
 # Anliegergebrauch Abgrenzen
@@ -60,4 +60,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

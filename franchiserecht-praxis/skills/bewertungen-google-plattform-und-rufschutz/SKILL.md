@@ -103,4 +103,3 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 - BGH I ZR 90/20
 - BGH VIII ZR 233/02
 - BGH XII ZR 197/03
-

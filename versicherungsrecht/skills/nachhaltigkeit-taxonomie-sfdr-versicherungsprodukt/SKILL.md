@@ -41,4 +41,3 @@ SFDR; Taxonomie-VO; IDD; VAG/VVG Informationspflichten; UWG; BaFin-Verlautbarung
 
 - idd-vertrieb-beratung-dokumentation
 - vag-bafin-aufsicht-beschwerde-missstand
-

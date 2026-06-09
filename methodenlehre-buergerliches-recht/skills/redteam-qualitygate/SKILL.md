@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Ergebnis dokumentiert und für die Überarbeitung genutzt wird. Das Skill sichert die methodische und inhaltliche Qualität aller juristischen Endprodukte vor ihrer Verwendung und reduziert das Risiko von Überraschungen im Verfahren."
+description: "Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Er..."
 ---
 
 # Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung
@@ -82,4 +82,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

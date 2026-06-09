@@ -44,4 +44,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
  - **Fuehrungsfunktionen Wirtschaft:** Reputation.
 - **Kostenhinweis RVG:** VV 4100 (Grundgebuehr), 4106 (Verfahrensgebuehr Strafbefehlsverfahren), 4108 (Verfahrensgebuehr Einspruch), 4112 ff. (Terminsgebuehr); Pflichtverteidigergebuehren bei Verurteilung als Verfahrenskosten dem Mandant.
 - **Mandantenfreigabe schriftlich** für: Einspruch, Einspruchsruecknahme, Beschraenkung, Annahme Auflagen § 153a StPO, Verstaendigung § 257c StPO.
-

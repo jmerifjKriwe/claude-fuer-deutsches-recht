@@ -213,4 +213,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - GEPRIS (Vergleich bewilligter Projekte im Feld): gepris.dfg.de
 
 Gutachterkriterien und Gewichtung sind in DFG-Quellen dokumentiert — vor Red-Team aktuelle Version prüfen.
-

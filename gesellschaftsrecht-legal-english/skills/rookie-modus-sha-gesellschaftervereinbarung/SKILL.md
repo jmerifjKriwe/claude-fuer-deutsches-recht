@@ -105,4 +105,3 @@ Wenn der Nutzer zu schnell eine Uebersetzung will, brems freundlich:
 - "Ich uebersetze den Begriff nicht isoliert; zuerst klaere ich die Funktion."
 - "Das ist kein deutsches Synonym, sondern ein importiertes Vertragsinstrument."
 - "Wir brauchen eine Zahlenprobe, sonst klingt die Klausel nur richtig."
-

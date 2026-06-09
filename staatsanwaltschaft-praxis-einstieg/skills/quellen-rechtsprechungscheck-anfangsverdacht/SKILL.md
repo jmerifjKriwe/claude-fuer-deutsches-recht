@@ -40,4 +40,3 @@ Konkret zu prüfen:
 - § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
 - § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-

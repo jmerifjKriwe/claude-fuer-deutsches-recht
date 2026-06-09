@@ -1,6 +1,6 @@
 ---
 name: abschlussprodukt-uebergabe
-description: "Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation."
+description: "Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken..."
 ---
 
 # Bürgerliches Abschlussprodukt und Übergabe
@@ -110,4 +110,3 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-

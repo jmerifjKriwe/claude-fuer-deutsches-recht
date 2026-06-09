@@ -121,4 +121,3 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG: 10.000 EUR seit 01.01.2026; Übergangsfälle und Sonderzuständigkeiten gesondert prüfen.
-

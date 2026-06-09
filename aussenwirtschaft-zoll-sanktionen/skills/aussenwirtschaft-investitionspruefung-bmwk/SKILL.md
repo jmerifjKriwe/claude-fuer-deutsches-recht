@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-investitionspruefung-bmwk
-description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pruefcheckliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pru..."
 ---
 
 # Investitionspruefung BMWK: AWG-Verfahren bei auslaendischen Unternehmenserwerben
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
 - [BMWK Investitionspruefung](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/investitionspruefung.html)
 - [EUR-Lex VO (EU) 2019/452 Screening-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
-

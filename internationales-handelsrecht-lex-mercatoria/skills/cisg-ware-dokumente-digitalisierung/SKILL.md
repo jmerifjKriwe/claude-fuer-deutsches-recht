@@ -48,4 +48,3 @@ Art. 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Art. 35 A
 - Öffentlich-rechtliche Anforderungen: Grundsatz Verkäufersphäre, Ausnahmen bei Spezialwissen
 - Digitalisierung: MLETR-Umsetzungsstand im relevanten Land prüfen (uncitral.un.org)
 - eUCP 2.0 Anpassungsklausel in Akkreditiv explizit einbeziehen
-

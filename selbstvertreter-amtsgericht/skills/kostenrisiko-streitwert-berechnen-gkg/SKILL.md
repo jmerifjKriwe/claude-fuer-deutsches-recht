@@ -118,4 +118,3 @@ Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festse
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage verifizieren ueber justiz.de oder juris.
-

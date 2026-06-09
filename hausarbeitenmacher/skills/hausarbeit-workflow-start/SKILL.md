@@ -322,4 +322,3 @@ Jetzt geht's los. Das Plugin fragt Dich Schritt für Schritt durch. Bleibe entsp
 → Dann weiter mit `aufgabenstellung-erfassen` und durch den oben genannten Workflow.
 
 → Bei Unsicherheit, welcher Skill als nächstes: frage das Plugin "Was sollte ich als nächstes machen?". Es wird Dir basierend auf Deinem Stand einen Vorschlag machen.
-

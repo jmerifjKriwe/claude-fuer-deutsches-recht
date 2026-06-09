@@ -80,4 +80,3 @@ Dieser Skill stellt sicher, dass das Special Committee ordnungsgemäß eingerich
 - **Freistellungsbeschluss-Vorlage** (§ 84 AktG)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

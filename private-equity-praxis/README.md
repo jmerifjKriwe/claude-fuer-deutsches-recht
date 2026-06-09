@@ -132,7 +132,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `rechtsabteilung-management-participation-sweet-equity` | Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungso... |
 | `rechtsabteilung-pe-closing-continuation-fund` | Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage im Private Equity Praxis. |
 | `rechtsabteilung-sanierungsgutachten-bei-add-on-krise` | Rechtsabteilungs-Fachmodul für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity... |
-| `rechtsabteilung-w` | Rechtsabteilung W im Private Equity Praxis im Private Equity Praxis. |
+| `rechtsabteilung-w-i-claim-nach-financial-statements-breach` | Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet: Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Bre... |
 | `red-team-investment-thesis` | Testet Deal-These gegen Rechts-, Markt-, Finanzierungs-, Regulierungs- und Exit-Risiken. |
 | `regulated-bank-fintech-target` | Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis. |
 | `regulatory-sector-dd` | Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis. |

@@ -58,4 +58,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schwellenwerte (Gelb/Rot):** Beispielhaft Eigenkapitalquote < 25 %/15 %, Cash-Burn-Rate Liquide Mittel < 60 / 30 Tage, EBITDA-Marge < 3 %/0 %. Branche-spezifisch anpassen.
 - **Trade-off:** Engmaschiges Set (15+ Kennzahlen) ist informativ, aber pflegeintensiv; minimalistisches Set (3–5) ist effizient, aber blind für Branchen-Spezifika.
 - **Praxis:** Kennzahlen werden im Reporting an die Geschäftsleitung mindestens monatlich präsentiert; bei Eintritt eines Roten Schwellenwerts wird Anzeige an Aufsichtsorgan (§ 1 Abs. 1 Satz 3 StaRUG, Stand prüfen) ausgelöst.
-

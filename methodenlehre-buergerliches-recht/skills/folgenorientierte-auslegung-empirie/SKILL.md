@@ -1,6 +1,6 @@
 ---
 name: folgenorientierte-auslegung-empirie
-description: "Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt."
+description: "Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen u..."
 ---
 
 # Folgenorientierte Auslegung: Methodik und empirische Anforderungen
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 65, 1 – Volkszählung, zu empirischen Grundlagen staatlicher Entscheidungen](https://www.bverfg.de/e/rs19831215_1bvr020983.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

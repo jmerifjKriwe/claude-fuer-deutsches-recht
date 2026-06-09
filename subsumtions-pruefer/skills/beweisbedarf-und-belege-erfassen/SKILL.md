@@ -1,6 +1,6 @@
 ---
 name: beweisbedarf-und-belege-erfassen
-description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO im Subsumtions Pruefer."
+description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO im Subsumtions..."
 ---
 
 # Beweisbedarf und Belege erfassen
@@ -165,4 +165,3 @@ BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesam
 - BGH VI ZR 188/17
 - BGH VI ZR 26/21
 - BGH VI ZR 290/18
-

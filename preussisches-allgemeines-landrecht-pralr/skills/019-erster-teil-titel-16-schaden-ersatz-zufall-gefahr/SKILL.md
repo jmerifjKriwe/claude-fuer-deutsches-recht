@@ -60,4 +60,3 @@ Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahr
 1. Vertragstyp und Periculum (Verkaeufer / Kaeufer / Verwahrer).
 2. Verschuldensgrad nach ALR-Stufen (dolus bis casus).
 3. Heute BGB-§§ und ggf. UN-Kaufrecht.
-

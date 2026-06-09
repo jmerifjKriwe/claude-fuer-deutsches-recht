@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation im Geldwaeschepraevention Aml Kyc."
+description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster..."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren
@@ -54,4 +54,3 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmen
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
-

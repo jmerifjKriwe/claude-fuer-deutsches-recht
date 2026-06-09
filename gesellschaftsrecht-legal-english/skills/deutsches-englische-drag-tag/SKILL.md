@@ -57,4 +57,3 @@ Ist Englisch nur Arbeitssprache, verbindliche Vertragssprache oder Prozesssprach
 - Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
 - Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
 - Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
-

@@ -148,7 +148,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `wuerfel-aufbauen` | 3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Ab... |
 | `wuerfel-tatbestand-beweis-und-belege` | Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin tabellenreview 3d im Tabellenreview 3d. |
 | `wuerfel-tatbestandsmerkmale-beweisfragen` | Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
-| `zeilenprompts-definieren` | Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenreview 3d. |
+| `zeilenprompts-definieren` | Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren: Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Outp... |
 | `zeilenprompts-risikoampel-gegenargumente` | Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist... |
 | `zeilenprompts-risikoampel-und-gegenargumente` | Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin tabellenreview 3d im Tabellenreview 3d. |
 

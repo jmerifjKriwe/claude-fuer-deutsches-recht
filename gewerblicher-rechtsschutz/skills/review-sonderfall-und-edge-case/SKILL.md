@@ -142,4 +142,3 @@ Dritter hat Domain registriert, die Marke des Mandanten enthält.
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 - `erfindungsmeldung-aufnahme` – ArbnErfG Prozess
 - `takedown-anweisung` – Domain-Takedown
-

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung
-description: "Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprüche formulieren. Normen: §§ 935 940 ZPO. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zuständigkeit, Arrest-Abgrenzung. Output: Antragsschrift einstweilige Verfuegung. Abgrenzung: nicht Berufungsrecht §§ 511 ff. ZPO im Prozessrecht."
+description: "Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprüche formulieren. Normen: §§ 935 940 ZPO. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zuständigkeit, Arrest-Abgrenzung. Output: Antragsschrift einstweilige Verfuegung. Abgrenzung: nicht Berufungsrecht..."
 ---
 
 # Einstweilige Verfügung – §§ 935, 940 ZPO
@@ -148,4 +148,3 @@ ist nach `references/zitierweise.md` zu belegen. BGH-Urteile mit vollem Zitat (D
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 mit Bearbeiter, Werk, Aufl., §, Rn. Streitstände (insbes. zu § 945 ZPO Verschulden) offen
 darstellen.
-

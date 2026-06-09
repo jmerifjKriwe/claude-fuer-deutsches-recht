@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Arbeitsrecht AGB 310 Abs. 4: prüft 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

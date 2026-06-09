@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-alr-ii-5-196-197
-description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzung) und die rechtshistorische Bedeutung als 'freie Luft Preussens'. Liefert Quellenmatrix und Pruefraster."
+description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzun..."
 ---
 
 # Sklavenrecht im ALR — ALR II 5 §§ 196 ff.
@@ -57,4 +57,3 @@ Spaetere Akte:
 3. Sofortwirkung der Befreiung bei Grenzuebertritt klar darstellen.
 4. "1-Jahres-Frist" kritisch einordnen (Verwechslung mit Code Noir oder mit gesinderechtlicher Anschlussbindung).
 5. Heutige Norm (Art. 1 GG, § 138 BGB, § 233 StGB, Art. 4 EMRK).
-

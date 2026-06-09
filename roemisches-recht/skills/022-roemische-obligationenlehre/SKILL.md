@@ -1,6 +1,6 @@
 ---
 name: 022-roemische-obligationenlehre
-description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht: Dieser Skill bearbeitet Römische Obligationenlehre im Handelsrecht des Mittelalters im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht: Dieser Skill bearbeitet Römische Obligationenlehre im Handelsrecht des Mittelalters im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer h..."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters
@@ -48,4 +48,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

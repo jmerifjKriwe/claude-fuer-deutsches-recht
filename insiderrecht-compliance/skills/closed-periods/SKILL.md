@@ -73,4 +73,3 @@ Falls eine Closed-Period-Verletzung festgestellt wird:
 - Prüfung: Lag eine Ausnahme vor? Wenn nein: Meldepflicht nach Art. 19 MAR (ex post),
  BaFin-Meldung und interne Untersuchung
 - Bußgeld nach § 120 WpHG möglich (bis zu 1 Mio. EUR für natürliche Personen)
-

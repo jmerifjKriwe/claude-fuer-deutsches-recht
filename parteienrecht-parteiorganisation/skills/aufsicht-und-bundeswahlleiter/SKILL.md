@@ -94,4 +94,3 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ### Leitentscheidungen
 
 - BGH II ZR 154/87
-

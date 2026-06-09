@@ -1,6 +1,6 @@
 ---
 name: orientierung
-description: "Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Fachmodule. FAO § 9 Fachanwaltsvoraussetzungen als Anhang."
+description: "Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage F..."
 ---
 
 # Anwalt im Steuerrecht — Orientierung
@@ -73,4 +73,3 @@ Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht"
 - 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
 
 Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
-

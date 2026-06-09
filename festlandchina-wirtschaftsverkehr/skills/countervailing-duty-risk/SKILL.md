@@ -1,6 +1,6 @@
 ---
 name: countervailing-duty-risk
-description: "EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick im Festlandchina Wirtschaftsverkehr."
+description: "EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflic..."
 ---
 
 # EU-Antisubventionsverfahren China: Risiken und Verfahren
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

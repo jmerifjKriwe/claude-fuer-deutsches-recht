@@ -69,4 +69,3 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - EuGH C-249/21
 - EuGH C-208/19
 - EuGH C-186/16
-

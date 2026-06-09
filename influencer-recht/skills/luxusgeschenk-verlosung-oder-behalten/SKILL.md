@@ -72,4 +72,3 @@ Hochwertige Geschenke von Brands (Designer-Taschen, Uhren, Reisen) erzeugen erhe
 - Buchungsnotiz für Sacheinnahme
 - Verlosungs-Set-up (Teilnahmebedingungen + DSGVO)
 - Rücksende-Schreiben-Vorlage
-

@@ -64,4 +64,3 @@ Erzeuge Bewertungsanalyse, Belegmatrix, Antwortentwurf und sichere Ersatzformuli
 ## Prompts, die dieser Skill stellen soll
 
 - Wortlaut, Plattform, eigener Kontakt, Belege, Abmahner, Frist?
-

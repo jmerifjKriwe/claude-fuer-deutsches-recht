@@ -85,4 +85,3 @@ Bei EU-Normen benennt das System zusätzlich:
 - Erwägungsgründe (ErwGr) als Auslegungshilfe
 - EuGH-Leitentscheidungen zur Normauslegung
 - Unterschied zwischen autonomer unionsrechtlicher Auslegung und mitgliedstaatlichem Ermessen
-

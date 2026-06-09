@@ -86,4 +86,3 @@ Arbeitnehmer, die privat krankenversichert sind, haben Anspruch auf einen AG-Zus
 - [BSG B 12 KR 22/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 257 SGB V](https://dejure.org/gesetze/SGB_V/257.html)
 - [GKV-Spitzenverband Beitragsrecht](https://www.gkv-spitzenverband.de)
-

@@ -1,6 +1,6 @@
 ---
 name: transaktionen-dd
-description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Prüfraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzierung im Energierecht."
+description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Prüfraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzie..."
 ---
 
 # Energie-Transaktionen und Due Diligence
@@ -298,4 +298,3 @@ description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, 
 
 ---
 <!-- AUDIT 27.05.2026 -->
-

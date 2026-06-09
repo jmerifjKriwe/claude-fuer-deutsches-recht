@@ -134,6 +134,6 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `trusted-flagger-beschwerdemanagement-dsa` | Trusted Flagger Beschwerdemanagement DSA: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO;... |
 | `unwirksame-klauseln-versand-ruecksendung-gewaehrleistung` | Unwirksame Klauseln Versand Rücksendung Gewährleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG... |
 | `widerrufsbelehrung-digitale-waren-dienstleistungen` | Widerrufsbelehrung digitale Waren Dienstleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DS... |
-| `widerrufsrecht-verbraucher` | Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce Recht. |
+| `widerrufsrecht-verbraucher-355-312g-bgb` | Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: Norm-/Quellenanker:... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

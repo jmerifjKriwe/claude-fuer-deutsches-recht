@@ -39,4 +39,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Anfechtungsrisiko:** Rangrücktritt selbst löst keine Anfechtung aus, aber Zahlungen vor Rangrücktritt sind potenziell anfechtbar (§ 135 InsO Gesellschafterdarlehen, einjährige Frist).
 - **Trade-off vs. Forderungsverzicht:** Verzicht ist endgültig und löst u. U. Sanierungsertrag mit Steuerfolgen aus (§ 3a EStG-Sanierungsertragsteuerbefreiung — Voraussetzungen prüfen); Rangrücktritt ist reversibel, aber bilanziell schwächer.
 - **Praxis:** Stets schriftlich, datiert vor dem Bilanzstichtag/Prognosestichtag; Beweissicherung durch Zustellung per Bote oder Anwaltspost.
-

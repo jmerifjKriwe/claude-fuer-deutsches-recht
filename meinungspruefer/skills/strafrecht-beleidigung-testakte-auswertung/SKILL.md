@@ -59,4 +59,3 @@ Schreibe nie nur "Beleidigung ja/nein". Gib:
 Für "Lackaffe" nutze `schimpfwort-lackaffe-und-spott`.
 
 Für "Pinocchio" nutze `satire-ironisierung-pinocchio`.
-

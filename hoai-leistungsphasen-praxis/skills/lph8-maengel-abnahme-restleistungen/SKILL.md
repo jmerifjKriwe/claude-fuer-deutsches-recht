@@ -30,4 +30,3 @@ description: "HOAI-Fachfrage LPH 8: Mängelmanagement, Vorbegehung, Abnahme, Res
 5. Übergang in LPH 9 mit Gewährleistungsfristen anlegen.
 6. Planerpflicht: Bauherrn beraten, Termine und Mängel verfolgen, aber keine Unternehmerverantwortung übernehmen.
 7. Bezugsfähigkeit, Sicherheitseinbehalt und Restzahlung betragsmäßig auseinanderziehen.
-

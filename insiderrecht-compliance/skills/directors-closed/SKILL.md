@@ -76,4 +76,3 @@ Empfehlen (nicht gesetzlich zwingend, aber Best Practice):
 - Compliance prüft: kein Insiderstatus, keine Closed Period, keine offene Insiderinformation
 - Schriftliche Freigabe oder Verweigerung mit Begründung
 - Aufbewahrung 5 Jahre
-

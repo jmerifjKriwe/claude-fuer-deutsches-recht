@@ -48,4 +48,3 @@ Force Majeure befreit den Schuldner von Schadensersatzhaftung wenn ein außerhal
 - Hinweispflicht-Tracking: Datum FM-Eintritt → Datum Notifikation → Haftungsrisiko
 - ICC FM-Klausel 2020 als Vertragsbaustein einbeziehen (kürzere Notifikationsfrist 30 Tage)
 - Sublieferantenkette: Art. 79 Abs. 2 Kaskade prüfen
-

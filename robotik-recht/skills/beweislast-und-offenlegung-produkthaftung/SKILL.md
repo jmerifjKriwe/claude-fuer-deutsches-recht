@@ -89,4 +89,3 @@ Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Ges
 - GeschGehG §§ 16-20.
 - VO (EU) 2024/1689 (KI-VO), Art. 12, 19 (Logs).
 - Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

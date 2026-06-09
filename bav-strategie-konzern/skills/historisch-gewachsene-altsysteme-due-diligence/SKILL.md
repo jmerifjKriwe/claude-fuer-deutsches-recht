@@ -1,6 +1,6 @@
 ---
 name: historisch-gewachsene-altsysteme-due-diligence
-description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung im Bav Strategie Konzern."
+description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung..."
 ---
 
 # Historisch Gewachsene Altsysteme — Due Diligence
@@ -179,4 +179,3 @@ QUANTITATIVE PRÜFUNG:
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe bewerten
 - → `buyout-im-ma-deal-asset-vs-share` — Altsysteme im M&A-Kontext
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — neue VO nach Bereinigung Altsystem
-

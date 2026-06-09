@@ -1,6 +1,6 @@
 ---
 name: nda-pruefungsvorschlaege-saas-msa
-description: "Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein NDA erkannt wird im Vertragsrecht."
+description: "Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein NDA..."
 ---
 
 # NDA-/Geheimhaltungsvereinbarung-Prüfung
@@ -247,4 +247,3 @@ Kommentare:
 - **Wettbewerbsverbote ohne Karenzentschädigung:** Bei Arbeitnehmern unwirksam (§§ 74 ff. HGB); bei Geschäftsführern/Freelancern gesondert prüfen.
 - **Jurisdiktionswechsel:** Wenn die NDA ausländisches Recht wählt, überträgt sich die Triage nicht 1:1. ROT-kennzeichnen und Spezialist einschalten.
 - **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
-

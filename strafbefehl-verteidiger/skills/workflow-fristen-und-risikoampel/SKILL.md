@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Hauptverhandlungstermin §§ 411 f. StPO:** Bei Einspruch wird Termin anberaumt. § 411 II StPO Vertretung durch Verteidiger mit nachweisbarer Vollmacht moeglich.
 - **Rücknahme § 411 III StPO:** bis Urteilsverkuendung moeglich; Strafbefehl wird rechtskraeftig.
 - Risikoampel: Rot bei Fristablauf, drohendem Fahrverbot oder Eintrag BZR/FAER; Gelb bei Beweisproblemen; Gruen bei dokumentierter Entscheidung.
-

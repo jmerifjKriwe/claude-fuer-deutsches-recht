@@ -75,4 +75,3 @@ Kaufvertrag ist nichtig, aber die Übereignung ist es nicht.
 - Abstraktionsprinzip: Nichtigkeitsgründe des Verpflichtungsgeschäfts berühren Verfügung nicht?
 - Fehleridentität: Dieselbe Nichtigkeitsursache erfasst beide Geschäfte?
 - Kondiktion nach § 812 BGB als Rechtsfolge bei wirksamer Verfügung und nichtigem Kausalgeschäft?
-

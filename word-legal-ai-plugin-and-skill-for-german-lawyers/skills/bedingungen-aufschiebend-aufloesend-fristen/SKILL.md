@@ -1,6 +1,6 @@
 ---
 name: bedingungen-aufschiebend-aufloesend-fristen
-description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Be..."
 ---
 
 # Bedingungen aufschiebend, aufloesend, Fristen
@@ -180,4 +180,3 @@ investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
 - § 158 BGB, § 159 BGB, § 161 BGB, § 162 BGB, § 163 BGB, §§ 187 bis 193 BGB. gesetze-im-internet.de.
 - § 119 InsO für Beendigung bei Insolvenz. gesetze-im-internet.de/inso/.
 - M&A-Closing-Konvention folgt internationaler Praxis und ist in deutscher M&A-Praxis etabliert. Konkrete Klauselformulierungen vom Nutzer mit aktueller Literatur zu validieren.
-

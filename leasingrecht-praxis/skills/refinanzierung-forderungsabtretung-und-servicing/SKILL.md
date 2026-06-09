@@ -107,4 +107,3 @@ description: "Leasingrefinanzierung: Forderungsabtretung, ABS-Strukturen, True S
 - **True-Sale-Checkliste**: Kriterien für echte Forderungsübertragung
 - **Servicer-Vertrag-Muster**: Pflichten, Vergütung, Kündigung
 - **§ 407-Memo**: Schuldnerschutz bei stiller Abtretung
-

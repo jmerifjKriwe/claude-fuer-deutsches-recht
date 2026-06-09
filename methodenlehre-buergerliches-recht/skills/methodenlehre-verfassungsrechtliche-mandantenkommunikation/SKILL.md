@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-verfassungsrechtliche-mandantenkommunikation
-description: "Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill bearbeitet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung."
+description: "Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde o..."
 ---
 
 # Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

@@ -1,6 +1,6 @@
 ---
 name: notarielle-beurkundung-prozessablauf-papier
-description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift im Schriftform Und Textform Bgb."
+description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. A..."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung
@@ -129,4 +129,3 @@ zunächst einen Notartermin.
 - **GmbH-Gründung digital**: Die vereinfachte GmbH-Gründung per Musterprotokoll ist online ohne physische Präsenz möglich (§ 2 Abs. 3 GmbHG), aber dies ist eine gesetzliche Ausnahme, keine allgemeine Regel.
 - **Formwahrung Vollmacht für Grundstücksgeschäft**: Die Vollmacht zur Beurkundung eines Grundstückskaufs muss ebenfalls notariell beurkundet oder beglaubigt sein.
 - **Video-Beurkundung Schranken**: Nicht alle Notariate bieten Videobeurkundung an; Eheverträge und Testamente bleiben Präsenzgeschäft.
-

@@ -12,10 +12,10 @@ Dieses Anschluss-Routing für **Datenschutzrecht** wählt nach dem ersten Ergebn
 ## Fachlandkarte dieses Plugins
 
 - `anpassen` — Anpassen
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `anwendungsfall-triage` — Anwendungsfall Triage
 - `art-9-besondere-kategorien` — ART 9 Besondere Kategorien
-- `art-besondere-aufnahme-statusinformation` — ART Besondere Aufnahme Statusinformation
+- `dsv-art-9-besondere-kategorien` — ART Besondere Aufnahme Statusinformation
 - `aufnahme-statusinformation` — Aufnahme Statusinformation
 - `auskunft-behoerden-gerichts-registerweg` — Auskunft Behoerden Gerichts Registerweg
 - `avv-art-26-joint-controllership-deutsch` — AVV ART 26 Joint Controllership Deutsch
@@ -69,4 +69,3 @@ Dieses Anschluss-Routing für **Datenschutzrecht** wählt nach dem ersten Ergebn
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-

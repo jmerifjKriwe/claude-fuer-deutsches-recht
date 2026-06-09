@@ -57,4 +57,3 @@ Konkret zu prüfen:
 
 - § 51 BRAO (Mindestversicherungssumme 250.000 EUR)
 - § 51b BRAO (Verjährung)
-

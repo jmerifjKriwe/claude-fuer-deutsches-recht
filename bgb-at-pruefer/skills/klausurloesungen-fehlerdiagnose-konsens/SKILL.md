@@ -1,6 +1,6 @@
 ---
 name: klausurloesungen-fehlerdiagnose-konsens
-description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im BGB AT."
+description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im..."
 ---
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung
@@ -82,4 +82,3 @@ Punkte.
 - Tatbestandsmerkmale unvollständig oder falsch definiert?
 - § 122 BGB nach Anfechtung übersehen?
 - Gutachtenstil verletzt (Ergebnis vor Begründung)?
-

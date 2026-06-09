@@ -33,4 +33,3 @@ description: "Branchen-Fachmodul für Crypto Exchange AGB: prüft typische AGB-R
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

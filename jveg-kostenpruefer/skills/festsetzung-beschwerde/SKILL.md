@@ -65,4 +65,3 @@ Beschwerdeschrift-Entwurf mit strukturierten Angriffsmitteln und Antrag.
 ## Leitplanken
 - Beschwerde nur bei positiver Beschwer; Kostenrisiko ansprechen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

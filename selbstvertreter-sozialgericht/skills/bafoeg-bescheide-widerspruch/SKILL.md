@@ -69,4 +69,3 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 5. Widerspruchsfrist?
 6. Aktualisierungsantrag, Vorausleistung oder Härtefall nötig?
 7. Rückforderung/Aufhebung nach Verwaltungsverfahrensrecht gesondert zu verteidigen?
-

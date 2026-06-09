@@ -1,6 +1,6 @@
 ---
 name: verfassungstreue-7-bbg-reichsbuerger
-description: "Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG insbesondere in Fallgestaltungen Reichsbuerger Extremismus und der Verfassungsschutzbeobachteten Parteien. Klaert die Anforderungen an die Feststellung mangelnder Verfassungstreue im Eignungsverfahren und im Disziplinarverfahren das Verhaeltnis zur freiheitlichen demokratischen Grundordnung und das Pruefraster zwischen Mitgliedschaft Aeusserung und Handlung. Liefert Verteidigungsbausteine und Schriftsatzmuster im Beamtenrecht."
+description: "Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG insbesondere in Fallgestaltungen Reichsbuerger Extremismus und der Verfassungsschutzbeobachteten Parteien. Klaert die Anforderungen an die Feststellung mangelnder Verfassungstreue im Eignungsverfahren und im Disziplinar..."
 ---
 
 # Verfassungstreue Beamte — Reichsbuerger und Extremismus
@@ -68,4 +68,3 @@ Skill für Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder für 
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhörungsstrategie und Disziplinargewichtung.
-

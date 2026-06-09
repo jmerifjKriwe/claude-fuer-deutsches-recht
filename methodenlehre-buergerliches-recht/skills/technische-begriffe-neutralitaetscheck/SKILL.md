@@ -1,6 +1,6 @@
 ---
 name: technische-begriffe-neutralitaetscheck
-description: "Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache."
+description: "Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme..."
 ---
 
 # Technische Begriffe und Neutralitätscheck in der Rechtsanwendung
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

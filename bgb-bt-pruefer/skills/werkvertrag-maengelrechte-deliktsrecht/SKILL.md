@@ -68,4 +68,3 @@ description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbst
 - werkvertrag-grundschema-paragraph-631
 - verjaehrung-bgb-bt-spezial
 - schadensrecht-paragraphen-249-253
-

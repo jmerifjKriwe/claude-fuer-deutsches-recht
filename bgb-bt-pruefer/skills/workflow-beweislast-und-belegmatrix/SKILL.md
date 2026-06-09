@@ -71,4 +71,3 @@ Beweislastverteilung im BGB Besonderer Teil systematisch aufarbeiten: Grundregel
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__630h.html
 - https://www.gesetze-im-internet.de/zpo/__286.html
-

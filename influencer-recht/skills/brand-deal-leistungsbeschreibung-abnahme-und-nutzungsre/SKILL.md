@@ -76,4 +76,3 @@ Ein Brand Deal ist ein Werkvertrag (§ 631 BGB) oder gemischter Vertrag; entsche
 - Nutzungsrechte-Tabelle (erlaubt / nicht erlaubt)
 - Abnahme-Protokoll-Vorlage
 - Gegenentwurf zu typischen Brand-AGB
-

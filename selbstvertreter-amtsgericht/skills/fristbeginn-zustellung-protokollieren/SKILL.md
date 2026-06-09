@@ -109,4 +109,3 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
-

@@ -97,4 +97,3 @@ Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei 
 - [§ 175 SGB V – Wahlrecht, Kündigung](https://www.gesetze-im-internet.de/sgb_5/__175.html)
 - [GKV-Spitzenverband – Wahltarife](https://www.gkv-spitzenverband.de)
 - [BSG-Rechtsprechung Wahltarife](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-

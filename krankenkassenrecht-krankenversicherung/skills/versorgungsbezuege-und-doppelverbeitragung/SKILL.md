@@ -98,4 +98,3 @@ Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstr
 - [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
 - [BVerfG 1 BvL 3/18 – Direktversicherung](https://www.bverfg.de/e/ls20230627_1bvl000318.html)
 - [GKV-Spitzenverband – Beitragsrecht](https://www.gkv-spitzenverband.de)
-

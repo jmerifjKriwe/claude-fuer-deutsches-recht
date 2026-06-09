@@ -56,4 +56,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Bei "autorisiert unter Täuschung" (Kunde hat freiwillig PIN/TAN nach Phishing-Mail freigegeben) sind die Erfolgsaussichten zivilrechtlich gering — Bank trägt regelmäßig nicht. Bei "nicht autorisiert" (Konto übernommen) sind die Aussichten gut. Diese Sortierung im Erstgespräch klären, um Erwartungen realistisch zu setzen.
-

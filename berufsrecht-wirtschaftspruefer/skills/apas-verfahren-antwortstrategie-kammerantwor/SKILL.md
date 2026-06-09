@@ -63,4 +63,3 @@ description: "Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwor
 - Unabhaengigkeit nach § 49 WPO und Art. 5 VO 537/2014 vor Mandatsannahme schriftlich pruefen.
 - Bestaetigungsvermerk § 322 HGB darf keine versteckten Einschraenkungen enthalten; Versagung sorgfaeltig begruenden.
 - IDW PS 200 ff. sind Berufsstandards, ueber die im Disziplinarverfahren nicht hinausgegangen werden darf.
-

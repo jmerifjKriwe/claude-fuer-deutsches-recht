@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Indexierung: prüft, redlined und entwirft 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

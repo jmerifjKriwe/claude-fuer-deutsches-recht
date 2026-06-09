@@ -54,4 +54,3 @@ Erzeuge bevorzugt: Vorstandsvorlage und Haftungsradar. Wenn der Nutzer nur eine 
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

@@ -1,6 +1,6 @@
 ---
 name: eu-auslegung-autonom-mehrsprachig
-description: "Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen."
+description: "Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeign..."
 ---
 
 # EU-Auslegung: Autonom und mehrsprachig
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 288 AEUV bei dejure](https://dejure.org/gesetze/AEUV/288.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

@@ -63,4 +63,3 @@ Sachverhalt: A stipuliert 100 für einen Sklaven; vor Uebergabe stirbt der Sklav
 - § 780 BGB Schuldversprechen (abstrakt).
 - § 781 BGB Schuldanerkenntnis.
 - Erbe der roemischen Stipulationslehre.
-

@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - EuGH C-634/21
 - EuGH C-565/22
 - EuGH C-249/21
-

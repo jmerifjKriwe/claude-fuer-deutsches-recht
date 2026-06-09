@@ -181,4 +181,3 @@ In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen hera
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

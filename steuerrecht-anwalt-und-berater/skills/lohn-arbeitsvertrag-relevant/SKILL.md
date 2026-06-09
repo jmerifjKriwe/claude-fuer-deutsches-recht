@@ -1,6 +1,6 @@
 ---
 name: lohn-arbeitsvertrag-relevant
-description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz Empfehlung."
+description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz E..."
 ---
 
 # Arbeitsvertrag aus lohnrelevanter Sicht pruefen
@@ -135,4 +135,3 @@ Stand: 05/2026.
 - Sachbezugswerte SvEV (Verpflegung, Unterkunft) werden jaehrlich angepasst; aktuelle Werte ueber BMAS/SvEV-Verordnung zum Jahreswechsel abrufen (Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (SvEV-Hinweis neu formuliert ohne Marker) -->
-

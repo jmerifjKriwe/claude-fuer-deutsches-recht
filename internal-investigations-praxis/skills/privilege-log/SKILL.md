@@ -81,4 +81,3 @@ Dieser Skill stellt sicher, dass das Privilege-Log vollständig, korrekt und US-
 - **Attorney-Client-Privilege-Prüfliste** (Voraussetzungen im Einzelfall)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - DONot § 11
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

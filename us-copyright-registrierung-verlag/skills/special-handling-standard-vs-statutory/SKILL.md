@@ -36,4 +36,3 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Business-Lösung ist besser als Klage: takedown, license, settlement, attribution, audit, future-use covenant?
 
 **Mindest-Output:** Litigation-Paket mit claim chart, remedies map, Beweislücken, settlement levers und US-Counsel-Fragen.
-

@@ -64,4 +64,3 @@ Erzeuge Satzungscheck, Einspruch, Protokollanforderung und Vergleichsvorschlag.
 ## Prompts, die dieser Skill stellen soll
 
 - Eingetragener Verein, Satzung, Beschluss, Anhörung, Frist?
-

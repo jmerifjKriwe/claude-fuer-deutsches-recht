@@ -1,6 +1,6 @@
 ---
 name: objektiv-teleologische-auslegung-red-team
-description: "Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung."
+description: "Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem histori..."
 ---
 
 # Objektiv-teleologische Auslegung: Red-Team-Analyse
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya-Urteil zu Grenzen der Teleologie](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

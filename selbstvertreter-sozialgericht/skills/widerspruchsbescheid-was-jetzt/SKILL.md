@@ -115,4 +115,3 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig für Bekanntgabefiktion.
-

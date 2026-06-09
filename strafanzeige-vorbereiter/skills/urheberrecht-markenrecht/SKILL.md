@@ -26,4 +26,3 @@ UrhG §§ 106 ff.; MarkenG §§ 143 ff.; DesignG § 51; PatG § 142; StGB § 77b
 ## Arbeitsstil
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-

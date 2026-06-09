@@ -1,6 +1,6 @@
 ---
 name: expert-calls-transkripte
-description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting."
+description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsre..."
 ---
 
 # Expert Calls und Transkripte
@@ -190,4 +190,3 @@ INSIDER-COMPLIANCE-CHECK:
 - Art. 14, 15 MAR; § 17 UWG; § 201 StGB; Art. 6 DSGVO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ohly/Sosnitza UWG § 17; Assmann/Schneider/Muelbert WpHG Art. 14 MAR
-

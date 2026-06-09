@@ -39,4 +39,3 @@ description: "Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentue
 ## Qualitaetsgate
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
-

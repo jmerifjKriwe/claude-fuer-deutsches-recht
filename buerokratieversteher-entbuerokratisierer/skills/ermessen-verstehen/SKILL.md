@@ -76,4 +76,3 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 - GG Art. 3 Abs. 1.
 - BVerwG, staend. Rspr. zu Ermessensfehlern und Verhaeltnismaessigkeit.
 - Landes-VwVfG (Live-Check Landesministerien).
-

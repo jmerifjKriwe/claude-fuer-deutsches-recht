@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-stille-reserven-klausel
-description: "Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den § 8d-Antrag und die Fortführungsbindung. Liefert Berechnungsraster, Antrags-Checkliste und Risiko-Marker für die SPA-Dokumentation. Adressat ist das Großkanzlei-Team in komplexen Sanierungs- und Übernahmesituationen. Quellen Stand 06/2026."
+description: "Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den § 8d-Antrag und die Fortführung..."
 ---
 
 # Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG
@@ -110,4 +110,3 @@ Der Schutz des Verlustvortrags ist Detailarbeit. Drei Beobachtungen:
 - BFH zur Anwendung § 8c und § 8d KStG – ständige Rspr.; Verifizierung über bundesfinanzhof.de.
 - BMF-Schreiben vom 28.11.2017 zu § 8d KStG – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
-

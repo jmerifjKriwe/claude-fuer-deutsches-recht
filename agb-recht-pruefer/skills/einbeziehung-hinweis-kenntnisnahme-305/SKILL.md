@@ -38,4 +38,3 @@ description: "Norm- und Dogmatik-Skill für Einbeziehung Hinweis Kenntnisnahme 3
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -69,4 +69,3 @@ AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehu
 - https://www.gesetze-im-internet.de/bgb/__305.html
 - https://www.gesetze-im-internet.de/bgb/__307.html
 - https://www.gesetze-im-internet.de/bgb/__309.html
-

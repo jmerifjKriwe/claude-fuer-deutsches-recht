@@ -57,4 +57,3 @@ Konkret zu prüfen:
 
 - §§ 46-46c BRAO
 - § 6 SGB VI (Befreiung Rentenversicherung)
-

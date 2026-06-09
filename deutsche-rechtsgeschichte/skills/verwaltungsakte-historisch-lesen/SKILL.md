@@ -45,4 +45,3 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 - Historische Verwaltungsakte: Bundesarchiv und Landesarchive
 - Kanzleisprache: Woerterbucher und Lexika der historischen Amtssprache
 - Epochenspezifische Rechtsgrundlage: GewO, preussische Behördenordnungen
-

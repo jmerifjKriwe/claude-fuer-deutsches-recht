@@ -47,4 +47,3 @@ Konkret zu prüfen:
 - § 73 BRAO (Aufgaben der Kammer)
 - § 76 BRAO (Vorstand)
 - § 113 ff. BRAO
-

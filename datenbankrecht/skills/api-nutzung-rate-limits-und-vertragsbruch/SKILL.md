@@ -1,6 +1,6 @@
 ---
 name: api-nutzung-rate-limits-und-vertragsbruch
-description: "Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers im Datenbankrecht."
+description: "Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht u..."
 ---
 
 # API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
@@ -96,4 +96,3 @@ description: "Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontex
 - EuGH C-545/07
 - EuGH C-338/02
 - EuGH C-170/12
-

@@ -62,4 +62,3 @@ Dieses Anschluss-Routing für **Berufsrecht Ki Vertragspruefung** wählt nach de
 
 - BGH VI ZR 36/20
 - BGH VIII ZR 78/20
-

@@ -1,6 +1,6 @@
 ---
 name: zeugen-befragungsstrategie-strafbefehl
-description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Output Befragungsstrategie-Memo Fragenkatalog für Belastungs- und Entlastungszeugen. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung im Strafbefehl Verteidiger."
+description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlastungszeugen foerdern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt fruehere Aussage Fragerecht § 240 StPO. Normen § 68 StPO Zeugenpflichten § 52 StPO Zeugnisverweigerungsrecht § 244 StPO Beweisanträge. Out..."
 ---
 
 # Zeugen-Befragungsstrategie in der Hauptverhandlung
@@ -116,4 +116,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Vorhalt nur mit konkreter Fundstelle in der Akte — nie pauschal.
 - Zeugnisverweigerungsrecht-Verletzung sofort in der HV ruegen.
 - Anwaltliche Endkontrolle bei Frageliste vor HV.
-

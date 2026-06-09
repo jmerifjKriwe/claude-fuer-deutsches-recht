@@ -87,4 +87,3 @@ Dieser Skill stellt sicher, dass der Betriebsrat rechtzeitig, vollständig und i
 - **Checkliste** Betriebsratsbeteiligung für jede Untersuchungsphase
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

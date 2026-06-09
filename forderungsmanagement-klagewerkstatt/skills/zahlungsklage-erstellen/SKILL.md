@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-erstellen
-description: "Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollstaendiges Klageschrift-Geruest für AG (bis 10.000 EUR ab 01.01.2026) oder LG."
+description: "Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollstaendiges Klageschrift-Geruest für AG (bis 10.000 EUR ab 01.0..."
 ---
 
 # Zahlungsklage erstellen

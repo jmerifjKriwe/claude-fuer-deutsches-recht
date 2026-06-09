@@ -88,4 +88,3 @@ Dieser Skill identifiziert den Täter, sichert Beweise und leitet zivil- und str
 - **GeschGehG-Schutzmaßnahmen-Audit**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

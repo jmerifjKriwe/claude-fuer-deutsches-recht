@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Plugin Datenbankrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eigenstaendig, prueft Eil- und Fristenhinweise und routet in passende Fachmodule oder stellt genau eine gezielte Rueckfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Plugin Datenbankrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eig..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -38,4 +38,3 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 ## Fachlicher Anker — Datenbankrecht
 
 Tragende Anker: UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
-

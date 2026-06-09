@@ -74,4 +74,3 @@ Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Kor
 ### Leitentscheidungen
 
 - BGH X ZR 168/00
-

@@ -1,6 +1,6 @@
 ---
 name: statthaftigkeit-47-vwgo
-description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nicht statthaft (Ausnahme Konzentrationsflaeche § 35 Abs. 3 S. 3 BauGB) Inkrafttreten Norm. Output: Statthaftigkeits-Entscheidung. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und jahresfrist-47-abs-2-vwgo (Frist)."
+description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nich..."
 ---
 
 # Statthaftigkeit § 47 VwGO
@@ -131,4 +131,3 @@ description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung
 - **BVerwG 11.04.2024, 4 BN 50.23**: Klimaschutz als Abwaegungs- und ggf. Antragsbefugnis-relevanter Belang. Quelle: bverwg.de.
 
 Konkrete Aktenzeichen vor Ausgabe per bverwg.de verifizieren.
-

@@ -68,4 +68,3 @@ Die Kleinunternehmerregelung ist für viele Creator der Einstieg – birgt aber 
 - Rechenvergleich: KU vs. Regelbesteuerung (Tabelle)
 - Rechnungsmuster mit KU-Pflichthinweis
 - Wechsel-Checkliste mit Fristen
-

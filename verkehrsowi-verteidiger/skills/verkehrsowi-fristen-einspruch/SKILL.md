@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-fristen-einspruch
-description: "Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde im Verkehrsowi Verteidiger."
+description: "Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellun..."
 ---
 
 # Einspruchsfrist und Einspruch — § 67 OWiG
@@ -98,4 +98,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - 3-Tage-Vorlauffrist-Erinnerung setzen.
 - Beschraenkter Einspruch nur nach Mandantenruecksprache.
 - Anwaltliche Endkontrolle vor dem Versand.
-

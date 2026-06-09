@@ -1,6 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation im Jurastudium."
+description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A..."
 ---
 
 # Lernstruktur-Builder
@@ -156,4 +156,3 @@ D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studierenden bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

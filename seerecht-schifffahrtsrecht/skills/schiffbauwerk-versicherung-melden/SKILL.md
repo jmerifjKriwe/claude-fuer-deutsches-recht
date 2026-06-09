@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-versicherung-melden
-description: "Schiffbauwerk: Schadensereignis an Schiff im Bau (Schiffbauwerk) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffahrtsrecht."
+description: "Schiffbauwerk: Schadensereignis an Schiff im Bau (Schiffbauwerk) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffah..."
 ---
 
 # Schiffbauwerk – Schadensfall bei Versicherung melden
@@ -91,4 +91,3 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 - DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
 - IGP&I: https://www.igpandi.org
 - openjur P&I-Streit: https://www.openjur.de
-

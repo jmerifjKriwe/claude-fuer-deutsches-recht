@@ -1,6 +1,6 @@
 ---
 name: kumulierung-beihilfen-agvo
-description: "Kumulierung Forschungszulage mit anderen Förderungen und Beihilfen sauber prüfen: AGVO Art. 25, EU/EWR-Auftragsforschung, ZIM, BMBF-Programme, Landesprogramme, De-minimis-Nähe, Horizon, Doppelförderung, Nachweis- und Abzugslogik. Mit Kumulierungstabelle je Projekt und Höchstintensitäten je Kategorie."
+description: "Kumulierung Forschungszulage mit anderen Förderungen und Beihilfen sauber prüfen: AGVO Art. 25, EU/EWR-Auftragsforschung, ZIM, BMBF-Programme, Landesprogramme, De-minimis-Nähe, Horizon, Doppelförderung, Nachweis- und Abzugslogik. Mit Kumulierungstabelle je Projekt und Höchstintensitäten je Katego..."
 ---
 
 # Kumulierung und Beihilfen (AGVO)
@@ -126,4 +126,3 @@ Vor jedem Finanzamt-Antrag:
 - De-minimis Verordnung (EU) 2023/2831 (Antragsteller live zu prüfen).
 - BSFZ Wachstumschancengesetz: https://www.bescheinigung-forschungszulage.de/wachstumschancengesetz
 - BMF-Hinweise zur Forschungszulage.
-

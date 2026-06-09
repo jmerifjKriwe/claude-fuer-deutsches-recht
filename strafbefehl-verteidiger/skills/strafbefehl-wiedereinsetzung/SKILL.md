@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-wiedereinsetzung
-description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch im Strafbefehl Verteidiger."
+description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch im Strafbefehl Verte..."
 ---
 
 # Wiedereinsetzung nach versaeumter Einspruchsfrist — § 44 StPO
@@ -96,4 +96,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Eidesstattliche Versicherung des Mandanten zwingend (§ 45 Abs. 2 StPO: Glaubhaftmachung).
 - 1-Wochen-Frist des § 45 StPO ab Kenntnisnahme einhalten.
 - Verschulden des Verteidigers wird dem Mandanten zugerechnet — intern aufklaeren, aber Mandanten nicht schlechterstelllen.
-

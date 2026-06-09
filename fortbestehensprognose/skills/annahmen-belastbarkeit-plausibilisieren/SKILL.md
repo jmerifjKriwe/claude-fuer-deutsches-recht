@@ -1,6 +1,6 @@
 ---
 name: annahmen-belastbarkeit-plausibilisieren
-description: "Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband für jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet im Fortbestehensprognose."
+description: "Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband für je..."
 ---
 
 # Annahmen plausibilisieren
@@ -172,4 +172,3 @@ Bevor losgelegt wird, klaere:
 - BGH IX ZR 56/22
 - BGH II ZR 206/22
 - BGH IV ZR 66/25
-

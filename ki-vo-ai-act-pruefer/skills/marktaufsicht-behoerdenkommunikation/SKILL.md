@@ -37,4 +37,3 @@ Wenn eine Behörde Unterlagen verlangt, muss das Unternehmen schnell, geordnet u
 4. Unklare Fragen präzisieren lassen.
 5. Keine Spekulationen liefern.
 6. Nachreichungen sauber versionieren.
-

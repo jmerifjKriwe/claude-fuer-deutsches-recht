@@ -106,4 +106,3 @@ Wenn Flottenvertrag Full-Service umfasst (Wartung, Reifen, Schäden):
 - **Minderwert-Widerspruch**: Muster für LN gegen Flottengutachten
 - **Regressmatrix**: Fahrer – Verschulden – Regressquote – Betrag
 - **Flottenübergabe-Protokoll**: Checkliste für 10+ Fahrzeuge gleichzeitig
-

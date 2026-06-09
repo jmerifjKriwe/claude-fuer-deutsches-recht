@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer
-description: "Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz im Handelsvertreterrecht."
+description: "Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz im Handelsve..."
 ---
 
 # Umsatzsteuer im Handelsvertreterverhältnis nach UStG
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 19 UStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
 - [§ 87d HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87d.html)
 - [Dejure § 14 UStG](https://dejure.org/gesetze/UStG/14.html)
-

@@ -1,6 +1,6 @@
 ---
 name: ip-strategy-before-china-entry
-description: "IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan im Festlandchina Wirtschaftsverkehr."
+description: "IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungs..."
 ---
 
 # IP-Strategie vor China-Eintritt: Marken/Patente/Geheimnisschutz
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

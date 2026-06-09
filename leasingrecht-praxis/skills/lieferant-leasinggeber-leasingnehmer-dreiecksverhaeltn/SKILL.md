@@ -102,4 +102,3 @@ description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasing
 - **Dreiecks-Diagramm**: Vertragsfluss, Abtretung, Gefahrübergang
 - **Insolvenz-Matrix**: Wer fällt aus – welche Ansprüche, welche Rechte
 - **Klagebefugnis-Checkliste**: LN gegen Lieferant aus abgetretenem Recht
-

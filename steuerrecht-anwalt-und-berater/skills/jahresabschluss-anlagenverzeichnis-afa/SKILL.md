@@ -119,4 +119,3 @@ Stand: 05/2026.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent stabil seit JStG 2020 (für Anschaffungen ab 01.01.2024); Gewinngrenze 200.000 EUR.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 5 bestaetigt (degressive AfA 2024/2026, § 7g 40%, § 7b bis 2029 recherchiert), 1 ersetzt (BMF 2007 obsolet, durch aktuelle Gesetzeslage ersetzt) -->
-

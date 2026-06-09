@@ -15,4 +15,3 @@ LausitzStorage Cap Tables: Version v1 (31.12.2025) zeigt NordCap mit 48 %, v2 (3
 - Diskrepanz-Tabelle mit Wert, Quelle A, Quelle B, Klasse
 - Markierung in Reiter 2 (Anmerkung) und Reiter 3 (was zu klaeren ist)
 - Querliste an `copy-paste-fehler-erkennung` bei Verdacht auf uebernommene Klauseln
-

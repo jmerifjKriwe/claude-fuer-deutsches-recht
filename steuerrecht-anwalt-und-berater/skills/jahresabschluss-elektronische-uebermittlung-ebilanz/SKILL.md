@@ -109,4 +109,3 @@ Stand: 05/2026.
 - BMF-Schreiben vom 28.09.2011 (IV C 6 - S 2133-b/11/10009) sowie Folgeschreiben.
 - AEAO zu § 5b EStG.
 - Verifikations-Hinweis: aktuelle Taxonomie-Version 2026 und Folgejahre ueber www.esteuer.de bzw. BMF-Newsletter pruefen.
-

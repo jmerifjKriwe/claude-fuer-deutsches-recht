@@ -41,4 +41,3 @@ VVG §§ 1, 28, 81; VGB/VHB Elementar-AVB; Bau-/Entwässerungstechnik als Sachbe
 
 - wohngebaeude-leitungswasser-sturm-hagel-brand
 - sachverstaendigenverfahren-versicherung
-

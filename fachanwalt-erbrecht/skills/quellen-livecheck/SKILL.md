@@ -11,17 +11,17 @@ Dieser Quellen-Livecheck für **Fachanwalt Erbrecht** trennt amtliche Normfassun
 
 ## Fachlandkarte dieses Plugins
 
-- `berater-interessen-beweislast-darlegungslast` — Berater Interessen Beweislast Darlegungslast
-- `bgb` — BGB
+- `berater-mehrparteien-konflikt-und-interessen` — Berater Interessen Beweislast Darlegungslast
+- `workflow-mandantenkommunikation` — BGB
 - `digitaler-nachlass-facebook-bgh-iii-zr-183-17` — Digitaler Nachlass Facebook BGH III ZR 183 17
 - `ehegattentestament-bindungswirkung` — Ehegattentestament Bindungswirkung
-- `erb-einfuehrung-erbfolge-erstgespraech` — ERB Einfuehrung Erbfolge Erstgespraech
-- `erb-nachlassinventar-pflichtteilsanspruch` — ERB Nachlassinventar Pflichtteilsanspruch
-- `erbengemeinschaft-blockade-erstgespraech` — Erbengemeinschaft Blockade Erstgespraech
-- `erbfall-eu-mandat-triage-pflichtteil-auskunft` — Erbfall EU Mandat Triage Pflichtteil Auskunft
-- `erbfall-intake-erbrecht-erbschein` — Erbfall Intake Erbrecht Erbschein
-- `erbrecht-pflichtteilsergaenzung-schenkung` — Erbrecht Pflichtteilsergaenzung Schenkung
-- `erbschein-antrag-orientierung` — Erbschein Antrag Orientierung
+- `erb-einfuehrung-erbfolge-system` — ERB Einfuehrung Erbfolge Erstgespraech
+- `erb-nachlassinventar-erstellung` — ERB Nachlassinventar Pflichtteilsanspruch
+- `erbengemeinschaft-blockade-auseinandersetzung` — Erbengemeinschaft Blockade Erstgespraech
+- `internationaler-erbfall-eu-erbvo` — Erbfall EU Mandat Triage Pflichtteil Auskunft
+- `erbfall-intake-und-nachlassordnung` — Erbfall Intake Erbrecht Erbschein
+- `pflichtteilsergaenzung-2325` — Erbrecht Pflichtteilsergaenzung Schenkung
+- `erbschein-antrag` — Erbschein Antrag Orientierung
 - `erbschein-einziehung-paragraf-2361-bgb-olg-muenchen-31-wx-275-19` — Erbschein Einziehung Paragraf 2361 BGB OLG Muenchen 31 WX 275 19
 - `erbverzicht-pflichtteilsverzicht` — Erbverzicht Pflichtteilsverzicht
 - `anschluss-routing` — Anschluss Routing
@@ -40,4 +40,3 @@ Dieser Quellen-Livecheck für **Fachanwalt Erbrecht** trennt amtliche Normfassun
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

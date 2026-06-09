@@ -1,6 +1,6 @@
 ---
 name: signing-closing
-description: "Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung."
+description: "Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster a..."
 ---
 
 # Signing, Closing und Conditions Precedent
@@ -184,4 +184,3 @@ AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 
 - assets/templates/cp-tracker-signing-closing.md
 - assets/templates/closing-deliverables-register.md
-

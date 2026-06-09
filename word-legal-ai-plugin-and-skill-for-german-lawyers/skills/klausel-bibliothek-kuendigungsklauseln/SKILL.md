@@ -1,6 +1,6 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salva..."
 ---
 
 # Klauselbibliothek-Katalog
@@ -181,4 +181,3 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 - §§ 247, 257, 288, 305-310, 339 BGB; §§ 2 GeschGehG; CISG.
 - Klauseln basieren auf gaengiger Vertragspraxis in deutschen Kanzleien und sind vom Nutzer fallbezogen zu pruefen.
 - Zitierweise: `references/zitierweise.md`.
-

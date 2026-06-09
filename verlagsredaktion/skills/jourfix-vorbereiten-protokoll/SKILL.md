@@ -115,4 +115,3 @@ Naechster Jourfix: 19.06.2026, 10:00.
 - BGB §§ 280, 286, 323.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

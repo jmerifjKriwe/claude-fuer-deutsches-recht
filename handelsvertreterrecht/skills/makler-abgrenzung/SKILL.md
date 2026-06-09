@@ -1,6 +1,6 @@
 ---
 name: makler-abgrenzung
-description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch im Handelsvertreterrecht."
+description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruc..."
 ---
 
 # Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 34c GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34c.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
-

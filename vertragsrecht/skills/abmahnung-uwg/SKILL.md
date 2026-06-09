@@ -1,6 +1,6 @@
 ---
 name: abmahnung-uwg
-description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat im Vertragsrecht."
+description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschr..."
 ---
 
 # UWG-Abmahnung – Erstellung und Prüfung
@@ -168,4 +168,3 @@ Seitenangabe.
 ### Leitentscheidungen
 
 - EuGH C-249/21
-

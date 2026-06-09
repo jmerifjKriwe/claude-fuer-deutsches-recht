@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhörungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhörung siehe verkehrsowi-anhoerung-bußgeldbescheid im Verkehrsowi Verteidiger."
+description: "Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhörungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitun..."
 ---
 
 # Mandantenkommunikation im OWi-Mandat
@@ -107,4 +107,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Erfolgsaussichten realistisch kommunizieren — keine Garantien.
 - Fristen immer in Mandantenkommunikation vermerken.
 - Anwaltliche Endkontrolle bei Mandantenkorrespondenz.
-

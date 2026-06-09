@@ -1,6 +1,6 @@
 ---
 name: mehrfachvertreter-muster-provisionsabrechnung
-description: "Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB im Handelsvertreterrecht."
+description: "Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenver..."
 ---
 
 # Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten
@@ -85,4 +85,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 92b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92b.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
-

@@ -28,4 +28,3 @@ VVG § 22; BGB § 123; ZPO; DSGVO Gesundheitsdaten; AVB.
 
 - vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung
 - datenschutz-schweigepflicht-gesundheitsdaten
-

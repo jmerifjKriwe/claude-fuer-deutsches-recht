@@ -52,4 +52,3 @@ Bei eigenen Eintraegen ist ein Alert nur vollstaendig bearbeitet, wenn der öffe
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - Alertdaten und API-Daten werden sauber als getrennte Belege benannt.
-

@@ -39,4 +39,3 @@ description: "Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschu
 ## Red Team
 
 Nicht jedes Scoring ist Art. 22 DSGVO. Prüfe, ob der Score für die Drittentscheidung tatsächlich maßgeblich war oder nur ein Hilfsindikator.
-

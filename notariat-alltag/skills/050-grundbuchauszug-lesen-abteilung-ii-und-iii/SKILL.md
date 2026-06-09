@@ -103,4 +103,3 @@ Grundbuchauszüge veralten schnell. Für Beurkundung: Auszug nicht älter als 3 
 - **Auszug-Anforderungsschreiben** (an Grundbuchamt)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

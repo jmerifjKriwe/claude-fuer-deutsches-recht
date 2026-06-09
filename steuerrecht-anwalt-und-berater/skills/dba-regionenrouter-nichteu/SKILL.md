@@ -126,4 +126,3 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 | Apostille / Konsularbeglaubigung | Apostille | nein (Haager Konvention) | nein | je nach Verwendung | Konsularbeglaubigung |
 | Bearbeitungszeit | 6-8 Wochen | 4-6 Wochen | 2-4 Wochen | variabel | 4-8 Wochen |
 | Online-Antrag | Form 8802 elektronisch | HMRC-Portal | kantonal variabel | TIN-Portal | nicht standardisiert |
-

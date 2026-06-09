@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG), wählt Norm (BetrAVG, § 1 BetrAVG Zusage, § 16 BetrAVG Anpassung) und Zuständigkeit (BaFin (PSV)), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG), wählt Norm (BetrAVG, § 1 BetrAVG Zusage, § 16 BetrAVG Anpassung) und Zuständigkeit (BaFin (PSV)),..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Bav Strategie Konzern** vom ersten Sachverhalt zu Rolle
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

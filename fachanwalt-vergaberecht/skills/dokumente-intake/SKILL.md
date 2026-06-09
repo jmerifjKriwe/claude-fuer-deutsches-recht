@@ -25,17 +25,17 @@ Dieser Dokumenten-Intake für **Fachanwalt Vergaberecht** ordnet Anlagen, Regist
 
 ## Fachlandkarte dieses Plugins
 
-- `aufklaerung` — Aufklaerung
+- `schadensersatz-181-gwb` — Aufklaerung
 - `ausschluss-bieter-paragraf-124-gwb` — Ausschluss Bieter Paragraf 124 GWB
-- `bieterstrategie-go-eforms-ted-eignung` — Bieterstrategie GO Eforms TED Eignung
+- `bieterstrategie-go-no-go` — Bieterstrategie GO Eforms TED Eignung
 - `eignungskriterien-paragraf-122-gwb` — Eignungskriterien Paragraf 122 GWB
 - `eu-schwelle-vergabeordnung-richtlinie-2014-24` — EU Schwelle Vergabeordnung Richtlinie 2014 24
-- `facto` — Facto
-- `facto-vergabe` — Facto Vergabe
-- `it-sicherheits-konzessionsvergabe-konzvgv` — IT Sicherheits Konzessionsvergabe Konzvgv
+- `de-facto-vergabe-klage` — Facto
+- `workflow-chronologie-und-belegmatrix` — Facto Vergabe
+- `it-sicherheits-vergabe-bsi-it-sig-2` — IT Sicherheits Konzessionsvergabe Konzvgv
 - `kaltstart-triage` — Kaltstart Triage
-- `konzvgv-rahmenvereinbarung-international` — Konzvgv Rahmenvereinbarung International
-- `mandantenpadlet-vergabe-triage-vergaberecht` — Mandantenpadlet Vergabe Triage Vergaberecht
+- `konzvgv-risikoampel-und-gegenargumente` — Konzvgv Rahmenvereinbarung International
+- `mandantenpadlet-vergabe-canvas` — Mandantenpadlet Vergabe Triage Vergaberecht
 - `nachpruefungsverfahren-paragraf-160-gwb` — Nachpruefungsverfahren Paragraf 160 GWB
 - `nebenabrede-paragraf-58-vgv` — Nebenabrede Paragraf 58 VGV
 - `einstieg-routing` — Einstieg Routing
@@ -54,4 +54,3 @@ Dieser Dokumenten-Intake für **Fachanwalt Vergaberecht** ordnet Anlagen, Regist
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

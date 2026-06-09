@@ -1,6 +1,6 @@
 ---
 name: zollwert-unionszollkodex
-description: "Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoehten Zollwert fest. Behandelt Transaktionswertmethode Folgemethoden Anti-Dumping- und Ausgleichszoelle und das verbindliche Auskunftsverfahren VZTA. Output Pruefraster und Einspruchsmuster gegen Nacherhebungsbescheid. Abgrenzung zu fa-stu-energiesteuerentlastung."
+description: "Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoehten Zollwert fest. Behandelt Transaktionswertmethode Folgem..."
 ---
 
 # Zollwert und Tarifierung — Unionszollkodex (UZK)
@@ -42,4 +42,3 @@ Art. 33 UZK · Art. 56 UZK · Art. 70 UZK · Art. 71 UZK · § 21 UStG · § 50 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

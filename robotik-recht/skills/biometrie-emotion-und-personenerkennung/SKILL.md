@@ -86,4 +86,3 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 - BDSG §§ 22, 26.
 - EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

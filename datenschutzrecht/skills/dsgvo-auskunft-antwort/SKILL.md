@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft-antwort
-description: "DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (dsgvo-auskunft)."
+description: "DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (..."
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO
@@ -233,4 +233,3 @@ Geprüft: BGH VI ZR 7/21 (WRONG_TOPIC: dejure.org zeigt Kfz-Unfall/fiktive Schad
 Ersatz: BGH VI ZR 97/22, ZIP 2023, 2472 (verifiziert auf dejure.org — Vorlage EuGH zu Art. 82 DSGVO immateriellem Schaden)
 Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 -->
-

@@ -72,4 +72,3 @@ AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung v
 - BGH V ZR 33/23
 - BGH V ZR 102/23
 - BGH V ZR 1/24
-

@@ -26,4 +26,3 @@ Wenn ein KI-System Schaden verursacht, Sicherheitsrisiken zeigt, diskriminierend
 - Meldefristen und Adressaten prüfen.
 - Root-Cause-Analyse starten.
 - Korrekturmaßnahme dokumentieren.
-

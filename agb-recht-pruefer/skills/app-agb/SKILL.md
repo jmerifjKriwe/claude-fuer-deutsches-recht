@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für App AGB: prüft typische AGB-Risiken des V
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

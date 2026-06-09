@@ -1,6 +1,6 @@
 ---
 name: kanzlei-rechtsprechungsrecherche-fristenbuch
-description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab im Kanzlei Allgemein."
+description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab im Kanz..."
 ---
 
 # Rechtsprechungsrecherche und Fundstellenablage
@@ -135,4 +135,3 @@ Wenn eine Online-Ablage gewünscht ist:
 - `assets/templates/rechtsprechungsfundstellen-register.md`
 - `assets/templates/rechtsprechungsablage-protokoll.md`
 - optional `assets/templates/rechtsprechungsmonitor.md`
-

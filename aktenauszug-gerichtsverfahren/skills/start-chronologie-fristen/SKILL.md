@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Aktenauszug Gerichtsverfahren-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Aktenauszug Gerichtsverfahren."
+description: "Einstieg, Schnelltriage und Fallrouting im Aktenauszug Gerichtsverfahren-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill e..."
 ---
 
 # Aktenauszug Gerichtsverfahren — Allgemein
@@ -219,4 +219,3 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
 - § 23 Nr. 1 GVG: Wertgrenze AG 10.000 EUR seit 01.01.2026
-

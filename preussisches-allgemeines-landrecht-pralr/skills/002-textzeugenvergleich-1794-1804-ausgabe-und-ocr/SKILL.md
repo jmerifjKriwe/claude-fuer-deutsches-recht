@@ -55,4 +55,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. OCR oder Original-Scan?
 3. Abweichungen zwischen Ausgaben?
 4. Wortlaut verifiziert?
-

@@ -140,4 +140,3 @@ Wenn alle vier Punkte grün: Notfall-Freigabe mit Vorbehalt.
 - `workflow-rechtsquellen-livecheck` – Quellenprüfung
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweisführung
 - `workflow-output-waehlen` – Outputformat
-

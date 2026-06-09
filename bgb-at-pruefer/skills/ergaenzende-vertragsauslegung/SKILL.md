@@ -74,4 +74,3 @@ wollte, sondern was beide bei redlichem Vorgehen gewollt hätten.
 - Wenn nicht: Hypothetischer Parteiwille nach §§ 133 und 157 BGB ermittelbar?
 - Ergebnis sachgerecht und für beide Parteien zumutbar?
 - Abgrenzung zum Dissens: Haben Parteien die Lücke bewusst offengelassen?
-

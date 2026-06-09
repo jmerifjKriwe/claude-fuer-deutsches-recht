@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vorbescheid-verbindliche
-description: "Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adressat ist das Tax- und Restrukturierungsteam der Großkanzlei in der Vorbereitung der Sanierungsmaßnahme. Quellen Stand 06/2026."
+description: "Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adres..."
 ---
 
 # Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
@@ -128,4 +128,3 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 - AO-Anwendungserlass zu § 89 AO – Bundessteuerblatt.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur verbindlichen Auskunft – ständige Rspr.; bundesfinanzhof.de.
-

@@ -119,4 +119,3 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Pruefen Sie Anwalts-RVG-Werte aktuell.
-

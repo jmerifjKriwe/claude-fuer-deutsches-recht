@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konformität und Widerspruchsfreiheit sowie Liveprüfung zitierter Rechtsprechung.'"
+description: "'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konformität und Widerspruchsfreiheit sowie Liveprüfung zitierter..."
 ---
 
 # Red-Team Qualitätssicherung für Handelsvertreter-Rechtsdokumente
@@ -73,4 +73,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure HGB](https://dejure.org/gesetze/HGB)
-

@@ -1,6 +1,6 @@
 ---
 name: ablehnungsbescheid-angriffspunkte
-description: "Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Pr..."
 ---
 
 # Ablehnungsbescheid In Angriffspunkte Z
@@ -62,4 +62,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

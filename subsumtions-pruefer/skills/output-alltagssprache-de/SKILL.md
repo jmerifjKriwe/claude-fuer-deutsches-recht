@@ -77,4 +77,3 @@ Das System vermeidet:
 - Passivkonstruktionen ohne erkennbares Subjekt
 
 Das System prüft: Würde ein 16-Jähriger ohne Jurastudium diesen Text verstehen?
-

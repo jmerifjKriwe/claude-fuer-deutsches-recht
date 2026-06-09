@@ -43,7 +43,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 ## Anschluss-Skills
 - `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
+- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
 
 ## Quellen- und Aktualitätsregel
 - Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
@@ -79,4 +79,3 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 - Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
 - Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
 - Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.
-

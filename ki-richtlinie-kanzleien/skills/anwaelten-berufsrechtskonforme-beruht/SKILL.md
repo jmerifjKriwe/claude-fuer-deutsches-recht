@@ -67,4 +67,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 ### Leitentscheidungen
 
 - BGH VI ZR 273/16
-

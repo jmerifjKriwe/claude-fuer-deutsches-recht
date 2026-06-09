@@ -47,4 +47,3 @@ description: "Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklu
 ## Quellen-Hardening
 
 Auslandsregister und lokale Eintragungserfordernisse live prüfen; keine pauschale weltweite Aussage.
-

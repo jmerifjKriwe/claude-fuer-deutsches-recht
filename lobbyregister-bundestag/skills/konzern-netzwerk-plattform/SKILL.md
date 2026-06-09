@@ -43,4 +43,3 @@ Bei Konzern, Netzwerk oder Zweigniederlassung kann Transparenz praktisch mehr al
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-

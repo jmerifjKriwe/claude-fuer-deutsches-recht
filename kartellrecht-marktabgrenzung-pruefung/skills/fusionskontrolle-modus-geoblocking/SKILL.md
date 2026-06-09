@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-modus-geoblocking
-description: "Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA im Ka..."
 ---
 
 # Fusionskontrolle — Modus
@@ -88,4 +88,3 @@ SIEC-Bedenken: [Dominanz / Koordinierung / keine]
 Effizienzeinrede: [ja / nein]
 Ergebnis: [freigabefähig / mit Auflagen / kritisch]
 ```
-

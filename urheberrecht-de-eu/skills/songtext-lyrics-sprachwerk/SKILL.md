@@ -82,4 +82,3 @@ Konkret zu prüfen:
 - § 2 UrhG (Werkbegriff)
 - § 2 Abs. 2 UrhG (persönliche geistige Schöpfung)
 - EuGH C-310/17 (Levola Hengelo)
-

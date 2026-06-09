@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-nda-vertraulichkeit
-description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pflichten zur Geheimhaltung, Dauer, Rückgabe und Löschung, Vertragsstrafe (mit Blick auf § 309 Nr. 6 BGB), Gerichtsstand und das Verhältnis zum GeschGehG mit der Pflicht zu angemessenen Geheimhaltungsmaßnahmen im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pfli..."
 ---
 
 # Geheimhaltung, NDA und Vertraulichkeit
@@ -73,4 +73,3 @@ Mustertext (Geheimhaltungsklausel in einem Rahmenvertrag, B2B):
 - Art. 28 DSGVO (zur Abgrenzung NDA und AVV).
 - BGH- und OLG-Rechtsprechung zur Angemessenheit der Geheimhaltungsmaßnahmen nach § 2 Nr. 1 b GeschGehG ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
-

@@ -50,4 +50,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
 - Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
 - Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
-

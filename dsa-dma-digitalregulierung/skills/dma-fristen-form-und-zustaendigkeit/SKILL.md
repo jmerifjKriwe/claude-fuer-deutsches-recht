@@ -43,4 +43,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 DMA-Verfahren laufen ausschließlich europäisch — nationale Wettbewerbsbehörden bleiben außen vor (Art. 1 Abs. 6 DMA). Wer als Gatekeeper-Adressat parallel ein nationales Kartellverfahren (z. B. § 19a GWB) führt, sollte das Verhältnis ne bis in idem prüfen. § 19a GWB ergänzt DMA punktuell — keine Verdrängung.
-

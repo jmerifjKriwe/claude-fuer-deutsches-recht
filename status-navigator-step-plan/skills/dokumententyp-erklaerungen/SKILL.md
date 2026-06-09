@@ -15,4 +15,3 @@ Drawstop-Schreiben NordCap vom 22.05.2026: einseitige Erklaerung der Auszahlungs
 - Eintrag in Reiter 2 mit Typ-Tag Erklaerung und Untertyp
 - Pflicht-Querverweis an `zugang-zustellung-pruefung`
 - Bei Vollmachtsfrage: Querverweis an `unterschriftspruefung`
-

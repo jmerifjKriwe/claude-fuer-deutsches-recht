@@ -53,4 +53,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Auftragscharakter klar?
 2. Garantiefunktion?
 3. Aufwendungsersatzanspruch?
-

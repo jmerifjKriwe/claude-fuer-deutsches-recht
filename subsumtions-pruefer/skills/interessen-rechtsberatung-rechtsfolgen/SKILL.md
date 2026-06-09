@@ -76,4 +76,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Wertungsfragen je Partei trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot pro Partei mit Begründung, Annahmen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
-

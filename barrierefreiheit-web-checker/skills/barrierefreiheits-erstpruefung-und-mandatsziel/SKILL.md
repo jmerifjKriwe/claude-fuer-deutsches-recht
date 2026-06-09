@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Vollumfängliches Audit aller Seiten/Funktionen vs. risikobasiertes Stichprobenaudit: bei großen Plattformen wirtschaftlich nur risikobasiert möglich. Aber: Konformitätserklärung muss den geprüften Geltungsbereich klar benennen — sonst trägt sie nicht die Generalaussage.
-

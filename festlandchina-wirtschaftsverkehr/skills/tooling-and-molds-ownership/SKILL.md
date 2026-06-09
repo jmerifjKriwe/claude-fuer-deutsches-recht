@@ -1,6 +1,6 @@
 ---
 name: tooling-and-molds-ownership
-description: "Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie im Festlandchina Wirtschaftsverkehr."
+description: "Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsm..."
 ---
 
 # Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

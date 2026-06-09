@@ -1,6 +1,6 @@
 ---
 name: bmvg-nato-und-stationierungsrecht
-description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung)."
+description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.);..."
 ---
 
 # NATO-Recht und Stationierungsrecht (BMVg)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

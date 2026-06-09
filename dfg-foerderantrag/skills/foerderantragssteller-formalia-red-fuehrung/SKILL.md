@@ -87,4 +87,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Lebenslauf 5 Seiten lang - formale Beanstandung.
 - Drittmittelverzeichnis unvollständig - Vertrauensbruch bei späterer Aufdeckung von Doppelförderung; DFG-Kodex-Verstoß möglich.
 - Letter of Intent ohne konkrete Verpflichtungserklärung des Kooperationspartners ("wir würden gerne kooperieren" reicht nicht).
-

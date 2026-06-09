@@ -76,4 +76,3 @@ klausurrelevant bei Potestativbedingungen.
 - Bedingungseintritt: Tatsächlich eingetreten oder vereitelt?
 - § 162 BGB: Treuwidrige Vereitelung oder Herbeiführung der Bedingung?
 - Schwebezustand: Wirkung auf vorläufige Rechte und Pflichten der Parteien?
-

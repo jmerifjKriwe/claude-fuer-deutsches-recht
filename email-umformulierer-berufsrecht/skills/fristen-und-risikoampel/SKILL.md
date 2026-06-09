@@ -30,4 +30,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Schnelligkeit (E-Mail) vs. Rechtssicherheit (beA bei Schriftform, Postzustellung bei Sonderzustellung).
 - Standard-Verschlüsselung E-Mail oft nicht ausreichend; bei sensiblen Mandaten dedizierter sicherer Kanal (S/MIME, beA, Datenraum).
-

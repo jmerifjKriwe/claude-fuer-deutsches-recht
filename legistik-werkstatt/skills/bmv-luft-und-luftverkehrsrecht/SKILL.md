@@ -1,6 +1,6 @@
 ---
 name: bmv-luft-und-luftverkehrsrecht
-description: "Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung)."
+description: "Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pru..."
 ---
 
 # Luft- und Luftverkehrsrecht (BMV)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

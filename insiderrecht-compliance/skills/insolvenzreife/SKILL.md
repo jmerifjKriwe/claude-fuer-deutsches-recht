@@ -79,4 +79,3 @@ Anlegergruppen (Aktionäre und Anleihegläubiger).
 Weitere Quellen:
 - Art. 2 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - §§ 15a, 17–19 InsO: https://www.gesetze-im-internet.de/inso/__15a.html
-

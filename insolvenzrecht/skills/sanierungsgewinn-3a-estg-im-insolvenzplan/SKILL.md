@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-im-insolvenzplan
-description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext für darstellenden Teil des Plans und für den Erlassantrag im Insolvenzrecht."
+description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragrap..."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG im Insolvenzplan
@@ -207,4 +207,3 @@ Paragraph 222 AO.
 - Siehe Fachmodul `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse) im Plugin `steuerrecht-anwalt-und-berater`.
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

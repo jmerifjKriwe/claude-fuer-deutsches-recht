@@ -33,4 +33,3 @@ description: "Branchen-Fachmodul für Marketplace AGB: prüft typische AGB-Risik
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

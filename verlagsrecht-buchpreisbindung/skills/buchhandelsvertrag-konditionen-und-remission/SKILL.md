@@ -121,4 +121,3 @@ Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung 
 - **Buchhandelsvertrag-Muster**: Mindestklauseln
 - **Auslieferungsvertrag-Review**: Versicherung, Kündigung, Kosten
 - **Preisbindungs-Compliance-Checkliste** für Buchhandel
-

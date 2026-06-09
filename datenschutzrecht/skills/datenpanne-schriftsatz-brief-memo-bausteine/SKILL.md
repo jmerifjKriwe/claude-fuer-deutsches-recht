@@ -1,6 +1,6 @@
 ---
 name: datenpanne-schriftsatz-brief-memo-bausteine
-description: "Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Wel..."
 ---
 
 # Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
@@ -36,4 +36,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risikoschwelle ist niedrig (Art. 33 Abs. 1 a. E.: "es sei denn, dass die Verletzung voraussichtlich nicht zu einem Risiko führt"). EDSA-Leitlinien 9/2022 zur Meldung sind die Methodikbasis.
-

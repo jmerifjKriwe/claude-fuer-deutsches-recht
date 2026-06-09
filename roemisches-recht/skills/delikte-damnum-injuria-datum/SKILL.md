@@ -63,4 +63,3 @@ Sachverhalt: Schiffer schiebt sein Schiff in den Hafen; rammt andere Boote.
 ### Bedeutung für modernes Recht
 - Lex Aquilia ist die Wurzel des deutschen Deliktsrechts.
 - BGB § 823 Abs. 1 ist im Kern lex-Aquilia-Modell.
-

@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Verbot der Präjudizienbindungs-Übertragung:** Deutsche Anwälte dürfen "binding precedent" nicht in deutsche Argumentation überspielen — in Deutschland gibt es keine stare-decisis-Wirkung (Ausnahme § 31 BVerfGG).
 - **Keine erfundenen Aktenzeichen:** US-Federal-Cite-Format (z. B. "_F.3d_") nur bei verifizierter Reporter-Fundstelle; Neutral-Citation (z. B. [2023] UKSC 12) auf bailii prüfen.
 - **Rechtsdienstleistungsverbot:** Beratung zu US/UK-Recht durch deutsche Anwälte ohne Zulassung dort grds. unzulässig — local counsel hinzuziehen (§ 4 EuRAG, RDG-Restrisiko).
-

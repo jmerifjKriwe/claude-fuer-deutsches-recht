@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-risiko-memo-schreiben
-description: "Offshore-Schiff: Gesamtrisikobewertung für Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Offshore-Schiff: Gesamtrisikobewertung für Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-..."
 ---
 
 # Offshore-Schiff – Risiko-Memo schreiben
@@ -93,4 +93,3 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
-

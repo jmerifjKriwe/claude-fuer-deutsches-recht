@@ -109,4 +109,3 @@ Fragen zum Einstieg:
 - InsO §§ 80, 91 zur Verfügungsbeschränkung im Insolvenzverfahren.
 - DSGVO Art. 14, insbesondere Abs. 5 lit. b zur Ausnahme von der Informationspflicht.
 - BGH zur Wirksamkeit der stillen Zession und zur Auslegung der Anzeige (st. Rspr.).
-

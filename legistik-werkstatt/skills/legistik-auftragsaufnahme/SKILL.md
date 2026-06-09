@@ -1,6 +1,6 @@
 ---
 name: legistik-auftragsaufnahme
-description: "Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Eckpunktepapier, Referentenentwurf, Formulierungshilfe, Gesetzentwurf aus der Mitte, Aenderungsantrag, Antrag, Kabinettsentwurf, Norm-Ebene, Verfassungs- und EU-Bezug, Zeitplan und Beteiligte. Output Auftragsblatt mit Startbahn und zehn Kernfragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren."
+description: "Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, fo..."
 ---
 
 # Legistik-Auftragsaufnahme
@@ -56,4 +56,3 @@ Bauwesen; Verkehr und Co.
 
 Wenn das Vorhaben digital-tauglich werden soll (Rulemap; BMJ-Initiative; SPRIND), zusaetzlich
 Anschluss an **`legw-rmap-grundlagen`** (didaktischer Einstieg in 10 RuleMapping-Skills, abschliessend `legw-rmap-anschluss-an-legw` als Rueckkopplung).
-

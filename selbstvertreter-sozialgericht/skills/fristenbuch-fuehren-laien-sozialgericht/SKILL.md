@@ -119,4 +119,3 @@ Wer mehrere Sachen hat:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Tipps.
-

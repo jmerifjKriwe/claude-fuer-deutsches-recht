@@ -1,6 +1,6 @@
 ---
 name: inso-starug-planwerkstatt-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Insolvenzplan Starug Planwerkstatt."
+description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Sk..."
 ---
 
 # Insolvenzplan und StaRUG-Planwerkstatt — Allgemein
@@ -267,4 +267,3 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - InsO §§ 217 ff. in der geltenden Fassung
 - StaRUG in der geltenden Fassung
 - EStG §§ 3a und 3c; KStG § 8c
-

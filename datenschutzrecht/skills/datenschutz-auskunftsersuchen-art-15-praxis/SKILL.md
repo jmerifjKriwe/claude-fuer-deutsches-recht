@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunftsersuchen-art-15-praxis
-description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte für Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit)."
+description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaenger..."
 ---
 
 # Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis
@@ -104,4 +104,3 @@ Sieben-Fragen-Diagnose:
 - BDSG § 29, § 34.
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

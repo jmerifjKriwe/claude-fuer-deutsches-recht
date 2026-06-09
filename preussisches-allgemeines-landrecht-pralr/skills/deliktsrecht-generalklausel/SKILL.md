@@ -45,4 +45,3 @@ ALR-Loesung: ALR I 6 § — eigener Tatbestand für Brieftauben! Pflicht zur Rue
 - § 826 BGB sittenwidrige Schaedigung.
 - § 833 BGB Tierhalter.
 - Verschuldensstufen in ALR-Tradition: bis heute "grobe Fahrlaessigkeit" als Aufschwellgrad für Haftungsschaerfung (z. B. § 309 Nr. 7 BGB, § 277 BGB).
-

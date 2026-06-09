@@ -70,4 +70,3 @@ Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH 
 - Eigenmarken-Kennzeichnungsampel
 - Post-Formulierungsvorschlag (mit/ohne Label)
 - Produkthaftungs-Kurzcheck
-

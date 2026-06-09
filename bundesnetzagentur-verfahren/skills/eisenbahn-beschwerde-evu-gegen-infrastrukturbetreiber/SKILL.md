@@ -65,4 +65,3 @@ Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) 
 
 ## Qualitätsgate
 Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminierungs-Vergleich belegt? Eilfristen kalendarisiert? Parallelweg GWB-Klage abgewogen? Akteneinsicht/Schwärzungs-Strategie geklärt?
-

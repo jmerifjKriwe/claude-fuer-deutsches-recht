@@ -120,4 +120,3 @@ Prüfe Konsistenz:
 - Durchführungsbeschluss (EU) 2021/914 der Kommission zu Standardvertragsklauseln.
 - EDSA Recommendations 01/2020 zu ergänzenden Maßnahmen.
 - Bei US-Transfers immer mit `us-transfer-tia-dokumentation` kombinieren.
-

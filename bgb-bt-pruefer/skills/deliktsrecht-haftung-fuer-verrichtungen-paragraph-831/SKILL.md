@@ -71,4 +71,3 @@ description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsg
 - https://www.gesetze-im-internet.de/bgb/__831.html
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__276.html
-

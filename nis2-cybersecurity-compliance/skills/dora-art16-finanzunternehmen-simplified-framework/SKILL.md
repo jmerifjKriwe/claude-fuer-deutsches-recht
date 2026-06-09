@@ -40,4 +40,3 @@ description: "DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft
 - Drittparteien werden nur in Procurement erfasst, aber nicht im IKT-Risikomanagement.
 - Exit-Pläne sind Papier, aber nicht testbar.
 - Geschäftsleitung sieht Reports, entscheidet aber keine Prioritäten.
-

@@ -1,6 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 ff. ZPO im Prozessrecht."
+description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 f..."
 ---
 
 # Zeugenvernehmung-Vorbereitung
@@ -87,4 +87,3 @@ Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswu
 bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.
 Keine Ersatzquelle ergaenzt.
 -->
-

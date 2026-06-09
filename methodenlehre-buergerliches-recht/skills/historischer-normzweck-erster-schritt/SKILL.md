@@ -1,6 +1,6 @@
 ---
 name: historischer-normzweck-erster-schritt
-description: "Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, fachliche Einordnung und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben."
+description: "Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, fachliche Einordnung und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen..."
 ---
 
 # Historischer Normzweck: Methodik als erster Auslegungsschritt
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 2 EGBGB – Verhältnis neues altes Recht](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

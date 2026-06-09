@@ -1,6 +1,6 @@
 ---
 name: restitutio-integrum-seehandel-lex-fenus
-description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix im Römisches Recht."
+description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Q..."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
@@ -51,4 +51,3 @@ description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemi
 2. Vermoegensnachteil?
 3. Frist gewahrt?
 4. Restitution moeglich?
-

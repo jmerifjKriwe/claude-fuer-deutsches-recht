@@ -65,4 +65,3 @@ Erzeuge Rollencheck, Telefonnotiz, Antwortentwurf, Fragen an Verteidiger/Zeugenb
 
 - Von wem kommt die Ladung?
 - Steht Zeuge, Beschuldigter, Betroffener oder Auskunftsperson?
-

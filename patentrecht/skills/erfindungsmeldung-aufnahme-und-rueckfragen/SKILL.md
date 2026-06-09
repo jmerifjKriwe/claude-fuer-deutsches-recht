@@ -34,4 +34,3 @@ Rückfragen müssen technisch präzise sein. Nicht fragen: "Bitte beschreiben Si
 
 ## Sofortmaßnahme bei drohender Offenbarung
 - Bei kurzfristiger Messe/Pitch: prioritätsbegründende DPMA- oder EPA-Erstanmeldung mit knapp möglichem Anspruchssatz; Nachreichung Beschreibung und Zeichnungen binnen Prioritätsjahr (Art. 87 EPÜ).
-

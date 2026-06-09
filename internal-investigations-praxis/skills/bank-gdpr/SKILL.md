@@ -84,4 +84,3 @@ Dieser Skill strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Intern
 - **Organhaftungs-Risikoanalyse** (§ 36 KWG, D&O)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

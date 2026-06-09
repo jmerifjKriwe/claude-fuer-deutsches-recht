@@ -1,6 +1,6 @@
 ---
 name: emotionale-trigger-ironie-sarkasmus-klare
-description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz) im Berufsrechts-E-Mail."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umfor..."
 ---
 
 # Emotionaler Trigger-Katalog
@@ -77,4 +77,3 @@ Typ A — Kompetenzabsprachen: Formulierungen, die dem Adressaten fachliche Fäh
 | "Ihre sogenannte Expertise" | A | "Ihre fachliche Einschätzung" |
 | "zum wiederholten Mal" (anklagend) | D | "wie bereits mit Schreiben vom TT.MM.JJJJ mitgeteilt" |
 | "ich verlange" | C | "ich bitte um" / "ich darf Sie auffordern" |
-

@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **§ 850c ZPO Tabelle:** Aktueller Grundfreibetrag (Stand 01.07.2025) wird halbjährlich von BMJV bekanntgegeben - immer im Bundesanzeiger / juris.bmj.de prüfen.
 - **Erinnerung gegen PfÜB (§ 766 ZPO):** Vollstreckungserinnerung beim Vollstreckungsgericht; keine Frist, aber zügige Erhebung. Klauselgegenklage (§ 768 ZPO) und Vollstreckungsgegenklage (§ 767 ZPO) bei materiellen Einwendungen.
 - **Praktiker-Tipp:** Vor PfÜB-Antrag stets Vermögensauskunft (§ 802c ZPO) und § 802l ZPO Kontensuche prüfen, um geeignete Drittschuldner zu identifizieren. Bei mehreren Pfändungen zählt der Rang der Zustellung beim Drittschuldner.
-

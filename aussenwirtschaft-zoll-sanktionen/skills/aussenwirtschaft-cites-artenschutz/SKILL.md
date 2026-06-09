@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cites-artenschutz
-description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Outp..."
 ---
 
 # CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [Bundesamt für Naturschutz CITES](https://www.bfn.de/themen/cites.html)
 - [Zoll.de Artenschutz](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Artenschutz/artenschutz_node.html)
 - [BNatSchG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bnatschg_2009/index.html)
-

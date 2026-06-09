@@ -178,4 +178,3 @@ Mandatsbezug: Anwalt fragt: Welches Formular verwende ich für den DPMA-Widerspr
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
-

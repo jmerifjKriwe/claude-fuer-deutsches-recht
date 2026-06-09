@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-musterbasiert
-description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsentwurf auf Musterbasis. Abgrenzung: nicht individuelle Vertragsprüfung im Immobilienrechtspraxis."
+description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsentwurf auf Musterbasis. Abgrenzung: nicht individuelle Vertra..."
 ---
 
 # Vertragserstellung musterbasiert
@@ -94,4 +94,3 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 - Mietpreisbremse: §§ 556d ff. BGB
 - Modernisierung: §§ 555a ff. BGB
 - WEG-Verwaltervertrag: §§ 26 ff. WEG
-

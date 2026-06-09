@@ -1,6 +1,6 @@
 ---
 name: kollektive-datensammlung-und-miturheberschaftsfallen
-description: "Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner im Datenbankrecht."
+description: "Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller..."
 ---
 
 # Kollektive Datensammlungen und Miturheberschaftsfallen
@@ -67,4 +67,3 @@ Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturhe
 - [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

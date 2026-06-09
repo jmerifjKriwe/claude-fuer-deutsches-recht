@@ -69,4 +69,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welches Jahr (vor/nach 1900)?
 3. Welche Spuren im Grundbuch oder in alten Akten?
 4. Vergleich zu BGB / ALR.
-

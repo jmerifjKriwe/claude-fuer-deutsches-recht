@@ -112,7 +112,7 @@ Erzeuge immer zuerst eine Statusampel, eine Unterlagenliste, eine Fristen- und R
 | `zweifel-ausraeumen-gesamtvorbringen` | Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen. |
 | `wahrheitspflicht-und-authentizitaet` | Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache. |
 | `beweislast-und-ueberzeugungsbildung` | Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung. |
-| `rechtsprechung-livecheck` | Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link. |
+| `workflow-redteam-qualitygate` | Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link. |
 | `bverwg-2012-sanitaetsdienst` | Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. |
 | `bverwg-2018-innere-umkehr` | Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. |
 | `bverwg-2021-parteivernehmung` | Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor. |

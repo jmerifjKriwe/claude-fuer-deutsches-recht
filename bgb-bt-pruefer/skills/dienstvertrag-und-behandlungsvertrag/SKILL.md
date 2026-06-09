@@ -61,4 +61,3 @@ description: "Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 
 - werk-dienst-abgrenzung-erfolg
 - deliktsrecht-paragraph-823-1
 - workflow-beweislast-und-belegmatrix
-

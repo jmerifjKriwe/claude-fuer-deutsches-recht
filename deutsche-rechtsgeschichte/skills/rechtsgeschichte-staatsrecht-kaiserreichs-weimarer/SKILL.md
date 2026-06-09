@@ -46,4 +46,3 @@ Das Deutsche Reich (1871-1918) war ein Bundesstaat mit 25 Mitgliedsstaaten unter
 - Laband Staatsrecht: historische Edition (4 Bde., 1876-82), Band und Seite
 - Jellinek Allgemeine Staatslehre: 3. Aufl. 1914, Band und Seite
 - Sekundaerliteratur: Michael Stolleis Geschichte des öffentlichen Rechts Bd. II (1992)
-

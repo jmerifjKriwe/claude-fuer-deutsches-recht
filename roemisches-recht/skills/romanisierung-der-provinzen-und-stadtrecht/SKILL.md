@@ -67,4 +67,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Provinz?
 2. Welcher Buergerstatus?
 3. Welche Quellen (Stadtrechte, Inschriften)?
-

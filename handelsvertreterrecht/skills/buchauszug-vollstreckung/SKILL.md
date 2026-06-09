@@ -1,6 +1,6 @@
 ---
 name: buchauszug-vollstreckung
-description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer im Handelsvertreterrecht."
+description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer im Han..."
 ---
 
 # Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 935 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__935.html)
 - [Dejure § 888 ZPO](https://dejure.org/gesetze/ZPO/888.html)
 - [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)
-

@@ -1,6 +1,6 @@
 ---
 name: ressort-bmg
-description: "Heranfuehrung Ressort BMG (Bundesministerium für Gesundheit). Schwerpunkt: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus. Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG. Fuenf Spezialfelder: arzneimittel-und-medizinprodukterecht; krankenversicherungs-und-leistungsrecht-sgb-v; infektionsschutz-und-pandemierecht; berufsrecht-heilberufe-und-approbation; krankenhaus-und-versorgungsstrukturrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmg und legw-bmg-Themenslug."
+description: "Heranfuehrung Ressort BMG (Bundesministerium für Gesundheit). Schwerpunkt: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus. Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG. Fuenf Spezialfelder: arzneimittel-und-medizinprodukterecht; kra..."
 ---
 
 # Ressort-Heranfuehrung BMG
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

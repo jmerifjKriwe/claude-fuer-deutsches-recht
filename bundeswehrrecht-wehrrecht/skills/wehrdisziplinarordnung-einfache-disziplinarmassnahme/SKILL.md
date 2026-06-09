@@ -1,6 +1,6 @@
 ---
 name: wehrdisziplinarordnung-einfache-disziplinarmassnahme
-description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im..."
 ---
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
@@ -96,4 +96,3 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Bemessung von Disziplinarmaßnahmen (Az. verifizieren in BVerwG-Datenbank).
 - Truppendienstgericht Süd/Nord – Verfahren und Spruchpraxis (publik bei den Truppendienstgerichten).
 - Dienstvorschriften (ZDv) nur nach Vorlage durch Mandanten.
-

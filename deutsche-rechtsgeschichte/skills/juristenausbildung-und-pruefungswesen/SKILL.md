@@ -62,4 +62,3 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 - JAG der Länder: jeweilige Landesrechtsportale (z. B. recht.nrw.de)
 - NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB
 - Sekundaerliteratur: Bernd Rueers Rechtstheorie und Uwe Wesels Geschichte des Rechts
-

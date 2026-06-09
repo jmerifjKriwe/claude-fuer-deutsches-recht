@@ -61,4 +61,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  ```
 - **Belege für Tagessatz:** Lohnabrechnungen 3 Monate, Steuerbescheid, Kontoauszuege, Unterhaltstitel, Mietvertrag, Buergergeld-Bescheid.
 - **Praxis-Tipp:** Antrag auf Ratenzahlung § 42 StGB parallel stellen (bis 5 Jahre Ratenzahlung moeglich); ggf. Tilgung durch gemeinnuetzige Arbeit § 43 StGB / Tilgungsplan.
-

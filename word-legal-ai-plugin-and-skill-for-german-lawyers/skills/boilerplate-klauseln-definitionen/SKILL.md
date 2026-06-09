@@ -1,6 +1,6 @@
 ---
 name: boilerplate-klauseln-definitionen
-description: "Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuell..."
 ---
 
 # Boilerplate-Klauseln: Katalog mit Mustertexten
@@ -167,4 +167,3 @@ Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 - § 139 BGB, § 126 BGB, § 127 BGB, § 269 BGB, § 399 BGB, § 354a HGB. gesetze-im-internet.de.
 - § 38 ZPO; Rom-I-VO (Verordnung (EG) Nr. 593/2008). eur-lex.europa.eu.
 - BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
-

@@ -1,6 +1,6 @@
 ---
 name: containerschiff-register-hypothek
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Las..."
 ---
 
 # Containerschiff – Registerprüfung
@@ -95,4 +95,3 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
-

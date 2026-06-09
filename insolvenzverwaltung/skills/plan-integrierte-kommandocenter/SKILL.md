@@ -1,6 +1,6 @@
 ---
 name: plan-integrierte-kommandocenter
-description: "Integrierte Planrechnung aus GuV, Liquidität und Bilanz für Insolvenzplan, StaRUG oder Sanierungskonzept erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Prüfraster: Ist-Zahlen, Planannahmen, Maßnahmenwirkung, Base Case, Downside, Stressszenarien, Working Capital, Steuer-/Zinseffekte, Brückenrechnung und Annahmenregister. Output: Planungsmodell, Szenariovergleich, Maßnahmen-Brücke, Lückenliste. Abgrenzung: nicht für Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Konzepttext im Insolvenzverwaltung."
+description: "Integrierte Planrechnung aus GuV, Liquidität und Bilanz für Insolvenzplan, StaRUG oder Sanierungskonzept erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Prüfraster: Ist-Zahlen, Planannahmen, Maßnahmenwirkung, Base Case, Downside, Stressszenarien, Working Capital, Steuer-/Zinseffekte, Brücke..."
 ---
 
 # Integrierte Planrechnung für Plan und Sanierungskonzept
@@ -126,4 +126,3 @@ Bevor losgelegt wird, klaere:
 ## IV-Einordnung
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Glaeubigerausschuss sowie Planvollzugsfaehigkeit.
-

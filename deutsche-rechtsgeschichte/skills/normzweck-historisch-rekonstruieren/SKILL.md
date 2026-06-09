@@ -63,4 +63,3 @@ Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollte
 - Reichstagsprotokolle: reichstagsprotokolle.de für Parlamentsdebatten
 - BT-Drucksachen (neuere Gesetze): bundestag.de/dokumente/parlamentsarchiv
 - BVerfGE und BGH: bverfg.de und bgh.de
-

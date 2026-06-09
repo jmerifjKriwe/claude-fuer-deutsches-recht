@@ -86,4 +86,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Anwendbares Recht, Gerichtsstand, Vollstreckung, Drittstaatenproblematik trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-pruefen, spezial-europarecht-fristen-form-und-zuständigkeit).
-

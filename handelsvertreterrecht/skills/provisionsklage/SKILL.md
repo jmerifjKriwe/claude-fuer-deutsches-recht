@@ -81,4 +81,3 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 254 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__254.html)
 - [§ 278 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__278.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-

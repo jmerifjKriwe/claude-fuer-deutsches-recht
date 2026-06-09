@@ -1,6 +1,6 @@
 ---
 name: eucharistie-kommunionzulassung
-description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerk..."
 ---
 
 # Eucharistie und Kommunionzulassung
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

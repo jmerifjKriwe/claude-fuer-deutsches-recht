@@ -1,6 +1,6 @@
 ---
 name: simulation-training
-description: "Simulation und Training für Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen Lernnotizen und Leistungsbewertung. Abgrenzung zu zvg-kommandocenter (Echtbetrieb) und zvg-quality-gate im Zwangsverwaltung Zvg."
+description: "Simulation und Training für Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung ab. Output Simulation..."
 ---
 
 # Simulation und Training
@@ -88,4 +88,3 @@ Lösung: [VORGEHEN SCHRITT FÜR SCHRITT]
 Normen: [EINSCHLÄGIGE PARAGRAPHEN]
 Häufige Fehler: [TYPISCHE FEHLER IN DIESER SITUATION]
 ```
-

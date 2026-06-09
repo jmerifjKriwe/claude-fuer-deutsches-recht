@@ -87,4 +87,3 @@ Ergebnis: [ZULASSIG / BEDINGT ZULASSIG / UNZULAESSIG]
 Auflagen: [BESCHREIBUNG]
 Geprueft von: [NAME RA/RAin], [DATUM]
 ```
-

@@ -52,4 +52,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 ### Leitentscheidungen
 
 - BGH X ZR 168/00
-

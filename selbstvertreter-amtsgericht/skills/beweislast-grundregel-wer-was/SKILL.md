@@ -118,4 +118,3 @@ Wenn das Gericht nicht ueberzeugt ist, verliert die beweispflichtige Partei (= n
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweislast-Grundsaetze sind Rechtsprechung, weitgehend stabil. Sondernormen verifizieren.
-

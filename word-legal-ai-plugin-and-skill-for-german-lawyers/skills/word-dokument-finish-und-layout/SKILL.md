@@ -1,6 +1,6 @@
 ---
 name: word-dokument-finish-und-layout
-description: "Finalisiert juristische Word-Dokumente vor Versand. Prüft Formatvorlagen, Nummerierung, Inhaltsverzeichnis, Querverweise, Anlagen, Track Changes, Kommentare, Metadaten, PDF/beA-Tauglichkeit, Unterschriftenblock, Tabellen, Seitenumbrüche und optische Konsistenz. Liefert eine Versand-Checkliste und konkrete Reparaturanweisungen im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Finalisiert juristische Word-Dokumente vor Versand. Prüft Formatvorlagen, Nummerierung, Inhaltsverzeichnis, Querverweise, Anlagen, Track Changes, Kommentare, Metadaten, PDF/beA-Tauglichkeit, Unterschriftenblock, Tabellen, Seitenumbrüche und optische Konsistenz. Liefert eine Versand-Checkliste und..."
 ---
 
 # Word-Dokument Finish und Layout
@@ -58,4 +58,3 @@ Empfohlen:
 - Anlagen vollständig.
 - Signaturblock korrekt.
 - PDF geöffnet und visuell geprüft.
-

@@ -193,4 +193,3 @@ Kanzleiprofil erstellt am 2025-01-15:
 - **Falsche Deployment-Kontext-Angabe:** Kanzlei-intern erfordert AVV mit KI-Infrastrukturanbieter (Art. 28 DSGVO).
 - **TOM-Vergessen:** KI-Skills in der Kanzlei erfordern TOM-Prüfung vor dem Einsatz — dieser Schritt darf nicht übersprungen werden.
 - **Praxisprofil zu generisch:** Ein generisches Profil ergibt generische Empfehlungen.
-

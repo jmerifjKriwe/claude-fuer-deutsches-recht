@@ -1,6 +1,6 @@
 ---
 name: airline-pfandrecht-pfaendung-planen
-description: "Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig im Luftrecht Flughafenrecht."
+description: "Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunsch..."
 ---
 
 # Airline – Pfandrecht vorbereiten
@@ -97,4 +97,3 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

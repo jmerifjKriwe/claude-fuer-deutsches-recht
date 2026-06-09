@@ -44,4 +44,3 @@ description: "Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen: Plattformen
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts.
 - Plattformlöschung ist nicht automatisch staatlicher Grundrechtseingriff, kann aber über DSA, Vertrag, AGB-Kontrolle, mittelbare Drittwirkung und Verfahrensschutz relevant werden.
 - De-Referenzierung ist nicht dasselbe wie Löschung der Originalquelle.
-

@@ -15,4 +15,3 @@ LausitzStorage-Mandat: 80 PDFs aus drei Quellen (Datenraum NordCap, Mandantenpos
 - Roh-Inventur als CSV/Excel-Importzeile fuer Reiter 1
 - Duplikatsliste mit Empfehlung welche Version fuehrend ist
 - Lesbarkeits-Mangelliste (Nachforderung im Datenraum)
-

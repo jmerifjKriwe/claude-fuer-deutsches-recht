@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaf
 3. Wurde sie als zwingend, Ziel, Obergrenze, Wunsch oder Schätzung bezeichnet?
 4. Hat der Planer bei Kostensteigerungen gewarnt?
 5. Gibt es Bauherrnänderungen, Baupreissteigerungen oder Genehmigungsauflagen?
-

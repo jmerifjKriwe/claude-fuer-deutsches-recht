@@ -63,4 +63,3 @@ EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugt
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. DSGVO-Texte über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679 live verifizieren. BDSG über https://www.gesetze-im-internet.de/bdsg_2018/ abrufen. DSK-Orientierungshilfen unter https://www.datenschutzkonferenz-online.de prüfen — Fassungen ändern sich.
-

@@ -95,4 +95,3 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 ### Leitentscheidungen
 
 - BGH X ZR 39/16
-

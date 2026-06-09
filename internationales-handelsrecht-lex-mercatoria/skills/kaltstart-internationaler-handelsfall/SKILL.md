@@ -54,4 +54,3 @@ Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwend
 - Dann Rechtswahl und CISG-Ausschluss prüfen
 - Incoterms-Klausel als Kostentrenner, nicht als Eigentumsübertragungsregel lesen
 - ICC-Schiedsklausel auf Konnexität zur Rechtswahl prüfen
-

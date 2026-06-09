@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - §§ 79 ff. IRG
 - EuGH C-216/18 PPU (LM)
 - BVerfGE 156, 182 (EuHb III)
-

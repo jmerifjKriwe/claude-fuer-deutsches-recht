@@ -1,6 +1,6 @@
 ---
 name: einladung-tagesordnung-fristen
-description: "Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsmaßstab BGH V ZR 86/24."
+description: "Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsma..."
 ---
 
 # Einladung, Tagesordnung und Fristen
@@ -85,4 +85,3 @@ Pro Beschluss:
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html ; § 23 Abs. 1a WEG: https://www.gesetze-im-internet.de/woeigg/__23.html .
-

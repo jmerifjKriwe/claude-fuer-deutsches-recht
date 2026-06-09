@@ -96,4 +96,3 @@ BFH IX R 14/15: Leasingerlass und wirtschaftliches Eigentum; Andienungsrecht all
 - **Restwert-Abrechnung**: Vorlage mit Verwertungserlös, Mehrerlösanteil, Differenzzahlung
 - **AGB-Bewertung**: Klausel – Norm – Wirksam/Unwirksam
 - **Steuer-Memo**: Zurechnung nach BMF-Erlass und BFH
-

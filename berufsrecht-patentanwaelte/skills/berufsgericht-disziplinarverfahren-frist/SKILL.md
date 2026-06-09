@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-disziplinarverfahren-frist
-description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Pa..."
 ---
 
 # Berufsgericht und Disziplinarverfahren
@@ -62,4 +62,3 @@ description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Sk
 - Vertretungsbefugnis vor BPatG/UPC nach § 134 PatG und Art. 48 UPCA klar abgrenzen.
 - Verschwiegenheit nach § 39a PAO im UPC-Verfahren mit Art. 53 UPCA harmonisieren.
 - Werbung § 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich.
-

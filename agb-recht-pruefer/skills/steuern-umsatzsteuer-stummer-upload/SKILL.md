@@ -33,4 +33,3 @@ description: "Klausel-Fachmodul für Steürn Umsatzsteür: prüft, redlined und 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleiprofils. Anwendungsfall erstes Oeffnen des Plugins oder Kanzlei will Stammprofil neu einrichten. Abfrageraster Kanzleiprofil Aktenzeichen-Konvention Eingangskanale Integrationen Fristen HR Honorarpraxis UStVA Kanzleikalender Simulationsmodus. Output Kanzleiprofil-Datei Konfigurationsprotokoll und Weiterleitung zum passenden Workflow. Abgrenzung zu kanzlei-cowork-kaltstart-interview (erweitertes Profilinterview) und kanzlei-allgemein-kommandocenter."
+description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleiprofils. Anwendungsfall erstes Oeffnen des Plugins oder Kanzlei will Stammprofil neu einrichten. Abfrageraster Kanzleiprofil Aktenzeichen-Konvention Eingangskanale Integrationen Fristen HR Honorarpraxis UStVA Kanzleikalender Simulat..."
 ---
 
 # Kanzlei-Allgemein-Plugin Kaltstart
@@ -102,4 +102,3 @@ Ein `Kanzlei-Lebenszyklus-Profil` mit:
 ## Übergabe
 
 Danach an `kanzlei-allgemein-kommandocenter`, `kanzlei-allgemein-integrationen-simulation`, `kanzlei-allgemein-freundlicher-copilot`, `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-intake` und bei neuer Akte an `kanzlei-allgemein-mandatsannahme-gwg`, sobald ein Eingang oder eine neue Akte vorliegt.
-

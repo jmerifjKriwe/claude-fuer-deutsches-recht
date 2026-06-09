@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Force Majeure Höhere Gewalt: prüft, redli
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

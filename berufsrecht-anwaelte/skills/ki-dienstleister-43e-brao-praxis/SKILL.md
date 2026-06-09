@@ -46,4 +46,3 @@ Behandle KI nicht als Zauberwort, sondern als Dienstleisterfrage: Wer bekommt we
 - **Grün:** Anbieter ist bewusst beauftragt, §-43e-Vertrag ist vollständig, No-Training eindeutig, Subunternehmer kontrolliert, EU/EWR oder geprüfter Drittstaat, Endkontrolle organisiert.
 - **Gelb:** Vertrag ist grundsätzlich brauchbar, aber Telemetrie, Supportzugriffe, Subunternehmer, Löschfristen oder Mandanteninformation sind unklar.
 - **Rot:** Public Tool mit Mandatsdaten, Training/Produktverbesserung mit Aktenmaterial, unkontrollierte Drittstaatkette, keine Textformverpflichtung oder keine anwaltliche Endkontrolle.
-

@@ -48,4 +48,3 @@ Die Singapur-Konvention (UN Convention on International Settlement Agreements Re
 - ICC Mediationsklausel: als Schritt vor ICC-Schiedsklausel einbauen (Escalation Clause)
 - Vertraulichkeitsprotokoll: Mediations-NDA vor Beginn + Ausnahmen für Vollstreckungsnachweis
 - Ratifikationsstand: imna.org (International Mediation Network) laufend prüfen
-

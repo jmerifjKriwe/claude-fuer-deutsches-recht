@@ -128,4 +128,3 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Pruefen Sie im konkreten Fall mit Beratungsstelle.
-

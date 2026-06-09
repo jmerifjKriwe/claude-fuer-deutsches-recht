@@ -1,6 +1,6 @@
 ---
 name: bmvg-wehrrecht-und-soldatenstatus
-description: "Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung)."
+description: "Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Leg..."
 ---
 
 # Wehrrecht und Soldatenstatus (BMVg)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

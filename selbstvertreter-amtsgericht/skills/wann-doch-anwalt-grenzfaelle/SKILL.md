@@ -140,4 +140,3 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-

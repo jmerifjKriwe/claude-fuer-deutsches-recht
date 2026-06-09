@@ -63,4 +63,3 @@ Das Deutsche Kaiserreich hatte von 1884/85 bis 1919 Kolonien in Afrika, dem Pazi
 - Versailler Vertrag: BGBl. 1919, 687 via ALEX/OeNB; documentArchiv.de
 - Voelkermordkonvention: BGBl. II 1954, 730; eur-lex.europa.eu für EU-Aspekte
 - Sekundaerliteratur: Juergen Zimmerer, Deutsche Herrschaft ueber Afrikaner (2001)
-

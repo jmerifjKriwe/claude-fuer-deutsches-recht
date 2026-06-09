@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - § 43 GwG (Meldepflicht)
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

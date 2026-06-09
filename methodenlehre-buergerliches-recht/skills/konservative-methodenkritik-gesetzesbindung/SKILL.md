@@ -1,6 +1,6 @@
 ---
 name: konservative-methodenkritik-gesetzesbindung
-description: "Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen."
+description: "Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigk..."
 ---
 
 # Konservative Methodenkritik: Gesetzesbindung und Texttreue
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

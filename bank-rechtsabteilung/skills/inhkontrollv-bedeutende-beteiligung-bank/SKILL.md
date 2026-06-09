@@ -61,4 +61,3 @@ Empfiehl regelmäßig:
 ## Quellenanker
 
 Prüfe aktuelle InhKontrollV, § 2c KWG, BaFin-Inhaberkontrollhinweise und bei Wertpapierinstituten die WpI-Inhaberkontrollregeln. Keine Schwellen oder Formulare aus alten Transaktionschecklisten übernehmen.
-

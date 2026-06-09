@@ -1,6 +1,6 @@
 ---
 name: forderung-anwaltshonorar-rvg
-description: "Anwaltshonorar nach RVG einklagen: Vergueetungsvereinbarung § 3a RVG schriftlich, gesetzliche Gebühren §§ 13 ff. RVG, Vorschuss § 9 RVG. Faelligkeit § 8 RVG mit Erledigung Auftrag oder Beendigung Mandat. Berechnungsschritte: Gegenstandswert via Gebührentabelle Anlage 2 RVG via Gebührentatbestand VV via Auslagen Nr. 7000 ff. VV."
+description: "Anwaltshonorar nach RVG einklagen: Vergueetungsvereinbarung § 3a RVG schriftlich, gesetzliche Gebühren §§ 13 ff. RVG, Vorschuss § 9 RVG. Faelligkeit § 8 RVG mit Erledigung Auftrag oder Beendigung Mandat. Berechnungsschritte: Gegenstandswert via Gebührentabelle Anlage 2 RVG via Gebührentatbestand..."
 ---
 
 # Anwaltshonorar nach RVG

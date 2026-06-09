@@ -134,4 +134,3 @@ Pressekontakt: [Link]
 - DSGVO Art. 6 - Rechtsgrundlage.
 - KUG §§ 22, 23 - Bildnisrecht.
 - Aktuelle Hinweise der Landesmedienanstalten zur Werbekennzeichnung (die-medienanstalten.de).
-

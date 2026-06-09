@@ -68,4 +68,3 @@ sicher, dass Paketerwerbe und Meldungen rechtskonform ablaufen.
 - Meldung an BaFin und Emittent innerhalb von 4 Handelstagen (§ 40 WpHG)
 - Veröffentlichung durch Emittent nach Eingang der Meldung
 - Bei Fehler oder Nachmeldung: Korrekturmeldung mit Erklärung
-

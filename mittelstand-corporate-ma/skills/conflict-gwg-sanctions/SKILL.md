@@ -205,4 +205,3 @@ Freigabe: [PARTNER] am [DATUM]
 
 - assets/templates/conflicts-gwg-sanctions-protokoll.md
 - assets/templates/sorgfaltspflichten-geldwaesche.md
-

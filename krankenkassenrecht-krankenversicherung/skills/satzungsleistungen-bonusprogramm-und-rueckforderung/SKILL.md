@@ -90,4 +90,3 @@ Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzliche
 - [BSG Satzungsleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 65a SGB V](https://dejure.org/gesetze/SGB_V/65a.html)
 - [GKV-Spitzenverband Satzungsleistungen](https://www.gkv-spitzenverband.de)
-

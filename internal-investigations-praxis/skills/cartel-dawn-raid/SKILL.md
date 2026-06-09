@@ -85,4 +85,3 @@ Dieser Skill stellt das korrekte Verhalten bei Kartell-Nachprüfungen sicher, sc
 - **Settlement-Entscheidungsmatrix**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

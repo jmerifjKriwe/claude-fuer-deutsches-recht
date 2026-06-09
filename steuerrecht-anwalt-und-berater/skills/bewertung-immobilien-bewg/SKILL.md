@@ -1,6 +1,6 @@
 ---
 name: bewertung-immobilien-bewg
-description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg."
+description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem..."
 ---
 
 # Bewertung von Immobilien für Erbschaft und Schenkung — §§ 176 ff. BewG
@@ -72,4 +72,3 @@ description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenk
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
-

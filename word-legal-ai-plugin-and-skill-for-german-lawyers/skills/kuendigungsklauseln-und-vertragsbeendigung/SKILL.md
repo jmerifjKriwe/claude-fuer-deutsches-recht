@@ -1,6 +1,6 @@
 ---
 name: kuendigungsklauseln-und-vertragsbeendigung
-description: "Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform)..."
 ---
 
 # Kündigungsklauseln und Vertragsbeendigung
@@ -78,4 +78,3 @@ Mustertext (außerordentliche Kündigungserklärung):
 - § 119 InsO (Beschränkung von Lösungsklauseln).
 - BGH-Rechtsprechung zu doppelten Schriftformklauseln und zu Lösungsklauseln in der Insolvenz ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
-

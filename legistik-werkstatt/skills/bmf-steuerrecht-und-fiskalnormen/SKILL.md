@@ -1,6 +1,6 @@
 ---
 name: bmf-steuerrecht-und-fiskalnormen
-description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
+description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufg..."
 ---
 
 # Steuerrecht und Fiskalnormen (BMF)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

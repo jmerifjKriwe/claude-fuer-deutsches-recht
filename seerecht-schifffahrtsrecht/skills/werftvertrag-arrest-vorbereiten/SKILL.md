@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-arrest-vorbereiten
-description: "Werftvertrag: Glaeubiger sichert Anspruch an Neubauprojekt unter Werftvertrag durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Werftvertrag: Glaeubiger sichert Anspruch an Neubauprojekt unter Werftvertrag durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Z..."
 ---
 
 # Werftvertrag – Arrest vorbereiten
@@ -96,4 +96,3 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 - SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
 - ISAC 1952: https://www.admin.ch/opc/de/classified-compilation/19520172/index.html
 - openjur LG Hamburg Arrest: https://www.openjur.de
-

@@ -1,6 +1,6 @@
 ---
 name: inso-forderungsanmeldung-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzforderungsanmeldungspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Insolvenzforderungsanmeldungspruefung."
+description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzforderungsanmeldungspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der..."
 ---
 
 # Insolvenzforderungsanmeldungspruefung — Allgemein
@@ -242,4 +242,3 @@ Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auc
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (InsO, ZPO, BGB)
-

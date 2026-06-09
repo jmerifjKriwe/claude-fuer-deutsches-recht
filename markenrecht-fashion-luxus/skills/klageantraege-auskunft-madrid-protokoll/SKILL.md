@@ -46,4 +46,3 @@ description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnu
 ## Qualitätsgate
 
 Keine Copy-Paste-Anträge ohne Verletzungsform. Antrag und Belege müssen zusammenpassen.
-

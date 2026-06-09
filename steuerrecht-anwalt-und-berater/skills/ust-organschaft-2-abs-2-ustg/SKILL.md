@@ -1,6 +1,6 @@
 ---
 name: ust-organschaft-2-abs-2-ustg
-description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder verneint sie nach EuGH-Rechtsprechung — Mandant braucht Strategie und ggf. Aenderung der Verhaeltnisse. Behandelt EuGH-Praejudiz zur Organtraeger-Stellung von Personengesellschaften die Wirkungen von Insolvenz der Organgesellschaft und § 73 AO Haftung. Output Pruefraster und Schaubild Innenumsatzgrenzen. Abgrenzung zu fa-stu-kst-organschaft-14-kstg."
+description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder vern..."
 ---
 
 # Umsatzsteuerliche Organschaft — § 2 Abs. 2 Nr. 2 UStG
@@ -41,4 +41,3 @@ description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft —
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

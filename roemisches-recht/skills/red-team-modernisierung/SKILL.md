@@ -41,4 +41,3 @@ Die Modernisierung des röm. Rechts für aktuelle Rechtsfragen (Pandektistik, Ve
 - Vergleich: röm. Quelle vs. mod. Norm
 - Interdisziplinär: Rechtsgeschichte + Rechtsphilosophie
 - Kaser RP I Einleitung; Schulz History of Roman Legal Science
-

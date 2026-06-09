@@ -63,4 +63,3 @@ Das mittelalterliche Stadtrecht entstand als Privileg der Stadtgruender (Landesh
 - Hansische Quellen: Hansisches Urkundenbuch (HUB) und Hanserezesse
 - Keine Fernwirkung moderner Handelsrechtsbegriffe auf mittelalterliche Praxis
 - Vergleichende Stadtrechtsforschung: Dilcher, Ebel, Kroeschell als Sekundaerliteratur
-

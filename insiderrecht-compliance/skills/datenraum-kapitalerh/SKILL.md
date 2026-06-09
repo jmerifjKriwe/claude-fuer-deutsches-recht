@@ -67,4 +67,3 @@ Nach Abschluss des Prozesses (Signing, Closing, Abbruch):
 - Bei Leak: Sofortmaßnahmen (Skill ins-011) aktivieren
 - Bei Abbruch der Transaktion: Insiderinformation erlischt nur, wenn kein legitimes Interesse
  mehr an Aufschub besteht; Compliance prüft neuen Status der Information
-

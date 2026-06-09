@@ -1,6 +1,6 @@
 ---
 name: aufnahme-statusinformation
-description: "Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne."
+description: "Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datu..."
 ---
 
 # Datenschutzvorfall — Erstaufnahme als Statusinformation
@@ -105,4 +105,3 @@ Nächster Schritt: konkret, mit Verantwortlichem und Zeitpunkt.
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-

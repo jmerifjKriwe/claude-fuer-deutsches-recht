@@ -41,4 +41,3 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 1. Welche Gemeinde?
 2. Welche Verfuegung?
 3. Kompetenz?
-

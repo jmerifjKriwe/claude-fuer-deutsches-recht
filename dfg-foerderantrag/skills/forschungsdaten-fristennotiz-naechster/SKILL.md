@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-naechster
-description: "Forschungsdaten: Fristennotiz und nächster Schritt im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Forschungsdaten: Fristennotiz und nächster Schritt im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt
@@ -91,4 +91,3 @@ Pflichtbestandteil jedes Antrags: **Forschungsdatenmanagement-Plan / DMP** als A
 - Verweis auf "institutsinternes Datenarchiv" ohne FAIR-Konformität.
 - Personenbezogene Daten ohne ausreichende Einwilligung "open access" stellen wollen - DSGVO-Verstoß.
 - 10-Jahres-Aufbewahrung vergessen; nach Projektende sofortige Löschung würde Kodex verletzen.
-

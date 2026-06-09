@@ -45,4 +45,3 @@ description: "Receptum nautarum cauponum stabulariorum: praetorische Schaerfung 
 2. Receptum-Erklaerung?
 3. Schaden eingetreten?
 4. Vis maior gegeben?
-

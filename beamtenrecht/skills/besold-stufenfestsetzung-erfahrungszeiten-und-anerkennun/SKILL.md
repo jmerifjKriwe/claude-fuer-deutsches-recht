@@ -43,4 +43,3 @@ description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung i
 2. Welche Vorzeiten?
 3. Anerkennung beantragt?
 4. EuGH-relevant?
-

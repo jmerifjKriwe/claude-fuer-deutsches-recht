@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Quality Gate Vor Rollout: macht aus 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

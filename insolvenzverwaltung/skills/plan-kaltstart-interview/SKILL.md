@@ -1,6 +1,6 @@
 ---
 name: plan-kaltstart-interview
-description: "Erstes Mandatsgespräch strukturieren wenn Insolvenzplan oder StaRUG-Verfahren startet und kaum Unterlagen vorliegen. §§ 13 15a 17 InsO §§ 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage fehlende Unterlagen. Output: Interviewprotokoll Unterlagenliste Annahmenregister. Abgrenzung: nicht für laufende Datenraum-Pflege (iv-plan-datenraum-register)."
+description: "Erstes Mandatsgespräch strukturieren wenn Insolvenzplan oder StaRUG-Verfahren startet und kaum Unterlagen vorliegen. §§ 13 15a 17 InsO §§ 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage fehlende Unterlagen. Output: Interviewprotokoll Unter..."
 ---
 
 # IV-integrierte Kaltstart-Interview
@@ -86,4 +86,3 @@ Bevor losgelegt wird, klaere:
 ## IV-Einordnung
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Glaeubigerausschuss sowie Planvollzugsfaehigkeit.
-

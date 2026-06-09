@@ -77,4 +77,3 @@ Sachverhalt: Sklave des A stiehlt Geld bei B; Sklave hat es zu seinem peculium g
 Sachverhalt: A leiht von B; verwendet die Sache anders als vereinbart (furtum usus).
 - **Roemisch**: D. 47.2.40 — auch furtum usus moeglich.
 - **BGB**: kein eigener "furtum usus"; allenfalls § 826 BGB sittenwidrige Schaedigung; § 280 BGB Pflichtverletzung Leih-Vertrag.
-

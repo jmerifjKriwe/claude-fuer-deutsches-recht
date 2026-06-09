@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Miet- und Wohnungseigentumsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Mietvertrag, Nebenkostenabrechnung, WEG-Versammlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Belegenheit (Miete + WEG)), Frist und Ersatznachweis."
+description: "Lücken- und Beschaffungsliste für Fachanwalt Miet- und Wohnungseigentumsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Mietvertrag, Nebenkostenabrechnung, WEG-Versammlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Belegenheit (Miete + WEG)), Frist und Ersatznac..."
 ---
 
 # Unterlagen und Lücken
@@ -11,19 +11,19 @@ Diese Unterlagenprüfung für **Fachanwalt Miet Wohnungseigentumsrecht** benennt
 
 ## Fachlandkarte dieses Plugins
 
-- `abschlusskontrolle-weg-anschluss-router` — Abschlusskontrolle WEG Anschluss Router
-- `antennen-satellitenschuessel-aufrechnung` — Antennen Satellitenschuessel Aufrechnung
-- `bauliche-veraenderung-betriebskosten` — Bauliche Veraenderung Betriebskosten
-- `baurecht-schnittstelle-belegeinsicht` — Baurecht Schnittstelle Belegeinsicht
-- `beschlussanfechtung-abrechnungsfrist` — Beschlussanfechtung Abrechnungsfrist
+- `einstieg-schnelltriage-fallrouting` — Abschlusskontrolle WEG Anschluss Router
+- `antennen-satellitenschuessel` — Antennen Satellitenschuessel Aufrechnung
+- `workflow-bauliche-veraenderung-routing` — Bauliche Veraenderung Betriebskosten
+- `baurecht-schnittstelle-miete` — Baurecht Schnittstelle Belegeinsicht
+- `beschlussanfechtung-spezial-fristen` — Beschlussanfechtung Abrechnungsfrist
 - `betriebskostenverordnung-anlage-3` — Betriebskostenverordnung Anlage 3
-- `betrkv-interessen-bgb-co2kostenaufteilung` — Betrkv Interessen BGB Co2kostenaufteilung
-- `dokumentenstapel-sortieren-first-year` — Dokumentenstapel Sortieren First Year
-- `eigenbedarf-personenkreis-energieausweis` — Eigenbedarf Personenkreis Energieausweis
-- `fachanwalt-steuer-schnittstelle-erstgespraech` — Fachanwalt Steuer Schnittstelle Erstgespraech
-- `gartenpflege-baumfaellung-gewerberaum` — Gartenpflege Baumfaellung Gewerberaum
-- `geg-waermepumpe-gerichtstermin-vorbereitung` — GEG Waermepumpe Gerichtstermin Vorbereitung
-- `gewerberaum-umsatzmiete-gewerberaummiete` — Gewerberaum Umsatzmiete Gewerberaummiete
+- `betrkv-mehrparteien-konflikt-und-interessen` — Betrkv Interessen BGB Co2kostenaufteilung
+- `workflow-dokumentenstapel-sortieren` — Dokumentenstapel Sortieren First Year
+- `eigenbedarf-personenkreis` — Eigenbedarf Personenkreis Energieausweis
+- `steuer-schnittstelle-vermietung` — Fachanwalt Steuer Schnittstelle Erstgespraech
+- `gartenpflege-baumfaellung` — Gartenpflege Baumfaellung Gewerberaum
+- `workflow-geg-waermepumpe-routing` — GEG Waermepumpe Gerichtstermin Vorbereitung
+- `gewerberaum-umsatzmiete` — Gewerberaum Umsatzmiete Gewerberaummiete
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -40,4 +40,3 @@ Diese Unterlagenprüfung für **Fachanwalt Miet Wohnungseigentumsrecht** benennt
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

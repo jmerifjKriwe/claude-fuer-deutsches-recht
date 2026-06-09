@@ -1,6 +1,6 @@
 ---
 name: englischer-vertrag-deutsches-recht
-description: "Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik..."
 ---
 
 # Englischer Vertrag nach Deutschem Recht
@@ -43,4 +43,3 @@ description: "Draftet oder prüft englischsprachige Verträge mit deutschem Rech
 5. Haftung, Freistellung, Gewährleistung und Garantien separat strukturieren.
 6. AGB-Risiko prüfen.
 7. Word- und Anlagenlogik prüfen.
-

@@ -15,4 +15,3 @@ LausitzStorage waere bei hypothetischer Mandatsuebernahme von Pohlmann & Pohlman
 - Uebernahme-Reiter mit roten und gelben Eintraegen aus Vorgaengerakte
 - Frist-Soforterhebung mit Restzeit-Ampel
 - Erstkontaktliste fuer den Tag nach Mandatsuebernahme
-

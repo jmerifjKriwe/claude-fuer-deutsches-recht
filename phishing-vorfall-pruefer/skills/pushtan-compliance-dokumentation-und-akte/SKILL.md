@@ -63,4 +63,3 @@ pushTAN ist ein App-basiertes Authentifizierungsverfahren der Sparkassen / Volks
 
 ## Trade-off
 pushTAN ist faktisch mehrheitlich Same-Device — Banken werden in Verfahren regelmäßig zur Erstattung verurteilt, wenn Anomalie-Erkennung schwach und Visualisierung manipulierbar war. Live-Recherche aktueller OLG-Linien lohnt sich.
-

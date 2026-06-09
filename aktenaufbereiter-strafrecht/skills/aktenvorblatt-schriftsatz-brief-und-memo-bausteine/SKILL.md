@@ -83,4 +83,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
  - Anschluss-Skills: ...
  ```
 - **Praxis-Tipp:** Aktenvorblatt bei jedem neuen Mandat sofort anlegen; bei jeder Aktenbearbeitung aktualisieren; vor Hauptverhandlung als Briefing-Tool.
-

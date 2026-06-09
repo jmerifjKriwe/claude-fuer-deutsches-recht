@@ -45,4 +45,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Aktualisierung mindestens quartalsweise, bei Anlass (Auftragseinbruch, Umsatzeinbruch) sofort.
 - Mehraugenprinzip: Prognose von zweitem Geschäftsführer oder Berater plausibilisieren lassen.
 - Materielle Prüftiefe: nicht nur Cashflow, sondern auch GuV, Bilanz, Kovenanten, Kreditlinien.
-

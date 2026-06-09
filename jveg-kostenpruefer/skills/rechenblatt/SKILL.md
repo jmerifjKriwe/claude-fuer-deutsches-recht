@@ -60,4 +60,3 @@ Vollständiges Rechenblatt; dient als Anlage zum Festsetzungsantrag.
 ## Leitplanken
 - Jede Zeile braucht Norm + Beleg; leere Felder blockieren die Ausgabe.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

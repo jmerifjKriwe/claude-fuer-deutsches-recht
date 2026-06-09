@@ -49,4 +49,3 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 - Wahl- und Fristenbezug mit amtlichen Wahlleiterhinweisen abgleichen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-

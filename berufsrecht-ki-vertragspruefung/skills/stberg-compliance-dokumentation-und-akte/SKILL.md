@@ -57,4 +57,3 @@ Bei KI-Anbietern besonders prüfen: Trainingsnutzung der Mandantendaten ausschli
 
 ## Trade-off
 Cloud-Tools mit US-Anbieter bieten oft Funktionsvorsprung, erfordern aber TIA, DPF-Zertifizierung und vertragliche Spezifika (z. B. EU-Datenresidenz auf Vertragsschicht garantieren). Lokales Self-Hosting vermeidet Transfer, erzeugt aber höhere Eigenverantwortung für Sicherheit (Patchmanagement, Logging, Wartung).
-

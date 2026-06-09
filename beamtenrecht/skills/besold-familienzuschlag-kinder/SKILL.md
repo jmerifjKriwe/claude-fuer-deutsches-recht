@@ -50,4 +50,3 @@ description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im B
 2. Wie viele Kinder?
 3. Beide Eltern Beamte?
 4. Erhoehung sichergestellt?
-

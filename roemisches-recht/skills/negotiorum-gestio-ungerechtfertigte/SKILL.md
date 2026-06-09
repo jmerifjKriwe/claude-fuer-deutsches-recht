@@ -48,4 +48,3 @@ Die negotiorum gestio ist die Führung fremder Geschäfte ohne Auftrag. Vorausse
 - D. 3.5 (De negotiis gestis) als Haupttitel
 - Iust. Inst. 3.27
 - Kaser RP I §§ 267-272; Zimmermann Law of Obligations Kap. 17
-

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-stadion-tragwerk-dach
-description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fa..."
 ---
 
 # Bauueberwachung Stadion Tragwerk Dach (LPH 8)
@@ -83,4 +83,3 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 - [DIN EN ISO 5817 Schweissnaehte](https://www.gesetze-im-internet.de/)
 - [DIN EN 1263-1 Fangnetze](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 179/10 Stahltribuene Mangel](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+179/10)
-

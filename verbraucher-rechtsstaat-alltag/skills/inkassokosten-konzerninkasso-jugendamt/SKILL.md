@@ -66,4 +66,3 @@ Danach:
 ## Ton
 
 Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestritten, begründet, fristgerecht, ohne unnötige Daten preiszugeben.
-

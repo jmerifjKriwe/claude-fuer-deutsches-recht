@@ -78,4 +78,3 @@ Konkret zu prüfen:
 
 - §§ 87a-87e UrhG (sui generis)
 - § 4 UrhG (Sammelwerk, Datenbankwerk)
-

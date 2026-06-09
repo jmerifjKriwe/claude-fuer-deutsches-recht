@@ -1,6 +1,6 @@
 ---
 name: section-19a-gwb-big-tech
-description: "§ 19a GWB Big Tech: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "§ 19a GWB Big Tech: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft..."
 ---
 
 # § 19a GWB Big Tech
@@ -33,4 +33,3 @@ description: "§ 19a GWB Big Tech: Fachmodul für großes Kartellrecht mit BKart
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

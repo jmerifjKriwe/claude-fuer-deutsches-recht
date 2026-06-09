@@ -1,6 +1,6 @@
 ---
 name: orientierung-drafting-partner-kommentar
-description: "Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanz..."
 ---
 
 # Orientierung und Drafting-Triage
@@ -100,4 +100,3 @@ description: "Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dok
 - § 43a BRAO und § 203 StGB für Vertraulichkeit; gesetze-im-internet.de.
 - `references/methodik-buergerliches-recht.md` für Stilwahl Gutachtenstil und Urteilsstil.
 - Fachmodule im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
-

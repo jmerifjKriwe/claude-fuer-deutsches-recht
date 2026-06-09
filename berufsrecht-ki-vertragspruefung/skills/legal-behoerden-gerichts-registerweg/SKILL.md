@@ -1,6 +1,6 @@
 ---
 name: legal-behoerden-gerichts-registerweg
-description: "Legal: Behörden-, Gerichts- oder Registerweg im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Legal: Behörden-, Gerichts- oder Registerweg im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg
@@ -38,4 +38,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Anwaltsgerichtliche Verfahren laufen oft parallel zu zivilrechtlichen Haftungsklagen — z. B. § 203 StGB-Strafverfahren, § 113 BRAO anwaltsgerichtliches Verfahren und § 280 BGB-Schadensersatzklage gegen Anwalt. Mandanten verbergen diese Parallelität oft, fragen Sie aktiv nach Anwaltskammer- oder Strafverfahrensstand.
-

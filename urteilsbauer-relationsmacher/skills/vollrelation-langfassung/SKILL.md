@@ -1,6 +1,6 @@
 ---
 name: vollrelation-langfassung
-description: "Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer."
+description: "Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, R..."
 ---
 
 # Vollrelation Langfassung - Schulstandard für Prüfung
@@ -103,4 +103,3 @@ Fragenkatalog am Ende:
 - Indikativ für Unstreitiges (Die Klägerin hat die Brille am 19. Februar 2026 erhalten).
 - Normzitate ausgeschrieben (Paragraf 433 Absatz 1 Satz 1 BGB).
 - Keine Abkürzungen wie BGH BVerfG sondern Bundesgerichtshof Bundesverfassungsgericht beim ersten Auftreten ausschreiben.
-

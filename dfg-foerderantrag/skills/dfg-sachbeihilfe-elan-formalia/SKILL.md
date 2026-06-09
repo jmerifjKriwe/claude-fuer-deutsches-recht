@@ -160,4 +160,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-FAQ Begutachtung: dfg.de
 
 Vordrucknummern (z. B. 53.01) ändern sich periodisch — vor jeder Einreichung live verifizieren.
-

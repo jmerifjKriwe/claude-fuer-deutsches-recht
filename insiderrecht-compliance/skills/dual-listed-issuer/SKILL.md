@@ -68,4 +68,3 @@ veröffentlicht werden.
 - Directors' Dealings: Meldung nach Art. 19 MAR an BaFin; in UK nach DTR 3; in USA nach
  Section 16 Exchange Act (Form 4)
 - Abstimmung der Meldefristen (Deutschland: 3 Geschäftstage; USA: 2 Werktage)
-

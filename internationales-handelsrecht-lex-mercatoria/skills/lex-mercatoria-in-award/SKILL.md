@@ -48,4 +48,3 @@ ICC-Schiedsgerichte und ICSID-Tribunale haben lex mercatoria und "allgemeine Gru
 - NY-Convention-Vollstreckung: lex-mercatoria-Award vorher gegen ordre-public-Test prüfen
 - CENTRAL: Prinzipien mit möglichst vielen Schiedsreferenzen auswählen
 - ICC Art. 21: Antrag auf Anwendung PICC als "appropriate rules" mit Begründung
-

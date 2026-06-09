@@ -1,9 +1,10 @@
 ---
 name: zivilprozess-modus
-description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsverfahren."
+description: "Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff: ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §..."
 ---
 
-# Zivilprozess Modus
+# Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff
+
 
 ## Arbeitsweg
 
@@ -12,10 +13,6 @@ description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsve
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachliche Module
-
-## 1. `zivilprozess-modus`
 
 **Fokus:** Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Prüfraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO).
 
@@ -110,4 +107,3 @@ description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsve
 - Streitwert nach §§ 2 ff. ZPO i.V.m. §§ 3 ff. ZPO und § 48 GKG angeben
 - Zuständigkeit (örtlich / sachlich / funktionell) kurz erwähnen
 - Klageart (Leistungsklage / Feststellungsklage / Gestaltungsklage) benennen
-

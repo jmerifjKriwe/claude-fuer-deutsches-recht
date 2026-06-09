@@ -55,4 +55,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welches Graffito?
 2. Rechtshintergrund?
 3. Bezug zu Rechtsfaellen?
-

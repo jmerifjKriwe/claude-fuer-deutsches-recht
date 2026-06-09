@@ -41,4 +41,3 @@ description: "AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skil
 2. Verfahrensgrundsaetze beachtet?
 3. Rechtsschutz vorgesehen?
 4. Haftungsklausel angemessen?
-

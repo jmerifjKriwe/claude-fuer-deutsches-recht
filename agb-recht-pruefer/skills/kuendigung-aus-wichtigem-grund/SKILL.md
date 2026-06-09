@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Kündigung Aus Wichtigem Grund: prüft, red
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

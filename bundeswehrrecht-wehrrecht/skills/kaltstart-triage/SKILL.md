@@ -160,4 +160,3 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `widerruf-ernennung-arglistige-taeuschung` | Widerruf Ernennung arglistige Täuschung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinar... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
-

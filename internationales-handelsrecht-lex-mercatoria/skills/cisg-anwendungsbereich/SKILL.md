@@ -53,4 +53,3 @@ Das UN-Kaufrecht (CISG, Wien 1980, in Kraft seit 1988) gilt in 97 Vertragsstaate
 - Vertragsstaaten-Liste UNCITRAL laufend prüfen (uncitral.un.org/en/texts/saleofgoods)
 - Bei Art. 3 Werklieferung: Wertanteil Material vs. Dienstleistung nach Vertragsursprung
 - Autonome Auslegung: keine Rückgriffe auf BGB-Dogmatik bei CISG-Begriffen
-

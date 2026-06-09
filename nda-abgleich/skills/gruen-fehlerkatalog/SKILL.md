@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - § 307 BGB (Inhaltskontrolle)
 - § 90 HGB (Geschäftsgeheimnisse)
 - GeschGehG (Geschäftsgeheimnisgesetz)
-

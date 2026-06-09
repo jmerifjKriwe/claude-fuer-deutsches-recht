@@ -60,4 +60,3 @@ description: "Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Lei
 - bereicherungsrecht-entreicherung-und-saldotheorie
 - kaufrecht-sachmangel-paragraph-434
 - workflow-anspruchslandkarte
-

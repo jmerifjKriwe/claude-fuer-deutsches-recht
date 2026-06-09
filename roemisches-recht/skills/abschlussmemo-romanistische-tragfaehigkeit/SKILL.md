@@ -66,4 +66,3 @@ Das Abschlussmemo zur romanistischen Tragfähigkeit fasst die Ergebnisse einer r
 - Lenel Palingenesia für Originalkontext
 - Kaser RP I-II für Sekundäreinordnung
 - Checkliste: Quelle - Autor - Epoche - Interpolation - Rezeption
-

@@ -129,7 +129,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `technik-formular-portal-und-einreichung` | Technik: Formular, Portal und Einreichungslogik im Patentrecherche. |
 | `ueberwachung-konkurrenten` | Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. L... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Patentrecherche (FTO, Validity, Family-Watch): trennt fehlende Tatsachen von fehlenden Belegen (Erfindungsmeldung, Anspruchssatz, Recherche-Report), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), F... |
-| `upc-unified` | UPC Unified im Plugin Patentrecherche im Patentrecherche. |
+| `upc-unified-patent-court-spezial` | Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation: Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, O... |
 | `uspto-mehrparteien-konflikt-und-interessen` | USPTO: Mehrparteienkonflikt und Interessenmatrix im Patentrecherche. |
 | `wipo-stand-technik-ueberwachung-konkurrenten` | Wipo: Compliance-Dokumentation und Aktenvermerk im Patentrecherche. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Patentrecherche. |

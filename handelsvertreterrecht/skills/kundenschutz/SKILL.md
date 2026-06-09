@@ -1,6 +1,6 @@
 ---
 name: kundenschutz
-description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung im Handelsvertreterrecht."
+description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung im Handel..."
 ---
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 8 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__8.html)
 - [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
-

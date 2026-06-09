@@ -1,6 +1,6 @@
 ---
 name: ressort-router
-description: "Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahme in das richtige Bundes-Ressort. Klaert Ressort-Kuerzel BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ; BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ und BMWSB. Pro Ressort: Heranfuehrung; Ressortaufgaben; fuenf Spezialfelder. Output: gewaehltes Ressort plus Skill-Empfehlungskette. Abgrenzung: legistik-auftragsaufnahme (vorher); normhierarchie-routing (Normwahl); normenkartierung (Bestandskartierung)."
+description: "Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahme in das richtige Bundes-Ressort. Klaert Ressort-Kuerzel BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ; BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ und BMWSB. Pro Ressort: Heranfuehrung; Ressortaufgaben; fuenf Spezialfelder. Output: g..."
 ---
 
 # Legistik-Werkstatt - Ressort-Router
@@ -51,4 +51,3 @@ Arbeitsfokus: **Legistik-Werkstatt - Ressort-Router**. Prüfe diese Anker am Sac
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

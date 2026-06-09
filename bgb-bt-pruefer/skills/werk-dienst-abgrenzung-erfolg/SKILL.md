@@ -63,4 +63,3 @@ description: "Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tät
 - https://www.gesetze-im-internet.de/bgb/__631.html
 - https://www.gesetze-im-internet.de/bgb/__611.html
 - https://www.gesetze-im-internet.de/bgb/__630a.html
-

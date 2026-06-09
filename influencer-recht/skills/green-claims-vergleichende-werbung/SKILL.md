@@ -72,4 +72,3 @@ Nachhaltigkeitsaussagen in Creator-Content stehen unter verschärfter Prüfung:
 - Substantiierungs-Checkliste für Brand
 - Konforme Reformulierungen
 - Abmahnreaktion Greenwashing
-

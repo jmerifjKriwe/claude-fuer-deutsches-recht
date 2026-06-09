@@ -110,4 +110,3 @@ Dieser Skill bearbeitet **Satellitenschwarm über Deutschland: Frequenz-, Kollis
 - EU Space Programme Regulation SST: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - UNCOPUOS LTS Guidelines: https://www.unoosa.org/oosa/en/ourwork/topics/long-term-sustainability-of-outer-space-activities.html
 - DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
-

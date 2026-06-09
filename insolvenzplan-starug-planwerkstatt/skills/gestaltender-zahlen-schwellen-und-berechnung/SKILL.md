@@ -1,6 +1,6 @@
 ---
 name: gestaltender-zahlen-schwellen-und-berechnung
-description: "Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerkstatt."
+description: "Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Plan..."
 ---
 
 # Gestaltender: Zahlen, Schwellenwerte und Berechnung
@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Klassenbildungsregel:** Wirtschaftlich vergleichbare Forderungen in eine Klasse (§ 222 Abs. 2 InsO; § 9 StaRUG); Aufspaltung muss sachlich gerechtfertigt sein und darf keinen reinen Mehrheits-Engineering bezwecken.
 - **Stimmrecht bestrittener Forderungen:** Im Termin entscheidet das Gericht über das Stimmrecht (§ 77 InsO sinngemäß; § 24 StaRUG); Vorbereitung mit Stimmrechtsantrag empfohlen.
 - **Praxis:** Mindestens zwei Mehrheitsszenarien (best/worst) durchrechnen; bei Mindestschwellen sollte der Plan idR 10–15 % Sicherheitspuffer über der Schwelle liegen.
-

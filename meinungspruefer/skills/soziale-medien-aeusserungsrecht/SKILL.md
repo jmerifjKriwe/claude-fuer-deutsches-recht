@@ -45,4 +45,3 @@ Erhöhe das Risiko, wenn:
 - Bei Hyperlinks und Kommentarspalten `egmr-art-10-rechtsprechung` hinzunehmen.
 - Bei Plattformlöschung, Suchmaschinen, Labeln, DSA oder Datenschutz `eugh-grch-art-11-rechtsprechung` hinzunehmen.
 - Bei Unterlassung gegen künftige gleichwertige Inhalte `olg-kg-praxis-rechtsprechung` und `presserecht-plattformen-loeschung-dsa` hinzunehmen.
-

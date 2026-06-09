@@ -76,4 +76,3 @@ Für jeden Weitergabevorgang außerhalb der Ad-hoc-Veröffentlichung:
 - Protokoll: Datum, Uhrzeit, Empfänger, Übertragungsmedium, Inhalt
 - Belehrung des Empfängers über Insiderstatus
 - Aufnahme in Insiderliste (Art. 18 MAR)
-

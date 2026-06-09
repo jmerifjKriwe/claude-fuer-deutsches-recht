@@ -61,4 +61,3 @@ Automatischer Türöffner am Hauseingang: Elektrische Verriegelung und Taster be
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 20 und § 21 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html und https://www.gesetze-im-internet.de/woeigg/__21.html live verifizieren. Landesbauordnungen auf Portalen der jeweiligen Bundesländer abrufen — Verfahrensfreiheitskataloge variieren.
-

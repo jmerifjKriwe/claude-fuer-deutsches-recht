@@ -84,4 +84,3 @@ Falsche Zuständigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhebung von 5.000 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus der Uebergangszeit Stichtag und Anhaengigkeit pruefen.
-

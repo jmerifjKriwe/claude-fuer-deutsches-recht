@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Berufung ZPO § 517:** 1 Monat ab Zustellung; Berufungsbegründung § 520 II ZPO 2 Monate.
 - **Examens-Hausarbeit:** Abgabefrist nach JAG der Landesjustizprüfungsämter — meist 6 Wochen.
 - Falle: § 187 I BGB Fristbeginn (Tag, an dem das Ereignis eintritt, wird nicht mitgerechnet) vs. § 188 II BGB (Ende mit Ablauf des entsprechenden Tages).
-

@@ -41,4 +41,3 @@ VVG/AVB je Sparte; BGB Werkvertrags-/Gutachterrecht; ZPO Sachverständigenbeweis
 
 - wohngebaeude-leitungswasser-sturm-hagel-brand
 - unfallversicherung-invaliditaet-fristen-gliedertaxe
-

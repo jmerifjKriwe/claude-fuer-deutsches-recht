@@ -1,6 +1,6 @@
 ---
 name: kaltstart
-description: "Kanzlei- und Mandantenpraeferenzen für Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards, Abrechnungsmodell und KI-Governance. § 3a RVG Honorarvereinbarung, BRAO Berufsrecht. Prüfraster Dealtypen-Profil, Buy-side/Sell-side-Praeferenz, Standardschwellen, Datenraum-Praeferenzen, Berichtsformate, Sicherheitsregeln. Output konfiguriertes Kanzlei-Profil mit Playbook-Grundeinstellungen. Abgrenzung zu Deal-Intake für konkrete neue Mandate und zu KI-Governance-Berufsrecht."
+description: "Kanzlei- und Mandantenpraeferenzen für Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards, Abrechnungsmodell und KI-Governance. § 3a RVG Honorarvereinbarung, BRAO Berufsrecht. Prüfraster..."
 ---
 
 # Deal-Kaltstart
@@ -166,4 +166,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
 - Senior Review vor Weiterleitung an Mandant oder Gegenseite
 - Dokumentation: Datum, Bearbeiter, Version, Freigabe
-

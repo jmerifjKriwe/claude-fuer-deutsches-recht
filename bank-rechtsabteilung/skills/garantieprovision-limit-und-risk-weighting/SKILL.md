@@ -64,4 +64,3 @@ Liefere:
 - `forbearance-npe-risikoklassifizierung`
 - `crr-crd-eigenmittel-large-exposure`
 - `vorstandsvorlage-gutachten`
-

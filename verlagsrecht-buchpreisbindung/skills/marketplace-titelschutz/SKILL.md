@@ -129,4 +129,3 @@ Amazon Marketplace und vergleichbare Plattformen sind die häufigsten Schauplät
 - **Stufenplan Durchsetzung**: Von Direktkontakt bis einstweiliger Verfügung
 - **Börsenverein-Meldungsformular**: Strukturierter Verstoßbericht
 - **Verjährungs-Fristenplan**: Für alle laufenden Fälle
-

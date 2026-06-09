@@ -43,4 +43,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Materiellen Schwerpunkt finden:** Ehe, Verwandtschaft, Erbfolge, Kirche, Verwaltung oder Prozess.
 4. **Systembruch prüfen:** passt die Neuregelung in klassische Kategorien oder verschiebt sie den Schwerpunkt?
 5. **Rezeptionswert bestimmen:** unmittelbarer byzantinischer Gebrauch, gelehrte Überlieferung oder späterer Vergleichspunkt.
-

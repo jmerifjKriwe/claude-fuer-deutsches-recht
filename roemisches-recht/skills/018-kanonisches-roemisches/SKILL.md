@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-roemisches
-description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht: Dieser Skill bearbeitet Kanonisches Recht und römisches Recht Wechselwirkung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht: Dieser Skill bearbeitet Kanonisches Recht und römisches Recht Wechselwirkung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung
@@ -48,4 +48,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

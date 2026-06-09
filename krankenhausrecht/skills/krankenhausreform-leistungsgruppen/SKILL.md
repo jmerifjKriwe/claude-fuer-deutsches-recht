@@ -78,4 +78,3 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - G-BA-Beschluesse zu Mindestmengen und Strukturqualitaet (Live-Check: g-ba.de).
 - Landeskrankenhausplaene der Länder (Live-Check Landesministerium).
 - BSG, staend. Rspr. zum Versorgungsauftrag (§ 109 SGB V).
-

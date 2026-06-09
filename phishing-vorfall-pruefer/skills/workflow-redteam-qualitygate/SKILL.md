@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Die häufigste Fehlbewertung: pauschale Annahme, der Kunde habe wegen Klick auf Phishing-Link "grobe Fahrlässigkeit" begangen. BGH 26.01.2016, XI ZR 91/14 differenziert: das bloße Folgen eines vortäuschend echten Hinweises trägt nicht zwingend grobe Fahrlässigkeit — entscheidend sind die konkreten Sicherheitsvorkehrungen der Bank und die Erkennbarkeit der Täuschung im Einzelfall.
-

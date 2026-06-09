@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-fuer-schoeffen
-description: "Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter..."
 ---
 
 # Strafzumessung für Schöffen
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil mit Angaben zur Rolle (betreute Person / Angehöriger / ehrenamtlicher Familienbetreuer / Berufsbetreuer / Vereinsbetreuer / Behördenbetreuer / anwaltliche Begleitung), Betreuungsgericht, Aufgabenkreisen, Unterstützungsstellen, Scan-Akte, Kalender/Reminder und Eskalationswegen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil mit Angaben zur Rolle (betreute Person / Angehöriger / ehrenamtlicher Familienbetreuer / Berufsbetreuer / Vereinsbetreuer / Behördenbetreuer / anwaltliche Begleitung), Betreuungsgericht, Aufgabenkreisen, Unterstützungsst..."
 ---
 
 # /betreuungsrecht:betreuungsrecht-kaltstart-interview
@@ -112,4 +112,3 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 ## Hinweise
 
 Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Gesetze im Internet) zu prüfen.
-

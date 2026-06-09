@@ -46,4 +46,3 @@ Das Verhaeltnis von Eigentum und staatlichem Zugriff ist ein Kernthema der deuts
 - PrEG 1874: historische Edition PrGBl.
 - NS-11. Verordnung: RGBl. I 1941, 722 via ALEX/OeNB
 - EGMR: hudoc.echr.coe.int
-

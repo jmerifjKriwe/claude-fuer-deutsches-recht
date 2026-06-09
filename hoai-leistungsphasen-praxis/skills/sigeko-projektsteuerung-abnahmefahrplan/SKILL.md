@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandsch
 3. Pflicht aus Vertrag, Gesetz oder späterem Zusatzauftrag unterscheiden.
 4. Honorar, Haftung, Versicherung und Dokumentation klären.
 5. Ablehnung oder Zusatzangebot sauber formulieren.
-

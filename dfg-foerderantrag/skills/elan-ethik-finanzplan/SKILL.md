@@ -83,4 +83,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Seitenzahl-Überschreitung der Projektbeschreibung führt zur Formalrüge / Aufforderung zur Kürzung.
 - Lebenslauf länger als drei Seiten oder mit Publikationsdoppelung in Anlage.
 - Mitzeichnung der Einrichtung fehlt am Stichtag - Antrag wird ohne Wirkung archiviert.
-

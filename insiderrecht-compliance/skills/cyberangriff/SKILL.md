@@ -73,4 +73,3 @@ Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-
  ergriffene Maßnahmen, Ausblick
 - Keine Offenlegung von Informationen, die laufende Ermittlungen gefährden
 - Aktualisierungs-Ad-hoc: Wenn neue wesentliche Informationen bekannt werden
-

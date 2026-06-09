@@ -1,6 +1,6 @@
 ---
 name: kontrolle-abwaegungsentscheidungen
-description: "Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie die Grenze zwischen zulässiger Überprüfung und unzulässiger Ersatzabwägung verläuft."
+description: "Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie di..."
 ---
 
 # Kontrolle von Abwägungsentscheidungen
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 114 VwGO – Ermessensprüfung](https://dejure.org/gesetze/VwGO/114.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

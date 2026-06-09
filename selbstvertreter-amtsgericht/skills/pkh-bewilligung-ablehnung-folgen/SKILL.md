@@ -122,4 +122,3 @@ Folge: Sie zahlen rueckwirkend.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
-

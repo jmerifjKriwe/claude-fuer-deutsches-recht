@@ -1,6 +1,6 @@
 ---
 name: freight-forwarder-and-customs-broker
-description: "Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick im Festlandchina Wirtschaftsverkehr."
+description: "Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Ha..."
 ---
 
 # Spediteur und Zollmakler China-Handel: Haftung und Beauftragung
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

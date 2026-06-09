@@ -41,4 +41,3 @@ VVG §§ 150 ff., 169; VVG a.F. bei Altverträgen live prüfen; BGB; BGH-Rechtsp
 
 - lebensversicherung-bezugsrecht-widerruf-aenderung
 - vag-bafin-aufsicht-beschwerde-missstand
-

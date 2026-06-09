@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-doppelhaus-reihenhaus
-description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Baut..."
 ---
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
@@ -83,4 +83,3 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 - [VOB/B § 12 Abnahme](https://www.gesetze-im-internet.de/vob-b/__12.html)
 - [GEG 2023](https://www.gesetze-im-internet.de/geg/index.html)
 - [BGH VII ZR 15/16 Schallschutz Reihenhaus](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+15/16)
-

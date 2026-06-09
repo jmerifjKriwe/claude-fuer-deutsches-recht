@@ -46,4 +46,3 @@ Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsve
 - GG Art. 38 und BWahlG: gesetze-im-internet.de
 - BVerfGE zum Wahlrecht: bverfg.de
 - Reichstagsprotokolle 1918-1919: reichstagsprotokolle.de
-

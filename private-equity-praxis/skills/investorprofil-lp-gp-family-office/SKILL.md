@@ -87,4 +87,3 @@ Excuse Right (Standardklausel):
 - GwG §§ 10 ff.; FKAustG (CRS); FATCA-Abkommen DE-USA.
 - SFDR (VO (EU) 2019/2088); EU-Taxonomie-VO 2020/852.
 - IORP-II-RL (EU) 2016/2341.
-

@@ -36,4 +36,3 @@ description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags marke
 ## Quellen-Hardening
 
 EuGH/BGH-Keyword-Rechtsprechung nur mit Datum, Aktenzeichen und Quelle zitieren.
-

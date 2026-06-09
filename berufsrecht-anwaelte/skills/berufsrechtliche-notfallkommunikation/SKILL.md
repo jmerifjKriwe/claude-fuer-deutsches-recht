@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - § 53 BRAO (Vertreter)
 - § 14 BORA (Niederlegung)
-

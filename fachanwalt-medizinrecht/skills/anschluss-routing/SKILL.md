@@ -12,18 +12,18 @@ Dieses Anschluss-Routing für **Fachanwalt Medizinrecht** wählt nach dem ersten
 ## Fachlandkarte dieses Plugins
 
 - `aerzte-quellenkarte` — Aerzte Quellenkarte
-- `aerztewerbung-innovative-amnog-millionen` — Aerztewerbung Innovative Amnog Millionen
-- `anaesthesie-hochrisiko-approbation-digitales` — Anaesthesie Hochrisiko Approbation Digitales
+- `aerztewerbung-innovative-therapie` — Aerztewerbung Innovative Amnog Millionen
+- `anaesthesie-hochrisiko-aufklaerung` — Anaesthesie Hochrisiko Approbation Digitales
 - `apothekenrecht-arzneimittel-paragraf-78-amg` — Apothekenrecht Arzneimittel Paragraf 78 AMG
-- `apothekenrecht-interessen-aufklaerung` — Apothekenrecht Interessen Aufklaerung
+- `apothekenrecht-mehrparteien-konflikt-und-interessen` — Apothekenrecht Interessen Aufklaerung
 - `arzthaftung-aufklaerung-bgb` — Arzthaftung Aufklaerung BGB
-- `atmp-chain-classification` — Atmp Chain Classification
-- `atmp-pharmakovigilanz-aufklaerungsfehler` — Atmp Pharmakovigilanz Aufklaerungsfehler
-- `aufklaerungsfehler-behandlungsfehler` — Aufklaerungsfehler Behandlungsfehler
+- `atmp-chain-of-identity` — Atmp Chain Classification
+- `atmp-pharmakovigilanz-rmp` — Atmp Pharmakovigilanz Aufklaerungsfehler
+- `aufklaerungsfehler` — Aufklaerungsfehler Behandlungsfehler
 - `aufklaerungspflicht-paragraf-630e-bgb` — Aufklaerungspflicht Paragraf 630e BGB
 - `behandlungsfehler-paragraf-630h-bgb` — Behandlungsfehler Paragraf 630h BGB
-- `berufsrecht-bgb-einwilligung-sonderfall` — Berufsrecht BGB Einwilligung Sonderfall
-- `beweislast-hightech-biobank-consent` — Beweislast Hightech Biobank Consent
+- `berufsrecht-verhandlung-vergleich-und-eskalation` — Berufsrecht BGB Einwilligung Sonderfall
+- `beweislast-hightech-medizin` — Beweislast Hightech Biobank Consent
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -61,4 +61,3 @@ Dieses Anschluss-Routing für **Fachanwalt Medizinrecht** wählt nach dem ersten
 ### Leitentscheidungen
 
 - BGH VI ZR 323/04
-

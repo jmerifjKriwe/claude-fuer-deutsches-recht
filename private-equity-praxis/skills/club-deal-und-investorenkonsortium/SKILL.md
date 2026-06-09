@@ -94,4 +94,3 @@ Deadlock (Stufenmodell):
 - WpÜG §§ 33 ff. bei börsennotiertem Target.
 - BGH ständige Rechtsprechung zu Russian Roulette / Texas Shoot-Out (konkrete Az. vom Anwender zu verifizieren).
 - ICC / DIS Schiedsklauseln (Mustertext jeweils aktuelle Fassung).
-

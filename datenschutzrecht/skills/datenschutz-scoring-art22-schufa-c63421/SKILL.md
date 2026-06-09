@@ -25,4 +25,3 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Auskunftei-/Score-Fälle:** Bei `Scoring und Art. 22 DSGVO nach EuGH C-634/21` EuGH C-634/21 zum Scoring und EuGH C-26/22/C-64/22 zur Restschuldbefreiung nur mit verifizierter Quelle und Kernaussage verwenden.
 - **Belege:** Datenkopie, Scorelogik, Speicherfrist, Insolvenzbekanntmachung, Ablehnungsschreiben der Bank, Selbstauskunft und Beschwerdeantwort getrennt ablegen.
 - **Output:** Löschungs-/Berichtigungsantrag, Aufsichtsbehördenbeschwerde, Beweisplan und Klage-/Eilrechtsschutzmatrix.
-

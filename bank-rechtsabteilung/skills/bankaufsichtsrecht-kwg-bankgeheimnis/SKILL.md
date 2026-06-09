@@ -49,4 +49,3 @@ Dieser Skill prüft, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vor
 - BaFin-Auskunftsverlangen (§ 44 KWG): Mitwirkungspflicht, Zeitplan, interne Aufbewahrungspflichten § 25a Abs. 1 Satz 6 KWG
 - Neue Auslagerung Kernbankensystem: § 25b KWG wesentliche Funktion, MaRisk AT 9 vollständige Dokumentation, Anzeige § 24 Abs. 1 Nr. 19 KWG
 - Compliance-Mängel intern: MaRisk AT 4.4 (Compliance-Funktion), § 25a Abs. 1 Satz 6 KWG, BaFin-Anordnungsrisiko § 6 KWG
-

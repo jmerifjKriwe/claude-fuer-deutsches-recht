@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-urteil-docx
-description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Prüfraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgründe, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgründe-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
+description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Prüfraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Teno..."
 ---
 
 # Urteil rendern - DOCX und PDF im Gerichtslayout
@@ -113,4 +113,3 @@ Ersatz: BGH I ZR 90/14, GRUR 2016, 860 (verifiziert auf dejure.org)
 Thema: § 315 ZPO Verhinderungsgrund Richterunterschrift — thematisch passend
 Hinweis: BGH V ZB 68/19 (NJW 2020, 3661) in derselben Sektion ebenfalls NOT_FOUND; nicht im Bundle-Scope, zur Nachprüfung vorgemerkt.
 -->
-

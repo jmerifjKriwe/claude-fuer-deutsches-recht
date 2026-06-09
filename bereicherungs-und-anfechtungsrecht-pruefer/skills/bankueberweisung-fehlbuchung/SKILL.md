@@ -1,6 +1,6 @@
 ---
 name: bankueberweisung-fehlbuchung
-description: "Bei eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung."
+description: "Bei eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler..."
 ---
 
 # Banküberweisung, Fehlbuchung und Empfängerhorizont
@@ -85,4 +85,3 @@ Für § 818 Abs. 3 BGB immer Kontoentwicklung prüfen: Gutschrift, Abbuchungen, 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

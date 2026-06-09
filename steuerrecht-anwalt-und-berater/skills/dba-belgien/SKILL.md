@@ -165,4 +165,3 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 Stand: 05/2026. DBA-Belgien 11.04.1967 (BGBl. 1969 II S. 17/18), Zusatzabk. 05.11.2002 (BGBl. 2003 II S. 1616), Aend.-Prot. 21.01.2010 (BGBl. 2010 II S. 1279). MLI-Notifications beim OECD-Portal pruefen. Aktuelle Quellensteuer-Saetze und Pensionsregelung im konsolidierten DBA-Text pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 3 belegt (BGBl. 1969 II S. 17/18 bestaetigt; BGBl. 2003 II S. 1616 bestaetigt; Aend.-Prot. 21.01.2010 BGBl. 2010 II S. 1279 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

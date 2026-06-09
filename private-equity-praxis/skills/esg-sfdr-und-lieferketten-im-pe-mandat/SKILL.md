@@ -92,4 +92,3 @@ PAI Excuse Right (Side Letter):
 - CSDDD (RL (EU) 2024/1760).
 - ESMA Greenwashing Final Report (vom Anwender mit aktuellem Stand zu prüfen).
 - ILPA ESG Data Convergence Initiative (Stand vom Anwender zu prüfen).
-

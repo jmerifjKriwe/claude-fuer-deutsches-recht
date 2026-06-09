@@ -75,4 +75,3 @@ Foto-Shootings für Creator-Content erfordern klare Vertragsgestaltung:
 - Model-Release-Formular (DE/EN)
 - Location-Genehmigungsanfrage-Muster
 - Nutzungsrechte-Checkliste
-

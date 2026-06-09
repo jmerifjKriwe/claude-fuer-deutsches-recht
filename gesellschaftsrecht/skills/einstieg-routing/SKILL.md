@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, Aufsichtsrat), markiert Frist (Anfechtungsklage 1 Monat § 246 AktG), wählt Norm (GmbHG, AktG, HGB, BGB §§ 705 ff., UmwG, MitbestG) und Zuständigkeit (Handelsregister), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, Aufsichtsrat), markiert Frist (Anfechtungsklage 1 Monat § 246 AktG), wählt Norm (GmbHG, AktG, HGB, BGB §§ 705 ff., UmwG, MitbestG) und Zuständigkeit (Handelsregister), leitet zu..."
 ---
 
 # Einstieg und Routing
@@ -14,7 +14,7 @@ Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, 
 - `agio-und-kapitalruecklage` — Agio und Kapitalruecklage
 - `anmeldungen-verhandlung-vergleich-und-eskalation` — Anmeldungen Verhandlung Vergleich und Eskalation
 - `anpassen` — Anpassen
-- `anschluss` — Anschluss
+- `einstieg-schnelltriage-fallrouting` — Anschluss
 - `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
 - `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
 - `beirat-abgrenzung-aufsichtsrat` — Beirat Abgrenzung Aufsichtsrat
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

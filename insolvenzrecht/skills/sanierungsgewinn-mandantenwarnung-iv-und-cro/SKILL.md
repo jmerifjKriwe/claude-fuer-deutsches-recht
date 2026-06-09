@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-mandantenwarnung-iv-und-cro
-description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf im Insolvenzrecht."
+description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 O..."
 ---
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner
@@ -182,4 +182,3 @@ Mit freundlichen Gruessen
 - Paragraph 130 OWiG, `gesetze-im-internet.de/owig_1968/__130.html`.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation ueber `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

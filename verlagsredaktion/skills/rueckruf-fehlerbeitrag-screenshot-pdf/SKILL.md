@@ -164,4 +164,3 @@ Mit freundlichen Gruessen
 - DDG § 7 i.V.m. DSA Art. 4-8 - beschraenkte Verantwortlichkeit Diensteanbieter; § 7 Abs. 2 DDG - WLAN-Sondervorschrift; DDG § 8 Abs. 1 - Sperrungsanspruch nur gegen Uebermittlungs-/Zugangsdiensteanbieter (Mere Conduit), nicht gegen Hosting oder Datenbankanbieter.
 - UWG §§ 5, 5a - Irrefuehrung.
 - Aktuelle BVerfG-Rechtsprechung zur Abwaegung Meinungsfreiheit/Persoenlichkeitsrecht (bundesverfassungsgericht.de).
-

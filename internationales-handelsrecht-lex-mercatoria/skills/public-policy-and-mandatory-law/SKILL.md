@@ -1,6 +1,6 @@
 ---
 name: public-policy-and-mandatory-law
-description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public im Internationales Hande..."
 ---
 
 # Ordre Public und Eingriffsnormen
@@ -48,4 +48,3 @@ Ordre public und Eingriffsnormen sind Ausnahmen von der Parteiautonomie. Eingrif
 - Ordre-public-Test: offensichtliche Unvereinbarkeit — kein bloßer Unterschied zum nationalen Recht
 - Eco Swiss: EU-Kartellrecht im Schiedsantrag als Gegenargumentation nutzen
 - NY Convention: Vollstreckungsvorbehalt als letztes Mittel — Angriff auf Award inhaltlich kostspielig
-

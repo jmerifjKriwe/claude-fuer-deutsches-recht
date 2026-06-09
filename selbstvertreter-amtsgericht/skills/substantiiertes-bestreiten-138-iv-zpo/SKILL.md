@@ -145,4 +145,3 @@ Wer bestreitet, muss in der Regel **nicht** beweisen — der Klaeger ist beweisp
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 138 ZPO unveraendert. BGH-Rechtsprechung zur sekundaeren Darlegungslast in Einzelfaellen verifizieren.
-

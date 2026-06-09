@@ -60,4 +60,3 @@ description: "Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigu
 - workflow-fristen-ruecktritt-kuendigung
 - bt-vertragsentwurf-modellvertrag
 - schnittstelle-bgb-at-methodenlehre-agb
-

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-loeschpflicht-art-17-aufbewahrung
-description: "Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis)."
+description: "Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pausch..."
 ---
 
 # Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
@@ -107,4 +107,3 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 - EuGH C-129/21 Proximus, Urteil 27.10.2022.
 - EuGH C-460/20 Google, Urteil 08.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

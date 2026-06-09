@@ -1,6 +1,6 @@
 ---
 name: verwirkung
-description: "Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung im Handelsvertreterrecht."
+description: "Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung im Handelsvertret..."
 ---
 
 # Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure § 242 BGB](https://dejure.org/gesetze/BGB/242.html)
-

@@ -63,4 +63,3 @@ Der Zahler muss substantiiert vortragen:
 
 ## Trade-off
 Die Beweislastverteilung ist gesetzlich verbraucherfreundlich. In der Praxis schiebt die Bank die "grobe Fahrlässigkeit" trotzdem oft als Verteidigung vor; Schlichtungsstellen verlangen meist konkrete Tatsachen statt pauschaler Behauptungen. Substantiierter Anfangsvortrag öffnet die Tür zur Erstattung.
-

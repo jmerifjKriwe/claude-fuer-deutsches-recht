@@ -1,6 +1,6 @@
 ---
 name: competition-litigation-programm-mittelstand
-description: "Kartellprozess Strategie: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Kartellprozess Strategie: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung..."
 ---
 
 # Kartellprozess Strategie
@@ -33,4 +33,3 @@ description: "Kartellprozess Strategie: Fachmodul für großes Kartellrecht mit 
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

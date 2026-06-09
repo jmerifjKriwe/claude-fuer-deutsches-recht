@@ -48,4 +48,3 @@ GmbHG, HGB, BGB, PartGG, GenG, AktG, GwG, GewO, AO/UStG, SGB IV/SGB VII, InsO §
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
 - Bei Notar-, Steuer-, Erlaubnis-, Sanktions-, Geldwäsche- oder Insolvenzthemen nicht beschwichtigen, sondern die nächste fachkundige Schnittstelle benennen.
-

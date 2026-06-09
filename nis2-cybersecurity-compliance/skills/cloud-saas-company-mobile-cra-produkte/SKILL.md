@@ -54,4 +54,3 @@ Erzeuge bevorzugt: Slack-Rollout-Freigabevermerk. Wenn der Nutzer nur eine Kurza
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
-

@@ -1,6 +1,6 @@
 ---
 name: erbsch-betriebsvermoegen-13a-13b
-description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermögenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg."
+description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verscho..."
 ---
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG
@@ -42,4 +42,3 @@ description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betrieb
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

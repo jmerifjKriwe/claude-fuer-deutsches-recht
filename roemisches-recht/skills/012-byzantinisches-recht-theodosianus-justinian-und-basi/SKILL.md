@@ -59,4 +59,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Kodifikation?
 2. Welches Jahrhundert?
 3. Rezeptionsweg?
-

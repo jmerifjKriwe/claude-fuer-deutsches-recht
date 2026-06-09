@@ -1,6 +1,6 @@
 ---
 name: klare-bitte-formulieren
-description: "Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für Mahnungen mit Fristsetzung (frist-und-mahnung-hoeflich)."
+description: "Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für..."
 ---
 
 # Klare Bitten formulieren
@@ -56,4 +56,3 @@ Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht "bald"), reali
 
 **Vorher:** "Das ist Ihre Pflicht, das zu tun!"
 **Nachher:** "Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
-

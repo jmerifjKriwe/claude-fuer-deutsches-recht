@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - § 43a Abs. 6 BRAO
 - § 15 FAO (Fachanwaltsfortbildung)
 - § 43c BRAO
-

@@ -1,6 +1,6 @@
 ---
 name: china-electronics-and-semiconductors-medical
-description: "Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad im Festlandchina Wirtschaftsverkehr."
+description: "Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Hal..."
 ---
 
 # Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

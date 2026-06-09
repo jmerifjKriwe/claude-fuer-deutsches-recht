@@ -103,4 +103,3 @@ Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termi
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
-

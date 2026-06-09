@@ -92,4 +92,3 @@ Long Covid und Post-Vac-Syndrom stellen **neue Beweisherausforderungen** im Kran
 - [BSG Kausalitätslehre](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 44 SGB V](https://dejure.org/gesetze/SGB_V/44.html)
 - [WHO Long Covid Definition](https://www.who.int/publications/i/item/9789240025035)
-

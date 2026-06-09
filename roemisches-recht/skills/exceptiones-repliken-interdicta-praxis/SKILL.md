@@ -66,4 +66,3 @@ Exceptiones sind Einreden des Beklagten, die in die Formel aufgenommen werden un
 - D. 44.1 (De exceptione rei iudicatae) und D. 44.4 (De doli mali exceptione)
 - Kaser/Hackl Zivilprozessrecht §§ 44-55
 - Lenel Edictum Perpetuum (Einredenabschnitt)
-

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-rechtsanwendung-subsumtion
-description: "Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung von materiell-rechtlicher Prüfung und prozessrechtlichen Beweisanforderungen, sodass eine anwaltliche Position von Anfang an beweiskräftig aufgebaut wird."
+description: "Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung v..."
 ---
 
 # Rechtsanwendung: Tatbestand, Beweis und Belege
@@ -81,4 +81,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

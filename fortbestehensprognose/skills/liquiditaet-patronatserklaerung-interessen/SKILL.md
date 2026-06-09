@@ -40,4 +40,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **13-Wochen-Planung (rollierend):** Operativer Standard für Sanierungsfälle; Anfangsbestand + Einzahlungen − Auszahlungen = Endbestand je Woche, Salden ≥ 0.
 - **Stresstest-Vorgaben:** Mindestens Base und Stress (z. B. −20 % Umsatz, −10 Tage Forderungslaufzeit, −10 % Zahlungsmoral); zusätzlich Worst Case bei abhängigen Großkunden.
 - **Trade-off:** Reine Stichtagsbetrachtung übersieht zeitliche Lücken; reine Rollplanung übersieht stille Reserven und Mobilisierungspotential — daher beide nebeneinander.
-

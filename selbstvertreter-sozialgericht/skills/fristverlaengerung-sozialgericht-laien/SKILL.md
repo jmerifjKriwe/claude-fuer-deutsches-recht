@@ -110,4 +110,3 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
-

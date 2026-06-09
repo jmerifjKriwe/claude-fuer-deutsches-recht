@@ -58,4 +58,3 @@ Erzeuge drei Ebenen:
 ## Arbeitsregel
 
 Wenn ein echter Kalenderzugriff vorhanden ist, nur nach ausdrücklichem Auftrag Termine anlegen. Sonst eine exportierbare Liste im Klartext liefern.
-

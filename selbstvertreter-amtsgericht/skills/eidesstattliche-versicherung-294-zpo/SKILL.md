@@ -129,4 +129,3 @@ E. V. ist haeufig die einfachste Form.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
-

@@ -167,4 +167,3 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 - BGH I ZR 82/99
 - BGH I ZR 20/07
 - BGH X ZR 171/12
-

@@ -1,6 +1,6 @@
 ---
 name: quellensteuer-50a-estg
-description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und muss Steuer einbehalten. Behandelt Schuldner Glaeubiger Bemessungsgrundlage Bruttoabzug 15 Prozent bzw. 30 Prozent Erstattung nach § 50c EStG und DBA-Bezug. Output Pruefraster und Antragsmuster Freistellungsbescheinigung. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd."
+description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und mus..."
 ---
 
 # Quellensteuer bei beschraenkter Steuerpflicht — § 50a EStG
@@ -42,4 +42,3 @@ description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tat
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

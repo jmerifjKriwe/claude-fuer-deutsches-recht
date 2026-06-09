@@ -92,4 +92,3 @@ Ausnahme: § 43 Abs. 2 GwG – Notar darf Meldung nicht erstatten, wenn dadurch 
 - **Meldungshinweis an FIU** (bei Verdacht, ohne Inhaltsangabe an Mandant)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

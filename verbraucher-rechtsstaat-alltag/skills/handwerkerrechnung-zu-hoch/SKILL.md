@@ -65,4 +65,3 @@ Erzeuge Rechnungsprüfblatt, Nachforderungsmail, Mängelanzeige, Zurückbehaltun
 
 - War es Notdienst, Angebot, Auftrag, Nachtrag?
 - Gibt es Abnahme oder Nutzung?
-

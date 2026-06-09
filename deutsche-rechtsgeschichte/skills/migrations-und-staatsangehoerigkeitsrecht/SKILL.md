@@ -46,4 +46,3 @@ Das Staatsangehoerigkeitsrecht ist ein zentrales Instrument staatlicher Identita
 - StAG 2000: gesetze-im-internet.de
 - GG Art. 116: gesetze-im-internet.de; BVerfGE dazu: bverfg.de
 - BVFG: gesetze-im-internet.de
-

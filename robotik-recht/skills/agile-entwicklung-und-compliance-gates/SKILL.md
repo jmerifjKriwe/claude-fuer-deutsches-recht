@@ -114,4 +114,3 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 - DSGVO Art. 25, 32, 35.
 - ISO 12100; ISO 13849-1; ISO 10218-1/-2; ISO/TS 15066; ISO/IEC 42001:2023.
 - Live-Verifikation auf eur-lex.europa.eu und beim BSI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

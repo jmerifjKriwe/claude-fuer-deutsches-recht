@@ -191,4 +191,3 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 - assets/templates/handelsregister-corporate-housekeeping.md
 - assets/templates/closing-deliverables-register.md
-

@@ -189,4 +189,3 @@ Ich bitte den Einzelrichter, ...
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
-

@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online-mobiliar-gv
-description: "Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter im Zwangsvollstreckung."
+description: "Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antr..."
 ---
 
 # Mahnbescheid online
@@ -134,4 +134,3 @@ Privatperson oder Vereine ohne beA: über das Online-Portal anlegen, dann ausdru
 - Verbraucherdarlehen mit überhöhtem Zinssatz – Mahnverfahren unzulässig.
 - Anspruchsbezeichnung muss eindeutig sein – sonst keine Verjährungshemmung.
 - Bei Auslands-Schuldner ist Mahnverfahren oft nicht zulässig oder Europäisches Mahnverfahren (EuMahnVO) statt deutsches Mahnverfahren.
-

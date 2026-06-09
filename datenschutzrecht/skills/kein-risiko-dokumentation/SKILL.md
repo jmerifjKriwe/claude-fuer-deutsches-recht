@@ -1,6 +1,6 @@
 ---
 name: kein-risiko-dokumentation
-description: "Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der Nichtmeldung; Risikoabwägung mit Faktoren; Aufbewahrungsfristen; Vorlage für Aufsichtsbehörde auf Anforderung. Output: vollständige Dokumentationsvorlage. Abgrenzung: keine Behördenmeldung; keine Benachrichtigung."
+description: "Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der N..."
 ---
 
 # Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO
@@ -46,4 +46,3 @@ Art. 33 Abs. 5; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 85.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch für gemeldete Faelle ab.
-

@@ -13,14 +13,14 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Sportrecht** tragende Normen,
 
 - `allgemein-workflow-chronologie-workflow-fristen`
 - `cas-berufung-erstgespraech-mandatsannahme-doping-cas`
-- `dosb-fachanwalt-fifa`
+- `dosb-behoerden-gericht-und-registerweg`
 - `fachanwalt-sportrecht-athletenvertrag-fristennotiz`
 - `fachanwalt-sportrecht-sportr-athletenvertrag-esports`
 - `gesellschaftsrecht-beweislast-mandat-nada-interessen`
 - `mandat-triage-schriftsatzkern-substantiierung-code`
 - `orientierung-stadion-hausverbot-vereinsstrafrecht`
 - `persoenlichkeitsrechte-schnittstelle-mandantenentscheidung`
-- `sponsoring-sportr-sonderfall-sportrecht`
+- `sponsoring-internationaler-bezug-und-schnittstellen`
 - `sportr-arbeitsrecht-sport-einfuehrung-rechtsfelder`
 - `sportr-stadionverbot-sportr-stadionverbot-verbandsstrafe`
 

@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsrecht-personal
-description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster."
+description: "Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quelle..."
 ---
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermoegen
@@ -50,4 +50,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

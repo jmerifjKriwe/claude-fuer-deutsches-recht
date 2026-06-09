@@ -68,4 +68,3 @@ description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rückt
 - https://www.gesetze-im-internet.de/bgb/__323.html
 - https://www.gesetze-im-internet.de/bgb/__346.html
 - https://www.gesetze-im-internet.de/bgb/__314.html
-

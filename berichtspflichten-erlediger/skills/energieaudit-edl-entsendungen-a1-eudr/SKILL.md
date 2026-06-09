@@ -29,4 +29,3 @@ description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umse
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

@@ -62,4 +62,3 @@ Eine rechtshistorische Timeline stellt die Entwicklung eines Rechtsproblems, Rec
 - Entscheidungen: bverfg.de, bgh.de, bverwg.de
 - Jedes Element: Datum, Normbezeichnung, Fundstelle
 - Kritische Wendepunkte: Erklaerender Zusatz
-

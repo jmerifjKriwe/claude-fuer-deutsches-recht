@@ -197,4 +197,3 @@ REGISTER
 
 - assets/templates/kg-checkliste-einlage-vertretung.md
 - assets/templates/kommanditisten-abtretungsvertrag.md
-

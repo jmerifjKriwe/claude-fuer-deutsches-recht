@@ -1,6 +1,6 @@
 ---
 name: praezedenz-distinguishing-overruling-deutsch
-description: "Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen."
+description: "Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist...."
 ---
 
 # Präzedenz, Distinguishing und Overruling im deutschen Recht
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

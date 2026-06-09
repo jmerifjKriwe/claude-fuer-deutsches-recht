@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs
-description: "Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgre..."
 ---
 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle
@@ -47,4 +47,3 @@ Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsno
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

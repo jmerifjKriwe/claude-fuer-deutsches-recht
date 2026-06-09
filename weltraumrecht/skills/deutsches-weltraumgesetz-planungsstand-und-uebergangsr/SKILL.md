@@ -110,4 +110,3 @@ Dieser Skill bearbeitet **Deutsches Weltraumgesetz: Planungsstand und Übergangs
 - EU Space Programme Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - BAFA Exportkontrolle: https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/exportkontrolle_node.html
 - ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
-

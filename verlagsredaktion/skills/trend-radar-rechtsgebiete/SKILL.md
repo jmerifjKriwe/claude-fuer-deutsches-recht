@@ -102,4 +102,3 @@ Programm-Empfehlung:
 - Bundesregierung Vorhabenplaner, [https://www.bundesregierung.de](https://www.bundesregierung.de).
 - AI Act, VO (EU) 2024/1689, [https://eur-lex.europa.eu/eli/reg/2024/1689/oj](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
-

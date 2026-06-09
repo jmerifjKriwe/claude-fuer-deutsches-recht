@@ -91,4 +91,3 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BGH Zwangsversteigerung Schiff: https://www.bgh.de
-

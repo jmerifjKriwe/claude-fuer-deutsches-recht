@@ -66,4 +66,3 @@ Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (P
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. KfW-Konditionen und KfW 455-B-Status über kfw.de live prüfen — Zinssätze und Programm-Verfügbarkeit ändern sich monatlich. § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html, § 33b EStG über https://www.gesetze-im-internet.de/estg/__33b.html live verifizieren. BAFA-Richtlinien über bafa.de abrufen.
-

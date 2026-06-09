@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-industrieanlage-medien
-description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration für Instandhaltungsbeauftragten im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unter..."
 ---
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)
@@ -83,4 +83,3 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 - [PED 2014/68/EU Druckgeraete](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0068)
 - [DVGW W 400 Trinkwasser](https://www.gesetze-im-internet.de/)
 - [DIN EN 60079-14 ATEX Elektro](https://www.gesetze-im-internet.de/)
-

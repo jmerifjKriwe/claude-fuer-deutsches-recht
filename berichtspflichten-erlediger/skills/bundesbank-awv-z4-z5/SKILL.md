@@ -28,4 +28,3 @@ description: "Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs-
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-

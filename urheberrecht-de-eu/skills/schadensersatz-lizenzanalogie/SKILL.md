@@ -81,4 +81,3 @@ Konkret zu prüfen:
 - § 32a UrhG (Bestseller-Paragraph)
 - § 97 Abs. 2 UrhG (Schadensersatz)
 - Lizenzanalogie/dreifache Schadensberechnung
-

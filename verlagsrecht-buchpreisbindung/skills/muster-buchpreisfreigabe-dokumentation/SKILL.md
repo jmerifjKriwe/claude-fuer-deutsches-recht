@@ -210,4 +210,3 @@ Preisaufhebung erklärt: □ Ja, Datum: [___] □ Nein, weiter auf anderer Platt
 - E-Book-Plattform-Preisbindungsprotokoll
 - Checkliste Preisbindungs-Compliance (jährliche Revisionskontrolle)
 - Ausnahmen-Belegliste nach § 6 BuchPrG
-

@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Ausländischer office holder im Grundbuch:** § 29 GBO bleibt der Engpass. Bei ausländischen Verfahren zusätzlich § 346 InsO prüfen: Insolvenzgericht kann auf Antrag des ausländischen Insolvenzverwalters das Grundbuchamt um Eintragung der Verfahrenseröffnung und Verfügungsbeschränkung ersuchen; § 347 InsO liefert den Nachweismaßstab für Bestellung und Übersetzung.
 - **Praxis:** Eröffnungsbeschluss enthält Aktenzeichen, Verwalter, Anmeldefristen und Termine — immer vollständig auswerten und in Akte ablegen.
 - **Anschluss-Skills:** `internationales-insolvenzrecht-drittstaaten-inzidentpruefung`, `auslaendischer-insolvenzverwalter-register-und-grundbuch`.
-

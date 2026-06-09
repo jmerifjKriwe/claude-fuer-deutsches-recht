@@ -154,4 +154,3 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 - `workflow-kaltstart-und-routing` – Kaltstart-Router
 - `allgemein` – Plugin-Übersicht
-

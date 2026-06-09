@@ -1,6 +1,6 @@
 ---
 name: retention-of-title-international
-description: "Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA) im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA) im Internationales Handelsrecht Lex Me..."
 ---
 
 # Eigentumsvorbehalt International
@@ -52,4 +52,3 @@ Der Eigentumsvorbehalt (EV) ist das wichtigste Kreditsicherungsmittel des deutsc
 ## Quellenregel
 
 BGB §§ 449, 138: gesetze-im-internet.de. UCC Art. 9: uniform.law.cornell.edu (US). CISG Art. 4: uncitral.un.org. Schrifttum: Staudinger/Beckmann, BGB § 449 (2020). Unsicherheit bleibt sichtbar.
-

@@ -1,6 +1,6 @@
 ---
 name: auswahlgespraech-dokumentationspflicht
-description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag im Beamtenrecht."
+description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueb..."
 ---
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler
@@ -69,4 +69,3 @@ Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 ## 7. Beispiel (Kurzfassung)
 
 Konkurrentensituation um A15-Stelle. Auswahlgespraech entscheidet, da Beurteilungen gleich. Mandant ruegt: unterschiedliche Fragenkataloge, kein Protokoll, Kommissionsmitglied war im Vorjahr Vorgesetzter der Konkurrentin. Skill liefert Anordnungsanspruch für einstweilige Anordnung.
-

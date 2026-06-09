@@ -1,6 +1,6 @@
 ---
 name: pruefentscheidung
-description: "Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176 im Insolvenzforderungsanmeldungspruefung."
+description: "Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraste..."
 ---
 
 # Prüfentscheidung treffen
@@ -67,4 +67,3 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

@@ -77,4 +77,3 @@ Dieser Dokumenten-Intake für **Subsumtions Prüfer** ordnet Anlagen, Registerda
 - BGH VI ZR 188/17
 - BGH VI ZR 26/21
 - BGH VI ZR 290/18
-

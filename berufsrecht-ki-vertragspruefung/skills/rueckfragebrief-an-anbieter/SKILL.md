@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-an-anbieter
-description: "Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. Klare praezise Fragen die der Anbieter beantworten kann."
+description: "Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klaerung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. K..."
 ---
 
 # Rückfragebrief an Anbieter
@@ -149,4 +149,3 @@ Wir bitten um Beantwortung in Textform.
 Mit freundlichen Gruessen
 [UNTERSCHRIFT]
 ```
-

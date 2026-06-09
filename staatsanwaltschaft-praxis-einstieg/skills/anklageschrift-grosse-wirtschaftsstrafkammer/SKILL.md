@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - § 74c GVG (Wirtschaftsstrafkammer)
 - § 76 GVG (Besetzung)
 - § 200 StPO (Anklage bei Komplexverfahren)
-

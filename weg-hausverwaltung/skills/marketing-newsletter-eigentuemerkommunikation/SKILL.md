@@ -56,4 +56,3 @@ Pflicht-E-Mails (Einladung, Protokoll) dürfen keinen Werbeteil enthalten, der e
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 7 UWG über https://www.gesetze-im-internet.de/uwg_2004/__7.html, § 34d GewO über https://www.gesetze-im-internet.de/gewo/__34d.html und § 25 TDDDG live verifizieren.
-

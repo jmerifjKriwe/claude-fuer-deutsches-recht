@@ -1,6 +1,6 @@
 ---
 name: verfahrenschronologie
-description: "Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen werden optisch hervorgehoben. Fundstellen werden angegeben. Normen §§ 222 517 520 ZPO Fristberechnung im Aktenauszug Gerichtsverfahren."
+description: "Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen werden optisch hervorgehoben. Fundstellen werden angegeben. Normen §§ 222 517 5..."
 ---
 
 # Verfahrenschronologie
@@ -110,4 +110,3 @@ Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als 
 - [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
 
 ---
-

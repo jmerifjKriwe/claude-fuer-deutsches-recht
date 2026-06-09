@@ -60,4 +60,3 @@ description: "Prüft Darlehensvertrag §§ 488 ff. BGB, Verbraucherdarlehen §§
 - buergschaft-grundschema-paragraph-765
 - schnittstelle-bgb-at-methodenlehre-agb
 - workflow-livequellen-rechtsstand
-

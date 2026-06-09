@@ -1,6 +1,6 @@
 ---
 name: systemwechsel-und-methodenakrobatik
-description: "Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen."
+description: "Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdec..."
 ---
 
 # Systemwechsel und Methodenakrobatik in der Rechtsanwendung
@@ -80,4 +80,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

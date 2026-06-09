@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-begruendung-und-verteidigung
-description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Kurzfassung, Langfassung und Red-Team."
+description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Ku..."
 ---
 
 # Plädoyer, Begründung und Verteidigung der Forschungszulage
@@ -201,4 +201,3 @@ Prüfe vor jeder Ausgabe:
 - BSFZ-Antragsverfahren: https://www.bescheinigung-forschungszulage.de/antragsverfahren/ueber-das-antragsverfahren
 - BSFZ steuerliches Investitionssofortprogramm: https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm
 - `references/forschungszulage-quellen-und-zahlen.md`
-

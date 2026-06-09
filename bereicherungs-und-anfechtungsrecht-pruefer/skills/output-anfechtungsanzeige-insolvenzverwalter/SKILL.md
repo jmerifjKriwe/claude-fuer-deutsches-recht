@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsanzeige-insolvenzverwalter
-description: "Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erstellen: Rückgewähr nach §§ 129 ff. und § 143 InsO, Tatbestand transaktionsscharf benennen, § 142- und § 144-Hinweise, Zinsen nur bei Verzug oder § 291 BGB, Verjährung § 146 InsO beachten. Output: bestimmtes, beleggebundenes Musterschreiben."
+description: "Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erstellen: Rückgewähr nach §§ 129 ff. und § 143 InsO, Tatbestand transaktionsscharf benennen, § 142- und § 144-Hinweise, Zinsen nur bei Verzug oder § 291 BGB, Verjährung § 146 InsO beachten. Output: bestimmtes, beleggebundenes Mustersch..."
 ---
 
 # Output: Anfechtungsanzeige des Insolvenzverwalters
@@ -90,4 +90,3 @@ Mit freundlichen Grüßen
 ---
 
 Hinweis: Keine Rechtsberatung. Dieses Muster ist eine Arbeitsvorlage und muss an Akte, Norm und Prozessziel angepasst werden.
-

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung-verhandlung-vergleich-eskalation
-description: "Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess."
+description: "Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich fo..."
 ---
 
 # Auslegung, Verhandlung, Vergleich und Eskalation
@@ -82,4 +82,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

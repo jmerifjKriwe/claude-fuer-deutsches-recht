@@ -41,4 +41,3 @@ VVG §§ 43–48, 44, 45; BGB Abtretung/Einziehung; ZPO Prozessführungsbefugnis
 
 - transportversicherung-ware-lagerung
 - direktanspruch-pflichtversicherung-115-vvg
-

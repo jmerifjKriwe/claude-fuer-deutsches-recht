@@ -74,4 +74,3 @@ Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
 - Modifizierte Unterlassungserklärung
 - Verteidigungsschreiben bei Abmahnung
 - Systematik-Audit: Alle Posts auf Schleichwerbung prüfen
-

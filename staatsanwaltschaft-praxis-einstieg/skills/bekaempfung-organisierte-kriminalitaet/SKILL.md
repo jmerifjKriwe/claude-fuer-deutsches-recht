@@ -33,4 +33,3 @@ Konkret zu prüfen:
 - § 129a StGB (terroristische Vereinigung)
 - §§ 100a-100c StPO (TKÜ, akustische Wohnraumüberwachung)
 - BVerfGE 109, 279
-

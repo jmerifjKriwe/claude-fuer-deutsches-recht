@@ -15,4 +15,3 @@ LausitzStorage als hypothetisches DD-Target: 28 Reiter-1-Eintraege werden gegen 
 - DD-Index als Reiter 1 mit Cluster-Gliederung
 - Findings-Tabelle im Workflow-Reiter mit Closing- vs. Reporting-Klassifizierung
 - Vergleichsmemo Verkaeufer-Disclosure gegen Datenraum
-

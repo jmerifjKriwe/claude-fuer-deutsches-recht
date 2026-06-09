@@ -41,4 +41,3 @@ VVG Schadenversicherung; AVB Warenkredit; InsO; HGB; Factoringvertrag.
 
 - kreditversicherung-obliegenheiten-limit-pruefung
 - restschuldversicherung-widerruf-kopplung-verbraucherdarlehen
-

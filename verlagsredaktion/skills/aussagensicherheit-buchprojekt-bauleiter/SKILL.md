@@ -107,4 +107,3 @@ Bitte um Rueckmeldung bis 16.06.2026.
 - DSGVO Art. 6, Art. 9, [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
 - KUG § 22 (Bildnisschutz).
 - Pressekodex Ziff. 1, 2, 9, [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
-

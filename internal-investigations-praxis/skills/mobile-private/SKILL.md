@@ -83,4 +83,3 @@ Dieser Skill stellt sicher, dass Mobile-Device-Daten rechtssicher gesichert werd
 - **DSGVO-Filterkonzept** für private Daten auf Unternehmensgeräten
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

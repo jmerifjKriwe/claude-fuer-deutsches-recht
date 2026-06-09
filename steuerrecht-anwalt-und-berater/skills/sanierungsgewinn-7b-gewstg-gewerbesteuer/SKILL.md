@@ -160,4 +160,3 @@ Gewerbeverlust verbraucht
 - § 3a Abs. 1, 4 EStG (Verweis).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
-

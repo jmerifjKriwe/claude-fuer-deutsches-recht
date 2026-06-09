@@ -1,6 +1,6 @@
 ---
 name: familienagentur
-description: "Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und Erbrecht im Handelsvertreterrecht."
+description: "Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und E..."
 ---
 
 # Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [§ 705 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__705.html)
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
-

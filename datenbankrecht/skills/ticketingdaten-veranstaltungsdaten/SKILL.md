@@ -1,6 +1,6 @@
 ---
 name: ticketingdaten-veranstaltungsdaten
-description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten im Datenbankrecht."
+description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet..."
 ---
 
 # Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattf
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-

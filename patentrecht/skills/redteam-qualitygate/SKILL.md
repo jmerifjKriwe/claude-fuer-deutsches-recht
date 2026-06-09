@@ -36,4 +36,3 @@ description: "Red-Team- und Qualitätsgate für patentrechtliche Outputs: prüft
 - **DPMA-Registerstand abrufbar:** Datum des Abrufs in jeder Aussage festhalten.
 - **Erfinderbenennung § 37 PatG:** richtig benannt? Sonst Vindikationsanspruch § 8 PatG.
 - **Strategische Falle:** "Hat man auch an Vorbenutzungsrecht § 12 PatG gedacht?" — oft Schlüssel bei Verletzung gegen langjährig benutzte Lehre.
-

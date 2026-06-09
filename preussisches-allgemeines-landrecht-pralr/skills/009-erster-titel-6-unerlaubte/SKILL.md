@@ -1,6 +1,6 @@
 ---
 name: 009-erster-titel-6-unerlaubte
-description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welc..."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen
@@ -58,4 +58,3 @@ ALR I 6 ist die Heimat des Delikts- und Schadensersatzrechts vor dem BGB. Es kom
 1. Vorsatz oder welche Form der Fahrlaessigkeit? — ALR I 6 §§ 10-12.
 2. Sonderdelikt oder Generalklausel? — Reihenfolge: spezielle Norm vor Generalklausel.
 3. Heute lebender Sachverhalt? — direkt zu BGB §§ 823 ff. mit ALR nur als rechtsgeschichtlicher Hintergrund.
-

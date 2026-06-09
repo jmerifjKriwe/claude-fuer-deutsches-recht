@@ -128,4 +128,3 @@ Der **Titelschutz** schützt die Bezeichnung eines Werks, einer Reihe oder einer
 - **Titelschutzanzeige-Entwurf** für Börsenblatt
 - **Abmahnungsentwurf** bei fremder Titelnutzung
 - **Verteidigungsschrift** gegen Titelschutz-Abmahnung
-

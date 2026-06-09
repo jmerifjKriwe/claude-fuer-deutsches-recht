@@ -1,6 +1,6 @@
 ---
 name: insolvenz-vertreter-internationales-rom
-description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters im Handelsvertreterrecht."
+description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertret..."
 ---
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [§ 851 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__851.html)
 - [§ 91 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__91.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
-

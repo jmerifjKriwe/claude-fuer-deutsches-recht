@@ -234,4 +234,3 @@ Mit freundlichen Grüßen
 - **Template nie ungeprüft verwenden**: Alle Templates sind Mustertexte, die auf den Einzelfall angepasst werden müssen. Fristen, Namen und Daten sind zwingend zu ergänzen.
 - **Mandantenbrief ≠ Rechtsgutachten**: Die Mandantenbriefe ersetzen keine vollständige rechtliche Beratung. Bei komplexen Sachverhalten ist ein ausführlicheres Beratungsschreiben erforderlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

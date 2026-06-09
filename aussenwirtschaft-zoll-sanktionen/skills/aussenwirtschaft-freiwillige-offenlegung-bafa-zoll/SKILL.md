@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-freiwillige-offenlegung-bafa-zoll
-description: "Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigens..."
 ---
 
 # Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Exportkontrolle Verstoss](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
 - [AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/index.html)
 - [Zoll.de Zollrecht und Strafrecht](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollkodex/zollkodex_node.html)
-

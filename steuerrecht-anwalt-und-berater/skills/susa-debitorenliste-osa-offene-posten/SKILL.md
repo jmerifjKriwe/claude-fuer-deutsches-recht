@@ -119,4 +119,3 @@ Stand: 05/2026.
 - IDW PS 480.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BMF-Hinweis ohne Marker neu formuliert) -->
-

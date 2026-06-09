@@ -37,4 +37,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Methodenlehre**: Bei Auslegungsfragen die vier Auslegungsmethoden (Wortlaut, Systematik, Historie, Telos) und verfassungs-/unionsrechtskonforme Auslegung sichtbar gemacht?
 - **Keine erfundenen Aktenzeichen**: Jede BGH/BVerfG/EuGH-Stelle entweder mit verifiziertem Az. oder als "ständige Rspr." markiert.
 - Falle: Vorrang prüfen vergessen (z. B. § 993 BGB sperrt § 823 BGB nicht, aber § 281 vs § 280 I).
-

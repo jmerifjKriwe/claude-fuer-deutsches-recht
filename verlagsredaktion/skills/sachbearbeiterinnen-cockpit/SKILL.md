@@ -49,4 +49,3 @@ Verarbeite Mails, Dateiordner, Tabellen, Notizen oder Chatverläufe zu einer Tag
 - Ist der Text für den konkreten Kanal verwendbar?
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
-

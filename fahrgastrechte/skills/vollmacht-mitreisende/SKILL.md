@@ -1,6 +1,6 @@
 ---
 name: vollmacht-mitreisende
-description: "Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde Reisegruppe) damit ein Hauptansprechpartner deren Fahrgastrechte-Anspruch im Schriftverkehr Schlichtungs- und Gerichtsverfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmacht Untervollmacht. Bei minderjaehrigen Kindern Sondervorlage mit Erziehungsberechtigten. Datenschutzhinweis Art. 13 DSGVO. Versandentwurf an die Mitreisenden zur Unterschrift."
+description: "Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde Reisegruppe) damit ein Hauptansprechpartner deren Fahrgastrechte-Anspruch im Schriftverkehr Schlichtungs- und Gerichtsverfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmac..."
 ---
 
 # Vollmacht für Mitreisende
@@ -141,4 +141,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
 - Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
 - Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung in Forderungs-, Schlichtungs- und Klageverfahren.
-

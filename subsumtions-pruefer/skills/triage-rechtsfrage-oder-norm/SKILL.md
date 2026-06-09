@@ -107,4 +107,3 @@ Wichtige Fristen in Ihrem Fall:
 
 Bitte bestätigen Sie, dass ich den Sachverhalt richtig erfasst habe.
 ```
-

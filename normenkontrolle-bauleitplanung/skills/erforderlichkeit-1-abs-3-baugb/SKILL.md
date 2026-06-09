@@ -143,4 +143,3 @@ description: "Prüfungslinie für erforderlichkeit 1 abs 3 baugb im Normenkontro
 ## Ergänzende Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

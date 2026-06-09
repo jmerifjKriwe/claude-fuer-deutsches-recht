@@ -1,6 +1,6 @@
 ---
 name: bmf-haushalts-und-zuwendungsrecht
-description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
+description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO;..."
 ---
 
 # Haushaltsrecht und Zuwendungen (BMF)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

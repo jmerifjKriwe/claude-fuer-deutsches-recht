@@ -157,6 +157,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `vorstand-ciso-kaltstart` | Führt Vorstand und CISO durch den ersten strukturierten Cyber-Compliance-Kaltstart. |
 | `vpn-ausland-reisen` | Prüft Reisen, Auslandszugriffe und Hochrisikoländer im Nis2 Cybersecurity Compliance. |
 | `vulnerability-management` | Baut Vulnerability-Management mit Priorisierung und Nachweis im Nis2 Cybersecurity Compliance. |
-| `wifi-gaestenetz` | Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecurity Compliance. |
+| `wifi-gaestenetz` | Prüft WLAN, Gästezugang und Segmentierung: Prüft WLAN, Gästezugang und Segmentierung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

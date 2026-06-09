@@ -75,4 +75,3 @@ Dieser Dokumenten-Intake für **Jurastudium** ordnet Anlagen, Registerdaten, Kor
 ### Leitentscheidungen
 
 - BGH VI ZR 116/12
-

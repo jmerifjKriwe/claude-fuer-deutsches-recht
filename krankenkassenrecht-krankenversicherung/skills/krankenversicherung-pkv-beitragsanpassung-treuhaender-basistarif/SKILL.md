@@ -90,4 +90,3 @@ PKV-Beiträge werden regelmäßig erhöht. Dieser Skill prüft, ob **Beitragsanp
 - [§ 157 VAG – Treuhänder](https://www.gesetze-im-internet.de/vag_2016/__157.html)
 - [dejure.org § 203 VVG](https://dejure.org/gesetze/VVG/203.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
-

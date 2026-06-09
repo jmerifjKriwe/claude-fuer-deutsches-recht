@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-myanmar
-description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-Screening und Pruefungsvermerk im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-..."
 ---
 
 # Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren
@@ -75,4 +75,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [EU Sanctions Map Myanmar](https://www.sanctionsmap.eu/#/main/details/25)
 - [BAFA Myanmar-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

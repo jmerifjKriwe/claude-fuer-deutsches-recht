@@ -131,4 +131,3 @@ Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
-

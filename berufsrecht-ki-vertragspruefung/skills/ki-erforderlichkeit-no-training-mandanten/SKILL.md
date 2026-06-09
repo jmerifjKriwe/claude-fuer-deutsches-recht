@@ -36,4 +36,3 @@ Nutze diese Logik, ohne Scheinsicherheit:
 - "Freigegeben für Mandatsdaten der Klasse X nach Toolfreigabe und §-43e-Vertrag."
 - "Nur nach Mandanteninformation/Einwilligung."
 - "Nicht freigegeben, weil Training/Telemetrie/Subunternehmer/Drittstaat ungeklärt."
-

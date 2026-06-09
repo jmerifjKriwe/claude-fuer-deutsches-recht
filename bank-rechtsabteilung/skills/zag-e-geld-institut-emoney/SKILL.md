@@ -46,4 +46,3 @@ Dieser Skill prüft das E-Geld-Geschäft nach ZAG: ob ein Produkt E-Geld im Sinn
 - Crypto-Stablecoin (EUR-backed): MiCAR Art. 48 ff. EMT-Regime statt ZAG; BaFin-Abstimmung empfehlen
 - Mobile-Wallet mit E-Geld-Funktion: § 11 ZAG Erlaubnis, § 23a ZAG wenn Vertrieb über Agenten, § 16 Sicherung pro App-Nutzer
 - Rücktauschverweigerung durch Institut: § 11a ZAG, zivilrechtlicher Anspruch des Inhabers; BaFin-Beschwerdeweg
-

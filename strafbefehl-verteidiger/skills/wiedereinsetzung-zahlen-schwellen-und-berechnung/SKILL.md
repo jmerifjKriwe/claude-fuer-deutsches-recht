@@ -69,4 +69,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rร
  nachgeholt.
  ```
 - **Praxis-Tipp:** Bei Zustellungsdefekten **Heilung ยง 189 ZPO** pruefen (Zustellung gilt zum tatsaechlichen Zugangsdatum als bewirkt - was die ggf. spaetere Fristberechnung beeinflusst).
-

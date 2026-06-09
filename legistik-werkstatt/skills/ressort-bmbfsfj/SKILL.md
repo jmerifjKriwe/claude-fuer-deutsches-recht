@@ -1,6 +1,6 @@
 ---
 name: ressort-bmbfsfj
-description: "Heranfuehrung Ressort BMBFSFJ (Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend). Schwerpunkt: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren. Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG. Fuenf Spezialfelder: schul-und-berufsbildungsrecht; kinder-und-jugendhilferecht-sgb-viii; familien-und-elterngeldrecht; gleichstellungs-und-antidiskriminierungsrecht; senioren-und-pflegevorbeugungsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmbfsfj und legw-bmbfsfj-Themenslug."
+description: "Heranfuehrung Ressort BMBFSFJ (Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend). Schwerpunkt: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren. Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG. Fuenf Spezialfelder: schul-und-berufs..."
 ---
 
 # Ressort-Heranfuehrung BMBFSFJ
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

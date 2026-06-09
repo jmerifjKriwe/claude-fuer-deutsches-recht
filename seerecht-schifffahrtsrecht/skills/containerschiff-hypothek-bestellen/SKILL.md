@@ -1,6 +1,6 @@
 ---
 name: containerschiff-hypothek-bestellen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit für Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit für Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicher..."
 ---
 
 # Containerschiff – Schiffshypothek bestellen
@@ -84,4 +84,3 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
-

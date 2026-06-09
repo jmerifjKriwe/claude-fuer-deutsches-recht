@@ -45,4 +45,3 @@ Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine
 - Historische Auslegung: Mugdan-Materialien, Reichstagsprotokolle
 - BVerfGE und BGH: bverfg.de und bgh.de für Leitlinien historischer Auslegung
 - Kontextualisierung: Immer Epoche und Rechtsrahmen des Quellen explizit nennen
-

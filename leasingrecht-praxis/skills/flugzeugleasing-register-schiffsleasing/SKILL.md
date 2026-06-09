@@ -105,4 +105,3 @@ Typische Rückgabezustand-Anforderungen:
 - **Return-Conditions-Checkliste**: Technische Anforderungen bei Rückgabe
 - **MR-Berechnung**: Monatliche Reserve nach Flight Hours und Cycle
 - **Insolvenz-Airline-Plan**: Sofortmaßnahmen für LG nach Insolvenzantrag
-

@@ -28,4 +28,3 @@ TKG Endgerätefreiheit/Netzabschlusspunkt live prüfen; BGB; Produktsicherheits-
 
 - tk-stoerung-minderung-ausfallentschaedigung
 - tk-glasfaser-hausanschluss-wegerecht
-

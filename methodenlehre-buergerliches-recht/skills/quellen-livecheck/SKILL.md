@@ -13,17 +13,17 @@ Dieser Quellen-Livecheck für **Methodenlehre Buergerliches Recht** trennt amtli
 
 - `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
-- `abwaegung-material-abwaegungslast-non` — Abwaegung Material Abwaegungslast NON
+- `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
 - `abwaegungslast-non-liquet` — Abwaegungslast NON Liquet
-- `abwaegungszustaendigkeit` — Abwaegungszustaendigkeit
+- `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit
 - `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit Institutionen
 - `analogie-und-teleologische-reduktion` — Analogie und Teleologische Reduktion
-- `anspruchsgrundlagen-anwaltsperspektive` — Anspruchsgrundlagen Anwaltsperspektive
+- `anspruchsgrundlagen-behoerden-gericht-und-registerweg` — Anspruchsgrundlagen Anwaltsperspektive
 - `argumentum-figuren-e-contrario-a-maiore-a` — Argumentum Figuren E Contrario A Maiore A
 - `auslegung-rechtsfortbildung-grenzprotokoll` — Auslegung Rechtsfortbildung Grenzprotokoll
 - `begruendung-anhoerung-adressatenfaehigkeit` — Begruendung Anhoerung Adressatenfaehigkeit
-- `bverfg-grenzen-diskurstheorie-habermas` — Bverfg Grenzen Diskurstheorie Habermas
+- `bverfg-grenzen-richterlicher-rechtsfortbildung` — Bverfg Grenzen Diskurstheorie Habermas
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

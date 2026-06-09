@@ -1,6 +1,6 @@
 ---
 name: bmv-schifffahrts-und-seeverkehrsrecht
-description: "Sachbereich Schifffahrts- und Seeverkehrsrecht im Geschaeftsbereich BMV: Normbestand (SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.); Akteure (BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.); EU-Bezug (EMSA; IMO-Umsetzung; Hafenstaatkontrolle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung)."
+description: "Sachbereich Schifffahrts- und Seeverkehrsrecht im Geschaeftsbereich BMV: Normbestand (SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.); Akteure (BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.); EU-Bezug (EMSA; IMO-Umsetzung; Hafenstaatkontrolle.)..."
 ---
 
 # Schifffahrts- und Seeverkehrsrecht (BMV)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

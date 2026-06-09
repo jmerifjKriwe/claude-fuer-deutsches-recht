@@ -80,4 +80,3 @@ Art. 16 MAR an die BaFin (Suspicious Transaction Report / STR-Meldepflicht).
 Weitere Quellen:
 - Art. 16 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - § 80 WpHG: https://www.gesetze-im-internet.de/wphg/__80.html
-

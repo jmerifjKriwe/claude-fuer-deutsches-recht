@@ -1,6 +1,6 @@
 ---
 name: libertaere-methodenkritik-privatautonomie
-description: "Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen."
+description: "Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwen..."
 ---
 
 # Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 89, 214 – Bürgschaftsentscheidung, strukturelles Ungleichgewicht](https://www.bverfg.de/e/rs19931019_1bvr156789.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

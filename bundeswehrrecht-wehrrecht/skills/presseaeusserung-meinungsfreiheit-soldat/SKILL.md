@@ -1,6 +1,6 @@
 ---
 name: presseaeusserung-meinungsfreiheit-soldat
-description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrec..."
 ---
 
 # Presseäußerung und Meinungsfreiheit des Soldaten
@@ -96,4 +96,3 @@ Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die sol
 - BVerwG Wehrdienstsenate zu § 17 SG – ständige Rechtsprechung (Az. nach Verifikation).
 - WBeauftrG – Volltext gesetze-im-internet.de.
 - § 353b StGB, SÜG – Volltext gesetze-im-internet.de.
-

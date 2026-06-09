@@ -1,6 +1,6 @@
 ---
 name: datenbankvergleich-und-bereinigungsplan
-description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung im Datenbankrecht."
+description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergle..."
 ---
 
 # Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung
@@ -63,4 +63,3 @@ description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verlet
 - [§ 887 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/887.html)
 - [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
 - [Art. 10 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

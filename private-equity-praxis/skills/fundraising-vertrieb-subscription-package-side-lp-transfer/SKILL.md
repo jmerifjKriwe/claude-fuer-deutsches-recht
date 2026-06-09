@@ -89,4 +89,3 @@ Marketing-Disclaimer (PPM):
 - PRIIPs-VO (EU) 1286/2014.
 - SFDR (VO (EU) 2019/2088); ESMA Greenwashing-Bericht (Stand vom Anwender zu prüfen).
 - UWG-Greenwashing-Rechtsprechung (BGH ständige Rspr., konkrete Az. vom Anwender zu verifizieren).
-

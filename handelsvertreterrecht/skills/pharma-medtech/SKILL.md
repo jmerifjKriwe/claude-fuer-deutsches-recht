@@ -1,6 +1,6 @@
 ---
 name: pharma-medtech
-description: "Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforderungen für Medizinproduktevertreter im Handelsvertreterrecht."
+description: "Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforder..."
 ---
 
 # Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB
@@ -81,4 +81,3 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
 - [Dejure § 75 AMG](https://dejure.org/gesetze/AMG/75.html)
-

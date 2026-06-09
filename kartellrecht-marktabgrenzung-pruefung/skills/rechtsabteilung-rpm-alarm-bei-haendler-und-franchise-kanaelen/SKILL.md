@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen
-description: "Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die..."
 ---
 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
@@ -47,4 +47,3 @@ Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen re
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

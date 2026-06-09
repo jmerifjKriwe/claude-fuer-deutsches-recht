@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-formulierungshilfe-vs-referentenentwurf
-description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung im Normenkontrollrat Nkr."
+description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungna..."
 ---
 
 # NKR-Formulierungshilfe vs. Referentenentwurf
@@ -98,4 +98,3 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 - GO BT §§ 75 ff.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — wiederholt zur Umgehungsproblematik
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundestag.de](https://www.bundestag.de)
-

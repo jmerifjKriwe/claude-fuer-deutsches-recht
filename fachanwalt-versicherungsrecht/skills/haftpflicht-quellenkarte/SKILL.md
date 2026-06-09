@@ -16,10 +16,10 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Versicherungsrecht** tragende
 - `deckungsklage-interessen-deckungspruefung-obliegenheiten`
 - `do-deckungsabwehr-lebensversicherung-rueckkauf`
 - `erstgespraech-mandatsannahme-berufsunfaehigkeit-klage`
-- `fachanwalt-kanzlei-krankenversicherung`
+- `erstpruefung-und-mandatsziel`
 - `klage-versicherer-triage-versicherungsrecht-schriftsatzkern`
 - `lebens-leistungsablehnung-international-obliegenheitsverletzung`
-- `ombudsmann-gdv-orientierung-regress-abwehr`
+- `ombudsmann-gdv-schlichtung`
 - `private-spezial-pruefen-rechtsschutz-beweislast`
 - `rentenversicherung-sachversicherung-schnittstelle`
 - `themen-fristennotiz-versr-rechtsschutz-versr`

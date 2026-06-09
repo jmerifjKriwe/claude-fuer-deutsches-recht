@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit
-description: "Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung im Handelsvertreterrecht."
+description: "Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei d..."
 ---
 
 # Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 7a SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7a.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
-

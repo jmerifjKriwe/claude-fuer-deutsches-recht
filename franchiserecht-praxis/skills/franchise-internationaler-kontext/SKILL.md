@@ -48,4 +48,3 @@ description: "Franchise im internationalen Kontext. Skill behandelt internationa
 3. Disclosure-Anforderungen?
 4. Schiedsabrede?
 5. Vollstreckbarkeit?
-

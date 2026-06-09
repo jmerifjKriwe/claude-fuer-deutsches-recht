@@ -62,4 +62,3 @@ Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Ka
 - Eucken Grundsaetze der Wirtschaftspolitik (1952): historische Ausgabe
 - Erhard Wohlstand für alle (1957): Erstausgabe
 - Vierjahresplan-Verordnung 1936: ALEX/OeNB
-

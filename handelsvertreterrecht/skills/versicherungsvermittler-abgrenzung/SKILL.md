@@ -1,6 +1,6 @@
 ---
 name: versicherungsvermittler-abgrenzung
-description: "Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO im Handelsvertreterrecht."
+description: "Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO im Handelsvertret..."
 ---
 
 # Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu § 59 ff. VVG
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 34d GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [RL 2016/97/EU auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0097)
 - [Dejure § 59 VVG](https://dejure.org/gesetze/VVG/59.html)
-

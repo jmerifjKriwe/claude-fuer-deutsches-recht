@@ -59,4 +59,3 @@ description: "Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Date
 ## Grenzen
 
 Klassifikation ist heuristisch. Bei Konfidenz unter 80 Prozent fragt der Skill zurück. OCR-Qualität hängt vom Scan ab. Belegkette ist nur so gut wie die OCR-Konfidenz.
-

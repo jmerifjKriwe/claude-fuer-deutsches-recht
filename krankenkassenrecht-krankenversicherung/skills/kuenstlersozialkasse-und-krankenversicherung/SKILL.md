@@ -87,4 +87,3 @@ Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publi
 - [§ 10 KSVG – Meldepflicht](https://www.gesetze-im-internet.de/ksvg/__10.html)
 - [dejure.org KSVG](https://dejure.org/gesetze/KSVG)
 - [GKV-Spitzenverband KSK](https://www.gkv-spitzenverband.de)
-

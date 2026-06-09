@@ -61,4 +61,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welcher Kommentator?
 2. Welcher Fall?
 3. Welche Methodik?
-

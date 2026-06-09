@@ -66,4 +66,3 @@ A ist Schuldner; nach Urteil und 30 Tagen Fristablauf darf B zugreifen.
 1. Welche Tafel?
 2. Welche Norm?
 3. Heutiges Pendant?
-

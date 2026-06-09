@@ -1,6 +1,6 @@
 ---
 name: kaltstart-drafting-kommandocenter
-description: "Kaltstart-Kommandocenter für Word Legal AI. Führt deutsche Anwälte in maximal fünf Fragen vom diffusen Schreibauftrag zum Arbeitsmodus, Stilprofil, Dokumentgerüst, nächster Skill-Kette und erstem verwertbarem Output. Nutzt das Plugin word-legal-ai-plugin-and-skill-for-german-lawyers als Routing-Zentrale für Verträge, Schriftsätze, Mandantenmemos, Anwaltsschreiben, Redlines, Word-Finalisierung und US/UK-English-Drafting."
+description: "Kaltstart-Kommandocenter für Word Legal AI. Führt deutsche Anwälte in maximal fünf Fragen vom diffusen Schreibauftrag zum Arbeitsmodus, Stilprofil, Dokumentgerüst, nächster Skill-Kette und erstem verwertbarem Output. Nutzt das Plugin word-legal-ai-plugin-and-skill-for-german-lawyers als Routing-Z..."
 ---
 
 # Kaltstart-Drafting-Kommandocenter
@@ -63,4 +63,3 @@ Erzeuge nach den Startfragen eine knappe Mandatsmatrix:
 - Keine falsche Genauigkeit. Bei unsicherem Sachverhalt mit Annahmen arbeiten und diese offen markieren.
 - Keine Platzhalterlawine. Höchstens wenige eckige Platzhalter, die wirklich ausgefüllt werden müssen.
 - Immer den nächsten konkreten Arbeitsschritt nennen.
-

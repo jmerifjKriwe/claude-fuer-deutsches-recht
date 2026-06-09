@@ -56,4 +56,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - ES 8.0/3.0: Smear-Effekt; Photolinie.
  - TraffiStar S330: stationaerer Blitzer, Rohdaten-Diskussion.
 - **Praxis-Tipp:** Bei Punktestand-Abfrage KBA Flensburg (kostenfrei); Punkteloesch-Tabelle § 29 StVG: 2,5 Jahre für 1-Punkt-OWi; 5 Jahre für 2-Punkt; 10 Jahre für 3-Punkt-Verstoesse.
-

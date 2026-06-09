@@ -1,6 +1,6 @@
 ---
 name: e-verletzung-dokumentieren
-description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber im Datenbankrecht."
+description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und..."
 ---
 
 # Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance
@@ -63,4 +63,3 @@ description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG fü
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [Art. 20 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-

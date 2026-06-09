@@ -31,4 +31,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Häufiger Fehler in der DSGVO-Beratung: Vermischung von TDDDG-Einwilligung (Endgerätezugriff, § 25 TDDDG) und DSGVO-Rechtsgrundlage (Verarbeitung pbD nach Art. 6). Beide sind kumulativ erforderlich für werbliche Cookies — Einwilligung nach TDDDG ersetzt nicht die Rechtsgrundlage nach DSGVO.
-

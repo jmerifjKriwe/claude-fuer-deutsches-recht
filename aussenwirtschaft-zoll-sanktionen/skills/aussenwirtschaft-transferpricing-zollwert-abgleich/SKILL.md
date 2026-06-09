@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-transferpricing-zollwert-abgleich
-description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen. Output: Zollwert-Verrechnungspreis-Konsistenzanalyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen...."
 ---
 
 # Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
 - [Zoll.de Zollwert](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollwert/zollwert_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

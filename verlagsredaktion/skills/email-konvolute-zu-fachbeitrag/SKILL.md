@@ -92,4 +92,3 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-

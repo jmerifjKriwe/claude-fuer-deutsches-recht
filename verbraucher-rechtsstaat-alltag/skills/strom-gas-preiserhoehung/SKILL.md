@@ -64,4 +64,3 @@ Erzeuge Preisprüfblatt, Sonderkündigung, Abschlagsanpassung und Beschwerdeplan
 ## Prompts, die dieser Skill stellen soll
 
 - Anbieter, Vertragsart, Schreiben, neuer Preis, Verbrauch, Zählerstand?
-

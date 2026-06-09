@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-voruebergehende-verwendung-ata-carnet
-description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuldentstehung. Output: ATA-Carnet-Antragsmappe und Verwendungsnachweis im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuld..."
 ---
 
 # Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [Zoll.de Voruebergehende Verwendung](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Besondere-Verfahren/Voruebergehende-Verwendung/voruebergehende-verwendung_node.html)
 - [DIHK ATA-Carnet](https://www.dihk.de/de/themen-und-positionen/internationales/zoll/ata-carnet)
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
-

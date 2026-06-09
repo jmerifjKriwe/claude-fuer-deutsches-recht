@@ -94,4 +94,3 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Pruefen Sie im Zweifel mit Ihrem Sozialverband.
-

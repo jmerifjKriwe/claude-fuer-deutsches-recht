@@ -1,6 +1,6 @@
 ---
 name: gleichstellungs-gendercheck-handelsregister
-description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten im Normenkontrollrat Nkr."
+description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten im Normenkontrollra..."
 ---
 
 # NKR-Gleichstellungs- und Gendercheck
@@ -111,4 +111,3 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bmfsfj.de](https://www.bmfsfj.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

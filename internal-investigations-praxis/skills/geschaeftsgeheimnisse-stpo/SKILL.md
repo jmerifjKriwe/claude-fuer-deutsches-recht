@@ -78,4 +78,3 @@ Dieser Skill klärt, welche Untersuchungsergebnisse als Geschäftsgeheimnisse zu
 - **Secure-Data-Room-Anforderungsliste**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

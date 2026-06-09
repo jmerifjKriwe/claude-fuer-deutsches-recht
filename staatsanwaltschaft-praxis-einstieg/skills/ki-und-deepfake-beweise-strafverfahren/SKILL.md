@@ -38,4 +38,3 @@ Konkret zu prüfen:
 - Art. 22 DSGVO (automatisierte Entscheidungen)
 - Art. 6 AI-Act (Hochrisiko-KI im Strafverfahren)
 - § 500 StPO
-

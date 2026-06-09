@@ -1,6 +1,6 @@
 ---
 name: agb-haftung-erfuellungsgehilfen
-description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen für Erfuellungsgehilfen (§ 278 BGB) und die Wechselwirkung mit § 309 Nr. 7 BGB. Behandelt die BGH-Linie zur unwirksamen Pauschalfreizeichnung und zur zulaessigen Differenzierung. Liefert Klauselentwurf."
+description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen für Erfuellungsgehilfen (§ 278 BGB) und die Wechselwirkung mit § 309 Nr. 7 BGB. Behandelt die BGH-Linie zur unwirksamen Pauschalfreizeichnung und zur zulaessigen Differenzierung. Liefert Klau..."
 ---
 
 # Agb Haftung Erfuellungsgehilfen
@@ -39,4 +39,3 @@ description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtli
 2. Differenzierung Vorsatz / grobe Fahrlaessigkeit / einfache Fahrlaessigkeit?
 3. Kardinalpflicht beruehrt?
 4. § 309 Nr. 7 BGB erfuellt?
-

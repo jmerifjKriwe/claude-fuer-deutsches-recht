@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Vermeiden Sie pauschale Aussagen wie "Sie sind nicht betroffen". DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon; auch Kleinst- und Kleinunternehmen sind betroffen, lediglich mit Erleichterungen (Art. 19, 24, 29 DSA). Lassen Sie diese Differenzierung sichtbar werden.
-

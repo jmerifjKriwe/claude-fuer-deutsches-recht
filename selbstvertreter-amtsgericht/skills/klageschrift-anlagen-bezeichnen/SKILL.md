@@ -142,4 +142,3 @@ Skill `einreichung-mein-justizpostfach-mjp-2024`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Konvention.
-

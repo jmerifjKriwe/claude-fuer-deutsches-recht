@@ -1,6 +1,6 @@
 ---
 name: matter-file
-description: "Transaktionsakte strukturieren und verwalten für Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Prüfraster: Dokumententypen, Versionierung, Vernichtungsfristen, DSGVO-Archivierung. Output Matter-File-Struktur, Versionierungsprotokoll, Aufbewahrungskalender. Abgrenzung: Closing Bible am Ende siehe closing-bible-archiv; Datenraum-Aufbau siehe datenraum-aufbau."
+description: "Transaktionsakte strukturieren und verwalten für Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Prüfraster: Dokumententypen,..."
 ---
 
 # Matter File und Aktenstruktur
@@ -204,4 +204,3 @@ VERTRAULICH — MANDATSGEHEIMNIS (§ 43a BRAO)
 - § 50 BRAO; §§ 257 f. HGB; § 147 AO; § 199 BGB; GoBD
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-

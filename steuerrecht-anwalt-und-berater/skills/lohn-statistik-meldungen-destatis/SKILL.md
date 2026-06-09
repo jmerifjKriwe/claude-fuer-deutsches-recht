@@ -104,4 +104,3 @@ Stand: 05/2026.
 - Destatis-IDEV-Portal.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Paragraphennummerierung BStatG Pruefhinweis ohne Marker) -->
-

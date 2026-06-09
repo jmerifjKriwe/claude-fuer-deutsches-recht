@@ -92,13 +92,13 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `verein-redteam-qualitygate` | Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben. |
 | `verein-und-politik` | Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe im Vereinsrecht Vereinsmanager. |
 | `verein-und-social-media` | Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung im Vereinsrecht Vereinsmanager. |
-| `vereinsrecht-zweckaenderung-satzung` | Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Vereinsrecht Vereinsmanager. |
 | `vereinsvermoegen-konto-versicherung-verein` | Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung im Vereinsrecht Vereinsmanager. |
 | `versicherung-verein` | Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden im Vereinsrecht Vereinsmanager. |
 | `vorstand-rollen` | Klärt BGB-Vorstand, erweiterter Vorstand, Geschäftsführung, Ressorts, Vertretungsmacht und Innen-/Außenverhältnis im Vereinsrecht Vereinsmanager. |
 | `vorstandswahl-vorstandswechsel-register` | Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor im Vereinsrecht Vereinsmanager. |
 | `vorstandswechsel-register` | Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen im Vereinsrecht Vereinsmanager. |
 | `wirtschaftlicher-verein` | Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager. |
+| `zweckaenderung` | Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit: Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit. |
 | `zweckbetrieb` | Prüft Zweckbetrieb, wirtschaftlichen Geschäftsbetrieb, Sportveranstaltung, Wohlfahrt, Kultur und Steuerfolgen im Vereinsrecht Vereinsmanager. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

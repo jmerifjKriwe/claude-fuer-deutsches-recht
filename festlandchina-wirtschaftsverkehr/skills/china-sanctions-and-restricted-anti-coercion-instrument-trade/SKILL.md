@@ -1,6 +1,6 @@
 ---
 name: china-sanctions-and-restricted-anti-coercion-instrument-trade
-description: "Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung im Festlandchina Wirtschaftsverkehr."
+description: "Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken..."
 ---
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

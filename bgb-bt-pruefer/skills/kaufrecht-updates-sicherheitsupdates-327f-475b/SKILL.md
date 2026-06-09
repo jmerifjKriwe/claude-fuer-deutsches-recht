@@ -71,4 +71,3 @@ description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b B
 - https://www.gesetze-im-internet.de/bgb/__327f.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-

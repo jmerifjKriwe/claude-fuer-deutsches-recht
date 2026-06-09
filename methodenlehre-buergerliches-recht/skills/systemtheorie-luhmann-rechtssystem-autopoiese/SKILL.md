@@ -1,6 +1,6 @@
 ---
 name: systemtheorie-luhmann-rechtssystem-autopoiese
-description: "Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung)."
+description: "Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenleh..."
 ---
 
 # Systemtheorie Luhmanns und das Recht
@@ -90,4 +90,3 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - §§ 138, 145 ff., 242, 280, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

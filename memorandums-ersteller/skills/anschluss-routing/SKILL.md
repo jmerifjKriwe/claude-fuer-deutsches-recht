@@ -20,7 +20,7 @@ Dieses Anschluss-Routing für **Memorandums Ersteller** wählt nach dem ersten E
 - `juristisches-questions-fristennotiz` — Juristisches Questions Fristennotiz
 - `laenge-formate-mandantenfreundliche-fassung` — Laenge Formate Mandantenfreundliche Fassung
 - `mandantenanfrage-schnell` — Mandantenanfrage Schnell
-- `mandantenkommunikation-redteam` — Mandantenkommunikation Redteam
+- `workflow-mandantenkommunikation` — Mandantenkommunikation Redteam
 - `mandantenunterlagen-tatbestand-beweis-und-belege` — Mandantenunterlagen Tatbestand Beweis und Belege
 - `memo-board-pack-besondere-anlaesse-spezial` — Memo Board Pack Besondere Anlaesse Spezial
 - `memo-compliance-vorfall-intern` — Memo Compliance Vorfall Intern
@@ -54,4 +54,3 @@ Dieses Anschluss-Routing für **Memorandums Ersteller** wählt nach dem ersten E
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

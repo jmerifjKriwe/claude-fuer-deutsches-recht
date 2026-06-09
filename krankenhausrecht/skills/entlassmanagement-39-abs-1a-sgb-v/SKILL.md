@@ -81,4 +81,3 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - SGB XI Pflegeueberleitung.
 - BGB §§ 630a ff., PatientenrechteG.
 - BSG, staend. Rspr. zur Anschlussversorgung.
-

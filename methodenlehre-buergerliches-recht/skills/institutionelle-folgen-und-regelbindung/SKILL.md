@@ -1,6 +1,6 @@
 ---
 name: institutionelle-folgen-und-regelbindung
-description: "Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken."
+description: "Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten un..."
 ---
 
 # Institutionelle Folgen und Regelbindung in der Rechtsanwendung
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 49, 89 – Kalkar I, institutionelle Folgenverantwortung](https://www.bverfg.de/e/rs19781208_2bvl000175.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

@@ -115,4 +115,3 @@ Das Plugin schreibt alle erfassten Werte in die YAML-Felder von CLAUDE.md (Absch
 - **Rollenwahl falsch:** Syndikusrechtsanwalt hat andere Schweigepflichtgrenzen und Vertretungsverbote (§ 46c BRAO) als freier Anwalt – Rollenwahl im Profil ist berufsrechtlich relevant.
 - **Vergütungsvereinbarung:** Stundenhonorar erfordert Textform (§ 3a Abs. 1 RVG); das Plugin dokumentiert die Wahl, ersetzt aber keine rechtsgültige Mandatsvereinbarung.
 - **Integrations-Fehlkonfiguration:** Outlook/Kalender MCP ohne korrekte Authentifizierung führt zu fehlgeschlagenen Aktionen; immer `--check-integrations` nach Konfigurations­änderung ausführen.
-

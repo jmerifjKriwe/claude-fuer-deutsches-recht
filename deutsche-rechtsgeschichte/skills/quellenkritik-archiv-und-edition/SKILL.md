@@ -62,4 +62,3 @@ Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueb
 - Editionsvergleich: mehrere Editionen bei wichtigen Textstellen gegenlesen
 - Bundesarchiv-Online: invenio.bundesarchiv.de für Findbuecher
 - MGH: mgh.de für Volltext-Zugang zu mittelalterlichen Editionen
-

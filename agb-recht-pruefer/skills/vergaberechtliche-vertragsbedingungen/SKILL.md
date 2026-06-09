@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul f√ºr Vergaberechtliche Vertragsbedingungen: pr√
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

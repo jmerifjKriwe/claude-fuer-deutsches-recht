@@ -87,4 +87,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Anderweitige Förderung im FZulG-Antrag nicht angegeben - Verstoß gegen § 9 FZulG, Rückforderungsrisiko.
 - AGVO-Höchstintensität konzernweit nicht aggregiert; bei Tochter-Förderung Mutter-Förderung übersehen.
 - "De-minimis" mit AGVO-Förderung verwechselt; FZulG fällt grundsätzlich nicht unter De-minimis.
-

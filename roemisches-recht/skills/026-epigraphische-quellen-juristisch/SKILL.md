@@ -55,4 +55,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Inschrift?
 2. CIL-Nummer?
 3. Inhalt?
-

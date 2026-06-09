@@ -94,4 +94,3 @@ Tax Indemnity (Auszug):
 - AO §§ 42, 90 ff.
 - BMF-Schreiben zu § 8c/8d KStG, § 4h EStG, ATAD (jeweils aktuelle Fassung vom Anwender mit aktuellem BMF zu prüfen).
 - Wachstumschancengesetz 2024; Zukunftsfinanzierungsgesetz 2023.
-

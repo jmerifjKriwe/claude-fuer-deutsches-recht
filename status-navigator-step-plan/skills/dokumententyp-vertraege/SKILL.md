@@ -15,4 +15,3 @@ LausitzStorage-Vertragslandschaft: Pachtvertrag LEAG mit 2 Nachtraegen, Senior-D
 - Vertragslandkarte (Bezugsgraph) als Vorblatt
 - Eintraege in Reiter 2 mit Typ-Tag Vertrag und Untertyp
 - Querverweise auf abhaengige Beschluesse, Vollmachten und Sicherheitenbestellungen
-

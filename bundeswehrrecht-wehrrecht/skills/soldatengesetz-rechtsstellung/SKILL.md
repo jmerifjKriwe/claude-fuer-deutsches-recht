@@ -1,6 +1,6 @@
 ---
 name: soldatengesetz-rechtsstellung
-description: "Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesw..."
 ---
 
 # Soldatengesetz – Rechtsstellung und Grundpflichten
@@ -95,4 +95,3 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 - Wehrdisziplinarordnung (WDO) in der ab 2025 geltenden Fassung.
 - BVerwG, Wehrdienstsenate – ständige Rechtsprechung zu §§ 7, 11, 15, 17 SG (Az. nur nach Live-Verifikation in der BVerwG-Datenbank).
 - Keine Kommentarstellen aus Modellwissen zitieren; Scherer/Alff/Poretschkin und Walz/Eichen nur bei konkretem Lizenzzugriff.
-

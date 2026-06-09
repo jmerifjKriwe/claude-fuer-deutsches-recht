@@ -66,4 +66,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 - "Konzern-Ergebnis" wird nicht herangezogen, weil Tochter formell selbständig ist - BAG-Berechnungsdurchgriff ignoriert.
 - Mitbestimmung nach § 87 Abs. 1 Nr. 10 BetrVG übersehen, Einigungsstelle nicht angerufen; Folge: Unwirksamkeit der Versorgungsregelungsänderung.
-

@@ -114,4 +114,3 @@ Stand: 05/2026.
 - EStG §§ 39e, 41a, 41b.
 - BMF-Rundschreiben ELStAM.
 - ITSG-Spezifikation.
-

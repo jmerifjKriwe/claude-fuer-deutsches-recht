@@ -1,6 +1,6 @@
 ---
 name: insolvenz-verlust-liquiditaet
-description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO."
+description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse,..."
 ---
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
@@ -119,4 +119,3 @@ Praktisch wertvoll wird die Auszahlung bei:
 - AO Aufrechnungs- und Abtretungsregeln (§ 226 AO; § 46 AO).
 - BMF-Hinweise zur Forschungszulage.
 - `references/forschungszulage-quellen-und-zahlen.md`.
-

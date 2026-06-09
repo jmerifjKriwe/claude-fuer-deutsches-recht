@@ -1,6 +1,6 @@
 ---
 name: verdienstausfall-haushalt-zeit
-description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung im Jveg Kostenpruefer."
+description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung im Jveg K..."
 ---
 
 # JVEG-Verdienstausfall-Haushalt-Zeit
@@ -69,4 +69,3 @@ Bereinigter Anspruch ohne Doppelerfassung, mit Stundensatzberechnung und Belegna
 ## Leitplanken
 - § 22 JVEG ist Auffangtatbestand; nur wenn §§ 20/21 nicht greifen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

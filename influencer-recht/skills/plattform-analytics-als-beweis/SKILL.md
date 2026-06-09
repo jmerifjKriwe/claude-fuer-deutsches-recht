@@ -71,4 +71,3 @@ Analytics-Daten sind in Streitigkeiten zwischen Creator und Brand oft entscheide
 - KPI-Abrechnungs-Dokumentation
 - Beweispaket-Checkliste für Streit mit Brand
 - Klageunterstützungs-Memo
-

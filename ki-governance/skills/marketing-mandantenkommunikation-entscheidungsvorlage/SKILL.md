@@ -44,4 +44,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein — sonst riskieren Marketingteams sowohl KI-VO-Sanktion als auch UWG-Abmahnung wegen Irreführung. Empfehlung: standardisierter Kennzeichnungs-im DAM/CMS einrichten, nicht ad hoc.
-

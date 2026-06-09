@@ -48,4 +48,3 @@ Präferenzursprung berechtigt zu reduzierten Zollsätzen im Rahmen von Freihande
 - Kumulierungsstrategie: PEM-Kumulierungszone nutzen (Eurasisches/Mittelmeersystem)
 - Lieferantenerklärungen: Archivierung mindestens 4 Jahre (UZK Art. 51)
 - REX-Registrierung: Hauptzollamt; Gültigkeit überprüfen vor Export
-

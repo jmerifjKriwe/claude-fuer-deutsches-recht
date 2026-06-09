@@ -49,4 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Minderheitenschutz § 251 InsO bzw. § 64 StaRUG:** Auch ohne Cram-Down kann ein einzelner Betroffener Schlechterstellung geltend machen — Maßstab ist Vergleichsrechnung mit Liquidation/Regelverfahren.
 - **Rechtsmittel:** Sofortige Beschwerde gegen Bestätigung (§ 253 InsO; § 66 StaRUG) — Frist 2 Wochen ab Zustellung; aufschiebende Wirkung nur ausnahmsweise.
 - **Praxis:** Beim Cram-Down ist die Vergleichsrechnung das Schlachtfeld; ein methodisch sauberes Wertgutachten zur Liquidationsquote ist regelmäßig der Schlüssel zum Erfolg.
-

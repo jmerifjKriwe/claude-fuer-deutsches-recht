@@ -45,4 +45,3 @@ Konkret zu prüfen:
 
 - § 11 BGG (Leichte Sprache)
 - § 14 BGG (Gebärdensprache)
-

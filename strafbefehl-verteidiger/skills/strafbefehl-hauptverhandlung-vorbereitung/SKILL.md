@@ -106,4 +106,3 @@ Ich beantrage [Freispruch / Einstellung / Geldstrafe von [X] Tagessaetzen zu [Y]
 - Befangenheitsantrag unverzueglich nach Kenntnis stellen.
 - Beweisantraege spaetestens in der Hauptverhandlung vor Schluss der Beweisaufnahme stellen.
 - Anwaltliche Endkontrolle bei allen Antraegen und Schriftsaetzen.
-

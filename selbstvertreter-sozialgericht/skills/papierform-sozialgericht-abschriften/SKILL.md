@@ -97,4 +97,3 @@ Aufheben min. 5 Jahre.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell pruefen.
-

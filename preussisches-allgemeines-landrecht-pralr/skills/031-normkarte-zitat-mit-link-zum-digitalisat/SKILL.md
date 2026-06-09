@@ -51,4 +51,3 @@ Bei Zitierung "ALR Einl. § 74" muss klar sein:
 1. Welche Norm?
 2. Welcher Quellenanker?
 3. Digitalisat-Link verfuegbar?
-

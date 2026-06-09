@@ -1,6 +1,6 @@
 ---
 name: ressort-bmleh
-description: "Heranfuehrung Ressort BMLEH (Bundesministerium für Landwirtschaft; Ernaehrung und Heimat). Schwerpunkt: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau. Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG. Fuenf Spezialfelder: agrar-und-foerderungsrecht-gak-gap; tierschutz-und-tiergesundheitsrecht; lebensmittelrecht-und-futtermittelrecht; forst-und-jagdrecht; oekolandbau-und-pflanzenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmleh und legw-bmleh-Themenslug."
+description: "Heranfuehrung Ressort BMLEH (Bundesministerium für Landwirtschaft; Ernaehrung und Heimat). Schwerpunkt: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau. Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG. Fuenf Spezialfelder: agrar-und-foerderungsrecht-..."
 ---
 
 # Ressort-Heranfuehrung BMLEH
@@ -95,4 +95,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

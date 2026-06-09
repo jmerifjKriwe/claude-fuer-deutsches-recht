@@ -173,4 +173,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Wesentlicher Kundenvertrag mit Change-of-Control ohne Kaeufer-Consent: Deal-Breaker-Risiko
 - Exklusivitaet zulasten Kaeufer nach Closing: wirtschaftlicher Schaden
 - IP-Lizenz mit Kuendigungsrecht: Verlust wesentlicher IP-Basis
-

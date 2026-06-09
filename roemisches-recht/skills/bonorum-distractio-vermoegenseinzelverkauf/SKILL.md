@@ -64,4 +64,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Curator bonorum bestellt?
 3. Einzelverkauf moeglich?
 4. Restvermoegen beim Schuldner?
-

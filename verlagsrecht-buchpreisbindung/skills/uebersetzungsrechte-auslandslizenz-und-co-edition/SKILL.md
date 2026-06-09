@@ -121,4 +121,3 @@ Dieser Skill behandelt die **Internationalisierung** von Verlagswerken: Vergabe 
 - **Lizenz-Portfolioübersicht**: Alle vergebenen Lizenzen mit Status
 - **Messen-Term-Sheet**: Einfaches Verhandlungsdokument für Buchmessen
 - **Co-Edition-Kalkulation**: Druckkosten-Split und Lizenzpreis
-

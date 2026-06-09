@@ -46,4 +46,3 @@ description: "Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Us
 
 ## Praxis-Tipp
 - Konkrete Beispiele für Royalty-Bemessung im Vertrag (Stücklohn vs. Umsatz), Audit-Right mit 12-Monats-Vorlauf, Vertraulichkeit auf 5-10 Jahre.
-

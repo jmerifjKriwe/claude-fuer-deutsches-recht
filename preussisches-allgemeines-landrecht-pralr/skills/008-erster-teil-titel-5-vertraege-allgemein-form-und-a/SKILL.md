@@ -47,4 +47,3 @@ Schriftlicher Mietzettel zwischen Hausbesitzer und Magd.
 1. Welcher Vertrag?
 2. Form gewahrt?
 3. Auslegung?
-

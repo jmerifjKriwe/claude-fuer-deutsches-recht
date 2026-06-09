@@ -62,4 +62,3 @@ Die historische Fallakte ist eine Primearquelle ersten Ranges. Sie besteht typis
 - Akten-Kurrentschrift: Palaeographie-Hilfsmittel (Volkskundliche Beratung, Lehrbucher)
 - ZPO 1877: gesetze-im-internet.de für historische Aktenstruktur-Verstaendnis
 - Archivzitat: Bestand, Signatur, Blattnummer
-

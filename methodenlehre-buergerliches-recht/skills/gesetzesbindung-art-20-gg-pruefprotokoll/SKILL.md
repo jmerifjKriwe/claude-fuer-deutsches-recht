@@ -1,6 +1,6 @@
 ---
 name: gesetzesbindung-art-20-gg-pruefprotokoll
-description: "Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die verfassungsrechtlich gebotene Rückbindung an demokratisch legitimierte Normen verletzen."
+description: "Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die ver..."
 ---
 
 # Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 79 GG – Änderung des Grundgesetzes](https://dejure.org/gesetze/GG/79.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

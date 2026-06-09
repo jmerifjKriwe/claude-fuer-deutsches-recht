@@ -1,6 +1,6 @@
 ---
 name: rvg-steuerstreit
-description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme."
+description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgeb..."
 ---
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis
@@ -43,4 +43,3 @@ description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RV
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

@@ -1,6 +1,6 @@
 ---
 name: anlagen-bauen
-description: "Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Widerspruch Schlichtungsantrag Klage) die Belege Buchungsbestaetigung E-Ticket Verspaetungsbestaetigung Foto Anzeigetafel App-Screenshots Belege zu Auslagen Erstforderungs- und Ablehnungsschreiben und Vollmachten. Stempelt oben rechts in Arial 12 FETT Anlage K 1 Anlage K 2 usw. Sortiert in Reihenfolge der Erwaehnung im Schriftsatz. Erzeugt optional Sammel-PDF Schriftsatz_mit_Anlagen.pdf."
+description: "Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Widerspruch Schlichtungsantrag Klage) die Belege Buchungsbestaetigung E-Ticket Verspaetungsbestaetigung Foto Anzeigetafel App-Screenshots Belege zu Ausla..."
 ---
 
 # Fahrgastrechte — Anlagen bauen
@@ -123,4 +123,3 @@ Sammel-PDF: Schriftsatz_mit_Anlagen.pdf erzeugt (28 Seiten, 4.2 MB).
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

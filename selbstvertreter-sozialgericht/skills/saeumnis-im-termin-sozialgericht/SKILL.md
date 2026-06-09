@@ -122,4 +122,3 @@ Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110 SGG aktuell.
-

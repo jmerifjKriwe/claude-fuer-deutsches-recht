@@ -64,4 +64,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Formularen ist die häufigste Barriere kein Tastatur-Mangel, sondern fehlende Verknüpfung Label–Input (1.3.1) und unklare Fehlermeldungen (3.3.1-3). Diese sind technisch trivial behebbar — aber im Audit-Bericht oft aufgeführt.
-

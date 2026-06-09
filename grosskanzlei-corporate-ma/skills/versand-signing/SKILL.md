@@ -1,6 +1,6 @@
 ---
 name: versand-signing
-description: "Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§ 125 ff. BGB Formvorschriften, Notarrecht, beA-Verordnung. Prüfraster Ausgabeformat Clean vs. Markup, PDF-Finalisierung, Signaturseiten, Versandprotokoll, Empfaengerbestätigungen. Output Versand-Checkliste mit Signing-Pack, Protokoll und Bestätigung. Abgrenzung zu Closing-Bible für Archivierung und zu Signing-Closing-CPs für Bedingungsprüfung."
+description: "Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§ 125 ff. BGB Formvorschriften, Notarrecht, beA-Verordnung. Prüfraster Ausgabefo..."
 ---
 
 # Output, Signing und Versand
@@ -151,4 +151,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen hochrisikorelevanten Ausgaben
 - Dokumentation: Datum, Bearbeiter, Freigabe durch Senior
-

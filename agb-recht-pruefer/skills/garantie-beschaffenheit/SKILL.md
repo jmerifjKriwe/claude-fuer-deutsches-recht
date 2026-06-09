@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Garantie Beschaffenheit: prüft, redlined u
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

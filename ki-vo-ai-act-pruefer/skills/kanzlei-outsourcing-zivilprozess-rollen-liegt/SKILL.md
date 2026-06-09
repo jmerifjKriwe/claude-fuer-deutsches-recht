@@ -42,4 +42,3 @@ Erstelle bei Bedarf:
 - Mandantenhinweis zur KI-Nutzung.
 - Kanzleiinterne Freigabematrix.
 - Verbotene Nutzungen.
-

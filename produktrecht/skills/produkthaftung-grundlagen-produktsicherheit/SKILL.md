@@ -44,4 +44,3 @@ description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenha
 3. Anspruchsgegner: Hersteller, Quasi-Hersteller, Importeur, Händler, Software-/Komponentenhersteller, Fulfilment/Marktplatz je nach Rechtsstand.
 4. Beweis: Produkt, Fehler, Schaden, Kausalität, Entlastung, Beweiserleichterungen nach kommendem EU-Recht.
 5. Maßnahmen: Rückruf, Warnung, Reparaturprogramm, Update, Ersatzteilversorgung, Versicherer- und Behördenkommunikation.
-

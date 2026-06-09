@@ -11,19 +11,19 @@ Diese Output-Weiche für **Fachanwalt Gewerblicher Rechtsschutz** entscheidet, o
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-bezuege-designg` — Abmahnung Bezuege Designg
-- `chronologie-belegmatrix-fristen-risikoampel` — Chronologie Belegmatrix Fristen Risikoampel
+- `abmahnung-formular-portal-und-einreichung` — Abmahnung Bezuege Designg
+- `workflow-chronologie-und-belegmatrix` — Chronologie Belegmatrix Fristen Risikoampel
 - `designeintragung-neuheit-paragraf-3-designg-eugh` — Designeintragung Neuheit Paragraf 3 Designg Eugh
 - `designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13` — Designschutz EU Gemeinschaftsgeschmacksmuster Eugh C 419 13
 - `designverletzung-fehlerkatalog` — Designverletzung Fehlerkatalog
-- `designverletzung-marken-widerspruch` — Designverletzung Marken Widerspruch
+- `designverletzung` — Designverletzung Marken Widerspruch
 - `domainrecht-loeschung-bgh-i-zr-138-19` — Domainrecht Loeschung BGH I ZR 138 19
-- `dpma-interessen-einstweilige-euipo` — Dpma Interessen Einstweilige Euipo
-- `erstgespraech-mandatsannahme-abmahnung-uwg` — Erstgespraech Mandatsannahme Abmahnung UWG
+- `dpma-mehrparteien-konflikt-und-interessen` — Dpma Interessen Einstweilige Euipo
+- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Abmahnung UWG
 - `eu-warenmarke-loeschung-eugh-c-541-18` — EU Warenmarke Loeschung Eugh C 541 18
-- `fa-gewerblicher-rs-gr-abmahnung-portfolio` — FA Gewerblicher RS GR Abmahnung Portfolio
-- `fachanwalt-fao-gebrmg` — Fachanwalt FAO Gebrmg
-- `faevvollzug-abschlussschreiben-lizenzanaloger` — Faevvollzug Abschlussschreiben Lizenzanaloger
+- `einstieg-schnelltriage-fallrouting` — FA Gewerblicher RS GR Abmahnung Portfolio
+- `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gebrmg
+- `workflow-redteam-qualitygate` — Faevvollzug Abschlussschreiben Lizenzanaloger
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -40,4 +40,3 @@ Diese Output-Weiche für **Fachanwalt Gewerblicher Rechtsschutz** entscheidet, o
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

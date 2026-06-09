@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-staatshaftung
-description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tat..."
 ---
 
 # Pralr Gesinderecht Zeugnis Und Haftung
@@ -39,4 +39,3 @@ description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienst
 1. Zeugnisanspruch?
 2. Schadenshoehe?
 3. Mit- oder Alleinhaftung?
-

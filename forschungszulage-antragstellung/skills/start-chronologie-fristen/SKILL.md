@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild plus Arbeitsentwurf im Forschungszulage."
+description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild..."
 ---
 
 # Forschungszulage — Allgemein
@@ -175,4 +175,3 @@ Ohne BSFZ-Bescheinigung keine Festsetzung. Wer die BSFZ-Stufe unterschätzt, ver
 - Zitierweise: `references/zitierweise.md`
 
 Konkrete Beträge, Fristen und KMU-Definition vom Antragsteller vor Einreichung live mit aktueller Gesetzesfassung und BSFZ-Portal abgleichen.
-

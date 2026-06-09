@@ -33,4 +33,3 @@ description: "Norm- und Dogmatik-Skill für Individualabrede 305b: prüft die AG
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

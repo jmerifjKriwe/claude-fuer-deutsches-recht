@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Reproduzierbarkeit:** Skill muss auch bei Re-Run mit gleichen Eingaben gleiches Ergebnis liefern (Modell-Streuung minimieren durch klare Checklisten).
 - **Plugin-Konsistenz:** Skill verweist auf andere Skills des Plugins; keine Selbstreferenz.
 - Falle: Beim Refactoring den Skill-Name ändern, ohne Verweise in anderen Skills nachzuziehen → broken-links nicht prüfbar.
-

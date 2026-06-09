@@ -49,4 +49,3 @@ Das röm. Bereicherungsrecht basiert auf dem System der condictiones (Rückforde
 - BGB §§ 812-822 (gesetze-im-internet.de)
 - Larenz/Canaris Schuldrecht BT Bd. II/2 § 67ff.
 - Zimmermann Law of Obligations Kap. 27
-

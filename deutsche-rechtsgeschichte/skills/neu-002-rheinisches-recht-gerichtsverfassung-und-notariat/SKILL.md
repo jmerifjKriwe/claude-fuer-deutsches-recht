@@ -66,4 +66,3 @@ Erbschaft aus Köln; Erbteilung durch Notar.
 - Rheinisches Recht: Code civil + Sondernotariat; Notar fertigt acte de partage; alle Erben unterschreiben.
 - ALR (Vergleich): Erbteilung beim Gericht (kein Notarmonopol).
 - BGB heute: Erbauseinandersetzung kann notariell oder privatschriftlich erfolgen.
-

@@ -35,4 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **DMA Gatekeeper-Pflichten:** ab Designierung 6 Monate Übergangsfrist (Art. 3 Abs. 10 DMA); Beschwerde 2 Monate (Art. 263 AEUV).
 - **Marktbeherrschung — Bußgeldrisiko § 19 GWB / Art. 102 AEUV:** bis 10 % weltweiter Konzernumsatz (§ 81c GWB, Art. 23 VO 1/2003).
 - Falle: Joint Venture als "kleine Transaktion" einstufen — § 37 GWB Anmeldepflicht prüfen; Umsatzschwellen § 35 Abs. 1 GWB (Inland >50 Mio. EUR und >17,5 Mio. EUR).
-

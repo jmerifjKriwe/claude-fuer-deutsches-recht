@@ -74,4 +74,3 @@ Reaction-Videos erzeugen mehrfache Rechtsfragen:
 - Zitatrecht-Checkliste
 - Abmahnreaktion (Persönlichkeitsrecht)
 - Reaktion auf Content-ID-Claim
-

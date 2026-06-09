@@ -189,4 +189,3 @@ nerin gem. § 364 BGB durch Konfusion.
 ### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.
-

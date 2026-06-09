@@ -102,4 +102,3 @@ Für bestimmte mobile Ausrüstungen (Flugzeuge, Eisenbahnrollmaterial, Weltraumg
 - **Prioritätsanalyse**: EV Lieferant vs. Eigentum LG vs. Sicherungsübereignung Refinanzierer
 - **Klauselvorlage**: LN-Verbot der Sicherungsübereignung und Weiterübertragung
 - **Kapstadt-Memo**: Anwendbarkeit für Luftfahrzeuge und Schienenfahrzeuge
-

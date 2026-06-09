@@ -1,6 +1,6 @@
 ---
 name: gpai-modelle-art-51-bis-55
-description: "Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie Art. 53 Abs. 1 lit. c Zusammenfassung Trainingsdaten Art. 53 Abs. 1 lit. d. Output: GPAI-Pflichtencheckliste nach Risikostufe. Abgrenzung zu gpai-vorliegen-art-3-nr-63 (Vorliegen eines GPAI-Modells) und gpai-systemisches-risiko-schwelle-10e25-flop (erhoehte Pflichten bei systemischem Risiko)."
+description: "Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie Art. 53 Abs. 1 lit. c Zusammenf..."
 ---
 
 # GPAI-Modelle — Art. 51 bis 55 KI-VO
@@ -114,4 +114,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

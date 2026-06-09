@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme
-description: "Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversagung. Prüfraster Ausweis Vertretung Sicherheitsleistung geringstes Gebot Bietstrategie Zuschlagsgrenzen Protokoll Nachbereitung. Output Teilnahme-Checkliste mit Bietlimit Sicherheitsleistungsnachweis und Nachbereitungsprotokoll. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-portal-recherche im Zwangsverwaltung Zvg."
+description: "Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversag..."
 ---
 
 # Teilnahme am Versteigerungstermin
@@ -90,4 +90,3 @@ Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bi
 5. Kontostand Treuhandkonto per Stichtag Versteigerung ermitteln
 6. Vollstreckungsgericht über Bereitschaft zur Auskunft informieren
 7. Nach Zuschlag: Übergabe der Unterlagen an Ersteher dokumentieren
-

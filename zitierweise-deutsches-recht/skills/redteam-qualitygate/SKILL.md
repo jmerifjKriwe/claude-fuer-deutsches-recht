@@ -43,4 +43,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Reihenfolge:** Innerhalb Rspr.: BVerfG vor BGH vor OLG. Innerhalb Lit.: chronologisch neueste zuerst.
 - **Fußnoten-Lage:** Bei großen Werken nach Norm + Rn., nicht nach Seite (außer bei Anhängen).
 - Falle: BeckRS-Stelle als alleinige Fundstelle bei tragender Aussage — Verlage erwarten Hauptzeitschrift (NJW, NZG, GRUR) oder amtliche Sammlung (BGHZ, BVerfGE, BVerwGE).
-

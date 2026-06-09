@@ -1,6 +1,6 @@
 ---
 name: kaltstart-schifffahrtsmandat
-description: "'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Flagge; Registerort; Versicherungsstatus P&I/H&M und naechste Frist. Output: Mandateroeffnungs-Checkliste und Sofortmassnahmen-Vermerk.'"
+description: "'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Flagge; Registerort; Versicherungsstatus P&I/H&M und naechste F..."
 ---
 
 # Kaltstart Schifffahrtsmandat
@@ -92,4 +92,3 @@ Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest b
 - UNCLOS Text: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
 - BSH Schiffsregister: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure HGB § 606: https://dejure.org/gesetze/HGB/606.html
-

@@ -64,4 +64,3 @@ Siehe `absolute-grenze-wesensgehalt-art-19-ii-gg` und `absolute-grenze-existenzm
 - BVerfGE 132, 134 (Asylbewerberleistungsgesetz)
 - BVerfGE 154, 17 (BND-Auslandsaufklaerung)
 - BVerfGE 154, 152 (Bestandsdatenauskunft II)
-

@@ -48,4 +48,3 @@ Das commodatum ist die unentgeltliche Gebrauchsüberlassung einer nicht-vertretb
 - D. 13.6 (De commodato) als Haupttitel
 - Gaius Inst. 3.196; Iust. Inst. 3.14.2
 - Kaser RP I §§ 223-226; Zimmermann Law of Obligations Kap. 7
-

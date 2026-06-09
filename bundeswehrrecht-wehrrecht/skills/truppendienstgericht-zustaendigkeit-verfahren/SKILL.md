@@ -1,6 +1,6 @@
 ---
 name: truppendienstgericht-zustaendigkeit-verfahren
-description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesw..."
 ---
 
 # Truppendienstgericht – Zuständigkeit und Verfahren
@@ -93,4 +93,3 @@ Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzl
 - Geschäftsverteilung Truppendienstgerichte – jährlich veröffentlicht beim BVerwG.
 - BVerwG Wehrdienstsenate – Rechtsprechung zu Verfahrensgrundsätzen vor dem TDG.
 - Keine Kommentarstellen oder Aufsätze aus Modellwissen.
-

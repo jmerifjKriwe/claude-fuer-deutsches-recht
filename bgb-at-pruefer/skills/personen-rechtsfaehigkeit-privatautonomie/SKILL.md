@@ -86,4 +86,3 @@ Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung e
 - Vor-Gesellschaft: Haftung der Gründer für Verbindlichkeiten?
 - Nasciturus: Bedingte Rechtsfähigkeit für Erbschaft nach § 1923 Abs. 2 BGB?
 - Deliktsfähigkeit nach § 828 BGB — Abweichung von Geschäftsfähigkeit beachten?
-

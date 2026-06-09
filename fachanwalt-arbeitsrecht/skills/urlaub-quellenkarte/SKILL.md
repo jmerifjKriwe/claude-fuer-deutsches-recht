@@ -15,11 +15,11 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Arbeitsrecht** tragende Norme
 - `ar-aufhebungsvertrag-konkurrenzklausel-fachanwalt-arbeitsrecht`
 - `ar-betriebsuebergang-ar-einfuehrung-ar-leiharbeit`
 - `arbeitsgericht-abrechnung-vergleichsverhandlung-strategie-zugang`
-- `befristung-fao-unwirksam-fristennotiz`
+- `befristung-compliance-dokumentation-und-akte`
 - `befristung-tzbfg-bem-verfahren-fazugang-kuendigungsfrist`
 - `beteiligung-betriebsrat-erstgespraech-mandatsannahme-fachanwalt`
-- `betriebsrat-betrvg-datum`
-- `entgtranspg-fachanwalt-kschg`
+- `betriebsrat-zahlen-schwellen-und-berechnung`
+- `entgtranspg-verhandlung-vergleich-und-eskalation`
 - `fachanwalt-arbeitsrecht-bag-betriebsratsanhoerung`
 - `fachanwalt-arbeitsrecht-freistellungsklausel-sonderfall-ar`
 - `fachanwalt-arbeitsrecht-hinschg-kuendigungsschutzklage`

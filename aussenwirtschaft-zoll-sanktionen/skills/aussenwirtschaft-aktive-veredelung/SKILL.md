@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aktive-veredelung
-description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzungen und Rueckgabefristen. Output: Antragsunterlagen und Abschlussabrechnung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzung..."
 ---
 
 # Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung
@@ -99,4 +99,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

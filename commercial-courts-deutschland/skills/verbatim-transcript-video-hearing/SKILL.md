@@ -69,4 +69,3 @@ Besondere Anker: § 613 ZPO Wortprotokoll. Der Antrag muss beiderseitig abgestim
 - Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-

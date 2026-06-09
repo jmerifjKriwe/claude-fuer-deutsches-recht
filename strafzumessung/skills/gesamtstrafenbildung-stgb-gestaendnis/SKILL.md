@@ -1,6 +1,6 @@
 ---
 name: gesamtstrafenbildung-stgb-gestaendnis
-description: "Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil im Strafzumessung."
+description: "Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis..."
 ---
 
 # Gesamtstrafenbildung — §§ 53 und 54 StGB
@@ -122,4 +122,3 @@ Schritt-für-Schritt:
 - §§ 38, 39, 41 StGB.
 - § 267 Abs. 3 StPO Begruendung.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

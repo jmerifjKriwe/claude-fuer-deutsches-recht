@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-asset-deal-vs-share
-description: "Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matrix und SPA-Mustertexte für beide Varianten. Adressat ist das Großkanzlei-Team in der Strukturentscheidung. Quellen Stand 06/2026."
+description: "Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matr..."
 ---
 
 # Sanierungsgewinn – Im Asset Deal vs. Share Deal
@@ -128,4 +128,3 @@ Drei Beobachtungen aus der Strukturwahl-Praxis:
 - BFH zum Asset Deal und Step-up – ständige Rspr.; bundesfinanzhof.de.
 - BGH zur § 25 HGB-Firmenfortführung – ständige Rspr.; bundesgerichtshof.de.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
-

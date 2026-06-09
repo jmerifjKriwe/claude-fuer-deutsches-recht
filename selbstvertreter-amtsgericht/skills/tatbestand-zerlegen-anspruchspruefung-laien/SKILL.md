@@ -138,4 +138,3 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
-

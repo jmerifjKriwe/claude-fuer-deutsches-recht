@@ -1,6 +1,6 @@
 ---
 name: quellen-und-rechtsprechungscheck
-description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Patentanwälte; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Patentanwälte; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwae..."
 ---
 
 # Quellen- und Rechtsprechungscheck
@@ -33,4 +33,3 @@ description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill f
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-

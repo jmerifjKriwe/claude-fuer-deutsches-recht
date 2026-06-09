@@ -1,6 +1,6 @@
 ---
 name: ug-vorbereitung
-description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro im Gesellschaftsgruender."
+description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterp..."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
@@ -145,4 +145,3 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — das Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht (NJW-RR 2008, 843), nicht Vorbelastungshaftung UG.
 Maßnahme: Beide Nennungen des AZ (Rechtsprechungsabschnitt und Quellenabschnitt) entfernt. Kein verifizierter Ersatz für Vorbelastungshaftung UG auf dejure.org gefunden; kein Ersatz eingefügt.
-

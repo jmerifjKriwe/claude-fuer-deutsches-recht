@@ -111,4 +111,3 @@ Dieser Skill bearbeitet **Satellitenbetrieb aus Deutschland: Genehmigung, Versic
 - EU Space Programme Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
 - UNOOSA: https://www.unoosa.org/
-

@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Salvatorische Klausel: prüft, redlined und
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

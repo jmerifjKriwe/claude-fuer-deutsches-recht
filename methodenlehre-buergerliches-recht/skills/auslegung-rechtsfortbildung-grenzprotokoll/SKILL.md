@@ -1,6 +1,6 @@
 ---
 name: auslegung-rechtsfortbildung-grenzprotokoll
-description: "Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als Prüfprotokoll für Anwälte, Richter und Wissenschaftler, die Auslegungsschritte revisionsrechtlich absichern oder angreifen wollen."
+description: "Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als P..."
 ---
 
 # Auslegung versus Rechtsfortbildung: Grenzprotokoll
@@ -79,4 +79,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BGH NJW 2012, 3576 – Beispiel richterlicher Rechtsfortbildung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=NJW%202012%2C%203576)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

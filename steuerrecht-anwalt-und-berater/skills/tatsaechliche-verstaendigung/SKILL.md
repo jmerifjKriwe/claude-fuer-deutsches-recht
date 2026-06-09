@@ -1,6 +1,6 @@
 ---
 name: tatsaechliche-verstaendigung
-description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen."
+description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Geg..."
 ---
 
 # Tatsaechliche Verstaendigung mit dem Finanzamt — Voraussetzungen und Vertragsmuster
@@ -60,4 +60,3 @@ Ort, Datum [FA] [Mandant] [Berater]
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

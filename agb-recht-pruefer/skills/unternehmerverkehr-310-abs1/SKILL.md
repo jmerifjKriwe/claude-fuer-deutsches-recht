@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Unternehmerverkehr 310 Abs. 1: prüf
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

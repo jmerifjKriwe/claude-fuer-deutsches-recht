@@ -75,4 +75,3 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - "Zeugen mit vollständiger Anschrift benennen";
 - "Fristende mit `fristen-berechnen-187-188-bgb` prüfen";
 - "Vor Einreichung `zulassungsgrenzen-check-amtsgericht` ausführen".
-

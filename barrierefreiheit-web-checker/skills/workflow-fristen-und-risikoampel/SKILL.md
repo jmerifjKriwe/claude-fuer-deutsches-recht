@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Rot**: BFSG-Pflicht erkannt, aber Produkt/Dienst seit 28.06.2025 ohne Konformität; behördliche Anordnung; Klage/Schlichtung anhängig.
 - **Gelb**: WCAG-2.1-AA-Konformität nicht systematisch geprüft, kein Accessibility Statement, fehlende Konformitätserklärung (§ 6 BFSG, Art. 12 EU-Richtlinie 2019/882).
 - **Grün**: Konformitätserklärung vorliegt, regelmäßige Tests (automatisch + manuell), AS (Accessibility Statement) öffentlich, Kontakt nach § 14 BFSG benannt.
-

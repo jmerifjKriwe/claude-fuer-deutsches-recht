@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-214-215-baugb
-description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo."
+description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gem..."
 ---
 
 # Planerhaltung — § 214/215 BauGB
@@ -237,4 +237,3 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-

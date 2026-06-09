@@ -36,4 +36,3 @@ FTO ist nie absolute Freiheit. Das Ergebnis ist eine risikogewichtete Recherche 
 - **Einwendungen prüfen:** Vorbenutzungsrecht (§ 12 PatG), Erschöpfung (§ 9 S. 2 PatG), Lizenz, Verwirkung (§ 242 BGB), Versuchsprivileg (§ 11 Nr. 2 PatG), Bolar-Klausel Medikamentenzulassung.
 - **UPC-Zuständigkeit:** Bei Einheitspatent zentrale Klage am UPC; Opt-out nur bis Ende Übergangszeit; danach Bindung an UPC-Spruch.
 - Tipp: Claim Chart immer mit Anspruchsversion (Anmeldetag, Erteilungstext, Einspruchstext) und Registerabrufdatum versehen.
-

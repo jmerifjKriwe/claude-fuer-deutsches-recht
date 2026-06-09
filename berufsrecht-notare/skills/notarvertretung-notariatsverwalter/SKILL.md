@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - § 39 BNotO (Notarvertretung)
 - § 40 BNotO (Notariatsverwaltung)
-

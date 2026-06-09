@@ -131,7 +131,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `track-changes-nur-nach-frage` | Track Changes und Redline nur nach ausdrücklicher Bestätigung erstellen: Anwendungsfall überarbeiteter Vertrag soll als Track-Changes-Fassung ausgegeben werden; Skill fragt vorher explizit nach Bestätigung. §§ 145 ff. BGB Änderungsverhan... |
 | `track-mandantenkommunikation-entscheidungsvorlage` | Track: Mandantenkommunikation und Entscheidungsvorlage im Vertragsausfueller. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Vertragsausfüller: trennt fehlende Tatsachen von fehlenden Belegen (Vertragsentwurf, Mustervertrag, Anlagen), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
-| `versionierung` | VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfueller. |
+| `vaf-versionierung-aenderungsverfolgung-spezial` | Spezialfall Versionierung und Aenderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff: Pruefraster f... |
 | `vertraege-formular-portal-und-einreichung` | Vertraege: Formular, Portal und Einreichungslogik im Vertragsausfueller. |
 | `vertragsausfueller-erstpruefung-und-mandatsziel` | Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsausfueller. |
 | `vorlagen-vertragsausfueller-vaf-altvertrag` | Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsausfueller. |

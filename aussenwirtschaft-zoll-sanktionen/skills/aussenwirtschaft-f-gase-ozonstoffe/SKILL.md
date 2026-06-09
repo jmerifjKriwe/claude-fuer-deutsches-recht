@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-f-gase-ozonstoffe
-description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmi..."
 ---
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EG) 1005/2009 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009R1005)
 - [Umweltbundesamt F-Gase](https://www.umweltbundesamt.de/themen/klima-energie/treibhausgase/f-gase)
 - [Zoll.de Verbote und Beschraenkungen](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/verbote-beschraenkungen_node.html)
-

@@ -147,7 +147,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `stufen-theorie-interessen-versorgungssystem` | Stufen: Compliance-Dokumentation und Aktenvermerk im Plugin bav strategie konzern im Bav Strategie Konzern. |
 | `theorie-mehrparteien-konflikt-und-interessen` | Theorie: Mehrparteienkonflikt und Interessenmatrix im Plugin bav strategie konzern im Bav Strategie Konzern. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Betriebliche Altersversorgung im Konzern: trennt fehlende Tatsachen von fehlenden Belegen (Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen), nennt pro Lücke Beweisthema,... |
-| `versorgungsordnung-betriebsvereinbarung` | Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV) im Bav Strategie Konzern. |
+| `versorgungsordnung-und-betriebsvereinbarung-drafting` | Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen: Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Fina... |
 | `versorgungssystem-international-schnittstellen` | Versorgungssystem: Internationaler Bezug und Schnittstellen im Plugin bav strategie konzern im Bav Strategie Konzern. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Bav Strategie Konzern. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Bav Strategie Konzern. |

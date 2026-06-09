@@ -39,4 +39,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Maßstab "überwiegende Wahrscheinlichkeit":** Für die positive Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO gilt die "überwiegende Wahrscheinlichkeit" der Fortführung als Bewertungsmaßstab (BGH ständige Rspr.).
 - **Sekundäre Darlegungslast:** Trägt der Insolvenzverwalter im Anfechtungsprozess Anhaltspunkte für Insolvenzreife vor, muss der Anfechtungsgegner substantiiert zu Annahmen und Quellen der Prognose vortragen.
 - **Praxis:** Annahmenkatalog mit Datum, Quelle, Schwankungsbreite und Sensitivitätsanalyse ist die belastbarste Form der Substantiierung. Lose Behauptungen ("Wir hatten genug Auftragsbestand") reichen nicht.
-

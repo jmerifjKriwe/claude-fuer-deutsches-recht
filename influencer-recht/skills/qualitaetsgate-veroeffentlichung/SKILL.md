@@ -104,4 +104,3 @@ Das Qualitätsgate ist der finale Compliance-Check vor Veröffentlichung eines B
 - Freigabe-Ampel-Bericht
 - Korrektur-Anleitung für gelbe/rote Punkte
 - Post-Freigabeformular (mit Unterschrift Brand + Creator)
-

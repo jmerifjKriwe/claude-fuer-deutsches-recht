@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Zwangsverwaltung Zvg."
+description: "Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständ..."
 ---
 
 # Zwangsverwaltung ZVG — Allgemein
@@ -228,4 +228,3 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110) gilt vom 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 wirkt sich auf Beschwerdesummen aus; Uebergangsvorschrift § 47 EGZPO.
 - BGH V. ZS und VII. ZS aktuelle Linien zu Versteigerung und Zuschlag ueber https://www.bundesgerichtshof.de und https://dejure.org pruefen.
-

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-luftrechtsmandat
-description: "'Mandant erscheint erstmals mit Luftrechtsfall: Airline-Insolvenz Flugzeugbeschlagnahme Slot-Verlust oder Planfeststellungsklage. Klaert Zuständigkeit LBA vs. Landesbehoerde vs. Gericht sichert Fristen LuftVG §§ 20 ff. und EU-Recht und liefert Ersteinschaetzungs-Vermerk mit Normpfad und naechsten Schritten.'"
+description: "'Mandant erscheint erstmals mit Luftrechtsfall: Airline-Insolvenz Flugzeugbeschlagnahme Slot-Verlust oder Planfeststellungsklage. Klaert Zuständigkeit LBA vs. Landesbehoerde vs. Gericht sichert Fristen LuftVG §§ 20 ff. und EU-Recht und liefert Ersteinschaetzungs-Vermerk mit Normpfad und naechsten..."
 ---
 
 # Kaltstart Luftrechtsmandat – Ersteinschätzung und Weichenstellung
@@ -88,4 +88,3 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-

@@ -91,4 +91,3 @@ Der Widerspruch ist das erste Rechtsmittel gegen Ablehnungsbescheide der Kranken
 - [§ 25 SGB X – Akteneinsicht](https://www.gesetze-im-internet.de/sgb_10/__25.html)
 - [BSG Verfahrensrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org SGG § 84](https://dejure.org/gesetze/SGG/84.html)
-

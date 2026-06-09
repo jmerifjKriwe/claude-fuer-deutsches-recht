@@ -158,4 +158,3 @@ Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen
 - Unbekannte Materie → an Fach-Skill oder Senior Partner weiterleiten
 - Mandatsgeheimnis: keine vertraulichen Details an unberechtigte Dritte
 - Fristen immer mit Kalender absichern; Verjährung und CP-Fristen sind kritisch
-

@@ -40,4 +40,3 @@ ALR-Loesung: Einl. §§ 74-75 — rechtmäßige hoheitliche Handlung; Sonderopfe
 - BGHZ 9, 83 (st. Rspr.) — Aufopferungsanspruch lebt fort.
 - Subsidiaer zu Spezialgesetzen (SGB XIV, PolG der Länder, OEG bis 31.12.2023, StVG).
 - Abgrenzung: Art. 14 III GG (Enteignung) — Eigentumsentziehung; Art. 34 GG iVm § 839 BGB (Amtshaftung) — rechtswidrige Eingriffe; Aufopferung — alle uebrigen rechtmäßigen Eingriffe.
-

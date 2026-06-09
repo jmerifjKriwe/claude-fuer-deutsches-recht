@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bussgeldverfahren-art-83-dsgvo
-description: "Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, Verschulden, Maßnahmenlage. Schritt-für-Schritt: Akteneinsicht, keine vorschnelle Stellungnahme, dynamische Geldbemessung, EDSA-Methodik, § 41 BDSG, OWiG/StPO-Verfahrensgarantien. Einspruch nach § 67 OWiG binnen zwei Wochen. EuGH C-807/21 Deutsche Wohnen und C-683/21: Unternehmensgeldbuße ohne Identifizierung einer natürlichen Person, aber nicht ohne Vorsatz oder Fahrlässigkeit. Mustertexte Einspruch, Stellungnahme, Erledigungsvorschlag. Abgrenzung: keine zivilrechtliche Schadensersatzabwehr."
+description: "Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, Verschulden, Maßnahmenlage. Schritt-für-Schritt: Akteneinsich..."
 ---
 
 # Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO
@@ -118,4 +118,3 @@ Sieben-Fragen-Diagnose:
 - EuGH C-807/21 Deutsche Wohnen, Urteil 05.12.2023.
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, Version 1.0, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

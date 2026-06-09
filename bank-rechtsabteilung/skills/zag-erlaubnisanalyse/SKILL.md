@@ -46,4 +46,3 @@ Dieser Skill prüft, ob ein Geschäftsmodell der Erlaubnispflicht nach dem ZAG u
 - PIS-Provider (Zahlungsauslösung): § 1 Abs. 1 Satz 2 Nr. 7 ZAG, Anfangskapital 50 TEUR (§ 17 ZAG), Haftpflichtversicherung statt Sicherungskonzept (§ 16 Abs. 3 ZAG)
 - Passporting aus EU-Staat: § 38 ZAG-Notifizierung; BaFin-Prüfung ob Hauptverwaltung wirklich im Herkunftsstaat
 - ZAG-Institut erweitert um Kreditvergabe: Grenze zu § 1 Abs. 1 Nr. 2 KWG; ggf. KWG-Erlaubnis erforderlich
-

@@ -106,4 +106,3 @@ Eingaben:
 - BfArM-Engpassliste (tagesaktuell online).
 - ABDA-Mitteilungen zum Engpass-(vom Anwender zu verifizieren).
 - BSG, staend. Rspr. zur Retaxation bei Engpass.
-

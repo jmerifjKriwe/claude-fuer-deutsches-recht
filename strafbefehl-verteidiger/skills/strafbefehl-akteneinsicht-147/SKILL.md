@@ -86,4 +86,3 @@ Mit kollegialen Gruessen
 - Rohmessdaten bei Geschwindigkeitsmessungen grundsaetzlich mitverlangen.
 - Bei Versagung sofort Rechtsbehelf nach § 147 Abs. 5 StPO — Einspruchsfrist laeuft unabhaengig davon.
 - Anwaltliche Endkontrolle bei jedem Schritt.
-

@@ -1,6 +1,6 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker im Mandantenanfragen Assistent."
+description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-pa..."
 ---
 
 # Spam-und-Massen-Anfrage-Filter
@@ -122,4 +122,3 @@ Der Filter ist bewusst konservativ eingestellt. Im Zweifel lieber `VERDÄCHTIG` 
 - `folgekorrespondenz-vorbereiten` — erhält den Spam-Status
 - `dringlichkeitsmarker` — läuft nur bei KLAR-Status
 - `erstantwort-generator` — wird nur bei KLAR-Status ausgeführt
-

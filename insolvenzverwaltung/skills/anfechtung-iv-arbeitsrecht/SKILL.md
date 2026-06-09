@@ -1,6 +1,6 @@
 ---
 name: anfechtung-iv-arbeitsrecht
-description: "Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen im Insolvenzverwaltung."
+description: "Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältn..."
 ---
 
 # Insolvenzanfechtung §§ 129 ff. InsO
@@ -151,4 +151,3 @@ Hinweis: Keine Rechtsberatung. Die KI kann Anfechtungsrisiken aus Akten sichtbar
 - BGH IX ZR 127/24
 - BGH IX ZR 114/23
 - BGH II ZR 206/22
-

@@ -123,4 +123,3 @@ Musterklausel:
 - **GEMA-Anmeldungsformular**: Podcast-Nutzung
 - **Interview-Einwilligungsformular**: Kurzfassung für Autoren-Interviews
 - **Medienrechtliches Impressum**: MStV-konformes Muster für Podcast-Website
-

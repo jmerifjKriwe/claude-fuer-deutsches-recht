@@ -153,4 +153,3 @@ Unterschrift: [Name]
 ### Leitentscheidungen
 
 - EuGH C-131/12
-

@@ -1,6 +1,6 @@
 ---
 name: befangenheit-und-selbstanzeige
-description: "Befangenheit und Selbstanzeige: erklärt persönliche Nähe, Vorwissen, Social Media, Branchenkontakt und Neutralität erkennen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Befangenheit und Selbstanzeige: erklärt persönliche Nähe, Vorwissen, Social Media, Branchenkontakt und Neutralität erkennen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Han..."
 ---
 
 # Befangenheit und Selbstanzeige
@@ -41,4 +41,3 @@ Konkret zu prüfen:
 - §§ 24, 26 StPO
 - § 31 StPO
 - § 338 Nr. 3 StPO
-

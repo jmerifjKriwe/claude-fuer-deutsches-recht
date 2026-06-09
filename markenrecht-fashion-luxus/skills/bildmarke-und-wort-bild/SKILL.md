@@ -1,6 +1,6 @@
 ---
 name: bildmarke-und-wort-bild
-description: "Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Prüfraster: Bildbestandteil-Schutzumfang, Farbansprüche RGB/Pantone/HKS, Unterscheidungskraft des Logos, Kollisions-Vorrecherche. Output Anmelde-Strategie für Bild-/Wort-Bild-Marke, Farbanspruch-Formulierung, Vienna-Class-Empfehlung. Abgrenzung: Wort-Element siehe wortmarke-anmeldung-dpma; 3D-Marke siehe dreidimensionale-marke im Markenrecht Fashion Luxus."
+description: "Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Prüfraster: Bildbestandteil-Schutzumfang, Farbansprüche RGB/P..."
 ---
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos
@@ -123,4 +123,3 @@ Bevor die Bildmarke eingereicht wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

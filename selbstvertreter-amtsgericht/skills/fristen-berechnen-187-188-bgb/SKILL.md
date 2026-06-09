@@ -126,4 +126,3 @@ In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
-

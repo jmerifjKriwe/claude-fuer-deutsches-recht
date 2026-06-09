@@ -62,4 +62,3 @@ description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundl
 - https://www.gesetze-im-internet.de/bgb/__779.html
 - https://www.gesetze-im-internet.de/bgb/__397.html
 - https://www.gesetze-im-internet.de/zpo/__794.html
-

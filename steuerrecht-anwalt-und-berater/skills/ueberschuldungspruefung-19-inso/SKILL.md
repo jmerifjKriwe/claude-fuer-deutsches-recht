@@ -150,4 +150,3 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 ## Quellen und Updates
 
 Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Prognose bis 31.12.2026), SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.), § 102 StaRUG. Bei Verlängerung/Auslaufen des SanInsKG ab 1.1.2027 Prognosezeitraum-Default zurück auf 12 Monate — bitte Stichtag prüfen.
-

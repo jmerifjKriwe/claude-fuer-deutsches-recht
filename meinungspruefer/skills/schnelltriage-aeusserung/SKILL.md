@@ -55,4 +55,3 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Warnhinweis
 
 Keine endgültige Bewertung, wenn der Wortlaut unvollständig ist oder nur berichtet wird, was "ungefähr" gesagt wurde. Dann zuerst `zitat-und-kontextaufnahme`.
-

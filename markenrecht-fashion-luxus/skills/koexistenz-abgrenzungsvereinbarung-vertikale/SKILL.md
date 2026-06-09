@@ -46,4 +46,3 @@ description: "Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenre
 ## Warnung
 
 Koexistenz ist kein bloßer Waffenstillstand. Sie muss operativ, registerfest und marketingtauglich sein.
-

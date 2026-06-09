@@ -1,6 +1,6 @@
 ---
 name: interessenjurisprudenz-heck
-description: "Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist."
+description: "Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjuri..."
 ---
 
 # Interessenjurisprudenz nach Philipp Heck
@@ -86,4 +86,3 @@ Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens daru
 - BVerfGE 89, 214 — Buergschaft (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2089%2C%20214).
 
 Stand: Mai 2026.
-

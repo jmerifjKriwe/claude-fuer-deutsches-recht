@@ -1,6 +1,6 @@
 ---
 name: bmukn-immissionsschutz-und-bimschg
-description: "Sachbereich Immissionsschutz (BImSchG) im Geschaeftsbereich BMUKN: Normbestand (BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.); Akteure (UBA; BfS (Strahlen); Länder-Genehmigungsbehoerden; Bundesverwaltung Verkehr.); EU-Bezug (IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung)."
+description: "Sachbereich Immissionsschutz (BImSchG) im Geschaeftsbereich BMUKN: Normbestand (BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.); Akteure (UBA; BfS (Strahlen); Länder-Genehmigungsbehoerden; Bundesverwaltung Verkehr.); EU-Bezug (IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.); ty..."
 ---
 
 # Immissionsschutz (BImSchG) (BMUKN)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

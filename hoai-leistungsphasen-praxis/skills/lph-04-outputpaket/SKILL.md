@@ -1,6 +1,6 @@
 ---
 name: lph-04-outputpaket
-description: "HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphase..."
 ---
 
 # LPH 4 Genehmigungsplanung: Liefert alle dokumente
@@ -32,4 +32,3 @@ description: "HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen u
 - Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
 - Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

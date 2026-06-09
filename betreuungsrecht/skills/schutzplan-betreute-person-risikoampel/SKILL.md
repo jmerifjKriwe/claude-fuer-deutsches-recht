@@ -56,4 +56,3 @@ Schutzplan
 ## Entscheidungsregel
 
 Schutz ist kein Freibrief für Bevormundung. Jede Maßnahme muss am Aufgabenkreis, an § 1821 BGB, am Willen der betreuten Person und an der Erforderlichkeit gemessen werden.
-

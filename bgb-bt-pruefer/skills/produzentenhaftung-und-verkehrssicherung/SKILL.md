@@ -65,4 +65,3 @@ description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, K
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/prodhaftg/
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2853
-

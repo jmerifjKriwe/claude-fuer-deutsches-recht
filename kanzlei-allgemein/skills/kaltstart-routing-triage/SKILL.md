@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Kanzlei Allgemein-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Kanzlei Allgemein-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig:..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -300,4 +300,3 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - Gesetzesfassungen zum Stand-Datum
 - PostModG: Zustellungsfiktion vier Werktage seit 01.01.2025
 - § 23 Nr. 1 GVG: AG-Wertgrenze 10.000 EUR seit 01.01.2026
-

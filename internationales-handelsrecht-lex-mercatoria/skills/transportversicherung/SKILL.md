@@ -48,4 +48,3 @@ Die Transportversicherung (Cargo Insurance) sichert Warenrisiken auf dem interna
 - CIF-Vertrag: Käufer ggf. Zusatzversicherung abschließen (CIF nur ICC C-Minimum)
 - Versicherungszertifikat: Blank-Indossament für Akkreditivzwecke
 - Kriegsrisikogebiete: Lloyd's Market Association Annual War Notice prüfen
-

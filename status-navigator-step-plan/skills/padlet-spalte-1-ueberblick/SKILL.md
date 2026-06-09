@@ -59,4 +59,3 @@ LausitzStorage-Akte:
 ## Plugin-Kontext
 Spalte 1 ist die Eingangsansicht. Die folgenden drei Padlet-Skills bauen
 die Detailspalten 2, 3 und 4 auf.
-

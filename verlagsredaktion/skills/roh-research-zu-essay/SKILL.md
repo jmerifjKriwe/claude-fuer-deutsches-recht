@@ -92,4 +92,3 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle für eine
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022, zur Strukturarbeit.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Essay-Aufbau.
-

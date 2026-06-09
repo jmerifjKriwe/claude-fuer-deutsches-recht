@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-pruefung
-description: "Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berücksichtigt Trennungsgebot (§ 1836 BGB), Belege, Konten, Immobilien, Wertpapiere, Verbindlichkeiten, spätere Vermögenserwerbe und Anschluss an Jahresbericht, Rechnungslegung/Vermögensübersicht und Kontodaten-Vertragsverdacht."
+description: "Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berücksichtigt Trennungsgebot (§ 1836 BGB), Belege, Konten, Immob..."
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)

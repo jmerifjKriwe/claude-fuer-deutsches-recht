@@ -244,4 +244,3 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 - Stand: 05/2026
 - MarkenG, UMV (VO (EU) 2017/1001), Lanham Act (15 U.S.C.) in aktuell geltender Fassung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

@@ -59,4 +59,3 @@ ALR-Loesung: ALR II 7 — Gemeinheitsteilungsordnung 07.06.1821 ergaenzt das ALR
 - Gemeindeordnungen der Länder.
 - Magistrats- oder Buergermeister-Verfassungen je nach Land.
 - Staedteordnung 1808 als historischer Anker — gilt als Geburt der modernen kommunalen Selbstverwaltung.
-

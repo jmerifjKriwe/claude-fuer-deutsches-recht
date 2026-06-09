@@ -137,4 +137,3 @@ In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 114 ff. ZPO unveraendert. PKH-Freibetraege jaehrlich angepasst — aktuelle Hoehen ueber Justizportal verifizieren.
-

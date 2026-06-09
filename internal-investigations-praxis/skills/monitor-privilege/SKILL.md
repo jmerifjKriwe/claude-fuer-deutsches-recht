@@ -83,4 +83,3 @@ Dieser Skill stellt sicher, dass das Monitor-Reporting vollständig, strategisch
 - **Exit-Checkliste** (Attestierungsvoraussetzungen)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

@@ -68,4 +68,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BGH XII ZR 64/21
 - BGH XI ZR 26/20
 - EuGH C-249/21
-

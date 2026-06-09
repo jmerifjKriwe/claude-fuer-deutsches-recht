@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-app-store-und-app-daten
-description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse im Datenbankrecht."
+description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und A..."
 ---
 
 # Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht
@@ -63,4 +63,3 @@ description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e U
 - [P2B-VO 2019/1150 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
 - [DSGVO Art. 46 — dejure.org](https://dejure.org/gesetze/DSGVO/46.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

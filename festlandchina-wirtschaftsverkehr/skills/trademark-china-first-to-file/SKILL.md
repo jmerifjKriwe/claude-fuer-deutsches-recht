@@ -1,6 +1,6 @@
 ---
 name: trademark-china-first-to-file
-description: "Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan im Festlandchina Wirtschaftsverkehr."
+description: "Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse u..."
 ---
 
 # Markenschutz VR China: First-to-File und Anti-Squatting
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

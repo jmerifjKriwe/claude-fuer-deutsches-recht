@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt
@@ -47,4 +47,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. Maßgeblich sind Tool-Auswahl, Mandanten- und Berufsgeheimnisschutz, dokumentierte Endkontrolle und Aktualisierung bei neuen Kammerhinweisen, Rechtsprechung oder Gesetzesänderungen.
-

@@ -141,6 +141,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `wohngeld` | Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch im Bürokratie-Entbürokratisierung. |
 | `wohnung-und-obdachlosigkeit` | Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz im Bürokratie-Entbürokratisierung. |
 | `zahlung-stundung-raten` | Formuliert Stundungs-, Ratenzahlungs-, Erlass- oder Aussetzungsantrag bei Forderungen öffentlicher Stellen im Bürokratie-Entbürokratisierung. |
-| `zwangsgeld-zwangsvollstreckung` | Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung. |
+| `zwangsgeld-und-zwangsvollstreckung-behoerde` | Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen: Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

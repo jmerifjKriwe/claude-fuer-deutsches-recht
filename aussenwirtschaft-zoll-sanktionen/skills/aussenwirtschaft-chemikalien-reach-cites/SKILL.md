@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-chemikalien-reach-cites
-description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote für nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote für nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Che..."
 ---
 
 # REACH und PIC: Chemikalien-Compliance im Aussenhandel
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [VO (EU) 649/2012 PIC auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0649)
 - [ECHA REACH-Datenbank](https://echa.europa.eu/de/information-on-chemicals)
 - [Zoll.de Gefahrgut Chemikalien](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Chemikalien/chemikalien_node.html)
-

@@ -1,6 +1,6 @@
 ---
 name: amts-fristen-form-zustaendigkeit
-description: "Amts: Fristen, Form, Zust채ndigkeit und Rechtsweg im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerausz체ge, Bescheide, Vertr채ge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Amts: Fristen, Form, Zust채ndigkeit und Rechtsweg im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Amts: Fristen, Form, Zust채ndigkeit und Rechtsweg
@@ -63,4 +63,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - BGH VII ZR 213/10
 - BGH VI ZR 39/20
 - BGH VI ZR 40/20
-

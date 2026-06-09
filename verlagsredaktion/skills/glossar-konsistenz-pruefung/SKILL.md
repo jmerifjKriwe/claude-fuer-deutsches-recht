@@ -100,4 +100,3 @@ Lemma "Plattformbetreiber"
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Plachta, Editionswissenschaft, 4. Aufl. 2020 (für Werkkonsistenz).
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (zu juristischer Begriffsbildung).
-

@@ -70,4 +70,3 @@ ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
 - Nach Abschluss: Insiderlisten schließen (Austrittsdaten)
 - Neues Management, neue PDMRs: Directors' Dealings-Pflichten auffrischen
 - Compliance-Policy nach Restrukturierung aktualisieren
-

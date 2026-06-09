@@ -39,4 +39,3 @@ VVG §§ 74, 75, 76; AVB Sachversicherung; BGB.
 ## Anschluss-Skills
 
 - Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
-

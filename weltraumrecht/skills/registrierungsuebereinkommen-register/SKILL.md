@@ -110,4 +110,3 @@ Dieser Skill bearbeitet **Registrierungsübereinkommen: Register, Staat, Zustän
 - UNGA Res. 62/101: https://www.unoosa.org/res/oosadoc/data/resolutions/2007/general_assembly_62nd_session/res_6262_101_html/A_RES_62_101E.pdf
 - OST Art. VIII: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
 - BMWK Weltraumgesetz: https://www.bmwk.de/
-

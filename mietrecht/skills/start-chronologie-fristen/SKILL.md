@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Mietrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Mietrecht."
+description: "Einstieg, Schnelltriage und Fallrouting im Mietrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet..."
 ---
 
 # Mietrecht — Allgemein
@@ -248,4 +248,3 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
  - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.
  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung und Zugang (siehe schriftform-und-textform-bgb).
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 § 23 GVG i.V.m. neuen Wertgrenzen wirkt auf Raeumungsklagen und mietrechtliche Zahlungsklagen; AG bleibt aber für Wohnraummietsachen ohne Streitwertgrenze zuständig (§ 23 Nr. 2a GVG).
-

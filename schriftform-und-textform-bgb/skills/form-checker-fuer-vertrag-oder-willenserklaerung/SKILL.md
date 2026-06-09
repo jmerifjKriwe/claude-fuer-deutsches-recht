@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt im Schriftform Und Textform Bgb."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftfor..."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung
@@ -182,4 +182,3 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - **Formfreiheit vs. Formklausel**: Auch wenn das Gesetz keine Form vorschreibt, kann ein vertraglich vereinbartes Schriftformerfordernis gelten (§ 127 BGB). Immer den Vertrag auf Schriftformklauseln prüfen.
 - **§ 305b BGB**: Individuelle Abreden gehen AGB (einschließlich Schriftformklausel in AGB) vor — auch mündlich. Doppelte Schriftformklausel kann Schutz bieten, ist aber selbst AGB-pflichtig.
 - **Formhierarchie**: Wer Textform hat, hat noch keine Schriftform. Wer Schriftform hat, hat automatisch auch Textform gewahrt.
-

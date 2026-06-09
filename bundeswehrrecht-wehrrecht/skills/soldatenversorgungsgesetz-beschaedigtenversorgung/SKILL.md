@@ -1,6 +1,6 @@
 ---
 name: soldatenversorgungsgesetz-beschaedigtenversorgung
-description: "Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bun..."
 ---
 
 # Soldatenversorgungsgesetz – Beschädigtenversorgung
@@ -95,4 +95,3 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 - BSG zu § 81 SVG – ständige Rechtsprechung zur Kausalitätsfrage.
 - BAPersBw – Verwaltungspraxis und Antragsformulare.
 - Einsatzversorgungs-Verbesserungsgesetz – BGBl. Eintrag und Folgenovellen verifizieren.
-

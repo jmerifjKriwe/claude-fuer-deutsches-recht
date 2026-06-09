@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Vollstreckungsabwehrklage (§ 767 ZPO):** Schuldner kann materielle Einwendungen (Erfüllung, Stundung, Verjährung), die nach Schluss der mündlichen Verhandlung entstanden sind, im Wege der Vollstreckungsabwehrklage geltend machen.
 - **Verjährung (§§ 197 Abs. 1 Nr. 3, 4 BGB):** Vollstreckungstitel verjähren in 30 Jahren ab Rechtskraft. Wiederholtes Anhängigmachen / Wiederaufnahme des Vollstreckungsverfahrens unterbricht die Verjährung.
 - **EuG-Titel:** Europäischer Vollstreckungstitel (VO 805/2004), Europäischer Zahlungsbefehl (VO 1896/2006), Europäischer Geringfügigkeitsverfahren (VO 861/2007) - länderübergreifende Vollstreckung ohne Exequatur.
-

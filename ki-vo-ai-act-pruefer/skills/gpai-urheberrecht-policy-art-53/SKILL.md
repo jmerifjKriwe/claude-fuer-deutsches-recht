@@ -27,4 +27,3 @@ Anbieter von GPAI-Modellen müssen urheberrechtliche Compliance nicht nur behaup
 ## Warnung
 
 Urheberrechtliche Compliance ist nicht mit "Daten waren öffentlich im Internet" erledigt. Prüfe Lizenz, TDM-Ausnahme, Opt-out und Reproduktionsrisiko getrennt.
-

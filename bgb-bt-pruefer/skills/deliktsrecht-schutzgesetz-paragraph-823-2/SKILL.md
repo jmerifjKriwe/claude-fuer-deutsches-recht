@@ -63,4 +63,3 @@ description: "Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eige
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/stgb/__263.html
 - https://www.gesetze-im-internet.de/bgb/__249.html
-

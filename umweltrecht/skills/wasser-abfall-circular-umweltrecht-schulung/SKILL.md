@@ -44,4 +44,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Wasserrahmenrichtlinie (WRRL):** Umsetzung in §§ 27-31 WHG; Verschlechterungsverbot und Verbesserungsgebot mit ggf. weitreichenden Folgen für Genehmigungspraxis (EuGH-Rspr. zur Weservertiefung als Leitlinie).
 - **Sanierungspflicht (§ 4 BBodSchG i.V.m. § 90 WHG):** Bei Gewässerverunreinigung gilt Verursacherprinzip; auch Grundstückseigentümer kann nach § 4 Abs. 3 BBodSchG in Anspruch genommen werden (Zustandshaftung).
 - **Schadensersatz (§ 89 WHG):** Verschuldensunabhängige Gefährdungshaftung für Inhaber von Anlagen mit wassergefährdenden Stoffen; Pflicht zur Versicherung nicht zwingend, in der Praxis aber wirtschaftlich erforderlich.
-

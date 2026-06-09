@@ -144,4 +144,3 @@ Mit freundlichen Gruessen
 - DFG-Foerderbedingungen Open Access (aktuelle Fassung unter dfg.de).
 - EU-Horizon-Programmregeln zu Open Access (cordis.europa.eu).
 - BGH-Rechtsprechung zu § 38 UrhG und Sublizenzen (Volltexte unter bundesgerichtshof.de und dejure.org).
-

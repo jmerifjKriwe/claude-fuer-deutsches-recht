@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-eori-registrierung-stammdaten
-description: "EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsformular und Stammdaten-Pruefcheckliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsform..."
 ---
 
 # EORI-Registrierung: Beantragung und Stammdatenpflege
@@ -75,4 +75,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [UZK Art. 9 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de EORI-Registrierung](https://www.zoll.de/DE/Fachthemen/Zoelle/EORI-Nummer/eori-nummer_node.html)
 - [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)
-

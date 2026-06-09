@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - BVerfGE 9, 223 (Justizmäßigkeit der StA)
 - § 147 GVG (Aufsicht)
 - § 145 GVG (Devolution, Substitution)
-

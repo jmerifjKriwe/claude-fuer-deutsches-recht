@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-strafrecht
-description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer Strafrecht-Aufbau, Verbrechensaufbau prüfen, Konkurrenzen Strafrecht, Analogieverbot oder Vorsatz subsumieren sagt im Jurastudium."
+description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsg..."
 ---
 
 # Methodenlehre — Strafrecht
@@ -124,4 +124,3 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 
 - Sie korrigiert keine ausgeschriebenen Gutachten (das macht `gutachten-uebung`).
 - Sie übt nicht den Streit objektive/subjektive Theorie auf Detailniveau — sie übt die Anwendung in der Klausur.
-

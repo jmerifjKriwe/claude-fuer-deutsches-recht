@@ -1,6 +1,6 @@
 ---
 name: bho-55-oeffentliche-ausschreibung-prak
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 55 Öffentliche Ausschreibung praktisch anwenden. BHO § 55 Öffentliche Ausschreibung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 55 Öffentliche Ausschreibung praktisch anwenden. BHO § 55 Öffentliche Ausschreibung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (B..."
 ---
 
 # Bho 55 Oeffentliche Ausschreibung Prak
@@ -27,4 +27,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 55 Öffentliche Aussch
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-

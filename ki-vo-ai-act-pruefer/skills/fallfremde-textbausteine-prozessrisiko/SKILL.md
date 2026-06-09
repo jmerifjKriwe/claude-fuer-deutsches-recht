@@ -33,4 +33,3 @@ Prüfe gezielt:
 - **Grün:** Aktenbezug eindeutig.
 - **Gelb:** plausibel, aber nicht belegt.
 - **Rot:** fremd, erfunden, widersprüchlich oder gefährlich.
-

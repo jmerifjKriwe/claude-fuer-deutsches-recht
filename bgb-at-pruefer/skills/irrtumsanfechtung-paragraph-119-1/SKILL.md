@@ -78,4 +78,3 @@ Motivirrtum: Kauft Aktie in Erwartung steigender Kurse — Erwartung erfüllt si
 - Motivirrtum ausgeschieden?
 - Unverzüglichkeit nach § 121 BGB gewahrt?
 - § 122 BGB: Schadensersatz des Anfechtenden geprüft?
-

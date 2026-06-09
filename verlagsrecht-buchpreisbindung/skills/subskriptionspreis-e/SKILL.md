@@ -1,6 +1,6 @@
 ---
 name: subskriptionspreis-e
-description: "Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Recht..."
 ---
 
 # Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis
@@ -122,4 +122,3 @@ Verlage nutzen **Subskriptions-, Einführungs- und Aktionspreise**, um Nachfrage
 - **Compliance-Checkliste Plattformen**: E-Book-Aktionen auf Richtigkeit geprüft
 - **UWG-Werbungscheck**: Preisangaben in Werbematerialien
 - **Aktionspreis-Briefing** für Buchhandel
-

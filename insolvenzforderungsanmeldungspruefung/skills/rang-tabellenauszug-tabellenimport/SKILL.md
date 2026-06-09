@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Massegläubiger §§ 53–55 InsO:** Verfahrens- und Verwalterhandlungen nach Eröffnung — vorrangig zu befriedigen; bei Masseunzulänglichkeit § 209 InsO Reihenfolge zu beachten.
 - **Trade-off:** Höher gestaffelte Rangangabe in der Anmeldung erhöht den Anteil der Quote — wirtschaftlich aber meist marginal, weil nachrangige Forderungen idR ohne Quote bleiben.
 - **Praxis:** Bei Gesellschafterdarlehen unbedingt die Sanierungsprivilegien (§ 39 Abs. 4, Abs. 5 InsO) prüfen.
-

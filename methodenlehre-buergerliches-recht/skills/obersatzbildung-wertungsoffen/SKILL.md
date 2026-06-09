@@ -1,6 +1,6 @@
 ---
 name: obersatzbildung-wertungsoffen
-description: "Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vorwegzunehmen. Geeignet für juristische Ausbildung, Klausuren und Praxisgutachten."
+description: "Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vor..."
 ---
 
 # Obersatzbildung: Wertungsoffene Formulierung im Gutachten
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

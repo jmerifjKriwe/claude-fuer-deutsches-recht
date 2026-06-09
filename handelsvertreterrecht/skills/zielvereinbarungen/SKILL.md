@@ -1,6 +1,6 @@
 ---
 name: zielvereinbarungen
-description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele im Handelsvertreterrecht."
+description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Z..."
 ---
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
 - [§ 313 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__313.html)
 - [Dejure § 307 BGB](https://dejure.org/gesetze/BGB/307.html)
-

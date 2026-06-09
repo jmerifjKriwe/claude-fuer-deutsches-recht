@@ -37,4 +37,3 @@ description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll
 - Haftungs- und Freistellungsklausel.
 - Nachbearbeitungs- und Austauschrecht.
 - Verbot bestimmter Referenzprompts.
-

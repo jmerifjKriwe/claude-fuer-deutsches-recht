@@ -1,6 +1,6 @@
 ---
 name: leichtfertige-steuerverkuerzung-378-ao
-description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren ein weil Vorsatz nicht nachgewiesen werden kann. Behandelt Leichtfertigkeit als grobe Fahrlaessigkeit Verfolgungsverjaehrung fuenf Jahre Verteidigung und Selbstanzeigewirkung. Output Pruefraster und Stellungnahme im OWi-Verfahren. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-selbstanzeige-371-ao."
+description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren ein weil Vorsatz nicht nachgewiesen werden kann. Behandelt Le..."
 ---
 
 # Leichtfertige Steuerverkuerzung — § 378 AO und Bussgeldverfahren
@@ -42,4 +42,3 @@ description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfer
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

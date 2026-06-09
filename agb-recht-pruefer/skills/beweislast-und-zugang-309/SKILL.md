@@ -64,4 +64,3 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

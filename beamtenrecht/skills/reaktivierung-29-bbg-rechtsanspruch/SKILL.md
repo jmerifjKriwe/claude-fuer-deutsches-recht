@@ -1,6 +1,6 @@
 ---
 name: reaktivierung-29-bbg-rechtsanspruch
-description: "Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht."
+description: "Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhesta..."
 ---
 
 # Reaktivierung nach § 29 BBG — Rueckkehr aus dem Ruhestand
@@ -66,4 +66,3 @@ Skill für ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, d
 ## 7. Beispiel (Kurzfassung)
 
 Mandant wurde 2019 wegen depressiver Episode in den Ruhestand versetzt; nunmehr stabilisiert. Skill liefert Reaktivierungsantrag mit amtsaerztlichem Gutachten und Hinweis auf Anspruch.
-

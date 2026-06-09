@@ -1,6 +1,6 @@
 ---
 name: statuscheck-paragraf84
-description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen im Handelsvertreterrecht."
+description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen im Handelsvertr..."
 ---
 
 # Statuscheck Handelsvertreter nach § 84 HGB
@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 611a BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__611a.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
-

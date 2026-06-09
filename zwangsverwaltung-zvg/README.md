@@ -180,6 +180,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `zwvw-anordnung-zwangsverwaltung` | Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer im Zwangsverwaltung Zvg. |
 | `zwvw-kostenrechnung-verwalter-spezial` | Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster für Glaeubiger und Vollstreckungsgericht im Zwangsverwaltung Zvg. |
 | `zwvw-mietverhaeltnis-bestand-leitfaden` | Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster für Mieter und Verwalter im Zwangsverwaltung Zvg. |
-| `zwvw-versteigerung` | Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg. |
+| `zwvw-versteigerung-vs-verwaltung-spezial` | Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung: Pruefraster für Glaeubiger und Schuldner. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

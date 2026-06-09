@@ -28,4 +28,3 @@ TKG Notrufvorschriften live prüfen; Sicherheitsrecht; DSGVO Standortdaten; BSI/
 
 - tk-cloud-telefonie-voip-compliance
 - tk-notfall-und-katastrophenkommunikation
-

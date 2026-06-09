@@ -1,6 +1,6 @@
 ---
 name: umwandlung-formwechsel-umwstg
-description: "Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel Einbringung mit den Rechtsfolgen Buchwert Zwischenwert oder gemeiner Wert. Anwendungsfall Konzern oder Familie strukturiert um — Mandant braucht Klarheit zu Steuerfolgen Sperrfristen und Antragsregelungen § 20 § 24 UmwStG. Behandelt Wertansatzwahl Sperrfristen rueckwirkende Steuerwirkung § 2 UmwStG Veraeusserungsbesteuerung und Verlustabzug § 12 Abs. 3 UmwStG. Output Pruefraster und Strategiematrix. Abgrenzung zu fa-stu-anteilstausch-21-umwstg."
+description: "Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel Einbringung mit den Rechtsfolgen Buchwert Zwischenwert oder gemeiner Wert. Anwendungsfall Konzern oder Familie strukturiert um — Mandant braucht Klarheit zu Steuerfolgen Sperrfriste..."
 ---
 
 # Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel nach UmwStG
@@ -45,4 +45,3 @@ description: "Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlung
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

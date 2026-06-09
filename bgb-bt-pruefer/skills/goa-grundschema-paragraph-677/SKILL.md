@@ -60,4 +60,3 @@ description: "Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA
 - unechte-goa-paragraph-687
 - auftrag-und-unentgeltliche-taetigkeit
 - bereicherungsrecht-leistungskondiktion
-

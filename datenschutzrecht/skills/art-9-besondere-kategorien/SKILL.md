@@ -1,6 +1,6 @@
 ---
 name: art-9-besondere-kategorien
-description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizierung; Gesundheitsdaten; Daten zum Sexualleben oder zur sexuellen Orientierung. Folgen: regelmäßige Annahme hohen Risikos; Benachrichtigung Art. 34 DSGVO; Bußgeldverschärfung Art. 83 Abs. 5. Output: Memo mit Schutzbedarfsanalyse. Abgrenzung: § 203 StGB getrennt; Sozialdaten getrennt."
+description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizie..."
 ---
 
 # Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
@@ -73,4 +73,3 @@ Conclusion: bei Art. 9-Daten im Klartext regelmäßig Meldung Art. 33 und Benach
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-

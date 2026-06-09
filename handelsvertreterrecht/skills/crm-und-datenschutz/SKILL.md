@@ -1,6 +1,6 @@
 ---
 name: crm-und-datenschutz
-description: "Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehmers an den erhobenen Kundendaten im Handelsvertreterrecht."
+description: "Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehme..."
 ---
 
 # CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und § 88 HGB
@@ -81,4 +81,3 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
 - [Dejure Art. 28 DSGVO](https://dejure.org/gesetze/DSGVO/28.html)
-

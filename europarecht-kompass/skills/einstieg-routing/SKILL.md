@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Europarecht-Kompass: ordnet Rolle (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), markiert Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV), wählt Norm (AEUV/EUV, EU-Grundrechtecharta, Sekundärrecht (VO/RL)) und Zuständigkeit (EuGH), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Europarecht-Kompass: ordnet Rolle (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), markiert Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV), wählt Norm (AEUV/EUV, EU-Grundrechtecharta, Sekundärrecht (VO/RL)) und Zuständigkeit (EuGH), leitet zum passenden..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

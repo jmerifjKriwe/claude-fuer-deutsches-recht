@@ -115,4 +115,3 @@ Stand: 05/2026.
 - BMF zu Pflegekraeften.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SvEV Grundlohn-Grenze 25 EUR/Stunde seit 2019 stabil) -->
-

@@ -109,4 +109,3 @@ Stand: 05/2026.
 - EStG § 6.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
-

@@ -1,6 +1,6 @@
 ---
 name: gesetzgebung-justiz-wissenschaft-rollen
-description: "Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt zwischen gesetzgeberischer, richterlicher und wissenschaftlicher Rechtsbildung unterschieden wird."
+description: "Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt..."
 ---
 
 # Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya, Richterrecht und Gesetzgebung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

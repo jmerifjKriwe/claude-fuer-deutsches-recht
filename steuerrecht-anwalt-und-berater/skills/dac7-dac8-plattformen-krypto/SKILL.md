@@ -1,6 +1,6 @@
 ---
 name: dac7-dac8-plattformen-krypto
-description: "Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bußgeld § 379 AO bei Verletzung. Output Compliance-Prüfliste Meldeprozess Vermeidungsstrategie Beratungsmemo für Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024."
+description: "Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartals..."
 ---
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto
@@ -167,4 +167,3 @@ Bei Vorsatz zusätzlich strafrechtliche Verfolgung nach § 370 AO denkbar.
 ## Quellen und Updates
 
 Stand: 05/2026. PStTG seit 1.1.2023 in Kraft, KryptoStG seit 1.1.2026. MiCA-VO ab 30.12.2024 vollständig anwendbar. DAC7-Erstmeldungen ab 31.1.2024 erfolgt; DAC8-Erstmeldung 31.1.2027 für 2026. Bei Verschärfung der Bagatellgrenzen oder Erweiterung auf weitere Aktivitäten (DAC9 in Vorbereitung) aktualisieren.
-

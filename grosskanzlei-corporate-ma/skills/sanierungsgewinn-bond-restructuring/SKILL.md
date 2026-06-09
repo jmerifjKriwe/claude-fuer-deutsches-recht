@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-bond-restructuring
-description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026."
+description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die..."
 ---
 
 # Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften
@@ -135,4 +135,3 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BGH zur SchVG-Anwendung – ständige Rspr.; bundesgerichtshof.de.
-

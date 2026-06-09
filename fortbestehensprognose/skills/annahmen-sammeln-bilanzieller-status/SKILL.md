@@ -1,6 +1,6 @@
 ---
 name: annahmen-sammeln-bilanzieller-status
-description: "Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate` im Fortbestehensprognose."
+description: "Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollzi..."
 ---
 
 # Annahmen sammeln (Fortführung)
@@ -198,4 +198,3 @@ annahmen:
 - BGH IX ZR 56/22
 - BGH II ZR 206/22
 - BGH IV ZR 66/25
-

@@ -64,4 +64,3 @@ Erzeuge Gesprächsvorbereitung, Datenschutzfragen, Unterlagenliste und sachliche
 ## Prompts, die dieser Skill stellen soll
 
 - Geht es um Hilfeangebot, Anhörung, Schutzauftrag oder Gericht?
-

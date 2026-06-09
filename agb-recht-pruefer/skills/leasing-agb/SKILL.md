@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Leasing AGB: prüft typische AGB-Risiken d
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

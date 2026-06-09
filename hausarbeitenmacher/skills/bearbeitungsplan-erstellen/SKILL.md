@@ -1,6 +1,6 @@
 ---
 name: bearbeitungsplan-erstellen
-description: "Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss) im Hausarbeitenmacher."
+description: "Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziel..."
 ---
 
 # Bearbeitungs-Plan erstellen
@@ -185,4 +185,3 @@ Wenn der Plan steht, gehe zu
 - `gutachtenstil-vs-urteilsstil` — Schreibweise lernen
 - `gliederung-mit-tiefenstruktur` — Gliederung erarbeiten
 - `methodenlehre-auslegung` — Methodische Grundlagen
-

@@ -1,6 +1,6 @@
 ---
 name: mandanteninterview-bereicherungsrecht
-description: "Bei die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung."
+description: "Bei die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz,..."
 ---
 
 # Mandanteninterview Bereicherungsrecht
@@ -63,4 +63,3 @@ Anwendungsfall: die Tatsachen für einen Bereicherungsfall erst strukturiert erh
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

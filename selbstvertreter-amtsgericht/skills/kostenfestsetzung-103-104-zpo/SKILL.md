@@ -134,4 +134,3 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
-

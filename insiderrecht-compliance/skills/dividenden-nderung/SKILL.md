@@ -80,4 +80,3 @@ muss in solchen Fällen eine noch niedrigere Wesentlichkeitsschwelle anwenden.
 Weitere Quellen:
 - Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-

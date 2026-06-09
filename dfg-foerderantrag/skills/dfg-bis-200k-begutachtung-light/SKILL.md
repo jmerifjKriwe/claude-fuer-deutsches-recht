@@ -150,4 +150,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Verfahrensordnung — vom Antragsteller am Einreichtag live zu prüfen.
 
 Die 200.000-Euro-Schwelle ist Ermessen der DFG, nicht Anspruch. Frühere 100.000-Euro-Werte nicht ungeprüft fortschreiben.
-

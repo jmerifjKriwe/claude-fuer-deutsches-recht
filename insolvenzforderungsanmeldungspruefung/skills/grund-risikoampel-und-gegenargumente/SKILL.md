@@ -1,6 +1,6 @@
 ---
 name: grund-risikoampel-und-gegenargumente
-description: "Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanme..."
 ---
 
 # Grund: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verteidigung Verwalter:** Bei pauschaler Anmeldung Substantiierung anfordern; bei vbuH-Behauptung nach Tatsachenvortrag verlangen; Verjährung prüfen; Eigentumsvorbehalt oder Sicherungseigentum (§ 47 / §§ 49–51 InsO) statt einfache Forderung.
 - **Anfechtungsklage Verwalter:** Erhaltene Zahlung in den letzten 4 (kongruent)/10 (Vorsatz, § 133 InsO) Jahren? Aufrechnung als kongruente/inkongruente Deckung (§§ 130, 131 InsO)? Gesellschafterdarlehen (§ 135 InsO)?
 - **Praxis:** Bei Bestreiten Tabellenklage § 180 InsO innerhalb der gesetzten Frist; verspätet bedeutet Forderung gilt als nicht festgestellt.
-

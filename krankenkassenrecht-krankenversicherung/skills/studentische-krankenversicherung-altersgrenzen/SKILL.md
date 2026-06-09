@@ -86,4 +86,3 @@ Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber
 - [BSG studentische KV](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Studierende](https://www.gkv-spitzenverband.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
-

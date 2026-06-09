@@ -72,4 +72,3 @@ Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 - Reisetagebuch-Vorlage
 - Kennzeichnungsampel (Pressereise-Posts)
 - Betriebseinnahme-Buchungsnotiz (Pressereise vom Brand)
-

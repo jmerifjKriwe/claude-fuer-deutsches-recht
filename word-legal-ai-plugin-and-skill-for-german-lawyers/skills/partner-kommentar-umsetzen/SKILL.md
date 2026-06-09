@@ -1,6 +1,6 @@
 ---
 name: partner-kommentar-umsetzen
-description: "Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu im Word Legal Ai Pl..."
 ---
 
 # Partner-Kommentar Umsetzen
@@ -44,4 +44,3 @@ description: "Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-S
 ## Qualitätsmaßstab
 
 Nicht bloß paraphrasieren. Der Skill muss den Kommentar in echtes Drafting übersetzen und eine sendefähige Fassung liefern.
-

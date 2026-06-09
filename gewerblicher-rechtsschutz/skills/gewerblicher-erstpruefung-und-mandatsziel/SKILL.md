@@ -163,4 +163,3 @@ Nächster Termin: _______________
 - `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview
 - `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
-

@@ -63,4 +63,3 @@ Die Arbeitsgerichtsbarkeit entstand aus den Gewerbegerichten des Kaiserreichs. D
 - ArbGG aktuell: gesetze-im-internet.de
 - BAG-Rspr.: bundesarbeitsgericht.de oder JURIS
 - Sinzheimer: Arbeitsrechtliche Schriften, historische Erstausgaben
-

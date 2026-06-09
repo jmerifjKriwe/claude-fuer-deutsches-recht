@@ -26,4 +26,3 @@ TKG; BGB/HGB; GWB; DSGVO/TKG-Datenschutz.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-

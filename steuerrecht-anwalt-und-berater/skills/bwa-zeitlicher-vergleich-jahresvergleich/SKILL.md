@@ -1,6 +1,6 @@
 ---
 name: bwa-zeitlicher-vergleich-jahresvergleich
-description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist Vorjahr Abweichung absolut Prozent Erlaeuterungstext."
+description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist..."
 ---
 
 # Zeitlicher Vergleich in der BWA — Vorjahr und Vormonat
@@ -110,4 +110,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
 - DATEV BWA-Form 01 mit Vorjahresvergleich (Standard).
 - IDW PS 250 (sinngemaess).
-

@@ -87,4 +87,3 @@ Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier
 - BGH V ZR 33/23
 - BGH V ZR 102/23
 - BGH V ZR 1/24
-

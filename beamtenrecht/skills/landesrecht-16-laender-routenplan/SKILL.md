@@ -60,4 +60,3 @@ Der Skill stoppt Ausgaben, wenn:
 - Beamter und Tarifbeschäftigter vermischt werden;
 - die Akte aus einem Stadtstaat stammt und Kommunal-/Landesebene unklar ist;
 - altes BRRG/BBesG ohne Übergangsgrundlage benutzt werden soll.
-

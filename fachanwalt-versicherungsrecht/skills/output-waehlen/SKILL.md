@@ -12,15 +12,15 @@ Diese Output-Weiche für **Fachanwalt Versicherungsrecht** entscheidet, ob Memo,
 ## Fachlandkarte dieses Plugins
 
 - `berufsunfaehigkeit-paragraf-172-vvg` — Berufsunfaehigkeit Paragraf 172 VVG
-- `bu-anerkennt-leistungspruefung` — BU Anerkennt Leistungspruefung
-- `cyber-loesegeld-versr-deckungsanfrage` — Cyber Loesegeld Versr Deckungsanfrage
-- `d-o-spezialfall-deckungsklage-leitfaden` — D O Spezialfall Deckungsklage Leitfaden
-- `deckungsklage-interessen-deckungspruefung` — Deckungsklage Interessen Deckungspruefung
-- `deckungsprozess-vvg-einfuehrung-themen` — Deckungsprozess VVG Einfuehrung Themen
-- `do-deckungsabwehr-lebensversicherung` — DO Deckungsabwehr Lebensversicherung
+- `versr-bu-anerkennt-was-spezial` — BU Anerkennt Leistungspruefung
+- `cyber-loesegeld-sanktionsrecht` — Cyber Loesegeld Versr Deckungsanfrage
+- `versr-d-o-claims-made-ausschluesse` — D O Spezialfall Deckungsklage Leitfaden
+- `deckungsklage-mehrparteien-konflikt-und-interessen` — Deckungsklage Interessen Deckungspruefung
+- `versr-deckungsprozess-215-vvg-beweislast` — Deckungsprozess VVG Einfuehrung Themen
+- `do-deckungsabwehr` — DO Deckungsabwehr Lebensversicherung
 - `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme
-- `fa-versicherungsrecht-start-chronologie-fristen` — FA Versicherungsrecht Start Chronologie Fristen
-- `fachanwalt-kanzlei-krankenversicherung` — Fachanwalt Kanzlei Krankenversicherung
+- `einstieg-schnelltriage-fallrouting` — FA Versicherungsrecht Start Chronologie Fristen
+- `erstpruefung-und-mandatsziel` — Fachanwalt Kanzlei Krankenversicherung
 - `fehlerkatalog` — Fehlerkatalog
 - `gebaeudeversicherung-paragraf-86-vvg` — Gebaeudeversicherung Paragraf 86 VVG
 - `haftpflicht-paragraf-100-vvg` — Haftpflicht Paragraf 100 VVG
@@ -40,4 +40,3 @@ Diese Output-Weiche für **Fachanwalt Versicherungsrecht** entscheidet, ob Memo,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

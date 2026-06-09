@@ -124,4 +124,3 @@ Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial
 - **Monitoring-Bericht**: Preisabweichungen der letzten 30 Tage
 - **Abmahnungsentwurf** bei Preisbindungsverstoß durch Plattform
 - **MFN-Klausel-Risikoanalyse**
-

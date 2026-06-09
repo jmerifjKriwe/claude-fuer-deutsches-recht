@@ -1,6 +1,6 @@
 ---
 name: airline-standardausreden-pruefen
-description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage."
+description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumun..."
 ---
 
 # Airline-Standardausreden — Katalog und Gegenargumente
@@ -157,4 +157,3 @@ Diesen Katalog vor jedem Mahnungsschreiben durchgehen — Standardausreden mit P
 - EuGH C-204/08
 - EuGH C-394/23
 - EuGH C-188/20
-

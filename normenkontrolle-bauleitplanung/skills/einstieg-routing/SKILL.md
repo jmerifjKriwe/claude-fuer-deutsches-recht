@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG), markiert Frist (§ 47 II VwGO 1 Jahr ab Bekanntmachung), wählt Norm (BauGB §§ 1/2/10, § 47 VwGO Normenkontrolle) und Zuständigkeit (OVG/VGH), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG), markiert Frist (§ 47 II VwGO 1 Jahr ab Bekanntmachung), wählt Norm (BauGB §§ 1/2/10, § 47 VwGO Normenkontrolle) und Zuständigkeit (OVG/VGH), leitet zum passende..."
 ---
 
 # Einstieg und Routing
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

@@ -113,4 +113,3 @@ Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Au
 - **Fristenplan**: Ablieferung, Lektorat, Korrekturfristen, Erscheinungstermin
 - **Entwurf Mängelrüge** (Verlag an Autor)
 - **Entwurf Nachfrist** (Autor an Verlag wegen Nichterscheinen)
-

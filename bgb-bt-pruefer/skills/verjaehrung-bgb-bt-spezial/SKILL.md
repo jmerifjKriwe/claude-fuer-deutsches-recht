@@ -68,4 +68,3 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 - https://www.gesetze-im-internet.de/bgb/__438.html
 - https://www.gesetze-im-internet.de/bgb/__548.html
 - https://www.gesetze-im-internet.de/bgb/__634a.html
-

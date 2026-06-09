@@ -79,4 +79,3 @@ Schriftliche Klärung mit EZB/BaFin vor der Veröffentlichung einholen.
 Weitere Quellen:
 - SSM-Verordnung (EU) 1024/2013: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R1024
 - §§ 44 KWG: https://www.gesetze-im-internet.de/kwg/__44.html
-

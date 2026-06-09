@@ -66,4 +66,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. Bonorum emptor identifiziert?
 4. Anteilige Befriedigung?
 5. Infamia-Folge eingetreten?
-

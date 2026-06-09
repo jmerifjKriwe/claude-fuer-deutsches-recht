@@ -132,4 +132,3 @@ Wenn Sie kuerzlich eine Reha hatten:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
-

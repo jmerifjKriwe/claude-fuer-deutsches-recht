@@ -91,4 +91,3 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Pruefen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
-

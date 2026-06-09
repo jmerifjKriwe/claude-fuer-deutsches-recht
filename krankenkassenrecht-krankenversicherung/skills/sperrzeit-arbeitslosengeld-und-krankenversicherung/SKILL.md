@@ -86,4 +86,3 @@ Arbeitslose sind in der GKV pflichtversichert. Bei Sperrzeit entfällt jedoch da
 - [BSG B 12 KR 3/10 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Bundesagentur für Arbeit – KV](https://www.arbeitsagentur.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
-

@@ -28,4 +28,3 @@ TKG; VwVfG §§ 28, 29; VwGO; Geschäftsgeheimnisgesetz; BNetzA-Verfahrenshinwei
 
 - tk-eilrechtsschutz-bnetza-beschluss
 - tk-behoerdenkommunikation-kooperationsstrategie
-

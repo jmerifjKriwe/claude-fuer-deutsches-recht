@@ -58,4 +58,3 @@ Diese Quellenkarte sichert im Bereich **Phishing Vorfall Prüfer** tragende Norm
 ### Leitentscheidungen
 
 - BGH XI ZR 91/14
-

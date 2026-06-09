@@ -1,6 +1,6 @@
 ---
 name: sektor-app-stores-automotive-zulieferketten
-description: "Sektor App-Stores und mobile Ökosysteme: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Sektor App-Stores und mobile Ökosysteme: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bele..."
 ---
 
 # Sektor App-Stores und mobile Ökosysteme
@@ -33,4 +33,3 @@ description: "Sektor App-Stores und mobile Ökosysteme: Sektor-Skill im globalen
 - **Beweis:** interne Mails, Präsentationen, Pricing, Forecasts, Kundenwechsel, Ausschreibungen und Wettbewerberkontakte getrennt auswerten.
 - **Verteidigung:** Effizienz, objektive Rechtfertigung, failing firm, countervailing buyer power oder Compliance-Remedies nur faktenbasiert einsetzen.
 - **International:** Local-Counsel-Fragen, Filing-Schwellen, Standstill, Dawn-Raid-Befugnisse und Informationsaustausch je Jurisdiktion live prüfen.
-

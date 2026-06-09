@@ -1,6 +1,6 @@
 ---
 name: dba-luxemburg-2012
-description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-Memo BZSt-Hinweise."
+description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-..."
 ---
 
 # DBA Deutschland-Luxemburg (2012)
@@ -180,4 +180,3 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 Stand: 05/2026. DBA-Luxemburg 23.04.2012 (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), ab 01.01.2014. Aend.-Prot. 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), ab 01.01.2024. AbzStEntModG 2021 (BGBl. 2021 I S. 1259). § 4k EStG. MLI-Notifications beim OECD-Portal pruefen; aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 5 belegt (BGBl. 2012 II S. 1402/1403 bestaetigt; BGBl. 2014 II S. 728 bestaetigt; Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt; in Kraft 29.12.2023 BGBl. 2024 II Nr. 147 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

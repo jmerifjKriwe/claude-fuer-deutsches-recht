@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-zum-bundestag-anhoerung
-description: "Vorbereitung einer Anhörung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhörungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen."
+description: "Vorbereitung einer Anhörung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhörungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hi..."
 ---
 
 # NKR-Stellungnahme zum Bundestag (Anhörung)
@@ -123,4 +123,3 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - GO BT §§ 70 ff.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhörungen
 - Live verifizieren ueber [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

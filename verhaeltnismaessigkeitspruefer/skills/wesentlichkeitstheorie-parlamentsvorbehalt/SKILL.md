@@ -48,4 +48,3 @@ Verstoss gegen den Parlamentsvorbehalt fuehrt zur Verfassungswidrigkeit der Vero
 - BVerfGE 49, 89 (Kalkar I, Restrisiko)
 - BVerfGE 90, 286 (Somalia-Einsatz, Parlamentsbeteiligung)
 - BVerfGE 157, 30 (Klimaschutz-Beschluss, intertemporale Steuerung)
-

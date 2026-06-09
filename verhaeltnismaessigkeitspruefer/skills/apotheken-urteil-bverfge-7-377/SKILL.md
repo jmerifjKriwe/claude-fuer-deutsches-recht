@@ -78,4 +78,3 @@ bleibt** der zentrale Massstab.
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-

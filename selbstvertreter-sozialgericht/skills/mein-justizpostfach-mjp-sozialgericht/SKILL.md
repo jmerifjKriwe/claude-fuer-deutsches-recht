@@ -107,4 +107,3 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
-

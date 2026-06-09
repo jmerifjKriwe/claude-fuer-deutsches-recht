@@ -104,4 +104,3 @@ Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen ber�
 - VO (EU) 2023/1230 (MaschinenVO).
 - VO (EU) 2024/2853 (neue ProdHaftRL); ProdHaftG; § 823 BGB.
 - Live-Verifikation auf eur-lex.europa.eu, gesetze-im-internet.de, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

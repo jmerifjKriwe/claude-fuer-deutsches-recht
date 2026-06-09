@@ -46,4 +46,3 @@ Konkret zu prüfen:
 - § 355 BGB
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)
-

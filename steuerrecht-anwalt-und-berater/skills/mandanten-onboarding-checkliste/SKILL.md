@@ -155,4 +155,3 @@ Stand: 05/2026.
 - AO § 80.
 - DSGVO Art. 13, 28.
 - DStV-Praxisleitfaden Mandantenaufnahme.
-

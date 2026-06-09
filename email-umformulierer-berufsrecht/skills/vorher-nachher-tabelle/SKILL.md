@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
+description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger..."
 ---
 
 # Vorher-Nachher-Tabelle
@@ -71,4 +71,3 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 ## Anpassungen je nach Kontext
 
 Für sehr kurze E-Mails (unter fünf Sätze) kann die Tabelle auf die wesentlichsten Änderungen beschränkt werden. Für lange Schreiben sollte die Tabelle nach Abschnitten gegliedert werden. Bei mehrsprachigen Schreiben ist die Tabelle zweisprachig zu führen.
-

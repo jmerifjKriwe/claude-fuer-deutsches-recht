@@ -101,4 +101,3 @@ Eingaben:
 - SGB V § 360 zur E-Rezept-Pflicht.
 - BGH, staend. Rspr. zur Apothekenabgabe.
 - Gematik-Vorgaben zum E-Rezept (vom Anwender zu verifizieren — Versionsstand).
-

@@ -1,6 +1,6 @@
 ---
 name: hr-dashboard-ceo-briefing
-description: "Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt..."
 ---
 
 # HR Dashboard CEO Briefing
@@ -45,4 +45,3 @@ Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den
 Arbeite primär mit: BGB §§ 611a, 622, 626; KSchG §§ 1, 4, 17, 23; BetrVG §§ 1, 87, 102; AGG §§ 3, 7, 12, 13; BDSG § 26; DSGVO Art. 5, 6, 9, 15, 28, 32, 33, 35, 44 ff.; ArbZG §§ 3-5; NachwG § 2; TzBfG § 14; BUrlG; EFZG; MuSchG; BEEG; SGB IX §§ 154, 164, 167, 168, 207, 208; SGB IV § 7a; MiLoG; AÜG; HinSchG; EntgTranspG.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, markiere den Punkt als Live-Check-Bedarf.
-

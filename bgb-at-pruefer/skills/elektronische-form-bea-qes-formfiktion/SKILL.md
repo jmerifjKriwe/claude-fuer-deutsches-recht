@@ -79,4 +79,3 @@ Ein aus dem eigenen beA versandter und einfach signierter Schriftsatz kann § 13
 - schriftform-und-textform-bgb: elektronische-form-paragraph-126a-bgb-qes
 - schriftform-und-textform-bgb: kuendigung-per-schriftsatz-zustellung-formfragen
 - prozessrecht
-

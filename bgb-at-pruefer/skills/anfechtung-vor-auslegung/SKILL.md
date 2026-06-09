@@ -97,4 +97,3 @@ Wirksamkeit des Vertrags mit dem gewollten Inhalt, ohne Anfechtung.
 - BGH NJW 2004/1320
 - BGH NJW 2011/2643
 - BGH NJW 2005/53
-

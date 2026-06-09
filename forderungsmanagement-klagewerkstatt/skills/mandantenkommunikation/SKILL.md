@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadensersatz aus Beratungsvertrag. Liefert E-Mail-Vorlagen mit Pflichtinhalten."
+description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadense..."
 ---
 
 # Mandantenkommunikation

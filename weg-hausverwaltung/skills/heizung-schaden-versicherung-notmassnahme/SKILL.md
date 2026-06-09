@@ -51,4 +51,3 @@ Die Gemeinschaft beschließt, die Verwaltung zu beauftragen und zu bevollmächti
 - Eigentümer werden ohne Beschluss mit hohen Kosten belastet.
 - Mieterminderungen und Ausfallrisiken werden ignoriert.
 - Technische Sofortmaßnahme wird mit Modernisierung vermischt.
-

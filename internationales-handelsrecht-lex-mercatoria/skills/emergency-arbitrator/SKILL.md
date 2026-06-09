@@ -48,4 +48,3 @@ Der Emergency Arbitrator (EA) ermöglicht einstweiligen Rechtsschutz vor Bildung
 - ICC EA: Antrag bei ICC-Sekretariat; USD 40.000 Kostenvorschuss; 48h-Ernennung
 - Vollstreckung: parallel staatlichen Vollstreckungsantrag in Zielland vorbereiten
 - Hauptschiedsgericht: EA-Maßnahme in erstem verfahrensleitendem Beschluss bestätigen lassen
-

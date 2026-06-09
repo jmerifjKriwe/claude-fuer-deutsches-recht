@@ -42,4 +42,3 @@ Bauer schickt Kind nicht zur Schule.
 1. Religionsfrage?
 2. Schulfrage?
 3. Armenwesen?
-

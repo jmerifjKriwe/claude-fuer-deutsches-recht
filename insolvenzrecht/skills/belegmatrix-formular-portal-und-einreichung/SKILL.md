@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schutzschirmantrag § 270d InsO:** Bei drohender Zahlungsunfähigkeit oder Überschuldung (nicht bei Zahlungsunfähigkeit); Bescheinigung qualifiziert sachverständige Person (StB, RA, WP) über positive Sanierungsaussichten.
 - **Formularportal/eRegister:** Einreichung in elektronischer Form möglich; bei manueller Einreichung Beglaubigungen und Unterschriften prüfen (§ 174 ZPO, § 130 ZPO bei elektronischer Übermittlung).
 - **Praxis:** Eröffnungsverfahren ist Vorbereitungs- und Sicherungsphase; je vollständiger die Belege bei Antragstellung, desto wahrscheinlicher die zügige Eröffnung und Verfahrensgestaltung nach Wunsch.
-

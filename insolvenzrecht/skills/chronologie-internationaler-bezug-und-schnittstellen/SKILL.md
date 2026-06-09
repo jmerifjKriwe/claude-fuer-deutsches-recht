@@ -51,4 +51,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schnittstellen Strafrecht:** §§ 283 ff. StGB Bankrott und Insolvenzdelikte; § 266a StGB Vorenthalten SV-Beiträge; § 263 StGB Eingehungsbetrug bei späterer Insolvenz.
 - **Praxis:** Bei grenzüberschreitenden Sachverhalten immer zuerst EuInsVO/Drittstaat trennen. Bei Holdingstrukturen nicht „Konzernkontrolle“ mit Rechtsmacht über deutsche Tochter-Assets verwechseln: Der ausländische office holder kann regelmäßig Gesellschafterrechte der insolventen Mutter ausüben, aber nicht ohne Weiteres Vermögen der deutschen Tochter veräußern.
 - **Anschluss-Skills:** `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` und `auslaendischer-insolvenzverwalter-register-und-grundbuch`.
-

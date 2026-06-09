@@ -1,6 +1,6 @@
 ---
 name: kredit-darlehen-und-zinsenrueckforderung
-description: "Bei darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug."
+description: "Bei darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückab..."
 ---
 
 # Kredit, Darlehen und Zinsenrückforderung
@@ -63,4 +63,3 @@ Anwendungsfall: darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüf
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-

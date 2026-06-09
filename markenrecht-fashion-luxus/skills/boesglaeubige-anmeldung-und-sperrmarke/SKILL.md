@@ -36,4 +36,3 @@ description: "Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer pr�
 ## Vorsicht
 
 Bösgläubigkeit ist wertungsintensiv. Keine moralische Empörung als Rechtsersatz; die Belegkette muss tragen.
-

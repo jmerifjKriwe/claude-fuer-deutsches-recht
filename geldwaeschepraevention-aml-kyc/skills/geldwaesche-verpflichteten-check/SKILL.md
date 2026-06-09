@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verpflichteten-check
-description: "Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen im Geldwaeschepraevention Aml Kyc."
+description: "Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Gel..."
 ---
 
 # Verpflichtetenstatus nach GwG
@@ -39,4 +39,3 @@ Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verp
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
-

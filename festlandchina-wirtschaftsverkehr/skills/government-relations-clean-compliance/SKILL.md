@@ -1,6 +1,6 @@
 ---
 name: government-relations-clean-compliance
-description: "Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex im Festlandchina Wirtschaftsverkehr."
+description: "Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: G..."
 ---
 
 # Government Relations China: Compliance ohne Korruptionsrisiko
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

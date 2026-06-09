@@ -109,4 +109,3 @@ Erzeuge eine Tabelle:
 | Hausmeister | ... | prüfen | Reparaturanteil? | Vertrag/Stunden | ... |
 | Heizung | ... | prüfen | HeizkostenV/CO2 | Messdaten | ... |
 | Grundsteuer | ... | prüfen | Zeitraum | Bescheid | ... |
-

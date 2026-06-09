@@ -68,4 +68,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 Schiff aus Hamburg im Sturm; Teil der Ladung ueber Bord geworfen.
 - Hamburger Recht: Lex Rhodia in Praxis uebernommen; anteilige Schadenstragung.
 - Heute: York-Antwerp Rules + HGB §§ 588 ff. (Reform 2013).
-

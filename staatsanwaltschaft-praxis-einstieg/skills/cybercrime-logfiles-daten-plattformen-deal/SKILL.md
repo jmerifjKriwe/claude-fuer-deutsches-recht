@@ -48,4 +48,3 @@ Konkret zu prüfen:
 - BVerfGE 154, 152 (Bestandsdatenauskunft II)
 - Art. 18 DSA
 - § 22 TTDSG (Auskunft)
-

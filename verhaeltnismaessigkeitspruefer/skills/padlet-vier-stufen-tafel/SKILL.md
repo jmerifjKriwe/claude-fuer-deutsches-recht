@@ -1,6 +1,6 @@
 ---
 name: padlet-vier-stufen-tafel
-description: Padlet-Tafel im Shelf-Format mit den vier Spalten Legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit echt anlegen statt nur zu beschreiben. Drei Pfade Padlet Public API v1, eingeloggter Browser, manueller Aufbau mit fertigem Karten-Markdown. Mit Ampelfarben, Karten-Templates und Verzahnung zur ASCII-Variante.
+description: Padlet-Tafel im Shelf-Format mit den vier Spalten Legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit echt anlegen statt nur zu beschreiben. Drei Pfade Padlet Public API v1, eingeloggter Browser, manueller Aufbau mit fertigem Karten-Markdown. Mit Ampelfarben, Karten-Templates und Verz...
 ---
 
 # Echte Padlet-Tafel anlegen, nicht nur vorschlagen
@@ -114,4 +114,3 @@ Die ASCII-Vorschau wird **zusaetzlich** zum echten Padlet ausgegeben, damit der 
 - `stufenbaum-ascii-art` fuer die druckbare Stufen-Visualisierung.
 - `mermaid-flowchart-pruefung` fuer das Flussdiagramm.
 - `ascii-pruefungsschema` fuer die kompakte Tabellenvariante.
-

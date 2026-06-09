@@ -1,6 +1,6 @@
 ---
 name: kinderdaten-besondere
-description: "Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung."
+description: "Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur..."
 ---
 
 # Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit
@@ -45,4 +45,3 @@ Schnittstellen: Schulaufsicht, Jugendamt, Kinder- und Jugendpsychiatrische Diens
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-art-9-besondere-kategorien` deckt Gesundheitsdaten und sensible Kategorien ab.
-

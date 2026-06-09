@@ -105,7 +105,7 @@ Anthropic hat den Maßstab gesetzt, an dem wir uns orientieren. Schau dir das ge
 | `fachanwalt-strafrecht` | Wirtschaftsstrafrecht, Großverfahren | juris, BGH, dejure |
 | `fachanwalt-arbeitsrecht` | Konzern-Arbeitsrecht, Tarif, Betriebsverfassung | juris, BAG, dejure |
 | `fachanwalt-erbrecht` | Großnachlässe, mandatsbegleitend | Grundbuch, Handelsregister, juris |
-| `fachanwalt-familienrecht` | Vermögensauseinandersetzung Hochvermögen | juris, BGH |
+| `kindeswohlgefaehrdung-eilantrag` | Vermögensauseinandersetzung Hochvermögen | juris, BGH |
 | `fachanwalt-versicherungsrecht` | Großschäden, Konzern-D&O | BaFin, juris |
 | `fachanwalt-transport-speditionsrecht` | Großschäden, internationale Verträge | CMR, juris |
 | `fachanwalt-miet-wohnungseigentumsrecht` | Großbestand, mandatsbegleitend | juris, OLG-Portale |
@@ -293,7 +293,7 @@ Tom will **viele kleine PRs auf dem Seitenbranch**, keinen Mammut-PR. Vorgeschla
 18. PR-A18: Vertrag / NDA (`nda-abgleich`, `vertragsrecht`, `wandeldarlehen-lebenszyklus`, `gesellschaftsgruender`)
 19. PR-A19: Prozess (`prozessrecht`, `urteilsbauer-relationsmacher`)
 20. PR-A20: Strafrecht (`aktenauszug-gerichtsverfahren`, `aktenaufbereiter-strafrecht`, `strafzumessung`, `fachanwalt-strafrecht`)
-21. PR-A21: Arbeit / Erb / Familie (`fachanwalt-arbeitsrecht`, `fachanwalt-erbrecht`, `fachanwalt-familienrecht`)
+21. PR-A21: Arbeit / Erb / Familie (`fachanwalt-arbeitsrecht`, `fachanwalt-erbrecht`, `kindeswohlgefaehrdung-eilantrag`)
 22. PR-A22: Versicherung / Transport (`fachanwalt-versicherungsrecht`, `fachanwalt-transport-speditionsrecht`)
 23. PR-A23: Immobilien (`fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`)
 24. PR-A24: Verkehr / Infrastruktur / Bauleitplanung (`verkehr-infrastrukturrecht`, `normenkontrolle-bauleitplanung`)

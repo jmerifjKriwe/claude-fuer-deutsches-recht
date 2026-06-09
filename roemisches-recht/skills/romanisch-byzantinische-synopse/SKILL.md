@@ -42,4 +42,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Wird ein späterer byzantinischer Text als klassisches Rom ausgegeben?
 - Wird ein archaisches Fragment überinterpretiert?
 - Ist die moderne Analogie methodisch tragfähig?
-

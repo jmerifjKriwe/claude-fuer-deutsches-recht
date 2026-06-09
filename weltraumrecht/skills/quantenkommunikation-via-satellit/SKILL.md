@@ -1,6 +1,6 @@
 ---
 name: quantenkommunikation-via-satellit
-description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild für Quantenkommunikations-Mandate im Weltraumrecht."
+description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..."
 ---
 
 # Quantenkommunikation via Satellit
@@ -62,4 +62,3 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 5. Frequenzlizenz BNetzA?
 6. Versicherung deckt Cyber + kryptografischer Schaden?
 7. Schluesselmanagement nach BSI TR-02102?
-

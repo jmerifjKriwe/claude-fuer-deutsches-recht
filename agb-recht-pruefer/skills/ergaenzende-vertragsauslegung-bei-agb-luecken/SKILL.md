@@ -43,4 +43,3 @@ description: "Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BG
 3. Gesetzesrecht regelt?
 4. Ergaenzende Vertragsauslegung erforderlich?
 5. Hypothetischer Parteiwille begruendbar?
-

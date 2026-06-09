@@ -13,16 +13,16 @@ Dieses Anschluss-Routing für **Fachanwalt Arbeitsrecht** wählt nach dem ersten
 
 - `abmahnung-loeschung-personalakte-bag-2-azr-782-11` — Abmahnung Loeschung Personalakte BAG 2 AZR 782 11
 - `aktenzeichen-fehlerkatalog` — Aktenzeichen Fehlerkatalog
-- `ar-aufhebungsvertrag-konkurrenzklausel` — AR Aufhebungsvertrag Konkurrenzklausel
-- `ar-betriebsuebergang-spezial-einfuehrung` — AR Betriebsuebergang Spezial Einfuehrung
-- `ar-kuendigungspruefung-fazugang-arbeitgeber` — AR Kuendigungspruefung Fazugang Arbeitgeber
-- `arbeitsgericht-abrechnung` — Arbeitsgericht Abrechnung
+- `ar-aufhebungsvertrag-praxis` — AR Aufhebungsvertrag Konkurrenzklausel
+- `ar-betriebsuebergang-spezial` — AR Betriebsuebergang Spezial Einfuehrung
+- `einstieg-schnelltriage-fallrouting` — AR Kuendigungspruefung Fazugang Arbeitgeber
+- `vergleich-arbeitsgericht-abrechnung` — Arbeitsgericht Abrechnung
 - `aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21` — Aufhebungsvertrag Faires Verhandeln BAG 6 AZR 333 21
-- `bag` — BAG
-- `befristung-fao-unwirksam-fristennotiz` — Befristung FAO Unwirksam Fristennotiz
-- `befristung-tzbfg-bem-verfahren-fazugang` — Befristung Tzbfg BEM Verfahren Fazugang
-- `beteiligung-betriebsrat-erstgespraech` — Beteiligung Betriebsrat Erstgespraech
-- `betriebsrat-betrvg-datum` — Betriebsrat BETRVG Datum
+- `bag-mindesturlaub-kein-verzicht` — BAG
+- `befristung-compliance-dokumentation-und-akte` — Befristung FAO Unwirksam Fristennotiz
+- `befristung-tzbfg` — Befristung Tzbfg BEM Verfahren Fazugang
+- `beteiligung-betriebsrat-102-betrvg` — Beteiligung Betriebsrat Erstgespraech
+- `betriebsrat-zahlen-schwellen-und-berechnung` — Betriebsrat BETRVG Datum
 - `betriebsratswahl-anfechtung-leiharbeit-bag-7-abr-4-21` — Betriebsratswahl Anfechtung Leiharbeit BAG 7 ABR 4 21
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
@@ -62,4 +62,3 @@ Dieses Anschluss-Routing für **Fachanwalt Arbeitsrecht** wählt nach dem ersten
 
 - EuGH C-134/24
 - EuGH C-518/20
-

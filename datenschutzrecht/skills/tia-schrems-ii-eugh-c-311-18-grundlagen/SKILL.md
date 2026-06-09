@@ -72,4 +72,3 @@ Kurzvermerk-Baustein für das TIA:
 - Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021 (SCC).
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
-

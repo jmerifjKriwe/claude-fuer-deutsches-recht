@@ -59,4 +59,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Tafel?
 2. Welcher Zeitraum?
 3. Heutige ZPO-Aequivalenz?
-

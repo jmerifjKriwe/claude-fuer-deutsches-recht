@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-post-merger-icp-integration
-description: "Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout für neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout für neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan un..."
 ---
 
 # Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [UmwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/umwg_1994/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

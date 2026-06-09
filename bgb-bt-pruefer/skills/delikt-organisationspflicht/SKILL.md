@@ -74,4 +74,3 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__831.html
 - https://www.gesetze-im-internet.de/bgb/__280.html
-

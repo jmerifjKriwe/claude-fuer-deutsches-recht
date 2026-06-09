@@ -54,4 +54,3 @@ description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen
 3. Familienzuschlag-Stufe?
 4. Zulagenanspruch?
 5. Amtsangemessenheit gewahrt?
-

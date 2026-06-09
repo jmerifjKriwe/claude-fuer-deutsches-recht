@@ -175,4 +175,3 @@ Datenschutz: [Link]
 - UStG § 27a - USt-ID-Angabe.
 - DSGVO Art. 13, 14 - Datenschutzhinweise (separat zum Impressum).
 - BGH-Rechtsprechung zu Impressumsanforderungen in sozialen Medien (Volltexte unter bundesgerichtshof.de).
-

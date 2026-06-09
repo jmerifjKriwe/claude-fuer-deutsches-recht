@@ -46,4 +46,3 @@ Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen priva
 - InVorG 1992: BGBl. I 1992, 1257
 - BVerwG: bverwg.de für vollstaendige Entscheidungen
 - Berliner Senat: fachliche Informationen zur Mauer-Grundstuecks-Abwicklung
-

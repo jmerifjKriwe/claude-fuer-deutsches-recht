@@ -1,6 +1,6 @@
 ---
 name: spa-apa-entwurf
-description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Prüfraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollständiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs."
+description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Chan..."
 ---
 
 # SPA/APA-Entwurf
@@ -146,4 +146,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - assets/templates/spa-gliederung-standard.md
 - assets/templates/apa-asset-deal-template.md
-

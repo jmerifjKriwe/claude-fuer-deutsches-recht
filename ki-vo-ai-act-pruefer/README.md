@@ -180,7 +180,7 @@ Autor: Klotzkette
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -303,7 +303,6 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 | `vendor-due-diligence-ai-act-beschaffung` | KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen für Einkauf und Legal. |
 | `verbotene-praktiken-art-5` | Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predic... |
 | `verhaeltnis-zu-anderen-unionsrechtsakten` | Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenveror... |
-| `wettbewerb-flaschenhaelse` | Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pruefer. |
 | `wettbewerb-ki-flaschenhaelse-big-tech` | KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies. |
 | `zeitlicher-geltungsbereich-uebergangsfristen` | Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1... |
 

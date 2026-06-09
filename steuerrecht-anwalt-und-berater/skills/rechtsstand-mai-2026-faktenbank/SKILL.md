@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtliche Quellen, BFH/BMF/BZSt/Gesetze-im-Internet und verifizierte Gerichtsentscheidungen."
+description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtl..."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank Steuerrecht
@@ -51,4 +51,3 @@ description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussage
 | DBA / Quellensteuer / Ausland | `stb-dba-alle-abkommen-laendermatrix-2026`, `stb-dba-all-country-memo-generator`, `stb-dba-quellensteuer-atlas-weltweit`, `stb-dba-edge-cases-playbook` |
 | Außenprüfung / Verständigung | `anw-aussenpruefung-strategien`, `anw-tatsaechliche-verstaendigung-schlussbesprechung` |
 | Haftung / Insolvenzschnittstelle | `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`, `anw-insolvenzreife-pruefung-17-19-inso`, `stb-bwa-sus-bilanz-pruefung` |
-

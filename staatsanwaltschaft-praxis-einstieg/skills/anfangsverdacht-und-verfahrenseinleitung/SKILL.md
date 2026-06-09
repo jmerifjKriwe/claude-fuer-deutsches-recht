@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - § 152 Abs. 2 StPO, § 160 StPO (Verfahrenseinleitung von Amts wegen)
 - § 158 StPO (Strafanzeige, Strafantrag)
 - Nr. 6 ff. RiStBV
-

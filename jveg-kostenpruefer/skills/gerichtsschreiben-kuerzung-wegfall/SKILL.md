@@ -64,4 +64,3 @@ Strukturierte Schreibenanalyse mit Fehlertypen, Normverweisen und Handlungsempfe
 ## Leitplanken
 - Jede Aussage einzeln prüfen; keine Pauschalzustimmung.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

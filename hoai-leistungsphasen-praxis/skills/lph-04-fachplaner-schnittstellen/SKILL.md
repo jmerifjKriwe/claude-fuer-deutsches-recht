@@ -1,6 +1,6 @@
 ---
 name: lph-04-fachplaner-schnittstellen
-description: "HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen P..."
 ---
 
 # LPH 4 Genehmigungsplanung: Koordiniert architekt
@@ -32,4 +32,3 @@ description: "HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwe
 - Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
 - Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

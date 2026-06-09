@@ -1,6 +1,6 @@
 ---
 name: kpi-lieferbindung-eigenmarken
-description: "Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen im Franchiserecht."
+description: "Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen..."
 ---
 
 # Franchise: KPI-Audit und Kündigungsreife
@@ -46,4 +46,3 @@ Kündigungsakte mit Audit-Beweislog, Cure-Period und Vergleichsfenster.
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-

@@ -55,4 +55,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **An Geschäftsführung:** Auskunfts- und Mitwirkungspflicht § 97 InsO; Verfügungsbeschränkung § 22 InsO/§ 80 InsO; Strafbarkeitsrisiken § 283 ff. StGB.
 - **An Bank:** Massearrest und Kontosperrung; Sicherheiten und Globalzession; ggf. Massedarlehen § 264 InsO.
 - **Praxis:** Standardbausteine in Kanzlei-Vorlagen pflegen; Aktenzeichen und Verwalter immer aus dem Eröffnungsbeschluss zitieren, nicht aus Erinnerung.
-

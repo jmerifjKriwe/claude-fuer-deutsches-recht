@@ -1,6 +1,6 @@
 ---
 name: taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung
-description: "Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheblichem Aufwand. Rechtsfolge § 49 Abs. 1 StGB oder Absehen bei Strafe nicht ueber 1 Jahr im Strafzumessung."
+description: "Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheb..."
 ---
 
 # Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB
@@ -112,4 +112,3 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 - BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (TOA bei sexuellem Missbrauch, friedensstiftender kommunikativer Prozess); offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25.
 - Weitere BGH-Rspr. — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

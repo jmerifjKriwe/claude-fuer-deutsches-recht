@@ -112,4 +112,3 @@ Vor Versand zwingend ausgeben:
 5. Nachforderung durch Zugangsnachweis abgesichert,
 6. Belege kurzfristig einsichtsfähig,
 7. Anschreiben mit Einwendungsfrist und Belegeinsichtshinweis.
-

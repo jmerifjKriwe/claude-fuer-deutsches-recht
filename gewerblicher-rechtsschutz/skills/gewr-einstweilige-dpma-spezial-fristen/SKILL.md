@@ -144,4 +144,3 @@ Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patenti
 - `evvollzug-neu-008` – Schutzschrift (Gegenseite)
 - `schutzschrift-eilverfuegung` – Schutzschrift-Entwurf
 - `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
-

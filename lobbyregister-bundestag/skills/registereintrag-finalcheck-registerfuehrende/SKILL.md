@@ -54,4 +54,3 @@ Im Nachcheck mindestens pruefen: Registernummer, Version, Gesetzeslage, Aktivsta
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - Jede API-Abweichung wird als rechtlich relevant, technisch relevant oder Anzeige-/Schemaeffekt klassifiziert.
-

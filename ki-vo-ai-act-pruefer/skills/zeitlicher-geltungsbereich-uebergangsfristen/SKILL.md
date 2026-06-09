@@ -1,6 +1,6 @@
 ---
 name: zeitlicher-geltungsbereich-uebergangsfristen
-description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025, GPAI/Governance/Sanktionen ab 2. August 2025, allgemeine Anwendung ab 2. August 2026, Art. 6 Abs. 1 samt korrespondierenden Pflichten ab 2. August 2027, Bestandssysteme nach Art. 111. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender für jede Systemkategorie."
+description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025,..."
 ---
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO
@@ -118,4 +118,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

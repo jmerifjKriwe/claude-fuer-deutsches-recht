@@ -87,4 +87,3 @@ Dieser Skill klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schulde
 - [GKV-Spitzenverband Zahnersatz](https://www.gkv-spitzenverband.de)
 - [BSG Zahnersatzrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 55 SGB V](https://dejure.org/gesetze/SGB_V/55.html)
-

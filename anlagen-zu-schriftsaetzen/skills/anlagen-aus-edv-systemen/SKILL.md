@@ -71,4 +71,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ### Leitentscheidungen
 
 - BGH X ZR 39/16
-

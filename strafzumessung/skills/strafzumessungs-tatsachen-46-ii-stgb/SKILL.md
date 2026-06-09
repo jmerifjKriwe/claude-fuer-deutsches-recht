@@ -1,6 +1,6 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege im Strafzumessung."
+description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmach..."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
@@ -118,4 +118,3 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - §§ 46 ff. BZRG zur Verwertung von Vorstrafen.
 - Art. 6 Abs. 1 EMRK; Vollstreckungsmodell zur Verfahrensdauer (Az verifizieren in juris/dejure.org).
 - Quellenregel: vgl. `references/zitierweise.md`.
-

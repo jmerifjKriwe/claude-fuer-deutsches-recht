@@ -66,4 +66,3 @@ Warum entspricht die Entscheidung dem Wunsch oder warum ausnahmsweise nicht?
 - § 1821 BGB: Unterstützung, Wunschbefolgung, mutmaßlicher Wille.
 - § 1814 BGB: Betreuung nur erforderlich, wenn andere Hilfen nicht ausreichen.
 - UN-BRK Art. 12 als Leitbild unterstützter Rechts- und Handlungsfähigkeit; konkrete Umsetzung erfolgt über deutsches Betreuungsrecht.
-

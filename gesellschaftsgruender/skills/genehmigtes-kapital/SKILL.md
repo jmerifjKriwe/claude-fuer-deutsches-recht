@@ -1,6 +1,6 @@
 ---
 name: genehmigtes-kapital
-description: "Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG im Gesellschaftsgruender."
+description: "Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzun..."
 ---
 
 # Genehmigtes Kapital (§ 55a GmbHG)
@@ -155,4 +155,3 @@ Die Geschäftsführung beschließt:
 - `gesellschaftsgruender-share-classes-a-b-c` — Anteilsklassen bei Ausübung
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Bezugsrechtsausschluss-Anfechtung
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungsklausel einbetten
-

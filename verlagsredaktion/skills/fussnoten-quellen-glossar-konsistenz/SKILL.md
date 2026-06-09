@@ -98,4 +98,3 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.
-

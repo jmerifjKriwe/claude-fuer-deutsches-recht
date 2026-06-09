@@ -66,4 +66,3 @@ Die Glossatoren (Bologna, ab ca. 1088) erklärten den Digestentext durch Randglo
 - Bartolus: Opera omnia, 11 Bände (16. Jh., archive.org)
 - Wieacker Privatrechtsgeschichte der Neuzeit §§ 1-3
 - Stein Roman Law in European History
-

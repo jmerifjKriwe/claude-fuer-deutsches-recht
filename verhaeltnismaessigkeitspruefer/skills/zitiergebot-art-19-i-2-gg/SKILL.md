@@ -40,4 +40,3 @@ Das Zitiergebot ist eine eigene formelle Vorgabe **neben** Bestimmtheits- und We
 - BVerfGE 24, 367 (Hamburgisches Deichordnungsgesetz, Eigentum)
 - BVerfGE 28, 282 (Inhaberkonzentration, vorbehaltlose Grundrechte)
 - BVerfGE 64, 72 (Berufungserstattung, Allgemeingesetze)
-

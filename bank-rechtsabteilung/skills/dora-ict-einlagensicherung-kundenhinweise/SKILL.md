@@ -122,4 +122,3 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## DORA-Art.-16-Spezialkern
 
 Wenn Artikel 16 DORA im Raum steht, nicht den vollen Standard mechanisch übertragen und nicht zu wenig verlangen. Erzeuge eine Scope-Entscheidung und prüfe: Leitungsorgan, IKT-Risikorahmen, Asset-Inventar, Need-to-use/IAM, Schwachstellen, Change, Backup, BCP, Incident, Drittparteien, Subdienstleister, Exit und Nachweisordner. Die BaFin-Hinweise vom 21.08.2025 sind als Verwaltungspraxis live zu prüfen.
-

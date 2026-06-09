@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-bav-cta-pensionsfond
-description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG im Bav Strategie Konzern."
+description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Be..."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
@@ -262,4 +262,3 @@ bAV-Projektteam · fachliche Leitung
 - → `governance-und-anpassungsmechanismen` — für Pension Committee und Trustee-Board-Governance
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Umstellung bestehender Zusagen
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — für VO/BV-Templates je Durchführungsweg
-

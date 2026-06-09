@@ -86,4 +86,3 @@ Mit freundlichen Gruessen [KANZLEI]
 - Wunschverteidiger des Mandanten beachten und § 142 Abs. 5 StPO beantragen.
 - Auswechslung nach § 143a StPO nur bei ernsthaftem Zerruettnis.
 - Gebührenanspruch gegen Staatskasse entsteht mit Beiordnung.
-

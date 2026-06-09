@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung."
+description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutz..."
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei
@@ -146,4 +146,3 @@ Aktuell aktiver Kontext: [ID_X]
 Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert.
 Letzter Wechsel: [DATUM, UHRZEIT]
 ```
-

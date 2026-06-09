@@ -89,4 +89,3 @@ bezahlt wird und die restlichen Raten noch offen sind.
 - Vollständige Leistungsbewirkung aus diesen Mitteln?
 - Ratenkauf: Alle künftigen Raten aus freien Mitteln bestreitbar?
 - Zweckgebundene Mittel ausgeschieden: Schulbuch-Geld, Ausbildungsgelder?
-

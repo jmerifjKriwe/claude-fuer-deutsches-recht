@@ -52,4 +52,3 @@ Internationale Verträge werden häufig in zwei oder mehr Sprachen erstellt. Bei
 ## Quellenregel
 
 CISG Art. 7-8: uncitral.un.org. PICC Art. 4.1-4.7: unidroit.org. BGB § 305c Abs. 2: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
-

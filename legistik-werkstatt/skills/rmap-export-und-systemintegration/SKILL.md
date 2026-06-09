@@ -1,6 +1,6 @@
 ---
 name: rmap-export-und-systemintegration
-description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw für die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration."
+description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw für die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzun..."
 ---
 
 # Export und Integration in Vollzugs-IT
@@ -45,4 +45,3 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
-

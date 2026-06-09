@@ -72,4 +72,3 @@ Vor Ausgabe muss der Text beantworten:
 - Gibt es Zugangsnachweis?
 - Ist eine Ruhendstellung beantragt?
 - Wird nichts Falsches zum sicheren Ausgang versprochen?
-

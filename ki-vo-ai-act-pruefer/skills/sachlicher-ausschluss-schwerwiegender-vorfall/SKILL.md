@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-schwerwiegender-vorfall
-description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persönliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich) im Ki Vo Ai Act Pruefer."
+description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 p..."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO
@@ -116,4 +116,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

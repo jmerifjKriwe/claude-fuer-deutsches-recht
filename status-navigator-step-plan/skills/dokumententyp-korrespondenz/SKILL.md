@@ -15,4 +15,3 @@ E-Mail-Korrespondenz LEAG vom 19.05.2026: Drohung mit Pachtvertragskuendigung we
 - Eintrag in Reiter 2 mit Typ-Tag Schreiben oder Korrespondenz
 - Thread-Mapping in Anmerkungsspalte
 - Querverweis an `dokumententyp-erklaerungen` falls Korrespondenz tatsaechlich eine Erklaerung enthaelt
-

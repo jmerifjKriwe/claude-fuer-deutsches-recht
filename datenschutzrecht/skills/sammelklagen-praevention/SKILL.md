@@ -1,6 +1,6 @@
 ---
 name: sammelklagen-praevention
-description: "Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung."
+description: "Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleich..."
 ---
 
 # Sammelklagen-Prävention nach Massendatenpanne
@@ -51,4 +51,3 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 - `dsv-schadensersatz-art-82` deckt die zivilrechtliche Verteidigung ab.
 - `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
-

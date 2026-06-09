@@ -79,4 +79,3 @@ müssen koordiniert eingehalten werden.
 Weitere Quellen:
 - WpÜG § 23: https://www.gesetze-im-internet.de/wpueg/__23.html
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-

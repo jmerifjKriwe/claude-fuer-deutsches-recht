@@ -1,6 +1,6 @@
 ---
 name: exporteur-deutschland-nach-china
-description: "Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage im Festlandchina Wirtschaftsverkehr."
+description: "Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste..."
 ---
 
 # Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

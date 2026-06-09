@@ -1,6 +1,6 @@
 ---
 name: tia-en-data-privacy-framework-status
-description: "English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk."
+description: "English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DP..."
 ---
 
 # EU-US Data Privacy Framework – Current Status (English)
@@ -118,4 +118,3 @@ Fallback clause: [reference]
 - European Commission, First Review of the EU-US DPF (Summer 2024) – verify against the official report.
 - Schrems III proceedings (NOYB) at the General Court of the EU – check current case status.
 - DPF list: dataprivacyframework.gov.
-

@@ -208,6 +208,7 @@ Automatisch generierte Komplett-Liste aller 199 Skills in diesem Plugin. Beschre
 | `personenrecht-status` | PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren. |
 | `personenrecht-status-familienrecht-ehe` | PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `polizeirecht-und-wohlfahrtsstaat` | PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen. |
+| `pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen` | Zwitterrecht ALR — historisch-medizinische Dimension: Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Li... |
 | `prozessrecht-ago-1793` | Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix. |
 | `quellenkritik-fraktur-ocr` | PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen. |
 | `quellenmatrix-erstellen` | PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen. |
@@ -260,7 +261,6 @@ Automatisch generierte Komplett-Liste aller 199 Skills in diesem Plugin. Beschre
 | `zitierweise-und-fundstellen` | PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen. |
 | `zivilprozess-im-alr-formstrenge` | Zivilprozess im ALR — Formstrenge und Fristen. Skill behandelt die wichtigsten Verfahrensformen das Klage- und Antragsystem die Schriftform die Fristenlogik und die Fortwirkung zur ZPO. Liefert Pruefraster. |
 | `zweiter-staendeordnung-gemeinderecht` | PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
-| `zwitterrecht` | Spez Zwitterrecht im Preußisches Allgemeines Landrecht im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `zwitterrecht-alr-ii-1-19-bis-22` | Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Ski... |
 | `zwitterrecht-historisch` | Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Pruefraster. |
 

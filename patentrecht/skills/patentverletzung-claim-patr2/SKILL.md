@@ -47,4 +47,3 @@ Bewertung: erfüllt, nicht erfüllt, unklar, nur äquivalent denkbar, Beleg fehl
 - **Beweisqualität:** Mandantenangabe < Foto/Video < Demonstration vor Notar/Sachverständigen < Marktproduktprüfung im Labor < unabhängiger Sachverständiger.
 - **Geheimnisschutz:** Bei Reverse Engineering § 23 GeschGehG beachten; In-camera-Verfahren UPC oder §§ 16-20 GeschGehG.
 - Falle: Claim Chart ohne Anspruchsversion und Stand-Verifikation (DPMA/EPA-Register-Abrufdatum) — bei Einspruch/Beschränkung kann sich der maßgebliche Anspruchstext ändern.
-

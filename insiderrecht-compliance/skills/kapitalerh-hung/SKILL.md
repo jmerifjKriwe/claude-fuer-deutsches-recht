@@ -79,4 +79,3 @@ Beginn des Bookbuilding-Prozesses in höchster Alarmbereitschaft sein.
 Weitere Quellen:
 - §§ 182 ff. AktG: https://www.gesetze-im-internet.de/aktg/__182.html
 - DVO (EU) 2016/960: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0960
-

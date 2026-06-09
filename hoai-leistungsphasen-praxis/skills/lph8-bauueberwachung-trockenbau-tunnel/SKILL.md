@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Vera..."
 ---
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende
@@ -87,4 +87,3 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [MBO § 28 Aussenwaende Brandschutz](https://www.gesetze-im-internet.de/mbo_2002/index.html)
-

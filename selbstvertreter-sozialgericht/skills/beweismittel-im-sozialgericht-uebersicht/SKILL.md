@@ -135,4 +135,3 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
-

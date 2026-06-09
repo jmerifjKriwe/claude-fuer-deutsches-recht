@@ -124,4 +124,3 @@ Skill `saeumnis-im-termin-330-zpo`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 128a ZPO Video-Verhandlung in Reformbewegung — die genaue Ausgestaltung kann sich nach Justizmodernisierungs-Gesetz aendern. Verifizieren Sie aktuellen Stand.
-

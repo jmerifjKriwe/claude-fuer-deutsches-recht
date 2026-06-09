@@ -102,4 +102,3 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Pruefen Sie aktuelle Werte unter www.bmwsb.bund.de.
-

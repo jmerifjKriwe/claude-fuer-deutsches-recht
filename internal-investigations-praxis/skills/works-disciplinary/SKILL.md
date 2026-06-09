@@ -90,4 +90,3 @@ Dieser Skill löst konkrete Betriebsrats-Konflikte und sichert die Fortführung 
 - **Kooperationsstrategie-Memo** für konstruktive Einbindung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

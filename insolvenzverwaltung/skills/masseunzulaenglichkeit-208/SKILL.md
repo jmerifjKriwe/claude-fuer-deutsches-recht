@@ -1,6 +1,6 @@
 ---
 name: masseunzulaenglichkeit-208
-description: "Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 208 InsO §§ 53 54 InsO Massekosten. Prüfraster: Ist- oder Prognoseunzulaenglichkeit Alt- und Neumasseverbindlichkeiten Zahlungsstopp Kommunikation. Output: Anzeige an Gericht Rangfolgeliste Massnahmenplan. Abgrenzung: nicht für allgemeine Masseberechnung oder Schlussverteilung im Insolvenzverwaltung."
+description: "Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 208 InsO §§ 53 54 InsO Massekosten. Prüfraster: Ist- oder Prognoseunzulaenglichkeit Alt- und Neumasseverbindlichkeiten Zahlungsstopp Kommunikation. Output: Anzeige an Gericht Ran..."
 ---
 
 # Anzeige der Masseunzulänglichkeit § 208 InsO
@@ -83,4 +83,3 @@ Bevor losgelegt wird, klaere:
 2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
 3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
-

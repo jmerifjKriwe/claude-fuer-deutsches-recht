@@ -33,4 +33,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Die berufsrechtliche Aufklärungspflicht über KI-Einsatz wird in Rechtsprechung und Standesvertretung noch diskutiert — vorsichtig sein und im Zweifel transparent kommunizieren. Die berufsrechtliche KI-Debatte zur KI-Nutzung in Kanzleien (frei zugänglich auf anwaltverein.de) gibt eine Orientierung, ist aber nicht bindend.
-

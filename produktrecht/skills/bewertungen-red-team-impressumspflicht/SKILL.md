@@ -69,4 +69,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - EuGH C-249/21
 - BGH VI ZR 721/15
 - BGH VI ZR 405/18
-

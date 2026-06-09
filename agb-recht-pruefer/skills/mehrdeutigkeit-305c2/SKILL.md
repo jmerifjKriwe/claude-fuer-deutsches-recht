@@ -25,4 +25,3 @@ description: "Norm- und Dogmatik-Skill für Mehrdeutigkeit 305c2: prüft die AGB
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

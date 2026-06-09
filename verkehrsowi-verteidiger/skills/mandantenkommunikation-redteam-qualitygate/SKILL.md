@@ -42,4 +42,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Kostenhinweis:** RVG VV 5100 ff. für OWi; Rechtsschutzversicherung-Deckung pruefen (Selbstbeteiligung; Wartezeit 3 Monate ueblich; Strafrechtsschutz nur bei nicht vorsaetzlichem Vorwurf).
 - **Mandantenfreigabe schriftlich:** Einspruch / Einspruchsruecknahme / Beschraenkung / Antrag auf Hauptverhandlung statt schriftliches Verfahren § 72 OWiG.
 - **Praxis-Tipp:** Bei sehr hohem Risiko (Fahrverbot bei Berufskraftfahrer) Hauptverhandlung statt schriftlicher Entscheidung; persönlicher Eindruck Betroffener oft entscheidend.
-

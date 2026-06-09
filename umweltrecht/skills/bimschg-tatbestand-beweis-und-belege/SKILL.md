@@ -44,4 +44,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Nachträgliche Anordnungen (§ 17 BImSchG):** Behörde kann nachträgliche Anforderungen anordnen, um Umweltrechtsänderungen umzusetzen; bei Hinzukommen schädlicher Umwelteinwirkungen oder Erkenntnisfortschritt.
 - **Klage und Anfechtung:** Drittschutz von Nachbarn nur bei drittschützenden Normen (§ 3 Abs. 1, § 5 Abs. 1 Nr. 1 BImSchG i.V.m. TA Luft/TA Lärm). Klagerecht von Umweltverbänden über UmwRG.
 - **TA Luft / TA Lärm:** Bundesweit verbindliche Verwaltungsvorschriften zur Konkretisierung des § 48 BImSchG; Immissionsrichtwerte z. B. TA Lärm 6 Uhr - 22 Uhr (tags) und 22 Uhr - 6 Uhr (nachts), gebietsabhängig.
-

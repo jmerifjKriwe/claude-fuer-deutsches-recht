@@ -50,4 +50,3 @@ Behörden sollen KI nicht blind einkaufen. Dieser Skill baut Ausschreibungs- und
 ## Merksatz
 
 Der öffentliche Auftraggeber beschafft nicht nur Software, sondern Verwaltungsmacht. Die muss prüfbar bleiben.
-

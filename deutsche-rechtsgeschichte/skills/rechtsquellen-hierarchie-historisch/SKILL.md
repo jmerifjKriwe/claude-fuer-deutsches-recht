@@ -39,4 +39,3 @@ Die Rechtsquellenhierarchie ist historisch kein unveraendertes System. Im gemein
 - Reichsverfassung 1871: ALEX/ÖNB
 - GG: gesetze-im-internet.de
 - BVerfGE zur Normenkontrolle: bverfg.de
-

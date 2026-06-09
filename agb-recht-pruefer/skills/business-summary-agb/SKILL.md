@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Business Summary AGB: macht aus der 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

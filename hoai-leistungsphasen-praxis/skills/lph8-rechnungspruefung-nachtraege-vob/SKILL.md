@@ -26,4 +26,3 @@ description: "HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geä
 3. Nachtrag kategorisieren: Mengenmehrung, geänderte Leistung, zusätzliche Leistung, Behinderung, Beschleunigung.
 4. Prüffristen und Zahlungsfreigabe dokumentieren.
 5. Kostenkontrolle gegen Budget/Kostenanschlag aktualisieren.
-

@@ -1,6 +1,6 @@
 ---
 name: haftungsbescheid-69-191-ao
-description: "Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der Gesellschaft. Behandelt Tatbestandsvoraussetzungen Verschulden Kausalitaet quotale Befriedigung und Ermessensfehler. Output Pruefraster Haftung mit Erwiderungsmuster. Abgrenzung zu fa-stu-lst-haftung-42d-estg."
+description: "Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der..."
 ---
 
 # Haftungsbescheid — § 69 AO § 71 AO und Verfahren § 191 AO
@@ -44,4 +44,3 @@ description: "Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaef
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

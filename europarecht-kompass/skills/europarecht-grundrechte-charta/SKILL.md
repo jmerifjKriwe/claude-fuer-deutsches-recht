@@ -1,6 +1,6 @@
 ---
 name: europarecht-grundrechte-charta
-description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz im Europarecht Kompass."
+description: "EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Pr..."
 ---
 
 # EU-Grundrechte und Charta
@@ -100,4 +100,3 @@ c) Verhältnismaessigkeit: geeignet [JA/NEIN] erforderlich [JA/NEIN] angemessen 
 [ ] Eingriff — NICHT gerechtfertigt — EU-Grundrechtsverletzung
 Empfehlung: [Vorabentscheidung / Verfassungsbeschwerde / Klage EuGH]
 ```
-

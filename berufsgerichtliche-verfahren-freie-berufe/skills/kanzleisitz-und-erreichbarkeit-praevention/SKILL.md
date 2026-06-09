@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-erreichbarkeit-praevention
-description: "Kanzleisitz und Erreichbarkeit (Präventions- und Organisationspaket): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Kanzleisitz und Erreichbarkeit (Präventions- und Organisationspaket): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Ver..."
 ---
 
 # Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket
@@ -47,4 +47,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

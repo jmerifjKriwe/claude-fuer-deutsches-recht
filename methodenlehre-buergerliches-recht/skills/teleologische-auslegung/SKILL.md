@@ -1,6 +1,6 @@
 ---
 name: teleologische-auslegung
-description: "Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung."
+description: "Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das s..."
 ---
 
 # Teleologische Auslegung
@@ -88,4 +88,3 @@ Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-

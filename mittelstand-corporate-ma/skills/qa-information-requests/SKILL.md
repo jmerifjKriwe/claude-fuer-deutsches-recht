@@ -1,6 +1,6 @@
 ---
 name: qa-information-requests
-description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung) im Mittelstand Corporate Ma."
+description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Lo..."
 ---
 
 # Q&A und Information Requests
@@ -164,4 +164,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Leitsatz korrigiert auf tatsaechlichen Inhalt: gesteigerte vorvertragliche Aufklaerungspflicht des Verkaeufers beim GmbH-Anteilskauf; Nichtoffenbarung von Zahlungsunfaehigkeit / Konkursreife begruendet arglistige Taeuschung.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.04.2001&Aktenzeichen=VIII+ZR+32%2F00
 -->
-

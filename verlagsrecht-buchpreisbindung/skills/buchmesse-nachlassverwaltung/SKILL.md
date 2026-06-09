@@ -128,4 +128,3 @@ Buchmessen (Frankfurt, Bologna, London, BEA) sind die wichtigsten Plattformen f�
 - **Lizenzvertrag-Checkliste**: Schlüsselklauseln vorhanden / fehlend
 - **Rechtehandel-Tracking-Sheet**: Gespräche, Status, Fristen
 - **Schiedsklausel-Formulierung**: DIS/ICC-Standard
-

@@ -88,4 +88,3 @@ Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkas
 - [Deutsche Rentenversicherung – Rehabilitation](https://www.deutsche-rentenversicherung.de)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org SGB IX § 14](https://dejure.org/gesetze/SGB_IX/14.html)
-

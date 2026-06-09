@@ -147,4 +147,3 @@ Mit freundlichen Gruessen
 - UStG § 12 Abs. 2 Nr. 7 lit. c - ermaessigter Steuersatz für Rechteeinraeumung.
 - KSVG - Abgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte zur amtlichen Pruefung unter bundesgerichtshof.de und dejure.org).
-

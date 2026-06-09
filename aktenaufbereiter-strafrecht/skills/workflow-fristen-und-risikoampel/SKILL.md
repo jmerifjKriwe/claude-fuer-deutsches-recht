@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **U-Haft-Pruefung § 121 StPO:** automatische Haftpruefung durch OLG nach 6 Monaten.
 - **Verjährung §§ 78 ff. StGB:** chronologisch markieren; § 78c StGB Unterbrechungshandlungen, § 78b StGB Ruhen.
 - Risikoampel: Rot bei Verlust unwiderruflicher Rechte (Einspruch, Revision, Haftbeschwerde nach § 117 StPO), Gelb bei Beweisproblemen, Gruen bei dokumentierter Mandantenruecksprache.
-

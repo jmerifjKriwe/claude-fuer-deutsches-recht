@@ -65,4 +65,3 @@ description: "Spaltenprompts für die drei Prüfperspektiven des 3D-Tabellenrevi
 ## Grenzen
 
 Spaltenprompts ersetzen nicht das Lesen des Dokuments. Sie machen das Lesen reproduzierbar und vergleichbar.
-

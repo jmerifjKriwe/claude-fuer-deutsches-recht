@@ -1,6 +1,6 @@
 ---
 name: agb-und-242-bgb-eingriffsnorm
-description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeutung der EuGH-Rechtsprechung zur Eingriffsnorm-Definition (Unamar Rs. C-184/12) und praktische Konsequenz für internationale Kanzleimandate."
+description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeut..."
 ---
 
 # Agb Und 242 Bgb Eingriffsnorm
@@ -33,4 +33,3 @@ description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-V
 3. Welche EuGH-Rechtsprechung gilt aktuell (Unamar, Da Silva Martins, etc.)?
 4. Welche BGH-Linie ist einschlaegig?
 5. Welche praxisnahe Loesung?
-

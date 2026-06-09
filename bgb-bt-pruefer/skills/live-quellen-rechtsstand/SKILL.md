@@ -60,4 +60,3 @@ description: "Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprech
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://eur-lex.europa.eu/
-

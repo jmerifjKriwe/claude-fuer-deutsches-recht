@@ -47,4 +47,3 @@ description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung 
 2. Plausibel?
 3. Konkurrenzlage?
 4. Anfechtungsklage?
-

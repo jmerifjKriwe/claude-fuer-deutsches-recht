@@ -1,6 +1,6 @@
 ---
 name: bmleh-oekolandbau-pflanzenschutzrecht
-description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
+description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch..."
 ---
 
 # Oekolandbau und Pflanzenschutzrecht (BMLEH)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

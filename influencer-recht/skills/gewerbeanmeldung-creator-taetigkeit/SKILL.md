@@ -73,4 +73,3 @@ Content = überwiegend Werbung/Marketing?
 - Freiberuf-Abgrenzungsmemo für das Finanzamt
 - Gewerbesteuer-Kalkulation
 - Formular-Ausfüllhilfe (Fragebogen zur steuerlichen Erfassung)
-

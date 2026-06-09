@@ -58,4 +58,3 @@ Diese Quellenkarte sichert im Bereich **Europarecht Kompass** tragende Normen, R
 ### Leitentscheidungen
 
 - EuGH C-6/64
-

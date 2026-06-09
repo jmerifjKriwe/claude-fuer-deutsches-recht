@@ -1,6 +1,6 @@
 ---
 name: dispens-privileg-und-indult
-description: "Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Be..."
 ---
 
 # Dispens, Privileg und Indult
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache
-description: "Kanzlei oder Behörde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Prüfraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollständigkeit. Output Einfache-Sprache-Version mit Erklärungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Prüfung)."
+description: "Kanzlei oder Behörde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Prüfraster Satzlaenge Aktiv-Passiv-Balance..."
 ---
 
 # Einfache Sprache
@@ -152,4 +152,3 @@ Gib am Ende eine Mini-Prüfung aus:
 | Rechtsfolgen erhalten | ja/nein |
 | schwere Wörter erklärt | ja/nein |
 | weiterer Prüfbedarf | kurz |
-

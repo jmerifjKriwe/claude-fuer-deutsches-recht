@@ -62,4 +62,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 ### Leitentscheidungen
 
 - BGH XI ZR 39/04
-

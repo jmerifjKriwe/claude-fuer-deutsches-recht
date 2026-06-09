@@ -1,6 +1,6 @@
 ---
 name: datenbankherstellerrecht-wesentliche-investition
-description: "Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG) im Datenbankrecht."
+description: "Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbescha..."
 ---
 
 # Datenbankherstellerrecht: Wesentliche Investition nachweisen
@@ -67,4 +67,3 @@ Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und A
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
-

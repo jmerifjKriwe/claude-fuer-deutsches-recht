@@ -24,4 +24,3 @@ description: "HOAI LPH 4 Genehmigungsplanung: sucht Widersprüche, vergessene Be
 - Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
 - Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

@@ -14,16 +14,16 @@ Dieses Anschluss-Routing für **Fachanwalt Bau Architektenrecht** wählt nach de
 - `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
 - `abnahme-quellenkarte` — Abnahme Quellenkarte
 - `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
-- `bau-abnahme-nachtrag` — BAU Abnahme Nachtrag
-- `bauablauf-vbg` — Bauablauf VBG
+- `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
+- `abnahme-verweigerung` — Bauablauf VBG
 - `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` — Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19
-- `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-- `bautraeger-abnahme-formgerecht-abnahmefiktion` — Bautraeger Abnahme Formgerecht Abnahmefiktion
-- `bautraeger-belehrungspflicht` — Bautraeger Belehrungspflicht
-- `bautraeger-gemeinschaftliche` — Bautraeger Gemeinschaftliche
-- `bautraeger-leistungsbeschreibung` — Bautraeger Leistungsbeschreibung
-- `bautraeger-mabv-grundlagen-ratenplan` — Bautraeger MABV Grundlagen Ratenplan
-- `bautraeger-mabv-vollstaendigkeitserklaerung` — Bautraeger MABV Vollstaendigkeitserklaerung
+- `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
+- `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
+- `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht
+- `bautraeger-gemeinschaftliche-maengelverfolgung-weg` — Bautraeger Gemeinschaftliche
+- `bautraeger-leistungsbeschreibung-baubeschreibung` — Bautraeger Leistungsbeschreibung
+- `bautraeger-mabv-grundlagen-1-2` — Bautraeger MABV Grundlagen Ratenplan
+- `bautraeger-mabv-vollstaendigkeitserklaerung-7` — Bautraeger MABV Vollstaendigkeitserklaerung
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -65,4 +65,3 @@ Dieses Anschluss-Routing für **Fachanwalt Bau Architektenrecht** wählt nach de
 - BGH VII ZR 46/17
 - BGH VII ZR 301/13
 - BGH VII ZR 49/15
-

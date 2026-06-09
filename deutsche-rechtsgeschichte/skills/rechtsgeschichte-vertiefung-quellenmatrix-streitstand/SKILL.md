@@ -64,4 +64,3 @@ Die Quellenmatrix ist ein strukturiertes Rechercheinstrument für die rechtshist
 - Rechtsprechung: bverfg.de, bgh.de, bverwg.de
 - Archivquellen: invenio.bundesarchiv.de, archivportal-d.de
 - Sekundaerliteratur: mit Autor, Werk, Auflage, Seite; keine Blindzitate
-

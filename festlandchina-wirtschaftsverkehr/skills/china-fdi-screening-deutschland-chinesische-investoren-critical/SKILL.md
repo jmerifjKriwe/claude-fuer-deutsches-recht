@@ -1,6 +1,6 @@
 ---
 name: china-fdi-screening-deutschland-chinesische-investoren-critical
-description: "FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation im Festlandchina Wirtschaftsverkehr."
+description: "FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrens..."
 ---
 
 # FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

@@ -167,6 +167,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Regulatorisches Recht. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Regulatorisches Recht. |
 | `wphg-tatbestand-beweis-und-belege` | Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin regulatorisches recht im Regulatorisches Recht. |
-| `wpig-zag` | Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht. |
+| `wpig-und-zag-pruefung` | WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR: WpIG und ZAG Pruefung: Wertpapi... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

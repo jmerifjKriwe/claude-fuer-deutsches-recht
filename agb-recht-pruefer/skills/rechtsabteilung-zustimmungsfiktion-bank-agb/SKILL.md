@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-zustimmungsfiktion-bank-agb
-description: "Rechtsabteilungs-Fachmodul für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsopt..."
 ---
 
 # Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
@@ -30,4 +30,3 @@ BGH, Urteil vom 27.04.2021 - XI ZR 26/20; §§ 305, 307 BGB; Zahlungsdienste zus
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-

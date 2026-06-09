@@ -12,18 +12,18 @@ Dieser Quellen-Livecheck für **Weg Hausverwaltung** trennt amtliche Normfassung
 ## Fachlandkarte dieses Plugins
 
 - `abrechnung-ist-plan-mieterschnittstelle` — Abrechnung IST Plan Mieterschnittstelle
-- `anwalt-amtsgericht-gewerbe-restaurant` — Anwalt Amtsgericht Gewerbe Restaurant
-- `bad-umbau-barrierefreie-einladung-bauliche` — BAD Umbau Barrierefreie Einladung Bauliche
+- `eskalation-anwalt-amtsgericht` — Anwalt Amtsgericht Gewerbe Restaurant
+- `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft` — BAD Umbau Barrierefreie Einladung Bauliche
 - `bad-umbau-bodengleiche-dusche-sondereigentum` — BAD Umbau Bodengleiche Dusche Sondereigentum
 - `barrierefreie-einladung-protokoll-versammlung` — Barrierefreie Einladung Protokoll Versammlung
 - `bauliche-veraenderung-aufzug-treppenlift-20` — Bauliche Veraenderung Aufzug Treppenlift 20
 - `bauliche-veraenderungen-20-weg` — Bauliche Veraenderungen 20 WEG
-- `bauliche-veraenderungen-beirat-controlling` — Bauliche Veraenderungen Beirat Controlling
+- `bauliche-veraenderungen-20-weg` — Bauliche Veraenderungen Beirat Controlling
 - `beirat-controlling-verwalter` — Beirat Controlling Verwalter
 - `beschlussanfechtung-risiko` — Beschlussanfechtung Risiko
-- `beschlusssammlung-betriebskosten-interessen` — Beschlusssammlung Betriebskosten Interessen
+- `beschlusssammlung-schriftsatz-brief-und-memo-bausteine` — Beschlusssammlung Betriebskosten Interessen
 - `beschlusssammlung-protokoll` — Beschlusssammlung Protokoll
-- `beschlusssammlung-protokoll-beschlussvorlagen` — Beschlusssammlung Protokoll Beschlussvorlagen
+- `beschlusssammlung-protokoll` — Beschlusssammlung Protokoll Beschlussvorlagen
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -40,4 +40,3 @@ Dieser Quellen-Livecheck für **Weg Hausverwaltung** trennt amtliche Normfassung
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

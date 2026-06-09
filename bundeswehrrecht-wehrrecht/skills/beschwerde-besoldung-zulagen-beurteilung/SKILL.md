@@ -1,6 +1,6 @@
 ---
 name: beschwerde-besoldung-zulagen-beurteilung
-description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht Wehrrecht."
+description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG i..."
 ---
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
@@ -98,4 +98,3 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 - Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung.
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zu Beurteilungsspielraum und Plausibilitätskontrolle (Az. nach Verifikation).
 - WBO §§ 1, 6, 17, 21 – Volltext gesetze-im-internet.de.
-

@@ -149,4 +149,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ruma
 Stand: 05/2026. DBA-Rumaenien 04.07.2001, in Kraft 17.12.2003 (BGBl. 2003 II S. 1594). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 3 Prozent (faktisch 0% DE-Seite), Lizenzen 3 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2003 II S. 1594; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben Pflegekraefte neu formuliert), 0 gestrichen -->
-

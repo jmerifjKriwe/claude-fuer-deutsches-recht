@@ -99,4 +99,3 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
-

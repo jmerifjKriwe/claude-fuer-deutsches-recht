@@ -87,4 +87,3 @@ Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserforder
 - § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
 - Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
 - Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?
-

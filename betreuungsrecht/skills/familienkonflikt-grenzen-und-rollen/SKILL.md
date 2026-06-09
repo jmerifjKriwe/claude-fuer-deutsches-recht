@@ -55,4 +55,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Tonregel
 
 Keine Familienpsychologie spielen. Alles auf Rolle, Beleg, Wunsch, Aufgabenkreis und Schutzbedarf zurückführen.
-

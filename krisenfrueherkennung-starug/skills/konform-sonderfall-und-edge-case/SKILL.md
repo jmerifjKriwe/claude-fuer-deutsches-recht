@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verein/Stiftung:** § 1 StaRUG umfasst grundsätzlich nur GmbH, AG, KGaA und gleichgestellte Rechtsformen; Vereine/Stiftungen unterliegen Vorgaben aus §§ 31a, 86 BGB.
 - **Sanierungsmoderation §§ 94 ff. StaRUG:** Niedrigschwellig, vertraulich, ohne öffentliche Bekanntmachung — gut für sensible Lagen mit wenigen Großgläubigern.
 - **Praxis:** Bei Doppelnatur (Krise + drohende Zahlungsunfähigkeit) parallel § 1 StaRUG-Pflichten erfüllen und § 18 InsO-Prüfung für StaRUG-Zugang vorbereiten.
-

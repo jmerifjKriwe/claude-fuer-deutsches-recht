@@ -46,4 +46,3 @@ Das Vereinsrecht hat im deutschen Recht eine politisch brisante Geschichte. Das 
 - BGB Vereinsrecht: gesetze-im-internet.de
 - GG Art. 21 und PartG: gesetze-im-internet.de
 - BVerfGE zum Parteienrecht: bverfg.de
-

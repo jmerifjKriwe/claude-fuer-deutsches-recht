@@ -145,4 +145,3 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zuständigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
-

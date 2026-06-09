@@ -64,4 +64,3 @@ Erzeuge Formular-Lesehilfe, Anlagencheck, Nachfrage an Behörde und Datenschutzw
 ## Prompts, die dieser Skill stellen soll
 
 - Welche Behörde, welches Ziel, Frist, Rechtsfolgenbelehrung?
-

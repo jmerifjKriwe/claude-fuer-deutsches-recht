@@ -124,4 +124,3 @@ Mit freundlichen Gruessen
 - §§ 87, 99 BetrVG - Mitbestimmung bei personellen Massnahmen.
 - Art. 6 DSGVO - Rechtsgrundlage interner Datenverarbeitung.
 - Verlagsinterne Reportingrichtlinien (Berichtspflicht Programmleitung an Geschaeftsfuehrung) - Kanzlei- bzw. Verlagsspezifisch.
-

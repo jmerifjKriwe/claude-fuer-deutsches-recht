@@ -67,4 +67,3 @@ Positionsgenaues Prüfergebnis mit § 8a-Risikoeinschätzung und Vorschusssaldo.
 ## Leitplanken
 - Honorargruppe immer zuerst prüfen; falscher Ansatz infiziert gesamte Berechnung.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

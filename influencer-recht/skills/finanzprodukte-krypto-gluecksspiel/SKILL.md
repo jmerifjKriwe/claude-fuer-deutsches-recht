@@ -74,4 +74,3 @@ Finanzprodukt-Werbung durch Creator ist eines der rechtlich gefährlichsten Bere
 - Interessenkonflikt-Offenlegungstext
 - Ablehnungsschreiben an risikoreichen Brand
 - Compliance-Checkliste für Finanz-Kooperation
-

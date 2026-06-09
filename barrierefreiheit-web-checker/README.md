@@ -113,7 +113,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Barrierefreiheit Web BFSG/WCAG: trennt fehlende Tatsachen von fehlenden Belegen (Konformitätserklärung, Auditbericht, Screenshots), nennt pro Lücke Beweisthema, Beschaffungsweg (BFA (Bundesfachstelle Bar... |
 | `usability-test-mit-betroffenen` | Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschae... |
 | `wcag-risikoampel-und-gegenargumente` | Wcag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker. |
-| `wcag-vs` | WCAG VS im Plugin Barrierefreiheit Web Checker im Barrierefreiheit Web Checker. |
+| `wcag-vs-en-301-549-mapping` | Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle: Pruefraster welche Anforderung welche Norm... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Barrierefreiheit Web Checker. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Barrierefreiheit Web Checker. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Barrierefreiheit Web Checker. |

@@ -65,4 +65,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Auf "unverhältnismäßige Belastung" sollte sich nur stützen, wer wirklich keine Mittel zur Herstellung der Barrierefreiheit findet — die Behörde fordert nicht selten Nachbesserung mit fester Frist statt vollständiger Bußgeldverfügung.
-

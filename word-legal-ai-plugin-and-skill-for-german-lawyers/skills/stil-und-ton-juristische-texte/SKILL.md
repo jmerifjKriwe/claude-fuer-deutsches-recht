@@ -1,6 +1,6 @@
 ---
 name: stil-und-ton-juristische-texte
-description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Regist..."
 ---
 
 # Stil und Ton juristischer Texte
@@ -89,4 +89,3 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 - § 43a Abs. 3 BRAO; § 11 BORA. gesetze-im-internet.de und brak.de für aktuelle Fassung.
 - CLAUDE.md im Repository für Sie-Form und Methodikvorgaben.
 - `references/methodik-buergerliches-recht.md` für Gutachtenstil und Urteilsstil.
-

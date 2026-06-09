@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata
-description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer Schema BGB, Schema StGB, Anspruchsprüfung Aufbau, Verbrechensaufbau, Grundrechtsschema oder brauche ich Schemata sagt im Jurastudium."
+description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, könne..."
 ---
 
 # Lösungsschemata
@@ -173,4 +173,3 @@ Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende
 ## Schlusswort
 
 Schemata sind wie Stützräder am Fahrrad. Solange sie tragen, lassen sie sich nicht ohne Folgen abbauen. Wer fahren kann, fährt ohne. Wer das Fahren lernt, fährt erstmal mit — und schämt sich nicht.
-

@@ -1,6 +1,6 @@
 ---
 name: bmjv-zivilrecht-buergerliches-gesetzbuch
-description: "Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
+description: "Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.)..."
 ---
 
 # Zivilrecht und BGB-Pflege (BMJV)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

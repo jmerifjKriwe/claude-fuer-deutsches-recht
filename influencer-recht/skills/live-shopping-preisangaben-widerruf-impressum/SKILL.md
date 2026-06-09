@@ -77,4 +77,3 @@ Live Shopping (Instagram Live, TikTok Shop, YouTube Shopping) löst Fernabsatzre
 - Widerrufsbelehrungs-Vorlage
 - Impressum-Vorlage für Creator
 - AGB-Kurzvorlage für Einzel-Stream
-

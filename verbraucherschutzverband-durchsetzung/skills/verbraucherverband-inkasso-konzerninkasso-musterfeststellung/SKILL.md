@@ -52,4 +52,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. Inkassomodell wirtschaftlich verstehen: Abtretung, Einziehung, Konzernstruktur, Vergütung.
 4. Gebührenpositionen typisieren.
 5. Klageziel wählen: Unterlassung irreführender Darstellung, Rückzahlung, Feststellung oder Abhilfe.
-

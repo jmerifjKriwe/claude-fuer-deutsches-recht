@@ -57,4 +57,3 @@ description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und f
 1. Welche Buergschaftsform?
 2. Welcher Personenkreis?
 3. Welche Akzessorietaetsfragen?
-

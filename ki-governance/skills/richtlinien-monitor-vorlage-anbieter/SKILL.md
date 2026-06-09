@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor-vorlage-anbieter
-description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer Richtlinien-Sweep, KI-Richtlinie prüfen, deckt unsere Richtlinie das ab, wir wollen X einführen — brauchen wir eine Richtlinienänderung oder Policy-Monitor starten sagt im Ki Governance."
+description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer Richtlinien-Sweep, KI-Richtlinie prüfen, de..."
 ---
 
 # KI-Richtlinien-Monitor
@@ -183,4 +183,3 @@ NAECHSTE SCHRITTE:
 Naechster Sweep: [DATUM]
 Erstellt: [NAME], [DATUM]
 ```
-

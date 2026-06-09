@@ -65,4 +65,3 @@ Vorschussprüfung mit Erheblichkeitsbewertung, Betragsberechnung und Anrechnungs
 ## Leitplanken
 - Keine Bedürftigkeitsprüfung; nur Erheblichkeit der Aufwendungen maßgeblich.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

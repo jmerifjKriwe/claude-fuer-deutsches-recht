@@ -88,4 +88,3 @@ Dritte bei Vertragsschluss von der Minderjährigkeit wusste.
 - Schwebende Unwirksamkeit: Zeitraum und Rechtswirkungen in dieser Zeit?
 - § 109 BGB: Hat der Dritte widerrufen oder konnte er widerrufen?
 - Verweigerung der Genehmigung: Vertrag endgültig unwirksam?
-

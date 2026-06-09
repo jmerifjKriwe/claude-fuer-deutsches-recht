@@ -41,4 +41,3 @@ Konkret zu prüfen:
 - § 263 StGB (CEO-Fraud)
 - § 269 StGB (Datenfälschung)
 - Art. 50 AI-Act (Kennzeichnungspflicht)
-

@@ -48,4 +48,3 @@ Die laesio enormis ist eine justinianische (resp. diokletianische) Regelung: ver
 - D. 19.2.22.3 zum klassischen Recht
 - Kaser RP II §§ 60-62; Zimmermann Law of Obligations Kap. 11
 - Vergleich BGB § 138 Abs. 2
-

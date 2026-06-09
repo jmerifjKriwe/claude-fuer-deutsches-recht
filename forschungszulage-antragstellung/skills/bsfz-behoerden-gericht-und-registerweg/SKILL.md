@@ -92,4 +92,3 @@ Pro Vorhaben sind diese Felder einzeln auszufüllen; mehrere Vorhaben sind getre
 - "Software-Entwicklung" wird pauschal als FuE eingereicht; die BSFZ verlangt konkreten Neuheitsgrad und wissenschaftliches Risiko.
 - Mehrere unverbundene Vorhaben in einen Antrag gepackt - die BSFZ verlangt Aufteilung.
 - Stand-der-Technik-Recherche fehlt; Antrag wirkt nicht abgegrenzt.
-

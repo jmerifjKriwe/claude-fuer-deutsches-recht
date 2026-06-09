@@ -99,4 +99,3 @@ Pflichtbestandteil jedes Antrags: **Forschungsdatenmanagement-Plan / DMP** als A
 - Verweis auf "institutsinternes Datenarchiv" ohne FAIR-Konformität.
 - Personenbezogene Daten ohne ausreichende Einwilligung "open access" stellen wollen - DSGVO-Verstoß.
 - 10-Jahres-Aufbewahrung vergessen; nach Projektende sofortige Löschung würde Kodex verletzen.
-

@@ -87,4 +87,3 @@ Dieser Skill klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrank
 - [BSG B 1 KR 19/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Kinderkrankengeld](https://www.gkv-spitzenverband.de)
 - [dejure.org § 45 SGB V](https://dejure.org/gesetze/SGB_V/45.html)
-

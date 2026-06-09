@@ -25,4 +25,3 @@ description: "HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Verg�
 - HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
-

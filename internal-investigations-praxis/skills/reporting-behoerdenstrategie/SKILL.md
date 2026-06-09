@@ -83,4 +83,3 @@ Dieser Skill strukturiert den Abschlussbericht so, dass er belastbar und verwert
 - **Gegendarstellungs-Checkliste** für betroffene Mitarbeiter
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

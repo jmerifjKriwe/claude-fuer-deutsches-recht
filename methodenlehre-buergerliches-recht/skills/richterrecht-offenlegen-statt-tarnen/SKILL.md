@@ -1,6 +1,6 @@
 ---
 name: richterrecht-offenlegen-statt-tarnen
-description: "Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung."
+description: "Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen er..."
 ---
 
 # Richterrecht offenlegen statt tarnen
@@ -83,4 +83,3 @@ Der methodische Dreischritt zur Analyse von Richterrecht lautet:
 
 Dieser Dreischritt ist für jede Entscheidungsanalyse im Richterrechtsbereich verbindlich anzuwenden und im
 Mandatsprotokoll zu dokumentieren.
-

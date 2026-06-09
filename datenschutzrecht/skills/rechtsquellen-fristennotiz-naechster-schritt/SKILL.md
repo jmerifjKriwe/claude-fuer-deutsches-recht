@@ -43,4 +43,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Art. 33 DSGVO ist die 72-Std-Frist absolute Höchstgrenze, nicht Ziel. Verspätung muss begründet werden (Art. 33 Abs. 1 S. 2). Empfehlung: bei jedem internen Datenvorfall-Triage eine binäre Frühklassifizierung "potenziell meldepflichtig ja/nein" innerhalb von 6 Stunden — das reduziert das Verspätungsrisiko erheblich.
-

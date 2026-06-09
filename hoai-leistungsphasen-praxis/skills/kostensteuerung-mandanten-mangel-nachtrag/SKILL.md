@@ -1,6 +1,6 @@
 ---
 name: kostensteuerung-mandanten-mangel-nachtrag
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen P..."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft kostenermittlung
@@ -32,4 +32,3 @@ description: "HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Ko
 - Praktischer Kern: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
 - Bewertungsanker Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

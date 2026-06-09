@@ -1,6 +1,6 @@
 ---
 name: verdeckte-sacheinlage-vesting-leaver
-description: "Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Legal English."
+description: "Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Le..."
 ---
 
 # Verdeckte Sacheinlage und Hin-und-Her-Zahlung
@@ -68,4 +68,3 @@ Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- u
 - BGH, Urt. v. 20.07.2009 - II ZR 273/07 (Cash-Pool) zur Hin-und-Her-Zahlung.
 - Begruendung MoMiG, BT-Drucksache 16/6140, zu § 19 Abs. 4 und Abs. 5 GmbHG.
 - § 19 GmbHG, § 9 GmbHG, § 9c GmbHG, § 82 GmbHG.
-

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-museum-denkmal-restaurierung
-description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher b..."
 ---
 
 # Bauueberwachung Museum und Denkmal Restaurierung (LPH 8)
@@ -83,4 +83,3 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 - [DIN EN 16085 Erhaltung bauliches Erbe](https://www.gesetze-im-internet.de/)
 - [DSchG Denkmalschutzgesetz NRW](https://dejure.org/gesetze/DSchG_NRW)
 - [BGH VII ZR 28/02 Denkmalschutz Haftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+28/02)
-

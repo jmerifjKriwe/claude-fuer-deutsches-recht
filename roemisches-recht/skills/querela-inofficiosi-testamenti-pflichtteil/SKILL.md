@@ -63,4 +63,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Pflichtteilsberechtigter Personenkreis?
 2. Portio legitima verletzt?
 3. Klage rechtzeitig?
-

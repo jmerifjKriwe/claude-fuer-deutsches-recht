@@ -38,4 +38,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Trade-off
 - Tiefenbohrung in Streitfrage vs. Breitenabdeckung der Problemkette: bei beschränktem Umfang Schwerpunkt auf entscheidungserhebliche Punkte; Nebenfragen knapp.
 - KI-Unterstützung darf den Stil nicht ersetzen; Eigenständigkeitsversicherung verlangt eigene gedankliche Leistung.
-

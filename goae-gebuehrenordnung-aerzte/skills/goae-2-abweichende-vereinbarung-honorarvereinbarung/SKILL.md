@@ -1,6 +1,6 @@
 ---
 name: goae-2-abweichende-vereinbarung-honorarvereinbarung
-description: "GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnun..."
 ---
 
 # GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
@@ -109,4 +109,3 @@ Eingaben:
 - Berufsordnung Ärztekammer.
 - GOÄ-Reform 2024/2025 — vom Anwender Aktualität zu verifizieren.
 - PKV-Verband — Hinweise zur Erstattung von Honorarvereinbarungen (informativ).
-

@@ -1,6 +1,6 @@
 ---
 name: charterparty-einordnen-fracht
-description: "Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix im Seerecht Schifffahrtsrecht."
+description: "Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einor..."
 ---
 
 # Charterparty einordnen – Vertragstyp und Haftungsmatrix
@@ -82,4 +82,3 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - ISM-Code BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
 - NYPE 2015 BIMCO: https://www.bimco.org
 - dejure HGB § 557: https://dejure.org/gesetze/HGB/557.html
-

@@ -64,4 +64,3 @@ Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, ma
 4. Wurde Belegeinsicht ermöglicht?
 5. Welche Zahlung ist sofort sinnvoll, welche nur unter Vorbehalt, welche gar nicht?
 6. Bei Rückzahlungsklage: Zahlung, Vorbehalt, Fehler und Anspruchshöhe sauber darlegen.
-

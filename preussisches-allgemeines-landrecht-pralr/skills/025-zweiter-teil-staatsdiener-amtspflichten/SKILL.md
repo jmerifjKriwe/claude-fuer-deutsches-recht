@@ -42,4 +42,3 @@ Staatsdiener trifft pflichtwidrige Entscheidung.
 1. Status Staatsdiener / Beamter?
 2. Pflichtverletzung?
 3. Disziplinar?
-

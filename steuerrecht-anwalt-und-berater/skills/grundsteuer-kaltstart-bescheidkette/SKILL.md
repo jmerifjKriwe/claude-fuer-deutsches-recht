@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-kaltstart-bescheidkette
-description: "Grundsteuer-Mandat schnell aufnehmen: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid auseinanderhalten, Fristen sichern, Bundesmodell oder Landesmodell routen, Fehlerquellen erkennen und passende Folgeskills laden. Fuer Eigentuemmer, Hausverwaltungen, Vermieter, Steuerberater und anwaltliche Einspruchs- oder AdV-Beratung."
+description: "Grundsteuer-Mandat schnell aufnehmen: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid auseinanderhalten, Fristen sichern, Bundesmodell oder Landesmodell routen, Fehlerquellen erkennen und passende Folgeskills laden. Fuer Eigentuemmer, Hausverwaltungen, Vermieter, Steuerbe..."
 ---
 
 # Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage
@@ -72,4 +72,3 @@ Niemals nur gegen den späteren Gemeindebescheid argumentieren, wenn der Fehler 
 ## Quellen-Gate
 
 Vor rechtlicher Bewertung `rechtsstand-mai-2026-faktenbank` laden. Grundsteuerrechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle nennen. Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate.
-

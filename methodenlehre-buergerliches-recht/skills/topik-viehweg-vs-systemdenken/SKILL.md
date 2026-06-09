@@ -1,6 +1,6 @@
 ---
 name: topik-viehweg-vs-systemdenken
-description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz."
+description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: General..."
 ---
 
 # Topik nach Theodor Viehweg vs. Systemdenken
@@ -98,4 +98,3 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 - §§ 133, 138, 157, 242, 307, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-

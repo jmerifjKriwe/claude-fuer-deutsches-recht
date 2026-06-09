@@ -84,4 +84,3 @@ Stand: 05/2026.
 - DATEV-Programm-Updates jaehrlich (Stand 01.01.) sowie unterjaehrige Reform-Updates.
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller DATEV-Version.
-

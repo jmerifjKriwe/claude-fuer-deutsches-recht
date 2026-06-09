@@ -189,4 +189,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Keine Conflicts-Pruefung vor Mandatsannahme: § 43a BRAO, Haftung
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen
-

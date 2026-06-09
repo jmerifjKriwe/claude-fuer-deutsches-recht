@@ -1,6 +1,6 @@
 ---
 name: postfaktische-argumente-red-team
-description: "Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsanmerkungen, die mit empirisch ungesicherten oder rhetorisch überformten Argumenten konfrontiert sind."
+description: "Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsa..."
 ---
 
 # Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 103 GG – Rechtliches Gehör](https://dejure.org/gesetze/GG/103.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

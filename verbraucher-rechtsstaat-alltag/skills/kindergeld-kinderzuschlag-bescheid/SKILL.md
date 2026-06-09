@@ -64,4 +64,3 @@ Erzeuge Einspruch, Nachweisliste, Zahlungsaufschub-Anfrage und Fristenblatt.
 ## Prompts, die dieser Skill stellen soll
 
 - Bescheidtyp, Datum, Kind, Zeitraum, Grund der Ablehnung/Rückforderung?
-

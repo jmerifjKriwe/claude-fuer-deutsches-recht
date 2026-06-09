@@ -57,4 +57,3 @@ description: "Franchise: Verguetungsmodelle initial und laufend. Skill klaert di
 5. Kartellrechtliches Risiko aus Preisvorgaben, Bezugsbindung oder Onlinebeschränkung?
 6. Reporting und Audit verhältnismäßig?
 7. Exit- und Rückzahlungsszenario geregelt?
-

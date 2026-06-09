@@ -97,4 +97,3 @@ Jeder Vorgang, der nicht vollständig abgeschlossen ist, erhält eine Wiedervorl
 - **Notar-Haftungswarnung** (bei verpasster kritischer Frist)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-

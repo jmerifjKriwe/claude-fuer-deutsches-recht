@@ -29,4 +29,3 @@ HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Ko
 3. Prüfen, ob die Vorlage den Sonderkündigungsmechanismus auslöst.
 4. Belehrung, Frist, Verbraucherrolle und Kündigungszugang prüfen.
 5. Vergütung bis zur Kündigung von nicht abgerufener Weiterplanung trennen.
-

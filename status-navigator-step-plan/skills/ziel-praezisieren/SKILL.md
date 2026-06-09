@@ -15,4 +15,3 @@ LausitzStorage Ziel laut Mandantenwunsch: (1) vollstaendige Bestandsaufnahme all
 - Schriftliche Zielnotiz (eine halbe Seite)
 - Reiter- und Erweiterungs-Auswahl daraus abgeleitet
 - Priorisierungsregel fuer Reiter 4 (Workflow)
-

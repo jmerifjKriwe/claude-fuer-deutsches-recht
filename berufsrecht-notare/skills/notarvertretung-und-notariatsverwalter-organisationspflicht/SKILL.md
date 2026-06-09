@@ -60,4 +60,3 @@ Konkret zu prüfen:
 - § 40 BNotO (Notariatsverwaltung)
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

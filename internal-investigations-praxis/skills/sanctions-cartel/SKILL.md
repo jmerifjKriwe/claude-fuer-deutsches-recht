@@ -81,4 +81,3 @@ Dieser Skill definiert die Sofortmaßnahmen nach einem Sanktionstreffer und leit
 - **Remediation-Plan** Sanktions-Compliance
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

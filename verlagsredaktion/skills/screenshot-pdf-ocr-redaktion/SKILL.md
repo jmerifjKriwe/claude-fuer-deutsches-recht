@@ -93,4 +93,3 @@ Status: redaktionsreif nach Lektoratspruefung
 - Tesseract OCR, [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, zur Pinpoint-Disziplin.
-

@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix im Schriftform Und Textform Bgb."
+description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix im Schriftform..."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch
@@ -217,4 +217,3 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 - **beA mit einfacher Signatur**: Prozessual kann das genügen; materiell trägt es nur über eine gesetzliche Formfiktion wie § 130e ZPO oder § 46h ArbGG.
 - **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach § 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.
-

@@ -74,4 +74,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Welche Einreden sind schlüssig erhoben? Welche fehlen noch? Beweislage?
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. workflow-fristen-und-risikoampel, spezial-rechtsfolgen-zahlen-schwellen-und-berechnung).
-

@@ -47,4 +47,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - BGH I ZR 169/12
 - BGH VII ZR 213/07
 - BGH VII ZR 37/17
-

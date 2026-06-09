@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-art-77
-description: "Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
+description: "Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertext..."
 ---
 
 # Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
@@ -122,4 +122,3 @@ Sieben-Fragen-Diagnose:
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023.
 - EDSA, Leitlinien zur Zusammenarbeit nach Art. 56 ff. DSGVO.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

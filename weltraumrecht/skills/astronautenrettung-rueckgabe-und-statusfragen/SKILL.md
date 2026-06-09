@@ -109,4 +109,3 @@ Dieser Skill bearbeitet **Astronautenrettung: Rückgabe und Statusfragen** im Be
 - FAA Commercial Space: https://www.faa.gov/space
 - ESA ISS Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/
-

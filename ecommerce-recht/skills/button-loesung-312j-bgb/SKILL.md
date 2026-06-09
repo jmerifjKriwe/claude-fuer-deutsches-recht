@@ -99,4 +99,3 @@ description: "Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzun
 - UWG §§ 3a, 5a – Volltext gesetze-im-internet.de.
 - Verbraucherrechte-RL 2011/83/EU Art. 8 – EUR-Lex.
 - Verbraucherzentralen – Abmahnpraxis.
-

@@ -58,4 +58,3 @@ VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinform
 - BGH VIII ZR 178/08
 - BGH VIII ZR 295/09
 - EuGH C-718/18
-

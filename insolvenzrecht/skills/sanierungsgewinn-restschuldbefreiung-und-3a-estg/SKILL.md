@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-restschuldbefreiung-und-3a-estg
-description: "Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Restschuldbefreiung erlischt Verbindlichkeiten zivilrechtlich; steuerlich kann gleichwohl ein Ertrag entstehen. Mustertexte und Pruefraster im Insolvenzrecht."
+description: "Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Rest..."
 ---
 
 # Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natuerlichen Personen
@@ -169,4 +169,3 @@ Mit freundlichen Gruessen
 - Paragraph 227 AO.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

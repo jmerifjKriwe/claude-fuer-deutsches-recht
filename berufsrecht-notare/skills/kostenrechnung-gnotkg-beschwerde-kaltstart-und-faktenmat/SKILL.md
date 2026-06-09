@@ -74,4 +74,3 @@ Konkret zu prüfen:
 - § 127 GNotKG (Beschwerde)
 - §§ 19, 23, 127 GNotKG
 - Anlage 1 KV-GNotKG
-

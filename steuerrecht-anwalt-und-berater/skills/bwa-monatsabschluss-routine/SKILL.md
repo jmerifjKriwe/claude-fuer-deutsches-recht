@@ -1,6 +1,6 @@
 ---
 name: bwa-monatsabschluss-routine
-description: "Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus."
+description: "Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periode..."
 ---
 
 # Monatsabschluss-Routine für den Steuerberater
@@ -111,4 +111,3 @@ Stand: 05/2026.
 - StBVV § 33 (Buchfuehrung), Anhang 5.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
 - Verifikations-Hinweis: GoBD-Update bei BMF-Anpassungen jaehrlich pruefen.
-

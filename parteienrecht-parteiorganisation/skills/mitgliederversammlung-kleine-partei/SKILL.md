@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-partei
-description: "Kleine Partei Praxis im Parteienrecht: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt? 4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?"
+description: "Kleine Partei Praxis im Parteienrecht: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt? 4. In welcher Sprache und D..."
 ---
 
 # Kleine Partei Praxis
@@ -38,4 +38,3 @@ Konkret zu prüfen:
 - Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-

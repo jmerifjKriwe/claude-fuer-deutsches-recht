@@ -97,4 +97,3 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 - VO (EU) 2014/53 (RED) i. V. m. delegierter VO (EU) 2022/30.
 - ISO/IEC 29147 (CVD); ISO/IEC 30111.
 - Live-Verifikation auf eur-lex.europa.eu, enisa.europa.eu, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

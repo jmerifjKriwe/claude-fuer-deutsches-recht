@@ -1,6 +1,6 @@
 ---
 name: inspection-certificate-late-delivery-liquidated
-description: "Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen im Internationales Handelsrecht Lex Me..."
 ---
 
 # Inspektionszertifikat
@@ -47,4 +47,3 @@ Inspektionszertifikate bescheinigen Qualität, Menge, Ursprung oder Zustand von 
 - Streitfall: Zertifikat als Prima-facie-Beweis; Gegenbeweis durch eigene Inspektion
 - Phytosanitär: staatliche Ausstellung im Ursprungsland; Timing für Akkreditiv beachten
 - UCP 600 Art. 26: kein Standard-Format vorgegeben — Inhalt nach Akkreditivbedingungen
-

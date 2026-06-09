@@ -42,4 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Wiederholung (§ 802d Abs. 1 ZPO):** Erneute Vermögensauskunft erst nach Ablauf von 2 Jahren erforderlich; Ausnahme bei plausibler Begründung erheblicher Änderungen (§ 802d Abs. 1 S. 2 ZPO).
 - **Schutzschriften / Korrekturen:** Schuldner kann unrichtige Angaben durch Berichtigung korrigieren (§ 802c Abs. 3 ZPO); falsche Angaben sind als Straftat (§ 156 StGB - falsche Versicherung an Eides statt) strafbar.
 - **Praktiker-Tipp:** Vor Antrag: § 802l ZPO Kontensuche bei Bundeszentralamt für Steuern parallel beauftragen. Vermögensauskunft schafft die Voraussetzung für gezielte PfÜBs.
-

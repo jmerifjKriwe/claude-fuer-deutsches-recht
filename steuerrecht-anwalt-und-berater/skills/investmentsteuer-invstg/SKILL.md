@@ -1,6 +1,6 @@
 ---
 name: investmentsteuer-invstg
-description: "Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen oder ein Spezialfonds plant Umstrukturierung. Behandelt § 6 InvStG Besteuerung der Investmentertraege § 16 InvStG Teilfreistellungen und § 18 InvStG Vorabpauschale. Output Pruefraster und Berechnungsbeispiel. Abgrenzung zu fa-stu-est-werbungskosten-systematik."
+description: "Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen oder ein Spezialfonds plant Umstrukturierung. Behandelt § 6..."
 ---
 
 # Investmentsteuerrecht — InvStG 2018 in der Anwendung
@@ -42,4 +42,3 @@ description: "Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Tei
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

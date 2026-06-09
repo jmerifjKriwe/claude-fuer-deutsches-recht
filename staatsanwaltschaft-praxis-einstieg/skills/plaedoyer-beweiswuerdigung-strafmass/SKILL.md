@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - §§ 226 ff. StPO (Hauptverhandlung)
 - § 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV
-

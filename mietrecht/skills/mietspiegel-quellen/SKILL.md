@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-quellen
-description: "Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Anwendungsfall: für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht im Mietrecht."
+description: "Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Anwendungsfall: für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprü..."
 ---
 
 # Mietspiegel-Quellen (amtlich)
@@ -188,4 +188,3 @@ Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Rec
 
 ---
 <!-- AUDIT 27.05.2026 -->
-

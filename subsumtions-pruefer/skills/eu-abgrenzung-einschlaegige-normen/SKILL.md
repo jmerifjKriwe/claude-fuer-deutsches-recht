@@ -79,4 +79,3 @@ Entscheidungsbaum mit Schritt-für-Schritt-Prüfung: Liegt Unionsrechtsbezug vor
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
-

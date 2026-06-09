@@ -1,6 +1,6 @@
 ---
 name: forderung-an-db-erste-stufe
-description: "Erstes Forderungsschreiben an das DB-Servicecenter Fahrgastrechte. Erfasst Anspruchsteller (alle Reisenden mit Vollmachten) Anspruchsgrundlage Art. 19 VO 2021/782 plus Art. 18 und Art. 20 sowie ggf. § 11 EVO konkrete Berechnung Frist zur Zahlung (typisch vier Wochen) Bankverbindung. Zwei Varianten: per Post an DB Dialog GmbH Servicecenter Fahrgastrechte 60647 Frankfurt am Main; ueber bahn.de oder DB-Navigator. Hinweis auf Schlichtungsstelle Reise & Verkehr und Klage. Ausgabe als strukturierter Schriftsatz."
+description: "Erstes Forderungsschreiben an das DB-Servicecenter Fahrgastrechte. Erfasst Anspruchsteller (alle Reisenden mit Vollmachten) Anspruchsgrundlage Art. 19 VO 2021/782 plus Art. 18 und Art. 20 sowie ggf. § 11 EVO konkrete Berechnung Frist zur Zahlung (typisch vier Wochen) Bankverbindung. Zwei Variante..."
 ---
 
 # Forderungsschreiben — Erste Stufe
@@ -221,4 +221,3 @@ bezeichnung: "Anlage K"
 ## Rechtsprechung
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

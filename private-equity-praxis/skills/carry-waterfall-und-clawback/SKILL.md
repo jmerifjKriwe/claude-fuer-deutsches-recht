@@ -99,4 +99,3 @@ Clawback (LPA):
 - MinStG (Pillar Two seit 01.01.2024).
 - InvStG §§ 1, 20.
 - ILPA Principles 3.0 und Carry Best Practice Guidance (Stand vom Anwender zu prüfen).
-

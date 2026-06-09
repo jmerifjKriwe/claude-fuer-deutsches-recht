@@ -1,6 +1,6 @@
 ---
 name: nicht-hochrisiko-bestaetigt-end-to
-description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transparenzpflichten Art. 50 GPAI-Pflichten Art. 53 KI-Kompetenz Art. 4 Sanktionen bei Verstoss. Output: Dokumentationspaket Negativ-Diagnose und Restpflichten-Checkliste. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Hochrisiko-Roadmap) und risikoklassen-uebersicht-und-triage."
+description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transpa..."
 ---
 
 # Kein Hochrisiko bestätigt — die End-to-End-Roadmap
@@ -213,4 +213,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-

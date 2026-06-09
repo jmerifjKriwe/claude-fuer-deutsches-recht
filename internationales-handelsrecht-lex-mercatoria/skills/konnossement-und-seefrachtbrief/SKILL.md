@@ -48,4 +48,3 @@ Das Konnossement (Bill of Lading, B/L) ist das Kernwertpapier des Seehandels: es
 - UCP 600 Art. 20 Anforderungen vorab mit Bank abstimmen
 - E-BL: nur wenn beide Parteien kompatible Plattform nutzen
 - Switch-BL: immer nur Original-Set vernichten vor Neuausstellung
-

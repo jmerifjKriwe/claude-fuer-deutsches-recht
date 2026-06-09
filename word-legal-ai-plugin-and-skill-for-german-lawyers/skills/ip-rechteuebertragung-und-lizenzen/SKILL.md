@@ -1,6 +1,6 @@
 ---
 name: ip-rechteuebertragung-und-lizenzen
-description: "Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software) im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vo..."
 ---
 
 # IP-Rechteübertragung und Lizenzen
@@ -93,4 +93,3 @@ Mustertext (Markenlizenz, einfache Lizenz, B2B):
 - §§ 27, 30 MarkenG; § 15 PatG.
 - BGH "UsedSoft" und EuGH-Rechtsprechung zum Erschöpfungsgrundsatz Software sind vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
-

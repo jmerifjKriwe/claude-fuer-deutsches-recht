@@ -58,4 +58,3 @@ Konkret zu prüfen:
 
 - §§ 19, 23 GNotKG
 - § 127 GNotKG (Beschwerde)
-

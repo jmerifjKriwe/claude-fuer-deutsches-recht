@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung-45-beamtvg
-description: "Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage im Beamtenrecht."
+description: "Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung..."
 ---
 
 # Dienstunfall — Anerkennung und Meldefristen
@@ -66,4 +66,3 @@ Skill für Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin Lehrerin stuerzt im Klassenzimmer; zunaechst nur Hautabschuerfung, drei Jahre spaeter Bandscheibenschaden mit gutachterlich nachgewiesener Mitursache. Skill liefert Spaetfolgenmeldung innerhalb der Zehn-Jahres-Frist mit Kausalitaetsbegruendung.
-

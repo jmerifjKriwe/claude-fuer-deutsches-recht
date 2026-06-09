@@ -52,4 +52,3 @@ Handelsbräuche (Trade Usages) können nach CISG Art. 9 Abs. 2 Vertragsinhalt we
 - CENTRAL: trans-lex.org für Prinzipien-Recherche mit Schiedsreferenzen
 - Gegenpartei-Argument: Unkenntnis des Brauchs belegen (Ausnahme Art. 9 Abs. 2)
 - Course of Dealing: Dokumentation früherer Verträge als Beweismittel
-

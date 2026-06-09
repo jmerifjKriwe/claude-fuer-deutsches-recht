@@ -61,4 +61,3 @@ USA-Vergleich
 ## Quellen
 
 Nutze für Zitate die freien US-Reports- und Supreme-Court-Links aus `rechtsprechungsbank-verifiziert`. Keine US-Law-Review- oder Kommentarzitate aus Modellwissen.
-

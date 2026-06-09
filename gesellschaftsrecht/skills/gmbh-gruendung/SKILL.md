@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung
-description: "Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag im Gesellschaftsrecht."
+description: "Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsv..."
 ---
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
@@ -265,4 +265,3 @@ Alle Aussagen zu GmbH-Gründungsrecht nach `references/zitierweise.md`.
 Rspr. vor Kommentar; neueste Entscheidungen zuerst. Bei UG-Variante und
 Vorgesellschaftsfragen bestehende Meinungsunterschiede in der Literatur
 ausdrücklich aufzeigen. Gesetzesstände (insb. GwG) auf Aktualität prüfen.
-

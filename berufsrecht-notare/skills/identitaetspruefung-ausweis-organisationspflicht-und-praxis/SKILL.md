@@ -44,4 +44,3 @@ Konkret zu prüfen:
 - § 12 BNotO
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

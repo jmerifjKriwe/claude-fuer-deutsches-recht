@@ -46,4 +46,3 @@ description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnun
 2. Wie viele Kinder?
 3. Buergergeld-Existenzminimum berechnen.
 4. Abstand 15 Prozent?
-

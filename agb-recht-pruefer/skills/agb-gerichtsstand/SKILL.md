@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Gerichtsstand: prüft, redlined und entwirf
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

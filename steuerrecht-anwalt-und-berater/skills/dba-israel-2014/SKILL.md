@@ -160,4 +160,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Isra
 Stand: 05/2026. DBA-Israel 21.08.2014, in Kraft 09.05.2016, Anwendung ab 01.01.2017 (BGBl. 2015 II S. 1301/1302). MLI-Status Israel: unterzeichnet, Ratifizierungsstatus im BMF-Verzeichnis pruefen. Aliyah-Steuerstatus: nach israelischem Steuerrecht im Einzelfall pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

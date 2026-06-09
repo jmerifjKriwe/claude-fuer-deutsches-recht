@@ -37,4 +37,3 @@ Konkret zu prüfen:
 - § 100g StPO (Verkehrsdaten)
 - Art. 18 DSA
 - § 22 TTDSG (Auskunft)
-

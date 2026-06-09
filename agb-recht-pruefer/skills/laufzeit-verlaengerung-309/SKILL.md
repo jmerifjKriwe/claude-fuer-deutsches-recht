@@ -37,4 +37,3 @@ description: "Norm- und Dogmatik-Skill für Laufzeit Verlängerung 309: prüft d
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

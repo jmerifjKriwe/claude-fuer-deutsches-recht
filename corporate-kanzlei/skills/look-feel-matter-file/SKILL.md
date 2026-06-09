@@ -238,4 +238,3 @@ Nächste Review: [Datum]
 - Keine spezifischen Rechtsnormen; Design-Standard ist prozessual, nicht materiell-rechtlich.
 - Referenz: Corporate-Cowork-Designsystem (`assets/templates/cowork-ma-designsystem.md`)
 - Vorlagen: `assets/templates/cowork-ma-dashboard.md`, `assets/templates/workflow-statuskarte.md`
-

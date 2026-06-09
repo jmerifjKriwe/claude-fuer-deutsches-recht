@@ -47,4 +47,3 @@ BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Ar
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 5 DDG über https://www.gesetze-im-internet.de/ddg/__5.html, § 25 TDDDG über https://www.gesetze-im-internet.de/tdddg/__25.html live verifizieren. Abmahn-Rechtsprechung und Plattform-AGB ändern sich laufend.
-

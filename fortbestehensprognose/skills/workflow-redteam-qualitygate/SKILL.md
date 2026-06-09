@@ -34,4 +34,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Liquiditätsplausibilität:** Stimmt die 13-Wochen-Planung mit den OPOS-Listen, dem Tilgungsplan und der Lohnzahlungsfrist? Sind Steuern, Sozialversicherung (§ 266a StGB) und Umsatzsteuer-Voranmeldungen enthalten?
 - **Klärung Eröffnungsgrund:** Ist trennscharf, ob die Prognose § 19 InsO (Überschuldung) oder § 18 InsO (drohende Zahlungsunfähigkeit) adressiert? Beides hat unterschiedliche Folgen für § 15a InsO.
 - **Quellenfußabdruck:** Sind alle nicht-trivialen rechtlichen Aussagen normbelegt? Keine BGH-Az aus Modellwissen, sondern "BGH ständige Rspr." oder verlinkter Live-Check.
-

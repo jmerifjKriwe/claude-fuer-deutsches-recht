@@ -82,4 +82,3 @@ Recherche-Protokoll: Norm → Such-Strategie → Gefundene Entscheidungen (mit L
 ---
 
 Hinweis: Keine Rechtsberatung. Systemwissen ersetzt keine Live-Recherche.
-

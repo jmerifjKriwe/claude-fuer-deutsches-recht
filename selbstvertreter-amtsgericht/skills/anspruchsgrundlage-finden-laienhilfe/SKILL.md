@@ -150,4 +150,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Leitentscheidungen
 
 - BGH VI ZR 67/15
-

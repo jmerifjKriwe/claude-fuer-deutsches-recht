@@ -89,4 +89,3 @@ description: "Enthält eine verifizierte Rechtsprechungsbank zur Meinungsfreihei
 ## Anwendung
 
 Nutze die Bank nicht als starre Ergebnisliste. Sie liefert Prüfmaßstäbe: Sinnermittlung, Meinung/Tatsache, enge Ausnahmen, Normalabwägung, Machtkritik, Kampf ums Recht, Reichweite, Prangerwirkung, europäische Verhältnismäßigkeit und rechtsvergleichende Einordnung.
-

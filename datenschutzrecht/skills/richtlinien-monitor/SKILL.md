@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung."
+description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abg..."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung
@@ -150,4 +150,3 @@ Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
 Empfehlung: Aktualisierung bis [DATUM]
 Verantwortlich: [PERSON/ROLLE]
 ```
-

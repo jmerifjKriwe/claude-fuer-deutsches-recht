@@ -66,4 +66,3 @@ Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 3. Welche Quellenausgabe?
 4. Inhalt klar?
 5. BGB-Pendant?
-

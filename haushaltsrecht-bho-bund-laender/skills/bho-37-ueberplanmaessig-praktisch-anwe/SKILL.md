@@ -1,6 +1,6 @@
 ---
 name: bho-37-ueberplanmaessig-praktisch-anwe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig praktisch anwenden. BHO § 37 Überplanmäßig praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig praktisch anwenden. BHO § 37 Überplanmäßig praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret d..."
 ---
 
 # Bho 37 Ueberplanmaessig Praktisch Anwe
@@ -27,4 +27,3 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-

@@ -37,4 +37,3 @@ description: "Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversi
 ## Quellen-Hardening
 
 Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
-

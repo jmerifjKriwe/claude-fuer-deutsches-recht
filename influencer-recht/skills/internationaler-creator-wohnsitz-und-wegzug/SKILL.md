@@ -73,4 +73,3 @@ Creator, die ins Ausland ziehen, müssen komplexe Steuer- und Sozialversicherung
 - Scheinstandort-Risikoampel
 - Wegzugsbesteuerungs-Kalkulation
 - DBA-Kurzcheck (Zielland vs. DE)
-

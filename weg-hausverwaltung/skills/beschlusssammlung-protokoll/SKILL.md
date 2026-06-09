@@ -1,6 +1,6 @@
 ---
 name: beschlusssammlung-protokoll
-description: "Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen."
+description: "Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht en..."
 ---
 
 # Beschlusssammlung und Protokoll
@@ -66,4 +66,3 @@ Tabellarisch mit:
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 Abs. 7 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html .
-

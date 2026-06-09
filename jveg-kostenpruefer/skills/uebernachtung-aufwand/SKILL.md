@@ -57,4 +57,3 @@ Prüfergebnis für Tagegeld und Übernachtung mit BRKG-Abgleich und Belegnachwei
 ## Leitplanken
 - BRKG-Obergrenzen sind zwingend; Überschreitung ohne besondere Begründung wird nicht anerkannt.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
-

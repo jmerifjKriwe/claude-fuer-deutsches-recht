@@ -77,4 +77,3 @@ schlüssiges Verhalten (z.B. Erfüllung der Verbindlichkeit) erklärt werden.
 - Fristbeginn: Kenntnis des Anfechtungsgrunds festgestellt?
 - Absolute Frist nach § 121 Abs. 2 BGB oder § 124 Abs. 3 BGB beachtet?
 - Bestätigung nach § 144 BGB: Kenntnis des Anfechtungsgrunds bei Bestätigung vorhanden?
-

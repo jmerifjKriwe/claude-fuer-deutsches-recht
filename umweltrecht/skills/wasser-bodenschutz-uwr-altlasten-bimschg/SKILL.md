@@ -1,6 +1,6 @@
 ---
 name: wasser-bodenschutz-uwr-altlasten-bimschg
-description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A) im Umweltrecht."
+description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan..."
 ---
 
 # Wasser- und Bodenschutzrecht
@@ -157,4 +157,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-verfahren` — Klage gegen Sanierungsanordnung
 - `umweltrecht-immissionsschutz-bimschg` — Betriebsgenehmigung mit Wasserrechtsbezug
 - `umweltrecht-bussgeld-sanktionen` — Verstoss Wasserrecht
-

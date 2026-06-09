@@ -48,4 +48,3 @@ description: "Testamentum calatis comitiis und in procinctu: aelteste Formen des
 1. Welche Form?
 2. Personenkreis (cives, Soldat)?
 3. Formerfordernisse erfuellt?
-

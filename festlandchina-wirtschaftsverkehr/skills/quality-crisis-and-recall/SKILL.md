@@ -1,6 +1,6 @@
 ---
 name: quality-crisis-and-recall
-description: "Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie im Festlandchina Wirtschaftsverkehr."
+description: "Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rück..."
 ---
 
 # Qualitätskrise und Rückruf China-Import: Haftung und Protokoll
@@ -90,4 +90,3 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-

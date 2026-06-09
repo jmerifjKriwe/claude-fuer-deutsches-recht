@@ -1,6 +1,6 @@
 ---
 name: rmap-bestimmtheit-und-justitiabilitaet
-description: "Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsmaessigkeit-quercheck und legw-rmap-vollzugstauglichkeit. Abgrenzung zur reinen Norminhalt-Pruefung; hier geht es um die Wechselwirkung Text und Logikmodell."
+description: "Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsm..."
 ---
 
 # Bestimmtheit und Justitiabilitaet bei Rulemap-Normen
@@ -42,4 +42,3 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
-

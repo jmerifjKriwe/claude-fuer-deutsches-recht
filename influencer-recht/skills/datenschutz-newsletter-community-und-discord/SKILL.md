@@ -72,4 +72,3 @@ Creator, die eigene Communities aufbauen, sind Datenverantwortliche nach DSGVO:
 - Double-Opt-In Prozessbeschreibung
 - AV-Vertrag (Mailchimp / Brevo Vorlage)
 - Cookie-Consent-Banner-Anleitung
-

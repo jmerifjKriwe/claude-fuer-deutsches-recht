@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-entwurf-formelle
-description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulässigkeit Begründung. Abgrenzung: nicht für abstrakte oder konkrete Normenkontrolle im Verfassungsrecht."
+description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output..."
 ---
 
 # Verfassungsbeschwerde-Entwurf
@@ -207,4 +207,3 @@ Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesve
 ## Disclaimer-Wiederholung (vor jedem Output)
 
 Eine Verfassungsbeschwerde ist eine der anspruchsvollsten Schriftsätze der deutschen Rechtsordnung. Dieser Entwurf ist **kein Ersatz** für die anwaltliche Mandatsbearbeitung durch eine verfassungsrechtliche Spezialkanzlei. Insbesondere die Substantiierungsanforderungen und die strenge Subsidiarität führen in der Praxis zu hohen Verwerfungsquoten.
-

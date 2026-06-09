@@ -1,6 +1,6 @@
 ---
 name: anlagen-bauen
-description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass Annullierungsbestätigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in der Reihenfolge der ersten Erwaehnung im Schriftsatz stempelt oben rechts Anlage K 1 in Arial 12 fett und benennt beA-tauglich. Liefert Einzel-PDFs Konvolut-PDF Anlagenverzeichnis und optional ein Schriftsatz-mit-Anlagen-Bundle als ein PDF."
+description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass Annullierungsbestätigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in d..."
 ---
 
 # Fluggastrechte — Anlagen bauen
@@ -137,4 +137,3 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
-

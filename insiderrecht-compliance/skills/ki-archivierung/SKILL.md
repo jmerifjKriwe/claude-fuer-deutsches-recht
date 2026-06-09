@@ -69,4 +69,3 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 - Ad-hoc-Pflicht: Wenn Modell-Output wesentliche Abweichung von Guidance signalisiert →
  Prüfung ob Profit-Warning-Ad-hoc erforderlich
 - Schulung der Modell-Nutzer auf Insiderrecht
-

@@ -1,6 +1,6 @@
 ---
 name: langfristige-liefervertraege-lsa
-description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mercatoria."
+description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mer..."
 ---
 
 # Langfristige Lieferverträge (LSA)
@@ -52,4 +52,3 @@ Langfristige Lieferverträge sichern Versorgung und Absatz über mehrere Jahre. 
 ## Quellenregel
 
 CISG Art. 14, 29: uncitral.un.org. PICC Art. 6.2.1-6.2.3: unidroit.org. BGB §§ 308, 313: gesetze-im-internet.de. ICC FM-Klausel 2020: iccwbo.org. Unsicherheit bleibt sichtbar.
-

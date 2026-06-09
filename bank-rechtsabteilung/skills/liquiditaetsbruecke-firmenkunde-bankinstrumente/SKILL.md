@@ -59,4 +59,3 @@ Ergänze:
 - `stundung-standstill-waiver`
 - `forbearance-npe-risikoklassifizierung`
 - `sanierungsgutachten-idw-s6-bewertung`
-

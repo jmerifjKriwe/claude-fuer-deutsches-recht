@@ -110,4 +110,3 @@ Wenn LN Gemischtverwender (unternehmerisch + privat): Vorsteuer aufteilen.
 - **Pflichtangaben-Checkliste**: § 14 IV UStG für Leasingrechnungen
 - **Sonderzahlungs-Buchungsschema**: Anzahlung, USt, Vorsteuer
 - **Dauerrechnung-Muster**: Monatliche Leasingrate mit korrekten Angaben
-

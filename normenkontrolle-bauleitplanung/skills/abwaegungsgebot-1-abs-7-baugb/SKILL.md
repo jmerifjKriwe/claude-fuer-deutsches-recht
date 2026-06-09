@@ -1,6 +1,6 @@
 ---
 name: abwaegungsgebot-1-abs-7-baugb
-description: "Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Ergebnisfehler. Vorfestlegung und formelhafte Abwaegungsdokumentation als Angriffspunkte. Output: Abwaegungsfehler-Analyse und Bausteine für Normenkontrollantrag. Abgrenzung zu planerhaltung-214-215-baugb (Fehlererheblichkeit) und normenkontrollantrag-schriftsatz."
+description: "Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Er..."
 ---
 
 # Abwägungsgebot § 1 Abs. 7 BauGB
@@ -180,4 +180,3 @@ Konkrete Entscheidungen vor Verwendung per bverwg.de mit Datum verifizieren.
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-

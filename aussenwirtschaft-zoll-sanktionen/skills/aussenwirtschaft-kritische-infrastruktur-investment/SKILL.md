@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kritische-infrastruktur-investment
-description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeldung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeld..."
 ---
 
 # KRITIS-Investitionspruefung: Drittstaatserwerb in kritischer Infrastruktur
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BMWK Investitionspruefung KRITIS](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/investitionspruefung.html)
 - [VO (EU) 2019/452 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-

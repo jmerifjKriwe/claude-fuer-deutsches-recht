@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-haftung-43-gmbhg
-description: "Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung im Gesellschaftsrecht."
+description: "Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Complia..."
 ---
 
 # Geschäftsführer-Haftung § 43 GmbHG prüfen
@@ -145,4 +145,3 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 - `gesellschaftsrecht:gesellschafterbeschluss` — Entlastungsbeschluss prüfen und anfechten
 - `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Haftungsvorwurf Teil eines Gesellschafterkonflikts ist
 - `gesellschaftsrecht:mandat-triage-gesellschaftsrecht` — wenn Mandat neu aufgenommen wird
-

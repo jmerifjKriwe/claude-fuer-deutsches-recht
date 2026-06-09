@@ -52,4 +52,3 @@ Lieferketten enthalten häufig IP-Rechte: der Hersteller lizenziert Know-how, de
 ## Quellenregel
 
 PatG §§ 9, 20: gesetze-im-internet.de. MarkenG § 24: gesetze-im-internet.de. HGeschGehG § 9: gesetze-im-internet.de. TRIPS Art. 31: wto.org. Unsicherheit bleibt sichtbar.
-

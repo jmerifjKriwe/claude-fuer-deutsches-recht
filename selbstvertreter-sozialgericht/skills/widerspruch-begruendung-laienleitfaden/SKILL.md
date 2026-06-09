@@ -129,4 +129,3 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 24 SGB X garantiert Ihr Anhörungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
-

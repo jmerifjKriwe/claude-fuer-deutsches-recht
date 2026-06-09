@@ -41,4 +41,3 @@ Konkret zu prüfen:
 - § 121 StPO (6-Monatsfrist, OLG-Haftprüfung)
 - § 117 StPO (Haftprüfung)
 - BVerfG NStZ 2006, 460 (Beschleunigungsgebot)
-

@@ -45,4 +45,3 @@ Konkret zu prüfen:
 - § 43 GwG (Meldepflicht)
 - § 26 BNotO (Geschäftsstelle)
 - DONot
-

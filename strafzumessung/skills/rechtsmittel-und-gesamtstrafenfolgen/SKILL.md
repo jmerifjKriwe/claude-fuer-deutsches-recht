@@ -52,4 +52,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
 - **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
 - **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Rücknahme schriftliche Mandantenfreigabe.
-

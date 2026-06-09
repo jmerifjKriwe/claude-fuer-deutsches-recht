@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-deal-strategie
-description: "Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden im Strafrechts-Aktenaufbereiter."
+description: "Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden im Strafrech..."
 ---
 
 # Verstaendigung (Deal) Strategie
@@ -48,4 +48,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

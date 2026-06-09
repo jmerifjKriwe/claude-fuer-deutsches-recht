@@ -47,4 +47,3 @@ description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Be
 2. Freizeitausgleich moeglich?
 3. Andernfalls Verguetung?
 4. Arbeitszeitgrenzen eingehalten?
-

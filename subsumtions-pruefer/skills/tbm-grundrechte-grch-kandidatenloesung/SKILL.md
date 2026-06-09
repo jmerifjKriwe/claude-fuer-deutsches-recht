@@ -97,4 +97,3 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 <!-- AUDIT 27.05.2026
 -->
-

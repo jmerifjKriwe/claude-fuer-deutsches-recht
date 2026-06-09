@@ -80,4 +80,3 @@ Konkret zu prüfen:
 - EuGH C-348/13 (BestWater)
 - EuGH C-466/12 (Svensson)
 - EuGH C-392/19 (VG Bild-Kunst)
-

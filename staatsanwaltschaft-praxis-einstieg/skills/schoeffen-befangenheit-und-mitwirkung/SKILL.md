@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - §§ 31-45 GVG (Schöffen)
 - § 76 GVG (Mitwirkung)
 - BVerfGE 14, 56
-

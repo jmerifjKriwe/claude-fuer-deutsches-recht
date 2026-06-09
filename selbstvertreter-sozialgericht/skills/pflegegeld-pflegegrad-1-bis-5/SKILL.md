@@ -67,4 +67,3 @@ description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklär
 5. MD-/Medicproof-Gutachten vollständig: Mobilität, kognitive/kommunikative Fähigkeiten, Verhalten, Selbstversorgung, Krankheitstherapie, Alltag?
 6. Widerspruchsfrist und Begründungsfrist gesichert?
 7. Pflegeperson, Rentenversicherung, Verhinderungspflege/Kurzzeitpflege und Kombinationsleistung mitgedacht?
-

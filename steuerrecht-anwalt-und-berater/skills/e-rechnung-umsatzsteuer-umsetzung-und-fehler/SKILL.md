@@ -22,4 +22,3 @@ description: "Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/B
 3. Rechnungsausgang: Format, Anlage, Endrechnung/Teilentgelte, Storno, Gutschrift.
 4. Vorsteuer: Pflichtangaben, Berichtigungsweg, Prüfspur.
 5. GoBD: Unveränderbarkeit, Verfahrensdokumentation, Rollen, Kontrollen.
-

@@ -1,6 +1,6 @@
 ---
 name: 021-zweiter-familienrecht-ehe
-description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Familienrecht Ehe Vormundschaft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Familienrecht Ehe Vormundschaft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
 ---
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft
@@ -57,4 +57,3 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 1. Wann wurde die Ehe geschlossen? — vor 1900 ALR, ab 1900 BGB.
 2. Wann der Erbfall? — entsprechend.
 3. Heute lebende Frage? Direkt BGB.
-

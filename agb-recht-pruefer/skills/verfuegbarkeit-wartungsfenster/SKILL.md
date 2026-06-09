@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Verfügbarkeit Wartungsfenster: prüft, red
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

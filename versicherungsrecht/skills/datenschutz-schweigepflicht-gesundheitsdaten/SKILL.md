@@ -41,4 +41,3 @@ DSGVO Art. 5, 6, 9, 15; BDSG; VVG §§ 19, 31, 213; StGB § 203 für Berufsgehei
 
 - vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung
 - pkv-kostenerstattung-medizinische-notwendigkeit
-

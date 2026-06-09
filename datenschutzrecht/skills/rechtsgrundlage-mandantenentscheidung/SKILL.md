@@ -1,6 +1,6 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung
-description: "Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerausz체ge, Bescheide, Vertr채ge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegen체ber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
 ---
 
 # Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
@@ -36,4 +36,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off f체r die Mandantenentscheidung
 Einwilligung wirkt ger채umig, ist aber widerruflich und schafft Dokumentationslast. Berechtigtes Interesse spart die Widerrufsproblematik, erfordert aber belastbare Abw채gung samt Widerspruchsrecht (Art. 21). Empfehlung: pro Verarbeitungszweck genau **eine** Rechtsgrundlage benennen; Kumulation in der Praxis fehleranf채llig.
-

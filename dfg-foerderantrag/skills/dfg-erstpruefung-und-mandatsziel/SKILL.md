@@ -98,4 +98,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Sachbeihilfe-Antrag wird wie Promotionsprojekt geschrieben - DFG erwartet abgeschlossene Promotion und eigenständige Forschungskonzeption.
 - Mehrfacheinreichung in zwei DFG-Programmen ohne Hinweis - Ausschlusskriterium.
 - Habilitationsstellen, die zur Grundausstattung gehören, werden als Personalmittel beantragt.
-

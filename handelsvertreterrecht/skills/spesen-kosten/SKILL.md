@@ -81,4 +81,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [§ 9 EStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/estg/__9.html)
 - [Dejure § 87d HGB](https://dejure.org/gesetze/HGB/87d.html)
-

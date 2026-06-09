@@ -91,4 +91,3 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 - DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
 - IGP&I: https://www.igpandi.org
 - openjur P&I-Streit: https://www.openjur.de
-

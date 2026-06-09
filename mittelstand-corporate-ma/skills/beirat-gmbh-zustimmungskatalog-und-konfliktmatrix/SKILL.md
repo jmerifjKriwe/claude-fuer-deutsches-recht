@@ -22,4 +22,3 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
 4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
 5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
-

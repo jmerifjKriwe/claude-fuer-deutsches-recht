@@ -48,4 +48,3 @@ Der Standby Letter of Credit (SBLC) ist ein auf Ersterstkenntnisfordering basier
 - Abrufbedingungen: klar und so simpel wie möglich definieren
 - Anti-Fraud: Gerichtsstandsklausel für Injunction-Fälle mitdenken
 - Evergreen-Klausel: Ablaufdatum und Nichterneuerungs-Notifikationsfrist sorgfältig prüfen
-

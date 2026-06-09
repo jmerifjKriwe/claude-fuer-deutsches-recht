@@ -46,4 +46,3 @@ Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. 
 - RGZ 39, 127: historische RG-Entscheidungssammlungen
 - BVerfGE 153, 182: bverfg.de vollstaendig lesen
 - AMG: gesetze-im-internet.de
-

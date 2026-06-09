@@ -64,4 +64,3 @@ Erzeuge Anspruchscheck, Forderungsschreiben, Belegliste und Eskalationsroute.
 ## Prompts, die dieser Skill stellen soll
 
 - Flug/Zug/Reise, Zeiten, Grund, Ersatzbeförderung, Mehrkosten?
-

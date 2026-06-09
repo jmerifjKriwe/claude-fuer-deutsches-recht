@@ -99,4 +99,3 @@ Eingaben:
 - BSG, staend. Rspr. zu pharmazeutischen Bedenken und Retaxation.
 - DAV-Mitgliederinformationen / aktuelle Rabattvertragslisten (vom Anwender zu verifizieren).
 - ABDA-Leitlinien zur Substitution.
-

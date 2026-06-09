@@ -57,4 +57,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
  - BVerfG.de - Verfassungsbeschwerden.
  - HUDOC - EGMR-Datenbank.
  - EUR-Lex - EU-Recht.
-

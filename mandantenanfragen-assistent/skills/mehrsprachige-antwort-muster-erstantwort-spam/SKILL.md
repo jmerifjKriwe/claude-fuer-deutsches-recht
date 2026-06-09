@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-antwort-muster-erstantwort-spam
-description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede) im Mandantenanfragen Assistent."
+description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung..."
 ---
 
 # Mehrsprachige-Antwort
@@ -152,4 +152,3 @@ der das Erstgespräch führen kann? Falls nein: Hinweis in der Mail aufnehmen.
 - `anfrage-eingang-parser` — erkennt die Sprache der Anfrage
 - `erstantwort-generator` — erhält den Sprachmodus
 - `anrede-uebernehmen` — liefert die sprachangepasste Anrede
-

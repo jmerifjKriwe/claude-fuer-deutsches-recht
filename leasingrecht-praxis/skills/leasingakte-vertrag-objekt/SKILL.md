@@ -82,4 +82,3 @@ Einschlägige Normen:
 - **Prüf-Checkliste**: 20-Punkte-Check für erste Aktenansicht
 - **Dreiecksdiagramm**: LG, LN, Lieferant mit Rechtsverhältnissen
 - **Fristenkalender**: Laufzeitende, Optionsfristen, Rückgabetermin
-

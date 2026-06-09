@@ -64,4 +64,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Periode?
 2. Welcher Gerichtshof / Schule?
 3. Welche Bedeutung?
-

@@ -118,4 +118,3 @@ Stand: 05/2026.
 - DiRUG (BGBl. I 2021, 3338).
 - BfJ-Verfahrensanweisungen zum Ordnungsgeldverfahren.
 - Unternehmensregister: www.unternehmensregister.de bzw. www.publikations-plattform.de.
-

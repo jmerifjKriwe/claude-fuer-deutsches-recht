@@ -76,4 +76,3 @@ Wenn nur Dateien kommen:
 - Keine erfundenen Quellen.
 - Fremdmaterial vorsichtig behandeln.
 - Immer nächste Aktion liefern.
-

@@ -53,4 +53,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
 - BGH I ZB 22/20
 - BGH I ZR 149/14
-

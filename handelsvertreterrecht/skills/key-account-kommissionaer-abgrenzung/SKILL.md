@@ -1,6 +1,6 @@
 ---
 name: key-account-kommissionaer-abgrenzung
-description: "Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln im Handelsvertreterrecht."
+description: "Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln im Handelsvertreterr..."
 ---
 
 # Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision
@@ -81,4 +81,3 @@ ergänzen das Recht praxisnah.
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-

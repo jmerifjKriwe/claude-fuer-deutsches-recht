@@ -48,4 +48,3 @@ Art. 6 CISG erlaubt Parteien, das gesamte CISG oder einzelne Bestimmungen auszus
 - Bei Teilabweichung: die konkreten Artikel benennen
 - Rom I-Statut separat festlegen — CISG und Vertragsstatut sind unabhängig
 - Schriftformvorbehalt-Staaten vor Vertragsabschluss prüfen
-

@@ -52,4 +52,3 @@ Allgemeine Geschäftsbedingungen (AGB) im internationalen B2B-Handel unterliegen
 ## Quellenregel
 
 CISG Art. 8-9: uncitral.un.org. PICC Art. 2.1.19-2.1.22: unidroit.org. BGB §§ 305-310: gesetze-im-internet.de. BGH VIII ZR 274/98: dejure.org. Unsicherheit bleibt sichtbar.
-

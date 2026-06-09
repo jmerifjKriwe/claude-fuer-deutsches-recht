@@ -1,6 +1,6 @@
 ---
 name: verletzung-dokumentieren-hashlog-screenshot-crawl-protoko
-description: "Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing im Datenbankrecht."
+description: "Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige..."
 ---
 
 # Verletzung dokumentieren — Hash-Logs, Screenshots und Crawl-Protokolle
@@ -63,4 +63,3 @@ description: "Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur ger
 - [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
 - [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
 - [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)
-

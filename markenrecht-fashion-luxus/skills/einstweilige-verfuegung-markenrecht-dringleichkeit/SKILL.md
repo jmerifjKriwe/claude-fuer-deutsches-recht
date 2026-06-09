@@ -47,4 +47,3 @@ description: "Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: 
 ## Quellen
 
 Lokale Gerichtspraxis und Rechtsprechung nur verifiziert verwenden. Dringlichkeitsfristen unterscheiden sich praktisch je nach OLG-Bezirk; niemals pauschal eine starre Monatsfrist behaupten, ohne den Gerichtsstand zu prüfen.
-

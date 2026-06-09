@@ -157,4 +157,3 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Wagner, BB 2024, 579 (583)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-

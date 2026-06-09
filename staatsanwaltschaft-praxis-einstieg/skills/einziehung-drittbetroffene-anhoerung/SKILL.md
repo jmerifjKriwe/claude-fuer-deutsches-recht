@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - §§ 73-76b StGB (Einziehung von Taterträgen)
 - §§ 111b ff. StPO (Sicherstellung)
 - § 111j StPO (Vermögensarrest)
-

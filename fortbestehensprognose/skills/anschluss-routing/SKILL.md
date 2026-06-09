@@ -65,4 +65,3 @@ Dieses Anschluss-Routing für **Fortbestehensprognose** wählt nach dem ersten E
 - BGH IX ZR 56/22
 - BGH II ZR 206/22
 - BGH IV ZR 66/25
-

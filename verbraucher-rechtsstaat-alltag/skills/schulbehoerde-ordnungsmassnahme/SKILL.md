@@ -64,4 +64,3 @@ Erzeuge Bescheidanalyse, Elternbrief, Akteneinsichtsantrag, Eilrechtscheck und G
 ## Prompts, die dieser Skill stellen soll
 
 - Bundesland, Schule, Maßnahme, Datum, Begründung, Sofortvollzug?
-

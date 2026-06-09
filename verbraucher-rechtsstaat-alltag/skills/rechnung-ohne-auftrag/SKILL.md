@@ -64,4 +64,3 @@ Erzeuge Bestreitensschreiben, Beleganforderung, Inkassoantwort und Betrugswarnun
 ## Prompts, die dieser Skill stellen soll
 
 - Wer fordert, wofür, gab es Kontakt, Aufnahme, Bestätigung?
-

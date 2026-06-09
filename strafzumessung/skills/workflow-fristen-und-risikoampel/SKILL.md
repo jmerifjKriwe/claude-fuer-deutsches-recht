@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe; Voraussetzungen: Wiedergutmachung, Aussoehnungsbemuehen, ernsthaftes Anerkennen.
 - **§ 49 StGB Strafrahmenmilderung:** § 23 II, § 21 StGB, § 13 II StGB, § 27 II 2 StGB - Pruefreihenfolge beachten.
 - **Risikoampel:** Rot bei drohender Untergrenze ueberschritten, falscher Strafrahmen, fehlender Bewaehrungseinwilligung; Gelb bei unklarer Vorstrafenlage; Gruen bei dokumentierter Strafmasserwartung.
-

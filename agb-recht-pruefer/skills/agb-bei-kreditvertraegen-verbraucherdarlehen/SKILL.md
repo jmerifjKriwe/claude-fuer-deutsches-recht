@@ -1,6 +1,6 @@
 ---
 name: agb-bei-kreditvertraegen-verbraucherdarlehen
-description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster."
+description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert P..."
 ---
 
 # Agb Bei Kreditvertraegen Verbraucherdarlehen
@@ -74,4 +74,3 @@ description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kon
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
-

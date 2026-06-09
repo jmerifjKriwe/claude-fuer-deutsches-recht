@@ -126,4 +126,3 @@ trotz unserer Erinnerung vom … haben Sie die Rechnung Nr. … in Höhe von …
 - UWG § 7 zu unzumutbarer Belästigung.
 - RDG § 31a zu Inkassodienstleistungen (Verbraucherbezug).
 - BGH zur Wirksamkeit der Abtretungsanzeige (st. Rspr., amtliche Sammlung).
-

@@ -12,17 +12,17 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Internationales Wirtschaftsre
 ## Suchraster
 
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `bruessel-cisg-sonderfall-edge`
+- `bruessel-risikoampel-und-gegenargumente`
 - `embargo-fristennotiz-schiedsverfahren-wirtschaftsrecht`
 - `fachanwalt-internationales-intwr-red`
 - `gerichtsstand-rechtswahl-intwr-cisg-intwr-rom`
-- `investitionsschutz-kanzlei-lksg`
+- `investitionsschutz-verhandlung-vergleich-und-eskalation`
 - `iwr-arbitration-iwr-cisg-iwr-rechtswahl`
 - `iwr-cisg-iwr-brussels-iwr-icc`
 - `iwr-einfuehrung-rechtsquellen`
 - `mandat-triage-schriftsatzkern-substantiierung-aussenhandel`
 - `orientierung-iwr-embargo-iwr-eu`
-- `sanktionen-erstgespraech-mandatsannahme-cisg`
+- `sanktionen-mandantenkommunikation-entscheidungsvorlage`
 
 ## Prüfroute
 

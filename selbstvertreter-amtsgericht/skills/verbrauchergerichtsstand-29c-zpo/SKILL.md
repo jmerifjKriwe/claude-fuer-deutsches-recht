@@ -78,4 +78,3 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
-

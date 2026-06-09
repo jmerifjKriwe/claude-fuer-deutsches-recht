@@ -64,4 +64,3 @@ description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldothe
 - https://www.gesetze-im-internet.de/bgb/__818.html
 - https://www.gesetze-im-internet.de/bgb/__817.html
 - https://www.gesetze-im-internet.de/bgb/__816.html
-

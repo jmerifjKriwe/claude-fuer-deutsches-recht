@@ -1,6 +1,6 @@
 ---
 name: cap-table
-description: "Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Prüfraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gründungsprotokoll oder Handelsregisteranmeldung im Gesellschaftsgruender."
+description: "Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Prüfraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung:..."
 ---
 
 # Cap Table
@@ -132,4 +132,3 @@ Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
 - `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — Verwässerung und neue Runde
 - `gesellschaftsgruender-genehmigtes-kapital` — Vorrats-Beschluss für ESOP
 - `gesellschaftsgruender-notar-vorbereitung` — Gesellschafterliste für Anmeldung
-

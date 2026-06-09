@@ -52,4 +52,3 @@ Die kommunale Selbstverwaltung als Rechtsprinzip entstand mit der Preussischen S
 - Zeitleiste kommunale Selbstverwaltung: 1808-GG 1949
 - Kernbereich Art. 28 Abs. 2 GG: BVerfGE-Uebersicht
 - DGO 1935: NS-Zentralisierung und ihr Ende
-

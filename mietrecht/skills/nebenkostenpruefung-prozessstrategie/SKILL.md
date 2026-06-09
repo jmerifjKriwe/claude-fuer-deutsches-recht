@@ -48,4 +48,3 @@ description: "Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Bele
 - Jede Zahl mit Anlage verbinden: "Position Hausmeister, Anlage K3, Rechnung [...], Kürzung [...] EUR".
 - Bei Mahnbescheid rechtzeitig Widerspruch prüfen; Begründung folgt erst im streitigen Verfahren.
 - Bei Klage: Forderung, Zahlung, Vorbehalt, Belegeinsicht und konkrete Fehler getrennt vortragen.
-

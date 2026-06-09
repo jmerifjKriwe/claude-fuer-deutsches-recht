@@ -1,6 +1,6 @@
 ---
 name: praktikabilitaet-vollzug-test
-description: "Praktikabilitaetstest für den Vollzug. Prueft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort."
+description: "Praktikabilitaetstest für den Vollzug. Prueft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik..."
 ---
 
 # NKR-Praktikabilitaet im Vollzug
@@ -117,4 +117,3 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-

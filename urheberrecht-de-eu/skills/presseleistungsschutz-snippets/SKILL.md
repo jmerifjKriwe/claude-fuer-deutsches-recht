@@ -79,4 +79,3 @@ Konkret zu prüfen:
 - § 87f UrhG (Presseverleger)
 - § 87f-87k UrhG (Leistungsschutzrecht Presseverleger)
 - RL (EU) 2019/790 Art. 15
-

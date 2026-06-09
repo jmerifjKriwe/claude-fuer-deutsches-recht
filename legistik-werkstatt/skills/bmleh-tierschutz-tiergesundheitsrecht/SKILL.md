@@ -1,6 +1,6 @@
 ---
 name: bmleh-tierschutz-tiergesundheitsrecht
-description: "Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Länder-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
+description: "Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Länder-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsr..."
 ---
 
 # Tierschutz- und Tiergesundheitsrecht (BMLEH)
@@ -74,4 +74,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

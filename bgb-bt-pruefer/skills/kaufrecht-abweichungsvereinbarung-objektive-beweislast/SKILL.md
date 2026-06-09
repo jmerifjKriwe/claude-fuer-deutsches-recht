@@ -70,4 +70,3 @@ description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 4
 - https://www.gesetze-im-internet.de/bgb/__476.html
 - https://www.gesetze-im-internet.de/bgb/__434.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-

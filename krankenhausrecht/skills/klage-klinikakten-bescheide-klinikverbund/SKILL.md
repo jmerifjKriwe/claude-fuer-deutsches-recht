@@ -85,4 +85,3 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 - VwGO §§ 40, 42, 80, 113; SGG §§ 51, 54, 86b.
 - BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
 - BSG, staend. Rspr. zum sozialgerichtlichen Verguetungsstreit.
-

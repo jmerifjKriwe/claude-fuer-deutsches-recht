@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anw..."
 ---
 
 # Zulassung, Bestellung und Register
@@ -42,4 +42,3 @@ Konkret zu prüfen:
 - § 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision)
 - § 113 ff. BRAO (anwaltsgerichtliches Verfahren)
 - §§ 1-30 BORA (Berufsordnung)
-

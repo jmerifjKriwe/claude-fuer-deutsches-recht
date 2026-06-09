@@ -1,6 +1,6 @@
 ---
 name: vergleich-verjaehrung-vermittlungsvertreter
-description: "Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen im Handelsvertreterrecht."
+description: "Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergl..."
 ---
 
 # Vergleich und außergerichtliche Einigung im Handelsvertreterstreit
@@ -85,4 +85,3 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 779 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__779.html)
 - [§ 794 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__794.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
-

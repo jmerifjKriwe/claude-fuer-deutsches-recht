@@ -64,4 +64,3 @@ Erzeuge Prüftabelle, Belegeinsichtsschreiben, Einwendung und Zahlungsstrategie.
 ## Prompts, die dieser Skill stellen soll
 
 - Zeitraum, Zugang, Nachzahlung, Vorauszahlungen, Umlageschlüssel?
-

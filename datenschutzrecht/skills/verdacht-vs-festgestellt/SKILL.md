@@ -1,6 +1,6 @@
 ---
 name: verdacht-vs-festgestellt
-description: "Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspflichten in der Verdachtsphase; Risiko einer verspäteten Meldung. Output: Memo zur Einordnung und Begründung des Fristbeginns. Abgrenzung: keine eigene Meldung; keine Risikobewertung."
+description: "Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspfl..."
 ---
 
 # Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO
@@ -45,4 +45,3 @@ Dokumentationsbausteine: was wurde wann wahrgenommen; welche Prüfungen wurden e
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
-

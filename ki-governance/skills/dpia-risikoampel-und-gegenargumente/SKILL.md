@@ -58,4 +58,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schlanke DPIA-Templates beschleunigen die Compliance, lassen aber bei Hochrisiko-Use-Cases Lücken; ausführliche DPIA bindet Ressourcen, schützt aber bei Aufsichtsverfahren. Empfehlung: DPIA-Tier-Modell (Light/Standard/Deep) anhand der Risikoampel.
-

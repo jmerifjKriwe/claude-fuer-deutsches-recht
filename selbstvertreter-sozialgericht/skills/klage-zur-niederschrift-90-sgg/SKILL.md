@@ -103,4 +103,3 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website pruefen (www.sozialgerichtsbarkeit.de).
-

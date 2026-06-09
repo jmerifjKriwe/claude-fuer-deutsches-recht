@@ -1,6 +1,6 @@
 ---
 name: inso-rechtsfolge-rueckgewaehr-143-bis-147
-description: "Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung § 146 und Rechtshandlungen nach Eröffnung § 147. Output: Anspruchsberechnung und Schreiben."
+description: "Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung § 146 und Rechtshandlungen nach Eröffnung § 147. Output: Anspruchsberechnung und Sc..."
 ---
 
 # Rechtsfolge Insolvenzanfechtung — §§ 143 bis 147 InsO

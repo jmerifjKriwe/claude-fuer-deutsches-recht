@@ -90,4 +90,3 @@ description: "Output- und Streit-Skill für Abmahnung Reagieren: macht aus der A
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

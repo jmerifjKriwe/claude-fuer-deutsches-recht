@@ -1,6 +1,6 @@
 ---
 name: mahngebuehren-und-zinsanpassung-agb
-description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln."
+description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten..."
 ---
 
 # Mahngebuehren Und Zinsanpassung Agb
@@ -36,4 +36,3 @@ description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie 
 2. Zinsanpassung mit Indexkopplung?
 3. Transparenz?
 4. Verzugszins entsprechend § 288 BGB?
-

@@ -46,4 +46,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Schlichtungsverfahren laufen oft schnell (3-6 Monate), sind regelmäßig kostenfrei für Verbraucher und werden von Banken ernst genommen — auch ohne Vergleichsdruck steigt die Erstattungsquote. Bei klarer Sachlage (nicht autorisiert, SCA-Mangel) ist Schlichtung der pragmatische Erstweg vor Klage.
-

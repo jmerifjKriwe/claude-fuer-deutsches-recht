@@ -74,4 +74,3 @@ Gesundheitsbezogene Werbung ist ein hochrisikobehaftetes Feld für Creator:
 - HCVO-konforme Formulierungsalternativen
 - Pflichthinweis-Vorlage (OTC-Arzneimittel)
 - Abmahnantwort (HWG-Verstoß)
-

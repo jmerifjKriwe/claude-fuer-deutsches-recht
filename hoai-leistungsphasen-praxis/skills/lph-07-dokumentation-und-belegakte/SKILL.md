@@ -32,4 +32,3 @@ description: "HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planst�
 - Praktischer Kern: Angebotspr체fung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
 - Bewertungsanker Geb채ude/Innenr채ume: 4 % Geb채ude / 3 % Innenr채ume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder 체bertragen; erst Leistungsbild und Anlage live bestimmen.
-

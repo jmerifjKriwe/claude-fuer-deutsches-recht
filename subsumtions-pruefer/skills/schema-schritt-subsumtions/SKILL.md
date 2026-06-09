@@ -102,4 +102,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Normen live prüfen: gesetze-im-internet.de (BGB §§ 779, 203, 286; ZPO §§ 688 ff., 794, 935, 940; UWG § 13; MediationsG).
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-

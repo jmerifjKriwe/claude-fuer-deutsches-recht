@@ -123,4 +123,3 @@ Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
-

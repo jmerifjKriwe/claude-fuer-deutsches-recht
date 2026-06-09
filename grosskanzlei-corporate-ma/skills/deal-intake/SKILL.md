@@ -1,6 +1,6 @@
 ---
 name: deal-intake
-description: "Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgesellschaft, Transaktionsstruktur, Zeitplan, Budget-Ersteinschaetzung, Annahme-Check. Output Deal-Intake-Sheet mit Parteienregister, Dealtyp, Workstreams, initiales Budget und Fristen-Erstliste. Abgrenzung zu Kaltstart-Skill für Kanzleipraeferenzen und zu Matter-File für laufende Akte."
+description: "Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgese..."
 ---
 
 # Deal-Intake
@@ -181,4 +181,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Keine Conflicts-Pruefung vor Mandatsannahme: § 43a BRAO, Haftung
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen
-

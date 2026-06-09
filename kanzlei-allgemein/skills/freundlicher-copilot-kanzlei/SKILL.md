@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot-kanzlei
-description: "Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklärungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein."
+description: "Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstanti..."
 ---
 
 # Freundlicher Kanzlei-Copilot
@@ -94,4 +94,3 @@ Wenn Text juristisch schwach, zu pauschal oder nicht beweisbar wirkt:
 ## Ausgabe
 
 `assets/templates/freundlicher-copilot-hinweise.md` verwenden, wenn mehrere Hinweise gesammelt werden.
-

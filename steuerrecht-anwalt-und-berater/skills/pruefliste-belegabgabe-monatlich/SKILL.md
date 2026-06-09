@@ -139,4 +139,3 @@ Stand: 05/2026.
 - StBerG § 33.
 - StBVV § 4.
 - BMF v. 28.11.2019 zu GoBD.
-

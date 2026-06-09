@@ -25,4 +25,3 @@ description: "Output- und Streit-Skill für Versionsdiff AGB: macht aus der AGB-
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

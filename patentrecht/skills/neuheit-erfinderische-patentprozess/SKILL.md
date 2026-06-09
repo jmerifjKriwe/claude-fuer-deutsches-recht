@@ -37,4 +37,3 @@ Prüft Patentfähigkeit mit Merkmalsgliederung, Neuheit nach § 3 PatG/Art. 54 E
 ## Vorsicht
 
 Wenn die Entgegenhaltung nur aus Zusammenfassung, Maschinenübersetzung oder Bild ohne Volltext vorliegt, Ergebnis als vorläufig kennzeichnen und Volltext/Originalsprache prüfen.
-

@@ -1,6 +1,6 @@
 ---
 name: bmas-sozialversicherungsrecht-sgb
-description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung)."
+description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkomm..."
 ---
 
 # Sozialversicherungsrecht (SGB) (BMAS)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

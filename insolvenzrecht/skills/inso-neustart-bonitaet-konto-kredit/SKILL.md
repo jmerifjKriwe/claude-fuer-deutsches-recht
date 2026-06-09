@@ -34,4 +34,3 @@ InsO §§ 286 ff., 301; ZKG Basiskonto; DSGVO Art. 15–22; BGB.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-

@@ -196,4 +196,3 @@ Bundle: bundle_047.json
 ### Leitentscheidungen
 
 - EuGH C-249/21
-

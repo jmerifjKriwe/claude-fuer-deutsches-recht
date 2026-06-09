@@ -130,4 +130,3 @@ Sachbücher, Biographien, Reportagen und journalistische Werke berühren häufig
 - **Unterlassungserklärung** bei empfangener Abmahnung
 - **Anwalts-Briefing** für Rechts-Read
 - **Anonymisierungsprotokoll**: Geänderte Namen und Darstellungen dokumentiert
-

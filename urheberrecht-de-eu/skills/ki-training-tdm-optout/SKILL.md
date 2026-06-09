@@ -99,4 +99,3 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 - EuGH C-406/10
 - EuGH C-476/17
 - EuGH C-348/13
-

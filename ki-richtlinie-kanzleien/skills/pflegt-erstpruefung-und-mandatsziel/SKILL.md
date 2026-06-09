@@ -73,4 +73,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Eine sehr lange, vollständige Richtlinie ist schwer durchsetzbar — sie wird nicht gelesen. Eine sehr kurze Richtlinie verfehlt regulatorische Anforderungen (Art. 4 KI-VO, DSGVO Verzeichnis Art. 30). Empfehlung: Zweischichtig — Langversion mit allen Details + One-Pager für den Arbeitsplatz. Schulung mit Quiz dokumentiert.
-

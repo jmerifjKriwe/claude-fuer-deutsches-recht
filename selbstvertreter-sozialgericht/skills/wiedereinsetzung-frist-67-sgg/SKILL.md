@@ -146,4 +146,3 @@ Die Behörde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wichtigen Faellen lassen Sie sich bei VdK / SoVD beraten.
-

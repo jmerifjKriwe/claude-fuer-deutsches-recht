@@ -77,4 +77,3 @@ für die Einstellung des Börsenhandels klar kommunizieren.
 Weitere Quellen:
 - § 39 BörsG: https://www.gesetze-im-internet.de/borsG_2007/__39.html
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-

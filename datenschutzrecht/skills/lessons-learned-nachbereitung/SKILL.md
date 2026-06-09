@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-nachbereitung
-description: "Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung; Erfolgsmessung. Output: Workshop-Leitfaden und Maßnahmen-Tracker. Abgrenzung: keine VVT- oder DSFA-Pflege; keine Bußgeldverteidigung."
+description: "Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung;..."
 ---
 
 # Lessons Learned und Nachbereitung Datenschutzvorfall
@@ -51,4 +51,3 @@ Art. 5 Abs. 2; Art. 24; Art. 32; Art. 33 Abs. 5 DSGVO.
 
 - `dsv-vvt-update-nach-vorfall` und `dsv-dsfa-update-nach-vorfall` decken die Compliance-Aktualisierung ab.
 - `dsv-bussgeldverteidigung-art-83` deckt die Verteidigung ab.
-

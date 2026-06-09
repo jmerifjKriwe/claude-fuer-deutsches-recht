@@ -88,4 +88,3 @@ Tatbestand erfüllt → Rechtsfolge bestimmen
 │ └─ Immaterielle Schäden? → § 253 Abs. 2 BGB Schmerzensgeld
 └─ Nebenansprüche: Verzugszinsen § 288 BGB + RK als SE
 ```
-

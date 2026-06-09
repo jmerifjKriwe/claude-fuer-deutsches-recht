@@ -1,6 +1,6 @@
 ---
 name: salvatorische-klausel-grenzen-rspr
-description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-Linie zu Salvatorischen Klauseln in AGB-Vertraegen Wirkung der Klausel auf die Unwirksamkeit einzelner Bestimmungen Wechselwirkung mit § 306 BGB. Behandelt Sondervarianten geltungserhaltende Reduktion ergaenzende Vertragsauslegung und Klausellage in B2B vs. B2C. Liefert Klauselentwurf."
+description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-Linie zu Salvatorischen Klauseln in AGB-Vertraegen Wirkung der Klausel auf die Unwirksamkeit einzelner Bestimmungen Wechselwirkung mit § 306 BGB. Behandelt Sondervarianten geltungserhaltende Reduktion ergaenzende Vertragsauslegung u..."
 ---
 
 # Salvatorische Klausel Grenzen Rspr
@@ -46,4 +46,3 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 3. Salvatorische Klausel vorhanden?
 4. Blue-Pencil-Test moeglich?
 5. Geltungserhaltende Reduktion zulaessig?
-

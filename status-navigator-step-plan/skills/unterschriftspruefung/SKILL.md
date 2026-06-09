@@ -15,4 +15,3 @@ LausitzStorage Unterschriftsbefunde: 1. Nachtrag Pachtvertrag LEAG nur von Proku
 - Unterschrifts-Befundliste mit Klasse (vollstaendig/fragwuerdig/Entwurf/unleserlich)
 - Vertretungsanalyse je Partei (HR-Stand zum Unterzeichnungszeitpunkt)
 - Querverweis an `dokumententyp-beschluesse` wenn Beschlussbezug betroffen
-

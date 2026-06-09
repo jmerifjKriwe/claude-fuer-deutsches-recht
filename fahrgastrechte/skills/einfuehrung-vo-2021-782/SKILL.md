@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-vo-2021-782
-description: "Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsbereich Art. 2 (auch SPNV mit Ausnahmen § 2 EVO), Begriffsbestimmungen Art. 3 (Verspaetung Ankunft Anschluss Zeitfahrkarte), Verzichtsverbot Art. 7, Durchgangsfahrkarten Art. 12, Erstattung und Weiterreise Art. 18 (100-Minuten-Frist Eigenbefoerderung), Entschaedigung Art. 19 (25 Prozent ab 60 Min, 50 Prozent ab 120 Min, Mindestbetrag 4 EUR), Hilfeleistung Art. 20, Befreiung Art. 19 Abs. 10 (Streiks DB-Personal sind keine Befreiung)."
+description: "Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsbereich Art. 2 (auch SPNV mit Ausnahmen § 2 EVO), Begriffsbestimmungen Art. 3 (Verspaetung Ankunft Anschluss Zeitfahrkarte), Verzichtsverbot Art. 7, Durchgangsfahrkarten Art. 12, Erstattung und Weiterreise Art. 18 (100-Minuten-Frist..."
 ---
 
 # Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
@@ -152,4 +152,3 @@ Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
 3. Hinweis auf passenden Folge-Skill aus diesem Plugin.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

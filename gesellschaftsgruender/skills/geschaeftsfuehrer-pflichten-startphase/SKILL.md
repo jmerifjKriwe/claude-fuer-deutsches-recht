@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-pflichten-startphase
-description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abgrenzung: nicht Geschäftsführervertrag im Gesellschaftsgruender."
+description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abg..."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten
@@ -141,4 +141,3 @@ ESKALATIONSSCHWELLEN
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status des GF prüfen
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung bei Krise
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeamt und Finanzamt-Schritte
-

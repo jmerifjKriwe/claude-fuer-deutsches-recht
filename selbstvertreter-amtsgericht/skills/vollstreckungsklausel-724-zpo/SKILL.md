@@ -123,4 +123,3 @@ Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
-

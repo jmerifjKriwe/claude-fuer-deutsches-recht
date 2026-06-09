@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-schutzbereich-eroeffnet
-description: "Vorpruefung Schritt 1 vor der Schranken-Schranke. Schutzbereichseroeffnung in persoenlicher und sachlicher Dimension: Wer ist Grundrechtstraeger nach Art 19 III GG und welche konkrete Verhaltensweise ist sachlich vom Schutzbereich erfasst, mit BVerfG-Linien zu juristischen Personen und Schutzbereichszuschnitt."
+description: "Vorpruefung Schritt 1 vor der Schranken-Schranke. Schutzbereichseroeffnung in persoenlicher und sachlicher Dimension: Wer ist Grundrechtstraeger nach Art 19 III GG und welche konkrete Verhaltensweise ist sachlich vom Schutzbereich erfasst, mit BVerfG-Linien zu juristischen Personen und Schutzbere..."
 ---
 
 # Stufe 0a: Ist der Schutzbereich eroeffnet?
@@ -57,4 +57,3 @@ Wenn der Schutzbereich nicht eroeffnet ist, gibt es weder Eingriff noch Rechtfer
 - BVerfGE 105, 252 (Glykol-Warnung, faktischer Eingriff)
 - BVerfGE 120, 274 (Online-Durchsuchung, Computer-Grundrecht)
 - BVerfGE 129, 78 (Cassina, EU-juristische Personen)
-

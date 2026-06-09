@@ -72,4 +72,3 @@ Fotos und Videos von Betriebsfeiern und internen Events unterliegen besonderen R
 - DSGVO-konformer Aushang für Veranstaltungen
 - Betriebsrats-Information (§ 87 BetrVG)
 - Fotoverwendungs-Protokoll
-

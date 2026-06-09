@@ -63,4 +63,3 @@ Die Europaeisierung des deutschen Rechts begann ernsthaft mit der Rechtsprechung
 - EU-Richtlinien: eur-lex.europa.eu für konsolidierte Fassungen
 - BVerfGE: bverfg.de
 - BGB nach SchuRModG 2002: gesetze-im-internet.de
-

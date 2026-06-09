@@ -1,6 +1,6 @@
 ---
 name: projektfinanzierung
-description: "Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Prüfraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfinanzierungs-Struktur Energieanlage. Abgrenzung: nicht Betriebsgenehmigung im Energierecht."
+description: "Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Prüfraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfinanzierungs-Struktur Energieanlage. Abgrenzung: nicht Betrieb..."
 ---
 
 # Projektfinanzierung Energie
@@ -313,4 +313,3 @@ description: "Projektfinanzierung für Energieanlagen strukturieren: Darlehen, S
 
 ---
 <!-- AUDIT 27.05.2026 -->
-

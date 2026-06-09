@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-abnahmeprotokoll-foerder-erp
-description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien im Hoai Leistungsphasen Praxis."
+description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Uploa..."
 ---
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8
@@ -87,4 +87,3 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 - [eIDAS EU 910/2014 elektronische Signatur](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0910)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
-

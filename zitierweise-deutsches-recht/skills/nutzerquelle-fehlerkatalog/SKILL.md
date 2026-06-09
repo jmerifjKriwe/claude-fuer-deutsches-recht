@@ -40,4 +40,3 @@ Dieser Fehlerkatalog prüft im Bereich **Zitierweise Deutsches Recht** Ergebniss
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

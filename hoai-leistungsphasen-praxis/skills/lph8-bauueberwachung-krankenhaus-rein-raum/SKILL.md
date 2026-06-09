@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-krankenhaus-rein-raum
-description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strahlenschutz-Bauteile nach StrlSchV. Praxisnahe Koordination mit SAP PM und BIM360 im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strah..."
 ---
 
 # Bauueberwachung Krankenhaus Reinraum (LPH 8)
@@ -83,4 +83,3 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 - [DIN 13260 Medizinische Gase](https://www.gesetze-im-internet.de/)
 - [Strahlenschutzverordnung StrlSchV](https://www.gesetze-im-internet.de/strlschv_2018/index.html)
 - [DIN EN ISO 14644-1 Reinraeume](https://www.gesetze-im-internet.de/)
-

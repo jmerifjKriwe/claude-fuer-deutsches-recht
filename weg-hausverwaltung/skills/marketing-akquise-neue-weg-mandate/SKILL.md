@@ -58,4 +58,3 @@ Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, a
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 26 WEG und Honorar-Rechtsprechung über https://www.gesetze-im-internet.de/woeigg/__26.html und https://dejure.org live verifizieren. VDIV-Honorarempfehlungen und aktuelle Marktpreise vor Angebotserstellung prüfen.
-

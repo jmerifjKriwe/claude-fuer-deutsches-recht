@@ -131,4 +131,3 @@ Kostenvorschuss: [Betrag] anbei / per Überweisung
 - `evvollzug-neu-004` – beA-Zustellung als Alternative
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
 - `evvollzug-neu-006` – Auslandszustellung EV
-

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flu..."
 ---
 
 # Bauueberwachung Flachdach und Attika
@@ -87,4 +87,3 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme Werkvertrag](https://www.gesetze-im-internet.de/bgb/__640.html)
-

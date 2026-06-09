@@ -64,4 +64,3 @@ Erzeuge Beweisexportplan, Strafanzeigeentwurf, Rückforderungsmail und Zahlungsd
 ## Prompts, die dieser Skill stellen soll
 
 - Plattform, Chat, Zahlung, Versandversprechen, Ausweisfoto erhalten?
-

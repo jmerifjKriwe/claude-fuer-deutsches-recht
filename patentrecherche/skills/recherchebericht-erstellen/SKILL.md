@@ -1,6 +1,6 @@
 ---
 name: recherchebericht-erstellen
-description: "Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Suchstrings Klassen Schlagworte Zeitraum Trefferzahlen Treffertabelle und Bewertungen aus Skills neuheit-prüfen erfinderische-tätigkeit-prüfen freedom-to-operate-recherche und patentfamilien-analyse zusammen. Strukturierter Aufbau mit Deckblatt Auftragsbeschreibung Methodik Trefferdokumentation Bewertung Empfehlung Anhang (Suchstrings Klassen Quellenliste). Disclaimer Vorrecherche keine amtliche Recherche mehrfach im Bericht. Output als Markdown-Dokument das die Patentanwaeltin in Word oder PDF weiterverarbeiten kann im Patentrecherche."
+description: "Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Suchstrings Klassen Schlagworte Zeitraum Trefferzahlen Treffertabelle und Bewertungen aus Skills neuheit-prüfen erfinderische-tätigkeit-prüfen freedom-to-operate-recherche und pat..."
 ---
 
 # recherchebericht-erstellen
@@ -162,4 +162,3 @@ Bevor der Bericht formatiert wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben ueber bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.
-

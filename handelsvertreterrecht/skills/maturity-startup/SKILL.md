@@ -1,6 +1,6 @@
 ---
 name: maturity-startup
-description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Handelsvertreterrecht."
+description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Ha..."
 ---
 
 # Handelsvertreterrecht im Start-up- und Scale-up-Kontext
@@ -81,4 +81,3 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
-

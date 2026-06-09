@@ -25,4 +25,3 @@ description: "Einstiegs- und Prüfungslinie für Norm Live Check Gesetze Im Inte
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

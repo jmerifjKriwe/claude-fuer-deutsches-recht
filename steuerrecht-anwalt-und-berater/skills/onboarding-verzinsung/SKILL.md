@@ -1,6 +1,6 @@
 ---
 name: onboarding-verzinsung
-description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren und pruefen ob Zinsen angreifbar sind. Behandelt Zinsbeginn Karenzzeit 15 Monate Zinslauf Zinsfestsetzung und Aenderungen nach § 233a Abs. 5 AO sowie Verfassungsmaessigkeit des Zinssatzes. Output Berechnungsschema und Argumentationsraster gegen Zinsbescheide. Abgrenzung zu anw-aussetzung-vollziehung."
+description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren u..."
 ---
 
 # Steuerliche Verzinsung — § 233a AO Nachzahlungs- und Erstattungszinsen sowie Hinterziehungs- und Aussetzungszinsen
@@ -45,4 +45,3 @@ description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszin
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-

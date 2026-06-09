@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Subscription Abonnement: prüft typische A
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

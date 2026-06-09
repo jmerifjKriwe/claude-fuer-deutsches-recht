@@ -39,4 +39,3 @@ Prüfe Rückgängigmachung, Aufhebung, Nichtdurchführung, Herabsetzung und beso
 ## Quellen
 
 GrEStG, AO, FGO und BFH-Volltexte öffnen. BFH-AdV-Beschlüsse als Eilverfahren kennzeichnen.
-

@@ -16,13 +16,13 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Agrarrecht** tragende Normen,
 - `agrar-tierhaltung-erstgespraech-mandatsannahme-duenge`
 - `agrar-wolfsschaden-cross-glozez-foerderung-gap`
 - `allgemein-workflow-chronologie-workflow-fristen`
-- `anerbenrecht-bgb-spezial-compliance`
+- `anerbenrecht-risikoampel-und-gegenargumente`
 - `cross-duengeverordnung-interessen-erbrecht-beweislast`
-- `eu-agrarfoerderung-gap-direktzahlungen-hoefe`
+- `eu-agrarfoerderung`
 - `fachanwalt-agrarrecht-landpacht-hoferbfolge-triage`
-- `fachanwalt-forstrecht-red-hoefe-sonderfall`
+- `erstpruefung-und-mandatsziel`
 - `fristennotiz-naechster-pachtvertrag-streitig-pachtvertrag`
-- `hoefeo-laender-landpachtrecht`
+- `hoefeo-dokumentenmatrix-und-lueckenliste`
 
 ## Prüfroute
 

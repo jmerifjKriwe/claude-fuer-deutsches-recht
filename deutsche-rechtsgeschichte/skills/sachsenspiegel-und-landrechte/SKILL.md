@@ -63,4 +63,3 @@ Der Sachsenspiegel ist die bedeutendste Rechtsquelle des deutschen Mittelalters.
 - Textvergleich: Landrecht-Handschriften unterscheiden sich erheblich
 - Sekundaerliteratur: Clausdieter Schott, Karl Kroeschell, Karin Nehlsen-von Stryk
 - Keine Gegenwartsbegriffe (Eigentumsrecht, Schuldrecht) unreflektiert anwenden
-

@@ -75,4 +75,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Haftungsrelevante Erstmaßnahmen
 - § 60 InsO Verwalterhaftung — fehlerhafte Erstmaßnahmen sind tragender Haftungsanknüpfungspunkt.
 - Dokumentation jeder Erstentscheidung (Datum, Begründung, Beleg).
-

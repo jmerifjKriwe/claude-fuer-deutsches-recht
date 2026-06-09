@@ -48,4 +48,3 @@ OEM (Original Equipment Manufacturer) fertigt nach Käufer-Design unter Käufer-
 - IP-Ownership: OEM/ODM-Vertrag: alle Background/Foreground IP klar zuordnen
 - CE-Verantwortung: EU-Importeur übernimmt Konformitätsprüfungspflicht; vertragliche Rückgriffsmöglichkeit auf OEM
 - CISG Art. 42: IP-Indemnity-Klausel im OEM/ODM-Vertrag
-

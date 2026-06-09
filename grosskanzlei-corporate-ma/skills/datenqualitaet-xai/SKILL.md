@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai
-description: "KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau."
+description: "KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzi..."
 ---
 
 # Datenqualität und XAI-Qualitätskontrolle
@@ -163,4 +163,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Keine Belegkette für wesentliche Ergebnisse: Haftungsrisiko
 - Nicht erklaerbares Ergebnis bei hohem Risiko: sofortige Senior Review; kein Versand
 - Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
-

@@ -60,4 +60,3 @@ Strategische Steuerung verwaltungsgerichtlichen Eilrechtsschutzes gegen Maßnahm
 
 ## Qualitätsgate
 Antragsart begründet gewählt? Zuständigkeit beim richtigen Gericht? Sofortige Vollziehbarkeit identifiziert? Glaubhaftmachung mit Anlagen vollständig? Beschwerdefrist § 147 VwGO im Kalender? Mandant über Kostenrisiko (Streitwert) informiert?
-

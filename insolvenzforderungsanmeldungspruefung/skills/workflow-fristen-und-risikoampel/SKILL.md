@@ -52,4 +52,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Steuerforderungen:** Finanzamt meldet routinemäßig an; bei umstrittenen Steuerbescheiden Vorbehalt erklären.
 - **Bürgschaft/Gesamtschuldner:** Anmeldung möglich, aber keine Doppelausschüttung (§ 43 InsO).
 - **Forderung mit Sicherheit:** zuerst aus Sicherheit befriedigen, Ausfall anmelden (§ 52 InsO).
-

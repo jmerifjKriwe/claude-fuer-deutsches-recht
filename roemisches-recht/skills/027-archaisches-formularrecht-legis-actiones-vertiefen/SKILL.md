@@ -58,4 +58,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche legis actio?
 2. Zeit?
 3. Quellen?
-

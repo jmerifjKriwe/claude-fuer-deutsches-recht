@@ -77,4 +77,3 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 Konkret zu prüfen:
 
 - §§ 31-44 UrhG
-

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-stadtentwicklung-foerderprogramme
-description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung)."
+description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben un..."
 ---
 
 # Stadtentwicklung und Foerderprogramme (BMWSB)
@@ -76,4 +76,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-

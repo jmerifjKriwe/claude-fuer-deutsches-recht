@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gueterlisten-klassifizierung
-description: "Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositionen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositione..."
 ---
 
 # Gueterlistenklassifizierung: Systematische Einreihung in Dual-Use und Ruestungsgueterlisten
@@ -76,4 +76,3 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [BAFA Gueterlisten](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/Gueterlisten/gueterlisten_node.html)
 - [KrWaffKontrG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/krwaffkontrg/index.html)
 - [AWV Anlage AL](https://www.gesetze-im-internet.de/awv_2013/index.html)
-

@@ -56,4 +56,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welches Jahrhundert?
 2. Welche Eigentumsstruktur?
 3. BGB-Folge?
-

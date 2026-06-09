@@ -44,4 +44,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - "Privatfahrzeug" vs. Dienstfahrzeug -- nur tatsächlich getragene Kosten.
 - Längere Reisedauer gegen kürzeren teureren Weg: Verhältnismäßigkeit (§ 8 Abs. 2 JVEG: nur erforderlicher Aufwand).
 - Belegpflicht bei Übernachtung: tatsächliche Hotelrechnung, max. Pauschalsatz nach BRKG.
-

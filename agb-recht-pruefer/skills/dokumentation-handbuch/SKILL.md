@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Dokumentation Handbuch: prüft, redlined un
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

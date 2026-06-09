@@ -53,4 +53,3 @@ ALR-Loesung: ALR I 21 — anders als roemisches Recht ("emptio tollit locatum") 
 - § 446 BGB Gefahrtragung — periculum emptoris ab Uebergabe.
 - §§ 434, 437 BGB Sachmangel und Rechtsfolgen.
 - § 566 BGB Kauf bricht nicht Miete — wichtige Fortwirkung der ALR-Linie.
-

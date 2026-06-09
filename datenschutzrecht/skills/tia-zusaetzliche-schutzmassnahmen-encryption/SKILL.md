@@ -1,6 +1,6 @@
 ---
 name: tia-zusaetzliche-schutzmassnahmen-encryption
-description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung."
+description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-..."
 ---
 
 # Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
@@ -96,4 +96,3 @@ Technischer Baustein:
 - DSGVO, Art. 25, 32.
 - BSI Technische Richtlinie TR-02102 (kryptografische Verfahren), aktueller Stand auf bsi.bund.de pruefen.
 - ENISA Guidelines for SMEs on the security of personal data processing (Dezember 2016) und Folgepapiere.
-

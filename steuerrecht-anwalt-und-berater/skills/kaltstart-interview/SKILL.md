@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Prüfung mit --integrationen-prüfen. Erfragt Rolle Steuerberater Wirtschaftsprüfer Bilanzbuchhalter Geschäftsführer Mandanten-Schwerpunkte KMU Freiberufler GmbH Buchhaltungs-System DATEV Lexware sevDesk Eskalationsstrukturen Schnittstelle Anwalt. Output Kanzlei-Konfigurationsprofil CLAUDE.md. Abgrenzung zu stb-bwa-sus-bilanz-prüfung mandatsbezogener Krisencheck."
+description: "Kaltstart-Interview für das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Prüfung mit --integrationen-prüfen. Erfragt Rolle Steuerberater Wirtschaftsprüfer Bilanz..."
 ---
 
 # /steuerrecht-anwalt-und-berater:stb-kaltstart-interview

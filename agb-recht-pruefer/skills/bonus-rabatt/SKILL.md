@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Bonus Rabatt: prüft, redlined und entwirft
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

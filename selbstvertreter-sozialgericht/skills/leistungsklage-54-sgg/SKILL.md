@@ -116,4 +116,3 @@ Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
-

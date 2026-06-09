@@ -116,4 +116,3 @@ Mandatsbezug: Marken-, Patent-, UWG- und Urheberrechtsfälle, in denen eine Besc
 - `evvollzug-neu-003` – Zustellung durch Gerichtsvollzieher im IP-Verfahren
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach erfolgreichem Vollzug
 - `schutzschrift-eilverfuegung` – Schutzschrift als Gegenmittel des Schuldners
-

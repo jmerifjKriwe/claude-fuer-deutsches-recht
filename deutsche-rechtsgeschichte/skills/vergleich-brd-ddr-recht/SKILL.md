@@ -45,4 +45,3 @@ Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssys
 - BRD-Gesetze: gesetze-im-internet.de
 - Einigungsvertrag: BGBl. II 1990, 885
 - BVerfGE zu DDR-Recht: bverfg.de
-

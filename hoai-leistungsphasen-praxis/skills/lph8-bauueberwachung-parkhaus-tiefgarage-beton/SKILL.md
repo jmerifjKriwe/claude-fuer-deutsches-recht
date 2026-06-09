@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-parkhaus-tiefgarage-beton
-description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle..."
 ---
 
 # Bauueberwachung Parkhaus und Tiefgarage Beton (LPH 8)
@@ -83,4 +83,3 @@ Tiefgaragen erfordern zudem CO-Abzugsanlage nach VDI 2053 und Brandschutzabschni
 - [DIN 18532 Abdichtung Verkehrsflaechen](https://www.gesetze-im-internet.de/)
 - [VDI 2053 Garagenlueftung](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 148/06 Tiefgarage Chloridschaden](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+148/06)
-

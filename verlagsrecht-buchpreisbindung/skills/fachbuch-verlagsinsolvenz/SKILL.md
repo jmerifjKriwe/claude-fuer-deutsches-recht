@@ -120,4 +120,3 @@ Juristische, medizinische und wissenschaftliche Fachbücher stellen besondere An
 - **Aktualisierungsplan**: Lieferfristen und Preise für nächste Ergänzungslieferungen
 - **Haftungsdisclaimer-Check**: AGB-Konformität
 - **Daten-Export-Klausel** für Lizenzverträge
-

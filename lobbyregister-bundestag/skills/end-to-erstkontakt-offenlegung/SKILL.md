@@ -61,4 +61,3 @@ description: "Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal,
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - Der Wizard trennt Portalaktion, API-Kontrolle und Monitoring konsequent.
-

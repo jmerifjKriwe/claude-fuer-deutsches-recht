@@ -49,4 +49,3 @@ Die Pruefung Stufe 1 bis 4 entfaellt nicht voellig, aber Stufe 4 wird durch das 
 - BVerfGE 137, 34 (SGB II-Sanktionen Teil I)
 - BVerfGE 152, 68 (Hartz-IV-Sanktionen Teil II)
 - BVerfGE 153, 1 (Sozialrechtliche Bedarfssaetze)
-

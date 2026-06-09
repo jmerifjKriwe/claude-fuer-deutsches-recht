@@ -233,4 +233,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 <!-- AUDIT 27.05.2026 -->
 
 ## Audit-Hinweis (27.05.2026)
-

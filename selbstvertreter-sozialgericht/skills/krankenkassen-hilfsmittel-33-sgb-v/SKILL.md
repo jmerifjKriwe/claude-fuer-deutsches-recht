@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-hilfsmittel-33-sgb-v
-description: "Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage."
+description: "Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege...."
 ---
 
 # Krankenkassen Hilfsmittel 33 Sgb V

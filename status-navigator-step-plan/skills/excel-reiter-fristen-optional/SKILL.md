@@ -15,4 +15,3 @@ LausitzStorage Fristen-Reiter: Wandlungsfenster Wandeldarlehen NordCap laeuft 01
 - Fristen-Reiter mit Restzeit-Ampel und Sofortmassnahmen-Spalte
 - Wiedervorlage-Eintraege fuer das Anwalts-DMS
 - Querverweis in Reiter 4 (Workflow): welche Schritte sind bis welcher Frist zu erledigen
-

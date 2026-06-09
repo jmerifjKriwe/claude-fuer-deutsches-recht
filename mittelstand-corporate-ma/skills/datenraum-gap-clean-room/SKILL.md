@@ -172,4 +172,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Kartellrechtlich sensible Infos im normalen Datenraum: Clean-Room-Pflicht verletzt
 - IM-Widersprueche: Misrepresentation-Risiko des Verkaeuf ers
 - Fehlende wesentliche Dokumente ohne IRL: DD unvollstaendig; Garantierisiko
-

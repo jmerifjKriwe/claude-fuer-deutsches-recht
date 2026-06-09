@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan für Fristen und zu Konflikt-GwG-Sanktions-Check für Mandat-Annahme."
+description: "Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erf..."
 ---
 
 # Deal-Team und Staffing
@@ -162,4 +162,3 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
 - Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß
-

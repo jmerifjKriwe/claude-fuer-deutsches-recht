@@ -15,4 +15,3 @@ LausitzStorage: das Arbeitsergebnis ist `25_step_plan_excel_lausitzstorage.xlsx`
 - xlsx-Datei mit 4 Pflichtreitern (plus optionale)
 - Bedingte Formatierung und Hyperlinks im Excel-Format
 - Versionsname im Dateinamen
-

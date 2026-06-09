@@ -56,4 +56,3 @@ Art. 38-39 CISG sind praktisch zentral: Versäumt der Käufer die Rüge, verlier
 ## Quellenregel
 
 CISG Art. 38-44: uncitral.un.org. CISG-Rspr.: CISG-online.ch (Art. 38 >200 Entscheidungen). CISG Advisory Council Opinion No. 2. Schrifttum: Schwenzer in Schlechtriem/Schwenzer (2019) Art. 38-39. Unsicherheit bleibt sichtbar.
-

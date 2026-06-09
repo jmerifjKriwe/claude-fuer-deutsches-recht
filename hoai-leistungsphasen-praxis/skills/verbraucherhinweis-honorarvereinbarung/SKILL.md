@@ -25,4 +25,3 @@ description: "HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOA
 3. Verbraucherhinweis suchen: Zeitpunkt, Inhalt, Nachweis.
 4. Leistungsumfang und Honorar trennen: Pauschale, Stundensatz, HOAI-Tafel, besondere Leistungen.
 5. Missverständnisse aktiv erklären: HOAI ist seit 2021 Orientierung, nicht automatisch zwingender Mindestpreis.
-

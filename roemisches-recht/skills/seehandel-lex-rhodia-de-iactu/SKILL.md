@@ -1,6 +1,6 @@
 ---
 name: seehandel-lex-rhodia-de-iactu
-description: "Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und Pruefraster."
+description: "Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und P..."
 ---
 
 # Rom 122 Seehandel Lex Rhodia De Iactu
@@ -64,4 +64,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

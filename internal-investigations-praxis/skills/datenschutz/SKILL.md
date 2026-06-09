@@ -88,4 +88,3 @@ Dieser Skill stellt für jede Untersuchungsmaßnahme eine DSGVO-konforme Rechtsg
 - **Löschkonzept** nach Abschluss der Untersuchung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

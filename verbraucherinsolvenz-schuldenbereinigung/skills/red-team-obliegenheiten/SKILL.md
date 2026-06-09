@@ -17,4 +17,3 @@ Dieser Skill arbeitet im Plugin **Verbraucherinsolvenz und Schuldenbereinigung**
 ## Norm- und Praxisanker
 
 InsO §§ 295, 296, 297a. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-

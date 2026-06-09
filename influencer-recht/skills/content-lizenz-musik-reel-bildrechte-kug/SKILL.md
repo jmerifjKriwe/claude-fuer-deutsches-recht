@@ -73,4 +73,3 @@ Content-Lizenzen sind der urheberrechtliche Kern jedes Brand Deals:
 - Whitelisting-Klausel-Vorlage
 - Preiskalkulations-Tool (Aufschlagstabelle)
 - Lizenzwiderruf-Schreiben
-

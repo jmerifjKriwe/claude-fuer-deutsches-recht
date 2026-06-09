@@ -74,4 +74,3 @@ Bewertungsmanipulation ist nach altem und neuem Recht verboten:
 - Fake-Review-Löschungsantrag
 - Abmahnantwort (Bewertungsmanipulation)
 - Compliance-Protokoll für Bewertungs-Kampagne
-

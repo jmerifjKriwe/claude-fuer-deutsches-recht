@@ -36,4 +36,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **MPU-Frist FeV § 11 III FeV**: behoerdliche Anordnung gesondert; nicht in OWi-Bescheid integriert.
 - **Punkte FAER § 4 StVG:** 8 Punkte fuehren zwingend zur Entziehung (§ 4 V StVG). Punktewarnung bei 4-5 Punkten, Ermahnung bei 6-7 Punkten.
 - **Risikoampel:** Rot bei Fahrverbot, drohender 8-Punkte-Grenze, MPU-Anordnung, gewerblicher Fahrer; Gelb bei Beweisproblem (Messverfahren); Gruen bei dokumentierter Strategie.
-

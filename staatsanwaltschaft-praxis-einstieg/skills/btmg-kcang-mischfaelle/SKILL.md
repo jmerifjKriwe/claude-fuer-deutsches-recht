@@ -36,4 +36,3 @@ Konkret zu prüfen:
 - §§ 2, 3 KCanG (Begriffe, Erlaubnisse)
 - § 34 KCanG (Strafvorschriften)
 - Art. 313 EGStGB (Amnestie)
-

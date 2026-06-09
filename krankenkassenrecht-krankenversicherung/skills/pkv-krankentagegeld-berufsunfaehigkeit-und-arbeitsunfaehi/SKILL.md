@@ -86,4 +86,3 @@ Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Dieser
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [BDA Berufsunfähigkeit](https://www.bda.de)
-

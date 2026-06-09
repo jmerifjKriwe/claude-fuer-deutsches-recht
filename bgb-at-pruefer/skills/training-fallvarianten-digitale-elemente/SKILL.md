@@ -83,4 +83,3 @@ Fallvarianten helfen, das Verständnis zu vertiefen: Was ändert sich, wenn der 
 - Unterschiede zwischen den Varianten klar herausgearbeitet?
 - Lernziel der Variation verstanden und internalisiert?
 - Merkregel für die Variante formuliert?
-

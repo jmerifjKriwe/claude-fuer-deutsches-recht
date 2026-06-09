@@ -96,4 +96,3 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - AGG §§ 1, 19, 20.
 - UN-BRK Art. 9.
 - Live-Verifikation auf bmas.de, eur-lex.europa.eu, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

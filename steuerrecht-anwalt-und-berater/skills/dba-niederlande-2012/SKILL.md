@@ -1,6 +1,6 @@
 ---
 name: dba-niederlande-2012
-description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-M..."
 ---
 
 # DBA Deutschland-Niederlande (2012/2016)
@@ -168,4 +168,3 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal pruefen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 belegt (BGBl. 2012 II S. 1414/1415 bestaetigt; BGBl. 2015 II S. 1674 bestaetigt; Aend.-Prot. 11.01.2016 BGBl. 2016 II S. 868 bestaetigt; Aend.-Prot. 24.03.2021 BGBl. 2021 II S. 736 bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

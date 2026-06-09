@@ -104,4 +104,3 @@ Eingaben:
 - BGH 14.03.2024 zu Grosshandel-Skonti (vom Anwender Aktualität zu verifizieren — Detailregelungen, Folge-Rspr.).
 - BGH staend. Rspr. zu Patientenboni und Treuepunkten.
 - Berufsordnung Apothekerkammer (vom Anwender zu verifizieren).
-

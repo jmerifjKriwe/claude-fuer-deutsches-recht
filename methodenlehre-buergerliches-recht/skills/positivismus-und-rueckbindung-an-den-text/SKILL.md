@@ -1,6 +1,6 @@
 ---
 name: positivismus-und-rueckbindung-an-den-text
-description: "Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen und wo seine Grenzen bei Extremunrecht und Normkollisionen deutlich werden."
+description: "Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen..."
 ---
 
 # Positivismus und Textrückbindung in der Zivilrechtsmethodik
@@ -78,4 +78,3 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 3, 225 – Positivismuskritik, Radbruchsche Formel](https://www.bverfg.de/e/bs19540618_2bvr191451.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-

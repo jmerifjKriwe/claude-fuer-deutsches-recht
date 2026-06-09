@@ -105,4 +105,3 @@ Eingaben:
 - BSG, staend. Rspr. zur Null-Retax und Pharmazeutische Bedenken.
 - DAV-Mitteilungen zu Retaxationen.
 - BMG-Reformbemühungen zur Retax-Begrenzung (Stand vom Anwender zu verifizieren).
-

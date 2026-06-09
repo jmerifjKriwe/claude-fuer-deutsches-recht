@@ -88,4 +88,3 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 ## Kostenhinweise
 
 Der Dolmetscher ist keine notarielle Leistung; die Kosten trägt der Beteiligte direkt. Bei zweisprachiger Niederschrift durch den Notar selbst: erhöhte Komplexität rechtfertigt Ermessenserhöhung der Gebühr (§ 127 GNotKG). Keine gesonderte GNotKG-Gebühr für Sprachvermerk.
-

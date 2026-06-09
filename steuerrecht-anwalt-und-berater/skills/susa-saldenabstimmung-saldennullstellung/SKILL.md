@@ -1,6 +1,6 @@
 ---
 name: susa-saldenabstimmung-saldennullstellung
-description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe im Steuerrecht Anwalt Und Berater."
+description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe im Steuerrecht Anwalt Und Be..."
 ---
 
 # Saldenabstimmung — Bestaetigung der Stichtagssalden
@@ -140,4 +140,3 @@ Stand: 05/2026.
 - HGB §§ 240, 252, 320.
 - StBerG § 33.
 - IDW PS 302, IDW PS 480.
-

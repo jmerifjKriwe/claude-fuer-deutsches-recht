@@ -1,6 +1,6 @@
 ---
 name: aufopferung-fortwirkung-bgb-und-polizei
-description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster im Preußisches Allgemeines Landrecht..."
 ---
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei
@@ -52,4 +52,3 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 3. Spezialgesetz greift?
 4. Aufopferung subsidiaer?
 5. Sonderopfer-Schwelle?
-

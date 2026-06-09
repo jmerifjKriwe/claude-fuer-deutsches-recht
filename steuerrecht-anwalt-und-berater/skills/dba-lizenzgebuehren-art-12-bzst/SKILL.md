@@ -1,6 +1,6 @@
 ---
 name: dba-lizenzgebuehren-art-12-bzst
-description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket..."
 ---
 
 # Lizenzgebuehren (Art. 12 OECD-MA)
@@ -176,4 +176,3 @@ Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50
 Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-

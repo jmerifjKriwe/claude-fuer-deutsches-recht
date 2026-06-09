@@ -120,4 +120,3 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - ENISA, AI Threat Landscape, fortlaufend; BSI, Leitlinien zu KI-Cloud-Diensten.
 - Live-Verifikation in eur-lex.europa.eu und auf BSI-, BfDI-, EDPB-Seiten; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-

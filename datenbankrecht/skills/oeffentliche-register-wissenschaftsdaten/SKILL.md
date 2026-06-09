@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-register-wissenschaftsdaten
-description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste im Datenbankrecht."
+description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registere..."
 ---
 
 # Öffentliche Register — Handelsregister, Grundbuch und Transparenzregister
@@ -63,4 +63,3 @@ description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundb
 - [§ 12 GBO — dejure.org](https://dejure.org/gesetze/GBO/12.html)
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
-

@@ -130,6 +130,6 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `verkehr-rettungswege-oepnv` | Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht. |
 | `versammlungskonzept-wahlkampf-politische` | Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen im Versammlungsrecht. |
 | `wahlkampf-und-politische-kundgebung` | Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen im Versammlungsrecht. |
-| `widerspruch-klage` | Widerspruch Klage im Versammlungsrecht im Versammlungsrecht. |
+| `widerspruch-klage-eilrechtsschutz` | Routet Widerspruch, Anfechtungsklage, § 80 Abs: 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

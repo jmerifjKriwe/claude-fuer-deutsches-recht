@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-grundaufbau
-description: "Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... für Klaegerseite, B1, B2 ... für Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegenseite."
+description: "Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... für Klaegerseite, B1, B2 ... für Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegen..."
 ---
 
 # Anlagenverzeichnis-Grundaufbau
@@ -55,4 +55,3 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-

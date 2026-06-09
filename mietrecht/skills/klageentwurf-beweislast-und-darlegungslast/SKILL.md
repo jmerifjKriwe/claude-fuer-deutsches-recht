@@ -48,4 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Vollstreckungsschutz/Räumungsfrist (§ 721 ZPO):** Auf Antrag des Beklagten in Räumungssachen ist Räumungsfrist von bis zu einem Jahr zu gewähren bei Vorliegen einer besonderen Härte (Familie, Schwangerschaft, Gesundheit, fehlender Ersatzwohnraum). Antrag muss spätestens bei der mündlichen Verhandlung erfolgen.
 - **Schonfristzahlung im Prozess (§ 569 Abs. 3 BGB):** Tilgt nur die fristlose Kündigung, nicht eine hilfsweise erklärte ordentliche (BGH ständige Rspr.). Klägerseite muss in der Praxis Doppelkündigung erklären, sonst Räumung scheitert.
 - **Beweismittel-Bündel:** Mietvertrag, Anlagen, Kündigungsschreiben mit Zugangsnachweis, Kontoauszüge, Zustellungsnachweis, ggf. Zeugenangabe mit ladungsfähiger Adresse.
-

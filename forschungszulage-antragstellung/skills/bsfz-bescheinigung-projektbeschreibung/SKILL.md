@@ -160,4 +160,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BSFZ-Hilfen: https://www.bescheinigung-forschungszulage.de/hilfen-zur-antragstellung
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
 - AGVO Art. 2 Nr. 84 bis 86 (vom Antragsteller mit konsolidierter Fassung zu prüfen).
-

@@ -1,6 +1,6 @@
 ---
 name: ehenichtigkeit-vor-dem-kirchlichen-tribunal
-description: "Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale,..."
 ---
 
 # Ehenichtigkeit vor dem kirchlichen Tribunal
@@ -79,4 +79,3 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-

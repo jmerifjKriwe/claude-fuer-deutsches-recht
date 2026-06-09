@@ -95,4 +95,3 @@ Sie koennen die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle ueber justiz.de verifizieren.
-

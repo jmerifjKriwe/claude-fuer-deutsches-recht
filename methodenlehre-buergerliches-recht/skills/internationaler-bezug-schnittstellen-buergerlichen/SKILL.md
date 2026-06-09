@@ -1,6 +1,6 @@
 ---
 name: internationaler-bezug-schnittstellen-buergerlichen
-description: "Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vertragsschnittstellen erkannt werden. Besonderes Gewicht liegt auf der pragmatischen Priorisierung — Wann lohnt es sich, den internationalen Aspekt methodisch vertieft zu prüfen, und wann reicht ein Schnittstellen-Screening?"
+description: "Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vert..."
 ---
 
 # Internationaler Bezug und Schnittstellen im bürgerlichen Recht
@@ -82,4 +82,3 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-

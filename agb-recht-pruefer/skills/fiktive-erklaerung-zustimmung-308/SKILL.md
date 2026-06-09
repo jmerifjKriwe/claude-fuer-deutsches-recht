@@ -34,4 +34,3 @@ description: "Norm- und Dogmatik-Skill für Fiktive Erklärung Zustimmung 308: p
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

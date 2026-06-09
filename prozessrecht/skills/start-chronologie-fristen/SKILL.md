@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Prozessrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Prozessrecht."
+description: "Einstieg, Schnelltriage und Fallrouting im Prozessrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordn..."
 ---
 
 # Prozessrecht — Allgemein
@@ -229,4 +229,3 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - ZPO in geltender Fassung
 - GKG und RVG in geltender Fassung
 - § 23 Nr. 1 GVG: Streitwertgrenze AG 10.000 EUR seit 01.01.2026
-

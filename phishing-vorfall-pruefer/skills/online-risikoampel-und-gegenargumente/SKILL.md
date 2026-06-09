@@ -57,4 +57,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Konzentration auf Beweislast-Umkehr § 675w BGB.
 - SCA-Mangel als Trumpfkarte: bei fehlender starker Authentifizierung greift § 675v Abs. 4 — Haftung Kunde **0 EUR** (außer Vorsatz/grobe Fahrlässigkeit).
 - BGH-Rspr. mit Datum und Az. konkret zitieren, nicht pauschal.
-

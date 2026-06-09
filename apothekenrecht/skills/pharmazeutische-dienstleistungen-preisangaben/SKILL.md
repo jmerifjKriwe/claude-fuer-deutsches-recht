@@ -99,4 +99,3 @@ Eingaben:
 - DSGVO Art. 9; BDSG.
 - ABDA-Fortbildungskataloge (vom Anwender zu verifizieren).
 - Berufsordnungen Apothekerkammern.
-

@@ -1,6 +1,6 @@
 ---
 name: bwa-mandantengespraech-uebergabe
-description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
+description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechs..."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten
@@ -138,4 +138,3 @@ Stand: 05/2026.
 - BGB § 627.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BStBK Berufsrichtlinien.
-

@@ -93,4 +93,3 @@ Dieser Skill bearbeitet alle Fragen rund um den **Krankengeldanspruch**: Entsteh
 - [BSG B 3 KR 4/14 R – Nahtlosigkeit](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 44 SGB V](https://dejure.org/gesetze/SGB_V/44.html)
 - [GKV-Spitzenverband Krankengeld-Leitfaden](https://www.gkv-spitzenverband.de)
-

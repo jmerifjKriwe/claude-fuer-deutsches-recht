@@ -18,4 +18,3 @@ description: "Output generativer KI: Werkhoehe, menschlicher Schoepfungsbeitrag,
 ## Grundsatz
 
 Nicht jeder KI-Output ist frei nutzbar. Nicht jeder KI-Output ist schutzlos. Entscheidend ist der konkrete menschliche Beitrag und die Nähe zu fremdem Material.
-

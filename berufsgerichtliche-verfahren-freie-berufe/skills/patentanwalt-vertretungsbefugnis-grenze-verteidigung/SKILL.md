@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-vertretungsbefugnis-grenze-verteidigung
-description: "Patentanwalt Vertretungsbefugnis Grenze (Verteidigungs- und Kammerantwort): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Patentanwalt Vertretungsbefugnis Grenze (Verteidigungs- und Kammerantwort): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt i..."
 ---
 
 # Patentanwalt Vertretungsbefugnis Grenze: Verteidigungs- und Kammerantwort
@@ -47,4 +47,3 @@ Erzeuge Stellungnahme, Akteneinsicht, Bestreiten, Einordnung, Entlastung, Wieder
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
-

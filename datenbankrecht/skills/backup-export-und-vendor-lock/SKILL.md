@@ -1,6 +1,6 @@
 ---
 name: backup-export-und-vendor-lock
-description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme im Datenbankrecht."
+description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verb..."
 ---
 
 # Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
@@ -63,4 +63,3 @@ description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in:
 - [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
 - [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-

@@ -69,4 +69,3 @@ auch wenn finale FDA/EMA-Entscheidung noch aussteht.
  Bekanntmachung durch Behörde)
 - Bei negativer Entscheidung: Ebenso unverzüglich
 - Koordination mit IR und Presse für simultane Kommunikation
-

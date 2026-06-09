@@ -63,4 +63,3 @@ Rechtstatsachen sind die empirischen Befunde der Rechtswirklichkeit: Wie wird Re
 - Sozialgeschichtliche Methode: Quellenkritik empirischer Rechtsquellen (Statistiken, Protokolle)
 - Anachronismus-Vermeidung: Keine modernen Konzepte (z. B. Arbeitnehmerbegriff) in 1900-Quellen
 - Kombination: Normquellen und empirische Quellen (Gerichtsprotokolle, Notariatsakten)
-

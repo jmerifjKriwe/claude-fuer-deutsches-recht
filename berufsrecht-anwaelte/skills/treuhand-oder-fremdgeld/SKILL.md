@@ -58,4 +58,3 @@ Konkret zu prüfen:
 - § 4 BORA (Fremdgeld auf Anderkonto)
 - § 43a Abs. 5 BRAO
 - § 246 StGB (Unterschlagung)
-

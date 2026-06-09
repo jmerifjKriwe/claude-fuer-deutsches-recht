@@ -11,19 +11,19 @@ Dieses Anschluss-Routing für **Fachanwalt Sportrecht** wählt nach dem ersten E
 
 ## Fachlandkarte dieses Plugins
 
-- `athletenvertrag` — Athletenvertrag
+- `doping-verfahren` — Athletenvertrag
 - `athletenwerbung-paragraf-3-uwg` — Athletenwerbung Paragraf 3 UWG
-- `cas-berufung-erstgespraech-mandatsannahme` — CAS Berufung Erstgespraech Mandatsannahme
-- `cas-dis` — CAS DIS
+- `cas-berufung-vorbereiten` — CAS Berufung Erstgespraech Mandatsannahme
+- `workflow-mandantenkommunikation` — CAS DIS
 - `doping-quellenkarte` — Doping Quellenkarte
 - `doping-strafrecht-paragraf-4-anti-dopg` — Doping Strafrecht Paragraf 4 Anti Dopg
-- `dosb-fachanwalt-fifa` — Dosb Fachanwalt Fifa
+- `dosb-behoerden-gericht-und-registerweg` — Dosb Fachanwalt Fifa
 - `e-sport-anerkennung` — E Sport Anerkennung
 - `eu-sportrecht-art-101-aeuv-eugh-c-333-21` — EU Sportrecht ART 101 Aeuv Eugh C 333 21
-- `gesellschaftsrecht-beweislast-mandat-nada` — Gesellschaftsrecht Beweislast Mandat Nada
-- `mandat-triage-schriftsatzkern-substantiierung` — Mandat Triage Schriftsatzkern Substantiierung
-- `orientierung-stadion-hausverbot` — Orientierung Stadion Hausverbot
-- `persoenlichkeitsrechte-schnittstelle` — Persoenlichkeitsrechte Schnittstelle
+- `gesellschaftsrecht-beweislast-und-darlegungslast` — Gesellschaftsrecht Beweislast Mandat Nada
+- `mandat-triage-sportrecht` — Mandat Triage Schriftsatzkern Substantiierung
+- `orientierung-fachanwaltschaft-mandat` — Orientierung Stadion Hausverbot
+- `persoenlichkeitsrechte-formular-portal-und-einreichung` — Persoenlichkeitsrechte Schnittstelle
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -61,4 +61,3 @@ Dieses Anschluss-Routing für **Fachanwalt Sportrecht** wählt nach dem ersten E
 ### Leitentscheidungen
 
 - EuGH C-333/21
-

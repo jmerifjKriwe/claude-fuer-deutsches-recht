@@ -48,4 +48,3 @@ description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Ko
 4. Sanktionsrisiko realistisch?
 5. Gibt es eine konkrete Rechtsfolgenbelehrung oder nur allgemeinen Druck?
 6. Widerspruch gegen Minderungsbescheid und einstweiliger Rechtsschutz nötig?
-

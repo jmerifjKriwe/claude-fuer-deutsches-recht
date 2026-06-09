@@ -76,4 +76,3 @@ Grundstückskaufvertrag) bleibt die notarielle Beurkundung zwingend — elektron
 - Form eingehalten: Schriftform (§ 126 BGB), Textform (§ 126b BGB) oder Beurkundung (§ 128 BGB)?
 - Formmangel: Heilungsmöglichkeit nach § 311b Abs. 1 S. 2 BGB oder Ausführung des Vertrags?
 - Konsequenz des Formmangels: Nichtigkeit nach § 125 BGB?
-

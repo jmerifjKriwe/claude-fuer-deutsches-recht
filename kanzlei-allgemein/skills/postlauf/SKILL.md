@@ -53,4 +53,3 @@ Wenn die Umgebung Automationen unterstützt, den Nutzer fragen:
 > Soll ich eine tägliche Erinnerung um 11 Uhr für den Postlauf einrichten?
 
 Ohne Automationsunterstützung eine manuelle Checkliste erzeugen.
-

@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 1. Welche Tafel?
 2. Welcher Textzeuge?
 3. Rekonstruktionssicherheit?
-

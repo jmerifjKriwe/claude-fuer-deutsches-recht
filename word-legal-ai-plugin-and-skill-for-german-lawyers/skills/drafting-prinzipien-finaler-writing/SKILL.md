@@ -1,6 +1,6 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beis..."
 ---
 
 # Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision
@@ -96,4 +96,3 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 - § 253 Abs. 2 Nr. 2 ZPO; § 305c Abs. 2 BGB; § 307 Abs. 1 Satz 2 BGB; § 138 Abs. 2 ZPO; siehe gesetze-im-internet.de.
 - Rechtsprechung zum AGB-Transparenzgebot: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
-

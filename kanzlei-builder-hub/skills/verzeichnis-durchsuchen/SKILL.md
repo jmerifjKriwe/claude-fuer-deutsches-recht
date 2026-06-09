@@ -139,4 +139,3 @@ Zuletzt verifiziert: 2024-09-01 ⚠️ Aktualität prüfen (>6 Monate)
 - Skills installieren. Das macht `skill-installierer`.
 - Skills bewerten oder Empfehlungen geben (nur Profil-Passung-Filterung). Den Rohtext prüfen; Sie urteilen.
 - Das gesamte Internet durchsuchen. Nur beobachtete Registries.
-

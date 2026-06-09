@@ -37,4 +37,3 @@ Bei versehentlichem Upload:
 3. Berufsrecht, Datenschutz, Mandatsverantwortliche informieren.
 4. Prüfen, ob Mandant, Kammer, Datenschutzaufsicht oder Versicherung einzubeziehen sind.
 5. Wiederholungsschutz: Policy, Technik, Schulung nachziehen.
-

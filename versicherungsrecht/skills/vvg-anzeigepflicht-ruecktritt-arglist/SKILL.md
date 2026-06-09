@@ -28,4 +28,3 @@ VVG §§ 19–22, 194; BGB § 123; AVB; DSGVO/Gesundheitsdaten; ZPO Beweislast.
 
 - vvg-arglist-taeuschung-anfechtung
 - bu-berufsbild-50-prozent-substantiierung
-

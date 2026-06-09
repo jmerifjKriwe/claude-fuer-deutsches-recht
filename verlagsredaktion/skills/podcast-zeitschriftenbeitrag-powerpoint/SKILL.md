@@ -82,4 +82,3 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.
-

@@ -1,6 +1,6 @@
 ---
 name: haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung
-description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht im Strafzumessung."
+description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisch..."
 ---
 
 # Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
@@ -151,4 +151,3 @@ Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 S
 - § 267 Abs. 3 StPO.
 - BGH-staendige Linie zum Haerteausgleich bei nicht moeglicher Einbeziehung — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
-

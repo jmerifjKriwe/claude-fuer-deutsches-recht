@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-solarpark-trafostation
-description: "Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung im Hoai Leistungsphasen Praxis."
+description: "Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellun..."
 ---
 
 # Bauueberwachung Solarpark und Trafostation
@@ -87,4 +87,3 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 823 Schadensersatz](https://www.gesetze-im-internet.de/bgb/__823.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
-

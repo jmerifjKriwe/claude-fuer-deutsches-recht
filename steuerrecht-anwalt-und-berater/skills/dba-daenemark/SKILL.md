@@ -1,6 +1,6 @@
 ---
 name: dba-daenemark
-description: "DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler Schleswig-Holstein Daenemark Beteiligungen Pensionen Sozialversicherung Lizenzen. Methodenartikel Freistellung mit Anrechnungswahl. Sonderregelungen Eisenbahn Schiff Luftverkehr. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler Schleswig-Holstein Daenemark Beteiligungen Pensionen Sozialversicherung Lizenzen. Methodenartikel Freistellung mit Anrechnungswahl. Sonderregelungen Eisenbahn Schiff Luftverkehr. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinw..."
 ---
 
 # DBA Deutschland-Daenemark
@@ -152,4 +152,3 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

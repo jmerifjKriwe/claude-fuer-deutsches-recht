@@ -1,6 +1,6 @@
 ---
 name: red-flags-checkliste
-description: "Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Missbrauch. Ausgabe als priorisierte Mängelliste im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Missbrauch. Ausgabe als priorisierte Mängelliste im Kartellrec..."
 ---
 
 # Red-Flag-Checkliste — Marktabgrenzung
@@ -106,4 +106,3 @@ MITTLERE MÄNGEL (vertiefende Prüfung empfohlen):
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Red Flag ueberragende Marktstellung; § 19a GWB neue Eingriffsvoraussetzung; BKartA erhaelt praezise Eingriffsbefugnis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

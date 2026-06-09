@@ -1,6 +1,6 @@
 ---
 name: 019-erster-titel-16-schaden-ersatz
-description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterla..."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr
@@ -52,4 +52,3 @@ Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahr
 1. Vertragstyp und Periculum (Verkaeufer / Kaeufer / Verwahrer).
 2. Verschuldensgrad nach ALR-Stufen (dolus bis casus).
 3. Heute BGB-§§ und ggf. UN-Kaufrecht.
-

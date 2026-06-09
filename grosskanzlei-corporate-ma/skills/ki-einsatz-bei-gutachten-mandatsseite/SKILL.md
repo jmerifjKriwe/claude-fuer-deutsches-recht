@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-bei-gutachten-mandatsseite
-description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstufen, Anhörungs- und Aktenherausgabeanträge, Hinweise für Privatgutachten und Schiedsverfahren mit AI-Disclosure-Klauseln."
+description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstuf..."
 ---
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
@@ -261,4 +261,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 <!-- AUDIT 27.05.2026: 3 halluzinierte Entscheidungen entfernt.
 - BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
 Pruefmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->
-

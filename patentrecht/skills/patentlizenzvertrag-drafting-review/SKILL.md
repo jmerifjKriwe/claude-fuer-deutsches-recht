@@ -51,4 +51,3 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 - **Steuerklauseln:** Withholding Tax bei grenzüberschreitenden Lizenzen; § 50a EStG bei Vergütung an ausländische Lizenzgeber (Steuerabzug 15 %); DBA-Reduktion möglich.
 - **Insolvenzfeste Strukturierung:** § 103 InsO Wahlrecht des Insolvenzverwalters; bei "ausschließliche Lizenz" Schutz vor Wegfall durch Insolvenz prüfen (str.).
 - Falle: "Best efforts" in deutsches Recht — § 276 BGB Sorgfaltsmaßstab ist konkret zu definieren; "due diligence" reicht nicht ohne konkrete Pflichten.
-

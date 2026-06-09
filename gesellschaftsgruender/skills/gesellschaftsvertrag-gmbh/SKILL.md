@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsvertrag-gmbh
-description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll § 2 Abs. 1a GmbHG im Gesellschaftsgruender."
+description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll..."
 ---
 
 # GmbH-Gesellschaftsvertrag (Satzung)
@@ -158,4 +158,3 @@ Version: [Nr.], Datum: [Datum], Notariell beurkundet: [Datum]
 - `gesellschaftsgruender-notar-vorbereitung` — Beurkundungstermin
 - `gesellschaftsgruender-genehmigtes-kapital` — § 55a GmbHG-Klausel in Satzung
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtung SHA/Satzung
-

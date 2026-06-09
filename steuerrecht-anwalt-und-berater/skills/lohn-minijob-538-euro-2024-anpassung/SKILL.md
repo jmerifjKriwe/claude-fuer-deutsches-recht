@@ -1,6 +1,6 @@
 ---
 name: lohn-minijob-538-euro-2024-anpassung
-description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft."
+description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Kna..."
 ---
 
 # Minijob — 538-EUR-Grenze und Anpassungen
@@ -124,4 +124,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: Minijob-Grenze 603 EUR (2026) / voraussichtlich 633 EUR (2027) ergaenzt -->
-

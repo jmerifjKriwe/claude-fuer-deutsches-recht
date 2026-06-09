@@ -1,6 +1,6 @@
 ---
 name: 011-pompeji-graffiti-sozialquelle
-description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht: Dieser Skill bearbeitet Pompeji Graffiti als Rechts- und Sozialquelle im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
+description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht: Dieser Skill bearbeitet Pompeji Graffiti als Rechts- und Sozialquelle im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
 ---
 
 # Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle
@@ -48,4 +48,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Digesten D.44.7.1` — Obligationenquellen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-

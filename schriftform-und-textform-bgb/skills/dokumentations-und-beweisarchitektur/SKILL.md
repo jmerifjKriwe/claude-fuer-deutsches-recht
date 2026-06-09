@@ -1,6 +1,6 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes im Schriftform Und Textform Bgb."
+description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchiv..."
 ---
 
 # Dokumentations- und Beweisarchitektur
@@ -178,4 +178,3 @@ Bitte leiten Sie alle diese Unterlagen zeitnah an unsere Kanzlei weiter.
 - **qES-Datei gelöscht**: Wenn die qES-PDF-Datei gelöscht wird und nur ein Ausdruck vorhanden ist, ist die Signatur nicht mehr prüfbar. Validierungsprotokoll vor Löschung erstellen.
 - **E-Mail-Postfach gelöscht**: E-Mails im Spam-Ordner werden automatisch gelöscht. Wichtige E-Mails sofort in gesicherten Ordner oder in Aktenstruktur verschieben.
 - **Fristbeginn unbekannt**: Wenn das genaue Zugangsdatum streitig ist, kann die Fristberechnung scheitern. Zugang immer mit Datum dokumentieren.
-

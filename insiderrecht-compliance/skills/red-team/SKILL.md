@@ -77,4 +77,3 @@ Angriffspunkte:
 - Wurde der Reviewer mit allen relevanten Dokumenten versorgt?
 - Wurden Befunde schriftlich festgehalten und weitergeleitet?
 - Gibt es eine Follow-up-Prüfung nach Maßnahmenumsetzung?
-

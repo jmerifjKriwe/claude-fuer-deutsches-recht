@@ -39,4 +39,3 @@ Dieses Fachmodul bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sper
 - `eugh-grch-art-11-rechtsprechung` bei Suchmaschinen, DSGVO, DSA, Uploadfiltern oder Art.-11-GRCh-Bezug.
 - `egmr-art-10-rechtsprechung` bei journalistischem Kontext, Hyperlinks, Kommentarspalten oder Art.-8-/Art.-10-Abwägung.
 - `olg-kg-praxis-rechtsprechung` bei Unterlassungsanträgen, künftigen gleichwertigen Inhalten und Tenorweite.
-

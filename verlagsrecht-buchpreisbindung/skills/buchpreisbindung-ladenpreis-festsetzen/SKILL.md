@@ -119,4 +119,3 @@ Dieser Skill führt durch den **Prozess der Ladenpreisfestsetzung** nach dem Buc
 - **Ausnahmen-Protokoll**: § 6 BuchPrG-Ausnahmen mit Belegen
 - **Preisänderungsschreiben** an Buchhandel
 - **E-Book-Plattform-Compliance-Check**
-

@@ -57,4 +57,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Kurze Epochenlinie.
 - Materienbezogene Prüfmatrix.
 - Anschluss-Skills zu Novellen, Basiliken, Kirchenrecht oder Rezeptionsvergleich.
-

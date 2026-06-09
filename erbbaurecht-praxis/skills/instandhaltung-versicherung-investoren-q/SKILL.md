@@ -53,4 +53,3 @@ Der Skill baut ein Betreiberpflichten-Dashboard mit Fristen, Nachweisen und Eska
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-

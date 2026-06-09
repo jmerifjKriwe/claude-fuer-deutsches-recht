@@ -70,4 +70,3 @@ Studenten der Universitaet Jena gruenden Burschenschaft.
 
 - Deutscher Bund als gescheitertes konfederales Modell.
 - Lehrwert: Vergleich Bundesakte 1815 mit Grundgesetz 1949 (echter Bundesstaat).
-

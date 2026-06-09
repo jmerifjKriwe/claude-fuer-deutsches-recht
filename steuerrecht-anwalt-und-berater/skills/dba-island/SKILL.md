@@ -153,4 +153,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Isla
 Stand: 05/2026. DBA-Island 18.03.1971 (BGBl. 1973 II S. 209) mit Protokoll 20.06.1996. Dividenden-Quellensteuer: national 22 Prozent, DBA-Hoechstsatz 15 Prozent (BZSt 2025). MLI-Ratifizierungsstatus im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 3 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

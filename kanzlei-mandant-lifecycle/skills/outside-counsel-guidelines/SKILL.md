@@ -1,6 +1,6 @@
 ---
 name: outside-counsel-guidelines
-description: "Outside Counsel Guidelines: steuert OCG des Unternehmens in alltagstaugliche Kanzlei-Pflichten, Eskalationen und Abrechnungsregeln übersetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Outside Counsel Guidelines: steuert OCG des Unternehmens in alltagstaugliche Kanzlei-Pflichten, Eskalationen und Abrechnungsregeln übersetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-..."
 ---
 
 # Outside Counsel Guidelines
@@ -54,4 +54,3 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
 - BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
 - BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-

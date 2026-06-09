@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Informationen. Abgrenzung: nicht für laufendes Mandat."
+description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Inf..."
 ---
 
 # Kaltstart-Interview – Datenschutzrecht
@@ -142,4 +142,3 @@ AVV-Playbook: konfiguriert / nicht konfiguriert
 Systemliste: konfiguriert / nicht konfiguriert
 Naechste Schritte: [LISTE]
 ```
-

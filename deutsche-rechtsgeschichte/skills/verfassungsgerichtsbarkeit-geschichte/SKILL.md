@@ -53,4 +53,3 @@ Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte
 - Strukturvergleich Staatsgerichtshof WRV vs. BVerfG
 - Zuständigkeitsuebersicht BVerfG nach Art. 93 GG und BVerfGG § 13
 - Leitsaetze aus BVerfGE 1, 14 und BVerfGE 89, 155 (Maastricht)
-

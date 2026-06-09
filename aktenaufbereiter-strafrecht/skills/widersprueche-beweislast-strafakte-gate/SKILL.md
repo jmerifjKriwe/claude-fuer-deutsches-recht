@@ -57,4 +57,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rร
  - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
  - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
  - **ยง 257 StPO Widerspruch** in Hauptverhandlung gegen Beweisverwertung Belehrungsmaengel-Beweise.
-

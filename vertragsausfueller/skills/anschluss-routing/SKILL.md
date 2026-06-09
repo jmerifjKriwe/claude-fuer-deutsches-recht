@@ -56,4 +56,3 @@ Dieses Anschluss-Routing für **Vertragsausfueller** wählt nach dem ersten Erge
 - BGH I ZR 169/12
 - BGH VII ZR 213/07
 - BGH VII ZR 37/17
-

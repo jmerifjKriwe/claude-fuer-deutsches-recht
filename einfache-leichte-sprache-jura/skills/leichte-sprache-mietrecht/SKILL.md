@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-mietrecht
-description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüfraster Satzlaenge max. 8 Woerter aktive Formulierung Erklärungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Prüfung) im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüf..."
 ---
 
 # Leichte Sprache
@@ -168,4 +168,3 @@ Wenn keine Prüfung stattgefunden hat, schreibe:
 
 > Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
-

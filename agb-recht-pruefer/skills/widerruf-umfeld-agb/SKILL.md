@@ -25,4 +25,3 @@ description: "Klausel-Fachmodul für Widerruf Umfeld AGB: prüft, redlined und e
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

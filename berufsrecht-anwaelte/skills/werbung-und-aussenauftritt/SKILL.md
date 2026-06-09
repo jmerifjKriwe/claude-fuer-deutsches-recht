@@ -59,4 +59,3 @@ Konkret zu prüfen:
 - §§ 6-10 BORA
 - BVerfGE 76, 196
 - BGH NJW 2018, 798
-

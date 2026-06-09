@@ -51,4 +51,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - § 64 GmbHG a.F. / § 15b InsO: Zahlungsverbot ab materieller Insolvenz, Erstattungsanspruch gegen Geschäftsführer.
 - §§ 283 ff. StGB: Bankrott, Schuldnerbegünstigung, Gläubigerbegünstigung.
 - § 266a StGB: Vorenthalten von Arbeitnehmer-Sozialversicherungsbeiträgen — strikt fortzuzahlen auch in der Krise (Anweisung an Steuerberater dokumentieren).
-

@@ -89,4 +89,3 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Digitale Konvergenz**: WhatsApp und E-Mail erfüllen Textform (§ 126b BGB), aber nicht Schriftform (§ 126 BGB). Wer irrtümlich Textform für ausreichend hält, riskiert Nichtigkeit bei gesetzlichem Schriftformerfordernis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-

@@ -85,4 +85,3 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
-

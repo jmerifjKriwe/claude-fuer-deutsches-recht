@@ -1,6 +1,6 @@
 ---
 name: zeitwerttabelle-und-fallzahlen
-description: "Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Branchenstatistiken). Mit Bezugsformeln und Quellenpfaden."
+description: "Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Bra..."
 ---
 
 # NKR-Zeitwerttabelle und Fallzahlen
@@ -119,4 +119,3 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 - DESTATIS Personalstandstatistik (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
-

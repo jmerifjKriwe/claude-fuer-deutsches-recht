@@ -63,4 +63,3 @@ Das deutsche Verwaltungsrecht nahm im 19. Jh. seine moderne Form an. Das preussi
 - VwGO und VwVfG: gesetze-im-internet.de
 - Otto Mayer, Deutsches Verwaltungsrecht (2 Bde., 1895/96): historische Edition, Bandangabe und Seite
 - BVerwG: bverwg.de für vollstaendige Entscheidungen
-

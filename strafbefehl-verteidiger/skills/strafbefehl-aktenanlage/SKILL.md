@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-aktenanlage
-description: "Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsakte-Template Fristenuebersicht Excel-Export Akten-Checkliste. Abgrenzung: strafbefehl-kommandocenter für uebergreifende Mandats-Steuerung im Strafbefehl Verteidiger."
+description: "Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 StPO Akteneinsicht § 43 StPO Fristberechnung. Output Mandatsak..."
 ---
 
 # Aktenanlage im Strafbefehlsverfahren
@@ -100,4 +100,3 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
 - Fristenkalender zwingend fuehren, nie im Kopf.
 - Vollmacht immer im Original verwahren.
 - Bei Aktennachlieferungen: Verzeichnis aktualisieren, neue Teile markieren.
-

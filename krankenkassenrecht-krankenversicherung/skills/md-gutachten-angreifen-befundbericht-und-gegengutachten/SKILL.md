@@ -92,4 +92,3 @@ Ablehnungsbescheide der Krankenkasse stützen sich meist auf ein Gutachten des M
 - [BSG B 1 KR 29/13 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [AWMF Leitliniendatenbank](https://www.awmf.org/leitlinien.html)
 - [dejure.org § 275 SGB V](https://dejure.org/gesetze/SGB_V/275.html)
-

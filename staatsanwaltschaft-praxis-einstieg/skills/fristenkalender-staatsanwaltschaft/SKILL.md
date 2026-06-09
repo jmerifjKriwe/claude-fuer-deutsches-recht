@@ -35,4 +35,3 @@ Konkret zu prüfen:
 - § 44 StPO (Wiedereinsetzung)
 - § 314 StPO (Berufungsfrist)
 - § 341 StPO (Revisionsfrist)
-

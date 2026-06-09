@@ -55,4 +55,3 @@ Fuer jeden API- oder JSON-Export muss die Akte enthalten:
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - API-Antworten werden unveraendert archiviert und nicht mit internen Arbeitshypothesen vermischt.
-

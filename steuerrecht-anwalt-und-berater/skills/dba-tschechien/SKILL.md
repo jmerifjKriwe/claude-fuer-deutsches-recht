@@ -147,4 +147,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR
 Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Tschechien per Bekanntmachung BGBl. 1993 II S. 762. MLI ab 01.01.2026. Dividenden 5/15 Prozent, Zinsen 0 Prozent (nur Ansaessigkeitsstaat), Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 9 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 1022; Fortgeltung Bekanntmachung 1993; MLI 01.01.2026; Quellensteuer-Saetze; Bauausfuehrung 12 Monate), 1 gestrichen (BFH I R 38/12 betrifft nicht Tschechien) -->
-

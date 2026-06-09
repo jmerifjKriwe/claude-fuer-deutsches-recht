@@ -1,6 +1,6 @@
 ---
 name: musik-app-bei
-description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale im Datenbankrecht."
+description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstel..."
 ---
 
 # Datenbankrecht für Musik-, Film- und Bildarchive — Mediendatenbanken
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e Ur
 - [§ 2 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/2.html)
 - [§ 85 UrhG Tonträgerhersteller — dejure.org](https://dejure.org/gesetze/UrhG/85.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

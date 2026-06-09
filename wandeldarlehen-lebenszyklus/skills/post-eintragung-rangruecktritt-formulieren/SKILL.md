@@ -1,6 +1,6 @@
 ---
 name: post-eintragung-rangruecktritt-formulieren
-description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung) im Wandeldarlehen Lebenszyklus."
+description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgr..."
 ---
 
 # Post-Eintragung-Checkliste
@@ -91,4 +91,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 40 GmbHG (Gesellschafterliste, unverzügliche Einreichung) → § 16 GmbHG (Legitimationswirkung ab Listeneintragung) → § 53 GmbHG (Satzungsänderung falls erforderlich) → § 8 HGB (Handelsregisterpublizität) → § 57 Abs. 4 GmbHG (Haftung bei unrichtiger Kapitalerhöhungsanmeldung)
-

@@ -73,4 +73,3 @@ description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung 
 - HGB als Grundlage des deutschen Handelsrechts.
 - §§ 1-7 HGB: Kaufmannsbegriff.
 - §§ 238 ff. HGB: Bilanzrecht.
-

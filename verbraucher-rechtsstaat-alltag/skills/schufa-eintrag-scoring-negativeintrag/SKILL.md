@@ -64,4 +64,3 @@ Erzeuge Auskunftsantrag, Löschungsbegehren, Forderungsbestreiten und Beschwerde
 ## Prompts, die dieser Skill stellen soll
 
 - Welcher Eintrag, Datum, Forderung bekannt, bestritten, erledigt?
-

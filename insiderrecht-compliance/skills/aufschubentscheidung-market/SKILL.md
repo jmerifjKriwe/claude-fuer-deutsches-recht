@@ -92,4 +92,3 @@ Erzeuge:
 
 Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org,
 openjur.de, curia.europa.eu, bgh.de.
-

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schadensersatz-art-82-dsgvo
-description: "Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung."
+description: "Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss..."
 ---
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
@@ -109,4 +109,3 @@ Sieben-Fragen-Diagnose:
 - EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH), vor Ausgabe über curia.europa.eu verifizieren.
 - EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-

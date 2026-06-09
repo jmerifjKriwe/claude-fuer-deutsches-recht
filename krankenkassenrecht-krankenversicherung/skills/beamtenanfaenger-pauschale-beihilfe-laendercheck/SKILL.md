@@ -114,4 +114,3 @@ Beamtenanfänger müssen die PKV vs. GKV-Entscheidung treffen. Einige Bundeslän
 - BGH III ZR 17/18
 - BGH IV ZR 194/07
 - BGH IV ZR 62/16
-

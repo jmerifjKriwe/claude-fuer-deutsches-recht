@@ -47,4 +47,3 @@ description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenr
 3. Qualitaetskontrolle wirksam?
 4. Know-How-Schutz?
 5. Postvertragliche Pflichten?
-

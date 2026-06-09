@@ -74,4 +74,3 @@ nach § 138 BGB tritt neben die strafrechtliche Verantwortlichkeit.
 - Kollusion: Gemeinsames Handeln von Vertreter und Drittem zum Nachteil des Vertretenen?
 - Evidenz: War Missbrauch für Dritten auf den ersten Blick erkennbar?
 - Rechtsfolge: § 138 BGB (Kollusion) oder § 242 BGB (Evidenz ohne Kollusion)?
-

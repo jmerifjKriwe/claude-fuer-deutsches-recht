@@ -41,4 +41,3 @@ VVG § 115; PflVG; Pflichtversicherungsnormen je Berufsgruppe; BGB Delikt/Vertra
 
 - betriebshaftpflicht-versicherungsfall-serienschaden
 - subrogation-regress-86-vvg
-

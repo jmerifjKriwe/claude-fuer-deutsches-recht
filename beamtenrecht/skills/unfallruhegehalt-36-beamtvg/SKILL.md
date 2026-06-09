@@ -1,6 +1,6 @@
 ---
 name: unfallruhegehalt-36-beamtvg
-description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandelt die Konstellation Dienstunfaehigkeit nach Dienstunfall die mehrfache Schmaelerung durch Versorgungsabschlag und das Verhaeltnis zur einmaligen Unfallentschaedigung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht."
+description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandel..."
 ---
 
 # Unfallruhegehalt nach § 36 BeamtVG
@@ -66,4 +66,3 @@ Skill für Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhesta
 ## 7. Beispiel (Kurzfassung)
 
 Polizeihauptmeister wird nach Schussverletzung im Streifeneinsatz dienstunfaehig. Skill liefert Antrag auf Unfallruhegehalt von mindestens 66 v. H. und auf einmalige Unfallentschaedigung.
-

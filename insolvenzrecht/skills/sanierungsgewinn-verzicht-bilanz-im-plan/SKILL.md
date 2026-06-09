@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verzicht-bilanz-im-plan
-description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkungen auf das Eigenkapital. Schnittstelle zur Modellrechnung Paragraph 3a Absatz 3 EStG im Insolvenzrecht."
+description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkunge..."
 ---
 
 # Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen
@@ -207,4 +207,3 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 - Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, Paragraph 11 Rn. 78.
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
-

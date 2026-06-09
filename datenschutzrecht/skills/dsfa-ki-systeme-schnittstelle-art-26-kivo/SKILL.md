@@ -113,4 +113,3 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
-

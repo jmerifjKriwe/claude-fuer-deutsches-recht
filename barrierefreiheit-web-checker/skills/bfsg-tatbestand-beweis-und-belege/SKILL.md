@@ -53,4 +53,3 @@ Wirtschaftsakteur-Pflicht ist verletzt, wenn:
 
 ## Trade-off
 "Unverhältnismäßige Belastung" wird von Marktüberwachungsbehörden eng ausgelegt; pauschale Berufung ohne dokumentierte Bewertung ist im Klage- und Bußgeldverfahren nicht tragfähig. Die Bewertung ist alle 5 Jahre, bei wesentlichen Änderungen oder auf Verlangen der Marktüberwachung zu überprüfen.
-

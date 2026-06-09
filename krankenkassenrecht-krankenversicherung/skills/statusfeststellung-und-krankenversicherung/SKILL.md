@@ -88,4 +88,3 @@ Wer als selbstständig gilt, muss sich selbst krankenversichern. Wenn der Status
 - [DRV Statusfeststellung](https://www.deutsche-rentenversicherung.de)
 - [§ 25 SGB IV – Verjährung](https://www.gesetze-im-internet.de/sgb_4/__25.html)
 - [dejure.org § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)
-

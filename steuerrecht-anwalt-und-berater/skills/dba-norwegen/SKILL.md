@@ -159,4 +159,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Norw
 Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 07.10.1993 (BGBl. 1993 II S. 970). Aenderungsprotokoll 24.06.2013 (BGBl. 2014 II S. 906, in Kraft 03.02.2015). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
-

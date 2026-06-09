@@ -91,4 +91,3 @@ Dieser Skill erstellt einen strukturierten, priorisierten und nachverfolgbaren R
 - **Behörden-Remediation-Bericht** (für DOJ/BaFin)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

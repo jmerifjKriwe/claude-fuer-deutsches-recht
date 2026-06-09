@@ -115,4 +115,3 @@ Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion für Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
-

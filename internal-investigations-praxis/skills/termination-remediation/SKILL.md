@@ -85,4 +85,3 @@ Dieser Skill entwickelt für jeden Beschuldigten die optimale Kündigungsstrateg
 - **Post-Trennungs-Checkliste** (Systemzugang, Unterlagen, Zeugnis)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-

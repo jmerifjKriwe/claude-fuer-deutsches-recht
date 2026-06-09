@@ -1,6 +1,6 @@
 ---
 name: lph-07-bauherrnfreigabe
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Pra..."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Strukturiert freigabeentscheidung
@@ -32,4 +32,3 @@ description: "HOAI LPH 7 Mitwirkung bei der Vergabe: strukturiert Freigabeentsch
 - Praktischer Kern: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
 - Bewertungsanker Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-

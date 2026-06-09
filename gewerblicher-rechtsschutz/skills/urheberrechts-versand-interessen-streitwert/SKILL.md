@@ -131,4 +131,3 @@ Mandatsbezug: Mandant fragt: Wie viel Schadensersatz kann ich verlangen? Oder: F
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislast Urheberrecht
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand Urheberrecht
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
-

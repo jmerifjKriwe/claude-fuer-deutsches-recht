@@ -137,4 +137,3 @@ Antwort: Im Anhang Q&A-47.xlsx finden Sie die vollständige Liste. Insgesamt 23 
 - DSGVO Art. 6, 28, 32 zur Datenverarbeitung und technischen Sicherheit.
 - IDW PS 951 zu Prüfungen von Dienstleistungsunternehmen.
 - BaFin-Anforderungen an die Dokumentation (MaRisk-analog).
-

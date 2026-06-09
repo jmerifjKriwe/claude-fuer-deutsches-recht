@@ -108,4 +108,3 @@ EU-Richtlinie 2021/2167 über Kreditdienstleister und Kreditkäufer:
 - **Data-Tape-Vorlage**: Excel-Format für NPL-Portfolio-Verkauf
 - **Forderungskaufvertrag-Checkliste**: R&W, Gewährleistung, Abtretung
 - **KrZwMG-Compliance-Memo**: Registrierungsvoraussetzungen
-

@@ -1,6 +1,6 @@
 ---
 name: avv-loeschung-rueckgabe-nach-vertragsende
-description: "Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschprotokoll-Muster."
+description: "Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschpro..."
 ---
 
 # Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO
@@ -84,4 +84,3 @@ Klausel zu Loeschung und Rueckgabe:
 - DIN 66399 – Vernichtung von Datentraegern.
 - NIST SP 800-88 Rev. 1 – Guidelines for Media Sanitization.
 - Zitierweise: `../../../references/zitierweise.md`.
-

@@ -1,6 +1,6 @@
 ---
 name: eskalations-marker
-description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt wer muss das genehmigen, eskalieren, braucht das GC-Freigabe, Genehmigung einholen oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt im Vertragsrecht."
+description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt wer muss das genehmigen, eskalieren, braucht das GC-Freigabe, Genehmigung einholen oder ein anderer Skill ein Problem identifiziert,..."
 ---
 
 # Eskalationsregeln
@@ -150,4 +150,3 @@ Relevante Normen:
 - **Entscheidung vorwegnehmen:** Der Entwurf bietet Optionen – er trifft keine Entscheidung. Der Genehmiger entscheidet.
 - **Frist vergessen:** Ohne Entscheidungs-Datum läuft die Verhandlung. Immer ein Datum nennen.
 - **Privilegierter Inhalt außerhalb des Kreises:** Genehmigungsanfragen intern halten; § 43a Abs. 2 BRAO, § 203 StGB beachten.
-

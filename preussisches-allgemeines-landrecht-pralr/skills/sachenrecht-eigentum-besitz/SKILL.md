@@ -46,4 +46,3 @@ ALR-Loesung: ALR I 21 — Hutungsrecht als Dienstbarkeit; Ablösung gegen Entsch
 - §§ 873, 925 BGB Auflassung als Nachfolger ALR I 10.
 - § 184 ff. EGBGB schuetzt vor BGB-Inkrafttreten begruendete Altrechte (Hutungsrecht, Erbenzinsguter): bis heute teils noch in Grundbuchblaettern vermerkt — relevant in Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt!
 - Sachenrechtsbereinigungsgesetz 1994 für Ostdeutschland.
-

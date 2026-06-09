@@ -42,4 +42,3 @@ Dieser Fehlerkatalog prüft im Bereich **Dfg Foerderantrag** Ergebnisse vor Abga
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
-

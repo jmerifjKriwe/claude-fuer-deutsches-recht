@@ -25,4 +25,3 @@ description: "Branchen-Fachmodul für Formulararbeitsvertrag: prüft typische AG
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-

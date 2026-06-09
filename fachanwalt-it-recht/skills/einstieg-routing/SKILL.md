@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), markiert Frist (Mängelfristen Software), wählt Norm (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), markiert Frist (Mängelfristen Software), wählt Norm (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezia..."
 ---
 
 # Einstieg und Routing
@@ -13,17 +13,17 @@ Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen,
 
 - `ai-act-art-6-hochrisiko-ki` — AI ACT ART 6 Hochrisiko KI
 - `cloud-act-vs-dsgvo-art-48-dsgvo` — Cloud ACT VS DSGVO ART 48 DSGVO
-- `cloud-vertrag-datenschutz-itr` — Cloud Vertrag Datenschutz ITR
-- `cyber-datenschutz` — Cyber Datenschutz
+- `vertragsstrafe-pruefen` — Cloud Vertrag Datenschutz ITR
+- `cyber-vorfall-sofortmassnahmen` — Cyber Datenschutz
 - `datenschutzrecht-fehlerkatalog` — Datenschutzrecht Fehlerkatalog
-- `dma-dsa-dsgvo-fachanwalt-governance` — DMA DSA DSGVO Fachanwalt Governance
-- `dsfa-update-erstgespraech-vorfallmeldung` — Dsfa Update Erstgespraech Vorfallmeldung
+- `dma-compliance-dokumentation-und-akte` — DMA DSA DSGVO Fachanwalt Governance
+- `dsv-dsfa-update-nach-vorfall` — Dsfa Update Erstgespraech Vorfallmeldung
 - `dsgvo-bussgeld-art-83-eugh-c-807-21` — DSGVO Bussgeld ART 83 Eugh C 807 21
 - `hacking-haftung-paragraf-823-bgb-it-sicherheit` — Hacking Haftung Paragraf 823 BGB IT Sicherheit
-- `informationstechnologierecht-kanzlei` — Informationstechnologierecht Kanzlei
-- `it-recht-aufnahme-statusinformation-benachrichtigung-art` — IT Recht Aufnahme Statusinformation Benachrichtigung ART
-- `it-recht-massenbenachrichtigung-meldekette-auftragsverarbeiter` — IT Recht Massenbenachrichtigung Meldekette Auftragsverarbeiter
-- `it-recht-stakeholder-mapping-tonfall-krisenkommunikation` — IT Recht Stakeholder Mapping Tonfall Krisenkommunikation
+- `informationstechnologierecht-tatbestand-beweis` — Informationstechnologierecht Kanzlei
+- `dsv-aufnahme-statusinformation` — IT Recht Aufnahme Statusinformation Benachrichtigung ART
+- `dsv-massenbenachrichtigung` — IT Recht Massenbenachrichtigung Meldekette Auftragsverarbeiter
+- `dsv-stakeholder-mapping` — IT Recht Stakeholder Mapping Tonfall Krisenkommunikation
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
@@ -40,4 +40,3 @@ Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen,
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-

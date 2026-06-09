@@ -37,4 +37,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **MaRisk / MaComp (BaFin):** Sofortige Meldung wesentlicher Vorfälle; Outsourcing-Anzeigepflicht; jährliche Selbstbeurteilung.
 - **Produktsicherheit (ProdSG, GPSR VO 2023/988):** Meldung gefährliches Produkt unverzüglich, max. 2 Tage; Rückrufkampagne dokumentationspflichtig.
 - **Praxis-Tipp:** Multijurisdiktionale Regulatoren häufig parallel zuständig (z. B. BaFin + BNetzA + LfDI + EU-Kommission) — Anzeige-Kanäle und Sprachfassungen früh abstimmen.
-

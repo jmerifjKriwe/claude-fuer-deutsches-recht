@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-bei-finanzmarktdaten
-description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten im Datenbankrecht."
+description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO b..."
 ---
 
 # Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten
@@ -63,4 +63,3 @@ description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börs
 - [MiFID-II-Richtlinie 2014/65/EU — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014L0065)
 - [DSGVO Art. 4 — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-

@@ -41,4 +41,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Naturschutz und Vogelschutz (§ 39 Abs. 5 BNatSchG):** Heckenrückschnitt nur außerhalb der Brutzeit; verboten zwischen 1. März und 30. September (Ausnahme: schonender Form-/Pflegeschnitt nach § 39 Abs. 5 S. 2 BNatSchG).
 - **Baumschutzsatzung Stadt/Gemeinde:** Viele Kommunen schützen Bäume ab bestimmter Stammumfang (z. B. 80 cm); Fällen oder massiver Rückschnitt nur nach Genehmigung der unteren Naturschutzbehörde.
 - **Praktiker-Tipp:** Vor Beseitigung/Klage stets Aktenvermerk: Standort, Pflanzart, Höhe, Pflanzdatum (so ermittelbar), Grenzabstand mit Foto und Maßband dokumentieren; Tatortskizze hilft im Prozess.
-

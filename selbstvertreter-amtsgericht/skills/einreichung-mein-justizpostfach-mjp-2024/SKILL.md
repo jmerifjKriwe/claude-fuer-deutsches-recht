@@ -104,4 +104,3 @@ Pruefen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 01/2024 im Buerger-Betrieb. § 130a ZPO unveraendert.
-

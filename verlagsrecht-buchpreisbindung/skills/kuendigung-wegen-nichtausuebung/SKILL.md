@@ -134,4 +134,3 @@ Der **Rückruf wegen Nichtausübung** nach UrhG § 41 ist das wichtigste gesetzl
 - **Rückrufserklärung-Entwurf**: Nach Fristablauf
 - **Wirkungsprotokoll**: Welche Rechte erlöschen; was bleibt
 - **Verlagsreaktion-Briefing**: Wenn Verlag doch noch ausüben will
-

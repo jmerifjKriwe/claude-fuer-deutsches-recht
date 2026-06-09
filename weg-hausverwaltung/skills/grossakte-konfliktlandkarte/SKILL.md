@@ -20,4 +20,3 @@ Anwendungsfall: eine WEG-Akte aus vielen kleinen Konflikten besteht und niemand 
 ## Leitlinie
 
 Nicht alles juristisch eskalieren. Erst sortieren, beweisen, beschlussfähig machen und kommunizieren. Anwaltliche Eskalation nur dort markieren, wo Fristen, Beschlussmängel, Zahlungsausfälle, Gewährleistung oder Unterlassung ernsthaft im Raum stehen.
-

@@ -60,4 +60,3 @@ Konkret zu prüfen:
 - § 11 GwG (Identifizierung)
 - §§ 43, 261 StGB
 - EuGH C-694/20 (Orde van Vlaamse Balies)
-

@@ -104,4 +104,3 @@ description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung v
 - **Verjährungs-Fristenplan**: Rückgabe → 6-Monats-Frist § 548 BGB
 - **Widerspruch-Vorlage**: LN gegen Minderwert- und Restwertnachforderung
 - **Abzinsungs-Tabelle**: Ausstehende Raten nach Kündigung
-

@@ -91,4 +91,3 @@ Dieser Skill führt nicht schematisch durch Fehlerklassen im BGB-AT-Training, so
 ## Ausgabe
 
 Korrekturvermerk, Randbemerkungen, Punkteindikation und verbesserte Musterpassage. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen (dejure.org, bgh.de); keine Blindzitate.
-

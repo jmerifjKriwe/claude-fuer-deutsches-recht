@@ -1,6 +1,6 @@
 ---
 name: leistungsbescheid-lesen-fuer-laien
-description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
 ---
 
 # Leistungsbescheid lesen für Laien
@@ -88,4 +88,3 @@ Viele Versicherte verstehen Bescheide ihrer Krankenkasse nicht. Dieser Skill erk
 - [§ 84 SGG – Widerspruchsfrist](https://www.gesetze-im-internet.de/sgg/__84.html)
 - [Unabhängige Patientenberatung Deutschland (UPD)](https://www.patientenberatung.de)
 - [dejure.org § 35 SGB X](https://dejure.org/gesetze/SGB_X/35.html)
-

@@ -63,4 +63,3 @@ Die Wiedergutmachung von NS-Unrecht war ein komplexes Feld der Nachkriegsgesetzg
 - Luxemburger Abkommen: BGBl. II 1953, 35
 - EVZ-Gesetz 2000: BGBl. I 2000, 1281
 - BGH: bgh.de für Entschaedigungsrechtsprechung
-

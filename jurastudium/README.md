@@ -205,7 +205,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `studium-erstpruefung-und-mandatsziel` | Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium. |
 | `subsumtionslehre` | Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem... |
 | `subsumtionslehre-risikoampel-und-gegenargumente` | Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien im Jurastudium. |
-| `tatbestaende-lernen` | Tatbestaende Lernen im Jurastudium im Jurastudium. |
+| `tatbestaende-lernen` | Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen: Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfa... |
 | `tradition-zivilrecht-subsumtionslehre` | Tradition: Dokumentenmatrix, Lückenliste und Nachforderung im Jurastudium. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Jurastudium (Klausur, AG, Examen): trennt fehlende Tatsachen von fehlenden Belegen (Klausuren, Hausarbeiten, Karteikarten), nennt pro Lücke Beweisthema, Beschaffungsweg (Universität), Frist und Ersatznac... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Jurastudium. |
