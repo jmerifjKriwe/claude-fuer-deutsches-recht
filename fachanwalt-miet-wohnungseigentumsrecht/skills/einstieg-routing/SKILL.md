@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht: Sof
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **Eigenbedarfskündigung § 573 II Nr. 2 BGB; Vortäuschung** — BGH VIII. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Sozialklausel § 574 BGB; Härtefall-Abwägung** — BGH VIII. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Mietpreisbremse §§ 556d ff. BGB; Rüge und Auskunft** — BGH VIII. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **WEG-Beschlussanfechtung § 44 WEG (n. F.); Fristen** — BGH V. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

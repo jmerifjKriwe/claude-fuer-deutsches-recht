@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Versicherungsrecht: Sofort-Triage als
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **BU-Anerkenntnis / Nachprüfung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Anzeigepflicht § 19 VVG; Arglistanfechtung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Obliegenheitsverletzung § 28 VVG; Belehrungserfordernis Abs. 4** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **D&O; Versicherungsfall (Claims-made)** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

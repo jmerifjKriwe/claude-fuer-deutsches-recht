@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht: Sofor
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **Verwerterpflichten; höchstmögliche Erlöserzielung** — BGH IX. Zivilsenat (Linie IX ZR 169/04 v. 13.04.2006, fortgeführt) — *live verifizieren auf* `bundesgerichtshof.de`
+- **Vorsatzanfechtung § 133 InsO; Bargeschäfts-Ausnahme** — BGH IX. Zivilsenat (Linienwandel ab 2021) — *live verifizieren auf* `bundesgerichtshof.de`
+- **Insolvenzantragspflicht § 15a InsO; § 15b InsO Zahlungsverbot** — BGH II./IX. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Geschäftsveräußerung im Ganzen § 1 Ia UStG** — EuGH C-497/01 (Zita Modes); EuGH C-444/10 (Schriever); BFH — *live verifizieren auf* `curia.europa.eu + bfh.bund.de`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

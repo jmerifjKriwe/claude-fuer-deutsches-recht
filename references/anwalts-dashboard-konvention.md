@@ -50,7 +50,11 @@ Maximal sechs tragende Normen mit kurzer Funktionsangabe. Beispiel: `§ 4 KSchG 
 
 Wenn die Akte 80 % der Triage trägt: keine Rückfrage, stattdessen sofort ein erster Entwurf mit klar gesetzten `[noch zu klären: …]`-Platzhaltern. Wenn doch eine Frage nötig ist: **eine** Frage, die die nächste Weiche tatsächlich umstellt. Keine Liste von zehn Punkten.
 
-### Block 6 — Driver-Seat-Reminder
+### Block 6 — Leitentscheidungs-Anker (Such-Wegweiser, kein Zitat)
+
+Maximal 3-4 Themen-Anker aus `references/leitentscheidungen-anker.md`. Format pro Zeile: *Thema/Linie — wahrscheinlicher Spruchkörper — freie Quelle*. **Keine vollständigen Aktenzeichen behaupten**, sondern auf live-zu-verifizierende Quellen verweisen (BVerfG/BGH/BAG/BSG/BFH/BVerwG/EuGH-Homepage, dejure.org, openjur.de, curia.europa.eu). Damit hat der Anwalt die Rspr-Linien sofort sichtbar, ohne dass das Dashboard ein Halluzinationsrisiko schafft.
+
+### Block 7 — Driver-Seat-Reminder
 
 Genau ein Satz, am Ende des Dashboards: *„Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte."*
 
@@ -104,12 +108,13 @@ Diese Triage ist Vorbereitung, nicht Entscheidung. Sie führen das Mandat; der S
 
 ## Self-Test vor Freigabe
 
-Bevor ein Einstiegs-Skill ausgeliefert wird, wird gegen diese fünf Fragen geprüft:
+Bevor ein Einstiegs-Skill ausgeliefert wird, wird gegen diese sechs Fragen geprüft:
 
 1. Sieht der Anwalt in den ersten 15 Zeilen die Triage-Tabelle?
 2. Steht die Risiko-Ampel auf einer Seite mit der Triage?
-3. Ist mindestens ein Anschluss-Skill konkret mit Slug benannt?
+3. Ist mindestens ein Anschluss-Skill konkret mit Slug benannt — und existiert dieser Slug real im Plugin-Verzeichnis?
 4. Wird höchstens **eine** Rückfrage gestellt?
-5. Steht der Driver-Seat-Hinweis sichtbar am Ende?
+5. Sind 3-4 Leitentscheidungs-Anker mit *Thema, Spruchkörper, freier Quelle* (ohne erfundene Aktenzeichen) gesetzt?
+6. Steht der Driver-Seat-Hinweis sichtbar am Ende?
 
 Wenn ein Punkt fehlt, ist der Skill nicht freigegeben.

@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Medizinrecht: Sofort-Triage als Tabel
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **Aufklärungspflicht § 630e BGB; Beweislast § 630h II BGB** — BGH VI. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Grober Behandlungsfehler; Beweislastumkehr § 630h V BGB** — BGH VI. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Dokumentationspflicht § 630f BGB; Folgen Lücken** — BGH VI. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Recht auf selbstbestimmtes Sterben** — BVerfG 2. Senat (Urteil v. 26.02.2020, 2 BvR 2347/15) — *live verifizieren auf* `bundesverfassungsgericht.de`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

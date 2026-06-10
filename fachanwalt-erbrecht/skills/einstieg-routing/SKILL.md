@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Erbrecht: Sofort-Triage als Tabelle (
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **Pflichtteilsergänzung § 2325 BGB; 10-Jahres-Abschmelzung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Pflichtteilsstrafklausel (Berliner Testament); Auslegung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Erbschaftsteuer; Verschonungsregelungen** — BVerfG 1. Senat (Urteil v. 17.12.2014, 1 BvL 21/12) — *live verifizieren auf* `bundesverfassungsgericht.de`
+- **Digitaler Nachlass (Facebook-Konto)** — BGH III. Zivilsenat (Urteil v. 12.07.2018, III ZR 183/17) — *live verifizieren auf* `bundesgerichtshof.de`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

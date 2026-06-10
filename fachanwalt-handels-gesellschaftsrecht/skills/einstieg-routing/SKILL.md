@@ -50,6 +50,15 @@ description: "Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht: Sofo
 
 Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
 
+## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+
+- **GmbH-Geschäftsführerhaftung § 43 GmbHG; Business Judgement Rule** — BGH II. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Hauptversammlungsbeschluss-Anfechtung § 243 AktG; 1-Monats-Frist § 246 AktG** — BGH II. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Handelsvertreterausgleich § 89b HGB; Berechnung** — BGH VII./VIII. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
+- **Grenzüberschreitender Formwechsel** — EuGH C-106/16 (Polbud, 25.10.2017) — *live verifizieren auf* `curia.europa.eu`
+
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+
 ## Hinweis
 
 Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.
