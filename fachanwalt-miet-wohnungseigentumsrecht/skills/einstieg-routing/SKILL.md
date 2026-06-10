@@ -1,42 +1,55 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Miet- und Wohnungseigentumsrecht: ordnet Rolle (Mieter, Vermieter, WEG-Eigentümer), markiert Frist (§ 573c BGB Kündigung), wählt Norm (BGB §§ 535-580a, WEG, BetrKV, HeizkostenV) und Zuständigkeit (Amtsgericht Belegenheit (Miete + WEG)), leitet zum passe..."
+description: "Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
 ---
 
-# Einstieg und Routing
+# Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht
 
-## Einsatzlage
+> Kündigung, Mieterhöhung, Betriebskosten, Mietminderung, WEG-Beschlussanfechtung — Vertragstyp und Zeitpunkt bestimmen die Schiene.
+>
+> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
-Dieser Einstieg routet **Fachanwalt Miet Wohnungseigentumsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## Sofort-Triage
 
-## Fachlandkarte dieses Plugins
+| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+| --- | --- | --- |
+| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
+| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
+| Eilfrist | **§ 45 WEG / § 46 WEG: 1 Monat** Beschlussanfechtungsklage. § 558b BGB: Zustimmungsverlangen Mieterhöhung 2 Monate. § 559 BGB: Modernisierungs-Ankündigung 3 Monate vor Beginn. § 574 BGB: Sozialklausel-Widerspruch 2 Monate vor Beendigung. § 573 III BGB: Schriftform Kündigung. | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Räumung §§ 546, 985 BGB · Zahlungsklage (Miete, Betriebskosten) §§ 535 II, 556 BGB · Mietminderung § 536 BGB · Mängelbeseitigung § 535 I 2 BGB · WEG-Anfechtung § 44 ff. WEG · Hausgeld §§ 16 II, 28 WEG. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | Mietsachen: AG am belegenen Ort, ausschließlich (§ 23 Nr. 2a GVG, § 29a ZPO). WEG-Streitigkeiten: AG am belegenen Ort (§ 43 WEG). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
-- `einstieg-schnelltriage-fallrouting` — Abschlusskontrolle WEG Anschluss Router
-- `antennen-satellitenschuessel` — Antennen Satellitenschuessel Aufrechnung
-- `workflow-bauliche-veraenderung-routing` — Bauliche Veraenderung Betriebskosten
-- `baurecht-schnittstelle-miete` — Baurecht Schnittstelle Belegeinsicht
-- `beschlussanfechtung-spezial-fristen` — Beschlussanfechtung Abrechnungsfrist
-- `betriebskostenverordnung-anlage-3` — Betriebskostenverordnung Anlage 3
-- `betrkv-mehrparteien-konflikt-und-interessen` — Betrkv Interessen BGB Co2kostenaufteilung
-- `workflow-dokumentenstapel-sortieren` — Dokumentenstapel Sortieren First Year
-- `eigenbedarf-personenkreis` — Eigenbedarf Personenkreis Energieausweis
-- `steuer-schnittstelle-vermietung` — Fachanwalt Steuer Schnittstelle Erstgespraech
-- `gartenpflege-baumfaellung` — Gartenpflege Baumfaellung Gewerberaum
-- `workflow-geg-waermepumpe-routing` — GEG Waermepumpe Gerichtstermin Vorbereitung
-- `gewerberaum-umsatzmiete` — Gewerberaum Umsatzmiete Gewerberaummiete
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+## Risiko-Ampel
 
-## Arbeitsweg
+- **Frist:** 🔴 WEG-Anfechtung: 1 Monat ab Beschlussfassung, NICHT ab Protokoll. 🟠 Mieterhöhung Zustimmungsklage § 558b II BGB. 🟠 Räumungsklage nach Kündigung — Widerspruchsfrist § 574b BGB.
+- **Beweislage:** 🟠 Zugang der Kündigung: § 130 BGB beim Empfänger. 🔴 Mietminderung: Mangelanzeige § 536c BGB lückenlos, sonst Schadensersatzpflicht.
+- **Wirtschaftlich:** 🔴 Räumung: Vollstreckungsschutz § 765a ZPO (Härtefall). 🟠 Betriebskostennachforderung > 1.000 €: Belegeinsicht und materielle Prüfung.
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fachanwalt Miet Wohnungseigentumsrecht sind GEG, WEG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## Anschluss-Skills (Router)
 
-## Qualitätsanker
+| Wenn der Fall trägt … | dann Skill | Erwartung |
+| --- | --- | --- |
+| **Eigenbedarfskündigung erhalten** | `kuendigung-eigenbedarf-bgb-viii-zr-21-19` | Substantiierung Bedarf, Härtefall § 574 BGB, Sozialklausel |
+| Mietminderung wegen Mangel | `mietminderung-paragraf-536-bgb` | Quote, Anzeigeobliegenheit § 536c BGB, Zurückbehaltungsrecht |
+| Betriebskostenabrechnung prüfen | `miet-betriebskostenabrechnung-checkliste` | Formelle und materielle Prüfung, Abrechnungsfrist § 556 III BGB |
+| Mietpreisbremse / Rüge | `mietpreisbremse-paragraf-556d-bgb-bgh-viii-zr-25-22` | Rüge, Auskunft Vormiete, Rückforderung |
+| WEG-Beschlussanfechtung | `beschlussanfechtung-spezial-fristen` | 1-Monatsfrist § 45 WEG, Begründung 2 Monate, Form |
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Radar (live verifizieren)
+
+- **§ 573 BGB** — ordentliche Kündigung Wohnraum; berechtigtes Interesse
+- **§ 574 BGB** — Sozialklausel / Härtefall-Widerspruch
+- **§ 536 BGB** — Mietminderung wegen Mangel
+- **§ 556 BGB** — Betriebskosten; Abrechnungsfrist III
+- **§ 558 BGB** — Mieterhöhung bis ortsübliche Vergleichsmiete
+- **§ 45 WEG** — Anfechtungsklage 1-Monatsfrist
+
+## Genau eine Rückfrage (nur wenn nötig)
+
+> Geht es um **Wohnraummiete · Gewerbemiete · WEG-Beschluss** — und steht eine **Beendigung** (Kündigung, Räumung) oder eine **Zahlungs-/Mängel-Frage** im Vordergrund?
+
+Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+
+## Hinweis
+
+Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

@@ -641,6 +641,10 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
     if not flow:
         flow.append(Paragraph("Dateiablage: Original-PDFs folgen.", s_meta))
 
+    # Trailing PageBreak entfernen, damit am Ende keine Leerseite entsteht.
+    while flow and isinstance(flow[-1], PageBreak):
+        flow.pop()
+
     hf = header_footer_factory(testakte_dir.name)
     try:
         doc.build(flow, onFirstPage=no_header_footer, onLaterPages=hf)

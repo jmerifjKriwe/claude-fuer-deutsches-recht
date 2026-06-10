@@ -1,42 +1,55 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Handels- und Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Vorstand/Geschäftsführung, Aufsichtsrat), markiert Frist (§ 246 AktG Anfechtung 1 Monat), wählt Norm (HGB, GmbHG, AktG, BGB §§ 705 ff., UmwG) und Zuständigkeit (Handelsregister), l..."
+description: "Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
 ---
 
-# Einstieg und Routing
+# Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht
 
-## Einsatzlage
+> Gesellschafterstreit, Geschäftsführerhaftung, Anfechtungsklage, M&A, Handelsvertreterausgleich — Beteiligungsverhältnisse und Beschlüsse zuerst klären.
+>
+> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
-Dieser Einstieg routet **Fachanwalt Handels Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## Sofort-Triage
 
-## Fachlandkarte dieses Plugins
+| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+| --- | --- | --- |
+| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
+| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
+| Eilfrist | **§ 246 AktG: 1 Monat** Anfechtungsklage Hauptversammlungsbeschluss. § 256 AktG (Nichtigkeitsklage). GmbH-Beschlüsse: analog 1 Monat (h. M., kein gesetzlicher Frist, vertragliche Regelungen prüfen). § 89b HGB: Ausgleichsanspruch Handelsvertreter 1 Jahr nach Ende. § 161 II AktG: Erklärung Corporate Governance jährlich. | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Anfechtung Beschluss § 243 AktG · Nichtigkeit § 241 AktG · GF-Haftung §§ 43 GmbHG, 93 AktG · Treuepflicht (st. Rspr.) · Wettbewerbsverbot § 88 AktG · Auskunft § 51a GmbHG · Handelsvertreterausgleich § 89b HGB · Einsicht Kommanditist § 166 HGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | LG Kammer für Handelssachen (§§ 95, 96 GVG) — auf Antrag (§ 98 GVG). Schiedsklauseln verbreitet → vorab Schiedsvereinbarung prüfen (§ 1029 ZPO). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
-- `ag-vorstandsvertrag-vorbereiten` — AG Vorstandsvertrag HGR
-- `aktionaersklage-anfechtung-paragraf-243-aktg` — Aktionaersklage Anfechtung Paragraf 243 AKTG
-- `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20` — Anfechtungsklage BGB Gesellschaft BGH II ZR 66 20
-- `einstieg-schnelltriage-fallrouting` — FA Handels Gesellschaft Start Chronologie Fristen
-- `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gesellschafterstreit
-- `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` — Geschaeftsfuehrerhaftung Holding
-- `gesellschafterstreit` — Gesellschaftsrecht Gesellschafterstreit Eilrechtsschutz
-- `gesellschaftervertrag-abschlussprodukt-und-uebergabe` — Gesellschaftsrecht Gesellschaftervertrag Klauseln
-- `gmbh-beirat-vetorechte-und-organnaehe` — Gmbh Beirat Vergleichsverhandlung Strategie
-- `gmbh-gf-haftung-paragraf-43-gmbhg` — Gmbh GF Haftung Paragraf 43 GMBHG
-- `gmbhg-schriftsatz-brief-und-memo-bausteine` — GMBHG Handels Handelsvertreterausgleich
-- `workflow-mandantenkommunikation` — Handels Gesellschaftsrecht Mandantenkommunikation Redteam
-- `hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21` — HGB Einsichtsrecht Kommanditist Paragraf 166 HGB BGH II ZR 31 21
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+## Risiko-Ampel
 
-## Arbeitsweg
+- **Frist:** 🔴 Anfechtungsklage Hauptversammlungsbeschluss § 246 AktG (1 Monat ab Beschlussfassung). 🟠 Ausgleichsanspruch HV § 89b III HGB Geltendmachung 1 Jahr nach Vertragsbeendigung.
+- **Beweislage:** 🟠 Beschlussfassung: Protokoll, Versammlungsleitung, Beschlussverfahren. 🔴 GF-Haftung: Geschäftsvorfall, Vorteilsabsicht, Kausalität — Buchhaltung sichern.
+- **Wirtschaftlich:** 🔴 Insolvenzantragspflicht § 15a InsO (3 Wochen ab Eintritt Zahlungsunfähigkeit) — parallel zur Geschäftsführerhaftung mitdenken. 🟠 M&A: Due-Diligence-Findings als Verhandlungsmasse.
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fachanwalt Handels Gesellschaftsrecht sind AktG, GmbHG, HGB, MoPeG, PartGG, UmwG, § 14i, § 89b HGB. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## Anschluss-Skills (Router)
 
-## Qualitätsanker
+| Wenn der Fall trägt … | dann Skill | Erwartung |
+| --- | --- | --- |
+| **Geschäftsführerhaftung im Raum** | `gmbh-gf-haftung-paragraf-43-gmbhg` | Pflichtverstoß, Schaden, Verschulden, Entlastung § 46 Nr. 5 GmbHG |
+| Hauptversammlungsbeschluss anfechten | `aktionaersklage-anfechtung-paragraf-243-aktg` | 1-Monatsfrist § 246 AktG, Anfechtungsbefugnis |
+| Gesellschafterstreit GmbH | `gesellschafterstreit` | Ausschluss, Einziehung, Treuepflichtklage |
+| Handelsvertreterausgleich § 89b HGB | `handelsvertreterausgleich` | Voraussetzungen, Berechnung, Geltendmachungs-Frist |
+| M&A Due-Diligence Befunde | `ma-due-diligence-findings` | Risikoclustering, SPA-Anpassungen, Earn-out-/MAC-Klauseln |
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Radar (live verifizieren)
+
+- **§ 243 AktG** — Anfechtbarkeit Hauptversammlungsbeschluss
+- **§ 246 AktG** — 1-Monatsfrist Anfechtungsklage
+- **§ 43 GmbHG** — Geschäftsführerhaftung
+- **§ 51a GmbHG** — Auskunftsrecht des GmbH-Gesellschafters
+- **§ 89b HGB** — Handelsvertreterausgleich
+- **§ 15a InsO** — Insolvenzantragspflicht
+
+## Genau eine Rückfrage (nur wenn nötig)
+
+> Steht ein **Beschluss zur Anfechtung** im Raum, **Haftung eines Organs** oder ein **Vertragsstreit** (Handelsvertreter, M&A) im Vordergrund?
+
+Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+
+## Hinweis
+
+Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

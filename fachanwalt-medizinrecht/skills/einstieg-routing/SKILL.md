@@ -1,42 +1,55 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Medizinrecht: ordnet Rolle (Patient, Arzt/Krankenhaus, Krankenkasse), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO, MBO-Ä) und Zuständigkeit (LG (Arzthaftung)), leitet zum passenden..."
+description: "Anwalts-Dashboard Fachanwalt Medizinrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
 ---
 
-# Einstieg und Routing
+# Anwalts-Dashboard Fachanwalt Medizinrecht
 
-## Einsatzlage
+> Behandlungsfehler, Aufklärungsmangel, Approbation, MVZ, Apothekenrecht — drei Welten: Haftung, Berufsrecht, Vergütung.
+>
+> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
-Dieser Einstieg routet **Fachanwalt Medizinrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## Sofort-Triage
 
-## Fachlandkarte dieses Plugins
+| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+| --- | --- | --- |
+| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
+| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
+| Eilfrist | Keine klassische 2-Wochen-Frist im Patientenrecht, aber: § 199 BGB Verjährung 3 Jahre ab Kenntnis (regelmäßig). § 41 BÄO i. V. m. VwGO: 1 Monat Widerspruch gegen Approbationsbescheid. § 80 V VwGO: Eilantrag bei Ruhensanordnung. § 287 ZPO/§ 287a ZPO Beweismaßerleichterung Patientenseite. | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Behandlungsvertrag § 630a BGB · Aufklärung § 630e BGB · Dokumentation § 630f BGB · Beweisrechtsumkehr § 630h BGB · Schmerzensgeld § 253 II BGB · Schadensersatz §§ 280, 823 BGB · Approbation §§ 3, 5 BÄO · Verträge mit Krankenkassen § 75 SGB V. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | Zivilklage Patient ↔ Arzt: LG (regelmäßig Spezialkammer Arzthaftung). Berufsrechtliche Sache: VG / OVG (§ 40 VwGO). Schlichtungsstelle Ärztekammer fakultativ. | Gesetz, Vertrag, Gerichtsstandsklausel |
 
-- `aerzte-quellenkarte` — Aerzte Quellenkarte
-- `aerztewerbung-innovative-therapie` — Aerztewerbung Innovative Amnog Millionen
-- `anaesthesie-hochrisiko-aufklaerung` — Anaesthesie Hochrisiko Approbation Digitales
-- `apothekenrecht-arzneimittel-paragraf-78-amg` — Apothekenrecht Arzneimittel Paragraf 78 AMG
-- `apothekenrecht-mehrparteien-konflikt-und-interessen` — Apothekenrecht Interessen Aufklaerung
-- `arzthaftung-aufklaerung-bgb` — Arzthaftung Aufklaerung BGB
-- `atmp-chain-of-identity` — Atmp Chain Classification
-- `atmp-pharmakovigilanz-rmp` — Atmp Pharmakovigilanz Aufklaerungsfehler
-- `aufklaerungsfehler` — Aufklaerungsfehler Behandlungsfehler
-- `aufklaerungspflicht-paragraf-630e-bgb` — Aufklaerungspflicht Paragraf 630e BGB
-- `behandlungsfehler-paragraf-630h-bgb` — Behandlungsfehler Paragraf 630h BGB
-- `berufsrecht-verhandlung-vergleich-und-eskalation` — Berufsrecht BGB Einwilligung Sonderfall
-- `beweislast-hightech-medizin` — Beweislast Hightech Biobank Consent
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+## Risiko-Ampel
 
-## Arbeitsweg
+- **Frist:** 🟠 Verjährung Patientenanspruch tickt ab Kenntnis (§ 199 BGB) — Schweigen der Klinik schiebt die Frist NICHT hinaus. 🔴 Approbationswiderruf: 1 Monat Widerspruch + Aufschiebenhebungsantrag § 80 V VwGO.
+- **Beweislage:** 🔴 Dokumentationslücke § 630h III BGB: Beweisrechtsumkehr zugunsten Patient. 🟠 Aufklärungsbeweis trägt der Arzt (§ 630h II BGB) — Aufklärungsbogen lückenlos prüfen.
+- **Wirtschaftlich:** 🔴 Approbationsentzug = Berufsende — Eilrechtsschutz und parallel Strafverteidigung (z. B. § 95 BtMG, § 263 StGB). 🟠 MVZ-Anstellung: Wettbewerbsverbot und Übergangsversorgung.
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fachanwalt Medizinrecht sind BGB, MPDG, SGB V, §§ 630a ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## Anschluss-Skills (Router)
 
-## Qualitätsanker
+| Wenn der Fall trägt … | dann Skill | Erwartung |
+| --- | --- | --- |
+| **Behandlungsfehler-Verdacht prüfen** | `behandlungsfehler-anspruch-pruefen` | Anspruchsgrundlagen § 630a/h BGB, Beweisrechtsumkehr, Sachverständige |
+| Aufklärungspflichtverletzung | `aufklaerungspflicht-paragraf-630e-bgb` | Aufklärungsumfang, Zeitpunkt, Beweislast § 630h II BGB |
+| Schlichtungsstelle prüfen | `gutachterkommission-aek-schlichtung` | Verfahrensvorteile, Hemmung der Verjährung § 204 I Nr. 4 BGB |
+| Approbationsbescheid angreifen | `approbations-widerspruch` | Widerspruch 1 Monat, Aufschubantrag § 80 V VwGO, Berufseingriffsabwehr |
+| Akteneinsicht / Befundherausgabe | `befundherausgabe-epa-akte` | Anspruch § 630g BGB, ePA-Spezifika, Verweigerung Vermerkbarkeit |
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Radar (live verifizieren)
+
+- **§ 630a BGB** — Behandlungsvertrag
+- **§ 630e BGB** — Aufklärungspflicht
+- **§ 630f BGB** — Dokumentationspflicht
+- **§ 630h BGB** — Beweislast bei Behandlungsfehler
+- **§ 3 BÄO** — Approbation; Voraussetzungen und Widerruf
+- **§ 199 BGB** — Verjährungsbeginn
+
+## Genau eine Rückfrage (nur wenn nötig)
+
+> Geht es um **Patient ↔ Behandler (Haftung)**, **Arzt/MVZ ↔ Behörde (Berufsrecht)** oder um **Vergütung / Kassenzulassung**?
+
+Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+
+## Hinweis
+
+Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

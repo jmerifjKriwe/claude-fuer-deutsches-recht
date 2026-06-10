@@ -1,42 +1,55 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Insolvenz- und Sanierungsrecht: ordnet Rolle (Schuldnerunternehmen, Geschäftsführung (Haftung!), Insolvenzverwalter), markiert Frist (§ 15a InsO 3 Wochen Antragspflicht), wählt Norm (InsO, StaRUG, InsVV) und Zuständigkeit (Insolvenzgericht (AG)), leitet..."
+description: "Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
 ---
 
-# Einstieg und Routing
+# Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht
 
-## Einsatzlage
+> Antragspflicht, Eigenverwaltung, Anfechtung, Restrukturierung — die 3-Wochen-Frist § 15a InsO ist der Taktgeber.
+>
+> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
-Dieser Einstieg routet **Fachanwalt Insolvenz Sanierungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## Sofort-Triage
 
-## Fachlandkarte dieses Plugins
+| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+| --- | --- | --- |
+| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
+| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
+| Eilfrist | **§ 15a I InsO: 3 Wochen** Insolvenzantragspflicht bei Zahlungsunfähigkeit / 6 Wochen bei Überschuldung (nach SanInsKG befristet). § 270b InsO: Schutzschirmverfahren — Antrag im Vorfeld der Insolvenz. § 174 InsO: Anmeldefrist Gläubiger nach öffentlicher Bekanntmachung. | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Antragspflicht §§ 15a, 17 ff. InsO · Anfechtung §§ 129 ff. InsO · GF-Haftung § 64 GmbHG a. F. / § 15b InsO n. F. · Gläubigeranfechtung AnfG außerhalb Insolvenz · Schutzschirm § 270b InsO · Eigenverwaltung § 270 InsO · StaRUG (Stabilisierungs- und Restrukturierungsrahmen). | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | Insolvenzgericht (AG am Sitz, § 3 InsO). Restrukturierungsgericht nach StaRUG = LG (§§ 30 ff. StaRUG). Anfechtungsklage gegen Gläubiger: LG/AG nach Streitwert. | Gesetz, Vertrag, Gerichtsstandsklausel |
 
-- `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
-- `anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16` — Anfechtung Vorsatz Paragraf 133 Inso BGH IX ZR 65 16
-- `eigenverwaltung-schutzschirm-paragraf-270b-inso` — Eigenverwaltung Schutzschirm Paragraf 270b Inso
-- `eroeffnung-behoerden-gericht-und-registerweg` — Eroeffnung Fachanwalt FAO Glaeubigerantrag
-- `fa-inso-sanierung-quellen-edge-case` — FA Inso Sanierung Quellen Edge Case
-- `fa-insolvenz-schuldschein-und-lma` — FA Schuldschein
-- `glaeubigerantrag` — Glaeubigerantrag Insolvenzanfechtung
-- `insolvenz-glaeubigerverhandlung-sanierung` — Glaeubigerverhandlung Sanierung IDW S6 Krypto
-- `insanw-eigenverwaltung-schutzschirm-spezial` — Insanw Eigenverwaltung Konzerninsolvenz
-- `einstieg-schnelltriage-fallrouting` — Insanw Fortbestehensprognose
-- `insolvenz-tatbestand-beweis-und-belege` — Insolvenz Insolvenzanfechtung Insolvenzrecht
-- `insolvenzgeld-paragraf-165-sgb-iii` — Insolvenzgeld Paragraf 165 SGB III
-- `insolvenzplan-paragraf-217-inso-bgh-ix-zb-66-19` — Insolvenzplan Paragraf 217 Inso BGH IX ZB 66 19
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+## Risiko-Ampel
 
-## Arbeitsweg
+- **Frist:** 🔴 § 15a InsO: 3 Wochen ab Zahlungsunfähigkeit. Frist tickt taggenau — Kalender. 🟠 § 270b InsO: Vorbereitung vor Antrag in 4-8 Wochen.
+- **Beweislage:** 🔴 Zahlungsunfähigkeit § 17 II InsO: 3-Wochen-Liquiditätsstatus. Buchhaltungs- und Bankkontodaten sichern. 🟠 Überschuldung § 19 II InsO: Fortbestehensprognose dokumentieren.
+- **Wirtschaftlich:** 🔴 Geschäftsführerhaftung § 15b InsO (Zahlungen nach Insolvenzreife) — sofort einstellen. 🟠 Anfechtungsangriff in 4 Jahren (§ 133 InsO 10 Jahre Vorsatzanfechtung).
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fachanwalt Insolvenz Sanierungsrecht sind InsO, StaRUG, § 14, § 14 InsO, § 15a Gl, §§ 129 ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## Anschluss-Skills (Router)
 
-## Qualitätsanker
+| Wenn der Fall trägt … | dann Skill | Erwartung |
+| --- | --- | --- |
+| Fortbestehensprognose anwerfen | `insanw-fortbestehensprognose-workflow` | Liquiditätsplan 12 Monate, IDW S 11, Beweisdokument |
+| Eigenverwaltung / Schutzschirm § 270b | `insanw-eigenverwaltung-schutzschirm-spezial` | Antragsfähigkeit, Bescheinigung, Sachwalter |
+| **Antragspflicht § 15a InsO** | `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa` | 3-Wochen-Frist, GF-Haftung, Strafrecht § 15a IV InsO |
+| Anfechtungsmandat (Gläubiger / Verwalter) | `insanw-anfechtungsmandat-leitfaden` | Tatbestände §§ 129 ff. InsO, Verteidigungsstrategie |
+| Konzerninsolvenz / Gruppenkoordination | `insanw-konzerninsolvenz-koordination-spezial` | Gruppen-Gerichtsstand § 3a InsO, Koordinationsverfahren |
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Radar (live verifizieren)
+
+- **§ 15a InsO** — Insolvenzantragspflicht — 3 Wochen / 6 Wochen
+- **§ 17 InsO** — Zahlungsunfähigkeit
+- **§ 19 InsO** — Überschuldung
+- **§ 270 InsO** — Eigenverwaltung; § 270b Schutzschirm
+- **§ 133 InsO** — Vorsatzanfechtung; 10-Jahres-Zeitraum
+- **§ 15b InsO** — Zahlungsverbot nach Insolvenzreife
+
+## Genau eine Rückfrage (nur wenn nötig)
+
+> Stehen wir **vor** der Antragstellung (Beratung GF / Sanierung) oder **nach** Verfahrenseröffnung (Verwalter, Gläubiger, Anfechtung)?
+
+Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+
+## Hinweis
+
+Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.

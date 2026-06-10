@@ -1,42 +1,55 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Versicherungsrecht: ordnet Rolle (Versicherungsnehmer, Versicherer, Geschädigter), markiert Frist (§ 12 VVG Klagefrist), wählt Norm (VVG, PflVG, ZPO/Versicherungs-Streit) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Anwalts-Dashboard Fachanwalt Versicherungsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
 ---
 
-# Einstieg und Routing
+# Anwalts-Dashboard Fachanwalt Versicherungsrecht
 
-## Einsatzlage
+> Leistungsablehnung, BU, D&O, Rechtsschutz, Obliegenheiten — Bedingungen prüfen, Obliegenheit prüfen, Beweislast verteilen.
+>
+> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
-Dieser Einstieg routet **Fachanwalt Versicherungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## Sofort-Triage
 
-## Fachlandkarte dieses Plugins
+| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+| --- | --- | --- |
+| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
+| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
+| Eilfrist | **§ 12 VVG: 1 Monat** (a. F.) ist überholt; Klagefrist gibt es nicht mehr. Aber: § 195 BGB Verjährung 3 Jahre. § 28 IV VVG: Obliegenheitsverletzung — Belehrungspflicht des Versicherers. § 19 VVG: Anzeigepflicht vorvertraglich; Rücktritt 1 Monat ab Kenntnis. § 14 VVG: Fälligkeit nach Erhebung der nötigen Erhebungen. | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Versicherungsleistung aus jeweiligem Vertrag (BU, D&O, RS, Kasko, Haftpflicht, KH); §§ 1, 100, 115 VVG; § 86 VVG Regress; § 28 VVG Obliegenheitsverletzung; § 19 VVG Anzeigepflicht; § 215 VVG Gerichtsstand. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | § 215 VVG: Wohnsitz Versicherungsnehmer (zwingend für Verbraucher). Sonst §§ 12, 17 ZPO. Bei BU/PKV häufig LG (Streitwert). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
-- `berufsunfaehigkeit-paragraf-172-vvg` — Berufsunfaehigkeit Paragraf 172 VVG
-- `versr-bu-anerkennt-was-spezial` — BU Anerkennt Leistungspruefung
-- `cyber-loesegeld-sanktionsrecht` — Cyber Loesegeld Versr Deckungsanfrage
-- `versr-d-o-claims-made-ausschluesse` — D O Spezialfall Deckungsklage Leitfaden
-- `deckungsklage-mehrparteien-konflikt-und-interessen` — Deckungsklage Interessen Deckungspruefung
-- `versr-deckungsprozess-215-vvg-beweislast` — Deckungsprozess VVG Einfuehrung Themen
-- `do-deckungsabwehr` — DO Deckungsabwehr Lebensversicherung
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme
-- `einstieg-schnelltriage-fallrouting` — FA Versicherungsrecht Start Chronologie Fristen
-- `erstpruefung-und-mandatsziel` — Fachanwalt Kanzlei Krankenversicherung
-- `fehlerkatalog` — Fehlerkatalog
-- `gebaeudeversicherung-paragraf-86-vvg` — Gebaeudeversicherung Paragraf 86 VVG
-- `haftpflicht-paragraf-100-vvg` — Haftpflicht Paragraf 100 VVG
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+## Risiko-Ampel
 
-## Arbeitsweg
+- **Frist:** 🟠 Verjährung 3 Jahre ab Kenntnis (§ 199 BGB). 🔴 D&O Claims-made: Eintrittsdatum innerhalb Versicherungsperiode — Melde-Obliegenheit!
+- **Beweislage:** 🔴 Obliegenheit § 28 VVG: Belehrungserfordernis und Kausalitätsgegenbeweis. 🟠 Anzeigepflicht § 19 VVG: Vorvertragliche Fragen Wortlaut konkret abgleichen.
+- **Wirtschaftlich:** 🔴 BU-Anerkennung: Rückwirkung der Leistungspflicht bei verspäteter Anerkenntnis. 🟠 RS: Stichentscheid-/Schiedsgutachten.
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fachanwalt Versicherungsrecht sind VAG, VVG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## Anschluss-Skills (Router)
 
-## Qualitätsanker
+| Wenn der Fall trägt … | dann Skill | Erwartung |
+| --- | --- | --- |
+| **BU-Leistung verweigert** | `versr-bu-leistungspruefung-spezial` | Definition Beruf, Prognose 6 Monate, Verweisung, Anerkenntnisstrategie |
+| D&O-Anspruch / Claims-made | `versr-d-und-o-spezialfall` | Versicherungsfall-Definition, Anzeigepflicht, Verteidigungskosten |
+| Rechtsschutzdeckung verweigert | `versr-rechtsschutz-deckungsklage-spezial` | Deckungsklage § 3 ARB, Stichentscheid, vorvertraglich |
+| Obliegenheitsverletzung Vorwurf | `versr-obliegenheitsverletzung-praxis` | Belehrungserfordernis § 28 IV VVG, Kausalitätsgegenbeweis |
+| Anzeigepflicht § 19 VVG / Rücktritt | `versr-vvg-anzeigepflicht-19-arglist` | Frage-/Fragebogenklarheit, Arglist, Rücktritt 1 Monat |
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Radar (live verifizieren)
+
+- **§ 1 VVG** — Hauptleistung des Versicherers
+- **§ 19 VVG** — vorvertragliche Anzeigepflicht; Rücktritt
+- **§ 28 VVG** — Obliegenheitsverletzung; Belehrungserfordernis
+- **§ 100 VVG** — Haftpflichtversicherung: Versicherungsschutz
+- **§ 115 VVG** — Direktanspruch gegen KH-Versicherer
+- **§ 215 VVG** — Gerichtsstand am Wohnsitz VN
+
+## Genau eine Rückfrage (nur wenn nötig)
+
+> Welche **Sparte** (BU · D&O · KH/Haftpflicht · RS · Sachversicherung) — und welcher **Streitpunkt**: Deckung, Obliegenheit, Anzeigepflicht oder Höhe?
+
+Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+
+## Hinweis
+
+Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.
