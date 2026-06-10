@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 114 KB) | PDF | [`gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf`](gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 113 KB) | PDF | [`gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf`](gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

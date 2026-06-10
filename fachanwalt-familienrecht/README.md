@@ -9,13 +9,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Inhalt | Download |
 | --- | --- |
-| **Dieses Plugin** (`kindeswohlgefaehrdung-eilantrag`) | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
+| **Dieses Plugin** (`fachanwalt-familienrecht`) | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
 
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Scheidung Wagenknecht / Luetzelberg — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidung-trennungsdrama-wagenknecht-luetzelberg`) | [Gesamt-PDF lesen](../testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf) | [`testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip) |
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

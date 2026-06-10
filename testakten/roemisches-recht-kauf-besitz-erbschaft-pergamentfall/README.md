@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 114 KB) | PDF | [`gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf`](gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 113 KB) | PDF | [`gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf`](gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

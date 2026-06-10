@@ -7,14 +7,14 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 772 KB) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte ist eine Demonstrations-Testakte für das Plugin `fachanwalt-insolvenz-sanierungsrecht`. Sie bildet einen **Asset Deal aus eröffnetem Insolvenzverfahren** ab: Eine kleine Berliner Software-Bude (KI/Blockchain-Compliance) ist insolvent; eine eigens als Auffanggesellschaft gegründete Newco erwirbt die immateriellen Assets aus der Masse. Im Zentrum steht der **ausgefüllte Asset-Purchase-Agreement** in DOCX (Times New Roman) und PDF — das Vertragsformular aus der NDI-Vorlage wurde verarbeitet, mit aktuellen Vorschriften gegengeprüft und um die heiklen Bausteine Kundendaten (DSGVO) und Arbeitnehmer (§ 613a BGB) ergänzt.
+Diese Akte ist eine Demonstrations-Testakte für die Plugins `fachanwalt-insolvenz-sanierungsrecht`, `insolvenzrecht`, `insolvenzverwaltung` und thematisch auch für `corporate-kanzlei`. Sie bildet einen **Asset Deal aus eröffnetem Insolvenzverfahren** ab: Eine kleine Berliner Software-Bude (KI/Blockchain-Compliance) ist insolvent; eine eigens als Auffanggesellschaft gegründete Newco erwirbt die immateriellen Assets aus der Masse. Im Zentrum steht der **ausgefüllte Asset-Purchase-Agreement** in DOCX (Times New Roman) und PDF — das Vertragsformular aus der NDI-Vorlage wurde verarbeitet, mit aktuellen Vorschriften gegengeprüft und um die heiklen Bausteine Kundendaten (DSGVO) und Arbeitnehmer (§ 613a BGB) ergänzt.
 
 ## Sachverhalt
 
@@ -99,7 +99,7 @@ Diese Akte ist eine Demonstrations-Testakte für das Plugin `fachanwalt-insolven
 
 - **InsO** §§ 80, 159, 160, 162 (Verwertungshandlungen mit Zustimmung Gläubigerausschuss), § 161 (Schriftform Anzeigen), § 60 (Verwalterhaftung)
 - **BGB** §§ 433 ff. (Kaufvertrag), § 311b III BGB i. V. m. § 419 BGB a. F. nicht mehr einschlägig (1999 aufgehoben), § 613a BGB (Betriebsübergang), §§ 280 ff. (Haftung), § 134 BGB (Verbotsgesetz)
-- **HGB** § 25 HGB Firmenfortführung — bei Asset Deal aus Insolvenz: § 25 II HGB Haftungsausschluss in HR-Eintragung erforderlich; siehe **BGH NJW 2024, 1138** und Klarstellung zur „Sanierungs"-Klausel
+- **HGB** § 25 HGB Firmenfortführung — bei Asset Deal aus Insolvenz: § 25 II HGB Haftungsausschluss in HR-Eintragung erforderlich; BGH-Linie zur Eintragung des Haftungsausschlusses (II. Zivilsenat, live verifizieren auf bundesgerichtshof.de)
 - **UStG** § 1 Abs. 1a (Geschäftsveräußerung im Ganzen — GiG); §§ 14, 14a (Rechnung)
 - **DSGVO** Art. 6 I lit. f, Art. 14, Art. 28 i. V. m. **§ 26 BDSG** (Beschäftigtendaten) — speziell EuGH **C-732/22** (Urteil v. 26.09.2024, Bonprix) zur Datenübermittlung im Asset Deal: Rechtsgrundlage muss vorab geprüft sein
 - **MarkenG** §§ 27 ff. (Umschreibung Marken im Register); für DPMA-Marken: §§ 28, 50, 27 MarkenG i. V. m. § 31 DPMAV

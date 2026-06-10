@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-batteriespeicher-brandenburg-berlin-resilienz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
