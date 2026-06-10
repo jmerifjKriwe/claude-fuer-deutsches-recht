@@ -88,10 +88,12 @@ Diese Akte ist eine Demonstrations-Testakte für das Plugin `fachanwalt-insolven
 
 | Verzeichnis | Inhalt |
 |---|---|
-| `docx/` | Asset-Purchase-Agreement ChainCortex ↔ Voracis (Times New Roman, ausgefüllt) |
-| `pdfs/` | PDF-Fassung des Asset-Purchase-Agreement |
-| `xlsx/` | Kundendaten-B2B (juristische Personen), Kundendaten-B2C (natürliche Personen, anonymisierte Fiktion); Asset-Inventur; AN-Liste mit Übernahmestatus |
-| `eml/` | E-Mail-Wechsel IV ↔ Käuferanwälte; Gläubigerausschuss-Einberufung; DSGVO-Anschreiben an Privatkunden (Entwurf) |
+| `docx/` | Asset-Purchase-Agreement ChainCortex ↔ Voracis (Times New Roman, ausgefüllt); § 613a V BGB-Unterrichtungs-Mustertext (Times New Roman); Beschlussvorlage Gläubigerausschuss § 160 InsO (Times New Roman) |
+| `pdfs/` | Asset-Purchase-Agreement (Times Roman); Eröffnungsbeschluss AG Charlottenburg; DSGVO-Informationsschreiben Privatkunden; § 613a V-Unterrichtungsschreiben |
+| `xlsx/` | Kundendaten-B2B (12 juristische Personen), Kundendaten-B2C (8 natürliche Personen, davon 1 Widerspruch); Asset-Inventur; AN-Liste mit Übernahmestatus |
+| `csv/` | Liquiditätsplan 12 Monate; Bieter-Vergleich (4 Bieter, ausgewählter Voracis fett) |
+| `jpg/` | Transaktionsstruktur (Organigramm), Asset-Verwertungsmatrix (Verwalter-Tafel), Closing-Workshop-Whiteboard, Eingangsbestätigung beA + AG-Stempel |
+| `eml/` | DSGVO-Information an Privatkunden (Entwurf); § 613a-Unterrichtung an AN; Gläubigerausschuss-Einberufung 17.06.2026; LOI-Übersendung an Voracis |
 
 ## Relevante Normen (Stand 06/2026)
 

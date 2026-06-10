@@ -36,6 +36,8 @@ vertreten durch ihre Geschäftsführerin Frau Dr. Carlotta Hennings
 
 (4) Der Käufer ist eine speziell zum Zwecke des Erwerbs gegründete Auffanggesellschaft (Newco) im Sinne einer übertragenden Sanierung. Eine personelle oder gesellschaftsrechtliche Verflechtung zwischen Käufer und Insolvenzschuldnerin besteht nicht; insbesondere ist § 162 InsO (Erwerb durch besonders Interessierte) nicht einschlägig.
 
+(5) Die zu übertragenden Software-Lösungen werden zur Compliance mit den Geldwäsche- und Krypto-Aufsichtsregimen eingesetzt, insbesondere mit der Verordnung (EU) 2023/1114 über Märkte für Kryptowerte (**MiCAR**), der Verordnung (EU) 2024/1624 (**AMLR**) und den nationalen Umsetzungsbestimmungen des GwG. Der Käufer beabsichtigt die Fortführung in den bisherigen Anwendungsfeldern und übernimmt insoweit das laufende Produktentwicklungs- und Compliance-Management.
+
 Dies vorangeschickt, schließen die Parteien folgenden
 
 # Kaufvertrag:
@@ -65,6 +67,8 @@ Dies vorangeschickt, schließen die Parteien folgenden
 
 (6) Der Verkäufer verpflichtet sich, betreffend der für die Übertragung der Kaufgegenstände gegebenenfalls notwendigen Übertragung etwaiger öffentlicher Rechte, Genehmigungen, Erlaubnisse und Gestattungen sowie für die Übertragung der Zertifizierungen sämtliche Erklärungen gegenüber Behörden oder Dritten abzugeben und Handlungen vorzunehmen, die erforderlich oder zweckmäßig sind, um den Übergang der öffentlichen Rechte, Genehmigungen, Erlaubnisse und/oder Gestattungen oder gegebenenfalls deren Neuerteilung zu erreichen. Dies umfasst insbesondere die DPMA-Umschreibung der in Anlage 1a aufgeführten Marken nach §§ 27 ff. MarkenG.
 
+(7) **Standortzusage:** Der Käufer beabsichtigt, den fortzuführenden Geschäftsbetrieb an einem Standort in Berlin zu betreiben, und sagt eine Standortbindung für einen Zeitraum von **24 Monaten** nach dem Übernahmestichtag zu, soweit dies wirtschaftlich vertretbar bleibt. Eine vertragliche Sanktion knüpft daran nicht; die Zusage dient als Verlässlichkeitsmaßstab gegenüber der übergehenden Belegschaft und der öffentlichen Hand.
+
 ### § 3 Kaufpreis
 
 (1) Der Käufer verpflichtet sich, für die nach § 2 verkauften Kaufgegenstände an den Verkäufer einen Kaufpreis von
@@ -92,6 +96,8 @@ zu zahlen (der „Kaufpreis" genannt).
 
 (3) Zusätzlich ist der Verkäufer gemäß § 6 dieses Vertrages berechtigt, vom Vertrag zurückzutreten. Durch den Rücktritt ist das Recht des Verkäufers, Schadensersatz zu verlangen, nicht ausgeschlossen. Im Falle des Rücktritts sind weder wertsteigernde noch notwendige Aufwendungen des Käufers zu ersetzen. Für den Fall der Ausübung des Rücktrittsrechtes durch den Verkäufer wegen Verzugs trägt der Käufer sämtliche mit diesem Vertrag und seiner Durchführung verbundenen Kosten der Parteien einschließlich der entsprechenden Kosten seiner Rückabwicklung. Im Übrigen gelten die gesetzlichen Rücktrittsbestimmungen.
 
+(4) **eIDAS-Signatur:** Die Parteien können diesen Vertrag und ergänzende Erklärungen mit qualifizierter elektronischer Signatur (QES) nach Verordnung (EU) Nr. 910/2014 in der Fassung der Verordnung (EU) 2024/1183 (**eIDAS 2.0**) ausführen. Eine zusätzliche papiergebundene Schriftform ist hierfür nicht erforderlich; die Beweiswirkung richtet sich nach § 371a ZPO.
+
 ### § 5 Übertragung der verkauften Vermögensgegenstände und Gefahrübergang
 
 (1) Die Parteien sind sich darüber einig, dass das Eigentum oder das Anwartschaftsrecht bzw. die Inhaberschaft an den gemäß § 2 verkauften Kaufgegenständen mit Wirkung zum Übernahmestichtag von dem Verkäufer auf den Käufer **aufschiebend bedingt durch die Zahlung des Kaufpreises** übergehen bzw. vom Verkäufer an den Käufer abgetreten werden. Der Käufer nimmt die vorbezeichneten Abtretungen hiermit bereits an.
@@ -114,6 +120,8 @@ zu zahlen (der „Kaufpreis" genannt).
 
 (4) Im Falle des Rücktritts gemäß § 6 Abs. 2 ist durch den Rücktritt das Recht des Verkäufers, Schadensersatz zu verlangen, nicht ausgeschlossen, und es sind weder wertsteigernde noch notwendige Aufwendungen des Käufers zu ersetzen. Im Falle des Rücktritts gemäß § 6 Abs. 2 trägt der Käufer sämtliche mit diesem Vertrag und seiner Durchführung verbundenen Kosten der Parteien einschließlich der entsprechenden Kosten seiner Rückabwicklung. Im Übrigen gelten die gesetzlichen Rücktrittsbestimmungen.
 
+(5) **Vollzugsvoraussetzungen (Conditions Precedent):** Die Übertragung der Kaufgegenstände nach § 5 setzt voraus, dass (i) der Gläubigerausschuss-Beschluss nach § 160 II Nr. 1 InsO vorliegt, (ii) der Kaufpreis vollständig auf dem Treuhandkonto des Verkäufers eingegangen ist und (iii) der Käufer den wirksamen Bestand eines auf den fortzuführenden Geschäftsbetrieb bezogenen Cyber- und Vermögensschadens-Haftpflichtschutzes ab dem Übernahmestichtag nachgewiesen hat. Sind diese Voraussetzungen am 01.07.2026 noch nicht alle erfüllt, verschiebt sich der Übernahmestichtag automatisch auf den nächstfolgenden Werktag, an dem die letzte Voraussetzung eingetreten ist; nach Ablauf von 14 Kalendertagen ohne Vollzug greift Absatz 2 (Rücktrittsrecht des Verkäufers).
+
 ### § 7 Haftungsausschlüsse und Klarstellung
 
 (1) Dem Käufer ist bekannt, dass er die Kaufgegenstände aus der Insolvenzmasse eines insolventen Unternehmens erwirbt und der Verkäufer als Insolvenzverwalter der Insolvenzschuldnerin die zu übertragenden Kaufgegenstände nicht auf ihren Bestand, insbesondere (ohne jedoch hierauf beschränkt zu sein), ihrem rechtlichen Status, Freiheit von entgegenstehenden Rechten Dritter sowie ihre Funktions- und Verwendungsfähigkeit hin geprüft hat. Zur Klarstellung: Der Verkäufer bestätigt, dass er nach Rücksprache mit den Geschäftsführern der Insolvenzschuldnerin keine positive Kenntnis entgegenstehender Rechte Dritter an den Kaufgegenständen hat, mit der Maßgabe, dass dem Verkäufer die positive Kenntnis von anderen Dritten nicht zuzurechnen ist und die Möglichkeit besteht, dass sich im eröffneten Insolvenzverfahren über das Vermögen der Insolvenzschuldnerin noch weitere Drittrechte entstehen, ergeben oder sich herausstellen könnten.
@@ -131,6 +139,10 @@ zu zahlen (der „Kaufpreis" genannt).
 (7) Jede persönliche Haftung des Insolvenzverwalters aus oder im Zusammenhang mit Ansprüchen aus diesem Vertrag, den in diesem Vertrag beschriebenen Transaktionen oder Vereinbarungen in Ausführung dieses Vertrages ist, mit Ausnahme der Haftung für vorsätzliche oder grob fahrlässige Verstöße gegen insolvenzspezifische Verpflichtungen, ausdrücklich ausgeschlossen. Dies gilt insbesondere für Ansprüche gemäß § 60 InsO.
 
 (8) **Klarstellung zu § 25 HGB:** Der Käufer führt die Firma der Insolvenzschuldnerin nicht fort; § 25 Abs. 1 HGB ist daher nicht einschlägig. Vorsorglich wird ein Haftungsausschluss nach § 25 Abs. 2 HGB vereinbart und vom Verwalter zur Eintragung in das Handelsregister angemeldet.
+
+(9) **Lieferkettensorgfaltspflichtengesetz (LkSG):** Der Käufer unterliegt dem LkSG aufgrund seiner Mitarbeiterzahl von unter 1.000 nicht. Eine Übernahme oder Anrechnung etwaiger LkSG-Pflichten der Insolvenzschuldnerin findet nicht statt; entsprechende Risiken sind im Preis abschließend berücksichtigt.
+
+(10) **Verwerterpflichten:** Den Parteien ist bekannt, dass der Verkäufer als Insolvenzverwalter die in BGH IX ZR 80/15 (Urt. v. 16.03.2017) sowie BGH IX ZR 169/04 (Urt. v. 13.04.2006) niedergelegten Pflichten zur bestmöglichen Erlöserzielung zu beachten hat. Der vereinbarte Kaufpreis berücksichtigt nach Würdigung der dokumentierten Bietergleichbehandlung das höchstmögliche Verwertungsergebnis im Sinne von § 159 InsO.
 
 ### § 8 Wechselseitige Unterstützung
 
@@ -199,6 +211,8 @@ mit Kopie zur Kenntnisnahme an:
 (7) Dieser Vertrag kann in einer beliebigen Anzahl von Gegenstücken in Textform ausgeführt und übermittelt werden (über DocuSign o. ä. und/oder per Austausch von PDF-Kopien der Unterschriftenseiten per E-Mail ist ausreichend), von denen jedes Gegenstück bei Ausführung und Übermittlung ein Original darstellt; wobei diese Gegenstücke zusammen einen einzigen einheitlichen Vertrag bilden. Soweit rechtlich vorgeschrieben, verpflichtet sich jede der Parteien, auf Verlangen der anderen Partei zusätzlich schriftliche Originalausfertigungen dieses Vertrages auszuführen und zu liefern.
 
 (8) Ist oder wird eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam, so wird hierdurch die Wirksamkeit der übrigen Bestimmungen des Vertrages nicht berührt. Für diesen Fall verpflichten sich die Vertragsparteien, die unwirksame Bestimmung durch eine solche wirksame zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung möglichst nahe kommt. Gleiches gilt für den Fall, dass sich bei Durchführung dieses Vertrages eine ergänzungsbedürftige Lücke herausstellen sollte.
+
+(9) **Compliance-Standards:** Der Käufer hat ein internes Hinweisgebersystem nach dem Hinweisgeberschutzgesetz (**HinSchG**) eingerichtet und betreibt ein angemessenes Compliance-Management-System (Datenschutz, Geldwäscheprävention, IT-Sicherheit). Eine etwaige Hinweisaufnahme bezüglich vorinsolvenzlicher Sachverhalte der Schuldnerin erfolgt unter Wahrung der gesetzlichen Geheimhaltungspflichten und unter Einbeziehung des Insolvenzverwalters; dieser entscheidet nach pflichtgemäßem Ermessen über die Mitteilung an den Gläubigerausschuss und über die Geltendmachung etwaiger Ersatzansprüche der Masse gegen Dritte.
 
 ---
 
