@@ -29,7 +29,15 @@ description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Me
 
 ## Rechtsvergleich
 
-Section 36 der südafrikanischen Verfassung 1996 kodifiziert Begrenzungsfaktoren ausdrücklich und eignet sich als rechtsvergleichende Kontrastfolie; nutze `suedafrika-section-36-uebersicht`, `section-36-vs-deutsche-schranken-schranke` und `suedafrika-section-36-fallmatrix`. Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebunden.
+Fünf Vergleichsordnungen sind als Kontrastfolie aufbereitet:
+
+- **Südafrika** — Section 36 Limitation Clause mit fünf Faktoren: `suedafrika-section-36-uebersicht`, `section-36-vs-deutsche-schranken-schranke`, `suedafrika-section-36-fallmatrix`.
+- **Kanada** — Oakes-Test mit vier Prongs unter Section 1 Charter: `kanada-oakes-test-uebersicht`, `kanada-oakes-fallmatrix`.
+- **EGMR / EMRK** — necessary in a democratic society und margin of appreciation nach Art 8–11 II EMRK: `egmr-emrk-verhaeltnismaessigkeit`.
+- **EuGH / Charta** — Art 52 I GRCh mit Wesensgehalt, Digital Rights Ireland und Schrems II: `eugh-cjeu-verhaeltnismaessigkeit`.
+- **USA** — strict, intermediate und rational basis scrutiny mit Korematsu, Grutter und Adarand: `usa-tiers-of-scrutiny`.
+
+Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebunden; der Vergleich liefert nur Argumentationsmaterial.
 
 ## Methodischer Hinweis
 

@@ -1,6 +1,6 @@
 # rentenpruefer
 
-**50 Skills** · Stand `v290.0.0`
+**50 Skills** · Stand `v291.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/rentenpruefer/README.md)

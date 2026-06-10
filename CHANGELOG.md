@@ -1,3 +1,21 @@
+# v291.0.0 — Rechtsvergleicher-Erweiterung im verhaeltnismaessigkeitspruefer
+
+## Skills
+
+- **verhaeltnismaessigkeitspruefer**: fünf neue rechtsvergleichende Skills, Plugin wächst von 44 auf 49 Skills. Neue Gruppe „Rechtsvergleich (8)" deckt jetzt fünf Rechtsordnungen ab.
+  - `kanada-oakes-test-uebersicht` — R v Oakes [1986] 1 SCR 103 unter Section 1 Charter, vier Prongs (pressing and substantial objective, rational connection, minimal impairment, proportionality of effects), prescribed by law mit Sunday-Times-/Pharmaceutical-Society-Linie, Kontrolldichte-Wandel über Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Notwithstanding Clause Section 33.
+  - `kanada-oakes-fallmatrix` — Fallmatrix Oakes, Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Bedford 2013, Carter 2015 jeweils auf tragenden Prong gespiegelt; Übersetzungstabelle Oakes-Prong vs. deutsche Stufe; Section-7-Sonderkategorien (overbreadth, arbitrariness, gross disproportionality).
+  - `egmr-emrk-verhaeltnismaessigkeit` — Drei-Stufen-Test der Art 8–11 II EMRK: prescribed by law / legitimate aim / necessary in a democratic society, pressing social need, least restrictive means, fair balance; margin of appreciation eng vs. weit (Dudgeon, Von Hannover, Handyside, Sahin, S.A.S.); Rezeption im deutschen Recht über BVerfGE 111, 307 (Görgülü) und BVerfGE 128, 326 (Sicherungsverwahrung).
+  - `eugh-cjeu-verhaeltnismaessigkeit` — Art 52 I GRCh mit Wesensgehalt als eigenständiger Vorabausschluss; Leitentscheidungen Digital Rights Ireland (C-293/12), Schrems I & II (C-362/14, C-311/18), Tele2 Sverige (C-203/15), La Quadrature du Net (C-511/18), Commissioner v Dwyer (C-140/20), H K v Prokuratuur (C-746/18); Verhältnis zum allgemeinen Verhältnismäßigkeitsgrundsatz und Art 52 III GRCh.
+  - `usa-tiers-of-scrutiny` — Strict / Intermediate / Rational Basis Review mit Compelling Interest, Narrow Tailoring, Substantial Relation; Korematsu/Trump v Hawaii, Adarand, Grutter, SFFA v Harvard, Craig v Boren, VMI, Reed v Town of Gilbert, Williamson v Lee Optical, Romer/Cleburne (Rational Basis with Bite); Substantive Due Process von Lochner über Roe/Casey/Dobbs bis Obergefell, Glucksberg-Test; DeShaney-Schutzpflichtgrenze.
+- **verhaeltnismaessigkeit-einstieg** und Plugin-README: neue Sektion „Rechtsvergleich" mit allen fünf Rechtsordnungen, Skill-Zähler von 44 auf 49 angepasst.
+- plugin.json und marketplace.json Beschreibungen aktualisiert, Skill-Index regeneriert (20840 Skills, Stand v291.0.0).
+
+## Sonstiges
+
+- Validator grün; 212 Plugins, alle auf 291.0.0.
+- Live-Recherche-Disclaimer in jedem neuen Rechtsvergleicher-Skill (CanLII/Lexum, HUDOC, CURIA/EUR-Lex, supremecourt.gov/LII).
+
 # v290.0.0 — Qualitätsoffensive: Fachkerne statt Boilerplate, Testakten-Veredelung
 
 ## Skills
