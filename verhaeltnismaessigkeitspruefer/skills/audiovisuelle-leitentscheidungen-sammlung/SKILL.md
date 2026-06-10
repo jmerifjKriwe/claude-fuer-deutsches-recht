@@ -1,17 +1,17 @@
 ---
 name: audiovisuelle-leitentscheidungen-sammlung
-description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidungen des Bundesverfassungsgerichts zur Verhaeltnismaessigkeitsdogmatik. Erschliesst Urteilsverkuendungen muendliche Verhandlungen Pressekonferenzen und Hochschul-Vorlesungen als Lehrmaterial mit Aktenzeichen Fundstelle Zeitstempel un...
+description: Kuratierte Quellenkarte zu frei pruefbaren audiovisuellen und amtlichen Materialien zu Leitentscheidungen des Bundesverfassungsgerichts. Keine behaupteten Mitschnitte ohne Permalink; jede Fundstelle braucht Gericht, Datum, Aktenzeichen und stabile Quelle.
 ---
 
 # Audiovisuelle Leitentscheidungen Sammlung
 
 ## Quellenkategorien
 
-1. **Offizielle BVerfG-Mediathek** — Verkuendungstermine seit etwa 2018 zunehmend videodokumentiert (`https://www.bundesverfassungsgericht.de`).
-2. **ARD- und ZDF-Mediatheken** — Sondersendungen, Brennpunkte, Tagesthemen-Schwerpunkte.
-3. **Phoenix-Live-Uebertragungen** — muendliche Verhandlungen ungeschnitten.
-4. **Hochschul-Vorlesungsreihen** mit Open-Access-Lizenz (z.B. Hassemer, Lepsius, Volkmann, Grimm).
-5. **Pressekonferenzen** der Praesidentinnen und Praesidenten zu Jahresberichten und Grundsatzentscheidungen.
+1. **Offizielle BVerfG-Seite** — Entscheidung, Pressemitteilung, Terminhinweis, Verkuendungsvideo nur mit stabiler URL.
+2. **OEffentlich-rechtliche Mediatheken** — nur wenn der Beitrag dauerhaft auffindbar ist oder archiviert werden darf.
+3. **Phoenix/Parlamentsfernsehen/Hochschulkanal** — nur mit stabilem Permalink, Datum und institutioneller Quelle.
+4. **Open-Access-Vorlesungen** — nur mit Lizenz- oder Nutzungsstatus, der Einbettung oder Verlinkung erlaubt.
+5. **Nur Print/HTML ohne Video** — trotzdem aufnehmen, aber als "keine frei belegte audiovisuelle Quelle" kennzeichnen.
 
 ## Auswahlkriterien
 
@@ -30,40 +30,40 @@ description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidunge
 | Medium | Verkuendung, muendliche Verhandlung, Pressekonferenz, Vorlesung |
 | Quelle | Sender oder Institution mit Permalink |
 | Zeitstempel | hh:mm:ss von hh:mm:ss bis hh:mm:ss |
-| Zentrale Aussage | Wortlaut-Zitat, max. zwei Saetze |
+| Zentrale Aussage | Sinngemaesse Kernaussage; woertliche Zitate nur kurz und nur aus frei pruefbarer Quelle |
 | Stufenverortung | legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit, Schranken-Trias, Wesensgehalt, Bestimmtheit, Wesentlichkeitstheorie |
 | Folgewirkung | zwei Saetze zur dogmatischen Tragweite |
 
 ## Empfohlene Kernsammlung
 
-> **Permalink-Disziplin:** Eintraege ab 2018 sind in der BVerfG-Mediathek mit zitierfaehigem Permalink hinterlegt. Aeltere Leitentscheidungen (1958 bis ca. 2010) liegen nur als Print-Quelle, Hoerfunk-Mitschnitt in Rundfunkarchiven oder als Sekundaerquelle vor. Sie werden in der Kernsammlung weiterhin gefuehrt, aber ausdruecklich als ohne Mediathek-Permalink gekennzeichnet.
+> **Permalink-Disziplin:** Behaupte kein Video, keinen Hoerfunkmitschnitt und keine Pressekonferenz, wenn kein stabiler frei pruefbarer Link vorliegt. Aeltere Leitentscheidungen werden als amtliche Entscheidung mit BVerfGE-Fundstelle gefuehrt; audiovisuelle Materialien nur als Zusatz, nie als tragender Beleg.
 
 ### Apotheken-Urteil 1958 (BVerfGE 7, 377)
-Kein audiovisuelles Material im engeren Sinn. Hoerfunk-Verlesung der Drei-Stufen-Lehre durch den Vorsitzenden des Ersten Senats, soweit ueberliefert nur in Rundfunkarchiven. Stufe: Geeignetheit und Erforderlichkeit bei Berufsregelungen. Folge: dogmatisches Fundament fuer Art. 12 I GG. Permalink: nicht vorhanden, Verweis auf Print-Quelle BVerfGE 7, 377.
+Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56, BVerfGE 7, 377. Stufe: Berufsfreiheit, Drei-Stufen-Lehre, Erforderlichkeit und Angemessenheit bei Berufszugang.
 
 ### Lueth-Urteil 1958 (BVerfGE 7, 198)
-Hoerfunk-Mitschnitte der mittelbaren Drittwirkung, nur Rundfunkarchive. Stufe: praktische Konkordanz und Schranken-Trias bei Art. 5 I GG. Folge: objektive Wertordnung der Grundrechte. Permalink: nicht vorhanden, Verweis auf Print-Quelle BVerfGE 7, 198.
+Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 15.01.1958, 1 BvR 400/51, BVerfGE 7, 198. Stufe: Wechselwirkung, praktische Konkordanz, grundrechtsfreundliche Auslegung zivilrechtlicher Normen.
 
 ### Volkszaehlung 1983 (BVerfGE 65, 1)
-Verkuendung des Rechts auf informationelle Selbstbestimmung. Stufe: Bestimmtheit und Verhaeltnismaessigkeit von Eingriffsgesetzen. Folge: kein belangloses Datum mehr. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 65, 1.
+Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 15.12.1983, 1 BvR 209/83 u.a., BVerfGE 65, 1. Stufe: Bestimmtheit, Normklarheit, Verhaeltnismaessigkeit datenbezogener Eingriffe.
 
 ### Kruzifix-Beschluss 1995 (BVerfGE 93, 1)
-Pressekonferenz zur negativen Glaubensfreiheit. Stufe: praktische Konkordanz Art. 4 I, II GG vs. Art. 6 II GG. Folge: staatliche Neutralitaetspflicht. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 93, 1.
+Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Beschluss vom 16.05.1995, 1 BvR 1087/91, BVerfGE 93, 1. Stufe: praktische Konkordanz zwischen Glaubensfreiheit, Elternrecht und staatlichem Erziehungsauftrag.
 
 ### Luftsicherheitsgesetz 2006 (BVerfGE 115, 118)
-Verkuendung zur Menschenwuerde als absolute Grenze. Stufe: Art. 1 I GG als unueberwindbare Schranke. Folge: Abschussbefugnis unteilbar nichtig. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 115, 118.
+Keine frei belegte audiovisuelle Quelle in dieser Sammlung verwenden. Fuehre die amtliche Entscheidung: BVerfG, Urteil vom 15.02.2006, 1 BvR 357/05, BVerfGE 115, 118. Stufe: Menschenwuerde als absolute Grenze.
 
 ### Online-Durchsuchung 2008 (BVerfGE 120, 274)
-Verkuendung des Grundrechts auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme. Stufe: Schutzbereichseroeffnung und Bestimmtheit. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 120, 274.
+Keine frei belegte audiovisuelle Quelle in dieser Sammlung verwenden. Fuehre die amtliche Entscheidung: BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274. Stufe: Schutzbereich, Eingriffsschwelle, Bestimmtheit, Verfahrenssicherungen.
 
 ### Hartz-IV-Urteil 2010 (BVerfGE 125, 175)
-Verkuendung des Grundrechts auf Gewaehrleistung eines menschenwuerdigen Existenzminimums. Stufe: absolute Untergrenze und Untermassverbot. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 125, 175.
+Keine frei belegte audiovisuelle Quelle in dieser Sammlung verwenden. Fuehre die amtliche Entscheidung: BVerfG, Urteil vom 09.02.2010, 1 BvL 1/09 u.a., BVerfGE 125, 175. Stufe: menschenwuerdiges Existenzminimum, gesetzgeberische Bemessung, Transparenz.
 
 ### Klimaschutz-Beschluss 2021 (BVerfGE 157, 30)
-Pressekonferenz Stephan Harbarth zur intertemporalen Freiheitssicherung, Beschluss vom 24.03.2021, Az. 1 BvR 2656/18 u.a. Stufe: Angemessenheit mit Zukunftsdimension. Folge: Schutzpflicht aus Art. 20a GG i.V.m. Art. 2 II GG. Permalink: `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-031.html` (Pressemitteilung mit Hinweis auf audiovisuelles Material).
+Amtliche Entscheidung und Pressemitteilung nutzen: BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u.a., BVerfGE 157, 30; Pressemitteilung `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-031.html`. Stufe: Angemessenheit mit Zukunftsdimension, intertemporale Freiheitssicherung, Art. 20a GG.
 
 ### Bundesnotbremse 2021 (BVerfGE 159, 223)
-Verkuendung zum Einschaetzungs- und Beurteilungsspielraum des Gesetzgebers bei dynamischer Wissenslage, Beschluss vom 19.11.2021, Az. 1 BvR 781/21 u.a. Stufe: Geeignetheit und Kontrolldichte. Permalink: `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-101.html` (Pressemitteilung mit Hinweis auf audiovisuelles Material).
+Amtliche Entscheidung und Pressemitteilung nutzen: BVerfG, Beschluss vom 19.11.2021, 1 BvR 781/21 u.a., BVerfGE 159, 223; Pressemitteilung `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-101.html`. Stufe: Geeignetheit, Erforderlichkeit, Kontrolldichte bei dynamischer Wissenslage.
 
 ## Begleittext pro Clip
 

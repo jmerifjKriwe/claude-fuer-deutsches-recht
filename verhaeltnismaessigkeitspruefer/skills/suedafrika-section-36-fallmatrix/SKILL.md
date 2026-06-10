@@ -11,7 +11,7 @@ Ein Schriftsatz, Gutachten oder Seminarpapier soll zeigen, wie eine kodifizierte
 
 ## Vergleichsanker
 
-Section 36 der südafrikanischen Verfassung bündelt die Begrenzungsprüfung in fünf Faktoren: Bedeutung des Rechts, Bedeutung des Zwecks, Art und Ausmaß der Begrenzung, Zusammenhang zwischen Begrenzung und Zweck sowie weniger einschneidende Mittel.
+Section 36 der südafrikanischen Verfassung ordnet die Begrenzungsprüfung in fünf Faktoren: Bedeutung des Rechts, Bedeutung des Zwecks, Art und Ausmaß der Begrenzung, Zusammenhang zwischen Begrenzung und Zweck sowie weniger einschneidende Mittel.
 
 ## Übertragung in die deutsche Arbeitsweise
 

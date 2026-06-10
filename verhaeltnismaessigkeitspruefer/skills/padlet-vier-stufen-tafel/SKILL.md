@@ -5,7 +5,7 @@ description: Padlet-Tafel im Shelf-Format mit den vier Spalten Legitimer Zweck, 
 
 # Echte Padlet-Tafel anlegen, nicht nur vorschlagen
 
-> **Dieser Skill schreibt nicht nur ueber Padlet, er legt das Padlet wirklich an.** Wenn keiner der unten genannten Wege funktioniert, wird das ehrlich benannt und es wird **konkret** gefragt, welcher Weg gewaehlt werden soll. Es wird **nie** ein selbst gerendertes Shelf-Board als Ersatz fuer ein echtes Padlet ausgegeben.
+> **Arbeite auf ein echtes Padlet hin, nicht nur auf eine Beschreibung.** Wenn keiner der unten genannten Wege funktioniert, wird das ehrlich benannt und es wird **konkret** gefragt, welcher Weg gewaehlt werden soll. Es wird **nie** ein selbst gerendertes Shelf-Board als Ersatz fuer ein echtes Padlet ausgegeben.
 
 ## Pfad 1: Padlet Public API v1 (bevorzugt)
 

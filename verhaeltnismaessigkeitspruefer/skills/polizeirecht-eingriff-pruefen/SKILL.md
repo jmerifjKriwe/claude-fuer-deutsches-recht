@@ -7,6 +7,25 @@ description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnisma
 
 ## Pruefungsaufbau Polizeiverfuegung
 
+> Wenn die Massnahme eine Versammlung betrifft, zuerst `versammlungsfreiheit-brokdorf-auflagen-verbot` zuschalten. Art. 8 GG veraendert die Gewichtung: Die Behoerde muss nicht nur Gefahren abwehren, sondern die Versammlung moeglich machen, solange milde Auflagen reichen.
+
+## Normenanker
+
+- Art. 2 Abs. 2 Satz 1 GG: Schutz von Leben und koerperlicher Unversehrtheit.
+- Art. 8 GG: Versammlungsfreiheit bei Demonstrationen und Auflagen.
+- Art. 13 GG: Wohnungseingriffe bei Betreten, Durchsuchung, technischer Ueberwachung.
+- Art. 14 GG: Eigentum bei Sicherstellung, Beschlagnahme, Nutzungsuntersagung.
+- Art. 19 Abs. 4 GG: effektiver Rechtsschutz.
+- Art. 20 Abs. 3 GG: Gesetzesbindung und Verhaeltnismaessigkeit.
+- Polizeigesetz des Landes: Generalklausel, Standardmassnahme, Verantwortlichkeit, unmittelbarer Zwang.
+- § 80 Abs. 5 VwGO, § 123 VwGO: Eilrechtsschutz gegen polizeiliche Verfuegung.
+
+## Entscheidungsanker
+
+- BVerfG, Beschluss vom 14.05.1985, 1 BvR 233/81, 1 BvR 341/81, BVerfGE 69, 315 (Brokdorf): konkrete Gefahrenprognose und versammlungsfreundliche Steuerung.
+- BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): diffuse Bedrohungslage reicht fuer tiefen Streueingriff nicht.
+- BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): hohe Eingriffsschwellen und Verfahrenssicherungen bei heimlichen IT-Eingriffen.
+
 Vor der Verhaeltnismaessigkeitspruefung pruefe:
 1. **Ermaechtigungsgrundlage** (Generalklausel, Standardmassnahme).
 2. **Formelle Rechtmaessigkeit** (Zustaendigkeit, Verfahren, Form).

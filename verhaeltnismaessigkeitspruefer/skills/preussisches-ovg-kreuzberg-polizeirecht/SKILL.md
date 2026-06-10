@@ -9,7 +9,7 @@ description: "Preussisches OVG, Kreuzberg-Erkenntnis vom 14.06.1882, Rep. II B. 
 
 Der Fall fragt nicht zuerst nach einer modernen Vier-Stufen-Pruefung, sondern nach der rechtsstaatlichen Vorfrage: Darf die Verwaltung den Eingriff ueberhaupt auf eine polizeiliche Generalklausel stuetzen, oder verfolgt sie in Wahrheit einen aesthetischen, baugestalterischen, wirtschaftslenkenden oder sonst wohlfahrtspflegerischen Zweck, fuer den eine besondere gesetzliche Grundlage noetig ist?
 
-Dieser Skill eignet sich fuer polizeirechtliche, bauordnungsrechtliche und verwaltungsrechtliche Fallkonstellationen, in denen eine Behoerde eine Massnahme als Gefahrenabwehr etikettiert, obwohl der tatsaechliche Zweck weiter reicht.
+Nutze die Kreuzberg-Linie fuer polizeirechtliche, bauordnungsrechtliche und verwaltungsrechtliche Fallkonstellationen, in denen eine Behoerde eine Massnahme als Gefahrenabwehr etikettiert, obwohl der tatsaechliche Zweck weiter reicht.
 
 ## Dogmengeschichtlicher Anker
 

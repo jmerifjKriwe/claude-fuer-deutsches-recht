@@ -203,7 +203,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (106 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)
 - [verfassungsrecht](./verfassungsrecht.md) (54 Skills)
-- [verhaeltnismaessigkeitspruefer](./verhaeltnismaessigkeitspruefer.md) (61 Skills)
+- [verhaeltnismaessigkeitspruefer](./verhaeltnismaessigkeitspruefer.md) (68 Skills)
 - [verkehr-infrastrukturrecht](./verkehr-infrastrukturrecht.md) (54 Skills)
 - [verkehrsowi-verteidiger](./verkehrsowi-verteidiger.md) (54 Skills)
 - [verlagsrecht-buchpreisbindung](./verlagsrecht-buchpreisbindung.md) (51 Skills)

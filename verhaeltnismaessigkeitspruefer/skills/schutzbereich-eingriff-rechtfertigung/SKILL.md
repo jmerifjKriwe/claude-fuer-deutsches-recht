@@ -47,7 +47,7 @@ die Pruefung ab.
 
 ## Hinweis: Detailtiefe in den Vor-Trias-Skills
 
-Dieser Skill ist die kompakte Gesamtschau. Fuer die einzelnen Pruefungspunkte mit ausfuehrlicher Dogmatik, Beispielen und Pruefschemata verweisen wir auf die spezialisierten Skills:
+Diese kompakte Gesamtschau bleibt der Sammelpunkt fuer das Grundschema. Fuer die einzelnen Pruefungspunkte mit ausfuehrlicher Dogmatik, Beispielen und Pruefschemata auf die spezialisierten Skills wechseln:
 
 - `vorpruefung-schutzbereich-eroeffnet` — Schutzbereich, sachlich und persoenlich.
 - `vorpruefung-eingriff-klassisch-modern` — klassischer und moderner Eingriffsbegriff inklusive faktischer Beeintraechtigung.
