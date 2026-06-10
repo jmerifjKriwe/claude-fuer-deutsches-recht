@@ -1,9 +1,9 @@
 ---
 name: input-compliance-dokumentation
-description: "Input: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: Compliance-Dokumentation und Aktenvermerk fuer das Urteilsbauer- und Relationsverfahren. Eingaben strukturieren, Beweismittel auflisten, Risiken markieren und die Akte zur Schluessbesprechung anlegen.
 ---
 
-# Input: Compliance-Dokumentation und Aktenvermerk
+# Compliance-Dokumentation und Aktenvermerk (Urteilsbauer)
 
 ## Normenanker
 

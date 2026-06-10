@@ -1,9 +1,9 @@
 ---
 name: durch-interessen
-description: "Durch: Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dok..."
+description: Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich. Rollenliste aller Beteiligten, Zielmatrix pro Partei, Konfliktlinien aus uebliche NDA-Dauer 2 bis 5 Jahre, GeschGehG-Anspruchsverjaehrung, AGB-Kontrolle und EuGH C-435/22 zur restriktiven Auslegung.
 ---
 
-# Durch: Mehrparteienkonflikt und Interessenmatrix
+# Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich
 
 ## Normenanker
 
