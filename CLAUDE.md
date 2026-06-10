@@ -72,6 +72,12 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Nenne offene rechtliche Fragen explizit.
 - Empfehle Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang.
 
+## Git- und PR-Verhalten
+
+- Pull Requests in diesem Repo werden **nicht als Draft** erstellt, sondern direkt als „ready" und nach Push **sofort auf `main` gemerged** — es sei denn, der Nutzer fordert ausdrücklich einen Draft oder eine Review-Pause.
+- Merges erfolgen per Merge-Commit (kein Squash, kein Rebase), damit die Entwicklungs-History pro Branch erhalten bleibt.
+- Force-Push auf `main` oder gemeinsame Branches ist verboten.
+
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
 Ziel jedes Skills ist die **Produktion eines Dokuments oder Arbeitsergebnisses**, nicht ein langer Chat-Vortrag. Halte dich daran:
