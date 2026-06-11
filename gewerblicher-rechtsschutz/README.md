@@ -9,7 +9,7 @@
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`gewerblicher-rechtsschutz.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/gewerblicher-rechtsschutz.md) (177 KB)
+- **Direkt-Download**: [`gewerblicher-rechtsschutz.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/gewerblicher-rechtsschutz.md) (106 KB)
 - Im Repo: [`testakten/megaprompts/gewerblicher-rechtsschutz.md`](../testakten/megaprompts/gewerblicher-rechtsschutz.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

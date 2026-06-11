@@ -1,4 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
+# Hand-erweiterte Rubric (v305 — fachspezifische Checks).
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
@@ -26,3 +26,15 @@ checks:
     check_type: human_review
     description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
     note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+
+  - id: r-starug-erwaehnt
+    check_type: text_contains
+    description: "StaRUG genannt"
+    path: "README.md"
+    contains: "StaRUG"
+
+  - id: r-paragraf-270b-inso
+    check_type: regex_match
+    description: "Schutzschirm-Verfahren / $ 270b InsO"
+    path: "README.md"
+    pattern: "(Schutzschirm|270b)"

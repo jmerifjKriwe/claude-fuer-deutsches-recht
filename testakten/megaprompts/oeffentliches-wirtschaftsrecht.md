@@ -9,7 +9,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 100 Skills des Plugins `oeffentliches-wirtschaftsrecht`.
+Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `oeffentliches-wirtschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -23,11 +23,6 @@ Dieser Megaprompt enthaelt top-15 von 100 Skills des Plugins `oeffentliches-wirt
 8. **gebuehrenfinanzierung-pruefen** — Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirts…
 9. **public-corporate-governance** — Öffentliches Wirtschaftsrecht: Public Corporate Governance. Public Corporate Governance im Fachgebiet Öffentliches Wirts…
 10. **private-betreiberpflichten** — Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtsch…
-11. **daseinsvorsorge-und-markt** — Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaf…
-12. **rekommunalisierung-pruefen** — Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaf…
-13. **transparenz-kontrolle** — Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaf…
-14. **oeffentliches-wirtschaftspro** — Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im F…
-15. **buergschaft-und-patronat** — Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsre…
 
 ---
 
@@ -340,153 +335,6 @@ _Öffentliches Wirtschaftsrecht: Public Corporate Governance. Public Corporate G
 _Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
 
 # Private Betreiberpflichten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `daseinsvorsorge-und-markt`
-
-_Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Daseinsvorsorge Und Markt
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `rekommunalisierung-pruefen`
-
-_Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Rekommunalisierung Pruefen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `transparenz-kontrolle`
-
-_Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Transparenz Und Kontrolle
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `oeffentliches-wirtschaftspro`
-
-_Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten._
-
-# Kaltstart Oeffentliches Wirtschaftspro
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `buergschaft-und-patronat`
-
-_Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Buergschaft Und Patronat
 
 ## Arbeitsweg
 

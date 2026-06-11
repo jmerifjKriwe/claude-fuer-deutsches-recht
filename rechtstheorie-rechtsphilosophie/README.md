@@ -9,7 +9,7 @@
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`rechtstheorie-rechtsphilosophie.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/rechtstheorie-rechtsphilosophie.md) (84 KB)
+- **Direkt-Download**: [`rechtstheorie-rechtsphilosophie.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/rechtstheorie-rechtsphilosophie.md) (62 KB)
 - Im Repo: [`testakten/megaprompts/rechtstheorie-rechtsphilosophie.md`](../testakten/megaprompts/rechtstheorie-rechtsphilosophie.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

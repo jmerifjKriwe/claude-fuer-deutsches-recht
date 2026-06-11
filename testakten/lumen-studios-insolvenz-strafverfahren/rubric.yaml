@@ -1,4 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
+# Hand-erweiterte Rubric (v305 — fachspezifische Checks).
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
@@ -26,3 +26,15 @@ checks:
     check_type: human_review
     description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
     note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+
+  - id: r-insolvenzantrag-erwaehnt
+    check_type: regex_match
+    description: "Insolvenzantrag erwaehnt"
+    path: "README.md"
+    pattern: "(Insolvenzantrag|InsO)"
+
+  - id: r-strafverfahren-erwaehnt
+    check_type: regex_match
+    description: "Strafverfahren erwaehnt"
+    path: "README.md"
+    pattern: "(Strafverfahren|StGB)"

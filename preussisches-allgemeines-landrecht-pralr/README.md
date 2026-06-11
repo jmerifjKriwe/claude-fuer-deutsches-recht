@@ -9,10 +9,20 @@
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`preussisches-allgemeines-landrecht-pralr.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md) (51 KB)
+- **Direkt-Download**: [`preussisches-allgemeines-landrecht-pralr.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md) (31 KB)
 - Im Repo: [`testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md`](../testakten/megaprompts/preussisches-allgemeines-landrecht-pralr.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+### Formatvorlagen (Markdown + ODT)
+
+Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
+
+| Vorlage | Markdown | ODT |
+| --- | --- | --- |
+| Kauf Contract Ueber Ein Koenigliches Rittergutsgrundstueck Im Stil Des Alr | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/preussisches-allgemeines-landrecht-pralr/kauf-contract-ueber-ein-koenigliches-rittergutsgrundstueck-im-stil-des-alr.odt) |
+
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich pruefen und an konkreten Fall anpassen.*
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 

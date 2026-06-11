@@ -98,10 +98,14 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     if not skills:
         return None
     n_total = len(skills)
-    if n_total > 60:
-        # zu gross; nehme nur die top 15
-        skills = skills[:15]
-        coverage = f"top-15 von {n_total} Skills"
+    if n_total > 100:
+        # Mega-grosse Plugins (z.B. arbeitsrecht, gesellschaftsrecht): top-8
+        skills = skills[:8]
+        coverage = f"top-8 von {n_total} Skills (gekuerzt fuer Chat-Fenster)"
+    elif n_total > 60:
+        # Grosse Plugins (z.B. insolvenzrecht): top-10
+        skills = skills[:10]
+        coverage = f"top-10 von {n_total} Skills"
     elif n_total > 20:
         skills = skills[:15]
         coverage = f"top-15 von {n_total} Skills"

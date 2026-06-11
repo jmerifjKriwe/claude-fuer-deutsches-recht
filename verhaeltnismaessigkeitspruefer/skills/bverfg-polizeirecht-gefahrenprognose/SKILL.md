@@ -27,4 +27,49 @@ Eine Maßnahme der Polizei, Sicherheitsbehörde oder Nachrichtendienstkontrolle 
 
 ## Fehlerbremse
 
-Sicherheitsrechtliche Verhältnismäßigkeit scheitert selten am Wort „Sicherheit“, aber häufig an zu niedriger Gefahrenschwelle, zu breiter Streuung, fehlender Zweckbindung oder fehlenden Verfahrenssicherungen.
+Sicherheitsrechtliche Verhältnismäßigkeit scheitert selten am Wort „Sicherheit", aber häufig an zu niedriger Gefahrenschwelle, zu breiter Streuung, fehlender Zweckbindung oder fehlenden Verfahrenssicherungen.
+
+## Gefahrenstufen-Hierarchie (BVerfG-Linie)
+
+| Stufe | Anforderung | Eingriffsintensität zulässig |
+|---|---|---|
+| **Konkrete Gefahr** | Tatsachen + Wahrscheinlichkeit eines Schadensereignisses im konkreten Fall | hoch (z. B. Wohnungsdurchsuchung, Ingewahrsamnahme) |
+| **Hinreichend konkretisierte Gefahr** | Tatsächliche Anhaltspunkte + bestimmbarer Personenkreis | mittel-hoch (z. B. Online-Durchsuchung) |
+| **Drohende Gefahr** (Bayern-/BKA-Gesetz-Linie) | Vorfeldermittlung, aber tatsachenbasiert | mittel (verfassungsrechtlich umstritten, BVerfGE 141, 220) |
+| **Tatsächliche Anhaltspunkte** | unterhalb konkreter Gefahr | niedrig-mittel |
+| **Bloße Vorsorge** | abstrakte Gefährdungsannahme | nur sehr eingriffsschwach (z. B. Statistik, Forschung) |
+
+## Verfahrensrechtliche Sicherungen — der harte Kern
+
+Aus der BKA-Gesetz-Entscheidung (BVerfGE 141, 220) folgen sieben Sicherungen, die bei intensiven Eingriffen sämtlich zu erfüllen sind:
+
+1. **Bestimmtheit der Ermächtigungsgrundlage** — Schutzgut, Voraussetzungen, Mittel ausdrücklich.
+2. **Konkrete Gefahrenschwelle** — keine Vorratsmaßnahmen ohne Tatsachenbasis.
+3. **Richtervorbehalt** — vorab durch unabhängigen Richter, bei Gefahr im Verzug nachträglich.
+4. **Kernbereichsschutz** — Schutz höchstpersönlicher Lebensführung (BVerfGE 109, 279 — Großer Lauschangriff).
+5. **Benachrichtigungspflicht** — nach Maßnahmeabschluss, ggf. mit Aufschub.
+6. **Löschung und Zweckbindung** — Fristen, Verwendungsbeschränkungen.
+7. **Unabhängige Kontrolle** — parlamentarisch (G10-Kommission) oder durch BfDI / LfDI.
+
+## Eingriffstypen mit BVerfG-Spuren
+
+| Maßnahme | Leitentscheidung | Zentrale Anforderung |
+|---|---|---|
+| Online-Durchsuchung | BVerfGE 120, 274 (2008) | Computer-Grundrecht (Art. 2 I i. V. m. Art. 1 I GG); konkrete Gefahr; Kernbereich; Richtervorbehalt |
+| Vorratsdatenspeicherung | BVerfGE 125, 260 (2010); EuGH C-203/15 (Tele2) | Streubreite + Anlasslosigkeit problematisch; höchste Sicherungen |
+| Automatisierte Kennzeichenerfassung | BVerfGE 150, 244 (2018) | Verhältnismäßigkeit auch bei Streifenmaßnahmen |
+| Heimliche Datenerhebung BKA | BVerfGE 141, 220 (2016) | Sieben-Punkte-Sicherungs-Kanon (siehe oben) |
+| Bestandsdatenauskunft | BVerfGE 154, 152 (2020) | Verfassungskonforme Anpassung TKG, BKAG, BPolG |
+| Anti-Terror-Datei | BVerfGE 133, 277 (2013) | Bestimmtheit der Datenkategorien, Vernetzung |
+| Versammlungsbeschränkung | BVerfGE 69, 315 (Brokdorf, 1985) | Auflage vor Verbot; konkrete Gefahr nötig |
+
+## Anschluss
+
+- Ueberwachungs-Spezial: `ueberwachung-streubreite-vorratsdaten-rasterfahndung`
+- Online-Durchsuchung: `online-durchsuchung-bverfge-120-274`
+- Versammlung: `versammlungsfreiheit-brokdorf-auflagen-verbot`
+- Kreuzberg-Vorform: `preussisches-ovg-kreuzberg-polizeirecht`
+
+## Quellenhygiene
+
+Alle Az. live auf `bundesverfassungsgericht.de` und `dejure.org` verifizieren. Sicherheitsrechtliche Linien ändern sich mit jedem Gesetzgebungsschritt; die Liste oben spiegelt den Stand Mitte 2020er.

@@ -1,3 +1,54 @@
+# v305.0.0 — Welle: Spezial-Templates, VHP-Vertiefung, Megaprompt-Trim, Rubric-Feinschliff
+
+## Drei Spezial-Templates (Hommage / experimentell)
+
+- `roemisch-katholisches-kirchenrecht`: **Supplicatio de dispensatione (c. 401 § 1 CIC)** — Bittschreiben in modernem Kirchenlatein zur Verlaengerung der bischoeflichen Amtszeit ueber das 75. Lebensjahr hinaus. Real verankert (CIC c. 401 § 1; motu proprio Ingravescentem aetatem 1970; Praedicate Evangelium 2022).
+- `roemisches-recht`: **Emptio venditio de amphoris vini Graeci** — Kaufvertrag in Cicero-Stil ueber 200 Amphoren Chios-Wein, Transport Piraeus → Neapolis (Puteoli) → Ostia, mit foenus nauticum als Seeversicherungs-Analog. Klassische Bausteine (D. 18, D. 21, D. 22) + Disclaimer "anachronistisch, kein historisches Dokument".
+- `preussisches-allgemeines-landrecht-pralr`: **Kauf-Contract ueber Rittergutsgrundstueck nach PrALR 1794** in Kanzleistil des 18. Jh. (I. Theil, 9. Titel + 11. Titel) — mit Auflassung, Sportel-Klausel, Justiz-Commissarius. Disclaimer "Hommage, kein reales Geschaeft".
+
+## Verhaeltnismaessigkeitspruefer — Vertiefung
+
+- `schwangerschaftsabbruch-bverfge-39-1` von 25 auf >80 Zeilen ausgebaut: drei BVerfG-Leitentscheidungen mit tragender Aussage, dogmatische Schichten (Subjektivierung der Schutzpflicht, Symmetrie zur Uebermassprueffung), 6 Anwendungsfaelle (Klima, Gewalt gegen Frauen, Kindeswohl, Cybersecurity).
+- `bverfg-polizeirecht-gefahrenprognose` von 30 auf >80 Zeilen: 5-Stufen-Gefahrenhierarchie, 7-Punkte-Sicherungs-Kanon aus BVerfGE 141, 220, sieben Eingriffstypen mit Leitentscheidungen.
+
+## Megaprompt-Optimierung
+
+- `scripts/generate-megaprompt.py`: top-8 bei Plugins > 100 Skills, top-10 bei > 60 Skills, top-15 bei > 20.
+- Alle 209 Megaprompts neu erzeugt; groesste Datei jetzt 187 KB (vorher 276 KB) — Chat-Fenster-tauglich.
+
+## Mehr Formatvorlagen (22 Plugins, +11 ggu. v302)
+
+Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
+- `notarrecht`: Grundstueckskaufvertrag mit Auflassung $ 925 BGB
+- `agb-recht-pruefer`: AGB-Pruefraster nach $$ 305-310 BGB
+- `datenschutzrecht`: DSFA nach Art. 35 DSGVO
+- `mietrecht`: Eigenbedarfskuendigung $ 573 BGB
+- `bauplanungsrecht`: Normenkontrollantrag $ 47 VwGO
+- `steuerrecht-anwalt-und-berater`: Einspruch Steuerbescheid $ 347 AO
+- `fachanwalt-sozialrecht`: Widerspruch Sozialleistungsbescheid $ 84 SGG
+- `verfassungsrecht`: Verfassungsbeschwerde-Skelett $ 90 BVerfGG
+- 3 Spezial-Templates (Kirchenrecht, Rom. Recht, ALR — siehe oben)
+
+## Rubric-Feinschliff
+
+- 6 Baseline-Rubrics um fachspezifische Pass/Fail-Checks erweitert (AML/KYC-Sandhof, LUMEN-Studios, Sanierungsgewinn-Grossbach, BaFin-Thalvenia, Bebauungsplan-Augsburg, StaRUG-Schutzschirm).
+- Eval-Run: 204/204 All-Pass nach Erweiterung.
+
+## Plugin-READMEs
+
+- 209 Plugin-READMEs aktualisiert (idempotent durch HTML-Marker); 22 mit Formatvorlagen-Link.
+
+## Versions-Bump
+
+- 213 plugin.json + marketplace.json + README + ASSET_INDEX + CHANGELOG auf v305.0.0.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs` OK
+- `run-eval.py` 204/204 All-Pass
+
+---
+
 # v302.0.0 — Megaprompts und Formatvorlagen-Paradebeispiele
 
 ## Megaprompts (209 Plugins)

@@ -2,7 +2,6 @@
 
 Baukastensystem fuer IP-Lizenzvertraege nach deutschem und internationalem Recht. Pro Rolle, IP-Typ und Klauselbaustein ein Skill — die Skills greifen ineinander, vom Mandats-Intake bis zum unterschriftsreifen Vertrag in DE, EN oder bilingual.
 
-
 <!-- BEGIN megaprompt-und-vorlagen (autogen) -->
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
