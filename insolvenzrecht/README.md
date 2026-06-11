@@ -30,6 +30,19 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, COVInsAG-Nachwirkungen). Zielgruppe: Insolvenzverwalter, beratende Rechtsanwälte (Insolvenz-/Sanierungsrecht), Geschäftsführer, Vorstände, Sanierungsberater, Wirtschaftsprüfer (IDW-S-11-/S-6-/S-9-Praxis).
 
 
+## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
+
+Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH (vom Anwalts-Dashboard genutzte Testakte) steht als sofort einsetzbares Template zum Direkt-Download:
+
+| Format | Direkt-Download |
+| --- | --- |
+| **Word (DOCX, Times New Roman, 12 pt)** | [`asset-purchase-agreement-chaincortex-voracis.docx`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
+| **PDF (Times Roman, A4)** | [`asset-purchase-agreement-chaincortex-voracis.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
+
+Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).
+
 ## Enthaltene Skills
 
 | Skill | Zweck |
